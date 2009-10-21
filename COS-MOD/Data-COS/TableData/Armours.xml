@@ -1,0 +1,1472 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ARMOURLIST>
+	<ARMOUR>
+		<uiIndex>0</uiIndex> <!-- Flak Jacket -->
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>20</ubProtection>
+		<ubCoverage>75</ubCoverage>
+		<ubDegradePercent>25</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>1</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>22</ubProtection>
+		<ubCoverage>75</ubCoverage>
+		<ubDegradePercent>20</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>2</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>24</ubProtection>
+		<ubCoverage>75</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>3</uiIndex> <!-- Kevlar Vest -->
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>25</ubProtection>
+		<ubCoverage>70</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>4</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>27</ubProtection>
+		<ubCoverage>70</ubCoverage>
+		<ubDegradePercent>11</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>5</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>29</ubProtection>
+		<ubCoverage>70</ubCoverage>
+		<ubDegradePercent>8</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>6</uiIndex> <!-- Spectra Vest -->
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>29</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>13</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>7</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>31</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>10</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>8</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>33</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>7</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>9</uiIndex> <!-- Kevlar Pants -->
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>23</ubProtection>
+		<ubCoverage>65</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>10</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>25</ubProtection>
+		<ubCoverage>65</ubCoverage>
+		<ubDegradePercent>11</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>11</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>27</ubProtection>
+		<ubCoverage>65</ubCoverage>
+		<ubDegradePercent>8</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>12</uiIndex> <!-- Spectra Pants -->
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>27</ubProtection>
+		<ubCoverage>90</ubCoverage>
+		<ubDegradePercent>13</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>13</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>29</ubProtection>
+		<ubCoverage>90</ubCoverage>
+		<ubDegradePercent>10</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>14</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>31</ubProtection>
+		<ubCoverage>90</ubCoverage>
+		<ubDegradePercent>7</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>15</uiIndex> <!-- Steel Helmet -->
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>14</ubProtection>
+		<ubCoverage>55</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>16</uiIndex> <!-- Kevlar Helmet -->
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>23</ubProtection>
+		<ubCoverage>65</ubCoverage>
+		<ubDegradePercent>20</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>17</uiIndex>
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>25</ubProtection>
+		<ubCoverage>65</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>18</uiIndex>
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>27</ubProtection>
+		<ubCoverage>65</ubCoverage>
+		<ubDegradePercent>10</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>19</uiIndex> <!-- Spectra Helmet -->
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>27</ubProtection>
+		<ubCoverage>65</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>20</uiIndex>
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>29</ubProtection>
+		<ubCoverage>65</ubCoverage>
+		<ubDegradePercent>11</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>21</uiIndex>
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>31</ubProtection>
+		<ubCoverage>65</ubCoverage>
+		<ubDegradePercent>8</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>22</uiIndex> <!-- SAPI III Plates -->
+		<ubArmourClass>3</ubArmourClass>
+		<ubProtection>50</ubProtection>
+		<ubCoverage>50</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>23</uiIndex>
+		<ubArmourClass>4</ubArmourClass>
+		<ubProtection>3</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>24</uiIndex>
+		<ubArmourClass>4</ubArmourClass>
+		<ubProtection>5</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>25</uiIndex>
+		<ubArmourClass>4</ubArmourClass>
+		<ubProtection>6</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>26</uiIndex>
+		<ubArmourClass>4</ubArmourClass>
+		<ubProtection>20</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>27</uiIndex> <!-- Leather Jacket -->
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>2</ubProtection>
+		<ubCoverage>95</ubCoverage>
+		<ubDegradePercent>25</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>28</uiIndex> <!-- Kevlar Jacket -->
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>20</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>20</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>29</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>22</ubProtection>
+		<ubCoverage>95</ubCoverage>
+		<ubDegradePercent>18</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>30</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>24</ubProtection>
+		<ubCoverage>95</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>31</uiIndex>
+		<ubArmourClass>4</ubArmourClass>
+		<ubProtection>7</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>32</uiIndex>
+		<ubArmourClass>4</ubArmourClass>
+		<ubProtection>8</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>33</uiIndex> <!-- T-Shirt -->
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>25</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>34</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>25</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>35</uiIndex> <!-- Guardian Vest -->
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>28</ubProtection>
+		<ubCoverage>70</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>36</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>30</ubProtection>
+		<ubCoverage>70</ubCoverage>
+		<ubDegradePercent>11</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>37</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>32</ubProtection>
+		<ubCoverage>70</ubCoverage>
+		<ubDegradePercent>8</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>38</uiIndex> <!-- Black Cap -->
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>50</ubCoverage>
+		<ubDegradePercent>25</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>39</uiIndex> <!-- Zylon Combat Pants -->
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>23</ubProtection>
+		<ubCoverage>90</ubCoverage>
+		<ubDegradePercent>25</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>40</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>25</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>25</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>41</uiIndex> <!-- Uniform -->
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>25</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>25</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>42</uiIndex> <!-- Hat -->
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>50</ubCoverage>
+		<ubDegradePercent>25</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>43</uiIndex> <!-- Dress Uniform -->
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>25</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>44</uiIndex> <!-- Officer's Hat -->
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>50</ubCoverage>
+		<ubDegradePercent>25</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>45</uiIndex>
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>50</ubCoverage>
+		<ubDegradePercent>25</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>46</uiIndex> <!-- Russian Cap -->
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>50</ubCoverage>
+		<ubDegradePercent>25</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>47</uiIndex> <!-- Fur Hat -->
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>50</ubCoverage>
+		<ubDegradePercent>25</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>48</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>5</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>25</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>49</uiIndex>
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>50</ubCoverage>
+		<ubDegradePercent>25</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>50</uiIndex> <!-- SWAT Helmet -->
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>26</ubProtection>
+		<ubCoverage>65</ubCoverage>
+		<ubDegradePercent>20</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>51</uiIndex> <!-- SWAT Pants -->
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>26</ubProtection>
+		<ubCoverage>75</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>52</uiIndex> <!-- SWAT Vest -->
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>28</ubProtection>
+		<ubCoverage>90</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>53</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>25</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>54</uiIndex> <!-- Steel Helmet -->
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>14</ubProtection>
+		<ubCoverage>55</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>55</uiIndex> <!-- Dyneema Helmet -->
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>27</ubProtection>
+		<ubCoverage>65</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>56</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>27</ubProtection>
+		<ubCoverage>95</ubCoverage>
+		<ubDegradePercent>13</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>57</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>29</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>13</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>58</uiIndex> <!-- EOD Helmet -->
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>33</ubProtection>
+		<ubCoverage>100</ubCoverage>
+		<ubDegradePercent>8</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>59</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>60</ubProtection>
+		<ubCoverage>100</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>60</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>35</ubProtection>
+		<ubCoverage>100</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>61</uiIndex> <!-- Ghillie Helmet -->
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>62</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>63</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>2</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>64</uiIndex> <!-- Twaron Helmet -->
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>26</ubProtection>
+		<ubCoverage>70</ubCoverage>
+		<ubDegradePercent>20</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>65</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>26</ubProtection>
+		<ubCoverage>80</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>66</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>28</ubProtection>
+		<ubCoverage>75</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>67</uiIndex>
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>29</ubProtection>
+		<ubCoverage>70</ubCoverage>
+		<ubDegradePercent>11</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>68</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>29</ubProtection>
+		<ubCoverage>95</ubCoverage>
+		<ubDegradePercent>10</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>69</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>31</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>10</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>70</uiIndex>
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>50</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>6</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>71</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>50</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>4</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>72</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>55</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>4</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>73</uiIndex>
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>28</ubProtection>
+		<ubCoverage>65</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>74</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>28</ubProtection>
+		<ubCoverage>75</ubCoverage>
+		<ubDegradePercent>11</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>75</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>30</ubProtection>
+		<ubCoverage>90</ubCoverage>
+		<ubDegradePercent>11</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>76</uiIndex>
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>28</ubProtection>
+		<ubCoverage>70</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>77</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>28</ubProtection>
+		<ubCoverage>80</ubCoverage>
+		<ubDegradePercent>11</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>78</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>30</ubProtection>
+		<ubCoverage>75</ubCoverage>
+		<ubDegradePercent>11</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>79</uiIndex>
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>31</ubProtection>
+		<ubCoverage>70</ubCoverage>
+		<ubDegradePercent>8</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>80</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>31</ubProtection>
+		<ubCoverage>95</ubCoverage>
+		<ubDegradePercent>7</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>81</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>33</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>7</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>82</uiIndex>
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>55</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>83</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>55</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>3</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>84</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>60</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>3</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>85</uiIndex>
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>30</ubProtection>
+		<ubCoverage>65</ubCoverage>
+		<ubDegradePercent>10</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>86</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>30</ubProtection>
+		<ubCoverage>75</ubCoverage>
+		<ubDegradePercent>8</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>87</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>32</ubProtection>
+		<ubCoverage>90</ubCoverage>
+		<ubDegradePercent>8</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>88</uiIndex>
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>30</ubProtection>
+		<ubCoverage>70</ubCoverage>
+		<ubDegradePercent>10</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>89</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>30</ubProtection>
+		<ubCoverage>80</ubCoverage>
+		<ubDegradePercent>8</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>90</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>32</ubProtection>
+		<ubCoverage>75</ubCoverage>
+		<ubDegradePercent>8</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>91</uiIndex> <!-- Titanium Plating -->
+		<ubArmourClass>3</ubArmourClass>
+		<ubProtection>35</ubProtection>
+		<ubCoverage>50</ubCoverage>
+		<ubDegradePercent>10</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>92</uiIndex> <!-- Leg Protectors -->
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>14</ubProtection>
+		<ubCoverage>25</ubCoverage>
+		<ubDegradePercent>20</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>93</uiIndex> <!-- Stealth Ops Helmet -->
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>5</ubProtection>
+		<ubCoverage>65</ubCoverage>
+		<ubDegradePercent>20</ubDegradePercent>
+	</ARMOUR>
+	
+	<ARMOUR>
+		<uiIndex>96</uiIndex> <!-- Kazak-4 Vest -->
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>30</ubProtection>
+		<ubCoverage>80</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>97</uiIndex> <!-- Kazak-6 Vest -->
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>40</ubProtection>
+		<ubCoverage>90</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>98</uiIndex> <!-- Para Helmet -->
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>5</ubProtection>
+		<ubCoverage>75</ubCoverage>
+		<ubDegradePercent>20</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>99</uiIndex> <!-- Camo Pants -->
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>95</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>100</uiIndex> <!-- Soviet Tropical Cap -->
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>50</ubCoverage>
+		<ubDegradePercent>25</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>101</uiIndex> <!-- Zh-86 Flack Jacket -->
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>60</ubProtection>
+		<ubCoverage>95</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>102</uiIndex> <!-- VDV Pants -->
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>95</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>103</uiIndex> <!-- BEKAS Jacket -->
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>95</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>104</uiIndex> <!-- BEKAS Pants -->
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>95</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>105</uiIndex> <!-- Conical Straw Hat -->
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>50</ubCoverage>
+		<ubDegradePercent>35</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>106</uiIndex> <!-- Camo Shirt -->
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	
+	<ARMOUR>
+		<uiIndex>108</uiIndex> <!-- Camo Pants -->
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>109</uiIndex> <!-- Camo Shirt -->
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	
+	<ARMOUR>
+		<uiIndex>111</uiIndex> <!-- Camo Pants -->
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>112</uiIndex> <!-- Camo Shirt -->
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	
+	<ARMOUR>
+		<uiIndex>114</uiIndex> <!-- Camo Pants -->
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>115</uiIndex> <!-- Camo Shirt -->
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	
+	<ARMOUR>
+		<uiIndex>117</uiIndex> <!-- Camo Pants -->
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>118</uiIndex> <!-- Camo Shirt -->
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	
+	<ARMOUR>
+		<uiIndex>120</uiIndex> <!-- Camo Pants -->
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>121</uiIndex> <!-- Ballcap -->
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>55</ubCoverage>
+		<ubDegradePercent>25</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>122</uiIndex> <!-- IBCH -->
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>26</ubProtection>
+		<ubCoverage>65</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>123</uiIndex> <!-- IBCH -->
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>26</ubProtection>
+		<ubCoverage>65</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>124</uiIndex> <!-- MICH, ACH -->
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>29</ubProtection>
+		<ubCoverage>70</ubCoverage>
+		<ubDegradePercent>11</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>125</uiIndex> <!-- CP Uniform -->
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>35</ubProtection>
+		<ubCoverage>90</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>126</uiIndex> <!-- CP Pants -->
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>2</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>127</uiIndex> <!-- Tiger Stripe Cap -->
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>50</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>128</uiIndex> <!-- Tiger Stripe Pants -->
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>3</ubProtection>
+		<ubCoverage>95</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>129</uiIndex> <!-- VITYAZ-S Helmet -->
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>40</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>20</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>130</uiIndex> <!-- SPETsNAZ Uniform -->
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>32</ubProtection>
+		<ubCoverage>90</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>131</uiIndex> <!-- SPETsNAZ Pants -->
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>2</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>132</uiIndex> <!-- Magilp Helmet -->
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>28</ubProtection>
+		<ubCoverage>65</ubCoverage>
+		<ubDegradePercent>20</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>133</uiIndex> <!-- Magilp Uniform -->
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>29</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>134</uiIndex> <!-- Magilp Pants -->
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>2</ubProtection>
+		<ubCoverage>95</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>135</uiIndex> <!-- Felin Helmet -->
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>28</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>20</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>136</uiIndex> <!-- Felin Uniform -->
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>29</ubProtection>
+		<ubCoverage>90</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>137</uiIndex> <!-- Felin Pants -->
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>2</ubProtection>
+		<ubCoverage>95</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>138</uiIndex> <!-- Spot Helmet -->
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>28</ubProtection>
+		<ubCoverage>65</ubCoverage>
+		<ubDegradePercent>20</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>139</uiIndex> <!-- Spot Uniform -->
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>29</ubProtection>
+		<ubCoverage>90</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>140</uiIndex> <!-- Spot Pants -->
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>2</ubProtection>
+		<ubCoverage>95</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>141</uiIndex> <!-- Fallschirmjager Helmet -->
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>13</ubProtection>
+		<ubCoverage>60</ubCoverage>
+		<ubDegradePercent>20</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>142</uiIndex> <!-- Fallschirmjager Pants -->
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>3</ubProtection>
+		<ubCoverage>95</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>143</uiIndex> <!-- Type-65 Cap -->
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>50</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>144</uiIndex> <!-- Type-65 Pants -->
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>3</ubProtection>
+		<ubCoverage>95</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>145</uiIndex> <!-- ESS -->
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>15</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>50</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>146</uiIndex> <!-- Face Shield -->
+		<ubArmourClass>3</ubArmourClass>
+		<ubProtection>20</ubProtection>
+		<ubCoverage>100</ubCoverage>
+		<ubDegradePercent>35</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>147</uiIndex> <!-- Face Mask -->
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>30</ubProtection>
+		<ubCoverage>90</ubCoverage>
+		<ubDegradePercent>25</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>148</uiIndex> <!-- SAPI IV -->
+		<ubArmourClass>3</ubArmourClass>
+		<ubProtection>65</ubProtection>
+		<ubCoverage>55</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>149</uiIndex> <!-- A Pair of SAPI IV  -->
+		<ubArmourClass>3</ubArmourClass>
+		<ubProtection>65</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>150</uiIndex> <!-- SS Helmet -->
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>40</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>151</uiIndex> <!-- SS Cuirass -->
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>50</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>152</uiIndex> <!-- SS Cuishs -->
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>40</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>153</uiIndex> <!-- FO Helmet -->
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>55</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>8</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>154</uiIndex> <!-- FO Cuirass -->
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>75</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>155</uiIndex> <!-- FO Cuishs -->
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>65</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>156</uiIndex> <!-- 5.11 Pants -->
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>3</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>157</uiIndex> <!-- A Pair of SAPI III Plates -->
+		<ubArmourClass>3</ubArmourClass>
+		<ubProtection>50</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>158</uiIndex> <!-- A Pair of SAPI Plates -->
+		<ubArmourClass>3</ubArmourClass>
+		<ubProtection>55</ubProtection>
+		<ubCoverage>90</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>159</uiIndex> <!-- DRAGON SKIN -->
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>75</ubProtection>
+		<ubCoverage>95</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>160</uiIndex> <!-- SAS Beret -->
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>50</ubCoverage>
+		<ubDegradePercent>25</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>161</uiIndex> <!-- M1 Helmet -->
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>14</ubProtection>
+		<ubCoverage>60</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>162</uiIndex> <!-- France Helmet -->
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>16</ubProtection>
+		<ubCoverage>65</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>163</uiIndex> <!-- NVA Helmet -->
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>13</ubProtection>
+		<ubCoverage>70</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>164</uiIndex> <!-- Spain Helmet -->
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>17</ubProtection>
+		<ubCoverage>75</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>165</uiIndex> <!-- Magic Bra -->
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>99</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>35</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>166</uiIndex> <!-- M69 Flak Jacket -->
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>33</ubProtection>
+		<ubCoverage>80</ubCoverage>
+		<ubDegradePercent>20</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>167</uiIndex> <!-- AC331E Vest -->
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>32</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>25</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>168</uiIndex> <!-- PASGT Vest -->
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>33</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>25</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>169</uiIndex> <!-- SPEAR RBA Vest -->
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>34</ubProtection>
+		<ubCoverage>95</ubCoverage>
+		<ubDegradePercent>18</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>170</uiIndex> <!-- PT Armor -->
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>27</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>20</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>171</uiIndex> <!-- COP Armor -->
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>36</ubProtection>
+		<ubCoverage>90</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>172</uiIndex> <!-- Chastity Belt -->
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>55</ubProtection>
+		<ubCoverage>25</ubCoverage>
+		<ubDegradePercent>35</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>173</uiIndex> <!-- Soviet Helmet -->
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>15</ubProtection>
+		<ubCoverage>60</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>174</uiIndex> <!-- RFVC1 Flak Vest -->
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>20</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>20</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>175</uiIndex> <!-- Hunter Helmet -->
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>28</ubProtection>
+		<ubCoverage>65</ubCoverage>
+		<ubDegradePercent>20</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>176</uiIndex> <!-- Hunter Uniform -->
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>28</ubProtection>
+		<ubCoverage>90</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>177</uiIndex> <!-- Hunter Pants -->
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>2</ubProtection>
+		<ubCoverage>95</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>178</uiIndex> <!-- ACH Helmet -->
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>29</ubProtection>
+		<ubCoverage>70</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>179</uiIndex> <!-- RBA Vest -->
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>34</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>20</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>180</uiIndex> <!-- Pasgt Helmet -->
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>27</ubProtection>
+		<ubCoverage>65</ubCoverage>
+		<ubDegradePercent>11</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>181</uiIndex> <!-- PASGT Armor -->
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>25</ubProtection>
+		<ubCoverage>80</ubCoverage>
+		<ubDegradePercent>10</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>182</uiIndex> <!-- Mk2 Steel Helmet -->
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>12</ubProtection>
+		<ubCoverage>50</ubCoverage>
+		<ubDegradePercent>9</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>183</uiIndex> <!-- KMT Helmet -->
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>15</ubProtection>
+		<ubCoverage>65</ubCoverage>
+		<ubDegradePercent>20</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>184</uiIndex> <!-- KMT Pants -->
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>3</ubProtection>
+		<ubCoverage>95</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>185</uiIndex> <!-- OTV -->
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>32</ubProtection>
+		<ubCoverage>88</ubCoverage>
+		<ubDegradePercent>20</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>186</uiIndex> <!-- Bra Armor -->
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>20</ubProtection>
+		<ubCoverage>30</ubCoverage>
+		<ubDegradePercent>20</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>187</uiIndex> <!-- 6B7-1L Helmet -->
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>23</ubProtection>
+		<ubCoverage>65</ubCoverage>
+		<ubDegradePercent>20</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>188</uiIndex> <!-- STSH-81 Helmet -->
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>35</ubProtection>
+		<ubCoverage>75</ubCoverage>
+		<ubDegradePercent>20</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>189</uiIndex> <!-- ZSh-1 Helmet -->
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>25</ubProtection>
+		<ubCoverage>70</ubCoverage>
+		<ubDegradePercent>20</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>190</uiIndex> <!-- MASKA-1Sch Helmet -->
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>33</ubProtection>
+		<ubCoverage>88</ubCoverage>
+		<ubDegradePercent>20</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>191</uiIndex> <!-- K6-3 Helmet -->
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>30</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>20</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>192</uiIndex> <!-- SF Half Head Helmet -->
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>23</ubProtection>
+		<ubCoverage>55</ubCoverage>
+		<ubDegradePercent>20</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>193</uiIndex> <!-- Dyneema Plate -->
+		<ubArmourClass>3</ubArmourClass>
+		<ubProtection>55</ubProtection>
+		<ubCoverage>55</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>194</uiIndex> <!-- A Pair of Dyneema Plate  -->
+		<ubArmourClass>3</ubArmourClass>
+		<ubProtection>55</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>195</uiIndex> <!-- 07 Wood Shirt -->
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>196</uiIndex> <!-- 07 Wood Pants -->
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>197</uiIndex> <!-- 07 Desert Shirt -->
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>198</uiIndex> <!-- 07 Desert Pants -->
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>199</uiIndex> <!-- Balaclava -->
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>25</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>200</uiIndex> <!-- Headwrap -->
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>50</ubCoverage>
+		<ubDegradePercent>25</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>201</uiIndex> <!-- KLMK Shirt -->
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>202</uiIndex> <!-- KLMK Pants -->
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>203</uiIndex> <!-- OMON Wood Shirt -->
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>204</uiIndex> <!-- OMON Wood Pants -->
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>205</uiIndex> <!-- OMON City Shirt -->
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>206</uiIndex> <!-- OMON City Pants -->
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>207</uiIndex> <!-- QGF02 Helmet -->
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>29</ubProtection>
+		<ubCoverage>75</ubCoverage>
+		<ubDegradePercent>11</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>208</uiIndex> <!-- QGF03 Helmet -->
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>29</ubProtection>
+		<ubCoverage>75</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>209</uiIndex> <!-- FDY-IVR Vest -->
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>25</ubProtection>
+		<ubCoverage>88</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>210</uiIndex> <!-- 04B Vest -->
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>31</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>13</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>211</uiIndex> <!-- PACA Vest -->
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>30</ubProtection>
+		<ubCoverage>87</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>212</uiIndex> <!-- Multicam Bonnie -->
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>55</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>213</uiIndex> <!-- Multicam Parka -->
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>214</uiIndex> <!-- Multicam BDU -->
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>215</uiIndex> <!-- 5.11 shirt -->
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+</ARMOURLIST>
