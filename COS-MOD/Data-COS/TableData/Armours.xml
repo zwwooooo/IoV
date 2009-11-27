@@ -1469,4 +1469,11 @@
 		<ubCoverage>99</ubCoverage>
 		<ubDegradePercent>5</ubDegradePercent>
 	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>216</uiIndex> <!-- Fire Helmet -->
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>20</ubProtection>
+		<ubCoverage>95</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
+	</ARMOUR>
 </ARMOURLIST>
