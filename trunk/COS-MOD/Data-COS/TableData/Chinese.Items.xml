@@ -170,10 +170,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>21</uiIndex>
-		<szItemName>G41A2</szItemName>
-		<szLongItemName>HK G41A2</szLongItemName>
+		<szItemName>G41</szItemName>
+		<szLongItemName>HK G41</szLongItemName>
 		<szItemDesc>比通宵猛灌德国黑啤后的宿醉还猛，G41最能让敌人头疼。</szItemDesc>
-		<szBRName>HK G41A2</szBRName>
+		<szBRName>HK G41</szBRName>
 		<szBRDesc>按照北约标准制造，这把突击步枪是德国工艺的结晶。有抛壳口防尘盖提高它的可靠性，空仓挂机装置让你更换弹匣更快。</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -3206,7 +3206,7 @@
 		<szLongItemName>.45，50发比赛弹</szLongItemName>
 		<szItemDesc>尽管看起来有点浪费，但是有些场合还是值得用它的。</szItemDesc>
 		<szBRName>.45 Drum Match</szBRName>
-		<szBRDesc>BR不出售。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>401</uiIndex>
@@ -4790,7 +4790,7 @@
 		<szLongItemName>餐刀</szLongItemName>
 		<szItemDesc>穷人的代用品，看上去就像刚刚吃完东西没有洗一样。</szItemDesc>
 		<szBRName>Steak Knife</szBRName>
-		<szBRDesc>BR不出售。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>599</uiIndex>
@@ -4798,7 +4798,7 @@
 		<szLongItemName>军刀</szLongItemName>
 		<szItemDesc>这才叫刀！</szItemDesc>
 		<szBRName>Sabre</szBRName>
-		<szBRDesc>BR不出售。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>600</uiIndex>
@@ -4958,7 +4958,7 @@
 		<szLongItemName>Mk14 MOD1</szLongItemName>
 		<szItemDesc>Mk14 MOD0的改进型，更舒服的EBR护木，更舒服的伸缩式枪托。</szItemDesc>
 		<szBRName>Mk14 MOD1</szBRName>
-		<szBRDesc>BR不出售。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>620</uiIndex>
@@ -5740,9 +5740,9 @@
 		<uiIndex>717</uiIndex>
 		<szItemName>P226 .40</szItemName>
 		<szLongItemName>SIG P226 .40</szLongItemName>
-		<szItemDesc>P226首次出现在1983年，作为美国海豹突击队的标准手枪，这个是P226使用.40史密夫韦森子弹的型号，同时带有战术导轨。</szItemDesc>
+		<szItemDesc>P226首次出现在1983年，作为美国海豹突击队的标准手枪，这个是P226使用.40 S＆W弹的型号，同时带有战术导轨。</szItemDesc>
 		<szBRName>SIG P226 .40</szBRName>
-		<szBRDesc>P226首次出现在1983年，作为美国海豹突击队的标准手枪，这个是P226使用.40史密夫韦森子弹的型号，同时带有战术导轨。</szBRDesc>
+		<szBRDesc>P226首次出现在1983年，作为美国海豹突击队的标准手枪，这个是P226使用.40 S＆W弹的型号，同时带有战术导轨。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>718</uiIndex>
@@ -6350,7 +6350,7 @@
 		<szLongItemName>斯太令L34A1 Silenced</szLongItemName>
 		<szItemDesc>L34A1 /斯太令Mk.5无声冲锋枪枪管很特殊，它带有一个具有72个小孔用来排泄枪管内高压气体的整体消声器。</szItemDesc>
 		<szBRName>Sterling L34A1 Silenced</szBRName>
-		<szBRDesc>BR不出售。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>794</uiIndex>
@@ -7014,7 +7014,7 @@
 		<szLongItemName>一对迪尼玛插板</szLongItemName>
 		<szItemDesc>防弹背心前后两面的口袋里牢靠的固定着两块迪尼玛防弹插板。提供全方位的防弹保护。</szItemDesc>
 		<szBRName>A Pair of Dyneema Plates</szBRName>
-		<szBRDesc>Not for sale through BR</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>877</uiIndex>
@@ -7198,15 +7198,15 @@
 		<szLongItemName>越共斗笠</szLongItemName>
 		<szItemDesc>越共使用的斗笠。</szItemDesc>
 		<szBRName>Conical Straw Hat</szBRName>
-		<szBRDesc>Nothing</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>900</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Nothing</szLongItemName>
-		<szItemDesc>Index 900</szItemDesc>
-		<szBRName>Nothing</szBRName>
-		<szBRDesc>Nothing</szBRDesc>
+		<szItemName>Fire Helmet</szItemName>
+		<szLongItemName>消防盔</szLongItemName>
+		<szItemDesc>消防员使用的头盔，防护面积全面，只是不太防弹。</szItemDesc>
+		<szBRName>Fire Helmet</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>901</uiIndex>
@@ -7358,7 +7358,7 @@
 		<szLongItemName>RPG发射过后的废筒</szLongItemName>
 		<szItemDesc>你已经爽过了， 别再留恋刚才的情景了，快把它扔了拿上新的去战斗吧， 别指望这东西还能让你再爽一次。</szItemDesc>
 		<szBRName>Discarded RPG</szBRName>
-		<szBRDesc>BR不出售。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>920</uiIndex>
@@ -7486,7 +7486,7 @@
 		<szLongItemName>马杀达6.8</szLongItemName>
 		<szItemDesc>马杀达（不是马杀鸡）11.5英寸枪管的Masada 6.8mm SPC口径卡宾枪裸枪。</szItemDesc>
 		<szBRName>Masada 6.8</szBRName>
-		<szBRDesc>BR不出售。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>936</uiIndex>
@@ -7542,7 +7542,7 @@
 		<szLongItemName>Mk24 Mod0全附件</szLongItemName>
 		<szItemDesc>Mk24 SOCOM手枪（西格-绍尔P226海军型）配备了战术灯和消声器。</szItemDesc>
 		<szBRName>Mk24 Fully Armed</szBRName>
-		<szBRDesc>BR不出售。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>943</uiIndex>
@@ -7550,7 +7550,7 @@
 		<szLongItemName>SKS无托枪</szLongItemName>
 		<szItemDesc>SKS半自动步枪的无托型。</szItemDesc>
 		<szBRName>SKS Bull Pup</szBRName>
-		<szBRDesc>BR不出售。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>944</uiIndex>
@@ -7558,7 +7558,7 @@
 		<szLongItemName>MuzzleLite Mini-14</szLongItemName>
 		<szItemDesc>换了MuzzleLite枪托后的无托式Mini-14。</szItemDesc>
 		<szBRName>MuzzleLite Mini-14</szBRName>
-		<szBRDesc>BR不出售。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>945</uiIndex>
@@ -7566,7 +7566,7 @@
 		<szLongItemName>Trijicon ACOG二战版</szLongItemName>
 		<szItemDesc>带有皮卡汀尼导轨的ACOG（先进战斗光学瞄准镜），可以安装到二战期间或其他一些老式步枪上。</szItemDesc>
 		<szBRName>Trijicon ACOG for WW2</szBRName>
-		<szBRDesc>BR不出售。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>946</uiIndex>
@@ -7574,7 +7574,7 @@
 		<szLongItemName>7倍二战瞄准镜</szLongItemName>
 		<szItemDesc>带有皮卡汀尼导轨的7倍狙击瞄准镜，可以安装到二战期间或其他一些老式步枪上。</szItemDesc>
 		<szBRName>Battle Scope, Mag.7x for WW2</szBRName>
-		<szBRDesc>BR不出售。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>947</uiIndex>
@@ -7582,7 +7582,7 @@
 		<szLongItemName>CCO二战版红点瞄准具</szLongItemName>
 		<szItemDesc>带有皮卡汀尼导轨的红点近战瞄准具，可以安装到二战期间或其他一些老式步枪上。</szItemDesc>
 		<szBRName>Aimpoint CCO for WW2</szBRName>
-		<szBRDesc>BR不出售。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>948</uiIndex>
@@ -8854,7 +8854,7 @@
 		<szLongItemName>79式冲锋枪导轨型</szLongItemName>
 		<szItemDesc>79式冲锋枪的升级型。RAS可以在内置消焰器上安装很多西方的附件。是中国特警最普遍使用的武器。</szItemDesc>
 		<szBRName>Type 79 RAS</szBRName>
-		<szBRDesc>BR不出售。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1107</uiIndex>
@@ -8862,7 +8862,7 @@
 		<szLongItemName>85式微声冲锋枪</szLongItemName>
 		<szItemDesc>中国85式冲锋枪的消声型，简称85式微冲，具有整体式消声器和可折叠枪托。</szItemDesc>
 		<szBRName>Type 85 Silencer SMG</szBRName>
-		<szBRDesc>BR不出售。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1108</uiIndex>
@@ -8894,7 +8894,7 @@
 		<szLongItemName>81-1式导轨型</szLongItemName>
 		<szItemDesc>尽管有些难看，但是具有皮卡汀尼导轨的Type 81-1 RAS可以象安装东方附件一样好地安装大多数西方附件。</szItemDesc>
 		<szBRName>Type 81-1 RAS</szBRName>
-		<szBRDesc>BR不出售。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1112</uiIndex>
@@ -9030,7 +9030,7 @@
 		<szLongItemName>Mk16 Mod 1 STD</szLongItemName>
 		<szItemDesc>第二代FNH SCAR-L 标准型(15")。这种型号发射6.8mm特种用途弹。</szItemDesc>
 		<szBRName>Mk16 Mod 1 STD</szBRName>
-		<szBRDesc>BR不出售。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1129</uiIndex>
@@ -9038,7 +9038,7 @@
 		<szLongItemName>Mk16 Mod 1 CQC</szLongItemName>
 		<szItemDesc>第二代FNH SCAR-L近战型(10"枪管)。这种型号发射6.8mm特种用途弹。</szItemDesc>
 		<szBRName>Mk16 Mod 1 CQC</szBRName>
-		<szBRDesc>BR不出售。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1130</uiIndex>
@@ -9046,7 +9046,7 @@
 		<szLongItemName>Mk16 Mod 1 SPR</szLongItemName>
 		<szItemDesc>第二代FNH SCAR-L 狙击型(18")。这种型号发射6.8mm特种用途弹。</szItemDesc>
 		<szBRName>Mk16 Mod 1 SPR</szBRName>
-		<szBRDesc>BR不出售。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1131</uiIndex>
@@ -9054,7 +9054,7 @@
 		<szLongItemName>Mk16 Mod 47</szLongItemName>
 		<szItemDesc>第二代FNH SCAR-WP的16"枪管7.62x39mm口径型。它可以直接使用AK-47/AKM的子弹。</szItemDesc>
 		<szBRName>Mk16 Mod 47</szBRName>
-		<szBRDesc>BR不出售。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1132</uiIndex>
@@ -9062,7 +9062,7 @@
 		<szLongItemName>Mk16 Mod 74</szLongItemName>
 		<szItemDesc>FNH SCAR-WP第二代16"枪管5.45x39mm口径型。它可以直接使用AK-74的子弹。</szItemDesc>
 		<szBRName>Mk16 Mod 74</szBRName>
-		<szBRDesc>BR不出售。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1133</uiIndex>
@@ -9070,15 +9070,15 @@
 		<szLongItemName>Mk17 Mod 1 SPR</szLongItemName>
 		<szItemDesc>第二代FNH SCAR-H的狙击型(18") 。它使用.300 WSM子弹。</szItemDesc>
 		<szBRName>Mk17 Mod 1 SPR</szBRName>
-		<szBRDesc>BR不出售。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1134</uiIndex>
 		<szItemName>Mk18 MOD0</szItemName>
 		<szLongItemName>Mk.18 MOD 0</szLongItemName>
-		<szItemDesc>Mark18 MOD.0 (a.k.a. M4 CQBR)是一款在M4A1设计基础上改进而成的短小灵活的突击步枪。它被广泛使用在美国特种作战司令部下属单位。</szItemDesc>
+		<szItemDesc>Mark18 MOD.0 (或称为M4 CQBR)是一款在M4A1设计基础上改进而成的短小灵活的突击步枪。它被广泛使用在美国特种作战司令部下属单位。</szItemDesc>
 		<szBRName>Mk.18 MOD 0</szBRName>
-		<szBRDesc>BR不出售。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1135</uiIndex>
@@ -9086,7 +9086,7 @@
 		<szLongItemName>海豹侦察步枪</szLongItemName>
 		<szItemDesc>这些步枪最初由海豹突击队军械员自己动手制作，后来被改进成了一种为海豹狙击手提供轻便并且比标准M4式、AR-15/M16式步枪拥有更大杀伤力的武器系统。</szItemDesc>
 		<szBRName>SEAL Recon Rifle</szBRName>
-		<szBRDesc>BR不出售。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1136</uiIndex>
@@ -9094,7 +9094,7 @@
 		<szLongItemName>M16A4 w. retractable stock</szLongItemName>
 		<szItemDesc>作为M16系列的最新样式，M16A4的特征是增强附件兼容性的平顶机匣和皮卡汀尼导轨。</szItemDesc>
 		<szBRName>M16A4 w. retractable stock</szBRName>
-		<szBRDesc>BR不出售。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1137</uiIndex>
@@ -9102,7 +9102,7 @@
 		<szLongItemName>M16A4 SAM-R</szLongItemName>
 		<szItemDesc>美国海军陆战队班级高级神枪手步枪，基本上是一款精确的AR-15/M16式步枪。班级指定神枪手步枪的设计可将班一级的交战能力提升至600米。</szItemDesc>
 		<szBRName>M16A4 SAM-R</szBRName>
-		<szBRDesc>BR不出售。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1138</uiIndex>
@@ -9110,7 +9110,7 @@
 		<szLongItemName>Ares Shrike 5.56</szLongItemName>
 		<szItemDesc>Shrike 5.56的特征是为了避免枪管过热而设计的可快速更换式枪管。它因此能够达到轻机枪的实际射速，但却像突击步枪极轻和很紧凑。</szItemDesc>
 		<szBRName>Ares Shrike 5.56</szBRName>
-		<szBRDesc>BR不出售。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1139</uiIndex>
@@ -9126,7 +9126,7 @@
 		<szLongItemName>Mk12 MOD0B SPR</szLongItemName>
 		<szItemDesc>这款武器系统被美国陆军和海军的特种部队使用，较大的改进使它与常见的AR15/M16步兵武器路线完全不同。这把枪配备了可伸缩的枪托。</szItemDesc>
 		<szBRName>Mk12 MOD0B SPR</szBRName>
-		<szBRDesc>BR不出售。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1141</uiIndex>
@@ -9134,7 +9134,7 @@
 		<szLongItemName>Mk.4 MOD 0</szLongItemName>
 		<szItemDesc>Mk4 MOD0是在越南冲突中为海军海豹特种部队生产的M16A1改型，于1970年4月服役。它和基本的M16A1主要的区别在于其是为海上隐蔽行动而优化设计的，具有消声器。</szItemDesc>
 		<szBRName>Mk.4 MOD 0</szBRName>
-		<szBRDesc>BR不出售。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1142</uiIndex>
@@ -9228,17 +9228,17 @@
 		<uiIndex>1153</uiIndex>
 		<szItemName>CQB-SPC556T</szItemName>
 		<szLongItemName>TROY CQB-SPC 556T</szLongItemName>
-		<szItemDesc>加强型M16A4自动步枪，使用5.56mm北约弹，内置消声器，配备单点式背带、VLTOR公司的伸缩枪托。</szItemDesc>
+		<szItemDesc>增强型M16A4自动步枪，使用5.56mm北约弹，内置消声器，配备单点式背带、VLTOR公司的伸缩枪托。</szItemDesc>
 		<szBRName>TROY CQB-SPC 556T</szBRName>
-		<szBRDesc>加强型M16A4自动步枪，使用5.56mm北约弹，内置消声器，配备单点式背带、VLTOR公司的伸缩枪托。</szBRDesc>
+		<szBRDesc>增强型M16A4自动步枪，使用5.56mm北约弹，内置消声器，配备单点式背带、VLTOR公司的伸缩枪托。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1154</uiIndex>
 		<szItemName>CQB-SPC762T</szItemName>
 		<szLongItemName>TROY CQB-SPC 762T</szLongItemName>
-		<szItemDesc>加强型AR10自动步枪，使用7.62mm北约弹，内置消声器，配备单点式背带、VLTOR公司的伸缩枪托。</szItemDesc>
+		<szItemDesc>增强型AR10自动步枪，使用7.62mm北约弹，内置消声器，配备单点式背带、VLTOR公司的伸缩枪托。</szItemDesc>
 		<szBRName>TROY CQB-SPC 762T</szBRName>
-		<szBRDesc>加强型AR10自动步枪，使用7.62mm北约弹，内置消声器，配备单点式背带、VLTOR公司的伸缩枪托。</szBRDesc>
+		<szBRDesc>增强型AR10自动步枪，使用7.62mm北约弹，内置消声器，配备单点式背带、VLTOR公司的伸缩枪托。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1155</uiIndex>
@@ -9252,9 +9252,9 @@
 		<uiIndex>1156</uiIndex>
 		<szItemName>M1A Scout</szItemName>
 		<szLongItemName>M1A Scout</szLongItemName>
-		<szItemDesc>这款春田侦察步枪使用了USGI机匣，因此保留了选射功能。缩短的枪管和高性能的枪口制退器将帮助你搞定所有的近距离战斗。</szItemDesc>
+		<szItemDesc>这款春田侦察步枪使用了军用机匣，因此保留了选射功能。缩短的枪管和高性能的枪口制退器将帮助你搞定所有的近距离战斗。</szItemDesc>
 		<szBRName>M1A Scout</szBRName>
-		<szBRDesc>这款春田侦察步枪使用了USGI机匣，因此保留了选射功能。缩短的枪管和高性能的枪口制退器将帮助你搞定所有的近距离战斗。</szBRDesc>
+		<szBRDesc>这款春田侦察步枪使用了军用机匣，因此保留了选射功能。缩短的枪管和高性能的枪口制退器将帮助你搞定所有的近距离战斗。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1157</uiIndex>
@@ -9262,7 +9262,7 @@
 		<szLongItemName>M14 EBR</szLongItemName>
 		<szItemDesc>这是标准的M14枪管，采用了塞奇公司的EBR(增强型战斗步枪)成套配件。</szItemDesc>
 		<szBRName>M14 EBR</szBRName>
-		<szBRDesc>BR不出售。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1158</uiIndex>
@@ -9270,7 +9270,7 @@
 		<szLongItemName>M14 w. FoldStock</szLongItemName>
 		<szItemDesc>装备BM59折叠枪托的M14。在80年代和90年代，一些海豹队员曾在执行VBSS任务中使用过。</szItemDesc>
 		<szBRName>M14 w. FoldStock</szBRName>
-		<szBRDesc>BR不出售。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1159</uiIndex>
@@ -9286,7 +9286,7 @@
 		<szLongItemName>Mk14 Mod0</szLongItemName>
 		<szItemDesc>配备16英寸长枪管的M14，采用了塞奇公司的EBR(增强型战斗步枪)成套配件。</szItemDesc>
 		<szBRName>Mk14 Mod0</szBRName>
-		<szBRDesc>BR不出售。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1161</uiIndex>
@@ -9302,7 +9302,7 @@
 		<szLongItemName>AC-556 EBR</szLongItemName>
 		<szItemDesc>配备塞奇公司EBR枪托的AC-556。</szItemDesc>
 		<szBRName>AC-556 EBR</szBRName>
-		<szBRDesc>BR不出售。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1163</uiIndex>
@@ -9326,7 +9326,7 @@
 		<szLongItemName>M60E4/Mk43 MOD1</szLongItemName>
 		<szItemDesc>M60E4是一款为海豹突击队改进的M60E3。Mk43 Mod1的特征是重新设计了顶布的综合性皮卡汀尼导轨以及带有导轨座的护木，可供装备光学、红外激光系统和其它传感器。</szItemDesc>
 		<szBRName>M60E4/Mk43 MOD1</szBRName>
-		<szBRDesc>BR不出售。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1166</uiIndex>
@@ -9390,7 +9390,7 @@
 		<szLongItemName>TEC-DC9</szLongItemName>
 		<szItemDesc>原型是作为一款低价的军用冲锋枪而设计，但却因为美国90年代的高犯罪时期，它与歹徒和毒贩的联系而出名。</szItemDesc>
 		<szBRName>TEC-DC9</szBRName>
-		<szBRDesc>BR不出售。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1174</uiIndex>
@@ -9406,7 +9406,7 @@
 		<szLongItemName>M24A2 SWS</szLongItemName>
 		<szItemDesc>M24A2是M24的改进型，具有10发可卸弹匣和AWC公司的消声器。</szItemDesc>
 		<szBRName>M24A2 SWS</szBRName>
-		<szBRDesc>BR不出售。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1176</uiIndex>
@@ -9476,46 +9476,46 @@
 		<uiIndex>1184</uiIndex>
 		<szItemName>Win.1887 Sawed-off</szItemName>
 		<szLongItemName>Winchester 1887 Sawed-off</szLongItemName>
-		<szItemDesc>温彻斯特1887型杠杆散单枪是给牛仔枪手的完美礼物。拿着这家伙，戴上一副墨镜，再骑一辆哈雷车。I'll be back！让我们给这些坏蛋好好上一课。</szItemDesc>
+		<szItemDesc>温彻斯特1887型杠杆霰弹枪是给牛仔枪手的完美礼物。拿着这家伙，戴上一副墨镜，再骑一辆哈雷车。I'll be back！让我们给这些坏蛋好好上一课。</szItemDesc>
 		<szBRName>Winchester 1887 Sawed-off</szBRName>
-		<szBRDesc>BR不出售。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1185</uiIndex>
 		<szItemName>870MCS Breaching</szItemName>
 		<szLongItemName>Remington 870MCS Breaching</szLongItemName>
-		<szItemDesc>雷明顿870MCS破门枪，具有10" 枪管没有枪托。</szItemDesc>
+		<szItemDesc>雷明顿870MCS破门枪，10英寸枪管，不安装枪托。</szItemDesc>
 		<szBRName>Remington 870MCS Breaching</szBRName>
-		<szBRDesc>BR不出售。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1186</uiIndex>
 		<szItemName>870MCS Entry</szItemName>
 		<szLongItemName>Remington 870MCS Entry/CQB</szLongItemName>
-		<szItemDesc>雷明顿870MCS (标准战斗散弹枪)，14"枪管的CQB突入型，装备战术枪托。</szItemDesc>
+		<szItemDesc>雷明顿870MCS，14英寸枪管的CQB突入型，装有战术枪托。</szItemDesc>
 		<szBRName>Remington 870MCS Entry/CQB</szBRName>
-		<szBRDesc>雷明顿870MCS (标准战斗散弹枪)，14"枪管的CQB突入型，装备战术枪托。</szBRDesc>
+		<szBRDesc>雷明顿870MCS，14英寸枪管的CQB突入型，装有战术枪托。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1187</uiIndex>
 		<szItemName>870MCS Patrol</szItemName>
 		<szLongItemName>Remington 870MCS Patrol</szLongItemName>
-		<szItemDesc>雷明顿870MCS 18"枪管的巡逻散弹枪，装备战术枪托。</szItemDesc>
+		<szItemDesc>雷明顿870MCS 18英寸枪管的巡逻用霰弹枪，装有战术枪托。</szItemDesc>
 		<szBRName>Remington 870MCS Patrol</szBRName>
-		<szBRDesc>BR不出售。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1188</uiIndex>
 		<szItemName>AA-12</szItemName>
 		<szLongItemName>AA-12 CQB</szLongItemName>
-		<szItemDesc>MPS公司的自动突击12型近距离战斗全自动散弹枪。轻便而且比USAS-12更加可靠。</szItemDesc>
+		<szItemDesc>MPS公司的自动突击12型近距离战斗全自动霰弹枪。轻便而且比USAS-12更加可靠。</szItemDesc>
 		<szBRName>AA-12</szBRName>
-		<szBRDesc>MPS公司的自动突击12型近距离战斗全自动散弹枪。轻便而且比USAS-12更加可靠。</szBRDesc>
+		<szBRDesc>MPS公司的自动突击12型近距离战斗全自动霰弹枪。轻便而且比USAS-12更加可靠。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1189</uiIndex>
 		<szItemName>Deringer</szItemName>
-		<szLongItemName>Deringer Pocket Pistol</szLongItemName>
+		<szLongItemName>德林杰袖珍手枪</szLongItemName>
 		<szItemDesc>一把大口径短筒手枪通常是最小型的适用手枪。它们曾被女士使用，因为它们可以轻易地藏在钱包里或者丝袜中。</szItemDesc>
 		<szBRName>Deringer Pocket Gun</szBRName>
 		<szBRDesc>一把大口径短筒手枪通常是最小型的适用手枪。它们曾被女士使用，因为它们可以轻易地藏在钱包里或者丝袜中。</szBRDesc>
@@ -9652,9 +9652,9 @@
 		<uiIndex>1206</uiIndex>
 		<szItemName>P2000 SK</szItemName>
 		<szLongItemName>HK P2000 SK</szLongItemName>
-		<szItemDesc>P2000SK是H＆K公司开发的P2000手枪的后续型号。原本发射.40英寸子弹的枪管在不改变外部尺寸的前提下被改为使用.357 SIG子弹。</szItemDesc>
+		<szItemDesc>P2000SK是H＆K公司开发的P2000手枪的后续型号。原本发射.40英寸弹的枪管在不改变外部尺寸的前提下被改为使用.357 SIG子弹。</szItemDesc>
 		<szBRName>HK P2000 SK</szBRName>
-		<szBRDesc>P2000SK是H＆K公司开发的P2000手枪的后续型号。原本发射.40英寸子弹的枪管在不改变外部尺寸的前提下被改为使用.357 SIG子弹。</szBRDesc>
+		<szBRDesc>P2000SK是H＆K公司开发的P2000手枪的后续型号。原本发射.40英寸弹的枪管在不改变外部尺寸的前提下被改为使用.357 SIG子弹。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1207</uiIndex>
@@ -9710,7 +9710,7 @@
 		<szLongItemName>HK G41A2</szLongItemName>
 		<szItemDesc>这是G41步枪的伸缩枪托型。</szItemDesc>
 		<szBRName>HK G41A2</szBRName>
-		<szBRDesc>不在BR中销售。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1214</uiIndex>
@@ -9718,7 +9718,7 @@
 		<szLongItemName>HK G3A4</szLongItemName>
 		<szItemDesc>这是G3步枪的伸缩枪托型。</szItemDesc>
 		<szBRName>HK G3A4</szBRName>
-		<szBRDesc>不在BR中销售</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1215</uiIndex>
@@ -9798,7 +9798,7 @@
 		<szLongItemName>SIG SG552-LB全附件</szLongItemName>
 		<szItemDesc>这款5.56mm卡宾枪是SG552的长枪管型，在中等距离上精度表现优良。全附件版装备了Aimpoint公司的Comp M反射式瞄准镜，激光瞄准具/战术灯组合和前握把。</szItemDesc>
 		<szBRName>SIG SG552-LB</szBRName>
-		<szBRDesc>BR不出售。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1225</uiIndex>
@@ -9894,7 +9894,7 @@
 		<szLongItemName>C9A2</szLongItemName>
 		<szItemDesc>Diemaco公司与加拿大国防部合作研发的加拿大版Minimi机枪。</szItemDesc>
 		<szBRName>C9A2</szBRName>
-		<szBRDesc>不在BR中销售</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1237</uiIndex>
@@ -9902,7 +9902,7 @@
 		<szLongItemName>Ksp58D</szLongItemName>
 		<szItemDesc>这是瑞士陆军最新研制的FN MAG改进型，比原来的型号更轻巧灵活。</szItemDesc>
 		<szBRName>Ksp58D</szBRName>
-		<szBRDesc>不在BR中销售</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1238</uiIndex>
@@ -9926,7 +9926,7 @@
 		<szLongItemName>Steyr AUG-SMG</szLongItemName>
 		<szItemDesc>换装长度为350mm的冲锋枪枪管后的AUG是一件理想的突入武器。</szItemDesc>
 		<szBRName>Steyr AUG-SMG</szBRName>
-		<szBRDesc>不在BR中销售</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1241</uiIndex>
@@ -9942,7 +9942,7 @@
 		<szLongItemName>伯莱塔PK224S</szLongItemName>
 		<szItemDesc>这款伯莱塔手枪可以发射PK224S高速特种手枪弹。</szItemDesc>
 		<szBRName>Beretta PK224S</szBRName>
-		<szBRDesc>不在BR中销售</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1243</uiIndex>
@@ -9974,7 +9974,7 @@
 		<szLongItemName>伯莱塔SC-70/90</szLongItemName>
 		<szItemDesc>SC-70/90是AR-70/90的折叠枪托型。</szItemDesc>
 		<szBRName>Beretta SC-70/90</szBRName>
-		<szBRDesc>不在BR中销售</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1247</uiIndex>
@@ -10030,7 +10030,7 @@
 		<szLongItemName>Ultimax 100 Mk4</szLongItemName>
 		<szItemDesc>Ultimax 100 Mk3的改进型。安装了导轨护木和折叠式枪托。</szItemDesc>
 		<szBRName>Ultimax 100 Mk4</szBRName>
-		<szBRDesc>不在BR中销售</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1254</uiIndex>
@@ -10142,7 +10142,7 @@
 		<szLongItemName>SKS战术型</szLongItemName>
 		<szItemDesc>这款SKS改变了受弹口以使用AK弹匣，同时安装的皮卡汀尼导轨可以安装北约标准接口的各种附件。</szItemDesc>
 		<szBRName>SKS Tactical</szBRName>
-		<szBRDesc>不在BR中销售</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1268</uiIndex>
@@ -10150,7 +10150,7 @@
 		<szLongItemName>AK-47战术型</szLongItemName>
 		<szItemDesc>这款AK-47为使用北约标准接口的光学瞄准镜、红外激光瞄准系统以及其他传感器而安装了皮卡汀尼导轨。</szItemDesc>
 		<szBRName>AK-47 Tactical</szBRName>
-		<szBRDesc>不在BR中销售</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1269</uiIndex>
@@ -10158,7 +10158,7 @@
 		<szLongItemName>AKM战术型</szLongItemName>
 		<szItemDesc>这款AKM为使用北约标准接口的光学瞄准镜、红外激光瞄准系统以及其他传感器而安装了皮卡汀尼导轨。</szItemDesc>
 		<szBRName>AKM Tactical</szBRName>
-		<szBRDesc>不在BR中销售</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1270</uiIndex>
@@ -10190,7 +10190,7 @@
 		<szLongItemName>SA vz.58战术型</szLongItemName>
 		<szItemDesc>这款Vz.58步枪为使用北约标准接口的光学瞄准镜、红外激光瞄准系统以及其他传感器而安装了皮卡汀尼导轨。</szItemDesc>
 		<szBRName>SA vz.58 Tactical</szBRName>
-		<szBRDesc>不在BR中销售</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1274</uiIndex>
@@ -10404,17 +10404,17 @@
 		<uiIndex>1300</uiIndex>
 		<szItemName>FG42-2</szItemName>
 		<szLongItemName>FG42-2</szLongItemName>
-		<szItemDesc>FG - 42 （1942型伞兵步枪）为纳粹伞兵设计。使用的大威力子弹使它的全自动射击很难控制。这种枪带有两脚架。</szItemDesc>
+		<szItemDesc>FG-42伞兵步枪为纳粹伞兵设计。使用的全威力弹使它的全自动射击很难控制。这种枪带有两脚架。</szItemDesc>
 		<szBRName>FG42-2</szBRName>
-		<szBRDesc>FG - 42 （1942型伞兵步枪）为纳粹伞兵设计。使用的大威力子弹使它的全自动射击很难控制。这种枪带有两脚架。</szBRDesc>
+		<szBRDesc>FG-42伞兵步枪为纳粹伞兵设计。使用的全威力弹使它的全自动射击很难控制。这种枪带有两脚架。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1301</uiIndex>
 		<szItemName>MG42</szItemName>
 		<szLongItemName>MG42</szLongItemName>
-		<szItemDesc>MG- 42是二战期间德国纳粹的装备。这是一款多用途机枪。得益于其两脚架它具有很高的射速和稳定性。</szItemDesc>
+		<szItemDesc>MG-42是二战期间德国纳粹的装备。这是一款多用途机枪。得益于其两脚架它具有很高的射速和稳定性。</szItemDesc>
 		<szBRName>MG42</szBRName>
-		<szBRDesc>MG- 42是二战期间德国纳粹的装备。这是一款多用途机枪。得益于其两脚架它具有很高的射速和稳定性。</szBRDesc>
+		<szBRDesc>MG-42是二战期间德国纳粹的装备。这是一款多用途机枪。得益于其两脚架它具有很高的射速和稳定性。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1302</uiIndex>
@@ -10476,9 +10476,9 @@
 		<uiIndex>1309</uiIndex>
 		<szItemName>AK-YY-54r</szItemName>
 		<szLongItemName>AK-YY-54r</szLongItemName>
-		<szItemDesc>像M14、FAL或G3一样使用大威力7.62x54r子弹的突击步枪。这是一把YY出来的武器。</szItemDesc>
+		<szItemDesc>像M14、FAL或G3一样使用全威力7.62x54r弹的突击步枪。这是一把YY出来的武器。</szItemDesc>
 		<szBRName>AK-YY-54r</szBRName>
-		<szBRDesc>像M14、FAL或G3一样使用大威力7.62x54r子弹的突击步枪。这是一把YY出来的武器。</szBRDesc>
+		<szBRDesc>像M14、FAL或G3一样使用全威力7.62x54r弹的突击步枪。这是一把YY出来的武器。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1310</uiIndex>
@@ -10502,7 +10502,7 @@
 		<szLongItemName>M4A1 SOPMOD全附件</szLongItemName>
 		<szItemDesc>SOPMOD的意思是“特种作战改进型”，它在M4A1上集成了M203榴弹发射器及其瞄准具、一个KAC快速拆卸（QD）消声器还有Trijicon公司的ACOG（先进战斗光学瞄准镜）和C型弹鼓。</szItemDesc>
 		<szBRName>M4A1 SOPMOD Fully Armed</szBRName>
-		<szBRDesc>BR不出售。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1313</uiIndex>
@@ -10510,7 +10510,7 @@
 		<szLongItemName>AKS-74U</szLongItemName>
 		<szItemDesc>俄罗斯特种部队的常用装备。由于枪管过短，射击时的火焰可以烧焦你的眉毛。</szItemDesc>
 		<szBRName>AKS-74U</szBRName>
-		<szBRDesc>BR不出售。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1314</uiIndex>
@@ -10622,7 +10622,7 @@
 		<szLongItemName>64式微声冲锋枪</szLongItemName>
 		<szItemDesc>这款微声冲锋枪在对越自卫还击战中使用过。</szItemDesc>
 		<szBRName>Type 64 Silencer SMG</szBRName>
-		<szBRDesc>BR不出售。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1328</uiIndex>
@@ -10630,7 +10630,7 @@
 		<szLongItemName>FP-45“解放者”</szLongItemName>
 		<szItemDesc>FP-45“解放者”是美国军方在第二次世界大战期间制造的。枪的握把里可储存几发后备弹，但必须手工装填。</szItemDesc>
 		<szBRName>FP-45 Liberator</szBRName>
-		<szBRDesc>BR不出售。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1329</uiIndex>
@@ -10662,7 +10662,7 @@
 		<szLongItemName>SIG SAUER P226 PK224S</szLongItemName>
 		<szItemDesc>这款西格绍尔公司的手枪可以发射PK224S高速特种手枪弹。</szItemDesc>
 		<szBRName>SIG SAUER P226 PK224S</szBRName>
-		<szBRDesc>BR不出售。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1333</uiIndex>
@@ -10870,7 +10870,7 @@
 		<szLongItemName>莱茵金属MG3</szLongItemName>
 		<szItemDesc>MG3就是二战时期德国MG42机枪的现代改进型，发射7.62mm北约标准弹而不是原来的7.92mm毛瑟弹。</szItemDesc>
 		<szBRName>Rheinmetall MG3</szBRName>
-		<szBRDesc>BR不出售。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1359</uiIndex>
@@ -10878,7 +10878,7 @@
 		<szLongItemName>SA58 FAL Para Elite</szLongItemName>
 		<szItemDesc>SA58 FAL Para Elite就是在13"枪管上装了一个很长的固定式消焰器而成的16"枪管的短枪管步枪。</szItemDesc>
 		<szBRName>SA58 FAL Para Elite</szBRName>
-		<szBRDesc>BR不出售。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1360</uiIndex>
@@ -10894,7 +10894,7 @@
 		<szLongItemName>沙漠之鹰10英寸</szLongItemName>
 		<szItemDesc>使用10英寸枪管的.50AE“沙漠之鹰”。</szItemDesc>
 		<szBRName>Desert Eagle 10-inch</szBRName>
-		<szBRDesc>BR不出售。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1362</uiIndex>
@@ -10958,7 +10958,7 @@
 		<szLongItemName>伯莱塔Cx4全自动</szLongItemName>
 		<szItemDesc>伯莱塔Cx4“风暴”的.45 ACP口径全自动型。</szItemDesc>
 		<szBRName>Beretta Cx4 Modified</szBRName>
-		<szBRDesc>BR不出售。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1370</uiIndex>
@@ -10966,7 +10966,7 @@
 		<szLongItemName>Saiga 12 EXP-01</szLongItemName>
 		<szItemDesc>长枪管、消焰器和大容量弹匣，配有皮卡汀尼以安装北约制式的各种光学瞄具。</szItemDesc>
 		<szBRName>Saiga 12 EXP-01</szBRName>
-		<szBRDesc>BR不出售。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1371</uiIndex>
@@ -11038,7 +11038,7 @@
 		<szLongItemName>HK416 16"卡宾枪</szLongItemName>
 		<szItemDesc>比HK416的标准枪管长一点而已。</szItemDesc>
 		<szBRName>HK416 16" Carbine</szBRName>
-		<szBRDesc>BR不出售。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1380</uiIndex>
@@ -11107,10 +11107,10 @@
 	<ITEM>
 		<uiIndex>1388</uiIndex>
 		<szItemName>M1924/29</szItemName>
-		<szLongItemName>Chatellerault M1924/29</szLongItemName>
-		<szItemDesc>法国“沙捷里拉”（Chatellerault）机枪基本采用了勃朗宁自动步枪的原理-枪机偏移式闭锁机构，但是把弹匣修改为顶部安装。</szItemDesc>
+		<szLongItemName>夏特罗M1924/29</szLongItemName>
+		<szItemDesc>法国夏特罗机枪基本采用了勃朗宁自动步枪的原理-枪机偏移式闭锁机构，但是把弹匣修改为顶部安装。</szItemDesc>
 		<szBRName>French M1924/29</szBRName>
-		<szBRDesc>法国“沙捷里拉”（Chatellerault）机枪基本采用了勃朗宁自动步枪的原理-枪机偏移式闭锁机构，但是把弹匣修改为顶部安装。</szBRDesc>
+		<szBRDesc>法国夏特罗机枪基本采用了勃朗宁自动步枪的原理-枪机偏移式闭锁机构，但是把弹匣修改为顶部安装。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1389</uiIndex>
@@ -11134,7 +11134,7 @@
 		<szLongItemName>M14 JAE-100</szLongItemName>
 		<szItemDesc>为24英寸枪管的M14配装了JAE-100战术枪托。</szItemDesc>
 		<szBRName>M14 JAE-100</szBRName>
-		<szBRDesc>BR不出售。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1392</uiIndex>
@@ -11142,7 +11142,7 @@
 		<szLongItemName>M1A JAE-100</szLongItemName>
 		<szItemDesc>为16英寸枪管的M14配装了JAE-100战术枪托。</szItemDesc>
 		<szBRName>M1A Scout JAE-100</szBRName>
-		<szBRDesc>BR不出售。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1393</uiIndex>
@@ -11166,15 +11166,15 @@
 		<szLongItemName>Mark18全附件</szLongItemName>
 		<szItemDesc>Mark18 MOD.1武器系统配用了VLTOR CASV-EL自由浮动护木以提高准确性，带有MAGWELL弹匣扩口装置以快速换装弹匣（不可配用BETA-C MAG弹鼓），配合供弹可靠的HK416钢制弹匣并安装了AN/PEQ-2可见光/红外激光指示器和EoTech瞄准镜。</szItemDesc>
 		<szBRName>Mark18 Fully Armed</szBRName>
-		<szBRDesc>BR不出售。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1396</uiIndex>
 		<szItemName>Viper-CQC</szItemName>
 		<szLongItemName>Viper M16 7.5" CQC</szLongItemName>
-		<szItemDesc>M16 Viper（毒蛇）短枪管步枪是一种短枪管突击步枪(SBR)，使用重型不锈钢比赛级枪管，适合于室内近战和要人保护工作。</szItemDesc>
+		<szItemDesc>M16 Viper短枪管步枪是一种短枪管突击步枪，使用重型不锈钢比赛级枪管，适合于室内近战和要人保护工作。</szItemDesc>
 		<szBRName>Viper M16 CQC</szBRName>
-		<szBRDesc>M16 Viper（毒蛇）短枪管步枪是一种短枪管突击步枪(SBR)，使用重型不锈钢比赛级枪管，适合于室内近战和要人保护工作。</szBRDesc>
+		<szBRDesc>M16 Viper短枪管步枪是一种短枪管突击步枪，使用重型不锈钢比赛级枪管，适合于室内近战和要人保护工作。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1397</uiIndex>
@@ -11188,9 +11188,9 @@
 		<uiIndex>1398</uiIndex>
 		<szItemName>M1918 AT</szItemName>
 		<szLongItemName>M1918反坦克枪</szLongItemName>
-		<szItemDesc>13.2mm口径的Tank Abwehr Gewehr M1918反坦克枪，是德国在第一次世界大战时开发的，它也是世界上第一支以摧毁装甲目标为唯一目的的步枪。</szItemDesc>
+		<szItemDesc>13.2mm口径的M1918反坦克枪，是德国在第一次世界大战时开发的，它也是世界上第一支以摧毁装甲目标为唯一目的的步枪。</szItemDesc>
 		<szBRName>M1918 AT Rifle</szBRName>
-		<szBRDesc>13.2mm口径的Tank Abwehr Gewehr M1918反坦克枪，是德国在第一次世界大战时开发的，它也是世界上第一支以摧毁装甲目标为唯一目的的步枪。</szBRDesc>
+		<szBRDesc>13.2mm口径的M1918反坦克枪，是德国在第一次世界大战时开发的，它也是世界上第一支以摧毁装甲目标为唯一目的的步枪。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1399</uiIndex>
@@ -11211,31 +11211,31 @@
 	<ITEM>
 		<uiIndex>1401</uiIndex>
 		<szItemName>.40 Mag 8</szItemName>
-		<szLongItemName>.40史密斯＆韦森，8发普通弹</szLongItemName>
-		<szItemDesc>.40史密斯＆韦森普通弹，中间型这个概念是在1990年提出的，它拥有比9mm弹更好的停止作用和比.45ACP弹更好的侵透力。</szItemDesc>
+		<szLongItemName>.40 S＆W，8发普通弹</szLongItemName>
+		<szItemDesc>.40 S＆W普通弹，中间型这个概念是在1990年提出的，它拥有比9mm弹更好的停止作用和比.45ACP弹更好的侵透力。</szItemDesc>
 		<szBRName>.40 S＆W 8 Mag</szBRName>
-		<szBRDesc>.40史密斯＆韦森普通弹，被执法单位大量采用的大众型弹药。</szBRDesc>
+		<szBRDesc>.40 S＆W普通弹，被执法单位大量采用的大众型弹药。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1402</uiIndex>
 		<szItemName>.40 Mag 8 HP</szItemName>
-		<szLongItemName>.40史密斯＆韦森，8发空尖弹</szLongItemName>
-		<szItemDesc>空尖结构更进一步的提高了.40史密斯＆韦森弹的停止作用。</szItemDesc>
+		<szLongItemName>.40 S＆W，8发空尖弹</szLongItemName>
+		<szItemDesc>空尖结构更进一步的提高了.40 S＆W弹的停止作用。</szItemDesc>
 		<szBRName>.40 S＆W Mag 8 HP</szBRName>
 		<szBRDesc>击中目标迅速形变的空尖结构赋予了这种手枪子弹更大的威力。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1403</uiIndex>
 		<szItemName>.40 Mag 8 KTW</szItemName>
-		<szLongItemName>.40史密斯＆韦森，8发特氟隆涂层弹</szLongItemName>
-		<szItemDesc>有效综合了穿透力和停止作用的.40史密斯＆韦森特氟隆涂层弹。</szItemDesc>
+		<szLongItemName>.40 S＆W，8发特氟隆涂层弹</szLongItemName>
+		<szItemDesc>有效综合了穿透力和停止作用的.40 S＆W特氟隆涂层弹。</szItemDesc>
 		<szBRName>.40 S＆W Mag 8 KTW</szBRName>
 		<szBRDesc>当你的目标面对这种强力的特氟隆涂层弹时，就算穿着防弹衣也只能是被打倒的命。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1404</uiIndex>
 		<szItemName>.40 Mag 8 M</szItemName>
-		<szLongItemName>.40史密斯＆韦森，8发比赛弹</szLongItemName>
+		<szLongItemName>.40 S＆W，8发比赛弹</szLongItemName>
 		<szItemDesc>8发比赛级弹。在后坐力不变的情况下增加了射程。</szItemDesc>
 		<szBRName>.40 S＆W Mag 8 Match</szBRName>
 		<szBRDesc>精准的比赛级弹助你在竞赛或生死决斗的时候取胜。</szBRDesc>
@@ -11243,31 +11243,31 @@
 	<ITEM>
 		<uiIndex>1405</uiIndex>
 		<szItemName>.40 Mag 12</szItemName>
-		<szLongItemName>.40史密斯＆韦森，12发普通弹</szLongItemName>
-		<szItemDesc>.40史密斯＆韦森普通弹，中间型这个概念是在1990年提出的，它拥有比9mm弹更好的停止作用和比.45ACP弹更好的侵透力。</szItemDesc>
+		<szLongItemName>.40 S＆W，12发普通弹</szLongItemName>
+		<szItemDesc>.40 S＆W普通弹，中间型这个概念是在1990年提出的，它拥有比9mm弹更好的停止作用和比.45ACP弹更好的侵透力。</szItemDesc>
 		<szBRName>.40 S＆W Mag 12</szBRName>
-		<szBRDesc>.40史密斯＆韦森普通弹，被执法单位大量采用的大众型弹药。</szBRDesc>
+		<szBRDesc>.40 S＆W普通弹，被执法单位大量采用的大众型弹药。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1406</uiIndex>
 		<szItemName>.40 Mag HP 12</szItemName>
-		<szLongItemName>.40史密斯＆韦森，12发空尖弹</szLongItemName>
-		<szItemDesc>空尖结构更进一步的提高了.40史密斯＆韦森弹的停止作用。</szItemDesc>
+		<szLongItemName>.40 S＆W，12发空尖弹</szLongItemName>
+		<szItemDesc>空尖结构更进一步的提高了.40 S＆W的停止作用。</szItemDesc>
 		<szBRName>.40 S＆W Mag 12 HP</szBRName>
 		<szBRDesc>击中目标迅速形变的空尖结构赋予了这种手枪子弹更大的威力。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1407</uiIndex>
 		<szItemName>.40 Mag 12 KTW</szItemName>
-		<szLongItemName>.40史密斯＆韦森，12发特氟隆涂层弹</szLongItemName>
-		<szItemDesc>有效综合了穿透力和停止作用的.40史密斯＆韦森特氟隆涂层弹。</szItemDesc>
+		<szLongItemName>.40 S＆W，12发特氟隆涂层弹</szLongItemName>
+		<szItemDesc>有效综合了穿透力和停止作用的.40 S＆W特氟隆涂层弹。</szItemDesc>
 		<szBRName>.40 S＆W Mag 12 KTW</szBRName>
 		<szBRDesc>当你的目标面对这种强力的特氟隆涂层弹时，就算穿着防弹衣也只能是被打倒的命。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1408</uiIndex>
 		<szItemName>.40 Mag 12 M</szItemName>
-		<szLongItemName>.40史密斯＆韦森，12发比赛弹</szLongItemName>
+		<szLongItemName>.40 S＆W，12发比赛弹</szLongItemName>
 		<szItemDesc>12发比赛级弹。在后坐力不变的情况下增加了射程。</szItemDesc>
 		<szBRName>.40 S＆W Mag 12 Match</szBRName>
 		<szBRDesc>精准的比赛级弹助你在竞赛或生死决斗的时候取胜。</szBRDesc>
@@ -11275,31 +11275,31 @@
 	<ITEM>
 		<uiIndex>1409</uiIndex>
 		<szItemName>.40 Mag 15</szItemName>
-		<szLongItemName>.40史密斯＆韦森，15发普通弹</szLongItemName>
-		<szItemDesc>.40史密斯＆韦森普通弹，中间型这个概念是在1990年提出的，它拥有比9mm弹更好的停止作用和比.45ACP弹更好的侵透力。</szItemDesc>
+		<szLongItemName>.40 S＆W，15发普通弹</szLongItemName>
+		<szItemDesc>.40 S＆W普通弹，中间型这个概念是在1990年提出的，它拥有比9mm弹更好的停止作用和比.45ACP弹更好的侵透力。</szItemDesc>
 		<szBRName>.40 S＆W Mag 15</szBRName>
-		<szBRDesc>.40史密斯＆韦森普通弹，被执法单位大量采用的大众型弹药。</szBRDesc>
+		<szBRDesc>.40 S＆W普通弹，被执法单位大量采用的大众型弹药。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1410</uiIndex>
 		<szItemName>.40 Mag HP 15</szItemName>
-		<szLongItemName>.40史密斯＆韦森，15发空尖弹</szLongItemName>
-		<szItemDesc>空尖结构更进一步的提高了.40史密斯＆韦森弹的停止作用。</szItemDesc>
+		<szLongItemName>.40 S＆W，15发空尖弹</szLongItemName>
+		<szItemDesc>空尖结构更进一步的提高了.40 S＆W的停止作用。</szItemDesc>
 		<szBRName>.40 S＆W Mag HP 15</szBRName>
 		<szBRDesc>击中目标迅速形变的空尖结构赋予了这种手枪子弹更大的威力。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1411</uiIndex>
 		<szItemName>.40 Mag KTW 15</szItemName>
-		<szLongItemName>.40史密斯＆韦森，15发特氟隆涂层弹</szLongItemName>
-		<szItemDesc>有效综合了穿透力和停止作用的.40史密斯＆韦森特氟隆涂层弹。</szItemDesc>
+		<szLongItemName>.40 S＆W，15发特氟隆涂层弹</szLongItemName>
+		<szItemDesc>有效综合了穿透力和停止作用的.40 S＆W特氟隆涂层弹。</szItemDesc>
 		<szBRName>.40 S＆W Mag KTW 15</szBRName>
 		<szBRDesc>当你的目标面对这种强力的特氟隆涂层弹时，就算穿着防弹衣也只能是被打倒的命。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1412</uiIndex>
 		<szItemName>.40 Mag 15 M</szItemName>
-		<szLongItemName>.40史密斯＆韦森，15发比赛弹</szLongItemName>
+		<szLongItemName>.40 S＆W，15发比赛弹</szLongItemName>
 		<szItemDesc>15发比赛级弹。在后坐力不变的情况下增加了射程。</szItemDesc>
 		<szBRName>.40 S＆W Mag 15 Match</szBRName>
 		<szBRDesc>精准的比赛级弹助你在竞赛或生死决斗的时候取胜。</szBRDesc>
@@ -11307,31 +11307,31 @@
 	<ITEM>
 		<uiIndex>1413</uiIndex>
 		<szItemName>.40 SMG Mag</szItemName>
-		<szLongItemName>.40史密斯＆韦森，30发普通弹</szLongItemName>
-		<szItemDesc>.40史密斯＆韦森普通弹，中间型这个概念是在1990年提出的，它拥有比9mm弹更好的停止作用和比.45ACP弹更好的侵透力。</szItemDesc>
+		<szLongItemName>.40 S＆W，30发普通弹</szLongItemName>
+		<szItemDesc>.40 S＆W普通弹，中间型这个概念是在1990年提出的，它拥有比9mm弹更好的停止作用和比.45ACP弹更好的侵透力。</szItemDesc>
 		<szBRName>.40 S＆W SMG Mag</szBRName>
-		<szBRDesc>.40史密斯＆韦森普通弹，被执法单位大量采用的大众型弹药。</szBRDesc>
+		<szBRDesc>.40 S＆W普通弹，被执法单位大量采用的大众型弹药。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1414</uiIndex>
 		<szItemName>.40 SMG Mag HP</szItemName>
-		<szLongItemName>.40史密斯＆韦森，30发空尖弹</szLongItemName>
-		<szItemDesc>空尖结构更进一步的提高了.40史密斯＆韦森弹的停止作用。</szItemDesc>
+		<szLongItemName>.40 S＆W，30发空尖弹</szLongItemName>
+		<szItemDesc>空尖结构更进一步的提高了.40 S＆W弹的停止作用。</szItemDesc>
 		<szBRName>.40 S＆W SMG Mag, HP</szBRName>
 		<szBRDesc>击中目标迅速形变的空尖结构赋予了这种手枪子弹更大的威力。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1415</uiIndex>
 		<szItemName>.40 SMG Mag KTW</szItemName>
-		<szLongItemName>.40史密斯＆韦森，30发特氟隆涂层弹</szLongItemName>
-		<szItemDesc>有效综合了穿透力和停止作用的.40史密斯＆韦森特氟隆涂层弹。</szItemDesc>
+		<szLongItemName>.40 S＆W，30发特氟隆涂层弹</szLongItemName>
+		<szItemDesc>有效综合了穿透力和停止作用的.40 S＆W特氟隆涂层弹。</szItemDesc>
 		<szBRName>.40 S＆W SMG Mag, KTW</szBRName>
 		<szBRDesc>当你的目标面对这种强力的特氟隆涂层弹时，就算穿着防弹衣也只能是被打倒的命。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1416</uiIndex>
 		<szItemName>.40 SMG Mag M</szItemName>
-		<szLongItemName>.40史密斯＆韦森，30发比赛弹</szLongItemName>
+		<szLongItemName>.40 S＆W，30发比赛弹</szLongItemName>
 		<szItemDesc>30发比赛级弹。在后坐力不变的情况下增加了射程。</szItemDesc>
 		<szBRName>.40 S＆W SMG Mag, Match</szBRName>
 		<szBRDesc>精准的比赛级弹助你在竞赛或生死决斗的时候取胜。</szBRDesc>
@@ -13790,7 +13790,7 @@
 		<szLongItemName>带耳机的IBCH头盔</szLongItemName>
 		<szItemDesc>轻便的综合通讯头盔，表面涂有迷彩。已经集成了战术助听器和通讯耳机。</szItemDesc>
 		<szBRName>Integrated Ballistic Com Helmet</szBRName>
-		<szBRDesc>BR不出售。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1724</uiIndex>
@@ -14030,7 +14030,7 @@
 		<szLongItemName>一对IV级陶瓷插板</szLongItemName>
 		<szItemDesc>可以在防弹背心的前后插袋内插入两片SAPI IV防弹插板以提供更全面的防护。</szItemDesc>
 		<szBRName>A Pair of SAPI IV Plates</szBRName>
-		<szBRDesc>BR不出售。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1754</uiIndex>
@@ -14110,7 +14110,7 @@
 		<szLongItemName>一对III级陶瓷插板</szLongItemName>
 		<szItemDesc>可以在防弹背心的前后插袋内插入两片SAPI III防弹插板以提供更全面的防护。</szItemDesc>
 		<szBRName>A Pair of SAPI III Plates</szBRName>
-		<szBRDesc>BR不出售。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1764</uiIndex>
@@ -14118,7 +14118,7 @@
 		<szLongItemName>一对陶瓷插板</szLongItemName>
 		<szItemDesc>可以在防弹背心的前插袋内插一片SAPI IV防弹插板，后面插一片SAPI III防弹插板，以提供更全面的防护，而且不用太重。</szItemDesc>
 		<szBRName>A Pair of SAPI Plates</szBRName>
-		<szBRDesc>BR不出售。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1765</uiIndex>
@@ -14142,7 +14142,7 @@
 		<szLongItemName>美军M1头盔</szLongItemName>
 		<szItemDesc>二战时期的美军M1头盔。</szItemDesc>
 		<szBRName>US M1 Helmet</szBRName>
-		<szBRDesc>BR不出售。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1768</uiIndex>
@@ -14150,7 +14150,7 @@
 		<szLongItemName>弗朗西斯科头盔</szLongItemName>
 		<szItemDesc>法国兵用的家伙。</szItemDesc>
 		<szBRName>Franzoesischer Helmet</szBRName>
-		<szBRDesc>BR不出售。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1769</uiIndex>
@@ -14158,7 +14158,7 @@
 		<szLongItemName>东德人民军头盔</szLongItemName>
 		<szItemDesc>前东德装备的头盔，很像韦德爵士吧。</szItemDesc>
 		<szBRName>NVA Helmet</szBRName>
-		<szBRDesc>BR不出售。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1770</uiIndex>
@@ -14166,7 +14166,7 @@
 		<szLongItemName>西班牙头盔</szLongItemName>
 		<szItemDesc>西班牙殖民时期的头盔。</szItemDesc>
 		<szBRName>Spanischer Helmet</szBRName>
-		<szBRDesc>BR不出售。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1771</uiIndex>
@@ -14174,7 +14174,7 @@
 		<szLongItemName>巫术胸罩</szLongItemName>
 		<szItemDesc>原装正品从塞拉利昂入口，经当地的大巫师施了法，戴在身上后可以让射向你的子弹转弯。相信我，"西部男孩"就是靠它抵挡住英军特种兵的子弹的。</szItemDesc>
 		<szBRName>Magic Bra</szBRName>
-		<szBRDesc>BR不出售。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1772</uiIndex>
@@ -14222,7 +14222,7 @@
 		<szLongItemName>警用防弹衣</szLongItemName>
 		<szItemDesc>秘密警察使用的重型防弹衣。</szItemDesc>
 		<szBRName>Police Armor Vest</szBRName>
-		<szBRDesc>BR不出售。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1778</uiIndex>
@@ -14230,7 +14230,7 @@
 		<szLongItemName>贞操带</szLongItemName>
 		<szItemDesc>超坚固的防弹用品，无懈可击，无论是电钻、冲击钻、强酸、子弹或是锁匠。可单独穿戴或与其他长裤配合使用。</szItemDesc>
 		<szBRName>Chastity Belt</szBRName>
-		<szBRDesc>BR不出售。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1779</uiIndex>
@@ -14318,7 +14318,7 @@
 		<szLongItemName>英军MK2头盔</szLongItemName>
 		<szItemDesc>典型的英国兵二战锅盔，很早以前就装备了。</szItemDesc>
 		<szBRName>UK Mk2 Helmet</szBRName>
-		<szBRDesc>BR不出售。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1790</uiIndex>
@@ -14350,7 +14350,7 @@
 		<szLongItemName>猎人背心</szLongItemName>
 		<szItemDesc>猎人或者摄影师常用的背心。</szItemDesc>
 		<szBRName>Hunter Vest</szBRName>
-		<szBRDesc>BR不出售。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1794</uiIndex>
@@ -14462,37 +14462,37 @@
 		<szLongItemName>SUSAT 4倍镜</szLongItemName>
 		<szItemDesc>SUSAT 4倍镜有内照明瞄准线和备用的开放式照门，适用于SA80和一些FAL步枪。SUSAT可让射手在单发模式下精确的射击400-500米</szItemDesc>
 		<szBRName>SUSAT 4x Scope</szBRName>
-		<szBRDesc>SUSAT （Sight Unit, Small Arms, Trilux/氘气轻武器瞄准单位）4倍镜有内照明瞄准线和备用的开放式照门，适用于SA80和一些FAL步枪。SUSAT可让射手在单发模式下精确的射击400-500米</szBRDesc>
+		<szBRDesc>SUSAT（氘气轻武器瞄准单位）4倍镜有内照明瞄准线和备用的开放式照门，适用于SA80和一些FAL步枪。SUSAT可让射手在单发模式下精确的射击400-500米</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1808</uiIndex>
 		<szItemName>MARS</szItemName>
-		<szLongItemName>ITL多用途反射瞄准</szLongItemName>
-		<szItemDesc>ITL MARS(Multipurpose Aiming Reflex Sight/多用途反射瞄准）结合了激光瞄准和红点。以色列的TAVOR突击步枪标准附件。</szItemDesc>
+		<szLongItemName>ITL MARS</szLongItemName>
+		<szItemDesc>ITL MARS(多功能反射瞄准）结合了激光瞄准和红点。以色列的TAVOR突击步枪标准附件。</szItemDesc>
 		<szBRName>ITL MARS</szBRName>
-		<szBRDesc>ITL MARS(Multipurpose Aiming Reflex Sight/多用途反射瞄准）结合了激光瞄准和红点。以色列的TAVOR突击步枪标准附件。</szBRDesc>
+		<szBRDesc>ITL MARS(多功能反射瞄准）结合了激光瞄准和红点。以色列的TAVOR突击步枪标准附件。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1809</uiIndex>
 		<szItemName>ISM-V-IR</szItemName>
 		<szLongItemName>ISM-V-IR</szLongItemName>
-		<szItemDesc>Insight科技公司的ISM(Integrated Sighting Module/集成瞄准模块）是为XM8而设计的，这个型号整合了红点镜和红外激光指示器。</szItemDesc>
+		<szItemDesc>ITL公司的ISM一体化瞄准镜是为XM8而设计的，这个型号整合了红点镜和红外激光指示器。</szItemDesc>
 		<szBRName>ISM-V-IR</szBRName>
-		<szBRDesc>Insight科技公司的ISM(Integrated Sighting Module/集成瞄准模块）是为XM8而设计的，这个型号整合了红点镜和红外激光指示器。</szBRDesc>
+		<szBRDesc>ITL公司的ISM一体化瞄准镜是为XM8而设计的，这个型号整合了红点镜和红外激光指示器。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1810</uiIndex>
 		<szItemName>ISM-4X-IR</szItemName>
 		<szLongItemName>ISM-4X-IR</szLongItemName>
-		<szItemDesc>Insight科技公司的ISM(Integrated Sighting Module/集成瞄准模块）是为XM8而设计的，这个型号整合了4倍ACOG和红外激光指示器。</szItemDesc>
+		<szItemDesc>ITL公司的ISM一体化瞄准镜是为XM8而设计的，这个型号整合了4倍ACOG和红外激光指示器。</szItemDesc>
 		<szBRName>ISM-4X-IR</szBRName>
-		<szBRDesc>Insight科技公司的ISM(Integrated Sighting Module/集成瞄准模块）是为XM8而设计的，这个型号整合了4倍ACOG和红外激光指示器。</szBRDesc>
+		<szBRDesc>ITL公司的ISM一体化瞄准镜是为XM8而设计的，这个型号整合了4倍ACOG和红外激光指示器。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1811</uiIndex>
 		<szItemName>Marksman 4x20</szItemName>
 		<szLongItemName>射手4倍镜</szLongItemName>
-		<szItemDesc>Combat Military Optics(军用作战光学仪器)公司的射手系列紧凑型步枪瞄准镜，是为专业的射手开发的精确，可靠，耐久的瞄准镜。</szItemDesc>
+		<szItemDesc>Combat Military Optics公司的射手系列紧凑型步枪瞄准镜，是为专业的射手开发的精确，可靠，耐久的瞄准镜。</szItemDesc>
 		<szBRName>Marksman 4x Battle Scope</szBRName>
 		<szBRDesc>M-16系列的4x20射手瞄准镜可以直接安在M16和FAL步枪的提把上。</szBRDesc>
 	</ITEM>
@@ -14524,9 +14524,9 @@
 		<uiIndex>1815</uiIndex>
 		<szItemName>AN/PVS-10 NVS</szItemName>
 		<szLongItemName>AN/PVS-10夜视狙击镜</szLongItemName>
-		<szItemDesc>AN/PVS-10夜视狙击镜结合了昼夜两种模式。日间和夜间的放大倍率均为8.5倍，可调光亮度和瞄准线照明度。</szItemDesc>
+		<szItemDesc>AN/PVS-10夜视狙击镜结合了昼夜两种模式。日间和夜间的放大倍率均为12.2倍，可调光亮度和瞄准线照明度。</szItemDesc>
 		<szBRName>AN/PVS-10 Night Vision Sniperscope</szBRName>
-		<szBRDesc>AN/PVS-10夜视狙击镜结合了昼夜两种模式。日间和夜间的放大倍率均为8.5倍，可调光亮度和瞄准线照明度。</szBRDesc>
+		<szBRDesc>AN/PVS-10夜视狙击镜结合了昼夜两种模式。日间和夜间的放大倍率均为12.2倍，可调光亮度和瞄准线照明度。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1816</uiIndex>
@@ -14596,9 +14596,9 @@
 		<uiIndex>1824</uiIndex>
 		<szItemName>ACOG Reflex</szItemName>
 		<szLongItemName>Trijicon ACOG反射镜</szLongItemName>
-		<szItemDesc>Trijicon高科技的反射镜结合了ACOG， 在任何光线下都给射手提供了完美的速度和精度的结合。</szItemDesc>
+		<szItemDesc>Trijicon公司的反射镜像ACOG一样采用氚光和自然光照明， 在任何光线下都给射手提供了完美的速度和精度的结合。</szItemDesc>
 		<szBRName>Trijicon ACOG Reflex</szBRName>
-		<szBRDesc>Trijicon高科技的反射镜结合了ACOG， 在任何光线下都给射手提供了完美的速度和精度的结合。</szBRDesc>
+		<szBRDesc>Trijicon公司的反射镜像ACOG一样采用氚光和自然光照明， 在任何光线下都给射手提供了完美的速度和精度的结合。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1825</uiIndex>
@@ -14628,17 +14628,17 @@
 		<uiIndex>1828</uiIndex>
 		<szItemName>3X MAG for Red-dot</szItemName>
 		<szLongItemName>红点用3倍镜</szLongItemName>
-		<szItemDesc>3倍放大模组是为兼容各种红点而设计（Aimpoint, EoTech等）。</szItemDesc>
+		<szItemDesc>3倍放大模组是为兼容各种红点镜而设计（Aimpoint, EoTech等）。</szItemDesc>
 		<szBRName>3X MAG for Red-dot</szBRName>
-		<szBRDesc>3倍放大模组是为兼容各种红点而设计（Aimpoint, EoTech等）。</szBRDesc>
+		<szBRDesc>3倍放大模组是为兼容各种红点镜而设计（Aimpoint, EoTech等）。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1829</uiIndex>
 		<szItemName>Snooperscope</szItemName>
 		<szLongItemName>红外狙击镜</szLongItemName>
-		<szItemDesc>二战武器所用红外瞄准镜，带有电池等供应系统。</szItemDesc>
+		<szItemDesc>二战武器所用主动红外瞄准镜，带有电池等供应系统。</szItemDesc>
 		<szBRName>Infrared Sniperscope</szBRName>
-		<szBRDesc>二战武器所用红外瞄准镜，带有电池等供应系统。</szBRDesc>
+		<szBRDesc>二战武器所用主动红外瞄准镜，带有电池等供应系统。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1830</uiIndex>
@@ -14827,10 +14827,10 @@
 	<ITEM>
 		<uiIndex>1853</uiIndex>
 		<szItemName>Simple LAM</szItemName>
-		<szLongItemName>俄国激光手电组合</szLongItemName>
-		<szItemDesc>简单的激光和手电的组合可以装在俄国造的各式手枪上。</szItemDesc>
+		<szLongItemName>俄国激光和战术灯组合</szLongItemName>
+		<szItemDesc>简单的激光和战术灯的组合可以装在俄国造的各式手枪上。</szItemDesc>
 		<szBRName>Russian Simple LAM</szBRName>
-		<szBRDesc>简单的激光和手电的组合可以装在俄国造的各式手枪上。</szBRDesc>
+		<szBRDesc>简单的激光和战术灯的组合可以装在俄国造的各式手枪上。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1854</uiIndex>
@@ -14852,9 +14852,9 @@
 		<uiIndex>1856</uiIndex>
 		<szItemName>ZF-42</szItemName>
 		<szLongItemName>ZF-42瞄准镜</szLongItemName>
-		<szItemDesc>二战德军Gewehr98和K98K所用的瞄准镜。</szItemDesc>
+		<szItemDesc>二战德军G98和K98K所用的瞄准镜。</szItemDesc>
 		<szBRName>ZF-42 Scope</szBRName>
-		<szBRDesc>二战德军Gewehr98和K98K所用的瞄准镜。</szBRDesc>
+		<szBRDesc>二战德军G98和K98K所用的瞄准镜。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1857</uiIndex>
@@ -15100,9 +15100,9 @@
 		<uiIndex>1887</uiIndex>
 		<szItemName>con.t of 870MCS Patrol</szItemName>
 		<szLongItemName>870MCS巡逻组件</szLongItemName>
-		<szItemDesc>18英寸枪管和加大的弹仓，将你的870MCS转换成全长度的巡逻设置。</szItemDesc>
+		<szItemDesc>18英寸枪管和加大的弹仓，将你的870MCS转换成全长度的巡逻霰弹枪。</szItemDesc>
 		<szBRName>con.t of 870MCS Patrol</szBRName>
-		<szBRDesc>18英寸枪管和加大的弹仓，将你的870MCS转换成全长度的巡逻设置。</szBRDesc>
+		<szBRDesc>18英寸枪管和加大的弹仓，将你的870MCS转换成全长度的巡逻霰弹枪。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1888</uiIndex>
@@ -15204,9 +15204,9 @@
 		<uiIndex>1900</uiIndex>
 		<szItemName>Masada Kits</szItemName>
 		<szLongItemName>Masada 556 SBR套件</szLongItemName>
-		<szItemDesc>Masada步枪的改装套件，适合发射5.56x45mm子弹，包括11.5英寸长的枪管、护木和枪机组件。</szItemDesc>
+		<szItemDesc>Masada步枪的改装套件，适合发射5.56x45mm子弹，包括10.5英寸长的枪管、护木和枪机组件。</szItemDesc>
 		<szBRName>Masada 556 SBR kit</szBRName>
-		<szBRDesc>Masada步枪的改装套件，适合发射5.56x45mm子弹，包括11.5英寸长的枪管、护木和枪机组件。</szBRDesc>
+		<szBRDesc>Masada步枪的改装套件，适合发射5.56x45mm子弹，包括10.5英寸长的枪管、护木和枪机组件。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1901</uiIndex>
@@ -15220,17 +15220,17 @@
 		<uiIndex>1902</uiIndex>
 		<szItemName>Masada Kits</szItemName>
 		<szLongItemName>Masada 556 SPR套件</szLongItemName>
-		<szItemDesc>Masada步枪的改装套件，适合发射5.56x45mm子弹，包括20英寸长的枪管、护木和枪机组件。</szItemDesc>
+		<szItemDesc>Masada步枪的改装套件，适合发射5.56x45mm子弹，包括18英寸长的枪管、护木和枪机组件。</szItemDesc>
 		<szBRName>Masada 556 SPR kit</szBRName>
-		<szBRDesc>Masada步枪的改装套件，适合发射5.56x45mm子弹，包括20英寸长的枪管、护木和枪机组件。</szBRDesc>
+		<szBRDesc>Masada步枪的改装套件，适合发射5.56x45mm子弹，包括18英寸长的枪管、护木和枪机组件。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1903</uiIndex>
 		<szItemName>Masada Kits</szItemName>
 		<szLongItemName>Masada 762 SBR套件</szLongItemName>
-		<szItemDesc>Masada步枪的改装套件，适合发射7.62x39mm子弹，包括11.5英寸长的枪管、护木和枪机组件。</szItemDesc>
+		<szItemDesc>Masada步枪的改装套件，适合发射7.62x39mm子弹，包括10.5英寸长的枪管、护木和枪机组件。</szItemDesc>
 		<szBRName>Masada 762 SBR kit</szBRName>
-		<szBRDesc>Masada步枪的改装套件，适合发射7.62x39mm子弹，包括11.5英寸长的枪管、护木和枪机组件。</szBRDesc>
+		<szBRDesc>Masada步枪的改装套件，适合发射7.62x39mm子弹，包括10.5英寸长的枪管、护木和枪机组件。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1904</uiIndex>
@@ -15244,9 +15244,9 @@
 		<uiIndex>1905</uiIndex>
 		<szItemName>Masada Kits</szItemName>
 		<szLongItemName>Masada 762 SPR套件</szLongItemName>
-		<szItemDesc>Masada步枪的改装套件，适合发射7.62x39mm子弹，包括20英寸长的枪管、护木和枪机组件。</szItemDesc>
+		<szItemDesc>Masada步枪的改装套件，适合发射7.62x39mm子弹，包括18英寸长的枪管、护木和枪机组件。</szItemDesc>
 		<szBRName>Masada 762 SPR kit</szBRName>
-		<szBRDesc>Masada步枪的改装套件，适合发射7.62x39mm子弹，包括20英寸长的枪管、护木和枪机组件。</szBRDesc>
+		<szBRDesc>Masada步枪的改装套件，适合发射7.62x39mm子弹，包括18英寸长的枪管、护木和枪机组件。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1906</uiIndex>
@@ -15564,9 +15564,9 @@
 		<uiIndex>1945</uiIndex>
 		<szItemName>MBSS</szItemName>
 		<szLongItemName>MBSS背心</szLongItemName>
-		<szItemDesc>马里兰州Biological Stream Survey公司的MBSS背心可在携带弹药之余还能插两块防弹插板，是一种轻型携行具。</szItemDesc>
+		<szItemDesc>MBSS背心可在携带弹药之余还能插两块防弹插板，是一种轻型携行具。</szItemDesc>
 		<szBRName>MBSS Plate Carrier Harness</szBRName>
-		<szBRDesc>马里兰州Biological Stream Survey公司的MBSS背心可在携带弹药之余还能插两块防弹插板，是一种轻型携行具。</szBRDesc>
+		<szBRDesc>MBSS背心可在携带弹药之余还能插两块防弹插板，是一种轻型携行具。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1946</uiIndex>
@@ -15692,9 +15692,9 @@
 		<uiIndex>1961</uiIndex>
 		<szItemName>S＆W 41</szItemName>
 		<szLongItemName>S＆W Model 41比赛型</szLongItemName>
-		<szItemDesc>史密斯韦森Model 41比赛型半自动手枪使用.50AE子弹，单动击发，重型枪管长140mm，可调式照门和准星，并有各种尺码的带有拇指座的胡桃木握把可供选择。</szItemDesc>
+		<szItemDesc>史密斯＆韦森Model 41比赛型半自动手枪使用.50AE子弹，单动击发，重型枪管长140mm，可调式照门和准星，并有各种尺码的带有拇指座的胡桃木握把可供选择。</szItemDesc>
 		<szBRName>S＆W Model 41 Match</szBRName>
-		<szBRDesc>史密斯韦森Model 41比赛型半自动手枪使用.50AE子弹，单动击发，重型枪管长140mm，可调式照门和准星，并有各种尺码的带有拇指座的胡桃木握把可供选择。</szBRDesc>
+		<szBRDesc>史密斯＆韦森Model 41比赛型半自动手枪使用.50AE子弹，单动击发，重型枪管长140mm，可调式照门和准星，并有各种尺码的带有拇指座的胡桃木握把可供选择。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1962</uiIndex>
@@ -15716,17 +15716,17 @@
 		<uiIndex>1964</uiIndex>
 		<szItemName>PM-98</szItemName>
 		<szLongItemName>波兰PM-98</szLongItemName>
-		<szItemDesc>Glauberyt冲锋枪的发展型。它基本上就是改为使用9mm派拉贝鲁姆子弹的PM-84冲锋枪，自带的导轨可以安装多种瞄准镜和其它附件。</szItemDesc>
+		<szItemDesc>Glauberyt冲锋枪的改进型。它基本上就是改为使用9mm派拉贝鲁姆子弹的PM-84冲锋枪，自带的导轨可以安装多种瞄准镜和其它附件。</szItemDesc>
 		<szBRName>Polish PM-98</szBRName>
-		<szBRDesc>Glauberyt冲锋枪的发展型。它基本上就是改为使用9mm派拉贝鲁姆子弹的PM-84冲锋枪，自带的导轨可以安装多种瞄准镜和其它附件。</szBRDesc>
+		<szBRDesc>Glauberyt冲锋枪的改进型。它基本上就是改为使用9mm派拉贝鲁姆子弹的PM-84冲锋枪，自带的导轨可以安装多种瞄准镜和其它附件。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1965</uiIndex>
 		<szItemName>.458 Monster</szItemName>
 		<szLongItemName>Tromix .458 SOCOM Monster</szLongItemName>
-		<szItemDesc>Tromix公司的Monster Sledgehammer步枪使用.458 SOCOM子弹。它射出的弹丸枪口动能接近4000焦耳，与30-06步枪弹相当。而且它的弹头直径达到了.458英寸，保证能打出一个漂亮的大窟窿。</szItemDesc>
+		<szItemDesc>Tromix公司的Monster Sledgehammer步枪使用.458 SOCOM弹。它射出的弹丸枪口动能接近4000焦耳，与30-06步枪弹相当。而且它的弹头直径达到了.458英寸，保证能打出一个漂亮的大窟窿。</szItemDesc>
 		<szBRName>.458 SOCOM Monster</szBRName>
-		<szBRDesc>Tromix公司的Monster Sledgehammer步枪使用.458 SOCOM子弹。它射出的弹丸枪口动能接近4000焦耳，与30-06步枪弹相当。而且它的弹头直径达到了.458英寸，保证能打出一个漂亮的大窟窿。</szBRDesc>
+		<szBRDesc>Tromix公司的Monster Sledgehammer步枪使用.458 SOCOM弹。它射出的弹丸枪口动能接近4000焦耳，与30-06步枪弹相当。而且它的弹头直径达到了.458英寸，保证能打出一个漂亮的大窟窿。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1966</uiIndex>
@@ -15756,17 +15756,17 @@
 		<uiIndex>1969</uiIndex>
 		<szItemName>Noveske N4 Diplomat</szItemName>
 		<szLongItemName>Noveske N4 7.5"外交官型</szLongItemName>
-		<szItemDesc>安装长7.5英寸的枪管的Noveske N4外交官型步枪已经开始发售。这种型号使用5.56mm子弹。</szItemDesc>
+		<szItemDesc>安装长7.5英寸的枪管的Noveske N4外交官型步枪已经开始发售。这种型号使用5.56mm弹。</szItemDesc>
 		<szBRName>Noveske N4 Diplomat</szBRName>
-		<szBRDesc>安装长7.5英寸的枪管的Noveske N4外交官型步枪已经开始发售。这种型号使用5.56mm子弹。</szBRDesc>
+		<szBRDesc>安装长7.5英寸的枪管的Noveske N4外交官型步枪已经开始发售。这种型号使用5.56mm弹。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1970</uiIndex>
 		<szItemName>Noveske N4 CQB</szItemName>
 		<szLongItemName>Noveske N4 10.5 CQB</szLongItemName>
-		<szItemDesc>安装10.5英寸枪管的Noveske N4 CQB型步枪已经开始发售。这种型号使用5.56mm子弹。</szItemDesc>
+		<szItemDesc>安装10.5英寸枪管的Noveske N4 CQB型步枪已经开始发售。这种型号使用5.56mm弹。</szItemDesc>
 		<szBRName>Noveske N4 CQB</szBRName>
-		<szBRDesc>安装10.5英寸枪管的Noveske N4 CQB型步枪已经开始发售。这种型号使用5.56mm子弹。</szBRDesc>
+		<szBRDesc>安装10.5英寸枪管的Noveske N4 CQB型步枪已经开始发售。这种型号使用5.56mm弹。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1971</uiIndex>
@@ -15804,9 +15804,9 @@
 		<uiIndex>1975</uiIndex>
 		<szItemName>SGC42</szItemName>
 		<szLongItemName>WF SGC42</szLongItemName>
-		<szItemDesc>瑞士Eidgenossische Waffenfabrik制造的发射.223 REM子弹的突击步枪，但仅有原型枪而没有投入批量生产。</szItemDesc>
+		<szItemDesc>瑞士Eidgenossische Waffenfabrik制造的发射.223 REM弹的突击步枪，但仅有原型枪而没有投入批量生产。</szItemDesc>
 		<szBRName>WF SGC42</szBRName>
-		<szBRDesc>瑞士Eidgenossische Waffenfabrik制造的发射.223 REM子弹的突击步枪，但仅有原型枪而没有投入批量生产。</szBRDesc>
+		<szBRDesc>瑞士Eidgenossische Waffenfabrik制造的发射.223 REM弹的突击步枪，但仅有原型枪而没有投入批量生产。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1976</uiIndex>
@@ -16038,7 +16038,7 @@
 		<szLongItemName>“大毒蛇”IMP</szLongItemName>
 		<szItemDesc>“大毒蛇”武器系统是基于供空勤人员救生使用为目的为美国空军设计的。</szItemDesc>
 		<szBRName>Bushmaster IMP</szBRName>
-		<szBRDesc>BR不出售。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2005</uiIndex>
@@ -16052,9 +16052,9 @@
 		<uiIndex>2006</uiIndex>
 		<szItemName>Wilson CQB</szItemName>
 		<szLongItemName>Wilson Combat CQB Compact</szLongItemName>
-		<szItemDesc>威尔逊CQB手枪是专门为CQB（近距离小空间作战）设计的，满足CQB的一切需要，而且为满足携带或其他要求更小尺寸的用户，进一步减小了体积。</szItemDesc>
+		<szItemDesc>威尔逊CQB手枪是专门为CQB设计的，满足CQB的一切需要，而且为满足携带或其他要求更小尺寸的用户，进一步减小了体积。</szItemDesc>
 		<szBRName>Wilson Combat CQB Compact</szBRName>
-		<szBRDesc>威尔逊CQB手枪是专门为CQB（近距离小空间作战）设计的，满足CQB的一切需要，而且为满足携带或其他要求更小尺寸的用户，进一步减小了体积。</szBRDesc>
+		<szBRDesc>威尔逊CQB手枪是专门为CQB设计的，满足CQB的一切需要，而且为满足携带或其他要求更小尺寸的用户，进一步减小了体积。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2007</uiIndex>
@@ -16500,41 +16500,41 @@
 		<uiIndex>2062</uiIndex>
 		<szItemName>9x19 SB crate</szItemName>
 		<szLongItemName>9x19mm，1500发亚音速弹弹箱</szLongItemName>
-		<szItemDesc>这个铁皮弹药箱里有1500发散装的9x19mm军用亚音速弹。</szItemDesc>
+		<szItemDesc>这个铁皮弹药箱里有1500发散装的9x19mm亚音速弹。</szItemDesc>
 		<szBRName>9x19 SB ammo crate</szBRName>
-		<szBRDesc>这个铁皮弹药箱里有1500发散装的9x19mm军用亚音速弹。</szBRDesc>
+		<szBRDesc>这个铁皮弹药箱里有1500发散装的9x19mm亚音速弹。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2063</uiIndex>
 		<szItemName>.45 crate</szItemName>
 		<szLongItemName>.45，1000发标准弹弹箱</szLongItemName>
-		<szItemDesc>这个铁皮弹药箱里有1000发散装的.45 ACP（柯尔特自动手枪）军用标准弹。</szItemDesc>
+		<szItemDesc>这个铁皮弹药箱里有1000发散装的.45 ACP军用标准弹。</szItemDesc>
 		<szBRName>.45ACP FMJ crate</szBRName>
-		<szBRDesc>这个铁皮弹药箱里有1000发散装的.45 ACP（柯尔特自动手枪）军用标准弹。</szBRDesc>
+		<szBRDesc>这个铁皮弹药箱里有1000发散装的.45 ACP军用标准弹。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2064</uiIndex>
 		<szItemName>.45 HP crate</szItemName>
-		<szLongItemName>.45，1000发空尖弹弹箱</szLongItemName>
-		<szItemDesc>这个铁皮弹药箱里有1000发散装的.45 ACP（柯尔特自动手枪）空尖弹。</szItemDesc>
+		<szLongItemName>.45，100发空尖弹弹箱</szLongItemName>
+		<szItemDesc>这个纸盒里装有100发.45 ACP口径的空尖弹。</szItemDesc>
 		<szBRName>.45ACP JHP crate</szBRName>
-		<szBRDesc>这个铁皮弹药箱里有1000发散装的.45 ACP（柯尔特自动手枪）空尖弹。</szBRDesc>
+		<szBRDesc>这个纸盒里装有100发.45 ACP口径的空尖弹。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2065</uiIndex>
 		<szItemName>.45 KTW box</szItemName>
 		<szLongItemName>.45，100发特氟隆涂层弹纸盒</szLongItemName>
-		<szItemDesc>这个纸盒包装里有100发散装.45 ACP（柯尔特自动手枪）特氟隆涂层弹。</szItemDesc>
+		<szItemDesc>这个纸盒里有100发散装.45 ACP特氟隆涂层高速弹。</szItemDesc>
 		<szBRName>.45ACP KTW crate</szBRName>
-		<szBRDesc>这个纸盒包装里有100发散装.45 ACP（柯尔特自动手枪）特氟隆涂层弹。</szBRDesc>
+		<szBRDesc>这个纸盒里有100发散装.45 ACP特氟隆涂层高速弹。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2066</uiIndex>
 		<szItemName>.45 M box</szItemName>
 		<szLongItemName>.45，100发比赛弹纸盒</szLongItemName>
-		<szItemDesc>这个纸盒包装里有100发散装.45 ACP（柯尔特自动手枪）比赛弹。</szItemDesc>
+		<szItemDesc>这个纸盒包装里有100发散装.45 ACP比赛弹。</szItemDesc>
 		<szBRName>.45ACP M ammo box</szBRName>
-		<szBRDesc>这个纸盒包装里有100发散装.45 ACP（柯尔特自动手枪）比赛弹。</szBRDesc>
+		<szBRDesc>这个纸盒包装里有100发散装.45 ACP比赛弹。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2067</uiIndex>
@@ -16701,7 +16701,7 @@
 		<szItemName>7.62x54R T crate</szItemName>
 		<szLongItemName>这个铁皮弹药箱里有500发散装的7.62x54mmR曳光弹。</szLongItemName>
 		<szItemDesc>7.62x54mmR，500发曳光弹弹箱</szItemDesc>
-		<szBRName>,box, 7.62x54mm T</szBRName>
+		<szBRName>7.62x54mm T crate</szBRName>
 		<szBRDesc>7.62x54mmR，500发曳光弹弹箱</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -16818,7 +16818,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2102</uiIndex>
-		<szItemName>.50BMG crate</szItemName>
+		<szItemName>.50BMG APT crate</szItemName>
 		<szLongItemName>.50 BMG，200发穿甲曳光弹弹箱</szLongItemName>
 		<szItemDesc>这个铁皮弹药箱里有供重机枪使用的200发散装.50 BMG（勃朗宁机枪）穿甲曳光弹。</szItemDesc>
 		<szBRName>50BMG APT crate</szBRName>
@@ -16851,34 +16851,34 @@
 	<ITEM>
 		<uiIndex>2106</uiIndex>
 		<szItemName>.40 S＆W box</szItemName>
-		<szLongItemName>.40史密斯＆韦森，200发标准弹纸盒</szLongItemName>
-		<szItemDesc>这个纸盒包装里有200发散装.40史密斯＆韦森全被甲弹。</szItemDesc>
+		<szLongItemName>.40 S＆W，200发标准弹纸盒</szLongItemName>
+		<szItemDesc>这个纸盒包装里有200发散装.40 S＆W全被甲弹。</szItemDesc>
 		<szBRName>.40 S＆W FMJ box</szBRName>
-		<szBRDesc>这个纸盒包装里有200发散装.40史密斯＆韦森全被甲弹。</szBRDesc>
+		<szBRDesc>这个纸盒包装里有200发散装.40 S＆W全被甲弹。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2107</uiIndex>
 		<szItemName>.40 S＆W JHP box</szItemName>
-		<szLongItemName>.40史密斯＆韦森，200发空尖弹纸盒</szLongItemName>
-		<szItemDesc>这个纸盒包装里有200发散装.40史密斯＆韦森空尖弹。</szItemDesc>
+		<szLongItemName>.40 S＆W，200发空尖弹纸盒</szLongItemName>
+		<szItemDesc>这个纸盒包装里有200发散装.40 S＆W空尖弹。</szItemDesc>
 		<szBRName>.40 S＆W JHP box</szBRName>
-		<szBRDesc>这个纸盒包装里有200发散装.40史密斯＆韦森空尖弹。</szBRDesc>
+		<szBRDesc>这个纸盒包装里有200发散装.40 S＆W空尖弹。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2108</uiIndex>
 		<szItemName>.40 S＆W KTW box</szItemName>
-		<szLongItemName>.40史密斯＆韦森，200发特氟隆涂层弹纸盒</szLongItemName>
-		<szItemDesc>这个纸盒包装里有200发散装.40史密斯＆韦森特氟隆涂层穿甲弹。</szItemDesc>
+		<szLongItemName>.40 S＆W，200发特氟隆涂层弹纸盒</szLongItemName>
+		<szItemDesc>这个纸盒包装里有200发散装.40 S＆W特氟隆涂层穿甲弹。</szItemDesc>
 		<szBRName>.40 S＆W KTW box</szBRName>
-		<szBRDesc>这个纸盒包装里有200发散装.40史密斯＆韦森特氟隆涂层穿甲弹。</szBRDesc>
+		<szBRDesc>这个纸盒包装里有200发散装.40 S＆W特氟隆涂层穿甲弹。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2109</uiIndex>
 		<szItemName>.40 S＆W M box</szItemName>
-		<szLongItemName>.40史密斯＆韦森，200发比赛弹纸盒</szLongItemName>
-		<szItemDesc>这个纸盒包装里有200发散装.40史密斯＆韦森比赛弹。</szItemDesc>
+		<szLongItemName>.40 S＆W，200发比赛弹纸盒</szLongItemName>
+		<szItemDesc>这个纸盒包装里有200发散装.40 S＆W比赛弹。</szItemDesc>
 		<szBRName>.40 S＆W M box</szBRName>
-		<szBRDesc>这个纸盒包装里有200发散装.40史密斯＆韦森比赛弹。</szBRDesc>
+		<szBRDesc>这个纸盒包装里有200发散装.40 S＆W比赛弹。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2110</uiIndex>
@@ -18678,7 +18678,7 @@
 		<szLongItemName>.50 BMG，1发普通弹(M2)</szLongItemName>
 		<szItemDesc>1发.50 BMG（勃朗宁机枪） M2普通弹，可以用来射击训练、杀伤人员及破坏轻装甲目标。</szItemDesc>
 		<szBRName>.50BMG ball Snigle</szBRName>
-		<szBRDesc>BR没得卖。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2335</uiIndex>
@@ -18686,7 +18686,7 @@
 		<szLongItemName>.50 BMG，5发普通弹(M2)</szLongItemName>
 		<szItemDesc>5发.50 BMG（勃朗宁机枪） M2普通弹弹匣，可以用来射击训练、杀伤人员及破坏轻装甲目标。</szItemDesc>
 		<szBRName>.50BMG Mag, 5</szBRName>
-		<szBRDesc>BR没得卖。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2336</uiIndex>
@@ -18830,7 +18830,7 @@
 		<szLongItemName>7.62x54mmR，47发穿甲弹(7N13)</szLongItemName>
 		<szItemDesc>虽然精度差强人意，但是7N13那13g重的弹头却能穿透绝大多数防弹衣。</szItemDesc>
 		<szBRName>7.62x54R Mag 47 AP</szBRName>
-		<szBRDesc>BR没得卖。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2354</uiIndex>
@@ -19062,7 +19062,7 @@
 		<szLongItemName>5.8x42mm，30发亚音速弹</szLongItemName>
 		<szItemDesc>30发5.8x42mm亚音速步枪弹。</szItemDesc>
 		<szBRName>5.8x42mm Mag 30 SB</szBRName>
-		<szBRDesc>BR没得卖。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2383</uiIndex>
@@ -19070,7 +19070,7 @@
 		<szLongItemName>5.8x42mm，75发亚音速弹</szLongItemName>
 		<szItemDesc>这个弹鼓里装有75发5.8x42mm亚音速弹。</szItemDesc>
 		<szBRName>5.8x42mm Drum 75 SB</szBRName>
-		<szBRDesc>BR没得卖。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2384</uiIndex>
@@ -19078,7 +19078,7 @@
 		<szLongItemName>5.8x42mm，200发亚音速弹</szLongItemName>
 		<szItemDesc>200发5.8x42mm亚音速弹弹链。</szItemDesc>
 		<szBRName>5.8x42mm Belt 200 SB</szBRName>
-		<szBRDesc>BR没得卖。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2385</uiIndex>
@@ -19491,18 +19491,18 @@
 	<ITEM>
 		<uiIndex>2436</uiIndex>
 		<szItemName>.458 SOCOM FMJ box</szItemName>
-		<szLongItemName>.458 SOCOM，100发全被甲弹纸盒</szLongItemName>
-		<szItemDesc>一个装着100发.458 SOCOM全被甲弹的硬纸盒。</szItemDesc>
+		<szLongItemName>.458 SOCOM，50发全被甲弹纸盒</szLongItemName>
+		<szItemDesc>一个装着50发.458 SOCOM全被甲弹的硬纸盒。</szItemDesc>
 		<szBRName>.458 SOCOM FMJ ammo box</szBRName>
-		<szBRDesc>一个装着100发.458 SOCOM全被甲弹的硬纸盒。</szBRDesc>
+		<szBRDesc>一个装着50发.458 SOCOM全被甲弹的硬纸盒。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2437</uiIndex>
 		<szItemName>.458 SOCOM JHP box</szItemName>
-		<szLongItemName>.458 SOCOM，100发空尖弹纸盒</szLongItemName>
-		<szItemDesc>一个装着100发.458 SOCOM空尖弹的硬纸盒。</szItemDesc>
+		<szLongItemName>.458 SOCOM，50发空尖弹纸盒</szLongItemName>
+		<szItemDesc>一个装着50发.458 SOCOM空尖弹的硬纸盒。</szItemDesc>
 		<szBRName>.458 SOCOM JHP ammo box</szBRName>
-		<szBRDesc>一个装着100发.458 SOCOM空尖弹的硬纸盒。</szBRDesc>
+		<szBRDesc>一个装着50发.458 SOCOM空尖弹的硬纸盒。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2438</uiIndex>
@@ -19591,5 +19591,13 @@
 		<szItemDesc>莫斯伯格500A型霰弹枪是一种12号口径的泵动霰弹枪，和雷明顿870一样齐名。</szItemDesc>
 		<szBRName>Mossberg M500A</szBRName>
 		<szBRDesc>莫斯伯格500A型霰弹枪是一种12号口径的泵动霰弹枪，和雷明顿870一样齐名。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2449</uiIndex>
+		<szItemName>HK416 Sub-Compat</szItemName>
+		<szLongItemName>HK416超短卡宾枪</szLongItemName>
+		<szItemDesc>最短最轻的HK416卡宾枪，这是HK公司应英国特种部队的要求而研制的。</szItemDesc>
+		<szBRName>HK416 Sub-Compat Carbine</szBRName>
+		<szBRDesc>最短最轻的HK416卡宾枪，这是HK公司应英国特种部队的要求而研制的。</szBRDesc>
 	</ITEM>
 </ITEMLIST>
