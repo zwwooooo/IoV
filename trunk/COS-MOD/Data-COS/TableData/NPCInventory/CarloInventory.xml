@@ -505,4 +505,9 @@
 		<sItemIndex>2027</sItemIndex>
 		<ubOptimalNumber>5</ubOptimalNumber>
 	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>101</uiIndex>
+		<sItemIndex>2450</sItemIndex>
+		<ubOptimalNumber>1</ubOptimalNumber>
+	</INVENTORY>
 </INVENTORYLIST>

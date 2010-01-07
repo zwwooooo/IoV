@@ -377,7 +377,7 @@
 		<ToHitBonus>-1</ToHitBonus>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>10</uiIndex>
@@ -405,7 +405,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>1100</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>11</uiIndex>
@@ -459,7 +459,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>13</uiIndex>
@@ -489,7 +489,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>700</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>14</uiIndex>
@@ -520,7 +520,7 @@
 		<BR_ROF>700</BR_ROF>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>15</uiIndex>
@@ -581,7 +581,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>17</uiIndex>
@@ -781,7 +781,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>800</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1804</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -1042,7 +1042,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>24</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>33</uiIndex>
@@ -1132,7 +1132,7 @@
 		<BR_ROF>600</BR_ROF>
 		<Bipod>15</Bipod>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>36</uiIndex>
@@ -1591,7 +1591,7 @@
 		<BestLaserRange>90</BestLaserRange>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<RocketRifle>1</RocketRifle>
 		<FingerPrintID>1</FingerPrintID>
 	</ITEM>
@@ -1829,7 +1829,7 @@
 		<BestLaserRange>90</BestLaserRange>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<RocketRifle>1</RocketRifle>
 		<FingerPrintID>1</FingerPrintID>
 	</ITEM>
@@ -1940,7 +1940,7 @@
 		<ToHitBonus>-1</ToHitBonus>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>70</uiIndex>
@@ -7367,7 +7367,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>1250</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>331</uiIndex>
@@ -7658,7 +7658,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>22</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>341</uiIndex>
@@ -7748,7 +7748,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>800</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 		<NightVisionRangeBonus>20</NightVisionRangeBonus>
 		<CaveVisionRangeBonus>16</CaveVisionRangeBonus>
 	</ITEM>
@@ -7812,7 +7812,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>346</uiIndex>
@@ -7842,7 +7842,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>900</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>347</uiIndex>
@@ -7929,7 +7929,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>900</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>350</uiIndex>
@@ -13411,7 +13411,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>900</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>602</uiIndex>
@@ -13443,7 +13443,7 @@
 		<BR_ROF>800</BR_ROF>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>603</uiIndex>
@@ -13475,7 +13475,7 @@
 		<BR_ROF>800</BR_ROF>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>604</uiIndex>
@@ -13507,7 +13507,7 @@
 		<ToHitBonus>-1</ToHitBonus>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>605</uiIndex>
@@ -13571,7 +13571,7 @@
 		<BR_ROF>600</BR_ROF>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>607</uiIndex>
@@ -13604,7 +13604,7 @@
 		<ToHitBonus>-2</ToHitBonus>
 		<BurstToHitBonus>10</BurstToHitBonus>
 		<AutoFireToHitBonus>10</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>608</uiIndex>
@@ -13636,7 +13636,7 @@
 		<BR_ROF>600</BR_ROF>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>609</uiIndex>
@@ -13668,7 +13668,7 @@
 		<BR_ROF>600</BR_ROF>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>610</uiIndex>
@@ -13701,7 +13701,7 @@
 		<ToHitBonus>-2</ToHitBonus>
 		<BurstToHitBonus>10</BurstToHitBonus>
 		<AutoFireToHitBonus>10</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>611</uiIndex>
@@ -13734,7 +13734,7 @@
 		<ToHitBonus>-2</ToHitBonus>
 		<BurstToHitBonus>10</BurstToHitBonus>
 		<AutoFireToHitBonus>10</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>612</uiIndex>
@@ -13765,7 +13765,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>613</uiIndex>
@@ -13794,7 +13794,7 @@
 		<BigGunList>1</BigGunList>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>614</uiIndex>
@@ -13827,7 +13827,7 @@
 		<ToHitBonus>-2</ToHitBonus>
 		<BurstToHitBonus>10</BurstToHitBonus>
 		<AutoFireToHitBonus>10</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>615</uiIndex>
@@ -13890,7 +13890,7 @@
 		<BR_ROF>600</BR_ROF>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>617</uiIndex>
@@ -13923,7 +13923,7 @@
 		<PercentNoiseReduction>55</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>999</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -13956,7 +13956,7 @@
 		<BR_ROF>22</BR_ROF>
 		<Bipod>25</Bipod>
 		<ToHitBonus>-10</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1825</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -13983,7 +13983,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>750</BR_ROF>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1011</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -14045,7 +14045,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>20</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>622</uiIndex>
@@ -14188,7 +14188,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>627</uiIndex>
@@ -14247,7 +14247,7 @@
 		<BigGunList>1</BigGunList>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>629</uiIndex>
@@ -14398,7 +14398,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>850</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1011</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -14632,7 +14632,7 @@
 		<ToHitBonus>-1</ToHitBonus>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>642</uiIndex>
@@ -14662,7 +14662,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>1200</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>643</uiIndex>
@@ -14693,7 +14693,7 @@
 		<PercentNoiseReduction>65</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>644</uiIndex>
@@ -14848,7 +14848,7 @@
 		<BestLaserRange>160</BestLaserRange>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1803</DefaultAttachment>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
 		<CaveVisionRangeBonus>8</CaveVisionRangeBonus>
@@ -14914,7 +14914,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1011</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -15010,7 +15010,7 @@
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<Bipod>10</Bipod>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>654</uiIndex>
@@ -15072,7 +15072,7 @@
 		<BR_ROF>700</BR_ROF>
 		<Bipod>15</Bipod>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>656</uiIndex>
@@ -15103,7 +15103,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>657</uiIndex>
@@ -15287,7 +15287,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>800</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>663</uiIndex>
@@ -15347,7 +15347,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>665</uiIndex>
@@ -15378,7 +15378,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>666</uiIndex>
@@ -15409,7 +15409,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>667</uiIndex>
@@ -15439,7 +15439,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>668</uiIndex>
@@ -15473,7 +15473,7 @@
 		<ToHitBonus>-1</ToHitBonus>
 		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<PercentAPReduction>10</PercentAPReduction>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
 		<DayVisionRangeBonus>25</DayVisionRangeBonus>
@@ -15512,7 +15512,7 @@
 		<ToHitBonus>-1</ToHitBonus>
 		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<NightVisionRangeBonus>15</NightVisionRangeBonus>
 		<DayVisionRangeBonus>30</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
@@ -15575,7 +15575,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>800</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>672</uiIndex>
@@ -15607,7 +15607,7 @@
 		<BR_ROF>620</BR_ROF>
 		<ToHitBonus>19</ToHitBonus>
 		<BestLaserRange>90</BestLaserRange>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>673</uiIndex>
@@ -15639,7 +15639,7 @@
 		<ToHitBonus>-1</ToHitBonus>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>674</uiIndex>
@@ -15760,7 +15760,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>580</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1011</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -15874,7 +15874,7 @@
 		<ToHitBonus>-1</ToHitBonus>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>682</uiIndex>
@@ -16086,7 +16086,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>1200</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>689</uiIndex>
@@ -16173,7 +16173,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>692</uiIndex>
@@ -16203,7 +16203,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>950</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>693</uiIndex>
@@ -16464,7 +16464,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>800</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>702</uiIndex>
@@ -16608,7 +16608,7 @@
 		<BR_ROF>600</BR_ROF>
 		<Bipod>15</Bipod>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>707</uiIndex>
@@ -16666,7 +16666,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>800</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>709</uiIndex>
@@ -16785,7 +16785,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>800</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>713</uiIndex>
@@ -16818,7 +16818,7 @@
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<Bipod>15</Bipod>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>714</uiIndex>
@@ -16850,7 +16850,7 @@
 		<BR_ROF>700</BR_ROF>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>715</uiIndex>
@@ -16882,7 +16882,7 @@
 		<BR_ROF>700</BR_ROF>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>716</uiIndex>
@@ -17027,7 +17027,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>850</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>721</uiIndex>
@@ -17169,7 +17169,7 @@
 		<BigGunList>1</BigGunList>
 		<BR_ROF>550</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>726</uiIndex>
@@ -17359,7 +17359,7 @@
 		<ToHitBonus>-1</ToHitBonus>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>732</uiIndex>
@@ -17448,7 +17448,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>24</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>999</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -17680,7 +17680,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>700</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>743</uiIndex>
@@ -17887,7 +17887,7 @@
 		<BR_ROF>850</BR_ROF>
 		<Bipod>15</Bipod>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1810</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -17919,7 +17919,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>850</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1809</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -17951,7 +17951,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>850</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1809</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -17984,7 +17984,7 @@
 		<BR_ROF>850</BR_ROF>
 		<Bipod>15</Bipod>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1810</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -18074,7 +18074,7 @@
 		<ToHitBonus>-1</ToHitBonus>
 		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<PercentAPReduction>15</PercentAPReduction>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
 		<DayVisionRangeBonus>25</DayVisionRangeBonus>
@@ -18112,7 +18112,7 @@
 		<ToHitBonus>-1</ToHitBonus>
 		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<PercentAPReduction>15</PercentAPReduction>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
 		<DayVisionRangeBonus>25</DayVisionRangeBonus>
@@ -18258,7 +18258,7 @@
 		<ToHitBonus>-1</ToHitBonus>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>762</uiIndex>
@@ -18311,7 +18311,7 @@
 		<BigGunList>1</BigGunList>
 		<BR_ROF>900</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>764</uiIndex>
@@ -18646,7 +18646,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>24</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>776</uiIndex>
@@ -18847,7 +18847,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>700</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1011</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -18939,7 +18939,7 @@
 		<ToHitBonus>-1</ToHitBonus>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>786</uiIndex>
@@ -18998,7 +18998,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>788</uiIndex>
@@ -19084,7 +19084,7 @@
 		<BR_ROF>700</BR_ROF>
 		<Bipod>20</Bipod>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1007</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -19115,7 +19115,7 @@
 		<ToHitBonus>20</ToHitBonus>
 		<BestLaserRange>350</BestLaserRange>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<PercentAPReduction>20</PercentAPReduction>
 		<DefaultAttachment>922</DefaultAttachment>
 		<NightVisionRangeBonus>25</NightVisionRangeBonus>
@@ -19176,7 +19176,7 @@
 		<PercentNoiseReduction>75</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>794</uiIndex>
@@ -19265,7 +19265,7 @@
 		<BR_ROF>800</BR_ROF>
 		<Bipod>20</Bipod>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1007</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -19296,7 +19296,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1806</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -19357,7 +19357,7 @@
 		<BR_ROF>24</BR_ROF>
 		<Bipod>15</Bipod>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1007</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -22709,7 +22709,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>936</uiIndex>
@@ -22768,7 +22768,7 @@
 		<BigGunList>1</BigGunList>
 		<BR_ROF>850</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>938</uiIndex>
@@ -22824,7 +22824,7 @@
 		<BR_ROF>900</BR_ROF>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>940</uiIndex>
@@ -22881,7 +22881,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>900</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>942</uiIndex>
@@ -24566,6 +24566,7 @@
 		<ubWeight>2</ubWeight>
 		<ubPerPocket>2</ubPerPocket>
 		<ItemSize>22</ItemSize>
+		<ItemSizeBonus>1</ItemSizeBonus>
 		<usPrice>500</usPrice>
 		<ubCoolness>6</ubCoolness>
 		<bRepairEase>3</bRepairEase>
@@ -25828,7 +25829,7 @@
 		<ToHitBonus>-1</ToHitBonus>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 		<DefaultAttachment>998</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -25858,7 +25859,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>700</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1059</uiIndex>
@@ -25944,7 +25945,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>20</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1062</uiIndex>
@@ -26036,7 +26037,7 @@
 		<ToHitBonus>-1</ToHitBonus>
 		<AimBonus>11</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1616</DefaultAttachment>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
 		<DayVisionRangeBonus>35</DayVisionRangeBonus>
@@ -26070,7 +26071,7 @@
 		<ToHitBonus>-1</ToHitBonus>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 		<PercentAPReduction>20</PercentAPReduction>
 		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
 	</ITEM>
@@ -26266,7 +26267,7 @@
 		<BigGunList>1</BigGunList>
 		<BR_ROF>800</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 		<DefaultAttachment>50</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -26336,7 +26337,7 @@
 		<ToHitBonus>-1</ToHitBonus>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1802</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -26955,7 +26956,7 @@
 		<ToHitBonus>-2</ToHitBonus>
 		<BurstToHitBonus>10</BurstToHitBonus>
 		<AutoFireToHitBonus>10</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1101</uiIndex>
@@ -27070,7 +27071,7 @@
 		<ToHitBonus>-1</ToHitBonus>
 		<BurstToHitBonus>3</BurstToHitBonus>
 		<AutoFireToHitBonus>3</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 		<DefaultAttachment>2186</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -27101,7 +27102,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>1000</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1106</uiIndex>
@@ -27129,7 +27130,7 @@
 		<BR_ROF>1000</BR_ROF>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1107</uiIndex>
@@ -27158,7 +27159,7 @@
 		<PercentNoiseReduction>65</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1108</uiIndex>
@@ -27189,7 +27190,7 @@
 		<BR_ROF>600</BR_ROF>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1109</uiIndex>
@@ -27248,7 +27249,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1111</uiIndex>
@@ -27274,7 +27275,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1112</uiIndex>
@@ -27418,7 +27419,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>650</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1117</uiIndex>
@@ -27448,7 +27449,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>650</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1118</uiIndex>
@@ -27593,7 +27594,7 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1833</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -27622,7 +27623,7 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1011</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -27650,7 +27651,7 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>209</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -27679,7 +27680,7 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1833</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -27708,7 +27709,7 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1011</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -27736,7 +27737,7 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>209</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -27765,7 +27766,7 @@
 		<SciFi>1</SciFi>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1833</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -27794,7 +27795,7 @@
 		<SciFi>1</SciFi>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1011</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -27822,7 +27823,7 @@
 		<SciFi>1</SciFi>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>209</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -27851,7 +27852,7 @@
 		<SciFi>1</SciFi>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1833</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -27880,7 +27881,7 @@
 		<SciFi>1</SciFi>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1833</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -27908,7 +27909,7 @@
 		<SciFi>1</SciFi>
 		<BR_ROF>25</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>209</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -27935,7 +27936,7 @@
 		<NotBuyable>1</NotBuyable>
 		<BR_ROF>800</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1011</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -27961,7 +27962,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1011</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -27988,7 +27989,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>700</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1011</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -28043,7 +28044,7 @@
 		<NotBuyable>1</NotBuyable>
 		<BR_ROF>1000</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1011</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -28074,7 +28075,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>800</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1140</uiIndex>
@@ -28102,7 +28103,7 @@
 		<BR_ROF>700</BR_ROF>
 		<Bipod>20</Bipod>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>208</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -28159,7 +28160,7 @@
 		<SciFi>1</SciFi>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1804</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -28216,7 +28217,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>800</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1802</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -28247,7 +28248,7 @@
 		<BR_ROF>32</BR_ROF>
 		<Bipod>20</Bipod>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>208</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -28277,7 +28278,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>30</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1147</uiIndex>
@@ -28356,7 +28357,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>700</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1150</uiIndex>
@@ -28412,7 +28413,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>40</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1152</uiIndex>
@@ -28441,7 +28442,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>24</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>208</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -28474,7 +28475,7 @@
 		<PercentNoiseReduction>55</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1011</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -28507,7 +28508,7 @@
 		<PercentNoiseReduction>55</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1011</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -28594,7 +28595,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1158</uiIndex>
@@ -28621,7 +28622,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1159</uiIndex>
@@ -28675,7 +28676,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1161</uiIndex>
@@ -28704,7 +28705,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>700</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1162</uiIndex>
@@ -28731,7 +28732,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>700</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1163</uiIndex>
@@ -28845,7 +28846,7 @@
 		<ToHitBonus>-1</ToHitBonus>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1167</uiIndex>
@@ -28874,7 +28875,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>40</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1168</uiIndex>
@@ -28933,7 +28934,7 @@
 		<ToHitBonus>-1</ToHitBonus>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1170</uiIndex>
@@ -28991,7 +28992,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>800</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1172</uiIndex>
@@ -29020,7 +29021,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>1100</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1173</uiIndex>
@@ -29281,7 +29282,7 @@
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<Bipod>50</Bipod>
 		<ToHitBonus>-30</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1813</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -29339,7 +29340,7 @@
 		<SciFi>1</SciFi>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1833</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -29777,7 +29778,7 @@
 		<BR_ROF>29</BR_ROF>
 		<Bipod>150</Bipod>
 		<ToHitBonus>-130</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1813</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -29837,7 +29838,7 @@
 		<ToHitBonus>-1</ToHitBonus>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1202</uiIndex>
@@ -30010,7 +30011,7 @@
 		<BR_ROF>800</BR_ROF>
 		<PercentNoiseReduction>68</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1208</uiIndex>
@@ -30072,7 +30073,7 @@
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 		<DefaultAttachment>207</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -30103,7 +30104,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>700</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1211</uiIndex>
@@ -30132,7 +30133,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1212</uiIndex>
@@ -30164,7 +30165,7 @@
 		<ToHitBonus>-1</ToHitBonus>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1213</uiIndex>
@@ -30191,7 +30192,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>650</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1214</uiIndex>
@@ -30218,7 +30219,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1215</uiIndex>
@@ -30247,7 +30248,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>650</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1216</uiIndex>
@@ -30274,7 +30275,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>900</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1011</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -30304,7 +30305,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>700</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1218</uiIndex>
@@ -30333,7 +30334,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>700</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1007</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -30379,7 +30380,7 @@
 		<ItemSize>1</ItemSize>
 		<usPrice>650</usPrice>
 		<ubCoolness>4</ubCoolness>
-		<bReliability>3</bReliability>
+		<bReliability>4</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<WaterDamages>1</WaterDamages>
@@ -30499,7 +30500,7 @@
 		<BestLaserRange>250</BestLaserRange>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>2265</DefaultAttachment>
 		<NightVisionRangeBonus>25</NightVisionRangeBonus>
 		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
@@ -30531,7 +30532,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>700</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1226</uiIndex>
@@ -30560,7 +30561,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>700</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1227</uiIndex>
@@ -30619,7 +30620,7 @@
 		<BR_ROF>30</BR_ROF>
 		<Bipod>20</Bipod>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1007</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -30650,7 +30651,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>22</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1230</uiIndex>
@@ -30707,7 +30708,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>700</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1232</uiIndex>
@@ -30848,7 +30849,7 @@
 		<BR_ROF>800</BR_ROF>
 		<Bipod>20</Bipod>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1804</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -30879,7 +30880,7 @@
 		<BR_ROF>850</BR_ROF>
 		<Bipod>20</Bipod>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1238</uiIndex>
@@ -30908,7 +30909,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>650</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1239</uiIndex>
@@ -31045,7 +31046,7 @@
 		<ToHitBonus>-1</ToHitBonus>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1244</uiIndex>
@@ -31103,7 +31104,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>37</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1246</uiIndex>
@@ -31129,7 +31130,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>670</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1247</uiIndex>
@@ -31159,7 +31160,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1248</uiIndex>
@@ -31191,7 +31192,7 @@
 		<ToHitBonus>-1</ToHitBonus>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1249</uiIndex>
@@ -31340,7 +31341,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1254</uiIndex>
@@ -31398,7 +31399,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>800</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1256</uiIndex>
@@ -31458,7 +31459,7 @@
 		<BR_ROF>750</BR_ROF>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1258</uiIndex>
@@ -31571,7 +31572,7 @@
 		<ToHitBonus>-1</ToHitBonus>
 		<BurstToHitBonus>3</BurstToHitBonus>
 		<AutoFireToHitBonus>3</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1262</uiIndex>
@@ -31601,7 +31602,7 @@
 		<ToHitBonus>-1</ToHitBonus>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 		<DefaultAttachment>2182</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -31631,7 +31632,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>700</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1264</uiIndex>
@@ -31661,7 +31662,7 @@
 		<BR_ROF>600</BR_ROF>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1265</uiIndex>
@@ -31691,7 +31692,7 @@
 		<BR_ROF>20</BR_ROF>
 		<Bipod>15</Bipod>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>2185</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -31750,7 +31751,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>48</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1268</uiIndex>
@@ -31777,7 +31778,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1269</uiIndex>
@@ -31804,7 +31805,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1270</uiIndex>
@@ -31922,7 +31923,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>800</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1274</uiIndex>
@@ -31952,7 +31953,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1275</uiIndex>
@@ -31982,7 +31983,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1276</uiIndex>
@@ -32012,7 +32013,7 @@
 		<BR_ROF>750</BR_ROF>
 		<Bipod>15</Bipod>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1277</uiIndex>
@@ -32042,7 +32043,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>700</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1010</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -32074,7 +32075,7 @@
 		<BR_ROF>750</BR_ROF>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1010</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -32103,7 +32104,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>500</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1280</uiIndex>
@@ -32131,7 +32132,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>35</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1281</uiIndex>
@@ -32604,7 +32605,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>550</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1299</uiIndex>
@@ -32891,7 +32892,7 @@
 		<BR_ROF>900</BR_ROF>
 		<ToHitBonus>15</ToHitBonus>
 		<BestLaserRange>300</BestLaserRange>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1612</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -32923,7 +32924,7 @@
 		<ToHitBonus>-2</ToHitBonus>
 		<BurstToHitBonus>15</BurstToHitBonus>
 		<AutoFireToHitBonus>15</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1802</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -32953,7 +32954,7 @@
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>18</ToHitBonus>
 		<BestLaserRange>400</BestLaserRange>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<PercentAPReduction>20</PercentAPReduction>
 		<DefaultAttachment>1603</DefaultAttachment>
 		<NightVisionRangeBonus>35</NightVisionRangeBonus>
@@ -32987,7 +32988,7 @@
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>18</ToHitBonus>
 		<BestLaserRange>400</BestLaserRange>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<PercentAPReduction>20</PercentAPReduction>
 		<DefaultAttachment>1603</DefaultAttachment>
 		<NightVisionRangeBonus>35</NightVisionRangeBonus>
@@ -33025,7 +33026,7 @@
 		<BestLaserRange>400</BestLaserRange>
 		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<PercentAPReduction>10</PercentAPReduction>
 		<DefaultAttachment>50</DefaultAttachment>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
@@ -33062,7 +33063,7 @@
 		<PercentNoiseReduction>58</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-2</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1615</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -33144,7 +33145,7 @@
 		<BigGunList>1</BigGunList>
 		<BR_ROF>900</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1605</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -33204,7 +33205,7 @@
 		<BestLaserRange>350</BestLaserRange>
 		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<PercentAPReduction>10</PercentAPReduction>
 		<DefaultAttachment>1616</DefaultAttachment>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
@@ -33240,7 +33241,7 @@
 		<BR_ROF>800</BR_ROF>
 		<ToHitBonus>19</ToHitBonus>
 		<BestLaserRange>400</BestLaserRange>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<PercentAPReduction>20</PercentAPReduction>
 		<DefaultAttachment>1616</DefaultAttachment>
 		<NightVisionRangeBonus>25</NightVisionRangeBonus>
@@ -33274,7 +33275,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>47</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1011</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -33450,7 +33451,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>650</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1327</uiIndex>
@@ -33480,7 +33481,7 @@
 		<PercentNoiseReduction>60</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1328</uiIndex>
@@ -33764,7 +33765,7 @@
 		<BigGunList>1</BigGunList>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>911</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -33798,7 +33799,7 @@
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
 		<BurstToHitBonus>10</BurstToHitBonus>
 		<AutoFireToHitBonus>10</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>911</DefaultAttachment>
 		<NightVisionRangeBonus>70</NightVisionRangeBonus>
 		<DayVisionRangeBonus>30</DayVisionRangeBonus>
@@ -33894,7 +33895,7 @@
 		<PercentNoiseReduction>25</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1803</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -34022,7 +34023,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>700</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1346</uiIndex>
@@ -34111,7 +34112,7 @@
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>19</ToHitBonus>
 		<BestLaserRange>300</BestLaserRange>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<PercentAPReduction>18</PercentAPReduction>
 		<DefaultAttachment>1616</DefaultAttachment>
 		<NightVisionRangeBonus>20</NightVisionRangeBonus>
@@ -34148,7 +34149,7 @@
 		<BestLaserRange>300</BestLaserRange>
 		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<PercentAPReduction>10</PercentAPReduction>
 		<DefaultAttachment>1616</DefaultAttachment>
 		<NightVisionRangeBonus>25</NightVisionRangeBonus>
@@ -34277,7 +34278,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>1200</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1354</uiIndex>
@@ -34448,7 +34449,7 @@
 		<BestLaserRange>160</BestLaserRange>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1803</DefaultAttachment>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
 		<CaveVisionRangeBonus>8</CaveVisionRangeBonus>
@@ -34769,7 +34770,7 @@
 		<BR_ROF>300</BR_ROF>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1371</uiIndex>
@@ -34852,7 +34853,7 @@
 		<BigGunList>1</BigGunList>
 		<BR_ROF>700</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<PercentAPReduction>20</PercentAPReduction>
 		<DefaultAttachment>50</DefaultAttachment>
 		<NightVisionRangeBonus>32</NightVisionRangeBonus>
@@ -34916,7 +34917,7 @@
 		<BR_ROF>750</BR_ROF>
 		<Bipod>20</Bipod>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1376</uiIndex>
@@ -34946,7 +34947,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>50</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -34977,7 +34978,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1378</uiIndex>
@@ -35036,7 +35037,7 @@
 		<BigGunList>1</BigGunList>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1380</uiIndex>
@@ -35067,7 +35068,7 @@
 		<BR_ROF>750</BR_ROF>
 		<Bipod>20</Bipod>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1007</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -35097,7 +35098,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1382</uiIndex>
@@ -35123,7 +35124,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1383</uiIndex>
@@ -35149,7 +35150,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1384</uiIndex>
@@ -35175,7 +35176,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1385</uiIndex>
@@ -35201,7 +35202,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1386</uiIndex>
@@ -35227,7 +35228,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1387</uiIndex>
@@ -35310,7 +35311,7 @@
 		<PercentNoiseReduction>59</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1390</uiIndex>
@@ -35479,7 +35480,7 @@
 		<ToHitBonus>19</ToHitBonus>
 		<BestLaserRange>350</BestLaserRange>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<PercentAPReduction>20</PercentAPReduction>
 		<DefaultAttachment>1011</DefaultAttachment>
 		<NightVisionRangeBonus>35</NightVisionRangeBonus>
@@ -35514,7 +35515,7 @@
 		<ToHitBonus>-1</ToHitBonus>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1397</uiIndex>
@@ -35544,7 +35545,7 @@
 		<ToHitBonus>-1</ToHitBonus>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1398</uiIndex>
@@ -39513,7 +39514,7 @@
 		<szBRName>13.2x92mm AT</szBRName>
 		<szBRDesc>One round of 13.2 x 92mm semi-rimmed bottlenecked cartridge.</szBRDesc>
 		<usItemClass>1024</usItemClass>
-		<ubClassIndex>741</ubClassIndex>
+		<ubClassIndex>744</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>865</ubGraphicNum>
 		<ubWeight>1</ubWeight>
@@ -46451,7 +46452,7 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1855</uiIndex>
@@ -47252,7 +47253,7 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>3</BR_NewInventory>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1890</uiIndex>
@@ -48605,7 +48606,7 @@
 		<ToHitBonus>-1</ToHitBonus>
 		<BurstToHitBonus>7</BurstToHitBonus>
 		<AutoFireToHitBonus>7</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1952</uiIndex>
@@ -48634,7 +48635,7 @@
 		<ToHitBonus>-2</ToHitBonus>
 		<BurstToHitBonus>10</BurstToHitBonus>
 		<AutoFireToHitBonus>10</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1953</uiIndex>
@@ -48694,7 +48695,7 @@
 		<ToHitBonus>-1</ToHitBonus>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1955</uiIndex>
@@ -48724,7 +48725,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>900</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1956</uiIndex>
@@ -48984,7 +48985,7 @@
 		<BestLaserRange>200</BestLaserRange>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1965</uiIndex>
@@ -49073,7 +49074,7 @@
 		<PercentNoiseReduction>55</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1968</uiIndex>
@@ -49131,7 +49132,7 @@
 		<PercentNoiseReduction>10</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1005</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -49161,7 +49162,7 @@
 		<PercentNoiseReduction>10</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1806</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -49192,7 +49193,7 @@
 		<PercentNoiseReduction>10</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1834</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -49252,7 +49253,7 @@
 		<BR_ROF>1100</BR_ROF>
 		<PercentNoiseReduction>65</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1974</uiIndex>
@@ -49305,7 +49306,7 @@
 		<BigGunList>1</BigGunList>
 		<BR_ROF>800</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1976</uiIndex>
@@ -49333,7 +49334,7 @@
 		<BigGunList>1</BigGunList>
 		<BR_ROF>800</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1977</uiIndex>
@@ -49388,7 +49389,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>700</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1979</uiIndex>
@@ -49418,7 +49419,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>550</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1980</uiIndex>
@@ -49654,7 +49655,7 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_ROF>34</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>208</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -49749,7 +49750,7 @@
 		<BR_ROF>25</BR_ROF>
 		<Bipod>20</Bipod>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>208</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -49779,7 +49780,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>33</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1851</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -49868,7 +49869,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1995</uiIndex>
@@ -49900,7 +49901,7 @@
 		<BR_ROF>24</BR_ROF>
 		<Bipod>15</Bipod>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>208</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -49960,7 +49961,7 @@
 		<BR_ROF>600</BR_ROF>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>911</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -49993,7 +49994,7 @@
 		<BR_ROF>800</BR_ROF>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1029</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -50025,7 +50026,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>660</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2000</uiIndex>
@@ -50111,7 +50112,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>500</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2003</uiIndex>
@@ -50248,7 +50249,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>1100</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2008</uiIndex>
@@ -50278,7 +50279,7 @@
 		<ToHitBonus>-1</ToHitBonus>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2009</uiIndex>
@@ -50310,7 +50311,7 @@
 		<ToHitBonus>-1</ToHitBonus>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2010</uiIndex>
@@ -50372,7 +50373,7 @@
 		<ToHitBonus>-1</ToHitBonus>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2012</uiIndex>
@@ -50403,7 +50404,7 @@
 		<ToHitBonus>-1</ToHitBonus>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1860</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -50460,7 +50461,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>650</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2015</uiIndex>
@@ -50545,7 +50546,7 @@
 		<BR_ROF>950</BR_ROF>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2018</uiIndex>
@@ -50636,7 +50637,7 @@
 		<ToHitBonus>-1</ToHitBonus>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1824</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -50790,7 +50791,7 @@
 		<szBRName>7.5mm GP11 Clip</szBRName>
 		<szBRDesc>The full metal jacket GP11 bullet offered good aerodynamic efficiency and ballistic performance even by todays standards, can retain supersonic velocity up to 800m.</szBRDesc>
 		<usItemClass>1024</usItemClass>
-		<ubClassIndex>748</ubClassIndex>
+		<ubClassIndex>751</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>895</ubGraphicNum>
 		<ubWeight>4</ubWeight>
@@ -50810,7 +50811,7 @@
 		<szBRName>7.5mm GP11 Mag</szBRName>
 		<szBRDesc>24 rounds of 7.5x55mm GP11 Swiss greeting in a steel magazine.</szBRDesc>
 		<usItemClass>1024</usItemClass>
-		<ubClassIndex>749</ubClassIndex>
+		<ubClassIndex>752</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>896</ubGraphicNum>
 		<ubWeight>8</ubWeight>
@@ -50830,7 +50831,7 @@
 		<szBRName>7.5mm GP11 crate</szBRName>
 		<szBRDesc>500 rounds of 7.5x55mm GP11 Swiss ammunition in ammo crate.</szBRDesc>
 		<usItemClass>1024</usItemClass>
-		<ubClassIndex>750</ubClassIndex>
+		<ubClassIndex>753</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>347</ubGraphicNum>
 		<ubWeight>150</ubWeight>
@@ -53015,7 +53016,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>24</BR_ROF>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 		<spreadPattern>SawedoffSpread</spreadPattern>
 	</ITEM>
 	<ITEM>
@@ -53221,7 +53222,7 @@
 		<SciFi>1</SciFi>
 		<BR_ROF>47</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1011</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -53252,7 +53253,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>500</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2142</uiIndex>
@@ -53313,7 +53314,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2144</uiIndex>
@@ -53344,7 +53345,7 @@
 		<BR_ROF>22</BR_ROF>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 		<Duckbill>1</Duckbill>
 		<DefaultAttachment>1802</DefaultAttachment>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
@@ -53406,7 +53407,7 @@
 		<BR_ROF>800</BR_ROF>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1803</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -53435,7 +53436,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>800</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>208</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -53467,7 +53468,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2149</uiIndex>
@@ -53559,7 +53560,7 @@
 		<ToHitBonus>-1</ToHitBonus>
 		<BurstToHitBonus>2</BurstToHitBonus>
 		<AutoFireToHitBonus>2</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2152</uiIndex>
@@ -53590,7 +53591,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>800</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2153</uiIndex>
@@ -53624,7 +53625,7 @@
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
 		<BurstToHitBonus>2</BurstToHitBonus>
 		<AutoFireToHitBonus>2</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 		<PercentAPReduction>20</PercentAPReduction>
 		<DefaultAttachment>911</DefaultAttachment>
 		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
@@ -53657,7 +53658,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>650</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2155</uiIndex>
@@ -53778,7 +53779,7 @@
 		<BestLaserRange>400</BestLaserRange>
 		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<PercentAPReduction>5</PercentAPReduction>
 		<DefaultAttachment>50</DefaultAttachment>
 		<NightVisionRangeBonus>60</NightVisionRangeBonus>
@@ -53919,7 +53920,7 @@
 		<ToHitBonus>-1</ToHitBonus>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2164</uiIndex>
@@ -54212,7 +54213,7 @@
 		<ToHitBonus>-2</ToHitBonus>
 		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<PercentAPReduction>20</PercentAPReduction>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
 		<DayVisionRangeBonus>25</DayVisionRangeBonus>
@@ -54251,7 +54252,7 @@
 		<ToHitBonus>-1</ToHitBonus>
 		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
 		<DayVisionRangeBonus>25</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>25</BrightLightVisionRangeBonus>
@@ -56842,7 +56843,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>700</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2281</uiIndex>
@@ -56872,7 +56873,7 @@
 		<PercentNoiseReduction>75</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1605</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -56901,7 +56902,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>20</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>999</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -57033,7 +57034,7 @@
 		<BR_ROF>600</BR_ROF>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2288</uiIndex>
@@ -57060,7 +57061,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2289</uiIndex>
@@ -57121,11 +57122,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2291</uiIndex>
-		<szItemName>RRA SOCOM</szItemName>
-		<szLongItemName>RRA LAR 458 SOCOM</szLongItemName>
-		<szItemDesc>This selective-fire, short barrel variant of the LAR 458 is another toy of awesomely awsome power of awsomeness.</szItemDesc>
+		<szItemName>Chris SOCOM</szItemName>
+		<szLongItemName>Chris .458 SOCOM</szLongItemName>
+		<szItemDesc>This selective-fire, short barrel variant of the RRA LAR 458 is another toy of awesomely awsome power of awsomeness.</szItemDesc>
 		<szBRName>Chris .458 SOCOM</szBRName>
-		<szBRDesc>This selective-fire, short barrel variant of the LAR 458 is another toy of awsomely awsome power of awsomeness.</szBRDesc>
+		<szBRDesc>This selective-fire, short barrel variant of the RRA LAR 458 is another toy of awsomely awsome power of awsomeness.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2291</ubClassIndex>
 		<ubCursor>3</ubCursor>
@@ -57160,6 +57161,7 @@
 		<ItemSize>7</ItemSize>
 		<usPrice>2870</usPrice>
 		<ubCoolness>6</ubCoolness>
+		<bReliability>4</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<WaterDamages>1</WaterDamages>
@@ -57195,7 +57197,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2294</uiIndex>
@@ -57221,7 +57223,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2295</uiIndex>
@@ -57249,7 +57251,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2296</uiIndex>
@@ -57303,7 +57305,7 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1833</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -57336,7 +57338,7 @@
 		<BestLaserRange>400</BestLaserRange>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1030</DefaultAttachment>
 		<NightVisionRangeBonus>25</NightVisionRangeBonus>
 		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
@@ -57400,7 +57402,7 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_ROF>800</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1833</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -60094,7 +60096,7 @@
 		<szBRName>.38 Super ammo box</szBRName>
 		<szBRDesc>100 rounds of .38 Super ball ammunition in a cardboard box.</szBRDesc>
 		<usItemClass>1024</usItemClass>
-		<ubClassIndex>738</ubClassIndex>
+		<ubClassIndex>741</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>319</ubGraphicNum>
 		<ubWeight>22</ubWeight>
@@ -60114,7 +60116,7 @@
 		<szBRName>.38 Super HP ammo box</szBRName>
 		<szBRDesc>100 rounds of .38 Super Jacket Hollow Point ammunitiont in a cardboard box.</szBRDesc>
 		<usItemClass>1024</usItemClass>
-		<ubClassIndex>739</ubClassIndex>
+		<ubClassIndex>742</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>320</ubGraphicNum>
 		<ubWeight>22</ubWeight>
@@ -60134,7 +60136,7 @@
 		<szBRName>.38 Super KTW ammo box</szBRName>
 		<szBRDesc>100 rounds of .38 Super KTW Steel Penetrator ammunition in a cardboard box.</szBRDesc>
 		<usItemClass>1024</usItemClass>
-		<ubClassIndex>740</ubClassIndex>
+		<ubClassIndex>743</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>324</ubGraphicNum>
 		<ubWeight>22</ubWeight>
@@ -60154,7 +60156,7 @@
 		<szBRName>.458 SOCOM Mag 10 FMJ</szBRName>
 		<szBRDesc>A 10-round FMJ clip of .458 SOCOM ammunition. This manstopper is a 300grain bullet with a velocity of 1900 fps.</szBRDesc>
 		<usItemClass>1024</usItemClass>
-		<ubClassIndex>742</ubClassIndex>
+		<ubClassIndex>745</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>476</ubGraphicNum>
 		<ubWeight>6</ubWeight>
@@ -60174,7 +60176,7 @@
 		<szBRName>.458 SOCOM Mag 10 JHP</szBRName>
 		<szBRDesc>A 10-round JHP clip of .458 SOCOM ammunition. This manstopper is a 300grain bullet with a velocity of 1900 fps..</szBRDesc>
 		<usItemClass>1024</usItemClass>
-		<ubClassIndex>743</ubClassIndex>
+		<ubClassIndex>746</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>477</ubGraphicNum>
 		<ubWeight>6</ubWeight>
@@ -60194,7 +60196,7 @@
 		<szBRName>.458 SOCOM Mag 14 FMJ</szBRName>
 		<szBRDesc>A 14-round FMJ clip of .458 SOCOM ammunition, This manstopper is a 300grain bullet with a velocity of 1900 fps.</szBRDesc>
 		<usItemClass>1024</usItemClass>
-		<ubClassIndex>744</ubClassIndex>
+		<ubClassIndex>747</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>873</ubGraphicNum>
 		<ubWeight>6</ubWeight>
@@ -60214,7 +60216,7 @@
 		<szBRName>.458 SOCOM Mag 14 JHP</szBRName>
 		<szBRDesc>A 14-round JHP clip of .458 SOCOM ammunition, This manstopper is a 300grain bullet with a velocity of 1900 fps.</szBRDesc>
 		<usItemClass>1024</usItemClass>
-		<ubClassIndex>745</ubClassIndex>
+		<ubClassIndex>748</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>479</ubGraphicNum>
 		<ubWeight>6</ubWeight>
@@ -60234,7 +60236,7 @@
 		<szBRName>.458 SOCOM FMJ ammo box</szBRName>
 		<szBRDesc>50 rounds of .458 SOCOM  Full Metal Jacket ammunition in a cardboard box.</szBRDesc>
 		<usItemClass>1024</usItemClass>
-		<ubClassIndex>746</ubClassIndex>
+		<ubClassIndex>749</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>465</ubGraphicNum>
 		<ubWeight>22</ubWeight>
@@ -60254,7 +60256,7 @@
 		<szBRName>.458 SOCOM JHP ammo box</szBRName>
 		<szBRDesc>50 rounds of .458 SOCOM Jacket Hollow Point ammunition in a cardboard box.</szBRDesc>
 		<usItemClass>1024</usItemClass>
-		<ubClassIndex>747</ubClassIndex>
+		<ubClassIndex>750</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>466</ubGraphicNum>
 		<ubWeight>22</ubWeight>
@@ -60274,7 +60276,7 @@
 		<szBRName>5.45x39mm MGTS Mag</szBRName>
 		<szBRDesc>This magazine hold 26-rounds 5.45x39mm MGTS underwater cartridge.</szBRDesc>
 		<usItemClass>1024</usItemClass>
-		<ubClassIndex>751</ubClassIndex>
+		<ubClassIndex>754</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>478</ubGraphicNum>
 		<ubWeight>10</ubWeight>
@@ -60293,7 +60295,7 @@
 		<szBRName>5.45x39mm MGTS ammo box</szBRName>
 		<szBRDesc>200 rounds of 5.45x39mm MGTS underwater ammunition in a crate.</szBRDesc>
 		<usItemClass>1024</usItemClass>
-		<ubClassIndex>752</ubClassIndex>
+		<ubClassIndex>755</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>555</ubGraphicNum>
 		<ubWeight>24</ubWeight>
@@ -60331,7 +60333,7 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_ROF>800</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1833</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -60361,7 +60363,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>700</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2442</uiIndex>
@@ -60387,7 +60389,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>700</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2443</uiIndex>
@@ -60413,7 +60415,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>700</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2444</uiIndex>
@@ -60506,7 +60508,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>20</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2448</uiIndex>
@@ -60536,7 +60538,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>22</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2449</uiIndex>
@@ -60564,7 +60566,93 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_ROF>900</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1011</DefaultAttachment>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2450</uiIndex>
+		<szItemName>M1911 MP</szItemName>
+		<szLongItemName>Lebman's M1911 .38</szLongItemName>
+		<szItemDesc>This selective-fire Cop-Killer once used by Baby Face Nelson is a heavily modified Colt 1911, fitted with a long muzzle brake, a 22rd magazine and a foregrip taken from Thompson Machinegun.</szItemDesc>
+		<szBRName>Lebman's M1911 .38</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<ubClassIndex>2450</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicNum>860</ubGraphicNum>
+		<ubWeight>13</ubWeight>
+		<ubPerPocket>1</ubPerPocket>
+		<ItemSize>2</ItemSize>
+		<usPrice>1650</usPrice>
+		<ubCoolness>4</ubCoolness>
+		<bReliability>7</bReliability>
+		<bRepairEase>1</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<BR_ROF>1270</BR_ROF>
+		<BurstToHitBonus>7</BurstToHitBonus>
+		<AutoFireToHitBonus>7</AutoFireToHitBonus>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2451</uiIndex>
+		<szItemName>.38 Super Lrg Mag</szItemName>
+		<szLongItemName>.38 Super Large Mag</szLongItemName>
+		<szItemDesc>This large magazine contains 22 rounds of match class .38 Super ammunition.</szItemDesc>
+		<szBRName>.38 Super Large Mag</szBRName>
+		<szBRDesc>This large magazine contains 22 rounds of match class .38 Super ammunition.</szBRDesc>
+		<usItemClass>1024</usItemClass>
+		<ubClassIndex>738</ubClassIndex>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>923</ubGraphicNum>
+		<ubWeight>5</ubWeight>
+		<ubPerPocket>4</ubPerPocket>
+		<ItemSize>12</ItemSize>
+		<usPrice>44</usPrice>
+		<ubCoolness>4</ubCoolness>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2452</uiIndex>
+		<szItemName>.38 Super Lrg Mag HP</szItemName>
+		<szLongItemName>.38 Super Large Mag HP</szLongItemName>
+		<szItemDesc>This large magazine contains 22 rounds of match class .38 Super JHP ammunition.</szItemDesc>
+		<szBRName>.38 Super Large Mag HP</szBRName>
+		<szBRDesc>This large magazine contains 22 rounds of match class .38 Super JHP ammunition.</szBRDesc>
+		<usItemClass>1024</usItemClass>
+		<ubClassIndex>739</ubClassIndex>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>924</ubGraphicNum>
+		<ubWeight>5</ubWeight>
+		<ubPerPocket>4</ubPerPocket>
+		<ItemSize>12</ItemSize>
+		<usPrice>66</usPrice>
+		<ubCoolness>4</ubCoolness>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2453</uiIndex>
+		<szItemName>.38 Super Lrg Mag KTW</szItemName>
+		<szLongItemName>.38 Super Large Mag KTW</szLongItemName>
+		<szItemDesc>This large magazine contains 22 rounds of match class .38 Super KTW ammunition.</szItemDesc>
+		<szBRName>.38 Super Large Mag KTW</szBRName>
+		<szBRDesc>This large magazine contains 22 rounds of match class .38 Super KTW ammunition.</szBRDesc>
+		<usItemClass>1024</usItemClass>
+		<ubClassIndex>740</ubClassIndex>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>925</ubGraphicNum>
+		<ubWeight>5</ubWeight>
+		<ubPerPocket>4</ubPerPocket>
+		<ItemSize>12</ItemSize>
+		<usPrice>110</usPrice>
+		<ubCoolness>4</ubCoolness>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<RangeBonus>20</RangeBonus>
 	</ITEM>
 </ITEMLIST>
