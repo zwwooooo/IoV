@@ -19600,4 +19600,36 @@
 		<szBRName>HK416 Sub-Compat Carbine</szBRName>
 		<szBRDesc>最短最轻的HK416卡宾枪，这是HK公司应英国特种部队的要求而研制的。</szBRDesc>
 	</ITEM>
+	<ITEM>
+		<uiIndex>2450</uiIndex>
+		<szItemName>M1911 MP</szItemName>
+		<szLongItemName>莱曼改装的M1911冲锋手枪</szLongItemName>
+		<szItemDesc>莱曼为娃娃面尼尔森改装的.38 Super口径1911式冲锋手枪，有一个汤米枪的前握把和防跳器帮助你控制它的全自动射击，并使用22发西班牙弹匣。</szItemDesc>
+		<szBRName>Lebman's M1911 .38</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2451</uiIndex>
+		<szItemName>.38 Super Lrg Mag</szItemName>
+		<szLongItemName>.38 Super Large Mag</szLongItemName>
+		<szItemDesc>装有22发比赛级.38 Super全被甲弹的大弹匣。</szItemDesc>
+		<szBRName>.38 Super Large Mag</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2452</uiIndex>
+		<szItemName>.38 Super Lrg Mag HP</szItemName>
+		<szLongItemName>.38 Super Large Mag HP</szLongItemName>
+		<szItemDesc>装有22发.38 Super空尖弹的大弹匣。</szItemDesc>
+		<szBRName>.38 Super Large Mag HP</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2453</uiIndex>
+		<szItemName>.38 Super Lrg Mag KTW</szItemName>
+		<szLongItemName>.38 Super Large Mag KTW</szLongItemName>
+		<szItemDesc>装有22发.38 Super口径KTW弹的大弹匣。</szItemDesc>
+		<szBRName>.38 Super Large Mag KTW</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
 </ITEMLIST>
