@@ -3712,4 +3712,52 @@
 		<mergeType>4</mergeType>
 		<APCost>50</APCost>
 	</MERGE>
+	<MERGE>
+		<firstItemIndex>2462</firstItemIndex> <!-- Rem MSR Barrel -->
+		<secondItemIndex>2487</secondItemIndex>
+		<firstResultingItemIndex>2463</firstResultingItemIndex>
+		<secondResultingItemIndex>2486</secondResultingItemIndex>
+		<mergeType>4</mergeType>
+		<APCost>50</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2462</firstItemIndex>
+		<secondItemIndex>2488</secondItemIndex>
+		<firstResultingItemIndex>2464</firstResultingItemIndex>
+		<secondResultingItemIndex>2486</secondResultingItemIndex>
+		<mergeType>4</mergeType>
+		<APCost>50</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2463</firstItemIndex>
+		<secondItemIndex>2486</secondItemIndex>
+		<firstResultingItemIndex>2462</firstResultingItemIndex>
+		<secondResultingItemIndex>2487</secondResultingItemIndex>
+		<mergeType>4</mergeType>
+		<APCost>50</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2463</firstItemIndex>
+		<secondItemIndex>2488</secondItemIndex>
+		<firstResultingItemIndex>2464</firstResultingItemIndex>
+		<secondResultingItemIndex>2487</secondResultingItemIndex>
+		<mergeType>4</mergeType>
+		<APCost>50</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2464</firstItemIndex>
+		<secondItemIndex>2486</secondItemIndex>
+		<firstResultingItemIndex>2462</firstResultingItemIndex>
+		<secondResultingItemIndex>2488</secondResultingItemIndex>
+		<mergeType>4</mergeType>
+		<APCost>50</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2464</firstItemIndex>
+		<secondItemIndex>2487</secondItemIndex>
+		<firstResultingItemIndex>2463</firstResultingItemIndex>
+		<secondResultingItemIndex>2488</secondResultingItemIndex>
+		<mergeType>4</mergeType>
+		<APCost>50</APCost>
+	</MERGE>
 </MERGELIST>

@@ -3,7 +3,7 @@
 	<ENEMYGUNCHOICES>
 		<uiIndex>0</uiIndex>
 		<name>0%</name>
-		<ubChoices>41</ubChoices>
+		<ubChoices>43</ubChoices>
 		<bItemNo1>689</bItemNo1>
 		<bItemNo2>690</bItemNo2>
 		<bItemNo3>635</bItemNo3>
@@ -45,8 +45,8 @@
 		<bItemNo39>2142</bItemNo39>
 		<bItemNo40>2143</bItemNo40>
 		<bItemNo41>2290</bItemNo41>
-		<bItemNo42>0</bItemNo42>
-		<bItemNo43>0</bItemNo43>
+		<bItemNo42>2478</bItemNo42>
+		<bItemNo43>2494</bItemNo43>
 		<bItemNo44>0</bItemNo44>
 		<bItemNo45>0</bItemNo45>
 		<bItemNo46>0</bItemNo46>
@@ -58,7 +58,7 @@
 	<ENEMYGUNCHOICES>
 		<uiIndex>1</uiIndex>
 		<name>10%</name>
-		<ubChoices>41</ubChoices>
+		<ubChoices>43</ubChoices>
 		<bItemNo1>703</bItemNo1>
 		<bItemNo2>719</bItemNo2>
 		<bItemNo3>3</bItemNo3>
@@ -100,8 +100,8 @@
 		<bItemNo39>2018</bItemNo39>
 		<bItemNo40>2144</bItemNo40>
 		<bItemNo41>2289</bItemNo41>
-		<bItemNo42>0</bItemNo42>
-		<bItemNo43>0</bItemNo43>
+		<bItemNo42>26</bItemNo42>
+		<bItemNo43>2501</bItemNo43>
 		<bItemNo44>0</bItemNo44>
 		<bItemNo45>0</bItemNo45>
 		<bItemNo46>0</bItemNo46>
@@ -113,7 +113,7 @@
 	<ENEMYGUNCHOICES>
 		<uiIndex>2</uiIndex>
 		<name>20%</name>
-		<ubChoices>41</ubChoices>
+		<ubChoices>43</ubChoices>
 		<bItemNo1>694</bItemNo1>
 		<bItemNo2>2</bItemNo2>
 		<bItemNo3>22</bItemNo3>
@@ -141,7 +141,7 @@
 		<bItemNo25>1258</bItemNo25>
 		<bItemNo26>1262</bItemNo26>
 		<bItemNo27>1283</bItemNo27>
-		<bItemNo28>1285</bItemNo28>
+		<bItemNo28>1309</bItemNo28>
 		<bItemNo29>1294</bItemNo29>
 		<bItemNo30>1295</bItemNo30>
 		<bItemNo31>347</bItemNo31>
@@ -155,8 +155,8 @@
 		<bItemNo39>2008</bItemNo39>
 		<bItemNo40>2141</bItemNo40>
 		<bItemNo41>2151</bItemNo41>
-		<bItemNo42>0</bItemNo42>
-		<bItemNo43>0</bItemNo43>
+		<bItemNo42>612</bItemNo42>
+		<bItemNo43>1285</bItemNo43>
 		<bItemNo44>0</bItemNo44>
 		<bItemNo45>0</bItemNo45>
 		<bItemNo46>0</bItemNo46>
@@ -168,7 +168,7 @@
 	<ENEMYGUNCHOICES>
 		<uiIndex>3</uiIndex>
 		<name>30%</name>
-		<ubChoices>41</ubChoices>
+		<ubChoices>43</ubChoices>
 		<bItemNo1>670</bItemNo1>
 		<bItemNo2>723</bItemNo2>
 		<bItemNo3>724</bItemNo3>
@@ -210,8 +210,8 @@
 		<bItemNo39>2007</bItemNo39>
 		<bItemNo40>2014</bItemNo40>
 		<bItemNo41>2157</bItemNo41>
-		<bItemNo42>0</bItemNo42>
-		<bItemNo43>0</bItemNo43>
+		<bItemNo42>2482</bItemNo42>
+		<bItemNo43>2497</bItemNo43>
 		<bItemNo44>0</bItemNo44>
 		<bItemNo45>0</bItemNo45>
 		<bItemNo46>0</bItemNo46>
@@ -223,7 +223,7 @@
 	<ENEMYGUNCHOICES>
 		<uiIndex>4</uiIndex>
 		<name>40%</name>
-		<ubChoices>41</ubChoices>
+		<ubChoices>43</ubChoices>
 		<bItemNo1>641</bItemNo1>
 		<bItemNo2>707</bItemNo2>
 		<bItemNo3>701</bItemNo3>
@@ -265,8 +265,8 @@
 		<bItemNo39>1999</bItemNo39>
 		<bItemNo40>2002</bItemNo40>
 		<bItemNo41>2131</bItemNo41>
-		<bItemNo42>0</bItemNo42>
-		<bItemNo43>0</bItemNo43>
+		<bItemNo42>2476</bItemNo42>
+		<bItemNo43>2481</bItemNo43>
 		<bItemNo44>0</bItemNo44>
 		<bItemNo45>0</bItemNo45>
 		<bItemNo46>0</bItemNo46>
@@ -278,7 +278,7 @@
 	<ENEMYGUNCHOICES>
 		<uiIndex>5</uiIndex>
 		<name>50%</name>
-		<ubChoices>42</ubChoices>
+		<ubChoices>43</ubChoices>
 		<bItemNo1>601</bItemNo1>
 		<bItemNo2>727</bItemNo2>
 		<bItemNo3>344</bItemNo3>
@@ -321,7 +321,7 @@
 		<bItemNo40>2000</bItemNo40>
 		<bItemNo41>2132</bItemNo41>
 		<bItemNo42>2448</bItemNo42>
-		<bItemNo43>0</bItemNo43>
+		<bItemNo43>2477</bItemNo43>
 		<bItemNo44>0</bItemNo44>
 		<bItemNo45>0</bItemNo45>
 		<bItemNo46>0</bItemNo46>
@@ -333,7 +333,7 @@
 	<ENEMYGUNCHOICES>
 		<uiIndex>6</uiIndex>
 		<name>60%</name>
-		<ubChoices>42</ubChoices>
+		<ubChoices>43</ubChoices>
 		<bItemNo1>337</bItemNo1>
 		<bItemNo2>671</bItemNo2>
 		<bItemNo3>672</bItemNo3>
@@ -376,7 +376,7 @@
 		<bItemNo40>1993</bItemNo40>
 		<bItemNo41>2159</bItemNo41>
 		<bItemNo42>2447</bItemNo42>
-		<bItemNo43>0</bItemNo43>
+		<bItemNo43>2475</bItemNo43>
 		<bItemNo44>0</bItemNo44>
 		<bItemNo45>0</bItemNo45>
 		<bItemNo46>0</bItemNo46>
@@ -388,7 +388,7 @@
 	<ENEMYGUNCHOICES>
 		<uiIndex>7</uiIndex>
 		<name>70%</name>
-		<ubChoices>42</ubChoices>
+		<ubChoices>43</ubChoices>
 		<bItemNo1>663</bItemNo1>
 		<bItemNo2>15</bItemNo2>
 		<bItemNo3>731</bItemNo3>
@@ -431,7 +431,7 @@
 		<bItemNo40>1994</bItemNo40>
 		<bItemNo41>2160</bItemNo41>
 		<bItemNo42>2170</bItemNo42>
-		<bItemNo43>0</bItemNo43>
+		<bItemNo43>2470</bItemNo43>
 		<bItemNo44>0</bItemNo44>
 		<bItemNo45>0</bItemNo45>
 		<bItemNo46>0</bItemNo46>
@@ -443,7 +443,7 @@
 	<ENEMYGUNCHOICES>
 		<uiIndex>8</uiIndex>
 		<name>80%</name>
-		<ubChoices>42</ubChoices>
+		<ubChoices>43</ubChoices>
 		<bItemNo1>680</bItemNo1>
 		<bItemNo2>713</bItemNo2>
 		<bItemNo3>662</bItemNo3>
@@ -486,7 +486,7 @@
 		<bItemNo40>1995</bItemNo40>
 		<bItemNo41>2162</bItemNo41>
 		<bItemNo42>2152</bItemNo42>
-		<bItemNo43>0</bItemNo43>
+		<bItemNo43>2468</bItemNo43>
 		<bItemNo44>0</bItemNo44>
 		<bItemNo45>0</bItemNo45>
 		<bItemNo46>0</bItemNo46>
@@ -498,7 +498,7 @@
 	<ENEMYGUNCHOICES>
 		<uiIndex>9</uiIndex>
 		<name>90%</name>
-		<ubChoices>42</ubChoices>
+		<ubChoices>43</ubChoices>
 		<bItemNo1>605</bItemNo1>
 		<bItemNo2>715</bItemNo2>
 		<bItemNo3>714</bItemNo3>
@@ -541,7 +541,7 @@
 		<bItemNo40>2013</bItemNo40>
 		<bItemNo41>2134</bItemNo41>
 		<bItemNo42>2163</bItemNo42>
-		<bItemNo43>0</bItemNo43>
+		<bItemNo43>2498</bItemNo43>
 		<bItemNo44>0</bItemNo44>
 		<bItemNo45>0</bItemNo45>
 		<bItemNo46>0</bItemNo46>
@@ -553,7 +553,7 @@
 	<ENEMYGUNCHOICES>
 		<uiIndex>10</uiIndex>
 		<name>100%</name>
-		<ubChoices>42</ubChoices>
+		<ubChoices>43</ubChoices>
 		<bItemNo1>639</bItemNo1>
 		<bItemNo2>750</bItemNo2>
 		<bItemNo3>751</bItemNo3>
@@ -596,7 +596,7 @@
 		<bItemNo40>2019</bItemNo40>
 		<bItemNo41>2137</bItemNo41>
 		<bItemNo42>2138</bItemNo42>
-		<bItemNo43>0</bItemNo43>
+		<bItemNo43>2471</bItemNo43>
 		<bItemNo44>0</bItemNo44>
 		<bItemNo45>0</bItemNo45>
 		<bItemNo46>0</bItemNo46>

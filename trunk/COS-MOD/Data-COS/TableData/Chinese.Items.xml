@@ -7502,7 +7502,7 @@
 		<szLongItemName>斯通纳63A卡宾枪</szLongItemName>
 		<szItemDesc>“斯通纳”63武器系统的卡宾枪型，带有可折叠枪托，枪管长15.7英寸。</szItemDesc>
 		<szBRName>Stoner 63A Carbine</szBRName>
-		<szBRDesc>“斯通纳”63武器系统的卡宾枪型，带有可折叠枪托，枪管长15.7英寸。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>938</uiIndex>
@@ -9310,7 +9310,7 @@
 		<szLongItemName>斯通纳63A突击队员型</szLongItemName>
 		<szItemDesc>斯通纳63A突击队员型轻机枪是斯通纳63A轻机枪的衍生型，越战时曾被海豹采用。</szItemDesc>
 		<szBRName>Stoner 63A Commando</szBRName>
-		<szBRDesc>斯通纳63A突击队员型轻机枪是斯通纳63A轻机枪的衍生型，越战时曾被海豹采用。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1164</uiIndex>
@@ -10284,9 +10284,9 @@
 		<uiIndex>1285</uiIndex>
 		<szItemName>STEN Mk.V</szItemName>
 		<szLongItemName>司登Mk.V</szLongItemName>
-		<szItemDesc>司登Mk.V冲锋枪装有木制枪托和手枪式握把，准星和刺刀座也是全新的。</szItemDesc>
+		<szItemDesc>司登Mk.V冲锋枪装有木制枪托和手枪式握把，准星和刺刀座也是新设计的，Mk.V型只在二战后期装备过伞兵部队。</szItemDesc>
 		<szBRName>STEN Mk.V</szBRName>
-		<szBRDesc>司登Mk.V冲锋枪装有木制枪托和手枪式握把，准星和刺刀座也是全新的。</szBRDesc>
+		<szBRDesc>司登Mk.V冲锋枪装有木制枪托和手枪式握把，准星和刺刀座也是新设计的，Mk.V型只在二战后期装备过伞兵部队。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1286</uiIndex>
@@ -10474,11 +10474,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1309</uiIndex>
-		<szItemName>AK-YY-54r</szItemName>
-		<szLongItemName>AK-YY-54r</szLongItemName>
-		<szItemDesc>像M14、FAL或G3一样使用全威力7.62x54r弹的突击步枪。这是一把YY出来的武器。</szItemDesc>
-		<szBRName>AK-YY-54r</szBRName>
-		<szBRDesc>像M14、FAL或G3一样使用全威力7.62x54r弹的突击步枪。这是一把YY出来的武器。</szBRDesc>
+		<szItemName>Saiga-410K</szItemName>
+		<szLongItemName>Saiga-410K Tactical</szLongItemName>
+		<szItemDesc>410口径的霰弹威力是比较弱的，只能用来打鸟。不过用独头弹来打人时，勉强还可以。</szItemDesc>
+		<szBRName>Saiga-410K</szBRName>
+		<szBRDesc>410口径的霰弹威力是比较弱的，只能用来打鸟。不过用独头弹来打人时，勉强还可以。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1310</uiIndex>
@@ -15806,7 +15806,7 @@
 		<szLongItemName>WF SGC42</szLongItemName>
 		<szItemDesc>瑞士Eidgenossische Waffenfabrik制造的发射.223 REM弹的突击步枪，但仅有原型枪而没有投入批量生产。</szItemDesc>
 		<szBRName>WF SGC42</szBRName>
-		<szBRDesc>瑞士Eidgenossische Waffenfabrik制造的发射.223 REM弹的突击步枪，但仅有原型枪而没有投入批量生产。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1976</uiIndex>
@@ -15814,7 +15814,7 @@
 		<szLongItemName>WF MPC41</szLongItemName>
 		<szItemDesc>瑞士Eidgenossische Waffenfabrik SGC42突击步枪的卡宾型。</szItemDesc>
 		<szBRName>WF MPC41</szBRName>
-		<szBRDesc>瑞士Eidgenossische Waffenfabrik SGC42突击步枪的卡宾型。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1977</uiIndex>
@@ -15822,7 +15822,7 @@
 		<szLongItemName>M1941约翰逊</szLongItemName>
 		<szItemDesc>美国枪械设计师Melvin C. Johnson在1938年年中设计出了这种半自动步枪，并将它交给美国陆军进行测试。测试和改进工作一直持续到1940年初。</szItemDesc>
 		<szBRName>M1941 Johnson</szBRName>
-		<szBRDesc>美国枪械设计师Melvin C. Johnson在1938年年中设计出了这种半自动步枪，并将它交给美国陆军进行测试。测试和改进工作一直持续到1940年初。</szBRDesc>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1978</uiIndex>
@@ -19631,5 +19631,469 @@
 		<szItemDesc>装有22发.38 Super口径KTW弹的大弹匣。</szItemDesc>
 		<szBRName>.38 Super Large Mag KTW</szBRName>
 		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2454</uiIndex>
+		<szItemName>12Ga M BS</szItemName>
+		<szLongItemName>12Ga MAUL Buckshot</szLongItemName>
+		<szItemDesc>5发MAUL金属风暴霰弹枪所用的鹿弹。</szItemDesc>
+		<szBRName>12Ga MAUL BS</szBRName>
+		<szBRDesc>5发MAUL金属风暴霰弹枪所用的鹿弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2455</uiIndex>
+		<szItemName>12Ga M Slug</szItemName>
+		<szLongItemName>12Ga MAUL Slug</szLongItemName>
+		<szItemDesc>5发MAUL金属风暴霰弹枪所用的独头弹。</szItemDesc>
+		<szBRName>12Ga MAUL Slug</szBRName>
+		<szBRDesc>5发MAUL金属风暴霰弹枪所用的独头弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2456</uiIndex>
+		<szItemName>5.56 MSMC Mag</szItemName>
+		<szLongItemName>5.56x30mm MSMC Mag</szLongItemName>
+		<szItemDesc>印度MSMC冲锋枪配的弹药，为了省功夫，他们只是把5.56 NATO弹直接缩短弹壳、减少发射药。</szItemDesc>
+		<szBRName>5.56x30mm MSMC Mag</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2457</uiIndex>
+		<szItemName>5.56x30mm box</szItemName>
+		<szLongItemName>5.56x30mmm ammo box</szLongItemName>
+		<szItemDesc>纸盒包装的250发印度5.56x30mmm全被甲弹。</szItemDesc>
+		<szBRName>5.56x30mm ammo box</szBRName>
+		<szBRDesc>纸盒包装的250发印度5.56x30mmm全被甲弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2458</uiIndex>
+		<szItemName>14.5mm Mag 5</szItemName>
+		<szLongItemName>14.5x114mm Mag, 5</szLongItemName>
+		<szItemDesc>比12.7x108个儿大，威力也更大，虽然是用来对付轻型装甲车的，也许打不了坦克，但用来打人保证一枪几命。</szItemDesc>
+		<szBRName>14.5x114mm Mag, 5</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2459</uiIndex>
+		<szItemName>14.5mm crate</szItemName>
+		<szLongItemName>14.5x114mm ammo crate</szLongItemName>
+		<szItemDesc>装有100发苏联生产的14.5x114mm穿甲曳光弹的弹药箱。</szItemDesc>
+		<szBRName>14.5x114mm ammo crate</szBRName>
+		<szBRDesc>装有100发苏联生产的14.5x114mm穿甲曳光弹的弹药箱。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2460</uiIndex>
+		<szItemName>7.92x57mm Z Belt</szItemName>
+		<szLongItemName>7.92x57mm Zwilling Belt</szLongItemName>
+		<szItemDesc>一对弹链袋，各装一条100发7.92x57mm穿甲曳光弹，专门挂在MG81 Z双联航空机枪上使用。</szItemDesc>
+		<szBRName>7.92x57mm Zwilling Belt</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2461</uiIndex>
+		<szItemName>M40A5</szItemName>
+		<szLongItemName>M40A5</szLongItemName>
+		<szItemDesc>M40A3的最新改进型，使用SURE-FIRE的消焰器和快拆消声器。</szItemDesc>
+		<szBRName>M40A5</szBRName>
+		<szBRDesc>M40A3的最新改进型，使用SURE-FIRE的消焰器和快拆消声器。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2462</uiIndex>
+		<szItemName>MSR 308</szItemName>
+		<szLongItemName>Remington MSR .308</szLongItemName>
+		<szItemDesc>雷明顿MSR的7.62x51口径型，使用22英寸枪管、10发弹匣。</szItemDesc>
+		<szBRName>Rem MSR .308</szBRName>
+		<szBRDesc>雷明顿MSR的7.62x51口径型，USSOCOM PSR的竞争产物，雷明顿公司的模块化狙击步枪，只要更换枪管、枪机和弹匣，就能发射不同口径的子弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2463</uiIndex>
+		<szItemName>MSR 300</szItemName>
+		<szLongItemName>Remington MSR .300 WM</szLongItemName>
+		<szItemDesc>雷明顿MSR的.300温彻斯特-马格南口径型，使用24英寸枪管、6发弹匣。</szItemDesc>
+		<szBRName>Rem MSR .300 WM</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2464</uiIndex>
+		<szItemName>MSR 338</szItemName>
+		<szLongItemName>Remington MSR .338 LM</szLongItemName>
+		<szItemDesc>雷明顿MSR的.338拉普-马格南口径型，使用27英寸枪管、6发弹匣。</szItemDesc>
+		<szBRName>Rem MSR .338 LM</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2465</uiIndex>
+		<szItemName>ASW338</szItemName>
+		<szLongItemName>Ashbury ASW338</szLongItemName>
+		<szItemDesc>Ashbury International Group的USSOCOM PSR竞争型，发射.338LM弹，配27英寸枪管，枪托可以折叠以缩短全长。</szItemDesc>
+		<szBRName>Ashbury ASW338</szBRName>
+		<szBRDesc>Ashbury International Group的USSOCOM PSR竞争型，发射.338LM弹，配27英寸枪管，枪托可以折叠以缩短全长。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2466</uiIndex>
+		<szItemName>SR-3M</szItemName>
+		<szLongItemName>Vikhr SR-3M</szLongItemName>
+		<szItemDesc>把AS VAL的设计与SR-3结合在一起，带有折叠式前握把。</szItemDesc>
+		<szBRName>Vikhr SR-3M</szBRName>
+		<szBRDesc>把AS VAL的设计与SR-3结合在一起，带有折叠式前握把。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2467</uiIndex>
+		<szItemName>SR-3M F.A.</szItemName>
+		<szLongItemName>Vikhr SR-3M Fully Armed</szLongItemName>
+		<szItemDesc>安装了消声器和瞄准镜的SR-3M。</szItemDesc>
+		<szBRName>Vikhr SR-3M Fully Armed</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2468</uiIndex>
+		<szItemName>FA-03</szItemName>
+		<szLongItemName>LAPA FA-03</szLongItemName>
+		<szItemDesc>很罕见的巴西FA-03，由LAPA公司研制，这种枪采用双动扳机，没有手动保险，能够安全地上膛携行，随时可以应对紧急情况下的交火。</szItemDesc>
+		<szBRName>LAPA FA-03</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2469</uiIndex>
+		<szItemName>MAUL</szItemName>
+		<szLongItemName>Metal Storm MAUL</szLongItemName>
+		<szItemDesc>最轻的半自动霰弹枪，采用金属风暴原理。射速快，而且很轻巧。</szItemDesc>
+		<szBRName>Metal Storm MAUL</szBRName>
+		<szBRDesc>最轻的半自动霰弹枪，采用金属风暴原理。射速快，而且很轻巧。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2470</uiIndex>
+		<szItemName>MSMC</szItemName>
+		<szLongItemName>MSMC</szLongItemName>
+		<szItemDesc>印度最新的PDW，是一种导气式自动武器，发射5.56x30mm弹，机匣顶部有导轨用于安装瞄准装置。</szItemDesc>
+		<szBRName>MSMC</szBRName>
+		<szBRDesc>印度最新的PDW，是一种导气式自动武器，发射5.56x30mm弹，机匣顶部有导轨用于安装瞄准装置。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2471</uiIndex>
+		<szItemName>Al' Battar</szItemName>
+		<szLongItemName>Al' Battar Rifle</szLongItemName>
+		<szItemDesc>这是车臣分离武装分子自制的“反器材步枪”，只是用一条14.5mm高射机枪的枪管加上一个栓动枪机、一个弹匣和一个枪托组成。</szItemDesc>
+		<szBRName>Al' Battar Rifle</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2472</uiIndex>
+		<szItemName>MG81z</szItemName>
+		<szLongItemName>MG81双联装</szLongItemName>
+		<szItemDesc>二战初期德国空军所用的双联装航空机枪。</szItemDesc>
+		<szBRName>MG81 Zwilling</szBRName>
+		<szBRDesc>每挺机枪射速有1600RPM，两挺MG 81合起来，火力加倍。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2473</uiIndex>
+		<szItemName>WA-2000 7.5</szItemName>
+		<szLongItemName>Walther WA-2000 7.5mm</szLongItemName>
+		<szItemDesc>罕见的WA 2000瑞士口径型，比.300WM型更罕见。</szItemDesc>
+		<szBRName>Walther WA-2000 7.5mm</szBRName>
+		<szBRDesc>罕见的WA 2000瑞士口径型，比.300WM型更罕见。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2474</uiIndex>
+		<szItemName>L129A1</szItemName>
+		<szLongItemName>L129A1</szLongItemName>
+		<szItemDesc>英军最新装备的神射手步枪，由美国LMT .308步枪，采用20英寸比赛级枪管。</szItemDesc>
+		<szBRName>L129A1</szBRName>
+		<szBRDesc>英军最新装备的神射手步枪，由美国LMT .308步枪，采用20英寸比赛级枪管。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2475</uiIndex>
+		<szItemName>Enfield Enforcer</szItemName>
+		<szLongItemName>Enfield Enforcer</szLongItemName>
+		<szItemDesc>人人都知道SAS在皇候门行动中使用过MP5，但又有谁关心他们当时使用的狙击步枪呢？这是在L42A1上改进的，换上倍率更大的7倍瞄准镜和更准的枪管。</szItemDesc>
+		<szBRName>Enfield Enforcer</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2476</uiIndex>
+		<szItemName>F1 SMG</szItemName>
+		<szLongItemName>F1冲锋枪</szLongItemName>
+		<szItemDesc>澳大利亚在1962年设计用于取代欧文冲锋枪的，F1冲锋枪结构很简单，而且经久耐用。</szItemDesc>
+		<szBRName>F1 SMG</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2477</uiIndex>
+		<szItemName>L1A1</szItemName>
+		<szLongItemName>L1A1 SLR</szLongItemName>
+		<szItemDesc>澳大利亚版的FAL，不过只能半自动射击。</szItemDesc>
+		<szBRName>L1A1 SLR</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2478</uiIndex>
+		<szItemName>9000S</szItemName>
+		<szLongItemName>Beretta 9000S</szLongItemName>
+		<szItemDesc>伯莱塔公司第一代塑料底把手枪，9000系列尺寸很紧凑，但射击准确、使用舒适而且外形“可爱”。</szItemDesc>
+		<szBRName>Beretta 9000S</szBRName>
+		<szBRDesc>伯莱塔公司第一代塑料底把手枪，9000系列尺寸很紧凑，但射击准确、使用舒适而且外形“可爱”。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2479</uiIndex>
+		<szItemName>HK GR9S</szItemName>
+		<szLongItemName>HK GR9S</szLongItemName>
+		<szItemDesc>HK23E的迷彩型，没有机械瞄具，但自带4倍快速瞄准镜。</szItemDesc>
+		<szBRName>HK GR9S</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2480</uiIndex>
+		<szItemName>M3T</szItemName>
+		<szLongItemName>Benelli M3 Tactical</szLongItemName>
+		<szItemDesc>伯奈利M3系列的战术型，使用折叠式枪托，在室内近战中方便灵活。</szItemDesc>
+		<szBRName>Benelli M3 Tactical</szBRName>
+		<szBRDesc>伯奈利M3系列的战术型，使用折叠式枪托，在室内近战中方便灵活。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2481</uiIndex>
+		<szItemName>AKU94</szItemName>
+		<szLongItemName>AKU94</szLongItemName>
+		<szItemDesc>AK47的无托版，很短，可就是打起来震得历害。</szItemDesc>
+		<szBRName>AKU94</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2482</uiIndex>
+		<szItemName>FMK-3</szItemName>
+		<szLongItemName>FMK-3</szLongItemName>
+		<szItemDesc>阿根廷冲锋枪，轻巧实用，虽然精度稍嫌差了一点点。</szItemDesc>
+		<szBRName>FMK-3</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2483</uiIndex>
+		<szItemName>渔枪</szItemName>
+		<szLongItemName>渔叉</szLongItemName>
+		<szItemDesc>打鲨鱼和打人一样好用，还很安静，可就是太长了。</szItemDesc>
+		<szBRName>渔枪</szBRName>
+		<szBRDesc>打鲨鱼和打人一样好用，还很安静，可就是太长了。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2484</uiIndex>
+		<szItemName>渔叉</szItemName>
+		<szLongItemName>渔叉</szLongItemName>
+		<szItemDesc>杀伤力挺强的，可就是太长了。</szItemDesc>
+		<szBRName>渔叉</szBRName>
+		<szBRDesc>杀伤力挺强的，可就是太长了。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2485</uiIndex>
+		<szItemName>G36 Sight</szItemName>
+		<szLongItemName>G36双瞄</szLongItemName>
+		<szItemDesc>包括一个3倍瞄准镜和一个红点瞄准镜，兼具精确瞄准和快速瞄准双功能，每把G36附送一个。</szItemDesc>
+		<szBRName>G36 Dual-Sight</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2486</uiIndex>
+		<szItemName>MSR .308枪管</szItemName>
+		<szLongItemName>MSR .308枪管</szLongItemName>
+		<szItemDesc>一条雷明顿MSR步枪所配的.308口径22英寸枪管。</szItemDesc>
+		<szBRName>MSR .308枪管</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2487</uiIndex>
+		<szItemName>MSR .300枪管</szItemName>
+		<szLongItemName>MSR .300WM枪管</szLongItemName>
+		<szItemDesc>一条雷明顿MSR步枪所配的.300 WM口径24英寸枪管。</szItemDesc>
+		<szBRName>MSR .300WM枪管</szBRName>
+		<szBRDesc>一条雷明顿MSR步枪所配的.300 WM口径24英寸枪管。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2488</uiIndex>
+		<szItemName>MSR .338枪管</szItemName>
+		<szLongItemName>MSR .338LM枪管</szLongItemName>
+		<szItemDesc>一条雷明顿MSR步枪所配的.388 LM口径27英寸枪管。</szItemDesc>
+		<szBRName>MSR .338LM枪管</szBRName>
+		<szBRDesc>一条雷明顿MSR步枪所配的.388 LM口径27英寸枪管。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2489</uiIndex>
+		<szItemName>QD Supp.</szItemName>
+		<szLongItemName>AAC快拆消焰器</szLongItemName>
+		<szItemDesc>当你要使用AAC消声器的时候，不需要先拆掉这个消焰器。</szItemDesc>
+		<szBRName>AAC QD Suppressor</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2490</uiIndex>
+		<szItemName>QD Sil.</szItemName>
+		<szLongItemName>AAC快拆消声器</szLongItemName>
+		<szItemDesc>Quick-Attach/Detach Sound Suppressors for Spec-Ops.</szItemDesc>
+		<szBRName>AAC QD Silencer</szBRName>
+		<szBRDesc>Quick-Attach/Detach Sound Suppressors for Spec-Ops.</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2491</uiIndex>
+		<szItemName>Type-09</szItemName>
+		<szLongItemName>09式军用霰弹枪</szLongItemName>
+		<szItemDesc>中国第一次为军队设计的霰弹枪，标配铝壳18.4mm集束箭霰弹，但可通用12号霰弹。</szItemDesc>
+		<szBRName>Chino Mega Cannon</szBRName>
+		<szBRDesc>中国第一次为军队设计的霰弹枪，标配铝壳18.4mm集束箭霰弹，但可通用12号霰弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2492</uiIndex>
+		<szItemName>AVS-36</szItemName>
+		<szLongItemName>Simonov AVS-36</szLongItemName>
+		<szItemDesc>虽然西蒙诺夫AVS-36的可靠性没SVT-40好，但容弹量更大，而且有全自动能力。</szItemDesc>
+		<szBRName>AVS-36 Simonov</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2493</uiIndex>
+		<szItemName>PMR-30</szItemName>
+		<szLongItemName>Kel-Tec PMR-30</szLongItemName>
+		<szItemDesc>Kel-Tech公司出的双一非主流枪支，发射.22 WMR弹，弹匣可以装30发之多。</szItemDesc>
+		<szBRName>PMR-30</szBRName>
+		<szBRDesc>Kel-Tech公司出的双一非主流枪支，发射.22 WMR弹，弹匣可以装30发之多。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2494</uiIndex>
+		<szItemName>R-31</szItemName>
+		<szLongItemName>Grendel R-31 Carbine</szLongItemName>
+		<szItemDesc>格伦蒂尔R31是一种.22 WMR口径的半自动卡宾枪，实际上这原本是加长枪管和增加枪托后的手枪。</szItemDesc>
+		<szBRName>Grendel R-31 Carbine</szBRName>
+		<szBRDesc>格伦蒂尔R31是一种.22 WMR口径的半自动卡宾枪，实际上这原本是加长枪管和增加枪托后的手枪。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2495</uiIndex>
+		<szItemName>Taurus Judge</szItemName>
+		<szLongItemName>Taurus Judge</szLongItemName>
+		<szItemDesc>陶鲁斯出的“法官”型手枪就是专门给法官在法庭里大打出手用的，那种环境下都是近距离枪战，410霰弹的射程和威力足矣对付。</szItemDesc>
+		<szBRName>Taurus Judge</szBRName>
+		<szBRDesc>陶鲁斯出的“法官”型手枪就是专门给法官在法庭里大打出手用的，那种环境下都是近距离枪战，410霰弹的射程和威力足矣对付。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2496</uiIndex>
+		<szItemName>Device "DM"</szItemName>
+		<szLongItemName>Device "DM" Noiseless GL</szLongItemName>
+		<szItemDesc>俄罗斯生产的消声榴弹发射器，虽然射程近了点，但胜在声音极小。</szItemDesc>
+		<szBRName>Device "DM" GL</szBRName>
+		<szBRDesc>俄罗斯生产的消声榴弹发射器，虽然射程近了点，但胜在声音极小。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2497</uiIndex>
+		<szItemName>Galil ARM 556</szItemName>
+		<szLongItemName>Galil ARM 5.56</szLongItemName>
+		<szItemDesc>加利尔5.56口径的ARM型，使用重型枪管和自带两脚架，连发效果比较好。</szItemDesc>
+		<szBRName>Galil ARM 5.56</szBRName>
+		<szBRDesc>加利尔5.56口径的ARM型，使用重型枪管和自带两脚架，连发效果比较好。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2498</uiIndex>
+		<szItemName>Galil AR 762</szItemName>
+		<szLongItemName>Galil AR 7.62</szLongItemName>
+		<szItemDesc>加利尔7.62口径的标准型步枪，与ARM型相比没有两脚架，重量也比较轻。</szItemDesc>
+		<szBRName>Galil AR 7.62</szBRName>
+		<szBRDesc>加利尔7.62口径的标准型步枪，与ARM型相比没有两脚架，重量也比较轻。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2499</uiIndex>
+		<szItemName>92F Professional</szItemName>
+		<szLongItemName>Beretta 92F Professional</szLongItemName>
+		<szItemDesc>李昂挂掉后流失的手枪，这是经过改装的92F型，高精度枪管让你打得更准，枪口防跳器让你打得更快。</szItemDesc>
+		<szBRName>Beretta 92F Professional</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2500</uiIndex>
+		<szItemName>USP Tac</szItemName>
+		<szLongItemName>HK USP Tactical</szLongItemName>
+		<szItemDesc>HK USP战术型使用加长的枪管，更容易安装消声器。</szItemDesc>
+		<szBRName>HK USP Tactical</szBRName>
+		<szBRDesc>HK USP战术型使用加长的枪管，更容易安装消声器。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2501</uiIndex>
+		<szItemName>STEN Mk.II</szItemName>
+		<szLongItemName>STEN Mk.II</szLongItemName>
+		<szItemDesc>司登Mk.II是这个系列中产量最大的，生产也更简单。</szItemDesc>
+		<szBRName>STEN Mk.II</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2502</uiIndex>
+		<szItemName>410 Slug 5</szItemName>
+		<szLongItemName>.410 Shells, 5 Slug</szLongItemName>
+		<szItemDesc>5发散装的410号独头弹。</szItemDesc>
+		<szBRName>.410 Shells 5 Slug</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2503</uiIndex>
+		<szItemName>410 Shells 5 BS</szItemName>
+		<szLongItemName>.410 Gauge Shells, 5 Buckshot</szLongItemName>
+		<szItemDesc>5发散装的410号霰弹。</szItemDesc>
+		<szBRName>.410 Shells 5 Buckshot</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2504</uiIndex>
+		<szItemName>410 Slug Mag</szItemName>
+		<szLongItemName>.410 Slug, 10 Mag</szLongItemName>
+		<szItemDesc>装有10发410号独头弹的弹匣。</szItemDesc>
+		<szBRName>.410 Slug 10 Mag</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2505</uiIndex>
+		<szItemName>410 BS Mag</szItemName>
+		<szLongItemName>.410 Gauge Buckshot, 10 Magazine</szLongItemName>
+		<szItemDesc>装有10发410号霰弹的弹匣。</szItemDesc>
+		<szBRName>.410 Buckshot 10 Magazine</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2506</uiIndex>
+		<szItemName>410Ga Slug box</szItemName>
+		<szLongItemName>.410Ga Slug ammo box</szLongItemName>
+		<szItemDesc>这个纸盒装着100发散装的410号独头弹。</szItemDesc>
+		<szBRName>410Ga Slug box</szBRName>
+		<szBRDesc>.410号霰弹虽然只能打鸟，不过这个口径的独头弹相当于一发加强的手枪弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2507</uiIndex>
+		<szItemName>410Ga BS box</szItemName>
+		<szLongItemName>.410Ga Buckshot ammo box</szLongItemName>
+		<szItemDesc>这个纸盒装着100发散装的410号霰弹。</szItemDesc>
+		<szBRName>410Ga Buckshot box</szBRName>
+		<szBRDesc>410号霰弹可以用来打鸟，不管是谁的鸟儿。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2508</uiIndex>
+		<szItemName>.22 WMR Mag</szItemName>
+		<szLongItemName>.22 WMR Mag, 30</szLongItemName>
+		<szItemDesc>一个装有30发.22 WMR突缘弹的手枪弹匣。</szItemDesc>
+		<szBRName>.22 WMR Mag 30</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2509</uiIndex>
+		<szItemName>.22 V-Max Mag</szItemName>
+		<szLongItemName>.22 WMR V-Max Mag, 30</szLongItemName>
+		<szItemDesc>一个装有30发.22 WMR口径的雷明顿V-Max高速弹的手枪弹匣。</szItemDesc>
+		<szBRName>.22 V-Max Mag 30</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2510</uiIndex>
+		<szItemName>.22 WMR box</szItemName>
+		<szLongItemName>.22 WMR ammo box</szLongItemName>
+		<szItemDesc>这个纸盒装着150发散装的.22 WMR突缘弹。</szItemDesc>
+		<szBRName>.22 WMR box</szBRName>
+		<szBRDesc>.22 WMR弹是一种.22口径的马格南弹，威力比.22 LR稍强。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2511</uiIndex>
+		<szItemName>.22 V-Max box</szItemName>
+		<szLongItemName>.22 WMR V-Max ammo box</szLongItemName>
+		<szItemDesc>这个纸盒装着150发散装的.22 WMR口径的雷明顿V-Max高速弹。</szItemDesc>
+		<szBRName>.22 V-Max box</szBRName>
+		<szBRDesc>.22 WMR口径的V-Max弹由雷明顿生产，这是一种尖头、高速弹，穿透力比普通裸铅弹更强。</szBRDesc>
 	</ITEM>
 </ITEMLIST>
