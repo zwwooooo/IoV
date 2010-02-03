@@ -911,7 +911,7 @@
 		<ubClassIndex>28</ubClassIndex>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>28</ubGraphicNum>
-		<ubWeight>45</ubWeight>
+		<ubWeight>43</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>4400</usPrice>
 		<ubCoolness>6</ubCoolness>
@@ -1100,7 +1100,7 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>1000</BR_ROF>
-		<Bipod>20</Bipod>
+		<Bipod>15</Bipod>
 		<DefaultAttachment>1804</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -4852,8 +4852,9 @@
 		<PercentNoiseReduction>65</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
-		<BurstToHitBonus>2</BurstToHitBonus>
-		<AutoFireToHitBonus>2</AutoFireToHitBonus>
+		<BurstToHitBonus>1</BurstToHitBonus>
+		<AutoFireToHitBonus>1</AutoFireToHitBonus>
+		<PercentReadyTimeAPReduction>-7</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>208</uiIndex>
@@ -4913,6 +4914,7 @@
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<Bipod>15</Bipod>
+		<PercentReadyTimeAPReduction>-7</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>210</uiIndex>
@@ -7675,7 +7677,8 @@
 		<ItemSize>8</ItemSize>
 		<usPrice>1900</usPrice>
 		<ubCoolness>4</ubCoolness>
-		<bRepairEase>1</bRepairEase>
+		<bReliability>3</bReliability>
+		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<WaterDamages>1</WaterDamages>
@@ -9373,7 +9376,7 @@
 		<ubGraphicNum>76</ubGraphicNum>
 		<ubWeight>6</ubWeight>
 		<ubPerPocket>5</ubPerPocket>
-		<ItemSize>15</ItemSize>
+		<ItemSize>20</ItemSize>
 		<usPrice>45</usPrice>
 		<ubCoolness>3</ubCoolness>
 		<Metal>1</Metal>
@@ -9395,7 +9398,7 @@
 		<ubGraphicNum>77</ubGraphicNum>
 		<ubWeight>6</ubWeight>
 		<ubPerPocket>5</ubPerPocket>
-		<ItemSize>15</ItemSize>
+		<ItemSize>20</ItemSize>
 		<usPrice>45</usPrice>
 		<ubCoolness>3</ubCoolness>
 		<Metal>1</Metal>
@@ -9415,7 +9418,7 @@
 		<ubGraphicNum>79</ubGraphicNum>
 		<ubWeight>6</ubWeight>
 		<ubPerPocket>5</ubPerPocket>
-		<ItemSize>15</ItemSize>
+		<ItemSize>20</ItemSize>
 		<usPrice>135</usPrice>
 		<ubCoolness>6</ubCoolness>
 		<bReliability>-3</bReliability>
@@ -9437,7 +9440,7 @@
 		<ubGraphicNum>80</ubGraphicNum>
 		<ubWeight>6</ubWeight>
 		<ubPerPocket>5</ubPerPocket>
-		<ItemSize>15</ItemSize>
+		<ItemSize>20</ItemSize>
 		<usPrice>270</usPrice>
 		<ubCoolness>7</ubCoolness>
 		<bReliability>-3</bReliability>
@@ -9459,7 +9462,7 @@
 		<ubGraphicNum>78</ubGraphicNum>
 		<ubWeight>6</ubWeight>
 		<ubPerPocket>5</ubPerPocket>
-		<ItemSize>15</ItemSize>
+		<ItemSize>20</ItemSize>
 		<usPrice>67</usPrice>
 		<ubCoolness>4</ubCoolness>
 		<Metal>1</Metal>
@@ -14032,7 +14035,7 @@
 		<ItemSize>7</ItemSize>
 		<usPrice>2200</usPrice>
 		<ubCoolness>4</ubCoolness>
-		<bReliability>2</bReliability>
+		<bReliability>4</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<WaterDamages>1</WaterDamages>
@@ -14827,7 +14830,7 @@
 		<ubClassIndex>648</ubClassIndex>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>181</ubGraphicNum>
-		<ubWeight>42</ubWeight>
+		<ubWeight>37</ubWeight>
 		<ItemSize>5</ItemSize>
 		<usPrice>3160</usPrice>
 		<ubCoolness>5</ubCoolness>
@@ -15044,16 +15047,16 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>655</uiIndex>
-		<szItemName>Galil ARM</szItemName>
-		<szLongItemName>Galil ARM</szLongItemName>
+		<szItemName>Galil ARM 762</szItemName>
+		<szLongItemName>Galil ARM 7.62</szLongItemName>
 		<szItemDesc>The Galil ARM from Israel is related to Valmet M76. In fact, the first prototypes were designed from blueprints bought from Valmet.</szItemDesc>
-		<szBRName>Galil ARM</szBRName>
-		<szBRDesc>The Galil assault rifle is designed for heavy combat. Reliability and lethality in one package.</szBRDesc>
+		<szBRName>Galil ARM 762</szBRName>
+		<szBRDesc>The Galil 7.62 assault rifle is designed for heavy combat. Reliability and lethality in one package.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>655</ubClassIndex>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>237</ubGraphicNum>
-		<ubWeight>40</ubWeight>
+		<ubWeight>44</ubWeight>
 		<ItemSize>7</ItemSize>
 		<usPrice>4400</usPrice>
 		<ubCoolness>6</ubCoolness>
@@ -15471,21 +15474,15 @@
 		<BR_ROF>750</BR_ROF>
 		<Bipod>15</Bipod>
 		<ToHitBonus>-1</ToHitBonus>
-		<AimBonus>10</AimBonus>
-		<MinRangeForAimBonus>35</MinRangeForAimBonus>
 		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
-		<PercentAPReduction>10</PercentAPReduction>
-		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>25</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>25</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>30</PercentTunnelVision>
+		<DefaultAttachment>2485</DefaultAttachment>
 	</ITEM>
 	<ITEM>
 		<uiIndex>669</uiIndex>
-		<szItemName>MG43</szItemName>
-		<szLongItemName>HK MG43</szLongItemName>
+		<szItemName>MG4</szItemName>
+		<szLongItemName>HK MG4 (MG43)</szLongItemName>
 		<szItemDesc>The latest LMG from HK is gas-operated, belt-fed, and air-cooled.  An integral bipod and RIS rails give you lots of room for addons.</szItemDesc>
-		<szBRName>HK MG43</szBRName>
+		<szBRName>HK MG4 (MG43)</szBRName>
 		<szBRDesc>First shown in 2001 in London, the all-new MG43 continues HK's long standing tradition of fine weaponry. Comes standard with integral bipod. Since 2006 it's introduced in the Bundeswehr (German Army) as the MG4.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>669</ubClassIndex>
@@ -15508,15 +15505,10 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>800</BR_ROF>
-		<Bipod>20</Bipod>
+		<Bipod>15</Bipod>
 		<ToHitBonus>-1</ToHitBonus>
-		<AimBonus>10</AimBonus>
-		<MinRangeForAimBonus>35</MinRangeForAimBonus>
 		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
-		<NightVisionRangeBonus>15</NightVisionRangeBonus>
-		<DayVisionRangeBonus>30</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>30</PercentTunnelVision>
+		<DefaultAttachment>2485</DefaultAttachment>
 	</ITEM>
 	<ITEM>
 		<uiIndex>670</uiIndex>
@@ -15976,7 +15968,7 @@
 		<ubClassIndex>685</ubClassIndex>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>85</ubGraphicNum>
-		<ubWeight>41</ubWeight>
+		<ubWeight>65</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>5390</usPrice>
 		<ubCoolness>7</ubCoolness>
@@ -16576,7 +16568,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
 		<BR_ROF>650</BR_ROF>
-		<Bipod>20</Bipod>
+		<Bipod>15</Bipod>
 	</ITEM>
 	<ITEM>
 		<uiIndex>706</uiIndex>
@@ -17251,7 +17243,7 @@
 		<ubClassIndex>728</ubClassIndex>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>193</ubGraphicNum>
-		<ubWeight>33</ubWeight>
+		<ubWeight>28</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>4310</usPrice>
 		<ubCoolness>7</ubCoolness>
@@ -17284,7 +17276,8 @@
 		<ubWeight>39</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>5590</usPrice>
-		<ubCoolness>9</ubCoolness>
+		<ubCoolness>6</ubCoolness>
+		<bReliability>3</bReliability>
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -17621,7 +17614,7 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>550</BR_ROF>
-		<Bipod>20</Bipod>
+		<Bipod>15</Bipod>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
 	</ITEM>
@@ -17771,19 +17764,20 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>746</uiIndex>
-		<szItemName>WA 2000</szItemName>
-		<szLongItemName>Walther WA 2000</szLongItemName>
+		<szItemName>WA 2000 .300</szItemName>
+		<szLongItemName>Walther WA 2000 .300WM</szLongItemName>
 		<szItemDesc>Sometimes considered the Ferrari of sniper rifles, the WA 2000 combines high accuracy with great stopping power.  Too bad they're no longer in production.</szItemDesc>
-		<szBRName>Walther WA 2000</szBRName>
+		<szBRName>Walther WA 2000 .300</szBRName>
 		<szBRDesc>Now back in stock!  The WA 2000 is no longer in production, but we were able to locate a few, and they're on sale for the low, low price of only $7940! Get yours now while supplies last!</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>746</ubClassIndex>
 		<ubCursor>3</ubCursor>
-		<ubGraphicNum>177</ubGraphicNum>
+		<ubGraphicNum>873</ubGraphicNum>
 		<ubWeight>70</ubWeight>
 		<ItemSize>7</ItemSize>
-		<usPrice>7940</usPrice>
+		<usPrice>12500</usPrice>
 		<ubCoolness>9</ubCoolness>
+		<bReliability>2</bReliability>
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -17796,8 +17790,7 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>24</BR_ROF>
-		<Bipod>20</Bipod>
-		<ToHitBonus>-5</ToHitBonus>
+		<Bipod>15</Bipod>
 		<DefaultAttachment>208</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -18072,14 +18065,8 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<AimBonus>10</AimBonus>
-		<MinRangeForAimBonus>35</MinRangeForAimBonus>
 		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
-		<PercentAPReduction>15</PercentAPReduction>
-		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>25</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>25</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>30</PercentTunnelVision>
+		<DefaultAttachment>2485</DefaultAttachment>
 	</ITEM>
 	<ITEM>
 		<uiIndex>756</uiIndex>
@@ -18110,14 +18097,8 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<AimBonus>10</AimBonus>
-		<MinRangeForAimBonus>35</MinRangeForAimBonus>
 		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
-		<PercentAPReduction>15</PercentAPReduction>
-		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>25</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>25</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>30</PercentTunnelVision>
+		<DefaultAttachment>2485</DefaultAttachment>
 	</ITEM>
 	<ITEM>
 		<uiIndex>757</uiIndex>
@@ -18476,7 +18457,7 @@
 		<BR_ROF>28</BR_ROF>
 		<PercentNoiseReduction>50</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
-		<Bipod>20</Bipod>
+		<Bipod>15</Bipod>
 		<DefaultAttachment>1007</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -19082,7 +19063,7 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>700</BR_ROF>
-		<Bipod>20</Bipod>
+		<Bipod>15</Bipod>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1007</DefaultAttachment>
@@ -19263,7 +19244,7 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>800</BR_ROF>
-		<Bipod>20</Bipod>
+		<Bipod>15</Bipod>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1007</DefaultAttachment>
@@ -22747,7 +22728,7 @@
 		<szLongItemName>Stoner 63A Carbine</szLongItemName>
 		<szItemDesc>A carbine version of Stoner 63 system weapons, with a folding buttstock and a 15.7" barrel.</szItemDesc>
 		<szBRName>Stoner 63A Carbine</szBRName>
-		<szBRDesc>A carbine version of Stoner 63 system weapons, with a folding buttstock and a 15.7" barrel.</szBRDesc>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>937</ubClassIndex>
 		<ubCursor>3</ubCursor>
@@ -24606,8 +24587,10 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<ToHitBonus>-1</ToHitBonus>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
+		<PercentReadyTimeAPReduction>8</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1011</uiIndex>
@@ -24632,8 +24615,10 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<ToHitBonus>-1</ToHitBonus>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
+		<PercentReadyTimeAPReduction>8</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1012</uiIndex>
@@ -24645,7 +24630,7 @@
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>180</ubGraphicNum>
-		<ubWeight>7</ubWeight>
+		<ubWeight>6</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>16</ItemSize>
 		<ItemSizeBonus>1</ItemSizeBonus>
@@ -24665,6 +24650,7 @@
 		<ToHitBonus>-2</ToHitBonus>
 		<BurstToHitBonus>2</BurstToHitBonus>
 		<AutoFireToHitBonus>2</AutoFireToHitBonus>
+		<PercentReadyTimeAPReduction>-7</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1013</uiIndex>
@@ -27037,7 +27023,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<BR_ROF>850</BR_ROF>
+		<BR_ROF>1250</BR_ROF>
 		<PercentNoiseReduction>55</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<DefaultAttachment>2187</DefaultAttachment>
@@ -27505,7 +27491,7 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>35</BR_ROF>
-		<Bipod>20</Bipod>
+		<Bipod>15</Bipod>
 		<ToHitBonus>-5</ToHitBonus>
 		<DefaultAttachment>2189</DefaultAttachment>
 	</ITEM>
@@ -28015,7 +28001,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>700</BR_ROF>
-		<Bipod>20</Bipod>
+		<Bipod>15</Bipod>
 		<DefaultAttachment>208</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -28101,7 +28087,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>700</BR_ROF>
-		<Bipod>20</Bipod>
+		<Bipod>15</Bipod>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>208</DefaultAttachment>
@@ -28161,7 +28147,9 @@
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
+		<Duckbill>1</Duckbill>
 		<DefaultAttachment>1804</DefaultAttachment>
+		<spreadPattern>DuckbillSpread</spreadPattern>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1143</uiIndex>
@@ -28246,7 +28234,7 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>32</BR_ROF>
-		<Bipod>20</Bipod>
+		<Bipod>15</Bipod>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>208</DefaultAttachment>
@@ -28374,6 +28362,7 @@
 		<ItemSize>8</ItemSize>
 		<usPrice>6930</usPrice>
 		<ubCoolness>7</ubCoolness>
+		<bReliability>1</bReliability>
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -28740,7 +28729,7 @@
 		<szLongItemName>Stoner 63A Commando</szLongItemName>
 		<szItemDesc>The Stoner 63A Commando is a derivate of the Stoner 63A LMG configuration. This variant was used by some US Navy SEAL units in Vietnam.</szItemDesc>
 		<szBRName>Stoner 63A Commando</szBRName>
-		<szBRDesc>The Stoner 63A Commando is a derivate of the Stoner 63A LMG configuration. This variant was used by some US Navy SEAL units in Vietnam.</szBRDesc>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>1163</ubClassIndex>
 		<ubCursor>3</ubCursor>
@@ -28786,7 +28775,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>550</BR_ROF>
-		<Bipod>20</Bipod>
+		<Bipod>15</Bipod>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1165</uiIndex>
@@ -28812,7 +28801,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>550</BR_ROF>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
-		<Bipod>20</Bipod>
+		<Bipod>15</Bipod>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
 	</ITEM>
@@ -29142,7 +29131,7 @@
 		<ubClassIndex>1177</ubClassIndex>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>377</ubGraphicNum>
-		<ubWeight>54</ubWeight>
+		<ubWeight>75</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>5870</usPrice>
 		<ubCoolness>8</ubCoolness>
@@ -29405,7 +29394,7 @@
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>386</ubGraphicNum>
 		<ubWeight>30</ubWeight>
-		<ItemSize>7</ItemSize>
+		<ItemSize>6</ItemSize>
 		<usPrice>1450</usPrice>
 		<ubCoolness>5</ubCoolness>
 		<bReliability>2</bReliability>
@@ -29432,7 +29421,7 @@
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>387</ubGraphicNum>
 		<ubWeight>35</ubWeight>
-		<ItemSize>8</ItemSize>
+		<ItemSize>7</ItemSize>
 		<usPrice>1650</usPrice>
 		<bReliability>2</bReliability>
 		<bRepairEase>1</bRepairEase>
@@ -30618,7 +30607,7 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>30</BR_ROF>
-		<Bipod>20</Bipod>
+		<Bipod>15</Bipod>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1007</DefaultAttachment>
@@ -30791,7 +30780,7 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>750</BR_ROF>
-		<Bipod>20</Bipod>
+		<Bipod>15</Bipod>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1235</uiIndex>
@@ -30820,7 +30809,7 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>700</BR_ROF>
-		<Bipod>20</Bipod>
+		<Bipod>15</Bipod>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1236</uiIndex>
@@ -30847,7 +30836,7 @@
 		<TwoHanded>1</TwoHanded>
 		<NotBuyable>1</NotBuyable>
 		<BR_ROF>800</BR_ROF>
-		<Bipod>20</Bipod>
+		<Bipod>15</Bipod>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1804</DefaultAttachment>
@@ -30878,7 +30867,7 @@
 		<NotBuyable>1</NotBuyable>
 		<Unaerodynamic>1</Unaerodynamic>
 		<BR_ROF>850</BR_ROF>
-		<Bipod>20</Bipod>
+		<Bipod>15</Bipod>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
@@ -31280,7 +31269,7 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>1200</BR_ROF>
-		<Bipod>20</Bipod>
+		<Bipod>15</Bipod>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1252</uiIndex>
@@ -32209,7 +32198,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>700</BR_ROF>
-		<Bipod>20</Bipod>
+		<Bipod>15</Bipod>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1284</uiIndex>
@@ -32226,7 +32215,7 @@
 		<ItemSize>7</ItemSize>
 		<usPrice>3400</usPrice>
 		<ubCoolness>1</ubCoolness>
-		<bReliability>4</bReliability>
+		<bReliability>3</bReliability>
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -32251,8 +32240,8 @@
 		<ubWeight>38</ubWeight>
 		<ItemSize>7</ItemSize>
 		<usPrice>3700</usPrice>
-		<ubCoolness>1</ubCoolness>
-		<bReliability>2</bReliability>
+		<ubCoolness>3</ubCoolness>
+		<bReliability>3</bReliability>
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -32366,7 +32355,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>550</BR_ROF>
-		<Bipod>20</Bipod>
+		<Bipod>15</Bipod>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
 	</ITEM>
@@ -32502,7 +32491,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>600</BR_ROF>
-		<Bipod>20</Bipod>
+		<Bipod>15</Bipod>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1295</uiIndex>
@@ -32670,7 +32659,7 @@
 		<ubClassIndex>1301</ubClassIndex>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>501</ubGraphicNum>
-		<ubWeight>104</ubWeight>
+		<ubWeight>115</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>5600</usPrice>
 		<ubCoolness>2</ubCoolness>
@@ -32897,20 +32886,20 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1309</uiIndex>
-		<szItemName>AK-YY-54r</szItemName>
-		<szLongItemName>AK-YY-54r</szLongItemName>
-		<szItemDesc>This tricked out Kalashikov is rechambered for the 7.62x54R cartridge. Muzzle compensator and foregrip were built-in to help increasing controllablity while firing in full-auto.</szItemDesc>
-		<szBRName>AK-YY-54r</szBRName>
-		<szBRDesc>This tricked out Kalashikov is rechambered for the 7.62x54R cartridge. Muzzle compensator and foregrip were built-in to help increasing controllablity while firing in full-auto.</szBRDesc>
+		<szItemName>Saiga-410K</szItemName>
+		<szLongItemName>Saiga-410K Tactical</szLongItemName>
+		<szItemDesc>Saiga 410 shotguns are developed based on the time-proven Kalashnikov AK assault rifle design. Gas system is fitted with two-position manual gas regulator, to provide reliable functioning with magnum (76mm) ammunition.</szItemDesc>
+		<szBRName>Saiga-410K</szBRName>
+		<szBRDesc>Saiga 410 shotguns are developed based on the time-proven Kalashnikov AK assault rifle design. Gas system is fitted with two-position manual gas regulator, to provide reliable functioning with magnum (76mm) ammunition.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>1309</ubClassIndex>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>509</ubGraphicNum>
-		<ubWeight>37</ubWeight>
-		<ItemSize>7</ItemSize>
-		<usPrice>4730</usPrice>
-		<ubCoolness>8</ubCoolness>
-		<bReliability>3</bReliability>
+		<ubWeight>32</ubWeight>
+		<ItemSize>6</ItemSize>
+		<usPrice>2230</usPrice>
+		<ubCoolness>6</ubCoolness>
+		<bReliability>6</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<WaterDamages>1</WaterDamages>
@@ -32919,11 +32908,12 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
-		<SciFi>1</SciFi>
-		<BR_ROF>650</BR_ROF>
-		<ToHitBonus>-2</ToHitBonus>
-		<BurstToHitBonus>15</BurstToHitBonus>
-		<AutoFireToHitBonus>15</AutoFireToHitBonus>
+		<BR_NewInventory>3</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<BR_ROF>40</BR_ROF>
+		<ToHitBonus>-1</ToHitBonus>
+		<BurstToHitBonus>5</BurstToHitBonus>
+		<AutoFireToHitBonus>5</AutoFireToHitBonus>
 		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1802</DefaultAttachment>
 	</ITEM>
@@ -33304,7 +33294,7 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>34</BR_ROF>
-		<Bipod>20</Bipod>
+		<Bipod>15</Bipod>
 		<DefaultAttachment>1806</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -33420,7 +33410,7 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>40</BR_ROF>
-		<Bipod>20</Bipod>
+		<Bipod>15</Bipod>
 		<DefaultAttachment>1825</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -34153,9 +34143,9 @@
 		<PercentAPReduction>10</PercentAPReduction>
 		<DefaultAttachment>1616</DefaultAttachment>
 		<NightVisionRangeBonus>25</NightVisionRangeBonus>
-		<DayVisionRangeBonus>25</DayVisionRangeBonus>
+		<DayVisionRangeBonus>28</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>25</BrightLightVisionRangeBonus>
+		<BrightLightVisionRangeBonus>28</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>30</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
@@ -34649,7 +34639,7 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>26</BR_ROF>
-		<Bipod>20</Bipod>
+		<Bipod>15</Bipod>
 		<DefaultAttachment>208</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -34915,7 +34905,7 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>750</BR_ROF>
-		<Bipod>20</Bipod>
+		<Bipod>15</Bipod>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
@@ -35066,7 +35056,7 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>750</BR_ROF>
-		<Bipod>20</Bipod>
+		<Bipod>15</Bipod>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1007</DefaultAttachment>
@@ -35280,7 +35270,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>600</BR_ROF>
-		<Bipod>20</Bipod>
+		<Bipod>15</Bipod>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1389</uiIndex>
@@ -35341,7 +35331,7 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>25</BR_ROF>
-		<Bipod>20</Bipod>
+		<Bipod>15</Bipod>
 		<DefaultAttachment>208</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -36066,19 +36056,19 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1422</uiIndex>
-		<szItemName>7.62x54R Mag 25</szItemName>
-		<szLongItemName>7.62x54R Hi-Mag, 25</szLongItemName>
-		<szItemDesc>25 rounds of long range penetrating power for the 7.62x54R chambered weapon in your collection.</szItemDesc>
-		<szBRName>7.62x54R Hi-Mag 25</szBRName>
-		<szBRDesc>25 rounds of long range penetrating power for the 7.62x54R chambered weapon in your collection.</szBRDesc>
+		<szItemName>7.62x54R Mag 15</szItemName>
+		<szLongItemName>7.62x54R Hi-Mag, 15</szLongItemName>
+		<szItemDesc>15 rounds of long range penetrating power for the 7.62x54R chambered weapon in your collection.</szItemDesc>
+		<szBRName>7.62x54R Hi-Mag 15</szBRName>
+		<szBRDesc>15 rounds of long range penetrating power for the 7.62x54R chambered weapon in your collection.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>443</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>717</ubGraphicNum>
-		<ubWeight>9</ubWeight>
+		<ubWeight>6</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
-		<ItemSize>25</ItemSize>
-		<usPrice>225</usPrice>
+		<ItemSize>17</ItemSize>
+		<usPrice>135</usPrice>
 		<ubCoolness>8</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
@@ -36086,19 +36076,19 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1423</uiIndex>
-		<szItemName>7.62x54R Mag 25 M</szItemName>
-		<szLongItemName>7.62x54R Mag, 25 Match</szLongItemName>
+		<szItemName>7.62x54R Mag 15 M</szItemName>
+		<szLongItemName>7.62x54R Mag, 15 Match</szLongItemName>
 		<szItemDesc>The 7N14 cartridges with a 13.0g bullet dedicated sniper cartridges as regards accuracy, but 7N13 AP ammo could against most of body armor. </szItemDesc>
-		<szBRName>7.62x54R Mag 25 Match</szBRName>
+		<szBRName>7.62x54R Mag 15 Match</szBRName>
 		<szBRDesc>The 7N14 cartridges with a 13.0g bullet dedicated sniper cartridges as regards accuracy, but 7N13 AP ammo could against most of body armor. </szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>445</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>719</ubGraphicNum>
-		<ubWeight>9</ubWeight>
+		<ubWeight>6</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
-		<ItemSize>25</ItemSize>
-		<usPrice>625</usPrice>
+		<ItemSize>17</ItemSize>
+		<usPrice>375</usPrice>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<SciFi>1</SciFi>
@@ -36107,19 +36097,19 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1424</uiIndex>
-		<szItemName>7.62x54R Mag 25 T</szItemName>
-		<szLongItemName>7.62x54R Mag, 25 Tracer</szLongItemName>
-		<szItemDesc>Ranging and shot placement are easy with 25 rounds of 7.62 Russian tracer. Tracer ammo adds a bonus to hit in burst and full-auto modes.</szItemDesc>
-		<szBRName>7.62x54R 25 Tracer</szBRName>
-		<szBRDesc>Ranging and shot placement are easy with 25 rounds of 7.62 Russian tracer. Tracer ammo adds a bonus to hit in burst and full-auto modes.</szBRDesc>
+		<szItemName>7.62x54R Mag 15 T</szItemName>
+		<szLongItemName>7.62x54R Mag, 15 Tracer</szLongItemName>
+		<szItemDesc>Ranging and shot placement are easy with 15 rounds of 7.62 Russian tracer. Tracer ammo adds a bonus to hit in burst and full-auto modes.</szItemDesc>
+		<szBRName>7.62x54R 15 Tracer</szBRName>
+		<szBRDesc>Ranging and shot placement are easy with 15 rounds of 7.62 Russian tracer. Tracer ammo adds a bonus to hit in burst and full-auto modes.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>444</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>718</ubGraphicNum>
-		<ubWeight>9</ubWeight>
+		<ubWeight>6</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
-		<ItemSize>25</ItemSize>
-		<usPrice>300</usPrice>
+		<ItemSize>17</ItemSize>
+		<usPrice>180</usPrice>
 		<bReliability>-1</bReliability>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
@@ -40030,8 +40020,9 @@
 		<ubGraphicNum>523</ubGraphicNum>
 		<ubWeight>59</ubWeight>
 		<ItemSize>7</ItemSize>
-		<usPrice>12700</usPrice>
+		<usPrice>12345</usPrice>
 		<ubCoolness>10</ubCoolness>
+		<bReliability>3</bReliability>
 		<bRepairEase>-3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -40041,7 +40032,6 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
-		<SciFi>1</SciFi>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>15</BR_ROF>
@@ -43604,7 +43594,7 @@
 		<ubClassIndex>147</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>95</ubGraphicNum>
-		<ubWeight>15</ubWeight>
+		<ubWeight>11</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
 		<ItemSize>22</ItemSize>
 		<usPrice>550</usPrice>
@@ -44853,7 +44843,7 @@
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>754</ubGraphicNum>
-		<ubWeight>2</ubWeight>
+		<ubWeight>3</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>18</ItemSize>
 		<usPrice>1500</usPrice>
@@ -44881,7 +44871,7 @@
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>755</ubGraphicNum>
-		<ubWeight>3</ubWeight>
+		<ubWeight>7</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>22</ItemSize>
 		<usPrice>1900</usPrice>
@@ -44898,9 +44888,9 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<AimBonus>9</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
-		<PercentAPReduction>15</PercentAPReduction>
+		<PercentAPReduction>10</PercentAPReduction>
 		<VisionRangeBonus>30</VisionRangeBonus>
-		<PercentTunnelVision>20</PercentTunnelVision>
+		<PercentTunnelVision>15</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1805</uiIndex>
@@ -45293,7 +45283,7 @@
 		<Electronic>1</Electronic>
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<AimBonus>12</AimBonus>
+		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
 		<DayVisionRangeBonus>30</DayVisionRangeBonus>
@@ -45844,8 +45834,10 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<Bipod>10</Bipod>
+		<ToHitBonus>-1</ToHitBonus>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
+		<PercentReadyTimeAPReduction>8</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1834</uiIndex>
@@ -45872,10 +45864,11 @@
 		<Electronic>1</Electronic>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<ToHitBonus>20</ToHitBonus>
+		<ToHitBonus>15</ToHitBonus>
 		<BestLaserRange>150</BestLaserRange>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
+		<PercentReadyTimeAPReduction>8</PercentReadyTimeAPReduction>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
 		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
 	</ITEM>
@@ -46083,15 +46076,15 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1842</uiIndex>
-		<szItemName>Huge Silencer</szItemName>
-		<szLongItemName>Huge Silencer</szLongItemName>
-		<szItemDesc>Extra large caliber sound suppressor. Silence is expensive. Lowers damage and shooting accuracy.</szItemDesc>
-		<szBRName>Huge Silencer</szBRName>
-		<szBRDesc>Extra large caliber sound suppressor. Silence is expensive. Lowers damage and shooting accuracy.</szBRDesc>
+		<szItemName>SR Supp.</szItemName>
+		<szLongItemName>Sniper Rifle Suppressor</szLongItemName>
+		<szItemDesc>A large sound suppressor that can be fitted to some sniper rifles.</szItemDesc>
+		<szBRName>Sniper Suppressor</szBRName>
+		<szBRDesc>A very large sound suppressor that can be fitted to some sniper rifles. Suppression of highpowered rounds comes at the price of high weight, though.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>785</ubGraphicNum>
-		<ubWeight>9</ubWeight>
+		<ubWeight>8</ubWeight>
 		<ubPerPocket>2</ubPerPocket>
 		<ItemSize>20</ItemSize>
 		<ItemSizeBonus>1</ItemSizeBonus>
@@ -46111,6 +46104,7 @@
 		<ToHitBonus>-1</ToHitBonus>
 		<BurstToHitBonus>1</BurstToHitBonus>
 		<AutoFireToHitBonus>1</AutoFireToHitBonus>
+		<PercentReadyTimeAPReduction>-7</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1843</uiIndex>
@@ -46122,7 +46116,7 @@
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>786</ubGraphicNum>
-		<ubWeight>9</ubWeight>
+		<ubWeight>7</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>16</ItemSize>
 		<ItemSizeBonus>1</ItemSizeBonus>
@@ -46143,6 +46137,7 @@
 		<ToHitBonus>-2</ToHitBonus>
 		<BurstToHitBonus>2</BurstToHitBonus>
 		<AutoFireToHitBonus>2</AutoFireToHitBonus>
+		<PercentReadyTimeAPReduction>-7</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1844</uiIndex>
@@ -46174,6 +46169,7 @@
 		<ToHitBonus>-2</ToHitBonus>
 		<BurstToHitBonus>2</BurstToHitBonus>
 		<AutoFireToHitBonus>2</AutoFireToHitBonus>
+		<PercentReadyTimeAPReduction>-7</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1845</uiIndex>
@@ -46624,7 +46620,7 @@
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>881</ubGraphicNum>
-		<ubWeight>4</ubWeight>
+		<ubWeight>6</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>22</ItemSize>
 		<usPrice>2900</usPrice>
@@ -46641,7 +46637,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
-		<PercentAPReduction>18</PercentAPReduction>
+		<PercentAPReduction>12</PercentAPReduction>
 		<NightVisionRangeBonus>20</NightVisionRangeBonus>
 		<DayVisionRangeBonus>35</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
@@ -48751,7 +48747,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>500</BR_ROF>
-		<Bipod>20</Bipod>
+		<Bipod>15</Bipod>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
 	</ITEM>
@@ -49087,7 +49083,7 @@
 		<ubClassIndex>1968</ubClassIndex>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>715</ubGraphicNum>
-		<ubWeight>105</ubWeight>
+		<ubWeight>121</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>5270</usPrice>
 		<ubCoolness>2</ubCoolness>
@@ -49286,7 +49282,7 @@
 		<szLongItemName>WF SGC42</szLongItemName>
 		<szItemDesc>This Swiss Eidgenossische Waffenfabrik .223Rem Assault rifle rivaled the SIG 550 in performance, but never made into production.</szItemDesc>
 		<szBRName>WF SGC42</szBRName>
-		<szBRDesc>This Swiss Eidgenossische Waffenfabrik .223Rem Assault rifle rivaled the SIG 550 in performance, but never made into production.</szBRDesc>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>1975</ubClassIndex>
 		<ubCursor>3</ubCursor>
@@ -49314,7 +49310,7 @@
 		<szLongItemName>WF MPC41</szLongItemName>
 		<szItemDesc>A carbine version of Swiss Eidgenossische Waffenfabrik SGC42 oringinally designed for officers, a SIG 551 equivelant when it comes to performance.</szItemDesc>
 		<szBRName>WF MPC41</szBRName>
-		<szBRDesc>A carbine version of Swiss Eidgenossische Waffenfabrik SGC42 oringinally designed for officers, a SIG 551 equivelant when it comes to performance.</szBRDesc>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>1976</ubClassIndex>
 		<ubCursor>3</ubCursor>
@@ -49342,7 +49338,7 @@
 		<szLongItemName>M1941 Johnson</szLongItemName>
 		<szItemDesc>This short recoil operated semi-automatic rifle has some interesting features such as the rotary magazine.</szItemDesc>
 		<szBRName>M1941 Johnson</szBRName>
-		<szBRDesc>This short recoil operated semi-automatic rifle has some interesting features such as the rotary magazine.</szBRDesc>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>1977</ubClassIndex>
 		<ubCursor>3</ubCursor>
@@ -49447,7 +49443,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
 		<BR_ROF>1000</BR_ROF>
-		<Bipod>20</Bipod>
+		<Bipod>15</Bipod>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1981</uiIndex>
@@ -49505,7 +49501,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
 		<BR_ROF>1000</BR_ROF>
-		<Bipod>20</Bipod>
+		<Bipod>15</Bipod>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1983</uiIndex>
@@ -49597,7 +49593,7 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>22</BR_ROF>
-		<Bipod>20</Bipod>
+		<Bipod>15</Bipod>
 		<ToHitBonus>-5</ToHitBonus>
 		<DefaultAttachment>1825</DefaultAttachment>
 	</ITEM>
@@ -49625,7 +49621,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>700</BR_ROF>
-		<Bipod>20</Bipod>
+		<Bipod>15</Bipod>
 		<DefaultAttachment>208</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -49748,7 +49744,7 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>25</BR_ROF>
-		<Bipod>20</Bipod>
+		<Bipod>15</Bipod>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>208</DefaultAttachment>
@@ -49810,7 +49806,7 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>600</BR_ROF>
-		<Bipod>20</Bipod>
+		<Bipod>15</Bipod>
 		<DefaultAttachment>1007</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -50724,7 +50720,7 @@
 		<ubGraphicNum>887</ubGraphicNum>
 		<ubWeight>5</ubWeight>
 		<ubPerPocket>5</ubPerPocket>
-		<ItemSize>15</ItemSize>
+		<ItemSize>20</ItemSize>
 		<usPrice>135</usPrice>
 		<ubCoolness>6</ubCoolness>
 		<Metal>1</Metal>
@@ -53047,7 +53043,7 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>22</BR_ROF>
-		<Bipod>20</Bipod>
+		<Bipod>15</Bipod>
 		<ToHitBonus>-5</ToHitBonus>
 		<DefaultAttachment>1825</DefaultAttachment>
 	</ITEM>
@@ -53720,7 +53716,7 @@
 		<BR_ROF>650</BR_ROF>
 		<PercentNoiseReduction>65</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
-		<Bipod>20</Bipod>
+		<Bipod>15</Bipod>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2157</uiIndex>
@@ -54087,7 +54083,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
 		<BR_ROF>650</BR_ROF>
-		<Bipod>20</Bipod>
+		<Bipod>15</Bipod>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
 	</ITEM>
@@ -54248,15 +54244,10 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_ROF>800</BR_ROF>
-		<Bipod>20</Bipod>
+		<Bipod>15</Bipod>
 		<ToHitBonus>-1</ToHitBonus>
-		<AimBonus>10</AimBonus>
-		<MinRangeForAimBonus>35</MinRangeForAimBonus>
 		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
-		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>25</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>25</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>30</PercentTunnelVision>
+		<DefaultAttachment>2485</DefaultAttachment>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2175</uiIndex>
@@ -57161,7 +57152,7 @@
 		<ItemSize>7</ItemSize>
 		<usPrice>2870</usPrice>
 		<ubCoolness>6</ubCoolness>
-		<bReliability>4</bReliability>
+		<bReliability>1</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<WaterDamages>1</WaterDamages>
@@ -58459,19 +58450,19 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2350</uiIndex>
-		<szItemName>7.62x54R Mag 25 H</szItemName>
-		<szLongItemName>7.62x54R Mag, 25 Hunting</szLongItemName>
+		<szItemName>7.62x54R Mag 15 H</szItemName>
+		<szLongItemName>7.62x54R Mag, 15 Hunting</szLongItemName>
 		<szItemDesc>These 15.0g  Soft Point cartridges are dedicated Big Game Hunting cartridges, capable of dropping Siberian Tiger with pinpoint accuracy!</szItemDesc>
-		<szBRName>7.62x54R Mag 25 Hunting</szBRName>
+		<szBRName>7.62x54R Mag 15 Hunting</szBRName>
 		<szBRDesc>These 15.0g  Soft Point cartridges are dedicated Big Game Hunting cartridges, capable of dropping Siberian Tiger with pinpoint accuracy!</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>446</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>505</ubGraphicNum>
-		<ubWeight>9</ubWeight>
+		<ubWeight>6</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
-		<ItemSize>24</ItemSize>
-		<usPrice>500</usPrice>
+		<ItemSize>17</ItemSize>
+		<usPrice>300</usPrice>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<RangeBonus>100</RangeBonus>
@@ -58479,19 +58470,19 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2351</uiIndex>
-		<szItemName>7.62x54R Mag 25 AP</szItemName>
-		<szLongItemName>7.62x54R Mag, 25 AP</szLongItemName>
+		<szItemName>7.62x54R Mag 15 AP</szItemName>
+		<szLongItemName>7.62x54R Mag, 15 AP</szLongItemName>
 		<szItemDesc>The 7N13 cartridges with a 13.0g bullet are dedicated sniper cartridges in regards to accuracy, also superior in armor penetration.</szItemDesc>
-		<szBRName>7.62x54R Mag 25 AP</szBRName>
+		<szBRName>7.62x54R Mag 15 AP</szBRName>
 		<szBRDesc>The 7N13 cartridges with a 13.0g bullet are dedicated sniper cartridges in regards to accuracy, also superior in armor penetration.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>447</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>506</ubGraphicNum>
-		<ubWeight>9</ubWeight>
+		<ubWeight>6</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
-		<ItemSize>25</ItemSize>
-		<usPrice>625</usPrice>
+		<ItemSize>17</ItemSize>
+		<usPrice>375</usPrice>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 	</ITEM>
@@ -60150,16 +60141,16 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2432</uiIndex>
-		<szItemName>.458 SOCOM 10 FMJ</szItemName>
-		<szLongItemName>.458 SOCOM Magazine, 10 FMJ</szLongItemName>
-		<szItemDesc>A 10-round FMJ clip of .458 SOCOM ammunition. This manstopper is a 300grain bullet with a velocity of 1900 fps.</szItemDesc>
-		<szBRName>.458 SOCOM Mag 10 FMJ</szBRName>
-		<szBRDesc>A 10-round FMJ clip of .458 SOCOM ammunition. This manstopper is a 300grain bullet with a velocity of 1900 fps.</szBRDesc>
+		<szItemName>.458 SOCOM 12 FMJ</szItemName>
+		<szLongItemName>.458 SOCOM Magazine, 12 FMJ</szLongItemName>
+		<szItemDesc>A 12-round FMJ clip of .458 SOCOM ammunition. This manstopper is a 300grain bullet with a velocity of 1900 fps.</szItemDesc>
+		<szBRName>.458 SOCOM Mag 12 FMJ</szBRName>
+		<szBRDesc>A 12-round FMJ clip of .458 SOCOM ammunition. This manstopper is a 300grain bullet with a velocity of 1900 fps.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>745</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>476</ubGraphicNum>
-		<ubWeight>6</ubWeight>
+		<ubWeight>7</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>20</ItemSize>
 		<usPrice>110</usPrice>
@@ -60170,16 +60161,16 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2433</uiIndex>
-		<szItemName>.458 SOCOM 10 JHP</szItemName>
-		<szLongItemName>.458 SOCOM Magazine, 10 JHP</szLongItemName>
-		<szItemDesc>A 10-round JHP clip of .458 SOCOM ammunition. This manstopper is a 300grain bullet with a velocity of 1900 fps.</szItemDesc>
-		<szBRName>.458 SOCOM Mag 10 JHP</szBRName>
-		<szBRDesc>A 10-round JHP clip of .458 SOCOM ammunition. This manstopper is a 300grain bullet with a velocity of 1900 fps..</szBRDesc>
+		<szItemName>.458 SOCOM 12 JHP</szItemName>
+		<szLongItemName>.458 SOCOM Magazine, 12 JHP</szLongItemName>
+		<szItemDesc>A 12-round JHP clip of .458 SOCOM ammunition. This manstopper is a 300grain bullet with a velocity of 1900 fps.</szItemDesc>
+		<szBRName>.458 SOCOM Mag 12 JHP</szBRName>
+		<szBRDesc>A 12-round JHP clip of .458 SOCOM ammunition. This manstopper is a 300grain bullet with a velocity of 1900 fps..</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>746</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>477</ubGraphicNum>
-		<ubWeight>6</ubWeight>
+		<ubWeight>7</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>20</ItemSize>
 		<usPrice>140</usPrice>
@@ -60199,7 +60190,7 @@
 		<ubClassIndex>747</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>873</ubGraphicNum>
-		<ubWeight>6</ubWeight>
+		<ubWeight>9</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>20</ItemSize>
 		<usPrice>154</usPrice>
@@ -60219,7 +60210,7 @@
 		<ubClassIndex>748</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>479</ubGraphicNum>
-		<ubWeight>6</ubWeight>
+		<ubWeight>9</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>20</ItemSize>
 		<usPrice>196</usPrice>
@@ -60593,7 +60584,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
-		<BR_ROF>1270</BR_ROF>
+		<BR_ROF>1170</BR_ROF>
 		<BurstToHitBonus>7</BurstToHitBonus>
 		<AutoFireToHitBonus>7</AutoFireToHitBonus>
 	</ITEM>
@@ -60654,5 +60645,1493 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<RangeBonus>20</RangeBonus>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2454</uiIndex>
+		<szItemName>12Ga M BS</szItemName>
+		<szLongItemName>12Ga MAUL Buckshot</szLongItemName>
+		<szItemDesc>Those five buckshot shells are the special stacked ammunition for the Metal Storm MAUL shotgun.</szItemDesc>
+		<szBRName>12Ga MAUL BS</szBRName>
+		<szBRDesc>Those five buckshot shells are the special stacked ammunition for the Metal Storm MAUL shotgun.</szBRDesc>
+		<usItemClass>1024</usItemClass>
+		<ubClassIndex>757</ubClassIndex>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>570</ubGraphicNum>
+		<ubWeight>9</ubWeight>
+		<ubPerPocket>8</ubPerPocket>
+		<ItemSize>16</ItemSize>
+		<usPrice>100</usPrice>
+		<ubCoolness>9</ubCoolness>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<BigGunList>1</BigGunList>
+		<SciFi>1</SciFi>
+		<BR_NewInventory>2</BR_NewInventory>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2455</uiIndex>
+		<szItemName>12Ga M Slug</szItemName>
+		<szLongItemName>12Ga MAUL Slug</szLongItemName>
+		<szItemDesc>Those five solid slug shells are the special stacked ammunition for the Metal Storm MAUL shotgun.</szItemDesc>
+		<szBRName>12Ga MAUL Slug</szBRName>
+		<szBRDesc>Those five solid slug shells are the special stacked ammunition for the Metal Storm MAUL shotgun.</szBRDesc>
+		<usItemClass>1024</usItemClass>
+		<ubClassIndex>756</ubClassIndex>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>569</ubGraphicNum>
+		<ubWeight>9</ubWeight>
+		<ubPerPocket>8</ubPerPocket>
+		<ItemSize>16</ItemSize>
+		<usPrice>100</usPrice>
+		<ubCoolness>9</ubCoolness>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<BigGunList>1</BigGunList>
+		<SciFi>1</SciFi>
+		<BR_NewInventory>2</BR_NewInventory>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2456</uiIndex>
+		<szItemName>5.56 MSMC Mag</szItemName>
+		<szLongItemName>5.56x30mm MSMC Mag</szLongItemName>
+		<szItemDesc>The cartridge for the Indian MSMC submachinegun is simply 5.56 NATO with shortened casing and reduced powder, well-suited for PDWs and varmint guns.</szItemDesc>
+		<szBRName>5.56x30mm MSMC Mag</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>1024</usItemClass>
+		<ubClassIndex>758</ubClassIndex>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>926</ubGraphicNum>
+		<ubWeight>5</ubWeight>
+		<ubPerPocket>4</ubPerPocket>
+		<ItemSize>16</ItemSize>
+		<usPrice>180</usPrice>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2457</uiIndex>
+		<szItemName>5.56x30mm box</szItemName>
+		<szLongItemName>5.56x30mmm ammo box</szLongItemName>
+		<szItemDesc>250 rounds of 5.56x30mmm FMJ in paper box.</szItemDesc>
+		<szBRName>5.56x30mm ammo box</szBRName>
+		<szBRDesc>The cartridge for the Indian MSMC submachinegun is simply 5.56 NATO with shortened casing and reduced powder, well-suited for PDWs and varmint guns.</szBRDesc>
+		<usItemClass>1024</usItemClass>
+		<ubClassIndex>759</ubClassIndex>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>321</ubGraphicNum>
+		<ubWeight>14</ubWeight>
+		<ItemSize>22</ItemSize>
+		<usPrice>1500</usPrice>
+		<ubCoolness>9</ubCoolness>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<BR_NewInventory>1</BR_NewInventory>
+		<AmmoCrate>1</AmmoCrate>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2458</uiIndex>
+		<szItemName>14.5mm Mag 5</szItemName>
+		<szLongItemName>14.5x114mm Mag, 5</szLongItemName>
+		<szItemDesc>Even more devastating than the 12.7x108mm, it works well on everything lighter armored than tanks.</szItemDesc>
+		<szBRName>14.5x114mm Mag, 5</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>1024</usItemClass>
+		<ubClassIndex>760</ubClassIndex>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>927</ubGraphicNum>
+		<ubWeight>8</ubWeight>
+		<ubPerPocket>6</ubPerPocket>
+		<ItemSize>19</ItemSize>
+		<usPrice>175</usPrice>
+		<ubCoolness>7</ubCoolness>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<BigGunList>1</BigGunList>
+		<BulletSpeedBonus>-10</BulletSpeedBonus>
+		<BurstToHitBonus>5</BurstToHitBonus>
+		<AutoFireToHitBonus>10</AutoFireToHitBonus>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2459</uiIndex>
+		<szItemName>14.5mm crate</szItemName>
+		<szLongItemName>14.5x114mm ammo crate</szLongItemName>
+		<szItemDesc>100 rounds of Soviet/Russian 14.5x114mm Armor Piercing / Tracer ammunition in a metal ammo crate.</szItemDesc>
+		<szBRName>14.5x114mm ammo crate</szBRName>
+		<szBRDesc>100 rounds of Soviet/Russian 14.5x114mm Armor Piercing / Tracer ammunition in a metal ammo crate.</szBRDesc>
+		<usItemClass>1024</usItemClass>
+		<ubClassIndex>761</ubClassIndex>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>330</ubGraphicNum>
+		<ubWeight>160</ubWeight>
+		<ItemSize>34</ItemSize>
+		<usPrice>3500</usPrice>
+		<ubCoolness>7</ubCoolness>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<TwoHanded>1</TwoHanded>
+		<BR_NewInventory>1</BR_NewInventory>
+		<AmmoCrate>1</AmmoCrate>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2460</uiIndex>
+		<szItemName>7.92x57mm Z Belt</szItemName>
+		<szLongItemName>7.92x57mm Zwilling Belt</szLongItemName>
+		<szItemDesc>A pair of ammo pouches that contains 100rds of 7.92x57mm Armor-Piercing Tracer in each one. Incompatible with all 7.92 caliber machineguns except for MG81 Z, due to its special belt configuration.</szItemDesc>
+		<szBRName>7.92x57mm Zwilling Belt</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>1024</usItemClass>
+		<ubClassIndex>762</ubClassIndex>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>928</ubGraphicNum>
+		<ubWeight>68</ubWeight>
+		<ubPerPocket>2</ubPerPocket>
+		<ItemSize>27</ItemSize>
+		<usPrice>1600</usPrice>
+		<ubCoolness>8</ubCoolness>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<BigGunList>1</BigGunList>
+		<BulletSpeedBonus>-10</BulletSpeedBonus>
+		<BurstToHitBonus>5</BurstToHitBonus>
+		<AutoFireToHitBonus>10</AutoFireToHitBonus>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2461</uiIndex>
+		<szItemName>M40A5</szItemName>
+		<szLongItemName>M40A5</szLongItemName>
+		<szItemDesc>The latest model of the M40 series with all the cool gizmo, you'll forget any other precision rifles once you've scored a few headshots with this.</szItemDesc>
+		<szBRName>M40A5</szBRName>
+		<szBRDesc>Accuracy and reliability just don't get old. Here comes M40A5 with Sure-Fire flash supressor and a quick-detachable silencer.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<ubClassIndex>2461</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicNum>861</ubGraphicNum>
+		<ubWeight>79</ubWeight>
+		<ItemSize>8</ItemSize>
+		<usPrice>6180</usPrice>
+		<ubCoolness>9</ubCoolness>
+		<bReliability>3</bReliability>
+		<bRepairEase>1</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_ROF>29</BR_ROF>
+		<Bipod>15</Bipod>
+		<DefaultAttachment>208</DefaultAttachment>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2462</uiIndex>
+		<szItemName>MSR 308</szItemName>
+		<szLongItemName>Remington MSR .308</szLongItemName>
+		<szItemDesc>The Modular Sniper Rifle in 7.62x51mm NATO, with 22" barrel and 10rd magazine, it's Remington's entry into SOCOM Precision Sniper Rifle competition.</szItemDesc>
+		<szBRName>Rem MSR .308</szBRName>
+		<szBRDesc>This 7.62x51mm bolt-action sniper rifle is Remington's entry into SOCOM Presicion Sniper Rifle competition. It can easily switch between calibers by changing the barrel, bolt face and magazine.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<ubClassIndex>2462</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicNum>862</ubGraphicNum>
+		<ubWeight>56</ubWeight>
+		<ItemSize>7</ItemSize>
+		<usPrice>7580</usPrice>
+		<ubCoolness>9</ubCoolness>
+		<bReliability>4</bReliability>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_ROF>31</BR_ROF>
+		<Bipod>15</Bipod>
+		<ToHitBonus>-1</ToHitBonus>
+		<PercentReadyTimeAPReduction>15</PercentReadyTimeAPReduction>
+		<DefaultAttachment>1825</DefaultAttachment>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2463</uiIndex>
+		<szItemName>MSR 300</szItemName>
+		<szLongItemName>Remington MSR .300 WM</szLongItemName>
+		<szItemDesc>The Remington Modular Sniper Rifle in .300 WinMag, with 24" barrel and 6rd magazine.</szItemDesc>
+		<szBRName>Rem MSR .300 WM</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<ubClassIndex>2463</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicNum>863</ubGraphicNum>
+		<ubWeight>60</ubWeight>
+		<ItemSize>7</ItemSize>
+		<usPrice>8180</usPrice>
+		<bReliability>4</bReliability>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
+		<BR_ROF>30</BR_ROF>
+		<Bipod>15</Bipod>
+		<ToHitBonus>-1</ToHitBonus>
+		<PercentReadyTimeAPReduction>15</PercentReadyTimeAPReduction>
+		<DefaultAttachment>1825</DefaultAttachment>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2464</uiIndex>
+		<szItemName>MSR 338</szItemName>
+		<szLongItemName>Remington MSR .338 LM</szLongItemName>
+		<szItemDesc>The Remington Modular Sniper Rifle in .338LM, with 27" barrel and 6rd magazine.</szItemDesc>
+		<szBRName>Rem MSR .338 LM</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<ubClassIndex>2464</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicNum>864</ubGraphicNum>
+		<ubWeight>64</ubWeight>
+		<ItemSize>8</ItemSize>
+		<usPrice>8780</usPrice>
+		<bReliability>4</bReliability>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
+		<BR_ROF>29</BR_ROF>
+		<Bipod>15</Bipod>
+		<ToHitBonus>-1</ToHitBonus>
+		<PercentReadyTimeAPReduction>15</PercentReadyTimeAPReduction>
+		<DefaultAttachment>1825</DefaultAttachment>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2465</uiIndex>
+		<szItemName>ASW338</szItemName>
+		<szLongItemName>Ashbury ASW338</szLongItemName>
+		<szItemDesc>Ashbury International Group's SOCOM PSR (Precision Sniper Rifle) contender is a .338LM Bolt-Action sniper rifle with 27" inch barrel and retractable stock.</szItemDesc>
+		<szBRName>Ashbury ASW338</szBRName>
+		<szBRDesc>Ashbury International Group's SOCOM PSR (Precision Sniper Rifle) contender is a .338LM Bolt-Action sniper rifle with 27" inch barrel and retractable stock.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<ubClassIndex>2465</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicNum>865</ubGraphicNum>
+		<ubWeight>58</ubWeight>
+		<ItemSize>7</ItemSize>
+		<usPrice>8500</usPrice>
+		<ubCoolness>9</ubCoolness>
+		<bReliability>3</bReliability>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_ROF>30</BR_ROF>
+		<Bipod>15</Bipod>
+		<ToHitBonus>-1</ToHitBonus>
+		<PercentReadyTimeAPReduction>15</PercentReadyTimeAPReduction>
+		<DefaultAttachment>1825</DefaultAttachment>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2466</uiIndex>
+		<szItemName>SR-3M</szItemName>
+		<szLongItemName>Vikhr SR-3M</szLongItemName>
+		<szItemDesc>Despite the striking resemblence to the AS VAL, this compact assault rifle is an improved SR-3 "Vikhr", with integral folding foregrip.</szItemDesc>
+		<szBRName>Vikhr SR-3M</szBRName>
+		<szBRDesc>Despite the striking resemblence to the AS VAL, this compact assault rifle is an improved SR-3 "Vikhr", with integral folding foregrip.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<ubClassIndex>2466</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicNum>866</ubGraphicNum>
+		<ubWeight>22</ubWeight>
+		<ItemSize>5</ItemSize>
+		<usPrice>2880</usPrice>
+		<ubCoolness>8</ubCoolness>
+		<bReliability>5</bReliability>
+		<bRepairEase>-1</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
+		<BigGunList>1</BigGunList>
+		<BR_NewInventory>2</BR_NewInventory>
+		<BR_ROF>900</BR_ROF>
+		<ToHitBonus>-1</ToHitBonus>
+		<BurstToHitBonus>5</BurstToHitBonus>
+		<AutoFireToHitBonus>5</AutoFireToHitBonus>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2467</uiIndex>
+		<szItemName>SR-3M F.A.</szItemName>
+		<szLongItemName>Vikhr SR-3M Fully Armed</szLongItemName>
+		<szItemDesc>Despite the striking resemblence to the AS VAL, this compact assault rifle is an improved SR-3 "Vikhr", with integral folding foregrip and the capability of attaching silencer.</szItemDesc>
+		<szBRName>Vikhr SR-3M Fully Armed</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<ubClassIndex>2467</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicNum>867</ubGraphicNum>
+		<ubWeight>28</ubWeight>
+		<ItemSize>6</ItemSize>
+		<usPrice>3020</usPrice>
+		<ubCoolness>8</ubCoolness>
+		<bReliability>5</bReliability>
+		<bRepairEase>-1</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
+		<BigGunList>1</BigGunList>
+		<BR_ROF>900</BR_ROF>
+		<PercentNoiseReduction>55</PercentNoiseReduction>
+		<HideMuzzleFlash>1</HideMuzzleFlash>
+		<ToHitBonus>-1</ToHitBonus>
+		<BurstToHitBonus>5</BurstToHitBonus>
+		<AutoFireToHitBonus>5</AutoFireToHitBonus>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
+		<DefaultAttachment>999</DefaultAttachment>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2468</uiIndex>
+		<szItemName>FA-03</szItemName>
+		<szLongItemName>LAPA FA-03</szLongItemName>
+		<szItemDesc>A rare Brazilian bullpup assault rifle made by LAPA, features an unique double-action trigger mode as its safety. It can be carried safely with a round chambered and engage enemy at any time.</szItemDesc>
+		<szBRName>LAPA FA-03</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<ubClassIndex>2468</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicNum>868</ubGraphicNum>
+		<ubWeight>34</ubWeight>
+		<ItemSize>6</ItemSize>
+		<usPrice>2980</usPrice>
+		<ubCoolness>7</ubCoolness>
+		<bReliability>4</bReliability>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
+		<BR_ROF>650</BR_ROF>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2469</uiIndex>
+		<szItemName>MAUL</szItemName>
+		<szLongItemName>Metal Storm MAUL</szLongItemName>
+		<szItemDesc>MAUL is an electronically fired, stacked-ammunition weapon. The barrel holds five special shot shells and it can be fired as fast as you can pull the trigger.</szItemDesc>
+		<szBRName>Metal Storm MAUL</szBRName>
+		<szBRDesc>The lightest semi-automatic shotgun ever made! Like every other Metal Storm product, the MAUL stacks five special shot shells in the barrel and it can be fired as fast as you can pull the trigger!</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<ubClassIndex>2469</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicNum>869</ubGraphicNum>
+		<ubWeight>9</ubWeight>
+		<ItemSize>4</ItemSize>
+		<usPrice>1550</usPrice>
+		<ubCoolness>9</ubCoolness>
+		<bReliability>2</bReliability>
+		<bRepairEase>-2</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_ROF>22</BR_ROF>
+		<ToHitBonus>-1</ToHitBonus>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
+		<DefaultAttachment>2266</DefaultAttachment>
+		<spreadPattern>ChokeImpModSpread</spreadPattern>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2470</uiIndex>
+		<szItemName>MSMC</szItemName>
+		<szLongItemName>MSMC</szLongItemName>
+		<szItemDesc>The newest and ugliest PDW from India, the Modern Submachine Carbine is a gas operated, selective fire weapon. It fires high velocity 5.56x30mm cartridges and is fitted with picatinny rail.</szItemDesc>
+		<szBRName>MSMC</szBRName>
+		<szBRDesc>The newest and ugliest PDW from India, the Modern Submachine Carbine is a gas operated, selective fire weapon. It fires high velocity 5.56x30mm cartridges and is fitted with picatinny rail.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<ubClassIndex>2470</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicNum>870</ubGraphicNum>
+		<ubWeight>29</ubWeight>
+		<ItemSize>5</ItemSize>
+		<usPrice>2960</usPrice>
+		<ubCoolness>9</ubCoolness>
+		<bReliability>2</bReliability>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_ROF>650</BR_ROF>
+		<ToHitBonus>-1</ToHitBonus>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
+		<DefaultAttachment>1808</DefaultAttachment>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2471</uiIndex>
+		<szItemName>Al' Battar</szItemName>
+		<szLongItemName>Al' Battar Rifle</szLongItemName>
+		<szItemDesc>This home-made bolt action Anti-Material Rifle comes from Chechnya. This "Sword of the Prophet" is the separatists' weapon against Russian light armored vehicles.</szItemDesc>
+		<szBRName>Al' Battar Rifle</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<ubClassIndex>2471</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicNum>871</ubGraphicNum>
+		<ubWeight>83</ubWeight>
+		<ItemSize>8</ItemSize>
+		<usPrice>3680</usPrice>
+		<ubCoolness>7</ubCoolness>
+		<bReliability>2</bReliability>
+		<bRepairEase>5</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
+		<BigGunList>1</BigGunList>
+		<Unaerodynamic>1</Unaerodynamic>
+		<BR_ROF>12</BR_ROF>
+		<Bipod>35</Bipod>
+		<ToHitBonus>-25</ToHitBonus>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2472</uiIndex>
+		<szItemName>MG81z</szItemName>
+		<szLongItemName>MG81 Zwilling</szLongItemName>
+		<szItemDesc>This WWII-era machine gun was commonly installed on Luftwaffe aircrafts and it was regarded the fastest and lightest medium machinegun ever.</szItemDesc>
+		<szBRName>MG81 Zwilling</szBRName>
+		<szBRDesc>With both guns blazing at 1600RPM, the twin MG 81 comes close to some modern minigun in term of firepower, though keeping the guns steady could be a real bitch.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<ubClassIndex>2472</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicNum>872</ubGraphicNum>
+		<ubWeight>105</ubWeight>
+		<ItemSize>6</ItemSize>
+		<usPrice>8800</usPrice>
+		<ubCoolness>8</ubCoolness>
+		<bReliability>5</bReliability>
+		<bRepairEase>-4</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
+		<BR_ROF>3200</BR_ROF>
+		<ToHitBonus>-1</ToHitBonus>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2473</uiIndex>
+		<szItemName>WA-2000 7.5</szItemName>
+		<szLongItemName>Walther WA-2000 7.5mm</szLongItemName>
+		<szItemDesc>In 7.5x55mm Swiss, it is an extremely rare caliber of the WA 2000 sniper rifle, so stop shooting it and put it on eBay for 100 grand!</szItemDesc>
+		<szBRName>Walther WA-2000 7.5mm</szBRName>
+		<szBRDesc>In 7.5x55mm Swiss, it is an extremely rare caliber of the WA 2000 sniper rifle, so stop shooting it and put it on eBay for 100 grand!</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<ubClassIndex>2473</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicNum>177</ubGraphicNum>
+		<ubWeight>65</ubWeight>
+		<ItemSize>7</ItemSize>
+		<usPrice>9600</usPrice>
+		<ubCoolness>9</ubCoolness>
+		<bReliability>2</bReliability>
+		<bRepairEase>-2</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
+		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<BR_ROF>26</BR_ROF>
+		<Bipod>15</Bipod>
+		<DefaultAttachment>208</DefaultAttachment>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2474</uiIndex>
+		<szItemName>L129A1</szItemName>
+		<szLongItemName>L129A1</szLongItemName>
+		<szItemDesc>British Army's newest "sharpshooter" weapon is the LMT .308 with 20" match barrel, its design could trace all the way back to AR10.</szItemDesc>
+		<szBRName>L129A1</szBRName>
+		<szBRDesc>British Army's newest "sharpshooter" weapon is the LMT .308 with 20" match barrel, its design could trace all the way back to AR10.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<ubClassIndex>2474</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicNum>874</ubGraphicNum>
+		<ubWeight>48</ubWeight>
+		<ItemSize>7</ItemSize>
+		<usPrice>5680</usPrice>
+		<ubCoolness>7</ubCoolness>
+		<bReliability>3</bReliability>
+		<bRepairEase>-2</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
+		<BR_NewInventory>2</BR_NewInventory>
+		<BR_ROF>34</BR_ROF>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2475</uiIndex>
+		<szItemName>Enfield Enforcer</szItemName>
+		<szLongItemName>Enfield Enforcer</szLongItemName>
+		<szItemDesc>Modified from L42A1 with 7x scope and accurized barrel, it was employed by British police and special forces alike, notebly the SAS during 1980 Operation Nimrod.</szItemDesc>
+		<szBRName>Enfield Enforcer</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<ubClassIndex>2475</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicNum>875</ubGraphicNum>
+		<ubWeight>44</ubWeight>
+		<ItemSize>8</ItemSize>
+		<usPrice>5200</usPrice>
+		<ubCoolness>6</ubCoolness>
+		<bReliability>4</bReliability>
+		<bRepairEase>-1</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
+		<BigGunList>1</BigGunList>
+		<BR_ROF>22</BR_ROF>
+		<DefaultAttachment>1007</DefaultAttachment>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2476</uiIndex>
+		<szItemName>F1 SMG</szItemName>
+		<szLongItemName>F1 SMG</szLongItemName>
+		<szItemDesc>The F1 submachine gun has appeared in 1962 as possible replacement for obsolete and aging Owen submachine guns. It was simple, reliable and popular weapon.</szItemDesc>
+		<szBRName>F1 SMG</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<ubClassIndex>2476</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicNum>876</ubGraphicNum>
+		<ubWeight>33</ubWeight>
+		<ItemSize>6</ItemSize>
+		<usPrice>3400</usPrice>
+		<ubCoolness>1</ubCoolness>
+		<bReliability>4</bReliability>
+		<bRepairEase>3</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
+		<BR_ROF>600</BR_ROF>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2477</uiIndex>
+		<szItemName>L1A1</szItemName>
+		<szLongItemName>L1A1 SLR</szLongItemName>
+		<szItemDesc>A Australian version of FN FAL, but can't full-automatic fire.</szItemDesc>
+		<szBRName>L1A1 SLR</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<ubClassIndex>2477</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicNum>877</ubGraphicNum>
+		<ubWeight>43</ubWeight>
+		<ItemSize>8</ItemSize>
+		<usPrice>3950</usPrice>
+		<ubCoolness>6</ubCoolness>
+		<bReliability>3</bReliability>
+		<bRepairEase>-1</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
+		<BR_ROF>700</BR_ROF>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2478</uiIndex>
+		<szItemName>9000S</szItemName>
+		<szLongItemName>Beretta 9000S</szLongItemName>
+		<szItemDesc>This is first polymer frame Beretta handgun ever made. Compact but very potent, and looks pretty good.</szItemDesc>
+		<szBRName>Beretta 9000S</szBRName>
+		<szBRDesc>This is first polymer frame Beretta handgun ever made. Compact but very potent, and looks pretty good.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<ubClassIndex>2478</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicNum>878</ubGraphicNum>
+		<ubWeight>8</ubWeight>
+		<ubPerPocket>1</ubPerPocket>
+		<ItemSize>0</ItemSize>
+		<usPrice>840</usPrice>
+		<ubCoolness>2</ubCoolness>
+		<bReliability>3</bReliability>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<BigGunList>1</BigGunList>
+		<BR_NewInventory>3</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<BR_ROF>36</BR_ROF>
+		<ToHitBonus>15</ToHitBonus>
+		<BestLaserRange>90</BestLaserRange>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2479</uiIndex>
+		<szItemName>HK GR9S</szItemName>
+		<szLongItemName>HK GR9S</szLongItemName>
+		<szItemDesc>This exotic looking machinegun is an HK23E with camo finish and integral 4x sight.</szItemDesc>
+		<szBRName>HK GR9S</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<ubClassIndex>2479</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicNum>879</ubGraphicNum>
+		<ubWeight>89</ubWeight>
+		<ItemSize>7</ItemSize>
+		<usPrice>6280</usPrice>
+		<ubCoolness>8</ubCoolness>
+		<bReliability>6</bReliability>
+		<bRepairEase>-3</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
+		<BigGunList>1</BigGunList>
+		<BR_ROF>800</BR_ROF>
+		<Bipod>15</Bipod>
+		<AimBonus>10</AimBonus>
+		<MinRangeForAimBonus>35</MinRangeForAimBonus>
+		<PercentAPReduction>10</PercentAPReduction>
+		<NightVisionRangeBonus>10</NightVisionRangeBonus>
+		<DayVisionRangeBonus>35</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>35</BrightLightVisionRangeBonus>
+		<PercentTunnelVision>20</PercentTunnelVision>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2480</uiIndex>
+		<szItemName>M3T</szItemName>
+		<szLongItemName>Benelli M3 Tactical</szLongItemName>
+		<szItemDesc>The M3T can be quickly converted from autoloading to pump action by simply turning a spring-loaded ring located at the end of the forearm.</szItemDesc>
+		<szBRName>Benelli M3 Tactical</szBRName>
+		<szBRDesc>The M3T can be quickly converted from autoloading to pump action by simply turning a spring-loaded ring located at the end of the forearm.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<ubClassIndex>2480</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicNum>880</ubGraphicNum>
+		<ubWeight>35</ubWeight>
+		<ItemSize>7</ItemSize>
+		<usPrice>1900</usPrice>
+		<ubCoolness>4</ubCoolness>
+		<bReliability>2</bReliability>
+		<bRepairEase>-1</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
+		<BigGunList>1</BigGunList>
+		<BR_NewInventory>2</BR_NewInventory>
+		<BR_ROF>20</BR_ROF>
+		<ToHitBonus>-1</ToHitBonus>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2481</uiIndex>
+		<szItemName>AKU94</szItemName>
+		<szLongItemName>AKU94</szLongItemName>
+		<szItemDesc>A compact AK47 in bullpup configuration with violent muzzle jumping during full-auto, and think twice before shooting an AK with its muzzle next to your face.</szItemDesc>
+		<szBRName>AKU94</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<ubClassIndex>2481</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicNum>881</ubGraphicNum>
+		<ubWeight>43</ubWeight>
+		<ItemSize>6</ItemSize>
+		<usPrice>3040</usPrice>
+		<ubCoolness>5</ubCoolness>
+		<bReliability>8</bReliability>
+		<bRepairEase>1</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
+		<BR_ROF>600</BR_ROF>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2482</uiIndex>
+		<szItemName>FMK-3</szItemName>
+		<szLongItemName>FMK-3</szLongItemName>
+		<szItemDesc>It was developed by Fabricaciones Militares company of Argentina. FMK-3 is a blowback-operated, selective fire submachine gun.</szItemDesc>
+		<szBRName>FMK-3</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<ubClassIndex>2482</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicNum>882</ubGraphicNum>
+		<ubWeight>34</ubWeight>
+		<ItemSize>5</ItemSize>
+		<usPrice>1180</usPrice>
+		<ubCoolness>3</ubCoolness>
+		<bReliability>4</bReliability>
+		<bRepairEase>-1</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
+		<BigGunList>1</BigGunList>
+		<BR_ROF>650</BR_ROF>
+		<ToHitBonus>-1</ToHitBonus>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2483</uiIndex>
+		<szItemName>Harpoon Gun</szItemName>
+		<szLongItemName>Harpoon Gun</szLongItemName>
+		<szItemDesc>When a bad guy steals your favourite .44 Magnum, nail him with this lengthy weapon and say "You're shit outta luck."</szItemDesc>
+		<szBRName>Harpoon Gun</szBRName>
+		<szBRDesc>When a bad guy steals your favourite .44 Magnum, nail him with this lengthy weapon and say "You're shit outta luck."</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<ubClassIndex>2483</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicNum>883</ubGraphicNum>
+		<ubWeight>18</ubWeight>
+		<ItemSize>7</ItemSize>
+		<usPrice>600</usPrice>
+		<ubCoolness>6</ubCoolness>
+		<bReliability>2</bReliability>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<BR_ROF>5</BR_ROF>
+		<HideMuzzleFlash>1</HideMuzzleFlash>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2484</uiIndex>
+		<szItemName>Harpoon</szItemName>
+		<szLongItemName>Harpoon</szLongItemName>
+		<szItemDesc>Very effective against flesh above or under the surface, it will send your foe straight down to Davy Jones' Locker.</szItemDesc>
+		<szBRName>Harpoon</szBRName>
+		<szBRDesc>Very effective against flesh above or under the surface, it will send your foe straight down to Davy Jones' Locker.</szBRDesc>
+		<usItemClass>1024</usItemClass>
+		<ubClassIndex>763</ubClassIndex>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>574</ubGraphicNum>
+		<ubWeight>6</ubWeight>
+		<ItemSize>28</ItemSize>
+		<usPrice>5</usPrice>
+		<ubCoolness>6</ubCoolness>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2485</uiIndex>
+		<szItemName>G36 Sight</szItemName>
+		<szLongItemName>G36 Dual-Sight</szLongItemName>
+		<szItemDesc>This combination of red dot and 3x scope is installed on every G36 by default configuration, it allows quick and accurate aiming.</szItemDesc>
+		<szBRName>G36 Dual-Sight</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>268435456</usItemClass>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>929</ubGraphicNum>
+		<ubWeight>4</ubWeight>
+		<ubPerPocket>4</ubPerPocket>
+		<ItemSize>20</ItemSize>
+		<usPrice>2400</usPrice>
+		<bRepairEase>-4</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<Attachment>1</Attachment>
+		<BigGunList>1</BigGunList>
+		<Electronic>1</Electronic>
+		<AimBonus>10</AimBonus>
+		<MinRangeForAimBonus>35</MinRangeForAimBonus>
+		<PercentAPReduction>15</PercentAPReduction>
+		<NightVisionRangeBonus>10</NightVisionRangeBonus>
+		<DayVisionRangeBonus>28</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>28</BrightLightVisionRangeBonus>
+		<PercentTunnelVision>20</PercentTunnelVision>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2486</uiIndex>
+		<szItemName>MSR .308 Barrel</szItemName>
+		<szLongItemName>MSR .308 Barrel</szLongItemName>
+		<szItemDesc>A 22" barrel of .308 for Remington MSR.</szItemDesc>
+		<szBRName>MSR .308 Barrel</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>268435456</usItemClass>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>571</ubGraphicNum>
+		<ubWeight>19</ubWeight>
+		<ItemSize>28</ItemSize>
+		<usPrice>2000</usPrice>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<BigGunList>1</BigGunList>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2487</uiIndex>
+		<szItemName>MSR .300 Barrel</szItemName>
+		<szLongItemName>MSR .300WM Barrel</szLongItemName>
+		<szItemDesc>A 24" barrel of .300WM for Remington MSR.</szItemDesc>
+		<szBRName>MSR .300WM Barrel</szBRName>
+		<szBRDesc>A 24" barrel of .300WM for Remington MSR.</szBRDesc>
+		<usItemClass>268435456</usItemClass>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>572</ubGraphicNum>
+		<ubWeight>21</ubWeight>
+		<ItemSize>28</ItemSize>
+		<usPrice>2300</usPrice>
+		<ubCoolness>9</ubCoolness>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2488</uiIndex>
+		<szItemName>MSR .338 Barrel</szItemName>
+		<szLongItemName>MSR .338LM Barrel</szLongItemName>
+		<szItemDesc>A 27" barrel of .338LM for Remington MSR.</szItemDesc>
+		<szBRName>MSR .338LM Barrel</szBRName>
+		<szBRDesc>A 27" barrel of .338LM for Remington MSR.</szBRDesc>
+		<usItemClass>268435456</usItemClass>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>573</ubGraphicNum>
+		<ubWeight>25</ubWeight>
+		<ItemSize>28</ItemSize>
+		<usPrice>2800</usPrice>
+		<ubCoolness>9</ubCoolness>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2489</uiIndex>
+		<szItemName>QD Supp.</szItemName>
+		<szLongItemName>QD Flash Suppressor</szLongItemName>
+		<szItemDesc>This muzzle flas-hide for Quick-Attach/Detach Sound Suppressors.</szItemDesc>
+		<szBRName>QD Suppressor</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>268435456</usItemClass>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>796</ubGraphicNum>
+		<ubWeight>3</ubWeight>
+		<ubPerPocket>4</ubPerPocket>
+		<ItemSize>12</ItemSize>
+		<usPrice>200</usPrice>
+		<ubCoolness>2</ubCoolness>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Metal>1</Metal>
+		<Attachment>1</Attachment>
+		<BigGunList>1</BigGunList>
+		<HideMuzzleFlash>1</HideMuzzleFlash>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2490</uiIndex>
+		<szItemName>QD Sil.</szItemName>
+		<szLongItemName>QD Silencer</szLongItemName>
+		<szItemDesc>Quick-Attach/Detach Sound Suppressors for Spec-Ops.</szItemDesc>
+		<szBRName>QD Silencer</szBRName>
+		<szBRDesc>Quick-Attach/Detach Sound Suppressors for Spec-Ops.</szBRDesc>
+		<usItemClass>268435456</usItemClass>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>180</ubGraphicNum>
+		<ubWeight>6</ubWeight>
+		<ubPerPocket>4</ubPerPocket>
+		<ItemSize>16</ItemSize>
+		<ItemSizeBonus>1</ItemSizeBonus>
+		<usPrice>1000</usPrice>
+		<ubCoolness>6</ubCoolness>
+		<bReliability>-1</bReliability>
+		<bRepairEase>-1</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Metal>1</Metal>
+		<Attachment>1</Attachment>
+		<BigGunList>1</BigGunList>
+		<PercentNoiseReduction>55</PercentNoiseReduction>
+		<HideMuzzleFlash>1</HideMuzzleFlash>
+		<ToHitBonus>-2</ToHitBonus>
+		<BurstToHitBonus>2</BurstToHitBonus>
+		<AutoFireToHitBonus>2</AutoFireToHitBonus>
+		<PercentReadyTimeAPReduction>-7</PercentReadyTimeAPReduction>
+		<DefaultAttachment>2489</DefaultAttachment>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2491</uiIndex>
+		<szItemName>Type-09</szItemName>
+		<szLongItemName>Type09 Chino Mega Cannon</szLongItemName>
+		<szItemDesc>China's first light weight semi-automatic shotgun for the military. Its standard ammunition is flechette type shells which can defeat body armor within 100 meters. *The name is only a place holder.</szItemDesc>
+		<szBRName>Chino Mega Cannon</szBRName>
+		<szBRDesc>China's first light weight semi-automatic shotgun for the military. Its standard ammunition is flechette type shells which can defeat body armor within 100 meters. *The name is only a place holder.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<ubClassIndex>2491</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicNum>884</ubGraphicNum>
+		<ubWeight>36</ubWeight>
+		<ItemSize>6</ItemSize>
+		<usPrice>1547</usPrice>
+		<ubCoolness>4</ubCoolness>
+		<bReliability>1</bReliability>
+		<bRepairEase>-1</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<BR_NewInventory>3</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<BR_ROF>24</BR_ROF>
+		<ToHitBonus>-1</ToHitBonus>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2492</uiIndex>
+		<szItemName>AVS-36</szItemName>
+		<szLongItemName>Simonov AVS-36</szLongItemName>
+		<szItemDesc>The AVS-36 is a gas operated, selective fire rifle. Red Army conducted several trials for automatic rifles between 1928 and mid-1930s.</szItemDesc>
+		<szBRName>AVS-36 Simonov</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<ubClassIndex>2492</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicNum>885</ubGraphicNum>
+		<ubWeight>42</ubWeight>
+		<ItemSize>8</ItemSize>
+		<usPrice>3400</usPrice>
+		<ubCoolness>3</ubCoolness>
+		<bRepairEase>-3</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
+		<BR_ROF>800</BR_ROF>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2493</uiIndex>
+		<szItemName>PMR-30</szItemName>
+		<szLongItemName>Kel-Tec PMR-30</szLongItemName>
+		<szItemDesc>Developed by Kel-Tech which chambers the .22 Magnum (WMR) cartridge. The small size of the .22 WMR has allowed squeeze 30 rounds into the double-stacked magazine, yet maintain a comfortable grip size.</szItemDesc>
+		<szBRName>PMR-30</szBRName>
+		<szBRDesc>Developed by Kel-Tech which chambers the .22 Magnum (WMR) cartridge. The small size of the .22 WMR has allowed squeeze 30 rounds into the double-stacked magazine, yet maintain a comfortable grip size.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<ubClassIndex>2493</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicNum>886</ubGraphicNum>
+		<ubWeight>4</ubWeight>
+		<ubPerPocket>1</ubPerPocket>
+		<ItemSize>1</ItemSize>
+		<usPrice>850</usPrice>
+		<ubCoolness>6</ubCoolness>
+		<bReliability>3</bReliability>
+		<bRepairEase>3</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<BR_NewInventory>3</BR_NewInventory>
+		<BR_ROF>36</BR_ROF>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2494</uiIndex>
+		<szItemName>R-31</szItemName>
+		<szLongItemName>Grendel R-31 Carbine</szLongItemName>
+		<szItemDesc>The Grendel R31 is a semi-automatic carbine that shoots the 22 Winchester Magnum cartridge. The 30 round detachable box magazine is housed in the pistol grip.</szItemDesc>
+		<szBRName>Grendel R-31 Carbine</szBRName>
+		<szBRDesc>The Grendel R31 is a semi-automatic carbine that shoots the 22 Winchester Magnum cartridge. The 30 round detachable box magazine is housed in the pistol grip.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<ubClassIndex>2494</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicNum>887</ubGraphicNum>
+		<ubWeight>18</ubWeight>
+		<ItemSize>5</ItemSize>
+		<usPrice>1820</usPrice>
+		<ubCoolness>7</ubCoolness>
+		<bReliability>1</bReliability>
+		<bRepairEase>1</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
+		<BR_ROF>35</BR_ROF>
+		<ToHitBonus>-1</ToHitBonus>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2495</uiIndex>
+		<szItemName>Taurus Judge</szItemName>
+		<szLongItemName>Taurus Judge</szLongItemName>
+		<szItemDesc>The "Taurus Judge" is so named because of the number of judges who carry it into the courtroom for their protection. Capable of chambering .410 shotshell, this amazing combo gun is ideal for short distances - where most altercations occur.</szItemDesc>
+		<szBRName>Taurus Judge</szBRName>
+		<szBRDesc>The "Taurus Judge" is so named because of the number of judges who carry it into the courtroom for their protection. Capable of chambering .410 shotshell, this amazing combo gun is ideal for short distances - where most altercations occur.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<ubClassIndex>2495</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicNum>888</ubGraphicNum>
+		<ubWeight>11</ubWeight>
+		<ubPerPocket>1</ubPerPocket>
+		<ItemSize>1</ItemSize>
+		<usPrice>550</usPrice>
+		<ubCoolness>5</ubCoolness>
+		<bReliability>2</bReliability>
+		<bRepairEase>4</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<BR_NewInventory>2</BR_NewInventory>
+		<BR_ROF>24</BR_ROF>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2496</uiIndex>
+		<szItemName>Device "DM"</szItemName>
+		<szLongItemName>Device "DM" Noiseless GL</szLongItemName>
+		<szItemDesc>The Device "DM" is noiseless grenade launcher. The effective range up to 300 meters.</szItemDesc>
+		<szBRName>Device "DM" GL</szBRName>
+		<szBRDesc>The Device "DM" is noiseless grenade launcher. The effective range up to 300 meters.</szBRDesc>
+		<usItemClass>16</usItemClass>
+		<ubClassIndex>2496</ubClassIndex>
+		<ubCursor>20</ubCursor>
+		<ubGraphicNum>889</ubGraphicNum>
+		<ubWeight>39</ubWeight>
+		<ItemSize>5</ItemSize>
+		<usPrice>500</usPrice>
+		<ubCoolness>5</ubCoolness>
+		<bRepairEase>-1</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
+		<BigGunList>1</BigGunList>
+		<BR_NewInventory>3</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<BR_ROF>12</BR_ROF>
+		<PercentNoiseReduction>95</PercentNoiseReduction>
+		<HideMuzzleFlash>1</HideMuzzleFlash>
+		<Bipod>10</Bipod>
+		<GrenadeLauncher>1</GrenadeLauncher>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2497</uiIndex>
+		<szItemName>Galil ARM 556</szItemName>
+		<szLongItemName>Galil ARM 5.56</szLongItemName>
+		<szItemDesc>The ARM light machine gun variant is additionally equipped with a carrying handle, folding bipod and a larger wooden handguard.</szItemDesc>
+		<szBRName>Galil ARM 5.56</szBRName>
+		<szBRDesc>The ARM light machine gun variant is additionally equipped with a carrying handle, folding bipod and a larger wooden handguard.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<ubClassIndex>2497</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicNum>890</ubGraphicNum>
+		<ubWeight>43</ubWeight>
+		<ItemSize>7</ItemSize>
+		<usPrice>3900</usPrice>
+		<ubCoolness>6</ubCoolness>
+		<bReliability>4</bReliability>
+		<bRepairEase>-1</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
+		<BigGunList>1</BigGunList>
+		<BR_NewInventory>3</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<BR_ROF>700</BR_ROF>
+		<Bipod>15</Bipod>
+		<ToHitBonus>-1</ToHitBonus>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2498</uiIndex>
+		<szItemName>Galil AR 762</szItemName>
+		<szLongItemName>Galil AR 7.62</szLongItemName>
+		<szItemDesc>The standard rifle version which is fitted with a high-impact plastic handguard and pistol grip, a side-folding (folds to the right side) tubular metal skeleton stock as fitted to all variants except the Galil Sniper.</szItemDesc>
+		<szBRName>Galil AR 7.62</szBRName>
+		<szBRDesc>The standard rifle version which is fitted with a high-impact plastic handguard and pistol grip, a side-folding (folds to the right side) tubular metal skeleton stock as fitted to all variants except the Galil Sniper.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<ubClassIndex>2498</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicNum>891</ubGraphicNum>
+		<ubWeight>40</ubWeight>
+		<ItemSize>7</ItemSize>
+		<usPrice>4030</usPrice>
+		<ubCoolness>6</ubCoolness>
+		<bReliability>3</bReliability>
+		<bRepairEase>-1</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
+		<BigGunList>1</BigGunList>
+		<BR_NewInventory>4</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<BR_ROF>750</BR_ROF>
+		<ToHitBonus>-1</ToHitBonus>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2499</uiIndex>
+		<szItemName>92F Custom</szItemName>
+		<szLongItemName>Beretta 92F Custom</szLongItemName>
+		<szItemDesc>A large, custom made 92F from Leon: the Professional. The extended barrel and compensator helps your bullets rendezvous with your target's brain everytime.</szItemDesc>
+		<szBRName>Beretta 92F Custom</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<ubClassIndex>2499</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicNum>892</ubGraphicNum>
+		<ubWeight>12</ubWeight>
+		<ubPerPocket>1</ubPerPocket>
+		<ItemSize>2</ItemSize>
+		<usPrice>890</usPrice>
+		<ubCoolness>3</ubCoolness>
+		<bReliability>4</bReliability>
+		<bRepairEase>-1</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<BR_ROF>36</BR_ROF>
+		<HideMuzzleFlash>1</HideMuzzleFlash>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2500</uiIndex>
+		<szItemName>USP Tac</szItemName>
+		<szLongItemName>HK USP Tactical</szLongItemName>
+		<szItemDesc>HK USP Tactical with extended barrel, threaded for sound suppressor.</szItemDesc>
+		<szBRName>HK USP Tactical</szBRName>
+		<szBRDesc>HK USP Tactical with extended barrel, threaded for sound suppressor.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<ubClassIndex>2500</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicNum>893</ubGraphicNum>
+		<ubWeight>7</ubWeight>
+		<ubPerPocket>1</ubPerPocket>
+		<ItemSize>1</ItemSize>
+		<usPrice>750</usPrice>
+		<ubCoolness>3</ubCoolness>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<BigGunList>1</BigGunList>
+		<BR_NewInventory>2</BR_NewInventory>
+		<BR_ROF>36</BR_ROF>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2501</uiIndex>
+		<szItemName>STEN Mk.II</szItemName>
+		<szLongItemName>STEN Mk.II</szLongItemName>
+		<szItemDesc>The STEN Mk.II submachine gun was most widely made gun in entire STEN series, with about 2 millions of Mark 2 being made during the war.</szItemDesc>
+		<szBRName>STEN Mk.II</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<ubClassIndex>2501</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicNum>894</ubGraphicNum>
+		<ubWeight>33</ubWeight>
+		<ItemSize>7</ItemSize>
+		<usPrice>3300</usPrice>
+		<ubCoolness>1</ubCoolness>
+		<bReliability>2</bReliability>
+		<bRepairEase>2</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
+		<BR_ROF>550</BR_ROF>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2502</uiIndex>
+		<szItemName>410 Slug 5</szItemName>
+		<szLongItemName>.410 Shells, 5 Slug</szLongItemName>
+		<szItemDesc>Five rounds of .410 gauge slugs.</szItemDesc>
+		<szBRName>.410 Shells 5 Slug</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>1024</usItemClass>
+		<ubClassIndex>764</ubClassIndex>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>576</ubGraphicNum>
+		<ubWeight>2</ubWeight>
+		<ubPerPocket>5</ubPerPocket>
+		<ItemSize>20</ItemSize>
+		<usPrice>10</usPrice>
+		<ubCoolness>5</ubCoolness>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<BigGunList>1</BigGunList>
+		<RangeBonus>35</RangeBonus>
+		<ToHitBonus>5</ToHitBonus>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2503</uiIndex>
+		<szItemName>410 Shells 5 BS</szItemName>
+		<szLongItemName>.410 Gauge Shells, 5 Buckshot</szLongItemName>
+		<szItemDesc>Five rounds of .410 gauge buckshot shells.</szItemDesc>
+		<szBRName>.410 Shells 5 Buckshot</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>1024</usItemClass>
+		<ubClassIndex>765</ubClassIndex>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>577</ubGraphicNum>
+		<ubWeight>2</ubWeight>
+		<ubPerPocket>8</ubPerPocket>
+		<ItemSize>10</ItemSize>
+		<usPrice>10</usPrice>
+		<ubCoolness>5</ubCoolness>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<BigGunList>1</BigGunList>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2504</uiIndex>
+		<szItemName>410 Slug Mag</szItemName>
+		<szLongItemName>.410 Slug, 10 Mag</szLongItemName>
+		<szItemDesc>This magazine hold 10 rounds of .410 Slug.</szItemDesc>
+		<szBRName>.410 Slug 10 Mag</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>1024</usItemClass>
+		<ubClassIndex>766</ubClassIndex>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>578</ubGraphicNum>
+		<ubWeight>7</ubWeight>
+		<ubPerPocket>5</ubPerPocket>
+		<ItemSize>20</ItemSize>
+		<usPrice>20</usPrice>
+		<ubCoolness>6</ubCoolness>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<BigGunList>1</BigGunList>
+		<RangeBonus>45</RangeBonus>
+		<ToHitBonus>5</ToHitBonus>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2505</uiIndex>
+		<szItemName>410 BS Mag</szItemName>
+		<szLongItemName>.410 Gauge Buckshot, 10 Magazine</szLongItemName>
+		<szItemDesc>This magazine hold 10 rounds of .410 buckshot shells.</szItemDesc>
+		<szBRName>.410 Buckshot 10 Magazine</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>1024</usItemClass>
+		<ubClassIndex>767</ubClassIndex>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>579</ubGraphicNum>
+		<ubWeight>7</ubWeight>
+		<ubPerPocket>8</ubPerPocket>
+		<ItemSize>10</ItemSize>
+		<usPrice>20</usPrice>
+		<ubCoolness>6</ubCoolness>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<BigGunList>1</BigGunList>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2506</uiIndex>
+		<szItemName>410Ga Slug box</szItemName>
+		<szLongItemName>.410Ga Slug ammo box</szLongItemName>
+		<szItemDesc>100 rounds of .410Ga Slug in a paper box.</szItemDesc>
+		<szBRName>410Ga Slug box</szBRName>
+		<szBRDesc>The .410 Slug are normally for kids to shoot at squirrels, but .410 Slug has comparable power to most magnum handgun cartridges.</szBRDesc>
+		<usItemClass>1024</usItemClass>
+		<ubClassIndex>768</ubClassIndex>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>344</ubGraphicNum>
+		<ubWeight>38</ubWeight>
+		<ItemSize>22</ItemSize>
+		<usPrice>200</usPrice>
+		<ubCoolness>5</ubCoolness>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<BR_NewInventory>2</BR_NewInventory>
+		<AmmoCrate>1</AmmoCrate>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2507</uiIndex>
+		<szItemName>410Ga BS box</szItemName>
+		<szLongItemName>.410Ga Buckshot ammo box</szLongItemName>
+		<szItemDesc>100 rounds of .410Ga Buckshot in a paper box.</szItemDesc>
+		<szBRName>410Ga Buckshot box</szBRName>
+		<szBRDesc>The .410 Buckshot just normally for kids to shoot at squirrels.</szBRDesc>
+		<usItemClass>1024</usItemClass>
+		<ubClassIndex>769</ubClassIndex>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>345</ubGraphicNum>
+		<ubWeight>38</ubWeight>
+		<ItemSize>22</ItemSize>
+		<usPrice>200</usPrice>
+		<ubCoolness>5</ubCoolness>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<BR_NewInventory>5</BR_NewInventory>
+		<AmmoCrate>1</AmmoCrate>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2508</uiIndex>
+		<szItemName>.22 WMR Mag</szItemName>
+		<szLongItemName>.22 WMR Mag, 30</szLongItemName>
+		<szItemDesc>30 rounds of .22 WMR in a pistol magazine.</szItemDesc>
+		<szBRName>.22 WMR Mag 30</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>1024</usItemClass>
+		<ubClassIndex>770</ubClassIndex>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>930</ubGraphicNum>
+		<ubWeight>2</ubWeight>
+		<ubPerPocket>8</ubPerPocket>
+		<ItemSize>12</ItemSize>
+		<usPrice>21</usPrice>
+		<ubCoolness>6</ubCoolness>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2509</uiIndex>
+		<szItemName>.22 V-Max Mag</szItemName>
+		<szLongItemName>.22 V-Max Mag, 30</szLongItemName>
+		<szItemDesc>30 rounds of .22 WMR Remington V-Max in a pistol magazine.</szItemDesc>
+		<szBRName>.22 V-Max Mag 30</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>1024</usItemClass>
+		<ubClassIndex>771</ubClassIndex>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>931</ubGraphicNum>
+		<ubWeight>2</ubWeight>
+		<ubPerPocket>8</ubPerPocket>
+		<ItemSize>12</ItemSize>
+		<usPrice>30</usPrice>
+		<ubCoolness>6</ubCoolness>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2510</uiIndex>
+		<szItemName>.22 WMR box</szItemName>
+		<szLongItemName>.22 WMR ammo box</szLongItemName>
+		<szItemDesc>150 rounds of .22 magnum in an ammo box.</szItemDesc>
+		<szBRName>.22 WMR box</szBRName>
+		<szBRDesc>The .22 Winchester Magnum Rimfire (known as the .22 MAG) is slightly more powerful than the common .22 LR.</szBRDesc>
+		<usItemClass>1024</usItemClass>
+		<ubClassIndex>772</ubClassIndex>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>466</ubGraphicNum>
+		<ubWeight>13</ubWeight>
+		<ItemSize>22</ItemSize>
+		<usPrice>140</usPrice>
+		<ubCoolness>6</ubCoolness>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<BR_NewInventory>2</BR_NewInventory>
+		<AmmoCrate>1</AmmoCrate>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2511</uiIndex>
+		<szItemName>.22 V-Max box</szItemName>
+		<szLongItemName>.22 WMR V-Max ammo box</szLongItemName>
+		<szItemDesc>150 rounds of .22 WMR V-Max in ammo box.</szItemDesc>
+		<szBRName>.22 V-Max box</szBRName>
+		<szBRDesc>.22 WMR V-Max made by Remington, the spitzer bullet that weighs 33 grains. This bullet weight is the reason this load shoots so well.</szBRDesc>
+		<usItemClass>1024</usItemClass>
+		<ubClassIndex>773</ubClassIndex>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>465</ubGraphicNum>
+		<ubWeight>15</ubWeight>
+		<ItemSize>22</ItemSize>
+		<usPrice>200</usPrice>
+		<ubCoolness>6</ubCoolness>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<BR_NewInventory>1</BR_NewInventory>
+		<AmmoCrate>1</AmmoCrate>
 	</ITEM>
 </ITEMLIST>

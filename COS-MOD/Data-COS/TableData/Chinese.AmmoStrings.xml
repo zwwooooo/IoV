@@ -27,8 +27,8 @@
 	</AMMO>
 	<AMMO>
 		<uiIndex>5</uiIndex>
-		<AmmoCaliber>12 gauge</AmmoCaliber>
-		<BRCaliber>12 gauge</BRCaliber>
+		<AmmoCaliber>12 Gauge</AmmoCaliber>
+		<BRCaliber>12 Gauge</BRCaliber>
 	</AMMO>
 	<AMMO>
 		<uiIndex>6</uiIndex>
@@ -427,7 +427,42 @@
 	</AMMO>
 	<AMMO>
 		<uiIndex>85</uiIndex>
-		<AmmoCaliber>8mm Nambu</AmmoCaliber>
-		<BRCaliber>8mm Nambu</BRCaliber>
+		<AmmoCaliber>5.45x39mm MGTS</AmmoCaliber>
+		<BRCaliber>5.45x39mm MGTS</BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>86</uiIndex>
+		<AmmoCaliber>12Ga MAUL</AmmoCaliber>
+		<BRCaliber>12Ga MAUL</BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>87</uiIndex>
+		<AmmoCaliber>5.56x30mm</AmmoCaliber>
+		<BRCaliber>5.56x30mm</BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>88</uiIndex>
+		<AmmoCaliber>14.5x114mm</AmmoCaliber>
+		<BRCaliber>14.5x114mm</BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>89</uiIndex>
+		<AmmoCaliber>7.92x57mm Zwilling</AmmoCaliber>
+		<BRCaliber>7.92x57mm Zwilling</BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>90</uiIndex>
+		<AmmoCaliber>Harpoon</AmmoCaliber>
+		<BRCaliber>Harpoon</BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>91</uiIndex>
+		<AmmoCaliber>410 Gauge</AmmoCaliber>
+		<BRCaliber>410 Gauge</BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>92</uiIndex>
+		<AmmoCaliber>.22 WMR</AmmoCaliber>
+		<BRCaliber>.22 WMR</BRCaliber>
 	</AMMO>
 </AMMOLIST>
