@@ -6250,10 +6250,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>781</uiIndex>
-		<szItemName>SAR-21</szItemName>
-		<szLongItemName>SAR-21</szLongItemName>
+		<szItemName>SAR-21 MMS</szItemName>
+		<szLongItemName>SAR-21 MMS</szLongItemName>
 		<szItemDesc>此型号的SAR21用战术导轨代替了原本的小倍率瞄准镜，现在你可以决定安装说明配件了。</szItemDesc>
-		<szBRName>SAR-21</szBRName>
+		<szBRName>SAR-21 MMS</szBRName>
 		<szBRDesc>此型号的SAR21用战术导轨代替了原本的小倍率瞄准镜，现在你可以决定安装说明配件了。</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -7418,19 +7418,19 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>927</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Nothing</szLongItemName>
-		<szItemDesc>Index 927</szItemDesc>
-		<szBRName>Nothing</szBRName>
-		<szBRDesc>Nothing</szBRDesc>
+		<szItemName>RAW Launch</szItemName>
+		<szLongItemName>MPM-RAW Launch</szLongItemName>
+		<szItemDesc>步枪手攻击武器(RAW)是安装到M16枪口上，发射一个用火箭发动机推进的巨大的球形炸药。</szItemDesc>
+		<szBRName>MPM-RAW Launch</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>928</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Nothing</szLongItemName>
-		<szItemDesc>Index 928</szItemDesc>
-		<szBRName>Nothing</szBRName>
-		<szBRDesc>Nothing</szBRDesc>
+		<szItemName>RAW Grenade</szItemName>
+		<szLongItemName>MPM-RAW Grenade</szLongItemName>
+		<szItemDesc>RAW榴弹是一种直径140mm的火箭发动机推进的爆炸成型破甲装药，能对付坦克或毁坏坚固的建筑，也能炸死一大片敌人。</szItemDesc>
+		<szBRName>MPM-RAW Grenade</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>929</uiIndex>
@@ -20095,5 +20095,69 @@
 		<szItemDesc>这个纸盒装着150发散装的.22 WMR口径的雷明顿V-Max高速弹。</szItemDesc>
 		<szBRName>.22 V-Max box</szBRName>
 		<szBRDesc>.22 WMR口径的V-Max弹由雷明顿生产，这是一种尖头、高速弹，穿透力比普通裸铅弹更强。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2512</uiIndex>
+		<szItemName>23x115mm belt</szItemName>
+		<szLongItemName>23x115mm belt</szLongItemName>
+		<szItemDesc>150 rounds of AM-23 ammunition for Gryazev-Shipunov GSh-6-23M 23mm cannon.</szItemDesc>
+		<szBRName>23x115mm belt</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2513</uiIndex>
+		<szItemName>GSh-6-23M</szItemName>
+		<szLongItemName>GSh-6-23M转管机关炮</szLongItemName>
+		<szItemDesc>俄罗斯战斗机上的自卫武器，经过我们的改装后，你可以把它装到机器人上使用，火力强劲。它只有两个缺点，首先是太重，其次是打得太快。</szItemDesc>
+		<szBRName>Gryazev-Shipunov GSh-6-23M</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2514</uiIndex>
+		<szItemName>Mk18 MOD1</szItemName>
+		<szLongItemName>Mk.18 MOD 1</szLongItemName>
+		<szItemDesc>Mk18在改换成DDL护木后，让枪管保持自由浮置，可以打得更准。这是SOF在阿富汗的最新装备，而且我们每把枪附送一个PEQ15。</szItemDesc>
+		<szBRName>Mk.18 MOD 1</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2515</uiIndex>
+		<szItemName>SAR-21A</szItemName>
+		<szLongItemName>SAR-21A</szLongItemName>
+		<szItemDesc>比起标准型或MMS型的SAR-21短了一点点，使它更灵活，而且重量也更轻，射速也经过提高。</szItemDesc>
+		<szBRName>SAR-21A</szBRName>
+		<szBRDesc>比起标准型或MMS型的SAR-21短了一点点，使它更灵活，而且重量也更轻，射速也经过提高。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2516</uiIndex>
+		<szItemName>Buschman</szItemName>
+		<szLongItemName>Buschman IDW</szLongItemName>
+		<szItemDesc>布希曼冲锋枪的射速可以通过一个电子调速大，从每分钟100发至1400发进行调节，但为了有较低的后坐力和较高的命中精度，出厂时通常是设定在一分钟450发的低射速。</szItemDesc>
+		<szBRName>Buschman IDW</szBRName>
+		<szBRDesc>布希曼冲锋枪的射速可以通过一个电子调速大，从每分钟100发至1400发进行调节，但为了有较低的后坐力和较高的命中精度，出厂时通常是设定在一分钟450发的低射速。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2517</uiIndex>
+		<szItemName>刘庆恩自装枪</szItemName>
+		<szLongItemName>刘庆恩自装枪</szLongItemName>
+		<szItemDesc>刘庆恩自装枪是中国第一种半自动步枪，在美国设计和生产，由于它太古老，我们只能保证它可靠地自动供应5发弹，无法填满6发弹匣。</szItemDesc>
+		<szBRName>Liu Qing En 1916</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2518</uiIndex>
+		<szItemName>Madsen</szItemName>
+		<szLongItemName>Madsen LMG</szLongItemName>
+		<szItemDesc>精巧而复杂的结构，但却出奇地可靠耐用，而且后坐力低，打起来很平稳。</szItemDesc>
+		<szBRName>Madsen LMG</szBRName>
+		<szBRDesc>虽然是100年前的设计，但改成7.62 NATO口径后，还在巴西特警手上用得好好的。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2519</uiIndex>
+		<szItemName>UMP40</szItemName>
+		<szLongItemName>HK UMP40 Fully Armed</szLongItemName>
+		<szItemDesc>这支UMP40安装了消声器、红点镜和前握把。</szItemDesc>
+		<szBRName>HK UMP40 Fully Armed</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 </ITEMLIST>

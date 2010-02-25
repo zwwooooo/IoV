@@ -1524,4 +1524,16 @@
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
 	</EXPLOSIVE>
+	<EXPLOSIVE>
+		<uiIndex>127</uiIndex> <!-- MPM-RAW -->
+		<ubType>0</ubType>
+		<ubDamage>95</ubDamage>
+		<ubStunDamage>50</ubStunDamage>
+		<ubRadius>5</ubRadius>
+		<ubVolume>25</ubVolume>
+		<ubVolatility>1</ubVolatility>
+		<ubAnimationID>2</ubAnimationID>
+		<ubDuration>0</ubDuration>
+		<ubStartRadius>0</ubStartRadius>
+	</EXPLOSIVE>
 </EXPLOSIVELIST>

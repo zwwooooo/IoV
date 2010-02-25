@@ -1473,70 +1473,6 @@
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1031</firstItemIndex> <!-- SCAR Combo -->
-		<secondItemIndex>788</secondItemIndex>
-		<firstResultingItemIndex>652</firstResultingItemIndex>
-		<secondResultingItemIndex>1032</secondResultingItemIndex>
-		<mergeType>4</mergeType>
-		<APCost>40</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1032</firstItemIndex>
-		<secondItemIndex>652</secondItemIndex>
-		<firstResultingItemIndex>788</firstResultingItemIndex>
-		<secondResultingItemIndex>1031</secondResultingItemIndex>
-		<mergeType>4</mergeType>
-		<APCost>40</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1033</firstItemIndex>
-		<secondItemIndex>787</secondItemIndex>
-		<firstResultingItemIndex>651</firstResultingItemIndex>
-		<secondResultingItemIndex>1034</secondResultingItemIndex>
-		<mergeType>4</mergeType>
-		<APCost>40</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1034</firstItemIndex>
-		<secondItemIndex>651</secondItemIndex>
-		<firstResultingItemIndex>787</firstResultingItemIndex>
-		<secondResultingItemIndex>1033</secondResultingItemIndex>
-		<mergeType>4</mergeType>
-		<APCost>40</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1055</firstItemIndex>
-		<secondItemIndex>194</secondItemIndex>
-		<firstResultingItemIndex>1022</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>6</mergeType>
-		<APCost>20</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1055</firstItemIndex>
-		<secondItemIndex>195</secondItemIndex>
-		<firstResultingItemIndex>1022</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>6</mergeType>
-		<APCost>20</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1055</firstItemIndex>
-		<secondItemIndex>291</secondItemIndex>
-		<firstResultingItemIndex>1022</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>6</mergeType>
-		<APCost>20</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1055</firstItemIndex>
-		<secondItemIndex>296</secondItemIndex>
-		<firstResultingItemIndex>1022</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>6</mergeType>
-		<APCost>20</APCost>
-	</MERGE>
-	<MERGE>
 		<firstItemIndex>1631</firstItemIndex>
 		<secondItemIndex>1631</secondItemIndex>
 		<firstResultingItemIndex>1631</firstResultingItemIndex>
@@ -1849,546 +1785,546 @@
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1861</firstItemIndex> <!-- EX16 Mod0 STD con.kits -->
-		<secondItemIndex>1123</secondItemIndex> <!-- EX16 Mod0 CQC -->
-		<firstResultingItemIndex>1122</firstResultingItemIndex> <!-- EX16 Mod0 STD -->
-		<secondResultingItemIndex>1862</secondResultingItemIndex> <!-- EX16 Mod0 CQC con.kits -->
+		<firstItemIndex>1861</firstItemIndex> <!-- Mk16 Mod0 STD con.kits -->
+		<secondItemIndex>1123</secondItemIndex> <!-- Mk16 Mod0 CQC -->
+		<firstResultingItemIndex>1122</firstResultingItemIndex> <!-- Mk16 Mod0 STD -->
+		<secondResultingItemIndex>1862</secondResultingItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1861</firstItemIndex> <!-- EX16 Mod0 STD con.kits -->
-		<secondItemIndex>1124</secondItemIndex> <!-- EX16 Mod0 SV -->
-		<firstResultingItemIndex>1122</firstResultingItemIndex> <!-- EX16 Mod0 STD -->
-		<secondResultingItemIndex>1863</secondResultingItemIndex> <!-- EX16 Mod0 SV con.kits -->
+		<firstItemIndex>1861</firstItemIndex> <!-- Mk16 Mod0 STD con.kits -->
+		<secondItemIndex>1124</secondItemIndex> <!-- Mk16 Mod0 SV -->
+		<firstResultingItemIndex>1122</firstResultingItemIndex> <!-- Mk16 Mod0 STD -->
+		<secondResultingItemIndex>1863</secondResultingItemIndex> <!-- Mk16 Mod0 SV con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1861</firstItemIndex> <!-- EX16 Mod0 STD con.kits -->
-		<secondItemIndex>1128</secondItemIndex> <!-- EX16 Mod1 STD -->
-		<firstResultingItemIndex>1122</firstResultingItemIndex> <!-- EX16 Mod0 STD -->
-		<secondResultingItemIndex>1867</secondResultingItemIndex> <!-- EX16 Mod1 STD con.kits -->
+		<firstItemIndex>1861</firstItemIndex> <!-- Mk16 Mod0 STD con.kits -->
+		<secondItemIndex>1128</secondItemIndex> <!-- Mk16 Mod1 STD -->
+		<firstResultingItemIndex>1122</firstResultingItemIndex> <!-- Mk16 Mod0 STD -->
+		<secondResultingItemIndex>1867</secondResultingItemIndex> <!-- Mk16 Mod1 STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1861</firstItemIndex> <!-- EX16 Mod0 STD con.kits -->
-		<secondItemIndex>1129</secondItemIndex> <!-- EX16 Mod1 CQC -->
-		<firstResultingItemIndex>1122</firstResultingItemIndex> <!-- EX16 Mod0 STD -->
-		<secondResultingItemIndex>1868</secondResultingItemIndex> <!-- EX16 Mod1 CQC con.kits -->
+		<firstItemIndex>1861</firstItemIndex> <!-- Mk16 Mod0 STD con.kits -->
+		<secondItemIndex>1129</secondItemIndex> <!-- Mk16 Mod1 CQC -->
+		<firstResultingItemIndex>1122</firstResultingItemIndex> <!-- Mk16 Mod0 STD -->
+		<secondResultingItemIndex>1868</secondResultingItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1861</firstItemIndex> <!-- EX16 Mod0 STD con.kits -->
-		<secondItemIndex>1130</secondItemIndex> <!-- EX16 Mod1 SV -->
-		<firstResultingItemIndex>1122</firstResultingItemIndex> <!-- EX16 Mod0 STD -->
-		<secondResultingItemIndex>1869</secondResultingItemIndex> <!-- EX16 Mod1 SV con.kits -->
+		<firstItemIndex>1861</firstItemIndex> <!-- Mk16 Mod0 STD con.kits -->
+		<secondItemIndex>1130</secondItemIndex> <!-- Mk16 Mod1 SV -->
+		<firstResultingItemIndex>1122</firstResultingItemIndex> <!-- Mk16 Mod0 STD -->
+		<secondResultingItemIndex>1869</secondResultingItemIndex> <!-- Mk16 Mod1 SV con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1861</firstItemIndex> <!-- EX16 Mod0 STD con.kits -->
-		<secondItemIndex>1131</secondItemIndex> <!-- EX16 Mod47 -->
-		<firstResultingItemIndex>1122</firstResultingItemIndex> <!-- EX16 Mod0 STD -->
-		<secondResultingItemIndex>1870</secondResultingItemIndex> <!-- EX16 Mod47 con.kits -->
+		<firstItemIndex>1861</firstItemIndex> <!-- Mk16 Mod0 STD con.kits -->
+		<secondItemIndex>1131</secondItemIndex> <!-- Mk16 Mod47 -->
+		<firstResultingItemIndex>1122</firstResultingItemIndex> <!-- Mk16 Mod0 STD -->
+		<secondResultingItemIndex>1870</secondResultingItemIndex> <!-- Mk16 Mod47 con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1861</firstItemIndex> <!-- EX16 Mod0 STD con.kits -->
-		<secondItemIndex>1132</secondItemIndex> <!-- EX16 Mod74 -->
-		<firstResultingItemIndex>1122</firstResultingItemIndex> <!-- EX16 Mod0 STD -->
-		<secondResultingItemIndex>1871</secondResultingItemIndex> <!-- EX16 Mod74 con.kits -->
+		<firstItemIndex>1861</firstItemIndex> <!-- Mk16 Mod0 STD con.kits -->
+		<secondItemIndex>1132</secondItemIndex> <!-- Mk16 Mod74 -->
+		<firstResultingItemIndex>1122</firstResultingItemIndex> <!-- Mk16 Mod0 STD -->
+		<secondResultingItemIndex>1871</secondResultingItemIndex> <!-- Mk16 Mod74 con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1862</firstItemIndex> <!-- EX16 Mod0 CQC con.kits -->
-		<secondItemIndex>1122</secondItemIndex> <!-- EX16 Mod0 STD -->
-		<firstResultingItemIndex>1123</firstResultingItemIndex> <!-- EX16 Mod0 CQC -->
-		<secondResultingItemIndex>1861</secondResultingItemIndex> <!-- EX16 Mod0 CQC con.kits -->
+		<firstItemIndex>1862</firstItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
+		<secondItemIndex>1122</secondItemIndex> <!-- Mk16 Mod0 STD -->
+		<firstResultingItemIndex>1123</firstResultingItemIndex> <!-- Mk16 Mod0 CQC -->
+		<secondResultingItemIndex>1861</secondResultingItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1862</firstItemIndex> <!-- EX16 Mod0 CQC con.kits -->
-		<secondItemIndex>1124</secondItemIndex> <!-- EX16 Mod0 SV -->
-		<firstResultingItemIndex>1123</firstResultingItemIndex> <!-- EX16 Mod0 CQC -->
-		<secondResultingItemIndex>1863</secondResultingItemIndex> <!-- EX16 Mod0 SV con.kits -->
+		<firstItemIndex>1862</firstItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
+		<secondItemIndex>1124</secondItemIndex> <!-- Mk16 Mod0 SV -->
+		<firstResultingItemIndex>1123</firstResultingItemIndex> <!-- Mk16 Mod0 CQC -->
+		<secondResultingItemIndex>1863</secondResultingItemIndex> <!-- Mk16 Mod0 SV con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1862</firstItemIndex> <!-- EX16 Mod0 CQC con.kits -->
-		<secondItemIndex>1128</secondItemIndex> <!-- EX16 Mod1 STD -->
-		<firstResultingItemIndex>1123</firstResultingItemIndex> <!-- EX16 Mod0 CQC -->
-		<secondResultingItemIndex>1867</secondResultingItemIndex> <!-- EX16 Mod1 STD con.kits -->
+		<firstItemIndex>1862</firstItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
+		<secondItemIndex>1128</secondItemIndex> <!-- Mk16 Mod1 STD -->
+		<firstResultingItemIndex>1123</firstResultingItemIndex> <!-- Mk16 Mod0 CQC -->
+		<secondResultingItemIndex>1867</secondResultingItemIndex> <!-- Mk16 Mod1 STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1862</firstItemIndex> <!-- EX16 Mod0 CQC con.kits -->
-		<secondItemIndex>1129</secondItemIndex> <!-- EX16 Mod1 CQC -->
-		<firstResultingItemIndex>1123</firstResultingItemIndex> <!-- EX16 Mod0 CQC -->
-		<secondResultingItemIndex>1868</secondResultingItemIndex> <!-- EX16 Mod1 CQC con.kits -->
+		<firstItemIndex>1862</firstItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
+		<secondItemIndex>1129</secondItemIndex> <!-- Mk16 Mod1 CQC -->
+		<firstResultingItemIndex>1123</firstResultingItemIndex> <!-- Mk16 Mod0 CQC -->
+		<secondResultingItemIndex>1868</secondResultingItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1862</firstItemIndex> <!-- EX16 Mod0 CQC con.kits -->
-		<secondItemIndex>1130</secondItemIndex> <!-- EX16 Mod1 SV -->
-		<firstResultingItemIndex>1123</firstResultingItemIndex> <!-- EX16 Mod0 CQC -->
-		<secondResultingItemIndex>1869</secondResultingItemIndex> <!-- EX16 Mod1 SV con.kits -->
+		<firstItemIndex>1862</firstItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
+		<secondItemIndex>1130</secondItemIndex> <!-- Mk16 Mod1 SV -->
+		<firstResultingItemIndex>1123</firstResultingItemIndex> <!-- Mk16 Mod0 CQC -->
+		<secondResultingItemIndex>1869</secondResultingItemIndex> <!-- Mk16 Mod1 SV con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1862</firstItemIndex> <!-- EX16 Mod0 CQC con.kits -->
-		<secondItemIndex>1131</secondItemIndex> <!-- EX16 Mod47 -->
-		<firstResultingItemIndex>1123</firstResultingItemIndex> <!-- EX16 Mod0 CQC -->
-		<secondResultingItemIndex>1870</secondResultingItemIndex> <!-- EX16 Mod47 con.kits -->
+		<firstItemIndex>1862</firstItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
+		<secondItemIndex>1131</secondItemIndex> <!-- Mk16 Mod47 -->
+		<firstResultingItemIndex>1123</firstResultingItemIndex> <!-- Mk16 Mod0 CQC -->
+		<secondResultingItemIndex>1870</secondResultingItemIndex> <!-- Mk16 Mod47 con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1862</firstItemIndex> <!-- EX16 Mod0 CQC con.kits -->
-		<secondItemIndex>1132</secondItemIndex> <!-- EX16 Mod74 -->
-		<firstResultingItemIndex>1123</firstResultingItemIndex> <!-- EX16 Mod0 CQC -->
-		<secondResultingItemIndex>1871</secondResultingItemIndex> <!-- EX16 Mod74 con.kits -->
+		<firstItemIndex>1862</firstItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
+		<secondItemIndex>1132</secondItemIndex> <!-- Mk16 Mod74 -->
+		<firstResultingItemIndex>1123</firstResultingItemIndex> <!-- Mk16 Mod0 CQC -->
+		<secondResultingItemIndex>1871</secondResultingItemIndex> <!-- Mk16 Mod74 con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1863</firstItemIndex> <!-- EX16 Mod0 SV con.kits -->
-		<secondItemIndex>1122</secondItemIndex> <!-- EX16 Mod0 STD -->
-		<firstResultingItemIndex>1124</firstResultingItemIndex> <!-- EX16 Mod0 SV -->
-		<secondResultingItemIndex>1861</secondResultingItemIndex> <!-- EX16 Mod0 SV con.kits -->
+		<firstItemIndex>1863</firstItemIndex> <!-- Mk16 Mod0 SV con.kits -->
+		<secondItemIndex>1122</secondItemIndex> <!-- Mk16 Mod0 STD -->
+		<firstResultingItemIndex>1124</firstResultingItemIndex> <!-- Mk16 Mod0 SV -->
+		<secondResultingItemIndex>1861</secondResultingItemIndex> <!-- Mk16 Mod0 SV con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1863</firstItemIndex> <!-- EX16 Mod0 SV con.kits -->
-		<secondItemIndex>1123</secondItemIndex> <!-- EX16 Mod0 CQC -->
-		<firstResultingItemIndex>1124</firstResultingItemIndex> <!-- EX16 Mod0 SV -->
-		<secondResultingItemIndex>1862</secondResultingItemIndex> <!-- EX16 Mod0 CQC con.kits -->
+		<firstItemIndex>1863</firstItemIndex> <!-- Mk16 Mod0 SV con.kits -->
+		<secondItemIndex>1123</secondItemIndex> <!-- Mk16 Mod0 CQC -->
+		<firstResultingItemIndex>1124</firstResultingItemIndex> <!-- Mk16 Mod0 SV -->
+		<secondResultingItemIndex>1862</secondResultingItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1863</firstItemIndex> <!-- EX16 Mod0 SV con.kits -->
-		<secondItemIndex>1128</secondItemIndex> <!-- EX16 Mod1 STD -->
-		<firstResultingItemIndex>1124</firstResultingItemIndex> <!-- EX16 Mod0 SV -->
-		<secondResultingItemIndex>1867</secondResultingItemIndex> <!-- EX16 Mod1 STD con.kits -->
+		<firstItemIndex>1863</firstItemIndex> <!-- Mk16 Mod0 SV con.kits -->
+		<secondItemIndex>1128</secondItemIndex> <!-- Mk16 Mod1 STD -->
+		<firstResultingItemIndex>1124</firstResultingItemIndex> <!-- Mk16 Mod0 SV -->
+		<secondResultingItemIndex>1867</secondResultingItemIndex> <!-- Mk16 Mod1 STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1863</firstItemIndex> <!-- EX16 Mod0 SV con.kits -->
-		<secondItemIndex>1129</secondItemIndex> <!-- EX16 Mod1 CQC -->
-		<firstResultingItemIndex>1124</firstResultingItemIndex> <!-- EX16 Mod0 SV -->
-		<secondResultingItemIndex>1868</secondResultingItemIndex> <!-- EX16 Mod1 CQC con.kits -->
+		<firstItemIndex>1863</firstItemIndex> <!-- Mk16 Mod0 SV con.kits -->
+		<secondItemIndex>1129</secondItemIndex> <!-- Mk16 Mod1 CQC -->
+		<firstResultingItemIndex>1124</firstResultingItemIndex> <!-- Mk16 Mod0 SV -->
+		<secondResultingItemIndex>1868</secondResultingItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1863</firstItemIndex> <!-- EX16 Mod0 SV con.kits -->
-		<secondItemIndex>1130</secondItemIndex> <!-- EX16 Mod1 SV -->
-		<firstResultingItemIndex>1124</firstResultingItemIndex> <!-- EX16 Mod0 SV -->
-		<secondResultingItemIndex>1869</secondResultingItemIndex> <!-- EX16 Mod1 SV con.kits -->
+		<firstItemIndex>1863</firstItemIndex> <!-- Mk16 Mod0 SV con.kits -->
+		<secondItemIndex>1130</secondItemIndex> <!-- Mk16 Mod1 SV -->
+		<firstResultingItemIndex>1124</firstResultingItemIndex> <!-- Mk16 Mod0 SV -->
+		<secondResultingItemIndex>1869</secondResultingItemIndex> <!-- Mk16 Mod1 SV con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1863</firstItemIndex> <!-- EX16 Mod0 SV con.kits -->
-		<secondItemIndex>1131</secondItemIndex> <!-- EX16 Mod47 -->
-		<firstResultingItemIndex>1124</firstResultingItemIndex> <!-- EX16 Mod0 SV -->
-		<secondResultingItemIndex>1870</secondResultingItemIndex> <!-- EX16 Mod47 con.kits -->
+		<firstItemIndex>1863</firstItemIndex> <!-- Mk16 Mod0 SV con.kits -->
+		<secondItemIndex>1131</secondItemIndex> <!-- Mk16 Mod47 -->
+		<firstResultingItemIndex>1124</firstResultingItemIndex> <!-- Mk16 Mod0 SV -->
+		<secondResultingItemIndex>1870</secondResultingItemIndex> <!-- Mk16 Mod47 con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1863</firstItemIndex> <!-- EX16 Mod0 SV con.kits -->
-		<secondItemIndex>1132</secondItemIndex> <!-- EX16 Mod74 -->
-		<firstResultingItemIndex>1124</firstResultingItemIndex> <!-- EX16 Mod0 SV -->
-		<secondResultingItemIndex>1871</secondResultingItemIndex> <!-- EX16 Mod74 con.kits -->
+		<firstItemIndex>1863</firstItemIndex> <!-- Mk16 Mod0 SV con.kits -->
+		<secondItemIndex>1132</secondItemIndex> <!-- Mk16 Mod74 -->
+		<firstResultingItemIndex>1124</firstResultingItemIndex> <!-- Mk16 Mod0 SV -->
+		<secondResultingItemIndex>1871</secondResultingItemIndex> <!-- Mk16 Mod74 con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1864</firstItemIndex> <!-- EX17 Mod0 STD con.kits -->
-		<secondItemIndex>1126</secondItemIndex> <!-- EX17 Mod0 CQC -->
-		<firstResultingItemIndex>1125</firstResultingItemIndex> <!-- EX17 Mod0 STD -->
-		<secondResultingItemIndex>1865</secondResultingItemIndex> <!-- EX17 Mod0 CQC con.kits -->
+		<firstItemIndex>1864</firstItemIndex> <!-- Mk17 Mod0 STD con.kits -->
+		<secondItemIndex>1126</secondItemIndex> <!-- Mk17 Mod0 CQC -->
+		<firstResultingItemIndex>1125</firstResultingItemIndex> <!-- Mk17 Mod0 STD -->
+		<secondResultingItemIndex>1865</secondResultingItemIndex> <!-- Mk17 Mod0 CQC con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1864</firstItemIndex> <!-- EX17 Mod0 STD con.kits -->
-		<secondItemIndex>1127</secondItemIndex> <!-- EX17 Mod0 SV -->
-		<firstResultingItemIndex>1125</firstResultingItemIndex> <!-- EX17 Mod0 STD -->
-		<secondResultingItemIndex>1866</secondResultingItemIndex> <!-- EX17 Mod0 SV con.kits -->
+		<firstItemIndex>1864</firstItemIndex> <!-- Mk17 Mod0 STD con.kits -->
+		<secondItemIndex>1127</secondItemIndex> <!-- Mk17 Mod0 SV -->
+		<firstResultingItemIndex>1125</firstResultingItemIndex> <!-- Mk17 Mod0 STD -->
+		<secondResultingItemIndex>1866</secondResultingItemIndex> <!-- Mk17 Mod0 SV con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1864</firstItemIndex> <!-- EX17 Mod0 STD con.kits -->
-		<secondItemIndex>1133</secondItemIndex> <!-- EX17 Mod1 SV -->
-		<firstResultingItemIndex>1125</firstResultingItemIndex> <!-- EX17 Mod0 STD -->
-		<secondResultingItemIndex>1872</secondResultingItemIndex> <!-- EX17 Mod1 SV con.kits -->
+		<firstItemIndex>1864</firstItemIndex> <!-- Mk17 Mod0 STD con.kits -->
+		<secondItemIndex>1133</secondItemIndex> <!-- Mk17 Mod1 SV -->
+		<firstResultingItemIndex>1125</firstResultingItemIndex> <!-- Mk17 Mod0 STD -->
+		<secondResultingItemIndex>1872</secondResultingItemIndex> <!-- Mk17 Mod1 SV con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1865</firstItemIndex> <!-- EX17 Mod0 CQC con.kits -->
-		<secondItemIndex>1125</secondItemIndex> <!-- EX17 Mod0 STD -->
-		<firstResultingItemIndex>1126</firstResultingItemIndex> <!-- EX17 Mod0 CQC -->
-		<secondResultingItemIndex>1864</secondResultingItemIndex> <!-- EX17 Mod0 STD con.kits -->
+		<firstItemIndex>1865</firstItemIndex> <!-- Mk17 Mod0 CQC con.kits -->
+		<secondItemIndex>1125</secondItemIndex> <!-- Mk17 Mod0 STD -->
+		<firstResultingItemIndex>1126</firstResultingItemIndex> <!-- Mk17 Mod0 CQC -->
+		<secondResultingItemIndex>1864</secondResultingItemIndex> <!-- Mk17 Mod0 STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1865</firstItemIndex> <!-- EX17 Mod0 CQC con.kits -->
-		<secondItemIndex>1127</secondItemIndex> <!-- EX17 Mod0 SV -->
-		<firstResultingItemIndex>1126</firstResultingItemIndex> <!-- EX17 Mod0 CQC -->
-		<secondResultingItemIndex>1866</secondResultingItemIndex> <!-- EX17 Mod0 SV con.kits -->
+		<firstItemIndex>1865</firstItemIndex> <!-- Mk17 Mod0 CQC con.kits -->
+		<secondItemIndex>1127</secondItemIndex> <!-- Mk17 Mod0 SV -->
+		<firstResultingItemIndex>1126</firstResultingItemIndex> <!-- Mk17 Mod0 CQC -->
+		<secondResultingItemIndex>1866</secondResultingItemIndex> <!-- Mk17 Mod0 SV con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1865</firstItemIndex> <!-- EX17 Mod0 CQC con.kits -->
-		<secondItemIndex>1133</secondItemIndex> <!-- EX17 Mod1 SV -->
-		<firstResultingItemIndex>1126</firstResultingItemIndex> <!-- EX17 Mod0 CQC -->
-		<secondResultingItemIndex>1872</secondResultingItemIndex> <!-- EX17 Mod1 SV con.kits -->
+		<firstItemIndex>1865</firstItemIndex> <!-- Mk17 Mod0 CQC con.kits -->
+		<secondItemIndex>1133</secondItemIndex> <!-- Mk17 Mod1 SV -->
+		<firstResultingItemIndex>1126</firstResultingItemIndex> <!-- Mk17 Mod0 CQC -->
+		<secondResultingItemIndex>1872</secondResultingItemIndex> <!-- Mk17 Mod1 SV con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1866</firstItemIndex> <!-- EX17 Mod0 SV con.kits -->
-		<secondItemIndex>1125</secondItemIndex> <!-- EX17 Mod0 STD -->
-		<firstResultingItemIndex>1127</firstResultingItemIndex> <!-- EX17 Mod0 SV -->
-		<secondResultingItemIndex>1864</secondResultingItemIndex> <!-- EX17 Mod0 STD con.kits -->
+		<firstItemIndex>1866</firstItemIndex> <!-- Mk17 Mod0 SV con.kits -->
+		<secondItemIndex>1125</secondItemIndex> <!-- Mk17 Mod0 STD -->
+		<firstResultingItemIndex>1127</firstResultingItemIndex> <!-- Mk17 Mod0 SV -->
+		<secondResultingItemIndex>1864</secondResultingItemIndex> <!-- Mk17 Mod0 STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1866</firstItemIndex> <!-- EX17 Mod0 SV con.kits -->
-		<secondItemIndex>1126</secondItemIndex> <!-- EX17 Mod0 CQC -->
-		<firstResultingItemIndex>1127</firstResultingItemIndex> <!-- EX17 Mod0 SV -->
-		<secondResultingItemIndex>1865</secondResultingItemIndex> <!-- EX17 Mod0 CQC con.kits -->
+		<firstItemIndex>1866</firstItemIndex> <!-- Mk17 Mod0 SV con.kits -->
+		<secondItemIndex>1126</secondItemIndex> <!-- Mk17 Mod0 CQC -->
+		<firstResultingItemIndex>1127</firstResultingItemIndex> <!-- Mk17 Mod0 SV -->
+		<secondResultingItemIndex>1865</secondResultingItemIndex> <!-- Mk17 Mod0 CQC con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1866</firstItemIndex> <!-- EX17 Mod0 SV con.kits -->
-		<secondItemIndex>1133</secondItemIndex> <!-- EX17 Mod1 SV -->
-		<firstResultingItemIndex>1127</firstResultingItemIndex> <!-- EX17 Mod0 SV -->
-		<secondResultingItemIndex>1872</secondResultingItemIndex> <!-- EX17 Mod1 SV con.kits -->
+		<firstItemIndex>1866</firstItemIndex> <!-- Mk17 Mod0 SV con.kits -->
+		<secondItemIndex>1133</secondItemIndex> <!-- Mk17 Mod1 SV -->
+		<firstResultingItemIndex>1127</firstResultingItemIndex> <!-- Mk17 Mod0 SV -->
+		<secondResultingItemIndex>1872</secondResultingItemIndex> <!-- Mk17 Mod1 SV con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1867</firstItemIndex> <!-- EX16 Mod1 STD con.kits -->
-		<secondItemIndex>1122</secondItemIndex> <!-- EX16 Mod0 STD -->
-		<firstResultingItemIndex>1128</firstResultingItemIndex> <!-- EX16 Mod1 STD -->
-		<secondResultingItemIndex>1861</secondResultingItemIndex> <!-- EX16 Mod0 STD con.kits -->
+		<firstItemIndex>1867</firstItemIndex> <!-- Mk16 Mod1 STD con.kits -->
+		<secondItemIndex>1122</secondItemIndex> <!-- Mk16 Mod0 STD -->
+		<firstResultingItemIndex>1128</firstResultingItemIndex> <!-- Mk16 Mod1 STD -->
+		<secondResultingItemIndex>1861</secondResultingItemIndex> <!-- Mk16 Mod0 STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1867</firstItemIndex> <!-- EX16 Mod1 STD con.kits -->
-		<secondItemIndex>1123</secondItemIndex> <!-- EX16 Mod0 CQC -->
-		<firstResultingItemIndex>1128</firstResultingItemIndex> <!-- EX16 Mod1 STD -->
-		<secondResultingItemIndex>1862</secondResultingItemIndex> <!-- EX16 Mod0 CQC con.kits -->
+		<firstItemIndex>1867</firstItemIndex> <!-- Mk16 Mod1 STD con.kits -->
+		<secondItemIndex>1123</secondItemIndex> <!-- Mk16 Mod0 CQC -->
+		<firstResultingItemIndex>1128</firstResultingItemIndex> <!-- Mk16 Mod1 STD -->
+		<secondResultingItemIndex>1862</secondResultingItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1867</firstItemIndex> <!-- EX16 Mod1 STD con.kits -->
-		<secondItemIndex>1124</secondItemIndex> <!-- EX16 Mod0 SV -->
-		<firstResultingItemIndex>1128</firstResultingItemIndex> <!-- EX16 Mod1 STD -->
-		<secondResultingItemIndex>1863</secondResultingItemIndex> <!-- EX16 Mod0 SV con.kits -->
+		<firstItemIndex>1867</firstItemIndex> <!-- Mk16 Mod1 STD con.kits -->
+		<secondItemIndex>1124</secondItemIndex> <!-- Mk16 Mod0 SV -->
+		<firstResultingItemIndex>1128</firstResultingItemIndex> <!-- Mk16 Mod1 STD -->
+		<secondResultingItemIndex>1863</secondResultingItemIndex> <!-- Mk16 Mod0 SV con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1867</firstItemIndex> <!-- EX16 Mod1 STD con.kits -->
-		<secondItemIndex>1129</secondItemIndex> <!-- EX16 Mod1 CQC -->
-		<firstResultingItemIndex>1128</firstResultingItemIndex> <!-- EX16 Mod1 STD -->
-		<secondResultingItemIndex>1868</secondResultingItemIndex> <!-- EX16 Mod1 CQC con.kits -->
+		<firstItemIndex>1867</firstItemIndex> <!-- Mk16 Mod1 STD con.kits -->
+		<secondItemIndex>1129</secondItemIndex> <!-- Mk16 Mod1 CQC -->
+		<firstResultingItemIndex>1128</firstResultingItemIndex> <!-- Mk16 Mod1 STD -->
+		<secondResultingItemIndex>1868</secondResultingItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1867</firstItemIndex> <!-- EX16 Mod1 STD con.kits -->
-		<secondItemIndex>1130</secondItemIndex> <!-- EX16 Mod1 SV -->
-		<firstResultingItemIndex>1128</firstResultingItemIndex> <!-- EX16 Mod1 STD -->
-		<secondResultingItemIndex>1869</secondResultingItemIndex> <!-- EX16 Mod1 SV con.kits -->
+		<firstItemIndex>1867</firstItemIndex> <!-- Mk16 Mod1 STD con.kits -->
+		<secondItemIndex>1130</secondItemIndex> <!-- Mk16 Mod1 SV -->
+		<firstResultingItemIndex>1128</firstResultingItemIndex> <!-- Mk16 Mod1 STD -->
+		<secondResultingItemIndex>1869</secondResultingItemIndex> <!-- Mk16 Mod1 SV con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1867</firstItemIndex> <!-- EX16 Mod1 STD con.kits -->
-		<secondItemIndex>1131</secondItemIndex> <!-- EX16 Mod47 -->
-		<firstResultingItemIndex>1128</firstResultingItemIndex> <!-- EX16 Mod1 STD -->
-		<secondResultingItemIndex>1870</secondResultingItemIndex> <!-- EX16 Mod47 con.kits -->
+		<firstItemIndex>1867</firstItemIndex> <!-- Mk16 Mod1 STD con.kits -->
+		<secondItemIndex>1131</secondItemIndex> <!-- Mk16 Mod47 -->
+		<firstResultingItemIndex>1128</firstResultingItemIndex> <!-- Mk16 Mod1 STD -->
+		<secondResultingItemIndex>1870</secondResultingItemIndex> <!-- Mk16 Mod47 con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1867</firstItemIndex> <!-- EX16 Mod1 STD con.kits -->
-		<secondItemIndex>1132</secondItemIndex> <!-- EX16 Mod74 -->
-		<firstResultingItemIndex>1128</firstResultingItemIndex> <!-- EX16 Mod1 STD -->
-		<secondResultingItemIndex>1871</secondResultingItemIndex> <!-- EX16 Mod74 con.kits -->
+		<firstItemIndex>1867</firstItemIndex> <!-- Mk16 Mod1 STD con.kits -->
+		<secondItemIndex>1132</secondItemIndex> <!-- Mk16 Mod74 -->
+		<firstResultingItemIndex>1128</firstResultingItemIndex> <!-- Mk16 Mod1 STD -->
+		<secondResultingItemIndex>1871</secondResultingItemIndex> <!-- Mk16 Mod74 con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1868</firstItemIndex> <!-- EX16 Mod1 CQC con.kits -->
-		<secondItemIndex>1122</secondItemIndex> <!-- EX16 Mod0 STD -->
-		<firstResultingItemIndex>1129</firstResultingItemIndex> <!-- EX16 Mod1 CQC -->
-		<secondResultingItemIndex>1861</secondResultingItemIndex> <!-- EX16 Mod0 STD con.kits -->
+		<firstItemIndex>1868</firstItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
+		<secondItemIndex>1122</secondItemIndex> <!-- Mk16 Mod0 STD -->
+		<firstResultingItemIndex>1129</firstResultingItemIndex> <!-- Mk16 Mod1 CQC -->
+		<secondResultingItemIndex>1861</secondResultingItemIndex> <!-- Mk16 Mod0 STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1868</firstItemIndex> <!-- EX16 Mod1 CQC con.kits -->
-		<secondItemIndex>1123</secondItemIndex> <!-- EX16 Mod0 CQC -->
-		<firstResultingItemIndex>1129</firstResultingItemIndex> <!-- EX16 Mod1 CQC -->
-		<secondResultingItemIndex>1862</secondResultingItemIndex> <!-- EX16 Mod0 CQC con.kits -->
+		<firstItemIndex>1868</firstItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
+		<secondItemIndex>1123</secondItemIndex> <!-- Mk16 Mod0 CQC -->
+		<firstResultingItemIndex>1129</firstResultingItemIndex> <!-- Mk16 Mod1 CQC -->
+		<secondResultingItemIndex>1862</secondResultingItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1868</firstItemIndex> <!-- EX16 Mod1 CQC con.kits -->
-		<secondItemIndex>1124</secondItemIndex> <!-- EX16 Mod0 SV -->
-		<firstResultingItemIndex>1129</firstResultingItemIndex> <!-- EX16 Mod1 CQC -->
-		<secondResultingItemIndex>1863</secondResultingItemIndex> <!-- EX16 Mod0 SV con.kits -->
+		<firstItemIndex>1868</firstItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
+		<secondItemIndex>1124</secondItemIndex> <!-- Mk16 Mod0 SV -->
+		<firstResultingItemIndex>1129</firstResultingItemIndex> <!-- Mk16 Mod1 CQC -->
+		<secondResultingItemIndex>1863</secondResultingItemIndex> <!-- Mk16 Mod0 SV con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1868</firstItemIndex> <!-- EX16 Mod1 CQC con.kits -->
-		<secondItemIndex>1128</secondItemIndex> <!-- EX16 Mod1 STD -->
-		<firstResultingItemIndex>1129</firstResultingItemIndex> <!-- EX16 Mod1 CQC -->
-		<secondResultingItemIndex>1867</secondResultingItemIndex> <!-- EX16 Mod1 STD con.kits -->
+		<firstItemIndex>1868</firstItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
+		<secondItemIndex>1128</secondItemIndex> <!-- Mk16 Mod1 STD -->
+		<firstResultingItemIndex>1129</firstResultingItemIndex> <!-- Mk16 Mod1 CQC -->
+		<secondResultingItemIndex>1867</secondResultingItemIndex> <!-- Mk16 Mod1 STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1868</firstItemIndex> <!-- EX16 Mod1 CQC con.kits -->
-		<secondItemIndex>1130</secondItemIndex> <!-- EX16 Mod1 SV -->
-		<firstResultingItemIndex>1129</firstResultingItemIndex> <!-- EX16 Mod1 CQC -->
-		<secondResultingItemIndex>1869</secondResultingItemIndex> <!-- EX16 Mod1 SV con.kits -->
+		<firstItemIndex>1868</firstItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
+		<secondItemIndex>1130</secondItemIndex> <!-- Mk16 Mod1 SV -->
+		<firstResultingItemIndex>1129</firstResultingItemIndex> <!-- Mk16 Mod1 CQC -->
+		<secondResultingItemIndex>1869</secondResultingItemIndex> <!-- Mk16 Mod1 SV con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1868</firstItemIndex> <!-- EX16 Mod1 CQC con.kits -->
-		<secondItemIndex>1131</secondItemIndex> <!-- EX16 Mod47 -->
-		<firstResultingItemIndex>1129</firstResultingItemIndex> <!-- EX16 Mod1 CQC -->
-		<secondResultingItemIndex>1870</secondResultingItemIndex> <!-- EX16 Mod47 con.kits -->
+		<firstItemIndex>1868</firstItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
+		<secondItemIndex>1131</secondItemIndex> <!-- Mk16 Mod47 -->
+		<firstResultingItemIndex>1129</firstResultingItemIndex> <!-- Mk16 Mod1 CQC -->
+		<secondResultingItemIndex>1870</secondResultingItemIndex> <!-- Mk16 Mod47 con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1868</firstItemIndex> <!-- EX16 Mod1 CQC con.kits -->
-		<secondItemIndex>1132</secondItemIndex> <!-- EX16 Mod74 -->
-		<firstResultingItemIndex>1129</firstResultingItemIndex> <!-- EX16 Mod1 CQC -->
-		<secondResultingItemIndex>1871</secondResultingItemIndex> <!-- EX16 Mod74 con.kits -->
+		<firstItemIndex>1868</firstItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
+		<secondItemIndex>1132</secondItemIndex> <!-- Mk16 Mod74 -->
+		<firstResultingItemIndex>1129</firstResultingItemIndex> <!-- Mk16 Mod1 CQC -->
+		<secondResultingItemIndex>1871</secondResultingItemIndex> <!-- Mk16 Mod74 con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1869</firstItemIndex> <!-- EX16 Mod1 SV con.kits -->
-		<secondItemIndex>1122</secondItemIndex> <!-- EX16 Mod0 STD -->
-		<firstResultingItemIndex>1130</firstResultingItemIndex> <!-- EX16 Mod1 SV -->
-		<secondResultingItemIndex>1861</secondResultingItemIndex> <!-- EX16 Mod0 STD con.kits -->
+		<firstItemIndex>1869</firstItemIndex> <!-- Mk16 Mod1 SV con.kits -->
+		<secondItemIndex>1122</secondItemIndex> <!-- Mk16 Mod0 STD -->
+		<firstResultingItemIndex>1130</firstResultingItemIndex> <!-- Mk16 Mod1 SV -->
+		<secondResultingItemIndex>1861</secondResultingItemIndex> <!-- Mk16 Mod0 STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1869</firstItemIndex> <!-- EX16 Mod1 SV con.kits -->
-		<secondItemIndex>1123</secondItemIndex> <!-- EX16 Mod0 CQC -->
-		<firstResultingItemIndex>1130</firstResultingItemIndex> <!-- EX16 Mod1 SV -->
-		<secondResultingItemIndex>1862</secondResultingItemIndex> <!-- EX16 Mod0 CQC con.kits -->
+		<firstItemIndex>1869</firstItemIndex> <!-- Mk16 Mod1 SV con.kits -->
+		<secondItemIndex>1123</secondItemIndex> <!-- Mk16 Mod0 CQC -->
+		<firstResultingItemIndex>1130</firstResultingItemIndex> <!-- Mk16 Mod1 SV -->
+		<secondResultingItemIndex>1862</secondResultingItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1869</firstItemIndex> <!-- EX16 Mod1 SV con.kits -->
-		<secondItemIndex>1124</secondItemIndex> <!-- EX16 Mod0 SV -->
-		<firstResultingItemIndex>1130</firstResultingItemIndex> <!-- EX16 Mod1 SV -->
-		<secondResultingItemIndex>1863</secondResultingItemIndex> <!-- EX16 Mod0 SV con.kits -->
+		<firstItemIndex>1869</firstItemIndex> <!-- Mk16 Mod1 SV con.kits -->
+		<secondItemIndex>1124</secondItemIndex> <!-- Mk16 Mod0 SV -->
+		<firstResultingItemIndex>1130</firstResultingItemIndex> <!-- Mk16 Mod1 SV -->
+		<secondResultingItemIndex>1863</secondResultingItemIndex> <!-- Mk16 Mod0 SV con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1869</firstItemIndex> <!-- EX16 Mod1 SV con.kits -->
-		<secondItemIndex>1128</secondItemIndex> <!-- EX16 Mod1 STD -->
-		<firstResultingItemIndex>1130</firstResultingItemIndex> <!-- EX16 Mod1 SV -->
-		<secondResultingItemIndex>1867</secondResultingItemIndex> <!-- EX16 Mod1 STD con.kits -->
+		<firstItemIndex>1869</firstItemIndex> <!-- Mk16 Mod1 SV con.kits -->
+		<secondItemIndex>1128</secondItemIndex> <!-- Mk16 Mod1 STD -->
+		<firstResultingItemIndex>1130</firstResultingItemIndex> <!-- Mk16 Mod1 SV -->
+		<secondResultingItemIndex>1867</secondResultingItemIndex> <!-- Mk16 Mod1 STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1869</firstItemIndex> <!-- EX16 Mod1 SV con.kits -->
-		<secondItemIndex>1129</secondItemIndex> <!-- EX16 Mod1 CQC -->
-		<firstResultingItemIndex>1130</firstResultingItemIndex> <!-- EX16 Mod1 SV -->
-		<secondResultingItemIndex>1868</secondResultingItemIndex> <!-- EX16 Mod1 CQC con.kits -->
+		<firstItemIndex>1869</firstItemIndex> <!-- Mk16 Mod1 SV con.kits -->
+		<secondItemIndex>1129</secondItemIndex> <!-- Mk16 Mod1 CQC -->
+		<firstResultingItemIndex>1130</firstResultingItemIndex> <!-- Mk16 Mod1 SV -->
+		<secondResultingItemIndex>1868</secondResultingItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1869</firstItemIndex> <!-- EX16 Mod1 SV con.kits -->
-		<secondItemIndex>1131</secondItemIndex> <!-- EX16 Mod47 -->
-		<firstResultingItemIndex>1130</firstResultingItemIndex> <!-- EX16 Mod1 SV -->
-		<secondResultingItemIndex>1870</secondResultingItemIndex> <!-- EX16 Mod47 con.kits -->
+		<firstItemIndex>1869</firstItemIndex> <!-- Mk16 Mod1 SV con.kits -->
+		<secondItemIndex>1131</secondItemIndex> <!-- Mk16 Mod47 -->
+		<firstResultingItemIndex>1130</firstResultingItemIndex> <!-- Mk16 Mod1 SV -->
+		<secondResultingItemIndex>1870</secondResultingItemIndex> <!-- Mk16 Mod47 con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1869</firstItemIndex> <!-- EX16 Mod1 SV con.kits -->
-		<secondItemIndex>1132</secondItemIndex> <!-- EX16 Mod74 -->
-		<firstResultingItemIndex>1130</firstResultingItemIndex> <!-- EX16 Mod1 SV -->
-		<secondResultingItemIndex>1871</secondResultingItemIndex> <!-- EX16 Mod74 con.kits -->
+		<firstItemIndex>1869</firstItemIndex> <!-- Mk16 Mod1 SV con.kits -->
+		<secondItemIndex>1132</secondItemIndex> <!-- Mk16 Mod74 -->
+		<firstResultingItemIndex>1130</firstResultingItemIndex> <!-- Mk16 Mod1 SV -->
+		<secondResultingItemIndex>1871</secondResultingItemIndex> <!-- Mk16 Mod74 con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1870</firstItemIndex> <!-- EX16 Mod47 con.kits -->
-		<secondItemIndex>1122</secondItemIndex> <!-- EX16 Mod0 STD -->
-		<firstResultingItemIndex>1131</firstResultingItemIndex> <!-- EX16 Mod47 -->
-		<secondResultingItemIndex>1861</secondResultingItemIndex> <!-- EX16 Mod0 STD con.kits -->
+		<firstItemIndex>1870</firstItemIndex> <!-- Mk16 Mod47 con.kits -->
+		<secondItemIndex>1122</secondItemIndex> <!-- Mk16 Mod0 STD -->
+		<firstResultingItemIndex>1131</firstResultingItemIndex> <!-- Mk16 Mod47 -->
+		<secondResultingItemIndex>1861</secondResultingItemIndex> <!-- Mk16 Mod0 STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1870</firstItemIndex> <!-- EX16 Mod47 con.kits -->
-		<secondItemIndex>1123</secondItemIndex> <!-- EX16 Mod0 CQC -->
-		<firstResultingItemIndex>1131</firstResultingItemIndex> <!-- EX16 Mod47 -->
-		<secondResultingItemIndex>1862</secondResultingItemIndex> <!-- EX16 Mod0 CQC con.kits -->
+		<firstItemIndex>1870</firstItemIndex> <!-- Mk16 Mod47 con.kits -->
+		<secondItemIndex>1123</secondItemIndex> <!-- Mk16 Mod0 CQC -->
+		<firstResultingItemIndex>1131</firstResultingItemIndex> <!-- Mk16 Mod47 -->
+		<secondResultingItemIndex>1862</secondResultingItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1870</firstItemIndex> <!-- EX16 Mod47 con.kits -->
-		<secondItemIndex>1124</secondItemIndex> <!-- EX16 Mod0 SV -->
-		<firstResultingItemIndex>1131</firstResultingItemIndex> <!-- EX16 Mod47 -->
-		<secondResultingItemIndex>1863</secondResultingItemIndex> <!-- EX16 Mod0 SV con.kits -->
+		<firstItemIndex>1870</firstItemIndex> <!-- Mk16 Mod47 con.kits -->
+		<secondItemIndex>1124</secondItemIndex> <!-- Mk16 Mod0 SV -->
+		<firstResultingItemIndex>1131</firstResultingItemIndex> <!-- Mk16 Mod47 -->
+		<secondResultingItemIndex>1863</secondResultingItemIndex> <!-- Mk16 Mod0 SV con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1870</firstItemIndex> <!-- EX16 Mod47 con.kits -->
-		<secondItemIndex>1128</secondItemIndex> <!-- EX16 Mod1 STD -->
-		<firstResultingItemIndex>1131</firstResultingItemIndex> <!-- EX16 Mod47 -->
-		<secondResultingItemIndex>1867</secondResultingItemIndex> <!-- EX16 Mod1 STD con.kits -->
+		<firstItemIndex>1870</firstItemIndex> <!-- Mk16 Mod47 con.kits -->
+		<secondItemIndex>1128</secondItemIndex> <!-- Mk16 Mod1 STD -->
+		<firstResultingItemIndex>1131</firstResultingItemIndex> <!-- Mk16 Mod47 -->
+		<secondResultingItemIndex>1867</secondResultingItemIndex> <!-- Mk16 Mod1 STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1870</firstItemIndex> <!-- EX16 Mod47 con.kits -->
-		<secondItemIndex>1129</secondItemIndex> <!-- EX16 Mod1 CQC -->
-		<firstResultingItemIndex>1131</firstResultingItemIndex> <!-- EX16 Mod47 -->
-		<secondResultingItemIndex>1868</secondResultingItemIndex> <!-- EX16 Mod1 CQC con.kits -->
+		<firstItemIndex>1870</firstItemIndex> <!-- Mk16 Mod47 con.kits -->
+		<secondItemIndex>1129</secondItemIndex> <!-- Mk16 Mod1 CQC -->
+		<firstResultingItemIndex>1131</firstResultingItemIndex> <!-- Mk16 Mod47 -->
+		<secondResultingItemIndex>1868</secondResultingItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1870</firstItemIndex> <!-- EX16 Mod47 con.kits -->
-		<secondItemIndex>1130</secondItemIndex> <!-- EX16 Mod1 SV -->
-		<firstResultingItemIndex>1131</firstResultingItemIndex> <!-- EX16 Mod47 -->
-		<secondResultingItemIndex>1869</secondResultingItemIndex> <!-- EX16 Mod1 SV con.kits -->
+		<firstItemIndex>1870</firstItemIndex> <!-- Mk16 Mod47 con.kits -->
+		<secondItemIndex>1130</secondItemIndex> <!-- Mk16 Mod1 SV -->
+		<firstResultingItemIndex>1131</firstResultingItemIndex> <!-- Mk16 Mod47 -->
+		<secondResultingItemIndex>1869</secondResultingItemIndex> <!-- Mk16 Mod1 SV con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1870</firstItemIndex> <!-- EX16 Mod47 con.kits -->
-		<secondItemIndex>1132</secondItemIndex> <!-- EX16 Mod74 -->
-		<firstResultingItemIndex>1131</firstResultingItemIndex> <!-- EX16 Mod47 -->
-		<secondResultingItemIndex>1871</secondResultingItemIndex> <!-- EX16 Mod74 con.kits -->
+		<firstItemIndex>1870</firstItemIndex> <!-- Mk16 Mod47 con.kits -->
+		<secondItemIndex>1132</secondItemIndex> <!-- Mk16 Mod74 -->
+		<firstResultingItemIndex>1131</firstResultingItemIndex> <!-- Mk16 Mod47 -->
+		<secondResultingItemIndex>1871</secondResultingItemIndex> <!-- Mk16 Mod74 con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1871</firstItemIndex> <!-- EX16 Mod74 con.kits -->
-		<secondItemIndex>1122</secondItemIndex> <!-- EX16 Mod0 STD -->
-		<firstResultingItemIndex>1132</firstResultingItemIndex> <!-- EX16 Mod74 -->
-		<secondResultingItemIndex>1861</secondResultingItemIndex> <!-- EX16 Mod0 STD con.kits -->
+		<firstItemIndex>1871</firstItemIndex> <!-- Mk16 Mod74 con.kits -->
+		<secondItemIndex>1122</secondItemIndex> <!-- Mk16 Mod0 STD -->
+		<firstResultingItemIndex>1132</firstResultingItemIndex> <!-- Mk16 Mod74 -->
+		<secondResultingItemIndex>1861</secondResultingItemIndex> <!-- Mk16 Mod0 STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1871</firstItemIndex> <!-- EX16 Mod74 con.kits -->
-		<secondItemIndex>1123</secondItemIndex> <!-- EX16 Mod0 CQC -->
-		<firstResultingItemIndex>1132</firstResultingItemIndex> <!-- EX16 Mod74 -->
-		<secondResultingItemIndex>1862</secondResultingItemIndex> <!-- EX16 Mod0 CQC con.kits -->
+		<firstItemIndex>1871</firstItemIndex> <!-- Mk16 Mod74 con.kits -->
+		<secondItemIndex>1123</secondItemIndex> <!-- Mk16 Mod0 CQC -->
+		<firstResultingItemIndex>1132</firstResultingItemIndex> <!-- Mk16 Mod74 -->
+		<secondResultingItemIndex>1862</secondResultingItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1871</firstItemIndex> <!-- EX16 Mod74 con.kits -->
-		<secondItemIndex>1124</secondItemIndex> <!-- EX16 Mod0 SV -->
-		<firstResultingItemIndex>1132</firstResultingItemIndex> <!-- EX16 Mod74 -->
-		<secondResultingItemIndex>1863</secondResultingItemIndex> <!-- EX16 Mod0 SV con.kits -->
+		<firstItemIndex>1871</firstItemIndex> <!-- Mk16 Mod74 con.kits -->
+		<secondItemIndex>1124</secondItemIndex> <!-- Mk16 Mod0 SV -->
+		<firstResultingItemIndex>1132</firstResultingItemIndex> <!-- Mk16 Mod74 -->
+		<secondResultingItemIndex>1863</secondResultingItemIndex> <!-- Mk16 Mod0 SV con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1871</firstItemIndex> <!-- EX16 Mod74 con.kits -->
-		<secondItemIndex>1128</secondItemIndex> <!-- EX16 Mod1 STD -->
-		<firstResultingItemIndex>1132</firstResultingItemIndex> <!-- EX16 Mod74 -->
-		<secondResultingItemIndex>1867</secondResultingItemIndex> <!-- EX16 Mod1 STD con.kits -->
+		<firstItemIndex>1871</firstItemIndex> <!-- Mk16 Mod74 con.kits -->
+		<secondItemIndex>1128</secondItemIndex> <!-- Mk16 Mod1 STD -->
+		<firstResultingItemIndex>1132</firstResultingItemIndex> <!-- Mk16 Mod74 -->
+		<secondResultingItemIndex>1867</secondResultingItemIndex> <!-- Mk16 Mod1 STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1871</firstItemIndex> <!-- EX16 Mod74 con.kits -->
-		<secondItemIndex>1129</secondItemIndex> <!-- EX16 Mod1 CQC -->
-		<firstResultingItemIndex>1132</firstResultingItemIndex> <!-- EX16 Mod74 -->
-		<secondResultingItemIndex>1868</secondResultingItemIndex> <!-- EX16 Mod1 CQC con.kits -->
+		<firstItemIndex>1871</firstItemIndex> <!-- Mk16 Mod74 con.kits -->
+		<secondItemIndex>1129</secondItemIndex> <!-- Mk16 Mod1 CQC -->
+		<firstResultingItemIndex>1132</firstResultingItemIndex> <!-- Mk16 Mod74 -->
+		<secondResultingItemIndex>1868</secondResultingItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1871</firstItemIndex> <!-- EX16 Mod74 con.kits -->
-		<secondItemIndex>1130</secondItemIndex> <!-- EX16 Mod1 SV -->
-		<firstResultingItemIndex>1132</firstResultingItemIndex> <!-- EX16 Mod74 -->
-		<secondResultingItemIndex>1869</secondResultingItemIndex> <!-- EX16 Mod1 SV con.kits -->
+		<firstItemIndex>1871</firstItemIndex> <!-- Mk16 Mod74 con.kits -->
+		<secondItemIndex>1130</secondItemIndex> <!-- Mk16 Mod1 SV -->
+		<firstResultingItemIndex>1132</firstResultingItemIndex> <!-- Mk16 Mod74 -->
+		<secondResultingItemIndex>1869</secondResultingItemIndex> <!-- Mk16 Mod1 SV con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1871</firstItemIndex> <!-- EX16 Mod74 con.kits -->
-		<secondItemIndex>1131</secondItemIndex> <!-- EX16 Mod47 -->
-		<firstResultingItemIndex>1132</firstResultingItemIndex> <!-- EX16 Mod74 -->
-		<secondResultingItemIndex>1870</secondResultingItemIndex> <!-- EX16 Mod47 con.kits -->
+		<firstItemIndex>1871</firstItemIndex> <!-- Mk16 Mod74 con.kits -->
+		<secondItemIndex>1131</secondItemIndex> <!-- Mk16 Mod47 -->
+		<firstResultingItemIndex>1132</firstResultingItemIndex> <!-- Mk16 Mod74 -->
+		<secondResultingItemIndex>1870</secondResultingItemIndex> <!-- Mk16 Mod47 con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1872</firstItemIndex> <!-- EX17 Mod1 SV con.kits -->
-		<secondItemIndex>1125</secondItemIndex> <!-- EX17 Mod0 STD -->
-		<firstResultingItemIndex>1133</firstResultingItemIndex> <!-- EX17 Mod1 SV -->
-		<secondResultingItemIndex>1864</secondResultingItemIndex> <!-- EX17 Mod0 STD con.kits -->
+		<firstItemIndex>1872</firstItemIndex> <!-- Mk17 Mod1 SV con.kits -->
+		<secondItemIndex>1125</secondItemIndex> <!-- Mk17 Mod0 STD -->
+		<firstResultingItemIndex>1133</firstResultingItemIndex> <!-- Mk17 Mod1 SV -->
+		<secondResultingItemIndex>1864</secondResultingItemIndex> <!-- Mk17 Mod0 STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1872</firstItemIndex> <!-- EX17 Mod1 SV con.kits -->
-		<secondItemIndex>1126</secondItemIndex> <!-- EX17 Mod0 CQC -->
-		<firstResultingItemIndex>1133</firstResultingItemIndex> <!-- EX17 Mod1 SV -->
-		<secondResultingItemIndex>1865</secondResultingItemIndex> <!-- EX17 Mod0 CQC con.kits -->
+		<firstItemIndex>1872</firstItemIndex> <!-- Mk17 Mod1 SV con.kits -->
+		<secondItemIndex>1126</secondItemIndex> <!-- Mk17 Mod0 CQC -->
+		<firstResultingItemIndex>1133</firstResultingItemIndex> <!-- Mk17 Mod1 SV -->
+		<secondResultingItemIndex>1865</secondResultingItemIndex> <!-- Mk17 Mod0 CQC con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1872</firstItemIndex> <!-- EX17 Mod1 SV con.kits -->
-		<secondItemIndex>1127</secondItemIndex> <!-- EX17 Mod0 SV -->
-		<firstResultingItemIndex>1133</firstResultingItemIndex> <!-- EX17 Mod1 SV -->
-		<secondResultingItemIndex>1866</secondResultingItemIndex> <!-- EX17 Mod0 SV con.kits -->
+		<firstItemIndex>1872</firstItemIndex> <!-- Mk17 Mod1 SV con.kits -->
+		<secondItemIndex>1127</secondItemIndex> <!-- Mk17 Mod0 SV -->
+		<firstResultingItemIndex>1133</firstResultingItemIndex> <!-- Mk17 Mod1 SV -->
+		<secondResultingItemIndex>1866</secondResultingItemIndex> <!-- Mk17 Mod0 SV con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
@@ -3713,50 +3649,50 @@
 		<APCost>50</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2462</firstItemIndex> <!-- Rem MSR Barrel -->
-		<secondItemIndex>2487</secondItemIndex>
-		<firstResultingItemIndex>2463</firstResultingItemIndex>
-		<secondResultingItemIndex>2486</secondResultingItemIndex>
-		<mergeType>4</mergeType>
-		<APCost>50</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>2462</firstItemIndex>
-		<secondItemIndex>2488</secondItemIndex>
-		<firstResultingItemIndex>2464</firstResultingItemIndex>
-		<secondResultingItemIndex>2486</secondResultingItemIndex>
-		<mergeType>4</mergeType>
-		<APCost>50</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>2463</firstItemIndex>
-		<secondItemIndex>2486</secondItemIndex>
+		<firstItemIndex>2486</firstItemIndex> <!-- Rem MSR Barrel -->
+		<secondItemIndex>2463</secondItemIndex>
 		<firstResultingItemIndex>2462</firstResultingItemIndex>
 		<secondResultingItemIndex>2487</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>50</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2463</firstItemIndex>
-		<secondItemIndex>2488</secondItemIndex>
-		<firstResultingItemIndex>2464</firstResultingItemIndex>
-		<secondResultingItemIndex>2487</secondResultingItemIndex>
-		<mergeType>4</mergeType>
-		<APCost>50</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>2464</firstItemIndex>
-		<secondItemIndex>2486</secondItemIndex>
+		<firstItemIndex>2486</firstItemIndex>
+		<secondItemIndex>2464</secondItemIndex>
 		<firstResultingItemIndex>2462</firstResultingItemIndex>
 		<secondResultingItemIndex>2488</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>50</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2464</firstItemIndex>
-		<secondItemIndex>2487</secondItemIndex>
+		<firstItemIndex>2487</firstItemIndex>
+		<secondItemIndex>2462</secondItemIndex>
+		<firstResultingItemIndex>2463</firstResultingItemIndex>
+		<secondResultingItemIndex>2486</secondResultingItemIndex>
+		<mergeType>4</mergeType>
+		<APCost>50</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2487</firstItemIndex>
+		<secondItemIndex>2464</secondItemIndex>
 		<firstResultingItemIndex>2463</firstResultingItemIndex>
 		<secondResultingItemIndex>2488</secondResultingItemIndex>
+		<mergeType>4</mergeType>
+		<APCost>50</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2488</firstItemIndex>
+		<secondItemIndex>2462</secondItemIndex>
+		<firstResultingItemIndex>2464</firstResultingItemIndex>
+		<secondResultingItemIndex>2486</secondResultingItemIndex>
+		<mergeType>4</mergeType>
+		<APCost>50</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2488</firstItemIndex>
+		<secondItemIndex>2463</secondItemIndex>
+		<firstResultingItemIndex>2464</firstResultingItemIndex>
+		<secondResultingItemIndex>2487</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>50</APCost>
 	</MERGE>

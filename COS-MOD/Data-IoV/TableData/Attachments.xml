@@ -1361,6 +1361,11 @@
 		<APCost>35</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
+		<attachmentIndex>207</attachmentIndex>
+		<itemIndex>2516</itemIndex>
+		<APCost>15</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
 		<attachmentIndex>208</attachmentIndex> <!-- Scope 10x -->
 		<itemIndex>19</itemIndex>
 		<APCost>50</APCost>
@@ -3373,6 +3378,26 @@
 	<ATTACHMENT>
 		<attachmentIndex>209</attachmentIndex>
 		<itemIndex>2498</itemIndex>
+		<APCost>30</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>209</attachmentIndex>
+		<itemIndex>2514</itemIndex>
+		<APCost>30</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>209</attachmentIndex>
+		<itemIndex>2515</itemIndex>
+		<APCost>30</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>209</attachmentIndex>
+		<itemIndex>2516</itemIndex>
+		<APCost>30</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>209</attachmentIndex>
+		<itemIndex>2517</itemIndex>
 		<APCost>30</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
@@ -7342,6 +7367,11 @@
 	</ATTACHMENT>
 	<ATTACHMENT>
 		<attachmentIndex>241</attachmentIndex>
+		<itemIndex>2283</itemIndex>
+		<APCost>35</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>241</attachmentIndex>
 		<itemIndex>2284</itemIndex>
 		<APCost>35</APCost>
 	</ATTACHMENT>
@@ -7618,6 +7648,31 @@
 	<ATTACHMENT>
 		<attachmentIndex>241</attachmentIndex>
 		<itemIndex>2501</itemIndex>
+		<APCost>35</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>241</attachmentIndex>
+		<itemIndex>2515</itemIndex>
+		<APCost>35</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>241</attachmentIndex>
+		<itemIndex>2516</itemIndex>
+		<APCost>35</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>241</attachmentIndex>
+		<itemIndex>2517</itemIndex>
+		<APCost>35</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>241</attachmentIndex>
+		<itemIndex>2518</itemIndex>
+		<APCost>35</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>241</attachmentIndex>
+		<itemIndex>2519</itemIndex>
 		<APCost>35</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
@@ -9817,6 +9872,11 @@
 	</ATTACHMENT>
 	<ATTACHMENT>
 		<attachmentIndex>310</attachmentIndex>
+		<itemIndex>2283</itemIndex>
+		<APCost>95</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>310</attachmentIndex>
 		<itemIndex>2287</itemIndex>
 		<APCost>95</APCost>
 	</ATTACHMENT>
@@ -9986,7 +10046,37 @@
 		<APCost>95</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>316</attachmentIndex>
+		<attachmentIndex>310</attachmentIndex>
+		<itemIndex>2514</itemIndex>
+		<APCost>95</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>310</attachmentIndex>
+		<itemIndex>2515</itemIndex>
+		<APCost>95</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>310</attachmentIndex>
+		<itemIndex>2516</itemIndex>
+		<APCost>15</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>310</attachmentIndex>
+		<itemIndex>2517</itemIndex>
+		<APCost>95</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>310</attachmentIndex>
+		<itemIndex>2518</itemIndex>
+		<APCost>95</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>310</attachmentIndex>
+		<itemIndex>2519</itemIndex>
+		<APCost>95</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>316</attachmentIndex> <!-- Copper Wire -->
 		<itemIndex>264</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -13056,6 +13146,91 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
+		<attachmentIndex>927</attachmentIndex> <!-- MPM-RAW -->
+		<itemIndex>12</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>927</attachmentIndex>
+		<itemIndex>23</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>927</attachmentIndex>
+		<itemIndex>632</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>927</attachmentIndex>
+		<itemIndex>633</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>927</attachmentIndex>
+		<itemIndex>762</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>927</attachmentIndex>
+		<itemIndex>1136</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>927</attachmentIndex>
+		<itemIndex>1142</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>927</attachmentIndex>
+		<itemIndex>1143</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>927</attachmentIndex>
+		<itemIndex>1144</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>927</attachmentIndex>
+		<itemIndex>1168</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>927</attachmentIndex>
+		<itemIndex>1254</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>927</attachmentIndex>
+		<itemIndex>1255</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>927</attachmentIndex>
+		<itemIndex>1351</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>927</attachmentIndex>
+		<itemIndex>2292</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>927</attachmentIndex>
+		<itemIndex>2294</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>927</attachmentIndex>
+		<itemIndex>2299</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>927</attachmentIndex>
+		<itemIndex>2300</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
 		<attachmentIndex>945</attachmentIndex> <!-- ACOG for WW2 -->
 		<itemIndex>11</itemIndex>
 		<APCost>50</APCost>
@@ -13336,6 +13511,16 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
+		<attachmentIndex>945</attachmentIndex>
+		<itemIndex>2517</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>945</attachmentIndex>
+		<itemIndex>2518</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
 		<attachmentIndex>946</attachmentIndex> <!-- Scope 7x for WW2 -->
 		<itemIndex>679</itemIndex>
 		<APCost>50</APCost>
@@ -13468,6 +13653,11 @@
 	<ATTACHMENT>
 		<attachmentIndex>946</attachmentIndex>
 		<itemIndex>2492</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>946</attachmentIndex>
+		<itemIndex>2517</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
@@ -13811,6 +14001,16 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
+		<attachmentIndex>947</attachmentIndex>
+		<itemIndex>2517</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>947</attachmentIndex>
+		<itemIndex>2518</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
 		<attachmentIndex>948</attachmentIndex> <!-- Old Aimpoint Projector -->
 		<itemIndex>9</itemIndex>
 		<APCost>35</APCost>
@@ -13958,6 +14158,11 @@
 	<ATTACHMENT>
 		<attachmentIndex>948</attachmentIndex>
 		<itemIndex>2482</itemIndex>
+		<APCost>35</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>948</attachmentIndex>
+		<itemIndex>2516</itemIndex>
 		<APCost>35</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
@@ -16146,6 +16351,16 @@
 		<APCost>35</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
+		<attachmentIndex>950</attachmentIndex>
+		<itemIndex>2515</itemIndex>
+		<APCost>35</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>950</attachmentIndex>
+		<itemIndex>2519</itemIndex>
+		<APCost>35</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
 		<attachmentIndex>951</attachmentIndex> <!-- Gas Shell -->
 		<itemIndex>128</itemIndex>
 		<APCost>12</APCost>
@@ -17753,6 +17968,16 @@
 	<ATTACHMENT>
 		<attachmentIndex>997</attachmentIndex>
 		<itemIndex>2501</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>997</attachmentIndex>
+		<itemIndex>2517</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>997</attachmentIndex>
+		<itemIndex>2518</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
@@ -19436,6 +19661,16 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
+		<attachmentIndex>1001</attachmentIndex>
+		<itemIndex>2514</itemIndex>
+		<APCost>20</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1001</attachmentIndex>
+		<itemIndex>2515</itemIndex>
+		<APCost>20</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
 		<attachmentIndex>1002</attachmentIndex> <!-- 9mm C-Mag Adapter -->
 		<itemIndex>9</itemIndex>
 		<APCost>20</APCost>
@@ -19548,6 +19783,11 @@
 	<ATTACHMENT>
 		<attachmentIndex>1002</attachmentIndex>
 		<itemIndex>2476</itemIndex>
+		<APCost>20</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1002</attachmentIndex>
+		<itemIndex>2516</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
@@ -22746,6 +22986,26 @@
 		<APCost>25</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
+		<attachmentIndex>1003</attachmentIndex>
+		<itemIndex>2514</itemIndex>
+		<APCost>25</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1003</attachmentIndex>
+		<itemIndex>2515</itemIndex>
+		<APCost>25</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1003</attachmentIndex>
+		<itemIndex>2516</itemIndex>
+		<APCost>15</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1003</attachmentIndex>
+		<itemIndex>2517</itemIndex>
+		<APCost>35</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
 		<attachmentIndex>1004</attachmentIndex> <!-- ACOG TA31-DOC -->
 		<itemIndex>12</itemIndex>
 		<APCost>50</APCost>
@@ -24138,6 +24398,21 @@
 	<ATTACHMENT>
 		<attachmentIndex>1004</attachmentIndex>
 		<itemIndex>2498</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1004</attachmentIndex>
+		<itemIndex>2514</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1004</attachmentIndex>
+		<itemIndex>2515</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1004</attachmentIndex>
+		<itemIndex>2519</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
@@ -26652,6 +26927,11 @@
 	</ATTACHMENT>
 	<ATTACHMENT>
 		<attachmentIndex>1005</attachmentIndex>
+		<itemIndex>2283</itemIndex>
+		<APCost>35</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1005</attachmentIndex>
 		<itemIndex>2284</itemIndex>
 		<APCost>35</APCost>
 	</ATTACHMENT>
@@ -26853,6 +27133,21 @@
 	<ATTACHMENT>
 		<attachmentIndex>1005</attachmentIndex>
 		<itemIndex>2500</itemIndex>
+		<APCost>35</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1005</attachmentIndex>
+		<itemIndex>2515</itemIndex>
+		<APCost>35</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1005</attachmentIndex>
+		<itemIndex>2516</itemIndex>
+		<APCost>35</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1005</attachmentIndex>
+		<itemIndex>2519</itemIndex>
 		<APCost>35</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
@@ -28926,6 +29221,26 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
+		<attachmentIndex>1006</attachmentIndex>
+		<itemIndex>2514</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1006</attachmentIndex>
+		<itemIndex>2515</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1006</attachmentIndex>
+		<itemIndex>2516</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1006</attachmentIndex>
+		<itemIndex>2519</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
 		<attachmentIndex>1007</attachmentIndex> <!-- Battle Scope -->
 		<itemIndex>12</itemIndex>
 		<APCost>50</APCost>
@@ -30417,6 +30732,11 @@
 	</ATTACHMENT>
 	<ATTACHMENT>
 		<attachmentIndex>1007</attachmentIndex>
+		<itemIndex>2283</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1007</attachmentIndex>
 		<itemIndex>2292</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -30508,6 +30828,21 @@
 	<ATTACHMENT>
 		<attachmentIndex>1007</attachmentIndex>
 		<itemIndex>2498</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1007</attachmentIndex>
+		<itemIndex>2514</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1007</attachmentIndex>
+		<itemIndex>2515</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1007</attachmentIndex>
+		<itemIndex>2519</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
@@ -30899,6 +31234,16 @@
 		<attachmentIndex>1010</attachmentIndex>
 		<itemIndex>2492</itemIndex>
 		<APCost>20</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1010</attachmentIndex>
+		<itemIndex>2517</itemIndex>
+		<APCost>30</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1010</attachmentIndex>
+		<itemIndex>2518</itemIndex>
+		<APCost>30</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
 		<attachmentIndex>1011</attachmentIndex> <!-- Foregrip -->
@@ -32138,6 +32483,16 @@
 	<ATTACHMENT>
 		<attachmentIndex>1011</attachmentIndex>
 		<itemIndex>2498</itemIndex>
+		<APCost>20</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1011</attachmentIndex>
+		<itemIndex>2514</itemIndex>
+		<APCost>20</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1011</attachmentIndex>
+		<itemIndex>2515</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
@@ -33669,6 +34024,26 @@
 		<attachmentIndex>1012</attachmentIndex>
 		<itemIndex>2498</itemIndex>
 		<APCost>25</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1012</attachmentIndex>
+		<itemIndex>2514</itemIndex>
+		<APCost>25</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1012</attachmentIndex>
+		<itemIndex>2515</itemIndex>
+		<APCost>25</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1012</attachmentIndex>
+		<itemIndex>2517</itemIndex>
+		<APCost>45</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1012</attachmentIndex>
+		<itemIndex>2518</itemIndex>
+		<APCost>45</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
 		<attachmentIndex>1024</attachmentIndex> <!-- NVG III -->
@@ -35631,6 +36006,31 @@
 		<APCost>85</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
+		<attachmentIndex>1026</attachmentIndex>
+		<itemIndex>2514</itemIndex>
+		<APCost>85</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1026</attachmentIndex>
+		<itemIndex>2515</itemIndex>
+		<APCost>85</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1026</attachmentIndex>
+		<itemIndex>2516</itemIndex>
+		<APCost>85</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1026</attachmentIndex>
+		<itemIndex>2517</itemIndex>
+		<APCost>85</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1026</attachmentIndex>
+		<itemIndex>2518</itemIndex>
+		<APCost>85</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
 		<attachmentIndex>1027</attachmentIndex> <!-- Urban Camouflage Kit -->
 		<itemIndex>128</itemIndex>
 		<APCost>12</APCost>
@@ -37096,6 +37496,26 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
+		<attachmentIndex>1029</attachmentIndex>
+		<itemIndex>2514</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1029</attachmentIndex>
+		<itemIndex>2515</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1029</attachmentIndex>
+		<itemIndex>2516</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1029</attachmentIndex>
+		<itemIndex>2519</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
 		<attachmentIndex>1030</attachmentIndex> <!-- ACOG TA31 -->
 		<itemIndex>12</itemIndex>
 		<APCost>50</APCost>
@@ -38491,6 +38911,21 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
+		<attachmentIndex>1030</attachmentIndex>
+		<itemIndex>2514</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1030</attachmentIndex>
+		<itemIndex>2515</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1030</attachmentIndex>
+		<itemIndex>2519</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
 		<attachmentIndex>1031</attachmentIndex> <!-- 556 35 C-Mag Adapter -->
 		<itemIndex>13</itemIndex>
 		<APCost>20</APCost>
@@ -38828,6 +39263,11 @@
 	<ATTACHMENT>
 		<attachmentIndex>1034</attachmentIndex>
 		<itemIndex>1359</itemIndex>
+		<APCost>20</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1034</attachmentIndex>
+		<itemIndex>2518</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
@@ -46346,6 +46786,26 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
+		<attachmentIndex>1802</attachmentIndex>
+		<itemIndex>2514</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1802</attachmentIndex>
+		<itemIndex>2515</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1802</attachmentIndex>
+		<itemIndex>2516</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1802</attachmentIndex>
+		<itemIndex>2519</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
 		<attachmentIndex>1803</attachmentIndex> <!-- EoTech HDS -->
 		<itemIndex>12</itemIndex>
 		<APCost>50</APCost>
@@ -47688,6 +48148,21 @@
 	<ATTACHMENT>
 		<attachmentIndex>1803</attachmentIndex>
 		<itemIndex>2498</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1803</attachmentIndex>
+		<itemIndex>2514</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1803</attachmentIndex>
+		<itemIndex>2515</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1803</attachmentIndex>
+		<itemIndex>2518</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
@@ -49143,6 +49618,16 @@
 	<ATTACHMENT>
 		<attachmentIndex>1805</attachmentIndex>
 		<itemIndex>2498</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1805</attachmentIndex>
+		<itemIndex>2514</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1805</attachmentIndex>
+		<itemIndex>2515</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
@@ -50641,6 +51126,16 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
+		<attachmentIndex>1806</attachmentIndex>
+		<itemIndex>2514</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1806</attachmentIndex>
+		<itemIndex>2515</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
 		<attachmentIndex>1807</attachmentIndex> <!-- SUSAT -->
 		<itemIndex>20</itemIndex>
 		<APCost>50</APCost>
@@ -50788,6 +51283,11 @@
 	<ATTACHMENT>
 		<attachmentIndex>1807</attachmentIndex>
 		<itemIndex>2477</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1807</attachmentIndex>
+		<itemIndex>2516</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
@@ -51476,6 +51976,11 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
+		<attachmentIndex>1808</attachmentIndex>
+		<itemIndex>2515</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
 		<attachmentIndex>1809</attachmentIndex> <!-- ISM-V-IR -->
 		<itemIndex>128</itemIndex>
 		<APCost>12</APCost>
@@ -52061,6 +52566,11 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
+		<attachmentIndex>1809</attachmentIndex>
+		<itemIndex>2515</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
 		<attachmentIndex>1810</attachmentIndex> <!-- ISM-4X-IR -->
 		<itemIndex>128</itemIndex>
 		<APCost>12</APCost>
@@ -52638,6 +53148,11 @@
 	<ATTACHMENT>
 		<attachmentIndex>1810</attachmentIndex>
 		<itemIndex>2474</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1810</attachmentIndex>
+		<itemIndex>2515</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
@@ -55006,6 +55521,21 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
+		<attachmentIndex>1814</attachmentIndex>
+		<itemIndex>2514</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1814</attachmentIndex>
+		<itemIndex>2515</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1814</attachmentIndex>
+		<itemIndex>2518</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
 		<attachmentIndex>1815</attachmentIndex> <!-- AN/PVS-10 NVS -->
 		<itemIndex>19</itemIndex>
 		<APCost>50</APCost>
@@ -57191,6 +57721,11 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
+		<attachmentIndex>1822</attachmentIndex>
+		<itemIndex>2517</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
 		<attachmentIndex>1823</attachmentIndex> <!-- Red-dot for GL -->
 		<itemIndex>128</itemIndex>
 		<APCost>12</APCost>
@@ -58568,6 +59103,21 @@
 	<ATTACHMENT>
 		<attachmentIndex>1824</attachmentIndex>
 		<itemIndex>2498</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1824</attachmentIndex>
+		<itemIndex>2514</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1824</attachmentIndex>
+		<itemIndex>2515</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1824</attachmentIndex>
+		<itemIndex>2518</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
@@ -60241,6 +60791,16 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
+		<attachmentIndex>1827</attachmentIndex>
+		<itemIndex>2514</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1827</attachmentIndex>
+		<itemIndex>2515</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
 		<attachmentIndex>1828</attachmentIndex> <!-- 3X MAG for Red-dot -->
 		<itemIndex>12</itemIndex>
 		<APCost>50</APCost>
@@ -61456,6 +62016,21 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
+		<attachmentIndex>1828</attachmentIndex>
+		<itemIndex>2514</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1828</attachmentIndex>
+		<itemIndex>2515</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1828</attachmentIndex>
+		<itemIndex>2518</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
 		<attachmentIndex>1829</attachmentIndex> <!-- Snooperscope -->
 		<itemIndex>683</itemIndex>
 		<APCost>50</APCost>
@@ -62426,6 +63001,16 @@
 		<APCost>35</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
+		<attachmentIndex>1831</attachmentIndex>
+		<itemIndex>2515</itemIndex>
+		<APCost>35</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1831</attachmentIndex>
+		<itemIndex>2519</itemIndex>
+		<APCost>35</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
 		<attachmentIndex>1832</attachmentIndex> <!-- Ballistic Tactical Computer -->
 		<itemIndex>1813</itemIndex>
 		<APCost>20</APCost>
@@ -63033,6 +63618,16 @@
 	<ATTACHMENT>
 		<attachmentIndex>1833</attachmentIndex>
 		<itemIndex>2498</itemIndex>
+		<APCost>20</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1833</attachmentIndex>
+		<itemIndex>2514</itemIndex>
+		<APCost>20</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1833</attachmentIndex>
+		<itemIndex>2515</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
@@ -64123,6 +64718,11 @@
 	<ATTACHMENT>
 		<attachmentIndex>1834</attachmentIndex>
 		<itemIndex>2498</itemIndex>
+		<APCost>20</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1834</attachmentIndex>
+		<itemIndex>2515</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
@@ -66151,6 +66751,11 @@
 		<APCost>45</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
+		<attachmentIndex>1852</attachmentIndex>
+		<itemIndex>2514</itemIndex>
+		<APCost>45</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
 		<attachmentIndex>1853</attachmentIndex> <!-- Russian Simple LAM -->
 		<itemIndex>14</itemIndex>
 		<APCost>35</APCost>
@@ -67921,6 +68526,16 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
+		<attachmentIndex>1859</attachmentIndex>
+		<itemIndex>2514</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1859</attachmentIndex>
+		<itemIndex>2515</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
 		<attachmentIndex>1860</attachmentIndex> <!-- Elcan DR -->
 		<itemIndex>20</itemIndex>
 		<APCost>50</APCost>
@@ -68308,6 +68923,16 @@
 	<ATTACHMENT>
 		<attachmentIndex>1860</attachmentIndex>
 		<itemIndex>2449</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1860</attachmentIndex>
+		<itemIndex>2514</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1860</attachmentIndex>
+		<itemIndex>2515</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
@@ -70313,6 +70938,26 @@
 	<ATTACHMENT>
 		<attachmentIndex>2181</attachmentIndex>
 		<itemIndex>2498</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>2181</attachmentIndex>
+		<itemIndex>2514</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>2181</attachmentIndex>
+		<itemIndex>2515</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>2181</attachmentIndex>
+		<itemIndex>2516</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>2181</attachmentIndex>
+		<itemIndex>2519</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
@@ -74156,6 +74801,16 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
+		<attachmentIndex>2262</attachmentIndex>
+		<itemIndex>2514</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>2262</attachmentIndex>
+		<itemIndex>2515</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
 		<attachmentIndex>2263</attachmentIndex> <!-- LaserMax -->
 		<itemIndex>1</itemIndex>
 		<APCost>35</APCost>
@@ -77761,6 +78416,16 @@
 		<APCost>35</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
+		<attachmentIndex>2263</attachmentIndex>
+		<itemIndex>2515</itemIndex>
+		<APCost>35</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>2263</attachmentIndex>
+		<itemIndex>2519</itemIndex>
+		<APCost>35</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
 		<attachmentIndex>2264</attachmentIndex> <!-- AN/PEQ-15 -->
 		<itemIndex>346</itemIndex>
 		<APCost>35</APCost>
@@ -78618,6 +79283,16 @@
 	<ATTACHMENT>
 		<attachmentIndex>2264</attachmentIndex>
 		<itemIndex>2474</itemIndex>
+		<APCost>35</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>2264</attachmentIndex>
+		<itemIndex>2515</itemIndex>
+		<APCost>35</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>2264</attachmentIndex>
+		<itemIndex>2519</itemIndex>
 		<APCost>35</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
@@ -80328,6 +81003,21 @@
 	<ATTACHMENT>
 		<attachmentIndex>2265</attachmentIndex>
 		<itemIndex>2498</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>2265</attachmentIndex>
+		<itemIndex>2514</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>2265</attachmentIndex>
+		<itemIndex>2515</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>2265</attachmentIndex>
+		<itemIndex>2519</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
@@ -82046,6 +82736,21 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
+		<attachmentIndex>2266</attachmentIndex>
+		<itemIndex>2514</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>2266</attachmentIndex>
+		<itemIndex>2515</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>2266</attachmentIndex>
+		<itemIndex>2519</itemIndex>
+		<APCost>50</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
 		<attachmentIndex>2267</attachmentIndex> <!-- Imp. Mod. Choke -->
 		<itemIndex>32</itemIndex>
 		<APCost>35</APCost>
@@ -82487,6 +83192,11 @@
 	</ATTACHMENT>
 	<ATTACHMENT>
 		<attachmentIndex>2489</attachmentIndex>
+		<itemIndex>1224</itemIndex>
+		<APCost>35</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>2489</attachmentIndex>
 		<itemIndex>1234</itemIndex>
 		<APCost>35</APCost>
 	</ATTACHMENT>
@@ -82503,6 +83213,21 @@
 	<ATTACHMENT>
 		<attachmentIndex>2489</attachmentIndex>
 		<itemIndex>1311</itemIndex>
+		<APCost>35</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>2489</attachmentIndex>
+		<itemIndex>1318</itemIndex>
+		<APCost>35</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>2489</attachmentIndex>
+		<itemIndex>1319</itemIndex>
+		<APCost>35</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>2489</attachmentIndex>
+		<itemIndex>1348</itemIndex>
 		<APCost>35</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
@@ -82533,6 +83258,11 @@
 	<ATTACHMENT>
 		<attachmentIndex>2489</attachmentIndex>
 		<itemIndex>1386</itemIndex>
+		<APCost>35</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>2489</attachmentIndex>
+		<itemIndex>1395</itemIndex>
 		<APCost>35</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
@@ -82598,6 +83328,11 @@
 	<ATTACHMENT>
 		<attachmentIndex>2489</attachmentIndex>
 		<itemIndex>2465</itemIndex>
+		<APCost>35</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>2489</attachmentIndex>
+		<itemIndex>2514</itemIndex>
 		<APCost>35</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
@@ -82667,6 +83402,11 @@
 	</ATTACHMENT>
 	<ATTACHMENT>
 		<attachmentIndex>2490</attachmentIndex>
+		<itemIndex>1224</itemIndex>
+		<APCost>10</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>2490</attachmentIndex>
 		<itemIndex>1234</itemIndex>
 		<APCost>10</APCost>
 	</ATTACHMENT>
@@ -82683,6 +83423,21 @@
 	<ATTACHMENT>
 		<attachmentIndex>2490</attachmentIndex>
 		<itemIndex>1311</itemIndex>
+		<APCost>10</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>2490</attachmentIndex>
+		<itemIndex>1318</itemIndex>
+		<APCost>10</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>2490</attachmentIndex>
+		<itemIndex>1319</itemIndex>
+		<APCost>10</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>2490</attachmentIndex>
+		<itemIndex>1348</itemIndex>
 		<APCost>10</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
@@ -82713,6 +83468,11 @@
 	<ATTACHMENT>
 		<attachmentIndex>2490</attachmentIndex>
 		<itemIndex>1386</itemIndex>
+		<APCost>10</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>2490</attachmentIndex>
+		<itemIndex>1395</itemIndex>
 		<APCost>10</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
@@ -82783,6 +83543,11 @@
 	<ATTACHMENT>
 		<attachmentIndex>2490</attachmentIndex>
 		<itemIndex>2490</itemIndex>
+		<APCost>10</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>2490</attachmentIndex>
+		<itemIndex>2514</itemIndex>
 		<APCost>10</APCost>
 	</ATTACHMENT>
 </ATTACHMENTLIST>
