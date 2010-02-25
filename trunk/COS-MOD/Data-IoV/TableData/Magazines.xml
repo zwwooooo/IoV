@@ -4281,13 +4281,13 @@
 	<MAGAZINE>
 		<uiIndex>713</uiIndex> <!-- 23mm Shell -->
 		<ubCalibre>75</ubCalibre>
-		<ubMagSize>6</ubMagSize>
+		<ubMagSize>7</ubMagSize>
 		<ubAmmoType>4</ubAmmoType>
 	</MAGAZINE>
 	<MAGAZINE>
 		<uiIndex>714</uiIndex>
 		<ubCalibre>75</ubCalibre>
-		<ubMagSize>6</ubMagSize>
+		<ubMagSize>7</ubMagSize>
 		<ubAmmoType>6</ubAmmoType>
 	</MAGAZINE>
 	<MAGAZINE>
@@ -4579,7 +4579,7 @@
 		<ubAmmoType>37</ubAmmoType>
 	</MAGAZINE>
 	<MAGAZINE>
-		<uiIndex>763</uiIndex> <!-- Harpoon -->
+		<uiIndex>763</uiIndex> <!-- Spear -->
 		<ubCalibre>90</ubCalibre>
 		<ubMagSize>1</ubMagSize>
 		<ubAmmoType>8</ubAmmoType>
@@ -4643,5 +4643,11 @@
 		<ubCalibre>92</ubCalibre>
 		<ubMagSize>150</ubMagSize>
 		<ubAmmoType>2</ubAmmoType>
+	</MAGAZINE>
+	<MAGAZINE>
+		<uiIndex>774</uiIndex> <!-- 23x115mm -->
+		<ubCalibre>93</ubCalibre>
+		<ubMagSize>100</ubMagSize>
+		<ubAmmoType>35</ubAmmoType>
 	</MAGAZINE>
 </MAGAZINELIST>

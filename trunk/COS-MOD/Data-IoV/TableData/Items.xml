@@ -4854,7 +4854,7 @@
 		<ToHitBonus>-1</ToHitBonus>
 		<BurstToHitBonus>1</BurstToHitBonus>
 		<AutoFireToHitBonus>1</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>-7</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>208</uiIndex>
@@ -4879,8 +4879,6 @@
 		<Attachment>1</Attachment>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<Bipod>4</Bipod>
-		<ToHitBonus>-4</ToHitBonus>
 		<AimBonus>20</AimBonus>
 		<MinRangeForAimBonus>90</MinRangeForAimBonus>
 		<PercentAPReduction>-12</PercentAPReduction>
@@ -6200,7 +6198,7 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>12</ItemSize>
 		<usPrice>300</usPrice>
-		<ubCoolness>4</ubCoolness>
+		<ubCoolness>2</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -6220,7 +6218,7 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>12</ItemSize>
 		<usPrice>400</usPrice>
-		<ubCoolness>4</ubCoolness>
+		<ubCoolness>2</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -8228,7 +8226,7 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>12</ItemSize>
 		<usPrice>18</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>2</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -8267,7 +8265,7 @@
 		<ubWeight>2</ubWeight>
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>12</ItemSize>
-		<ubCoolness>3</ubCoolness>
+		<ubCoolness>5</ubCoolness>
 		<usPrice>54</usPrice>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
@@ -8288,7 +8286,7 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>12</ItemSize>
 		<usPrice>180</usPrice>
-		<ubCoolness>2</ubCoolness>
+		<ubCoolness>8</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -8310,7 +8308,7 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>12</ItemSize>
 		<usPrice>18</usPrice>
-		<ubCoolness>3</ubCoolness>
+		<ubCoolness>5</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -8332,7 +8330,7 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>12</ItemSize>
 		<usPrice>20</usPrice>
-		<ubCoolness>4</ubCoolness>
+		<ubCoolness>2</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -8392,7 +8390,7 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>12</ItemSize>
 		<usPrice>200</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>8</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -8481,7 +8479,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>16</ItemSize>
 		<usPrice>40</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>2</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -8541,7 +8539,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>16</ItemSize>
 		<usPrice>400</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>8</ubCoolness>
 		<bReliability>-1</bReliability>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
@@ -8629,7 +8627,7 @@
 		<ubPerPocket>2</ubPerPocket>
 		<ItemSize>21</ItemSize>
 		<usPrice>100</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>3</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -8797,7 +8795,7 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>12</ItemSize>
 		<usPrice>70</usPrice>
-		<ubCoolness>3</ubCoolness>
+		<ubCoolness>6</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -8842,7 +8840,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>16</ItemSize>
 		<usPrice>37</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>3</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -8884,7 +8882,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>16</ItemSize>
 		<usPrice>125</usPrice>
-		<ubCoolness>4</ubCoolness>
+		<ubCoolness>7</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -8906,7 +8904,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>16</ItemSize>
 		<usPrice>300</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>8</ubCoolness>
 		<bReliability>-1</bReliability>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
@@ -8974,7 +8972,7 @@
 		<ubPerPocket>2</ubPerPocket>
 		<ItemSize>22</ItemSize>
 		<usPrice>150</usPrice>
-		<ubCoolness>2</ubCoolness>
+		<ubCoolness>3</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<PercentNoiseReduction>25</PercentNoiseReduction>
@@ -8994,7 +8992,7 @@
 		<ubPerPocket>2</ubPerPocket>
 		<ItemSize>22</ItemSize>
 		<usPrice>250</usPrice>
-		<ubCoolness>2</ubCoolness>
+		<ubCoolness>6</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<PercentNoiseReduction>25</PercentNoiseReduction>
@@ -9015,7 +9013,7 @@
 		<ubPerPocket>2</ubPerPocket>
 		<ItemSize>22</ItemSize>
 		<usPrice>600</usPrice>
-		<ubCoolness>2</ubCoolness>
+		<ubCoolness>7</ubCoolness>
 		<bReliability>-1</bReliability>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
@@ -12118,7 +12116,7 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>12</ItemSize>
 		<usPrice>280</usPrice>
-		<ubCoolness>4</ubCoolness>
+		<ubCoolness>3</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -12183,7 +12181,7 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>12</ItemSize>
 		<usPrice>35</usPrice>
-		<ubCoolness>10</ubCoolness>
+		<ubCoolness>2</ubCoolness>
 		<bReliability>-2</bReliability>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
@@ -12227,7 +12225,7 @@
 		<ubPerPocket>6</ubPerPocket>
 		<ItemSize>21</ItemSize>
 		<usPrice>175</usPrice>
-		<ubCoolness>10</ubCoolness>
+		<ubCoolness>2</ubCoolness>
 		<bReliability>-2</bReliability>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
@@ -12453,7 +12451,7 @@
 		<ubPerPocket>6</ubPerPocket>
 		<ItemSize>16</ItemSize>
 		<usPrice>20</usPrice>
-		<ubCoolness>3</ubCoolness>
+		<ubCoolness>2</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 	</ITEM>
@@ -12596,7 +12594,7 @@
 		<ubPerPocket>2</ubPerPocket>
 		<ItemSize>22</ItemSize>
 		<usPrice>71</usPrice>
-		<ubCoolness>3</ubCoolness>
+		<ubCoolness>2</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -12657,7 +12655,7 @@
 		<ubPerPocket>6</ubPerPocket>
 		<ItemSize>17</ItemSize>
 		<usPrice>150</usPrice>
-		<ubCoolness>10</ubCoolness>
+		<ubCoolness>2</ubCoolness>
 		<bReliability>-2</bReliability>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
@@ -13025,7 +13023,7 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>13</ItemSize>
 		<usPrice>200</usPrice>
-		<ubCoolness>10</ubCoolness>
+		<ubCoolness>3</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -13064,7 +13062,7 @@
 		<ubPerPocket>6</ubPerPocket>
 		<ItemSize>17</ItemSize>
 		<usPrice>400</usPrice>
-		<ubCoolness>10</ubCoolness>
+		<ubCoolness>3</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -15243,7 +15241,7 @@
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>270</ubGraphicNum>
 		<ubWeight>87</ubWeight>
-		<ItemSize>7</ItemSize>
+		<ItemSize>8</ItemSize>
 		<usPrice>5760</usPrice>
 		<ubCoolness>7</ubCoolness>
 		<bReliability>6</bReliability>
@@ -15734,7 +15732,7 @@
 		<ubClassIndex>677</ubClassIndex>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>62</ubGraphicNum>
-		<ubWeight>23</ubWeight>
+		<ubWeight>21</ubWeight>
 		<ItemSize>5</ItemSize>
 		<usPrice>1760</usPrice>
 		<ubCoolness>4</ubCoolness>
@@ -17394,8 +17392,8 @@
 		<ubClassIndex>733</ubClassIndex>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>132</ubGraphicNum>
-		<ubWeight>62</ubWeight>
-		<ItemSize>9</ItemSize>
+		<ubWeight>58</ubWeight>
+		<ItemSize>8</ItemSize>
 		<usPrice>5440</usPrice>
 		<ubCoolness>7</ubCoolness>
 		<bReliability>2</bReliability>
@@ -18774,10 +18772,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>781</uiIndex>
-		<szItemName>SAR-21</szItemName>
-		<szLongItemName>SAR-21</szLongItemName>
+		<szItemName>SAR-21 MMS</szItemName>
+		<szLongItemName>SAR-21 MMS</szLongItemName>
 		<szItemDesc>This version of the SAR-21 has Picatinny rails instead of a fixed optical sight and built-in laser aiming device, so you can choose how to equip it.</szItemDesc>
-		<szBRName>SAR-21</szBRName>
+		<szBRName>SAR-21 MMS</szBRName>
 		<szBRDesc>This version of the SAR-21 bullpup assault rifle has several attachment points and is considered more versatile compared to the standard model.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>781</ubClassIndex>
@@ -22520,27 +22518,57 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>927</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Nothing</szLongItemName>
-		<szItemDesc>Index 927</szItemDesc>
-		<szBRName>Nothing</szBRName>
-		<szBRDesc>Nothing</szBRDesc>
-		<usItemClass>1</usItemClass>
-		<ItemSize>34</ItemSize>
-		<NotBuyable>1</NotBuyable>
+		<szItemName>RAW Launch</szItemName>
+		<szLongItemName>MPM-RAW Launch</szLongItemName>
+		<szItemDesc>The Rifleman's Assault Weapon (RAW) launch mechanism fitted in a bracket under the rifle's muzzle and some of the gas from firing a ball round was diverted to operate the firing pin that ignited the RAW's rocket motor.</szItemDesc>
+		<szBRName>MPM-RAW Launch</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>16</usItemClass>
+		<ubClassIndex>927</ubClassIndex>
+		<ubCursor>20</ubCursor>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>583</ubGraphicNum>
+		<ubWeight>3</ubWeight>
+		<ubPerPocket>3</ubPerPocket>
+		<ItemSize>21</ItemSize>
+		<usPrice>850</usPrice>
+		<ubCoolness>7</ubCoolness>
+		<bReliability>1</bReliability>
+		<bRepairEase>-1</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<BR_ROF>10</BR_ROF>
+		<GrenadeLauncher>1</GrenadeLauncher>
 	</ITEM>
 	<ITEM>
 		<uiIndex>928</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Nothing</szLongItemName>
-		<szItemDesc>Index 928</szItemDesc>
-		<szBRName>Nothing</szBRName>
-		<szBRDesc>Nothing</szBRDesc>
-		<usItemClass>1</usItemClass>
-		<ItemSize>34</ItemSize>
-		<NotBuyable>1</NotBuyable>
+		<szItemName>RAW Grenade</szItemName>
+		<szLongItemName>MPM-RAW Grenade</szLongItemName>
+		<szItemDesc>The Rifleman's Assault Weapon (RAW) was an interesting weapon that showed considerable destructive potential. In form it was a spherical 140mm diameter rocket propelled rifle grenade.</szItemDesc>
+		<szBRName>MPM-RAW Grenade</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>256</usItemClass>
+		<ubClassIndex>127</ubClassIndex>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>584</ubGraphicNum>
+		<ubWeight>13</ubWeight>
+		<ubPerPocket>2</ubPerPocket>
+		<ItemSize>22</ItemSize>
+		<usPrice>600</usPrice>
+		<ubCoolness>7</ubCoolness>
+		<bRepairEase>-4</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
+		<PercentReadyTimeAPReduction>-6</PercentReadyTimeAPReduction>
+		<GLGrenade>1</GLGrenade>
 	</ITEM>
 	<ITEM>
 		<uiIndex>929</uiIndex>
@@ -22991,8 +23019,6 @@
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Attachment>1</Attachment>
-		<Bipod>2</Bipod>
-		<ToHitBonus>-2</ToHitBonus>
 		<AimBonus>15</AimBonus>
 		<MinRangeForAimBonus>65</MinRangeForAimBonus>
 		<PercentAPReduction>-7</PercentAPReduction>
@@ -24290,8 +24316,6 @@
 		<Electronic>1</Electronic>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<Bipod>2</Bipod>
-		<ToHitBonus>-2</ToHitBonus>
 		<AimBonus>15</AimBonus>
 		<MinRangeForAimBonus>65</MinRangeForAimBonus>
 		<PercentAPReduction>-6</PercentAPReduction>
@@ -24380,7 +24404,7 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>5</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<PercentNoiseReduction>10</PercentNoiseReduction>
+		<PercentNoiseReduction>5</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 	</ITEM>
 	<ITEM>
@@ -24493,8 +24517,6 @@
 		<Attachment>1</Attachment>
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<Bipod>2</Bipod>
-		<ToHitBonus>-2</ToHitBonus>
 		<AimBonus>15</AimBonus>
 		<MinRangeForAimBonus>65</MinRangeForAimBonus>
 		<PercentAPReduction>-7</PercentAPReduction>
@@ -24590,7 +24612,7 @@
 		<ToHitBonus>-1</ToHitBonus>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>8</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>6</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1011</uiIndex>
@@ -24618,7 +24640,7 @@
 		<ToHitBonus>-1</ToHitBonus>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>8</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>6</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1012</uiIndex>
@@ -24650,7 +24672,7 @@
 		<ToHitBonus>-2</ToHitBonus>
 		<BurstToHitBonus>2</BurstToHitBonus>
 		<AutoFireToHitBonus>2</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>-7</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1013</uiIndex>
@@ -25335,8 +25357,6 @@
 		<Electronic>1</Electronic>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<Bipod>2</Bipod>
-		<ToHitBonus>-2</ToHitBonus>
 		<AimBonus>15</AimBonus>
 		<MinRangeForAimBonus>65</MinRangeForAimBonus>
 		<PercentAPReduction>-7</PercentAPReduction>
@@ -28511,7 +28531,7 @@
 		<ubClassIndex>1155</ubClassIndex>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>355</ubGraphicNum>
-		<ubWeight>66</ubWeight>
+		<ubWeight>56</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>4900</usPrice>
 		<ubCoolness>7</ubCoolness>
@@ -29280,7 +29300,7 @@
 		<szLongItemName>OFW MC-R</szLongItemName>
 		<szItemDesc>This future OFW assault weapons fires 5.56mm caseless ammo.</szItemDesc>
 		<szBRName>OFW MC-R</szBRName>
-		<szBRDesc>This future OFW assault weapons fires 5.56mm caseless ammo.</szBRDesc>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>1182</ubClassIndex>
 		<ubCursor>3</ubCursor>
@@ -29300,7 +29320,6 @@
 		<TwoHanded>1</TwoHanded>
 		<SciFi>1</SciFi>
 		<BR_ROF>800</BR_ROF>
-		<DefaultAttachment>1803</DefaultAttachment>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1183</uiIndex>
@@ -29308,7 +29327,7 @@
 		<szLongItemName>OFW LSAT</szLongItemName>
 		<szItemDesc>The LSAT(LIGHTWEIGHT SMALL ARMS TECHNOLOGIES) Light Weight Machine Gun is developed for future Objective Force Warrior, it is chambered in 5.56mm caseless.</szItemDesc>
 		<szBRName>OFW LSAT</szBRName>
-		<szBRDesc>The LSAT(LIGHTWEIGHT SMALL ARMS TECHNOLOGIES) Light Weight Machine Gun is developed for future Objective Force Warrior, it is chambered in 5.56mm caseless.</szBRDesc>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>1183</ubClassIndex>
 		<ubCursor>3</ubCursor>
@@ -30733,7 +30752,7 @@
 		<szLongItemName>L2A1 "Bitch"</szLongItemName>
 		<szItemDesc>Many Australian SASRs used these rifles during the Vietnam War. It was the field modification of L2A1. Nicknamed "The Bitch," shorter, full-auto, and also often fitted with XM148 40mm grenade launchers.</szItemDesc>
 		<szBRName>FAL L2A1 "Bitch"</szBRName>
-		<szBRDesc>Many Australian SASRs used these rifles during the Vietnam War. It was the field modification of L2A1. Nicknamed "The Bitch," shorter, full-auto, and also often fitted with XM148 40mm grenade launchers.</szBRDesc>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>1233</ubClassIndex>
 		<ubCursor>3</ubCursor>
@@ -30853,7 +30872,7 @@
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>437</ubGraphicNum>
 		<ubWeight>99</ubWeight>
-		<ItemSize>7</ItemSize>
+		<ItemSize>8</ItemSize>
 		<usPrice>8910</usPrice>
 		<bReliability>9</bReliability>
 		<bRepairEase>-3</bRepairEase>
@@ -30960,13 +30979,13 @@
 		<szLongItemName>Steyr ACR</szLongItemName>
 		<szItemDesc>Steyr ACR is built around 5.6mm flechette which leaves the muzzle at impressive velocity of 4750 fps, still retaining velocity of 2980 fps at the range of 600 meters.</szItemDesc>
 		<szBRName>Steyr ACR</szBRName>
-		<szBRDesc>Steyr ACR is built around 5.6mm flechette which leaves the muzzle at impressive velocity of 4750 fps, still retaining velocity of 2980 fps at the range of 600 meters.</szBRDesc>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>1241</ubClassIndex>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>441</ubGraphicNum>
 		<ubWeight>32</ubWeight>
-		<ItemSize>7</ItemSize>
+		<ItemSize>6</ItemSize>
 		<usPrice>4500</usPrice>
 		<ubCoolness>8</ubCoolness>
 		<bReliability>2</bReliability>
@@ -31274,10 +31293,10 @@
 	<ITEM>
 		<uiIndex>1252</uiIndex>
 		<szItemName>SAR-21</szItemName>
-		<szLongItemName>SAR-21</szLongItemName>
-		<szItemDesc>Standard SAR-21, what differs from the RAS type is its integral 1.5x telescopic sight and laser pointer. Other parts and GL can be installed.</szItemDesc>
-		<szBRName>SAR-21</szBRName>
-		<szBRDesc>Standard SAR-21, what differs from the RAS type is its integral 1.5x telescopic sight and laser pointer. Other parts and GL can be installed.</szBRDesc>
+		<szLongItemName>SAR-21 Standard</szLongItemName>
+		<szItemDesc>Standard SAR-21, what differs from the MMS type is its integral 1.5x telescopic sight and laser pointer. Other parts and GL can be installed.</szItemDesc>
+		<szBRName>SAR-21 Standard</szBRName>
+		<szBRDesc>Standard SAR-21, what differs from the MMS type is its integral 1.5x telescopic sight and laser pointer. Other parts and GL can be installed.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>1252</ubClassIndex>
 		<ubCursor>3</ubCursor>
@@ -35607,7 +35626,7 @@
 		<ubPerPocket>6</ubPerPocket>
 		<ItemSize>17</ItemSize>
 		<usPrice>400</usPrice>
-		<ubCoolness>7</ubCoolness>
+		<ubCoolness>3</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -35628,7 +35647,7 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>12</ItemSize>
 		<usPrice>8</usPrice>
-		<ubCoolness>2</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -35711,7 +35730,7 @@
 		<ubPerPocket>6</ubPerPocket>
 		<ItemSize>12</ItemSize>
 		<usPrice>12</usPrice>
-		<ubCoolness>2</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -35794,7 +35813,7 @@
 		<ubPerPocket>6</ubPerPocket>
 		<ItemSize>12</ItemSize>
 		<usPrice>15</usPrice>
-		<ubCoolness>2</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -35877,7 +35896,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>16</ItemSize>
 		<usPrice>30</usPrice>
-		<ubCoolness>3</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -35959,7 +35978,7 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>13</ItemSize>
 		<usPrice>45</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>2</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -36069,7 +36088,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>17</ItemSize>
 		<usPrice>135</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<SciFi>1</SciFi>
@@ -36135,7 +36154,7 @@
 		<ubPerPocket>2</ubPerPocket>
 		<ItemSize>25</ItemSize>
 		<usPrice>225</usPrice>
-		<ubCoolness>4</ubCoolness>
+		<ubCoolness>2</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 	</ITEM>
@@ -36196,7 +36215,7 @@
 		<ubWeight>40</ubWeight>
 		<ItemSize>27</ItemSize>
 		<usPrice>900</usPrice>
-		<ubCoolness>9</ubCoolness>
+		<ubCoolness>3</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -36259,7 +36278,7 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>14</ItemSize>
 		<usPrice>21</usPrice>
-		<ubCoolness>3</ubCoolness>
+		<ubCoolness>2</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -36343,7 +36362,7 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>12</ItemSize>
 		<usPrice>16</usPrice>
-		<ubCoolness>3</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -36406,7 +36425,7 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>12</ItemSize>
 		<usPrice>22</usPrice>
-		<ubCoolness>3</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -36469,7 +36488,7 @@
 		<ubPerPocket>6</ubPerPocket>
 		<ItemSize>16</ItemSize>
 		<usPrice>60</usPrice>
-		<ubCoolness>4</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -36531,7 +36550,7 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>12</ItemSize>
 		<usPrice>54</usPrice>
-		<ubCoolness>3</ubCoolness>
+		<ubCoolness>2</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -36653,7 +36672,7 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>18</ItemSize>
 		<usPrice>108</usPrice>
-		<ubCoolness>9</ubCoolness>
+		<ubCoolness>2</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -36675,7 +36694,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>24</ItemSize>
 		<usPrice>216</usPrice>
-		<ubCoolness>9</ubCoolness>
+		<ubCoolness>2</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -36697,7 +36716,7 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>12</ItemSize>
 		<usPrice>36</usPrice>
-		<ubCoolness>4</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -36739,7 +36758,7 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>10</ItemSize>
 		<usPrice>10</usPrice>
-		<ubCoolness>2</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 	</ITEM>
@@ -36777,7 +36796,7 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>12</ItemSize>
 		<usPrice>18</usPrice>
-		<ubCoolness>3</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 	</ITEM>
@@ -36815,7 +36834,7 @@
 		<ubPerPocket>6</ubPerPocket>
 		<ItemSize>16</ItemSize>
 		<usPrice>45</usPrice>
-		<ubCoolness>6</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 	</ITEM>
@@ -36853,7 +36872,7 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>12</ItemSize>
 		<usPrice>72</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>2</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -36893,7 +36912,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>17</ItemSize>
 		<usPrice>126</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>2</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -36933,7 +36952,7 @@
 		<ubPerPocket>6</ubPerPocket>
 		<ItemSize>13</ItemSize>
 		<usPrice>100</usPrice>
-		<ubCoolness>6</ubCoolness>
+		<ubCoolness>3</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 	</ITEM>
@@ -36971,7 +36990,7 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>13</ItemSize>
 		<usPrice>25</usPrice>
-		<ubCoolness>2</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -37016,7 +37035,7 @@
 		<ubPerPocket>6</ubPerPocket>
 		<ItemSize>17</ItemSize>
 		<usPrice>50</usPrice>
-		<ubCoolness>3</ubCoolness>
+		<ubCoolness>2</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -37060,7 +37079,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>21</ItemSize>
 		<usPrice>100</usPrice>
-		<ubCoolness>4</ubCoolness>
+		<ubCoolness>3</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -37212,7 +37231,7 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>12</ItemSize>
 		<usPrice>240</usPrice>
-		<ubCoolness>4</ubCoolness>
+		<ubCoolness>2</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 	</ITEM>
@@ -37231,7 +37250,6 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>12</ItemSize>
 		<usPrice>260</usPrice>
-		<ubCoolness>4</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<PercentNoiseReduction>44</PercentNoiseReduction>
@@ -37271,7 +37289,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>16</ItemSize>
 		<usPrice>650</usPrice>
-		<ubCoolness>7</ubCoolness>
+		<ubCoolness>3</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<PercentNoiseReduction>44</PercentNoiseReduction>
@@ -37333,7 +37351,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>20</ItemSize>
 		<usPrice>180</usPrice>
-		<ubCoolness>4</ubCoolness>
+		<ubCoolness>3</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 	</ITEM>
@@ -37418,7 +37436,7 @@
 		<ubWeight>45</ubWeight>
 		<ItemSize>27</ItemSize>
 		<usPrice>1200</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>5</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 	</ITEM>
@@ -37578,7 +37596,7 @@
 		<ubPerPocket>6</ubPerPocket>
 		<ItemSize>13</ItemSize>
 		<usPrice>125</usPrice>
-		<ubCoolness>10</ubCoolness>
+		<ubCoolness>5</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -37598,7 +37616,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>17</ItemSize>
 		<usPrice>250</usPrice>
-		<ubCoolness>10</ubCoolness>
+		<ubCoolness>5</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -37618,7 +37636,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>20</ItemSize>
 		<usPrice>100</usPrice>
-		<ubCoolness>3</ubCoolness>
+		<ubCoolness>2</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 	</ITEM>
@@ -37661,7 +37679,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>20</ItemSize>
 		<usPrice>120</usPrice>
-		<ubCoolness>3</ubCoolness>
+		<ubCoolness>2</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 	</ITEM>
@@ -37745,7 +37763,7 @@
 		<ubWeight>22</ubWeight>
 		<ItemSize>27</ItemSize>
 		<usPrice>600</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>2</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 	</ITEM>
@@ -37785,7 +37803,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>20</ItemSize>
 		<usPrice>300</usPrice>
-		<ubCoolness>7</ubCoolness>
+		<ubCoolness>3</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<SciFi>1</SciFi>
@@ -37805,7 +37823,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>20</ItemSize>
 		<usPrice>210</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>3</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 	</ITEM>
@@ -37824,7 +37842,7 @@
 		<ubPerPocket>6</ubPerPocket>
 		<ItemSize>17</ItemSize>
 		<usPrice>200</usPrice>
-		<ubCoolness>9</ubCoolness>
+		<ubCoolness>4</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 	</ITEM>
@@ -37843,7 +37861,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>24</ItemSize>
 		<usPrice>600</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>2</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<SciFi>1</SciFi>
@@ -37863,7 +37881,7 @@
 		<ubPerPocket>2</ubPerPocket>
 		<ItemSize>27</ItemSize>
 		<usPrice>1800</usPrice>
-		<ubCoolness>9</ubCoolness>
+		<ubCoolness>3</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<SciFi>1</SciFi>
@@ -37883,7 +37901,7 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>12</ItemSize>
 		<usPrice>21</usPrice>
-		<ubCoolness>3</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 	</ITEM>
@@ -37942,7 +37960,7 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>12</ItemSize>
 		<usPrice>39</usPrice>
-		<ubCoolness>3</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 	</ITEM>
@@ -38001,7 +38019,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>20</ItemSize>
 		<usPrice>240</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>2</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -38022,7 +38040,7 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>12</ItemSize>
 		<usPrice>60</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>2</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<PercentNoiseReduction>99</PercentNoiseReduction>
@@ -38043,7 +38061,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>22</ItemSize>
 		<usPrice>377</usPrice>
-		<ubCoolness>6</ubCoolness>
+		<ubCoolness>2</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 	</ITEM>
@@ -38062,7 +38080,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>17</ItemSize>
 		<usPrice>380</usPrice>
-		<ubCoolness>10</ubCoolness>
+		<ubCoolness>3</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -38102,7 +38120,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>16</ItemSize>
 		<usPrice>110</usPrice>
-		<ubCoolness>2</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -38122,7 +38140,7 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>13</ItemSize>
 		<usPrice>25</usPrice>
-		<ubCoolness>2</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 	</ITEM>
@@ -38162,7 +38180,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>14</ItemSize>
 		<usPrice>40</usPrice>
-		<ubCoolness>2</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 	</ITEM>
@@ -38202,7 +38220,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>21</ItemSize>
 		<usPrice>100</usPrice>
-		<ubCoolness>3</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 	</ITEM>
@@ -38401,7 +38419,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>25</ItemSize>
 		<usPrice>135</usPrice>
-		<ubCoolness>4</ubCoolness>
+		<ubCoolness>2</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 	</ITEM>
@@ -38444,7 +38462,7 @@
 		<ubPerPocket>2</ubPerPocket>
 		<ItemSize>26</ItemSize>
 		<usPrice>435</usPrice>
-		<ubCoolness>4</ubCoolness>
+		<ubCoolness>3</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 	</ITEM>
@@ -38487,7 +38505,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>25</ItemSize>
 		<usPrice>300</usPrice>
-		<ubCoolness>10</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -38507,7 +38525,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>24</ItemSize>
 		<usPrice>200</usPrice>
-		<ubCoolness>4</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -38625,7 +38643,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>15</ItemSize>
 		<usPrice>30</usPrice>
-		<ubCoolness>4</ubCoolness>
+		<ubCoolness>2</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 	</ITEM>
@@ -38644,7 +38662,7 @@
 		<ubPerPocket>6</ubPerPocket>
 		<ItemSize>20</ItemSize>
 		<usPrice>35000</usPrice>
-		<ubCoolness>10</ubCoolness>
+		<ubCoolness>3</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -38707,7 +38725,7 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>10</ItemSize>
 		<usPrice>12</usPrice>
-		<ubCoolness>3</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 	</ITEM>
@@ -38726,7 +38744,7 @@
 		<ubPerPocket>6</ubPerPocket>
 		<ItemSize>13</ItemSize>
 		<usPrice>80</usPrice>
-		<ubCoolness>6</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 	</ITEM>
@@ -38764,7 +38782,7 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>12</ItemSize>
 		<usPrice>600</usPrice>
-		<ubCoolness>6</ubCoolness>
+		<ubCoolness>2</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 	</ITEM>
@@ -38783,7 +38801,7 @@
 		<ubPerPocket>6</ubPerPocket>
 		<ItemSize>17</ItemSize>
 		<usPrice>300</usPrice>
-		<ubCoolness>7</ubCoolness>
+		<ubCoolness>5</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 	</ITEM>
@@ -38821,7 +38839,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>20</ItemSize>
 		<usPrice>780</usPrice>
-		<ubCoolness>6</ubCoolness>
+		<ubCoolness>5</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 	</ITEM>
@@ -38900,7 +38918,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>16</ItemSize>
 		<usPrice>15</usPrice>
-		<ubCoolness>3</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<PercentNoiseReduction>33</PercentNoiseReduction>
@@ -38941,7 +38959,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>22</ItemSize>
 		<usPrice>25</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<PercentNoiseReduction>33</PercentNoiseReduction>
@@ -38982,7 +39000,7 @@
 		<ubPerPocket>2</ubPerPocket>
 		<ItemSize>22</ItemSize>
 		<usPrice>125</usPrice>
-		<ubCoolness>6</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -39014,18 +39032,18 @@
 		<uiIndex>1567</uiIndex>
 		<szItemName>23mm Buckshot</szItemName>
 		<szLongItemName>23mm Buckshot</szLongItemName>
-		<szItemDesc>This 23mm shell magazine holds 6 rounds of "Shrapnel" ammunition.</szItemDesc>
+		<szItemDesc>This 23mm shell magazine holds 7 rounds of "Shrapnel" ammunition.</szItemDesc>
 		<szBRName>23mm Buckshot</szBRName>
-		<szBRDesc>This 23mm shell magazine holds 6 rounds of "Shrapnel" ammunition.</szBRDesc>
+		<szBRDesc>This 23mm shell magazine holds 7 rounds of "Shrapnel" ammunition.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>713</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>803</ubGraphicNum>
-		<ubWeight>10</ubWeight>
+		<ubWeight>11</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>21</ItemSize>
 		<usPrice>35</usPrice>
-		<ubCoolness>9</ubCoolness>
+		<ubCoolness>2</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 	</ITEM>
@@ -39033,17 +39051,17 @@
 		<uiIndex>1568</uiIndex>
 		<szItemName>23mm Slug</szItemName>
 		<szLongItemName>23mm Slug</szLongItemName>
-		<szItemDesc>This magazine holds 6 rounds of 23mm Slug ammunition, A.K.A the "Barrikada", which is capable of destroying a engine block at 100m.</szItemDesc>
+		<szItemDesc>This magazine holds 7 rounds of 23mm Slug ammunition, A.K.A the "Barrikada", which is capable of destroying a engine block at 100m.</szItemDesc>
 		<szBRName>23mm Slug</szBRName>
-		<szBRDesc>This magazine holds 6 rounds of 23mm Slug ammunition, A.K.A the "Barrikada", which is capable of destroying a engine block at 100m.</szBRDesc>
+		<szBRDesc>This magazine holds 7 rounds of 23mm Slug ammunition, A.K.A the "Barrikada", which is capable of destroying a engine block at 100m.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>714</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>804</ubGraphicNum>
-		<ubWeight>10</ubWeight>
+		<ubWeight>11</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>21</ItemSize>
-		<usPrice>2100</usPrice>
+		<usPrice>140</usPrice>
 		<ubCoolness>9</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
@@ -39063,7 +39081,7 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>13</ItemSize>
 		<usPrice>40</usPrice>
-		<ubCoolness>4</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -39083,7 +39101,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>17</ItemSize>
 		<usPrice>80</usPrice>
-		<ubCoolness>4</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -39103,7 +39121,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>21</ItemSize>
 		<usPrice>160</usPrice>
-		<ubCoolness>4</ubCoolness>
+		<ubCoolness>2</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -39122,7 +39140,7 @@
 		<ubWeight>30</ubWeight>
 		<ItemSize>27</ItemSize>
 		<usPrice>800</usPrice>
-		<ubCoolness>6</ubCoolness>
+		<ubCoolness>2</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -39142,7 +39160,7 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>12</ItemSize>
 		<usPrice>5</usPrice>
-		<ubCoolness>2</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -39184,7 +39202,7 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>12</ItemSize>
 		<usPrice>9</usPrice>
-		<ubCoolness>3</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -39226,7 +39244,7 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>12</ItemSize>
 		<usPrice>240</usPrice>
-		<ubCoolness>7</ubCoolness>
+		<ubCoolness>2</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -39246,7 +39264,7 @@
 		<ubPerPocket>6</ubPerPocket>
 		<ItemSize>12</ItemSize>
 		<usPrice>324</usPrice>
-		<ubCoolness>9</ubCoolness>
+		<ubCoolness>3</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -39366,7 +39384,7 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>12</ItemSize>
 		<usPrice>15</usPrice>
-		<ubCoolness>2</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -39408,7 +39426,7 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>12</ItemSize>
 		<usPrice>50</usPrice>
-		<ubCoolness>3</ubCoolness>
+		<ubCoolness>5</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -39491,7 +39509,7 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>12</ItemSize>
 		<usPrice>45</usPrice>
-		<ubCoolness>1</ubCoolness>
+		<ubCoolness>5</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<RangeBonus>20</RangeBonus>
@@ -39511,7 +39529,7 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>12</ItemSize>
 		<usPrice>32</usPrice>
-		<ubCoolness>9</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 	</ITEM>
@@ -39529,7 +39547,7 @@
 		<ubWeight>60</ubWeight>
 		<ItemSize>31</ItemSize>
 		<usPrice>1750</usPrice>
-		<ubCoolness>10</ubCoolness>
+		<ubCoolness>2</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BulletSpeedBonus>-10</BulletSpeedBonus>
@@ -39570,7 +39588,7 @@
 		<ubWeight>65</ubWeight>
 		<ItemSize>31</ItemSize>
 		<usPrice>1500</usPrice>
-		<ubCoolness>10</ubCoolness>
+		<ubCoolness>2</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -39634,7 +39652,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>20</ItemSize>
 		<usPrice>900</usPrice>
-		<ubCoolness>7</ubCoolness>
+		<ubCoolness>3</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<PercentNoiseReduction>44</PercentNoiseReduction>
@@ -39654,7 +39672,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>15</ItemSize>
 		<usPrice>40</usPrice>
-		<ubCoolness>2</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 	</ITEM>
@@ -39693,7 +39711,7 @@
 		<ubPerPocket>2</ubPerPocket>
 		<ItemSize>26</ItemSize>
 		<usPrice>3500</usPrice>
-		<ubCoolness>9</ubCoolness>
+		<ubCoolness>5</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<SciFi>1</SciFi>
@@ -45141,8 +45159,6 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
-		<Bipod>3</Bipod>
-		<ToHitBonus>-3</ToHitBonus>
 		<AimBonus>20</AimBonus>
 		<MinRangeForAimBonus>90</MinRangeForAimBonus>
 		<PercentAPReduction>-5</PercentAPReduction>
@@ -45176,8 +45192,8 @@
 		<Attachment>1</Attachment>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<Bipod>10</Bipod>
-		<ToHitBonus>-10</ToHitBonus>
+		<Bipod>5</Bipod>
+		<ToHitBonus>-5</ToHitBonus>
 		<AimBonus>25</AimBonus>
 		<MinRangeForAimBonus>100</MinRangeForAimBonus>
 		<PercentAPReduction>-20</PercentAPReduction>
@@ -45246,8 +45262,6 @@
 		<Electronic>1</Electronic>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<Bipod>5</Bipod>
-		<ToHitBonus>-5</ToHitBonus>
 		<AimBonus>20</AimBonus>
 		<MinRangeForAimBonus>85</MinRangeForAimBonus>
 		<PercentAPReduction>-15</PercentAPReduction>
@@ -45313,8 +45327,6 @@
 		<Attachment>1</Attachment>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<Bipod>2</Bipod>
-		<ToHitBonus>-2</ToHitBonus>
 		<AimBonus>19</AimBonus>
 		<MinRangeForAimBonus>65</MinRangeForAimBonus>
 		<PercentAPReduction>-8</PercentAPReduction>
@@ -45348,8 +45360,6 @@
 		<Attachment>1</Attachment>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<Bipod>3</Bipod>
-		<ToHitBonus>-3</ToHitBonus>
 		<AimBonus>20</AimBonus>
 		<MinRangeForAimBonus>70</MinRangeForAimBonus>
 		<PercentAPReduction>-12</PercentAPReduction>
@@ -45383,8 +45393,8 @@
 		<Attachment>1</Attachment>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<Bipod>5</Bipod>
-		<ToHitBonus>-5</ToHitBonus>
+		<Bipod>3</Bipod>
+		<ToHitBonus>-3</ToHitBonus>
 		<AimBonus>25</AimBonus>
 		<MinRangeForAimBonus>85</MinRangeForAimBonus>
 		<PercentAPReduction>-18</PercentAPReduction>
@@ -45572,8 +45582,8 @@
 		<Attachment>1</Attachment>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<Bipod>5</Bipod>
-		<ToHitBonus>-5</ToHitBonus>
+		<Bipod>2</Bipod>
+		<ToHitBonus>-2</ToHitBonus>
 		<AimBonus>22</AimBonus>
 		<MinRangeForAimBonus>75</MinRangeForAimBonus>
 		<PercentAPReduction>-15</PercentAPReduction>
@@ -45605,8 +45615,8 @@
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
 		<Electronic>1</Electronic>
-		<Bipod>30</Bipod>
-		<ToHitBonus>-10</ToHitBonus>
+		<Bipod>25</Bipod>
+		<ToHitBonus>-5</ToHitBonus>
 		<BestLaserRange>1000</BestLaserRange>
 		<AimBonus>25</AimBonus>
 		<MinRangeForAimBonus>100</MinRangeForAimBonus>
@@ -45642,8 +45652,6 @@
 		<Electronic>1</Electronic>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<Bipod>1</Bipod>
-		<ToHitBonus>-1</ToHitBonus>
 		<AimBonus>12</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
 		<PercentAPReduction>-4</PercentAPReduction>
@@ -46104,7 +46112,7 @@
 		<ToHitBonus>-1</ToHitBonus>
 		<BurstToHitBonus>1</BurstToHitBonus>
 		<AutoFireToHitBonus>1</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>-7</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>-3</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1843</uiIndex>
@@ -46137,7 +46145,7 @@
 		<ToHitBonus>-2</ToHitBonus>
 		<BurstToHitBonus>2</BurstToHitBonus>
 		<AutoFireToHitBonus>2</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>-7</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1844</uiIndex>
@@ -46169,7 +46177,7 @@
 		<ToHitBonus>-2</ToHitBonus>
 		<BurstToHitBonus>2</BurstToHitBonus>
 		<AutoFireToHitBonus>2</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>-7</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1845</uiIndex>
@@ -46394,7 +46402,7 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<PercentReloadTimeAPReduction>75</PercentReloadTimeAPReduction>
+		<PercentReloadTimeAPReduction>50</PercentReloadTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1853</uiIndex>
@@ -46495,8 +46503,6 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<Bipod>2</Bipod>
-		<ToHitBonus>-2</ToHitBonus>
 		<AimBonus>11</AimBonus>
 		<MinRangeForAimBonus>45</MinRangeForAimBonus>
 		<PercentAPReduction>-7</PercentAPReduction>
@@ -46530,8 +46536,6 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<Bipod>2</Bipod>
-		<ToHitBonus>-2</ToHitBonus>
 		<AimBonus>11</AimBonus>
 		<MinRangeForAimBonus>45</MinRangeForAimBonus>
 		<PercentAPReduction>-7</PercentAPReduction>
@@ -46565,8 +46569,6 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<Bipod>2</Bipod>
-		<ToHitBonus>-2</ToHitBonus>
 		<AimBonus>11</AimBonus>
 		<MinRangeForAimBonus>45</MinRangeForAimBonus>
 		<PercentAPReduction>-7</PercentAPReduction>
@@ -50770,7 +50772,7 @@
 		<ubPerPocket>2</ubPerPocket>
 		<ItemSize>22</ItemSize>
 		<usPrice>300</usPrice>
-		<ubCoolness>9</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -50794,7 +50796,7 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>13</ItemSize>
 		<usPrice>66</usPrice>
-		<ubCoolness>6</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -50814,7 +50816,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>21</ItemSize>
 		<usPrice>264</usPrice>
-		<ubCoolness>7</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -53116,7 +53118,7 @@
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>781</ubGraphicNum>
 		<ubWeight>145</ubWeight>
-		<ItemSize>8</ItemSize>
+		<ItemSize>9</ItemSize>
 		<usPrice>14900</usPrice>
 		<ubCoolness>9</ubCoolness>
 		<bReliability>1</bReliability>
@@ -53463,8 +53465,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>750</BR_ROF>
-		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2149</uiIndex>
@@ -54373,7 +54373,7 @@
 		<ubPerPocket>1</ubPerPocket>
 		<ItemSize>25</ItemSize>
 		<usPrice>420</usPrice>
-		<ubCoolness>10</ubCoolness>
+		<ubCoolness>2</ubCoolness>
 		<bReliability>-1</bReliability>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
@@ -54543,8 +54543,6 @@
 		<Attachment>1</Attachment>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<Bipod>3</Bipod>
-		<ToHitBonus>-3</ToHitBonus>
 		<AimBonus>20</AimBonus>
 		<MinRangeForAimBonus>75</MinRangeForAimBonus>
 		<PercentAPReduction>-12</PercentAPReduction>
@@ -54667,8 +54665,6 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
-		<Bipod>3</Bipod>
-		<ToHitBonus>-3</ToHitBonus>
 		<AimBonus>18</AimBonus>
 		<MinRangeForAimBonus>70</MinRangeForAimBonus>
 		<PercentAPReduction>-9</PercentAPReduction>
@@ -58138,7 +58134,7 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>12</ItemSize>
 		<usPrice>25</usPrice>
-		<ubCoolness>10</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<bReliability>-2</bReliability>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
@@ -58158,7 +58154,7 @@
 		<ubPerPocket>6</ubPerPocket>
 		<ItemSize>21</ItemSize>
 		<usPrice>125</usPrice>
-		<ubCoolness>10</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<bReliability>-2</bReliability>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
@@ -58178,7 +58174,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>25</ItemSize>
 		<usPrice>250</usPrice>
-		<ubCoolness>10</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 	</ITEM>
@@ -58196,7 +58192,7 @@
 		<ubWeight>60</ubWeight>
 		<ItemSize>31</ItemSize>
 		<usPrice>1250</usPrice>
-		<ubCoolness>10</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 	</ITEM>
@@ -58236,7 +58232,7 @@
 		<ubPerPocket>6</ubPerPocket>
 		<ItemSize>17</ItemSize>
 		<usPrice>250</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>2</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<PercentNoiseReduction>44</PercentNoiseReduction>
@@ -58258,7 +58254,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>20</ItemSize>
 		<usPrice>500</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>2</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<PercentNoiseReduction>44</PercentNoiseReduction>
@@ -58280,7 +58276,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>20</ItemSize>
 		<usPrice>750</usPrice>
-		<ubCoolness>7</ubCoolness>
+		<ubCoolness>2</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<PercentNoiseReduction>44</PercentNoiseReduction>
@@ -58998,7 +58994,7 @@
 		<ubPerPocket>6</ubPerPocket>
 		<ItemSize>13</ItemSize>
 		<usPrice>100</usPrice>
-		<ubCoolness>6</ubCoolness>
+		<ubCoolness>3</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 	</ITEM>
@@ -59201,7 +59197,7 @@
 		<ubPerPocket>6</ubPerPocket>
 		<ItemSize>13</ItemSize>
 		<usPrice>125</usPrice>
-		<ubCoolness>10</ubCoolness>
+		<ubCoolness>2</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -59221,7 +59217,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>17</ItemSize>
 		<usPrice>250</usPrice>
-		<ubCoolness>10</ubCoolness>
+		<ubCoolness>2</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -59281,7 +59277,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>20</ItemSize>
 		<usPrice>80</usPrice>
-		<ubCoolness>3</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 	</ITEM>
@@ -59950,12 +59946,13 @@
 		<ubGraphicNum>564</ubGraphicNum>
 		<ubWeight>10</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
-		<ItemSize>21</ItemSize>
-		<usPrice>35</usPrice>
+		<ItemSize>22</ItemSize>
+		<usPrice>250</usPrice>
 		<ubCoolness>9</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>3</BR_NewInventory>
+		<AmmoCrate>1</AmmoCrate>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2423</uiIndex>
@@ -59970,12 +59967,13 @@
 		<ubGraphicNum>563</ubGraphicNum>
 		<ubWeight>10</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
-		<ItemSize>21</ItemSize>
-		<usPrice>2100</usPrice>
+		<ItemSize>22</ItemSize>
+		<usPrice>1000</usPrice>
 		<ubCoolness>9</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>1</BR_NewInventory>
+		<AmmoCrate>1</AmmoCrate>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2424</uiIndex>
@@ -59992,7 +59990,7 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>12</ItemSize>
 		<usPrice>12</usPrice>
-		<ubCoolness>3</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -60154,7 +60152,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>20</ItemSize>
 		<usPrice>110</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>2</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -60194,7 +60192,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>20</ItemSize>
 		<usPrice>154</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>2</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -60603,7 +60601,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>12</ItemSize>
 		<usPrice>44</usPrice>
-		<ubCoolness>4</ubCoolness>
+		<ubCoolness>2</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 	</ITEM>
@@ -60705,6 +60703,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>16</ItemSize>
 		<usPrice>180</usPrice>
+		<ubCoolness>2</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 	</ITEM>
@@ -60743,7 +60742,7 @@
 		<ubPerPocket>6</ubPerPocket>
 		<ItemSize>19</ItemSize>
 		<usPrice>175</usPrice>
-		<ubCoolness>7</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -60787,7 +60786,7 @@
 		<ubPerPocket>2</ubPerPocket>
 		<ItemSize>27</ItemSize>
 		<usPrice>1600</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -61328,7 +61327,7 @@
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>879</ubGraphicNum>
 		<ubWeight>89</ubWeight>
-		<ItemSize>7</ItemSize>
+		<ItemSize>8</ItemSize>
 		<usPrice>6280</usPrice>
 		<ubCoolness>8</ubCoolness>
 		<bReliability>6</bReliability>
@@ -61438,11 +61437,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2483</uiIndex>
-		<szItemName>Harpoon Gun</szItemName>
-		<szLongItemName>Harpoon Gun</szLongItemName>
-		<szItemDesc>When a bad guy steals your favourite .44 Magnum, nail him with this lengthy weapon and say "You're shit outta luck."</szItemDesc>
-		<szBRName>Harpoon Gun</szBRName>
-		<szBRDesc>When a bad guy steals your favourite .44 Magnum, nail him with this lengthy weapon and say "You're shit outta luck."</szBRDesc>
+		<szItemName>Spear Gun</szItemName>
+		<szLongItemName>Spear Gun</szLongItemName>
+		<szItemDesc>An underwater weapon utilizing compressed air to launch a spear-like cartridge silently, only effective in close range.</szItemDesc>
+		<szBRName>Spear Gun</szBRName>
+		<szBRDesc>An underwater weapon utilizing compressed air to launch a spear-like cartridge silently, only effective in close range.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2483</ubClassIndex>
 		<ubCursor>3</ubCursor>
@@ -61463,10 +61462,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2484</uiIndex>
-		<szItemName>Harpoon</szItemName>
-		<szLongItemName>Harpoon</szLongItemName>
+		<szItemName>Spear</szItemName>
+		<szLongItemName>Spear</szLongItemName>
 		<szItemDesc>Very effective against flesh above or under the surface, it will send your foe straight down to Davy Jones' Locker.</szItemDesc>
-		<szBRName>Harpoon</szBRName>
+		<szBRName>Spear cartridge</szBRName>
 		<szBRDesc>Very effective against flesh above or under the surface, it will send your foe straight down to Davy Jones' Locker.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>763</ubClassIndex>
@@ -61475,7 +61474,7 @@
 		<ubWeight>6</ubWeight>
 		<ItemSize>28</ItemSize>
 		<usPrice>5</usPrice>
-		<ubCoolness>6</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 	</ITEM>
@@ -61620,7 +61619,7 @@
 		<ToHitBonus>-2</ToHitBonus>
 		<BurstToHitBonus>2</BurstToHitBonus>
 		<AutoFireToHitBonus>2</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>-7</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
 		<DefaultAttachment>2489</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -61947,7 +61946,7 @@
 		<ubPerPocket>5</ubPerPocket>
 		<ItemSize>20</ItemSize>
 		<usPrice>10</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>2</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -62011,7 +62010,7 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>10</ItemSize>
 		<usPrice>20</usPrice>
-		<ubCoolness>6</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -62071,7 +62070,7 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>12</ItemSize>
 		<usPrice>21</usPrice>
-		<ubCoolness>6</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 	</ITEM>
@@ -62133,5 +62132,235 @@
 		<Sinks>1</Sinks>
 		<BR_NewInventory>1</BR_NewInventory>
 		<AmmoCrate>1</AmmoCrate>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2512</uiIndex>
+		<szItemName>23x115mm belt</szItemName>
+		<szLongItemName>23x115mm belt</szLongItemName>
+		<szItemDesc>100 rounds of AM-23 ammunition for Gryazev-Shipunov GSh-6-23M 23mm cannon.</szItemDesc>
+		<szBRName>23x115mm belt</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>1024</usItemClass>
+		<ubClassIndex>774</ubClassIndex>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>582</ubGraphicNum>
+		<ubWeight>155</ubWeight>
+		<ItemSize>31</ItemSize>
+		<usPrice>5000</usPrice>
+		<ubCoolness>8</ubCoolness>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<TwoHanded>1</TwoHanded>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2513</uiIndex>
+		<szItemName>GSh-6-23M</szItemName>
+		<szLongItemName>Gryazev-Shipunov GSh-6-23M</szLongItemName>
+		<szItemDesc>Inspired by The Jackal, this Russian aircraft cannon and its fire control system can be installed on certain mobile turret platform. Comes with only 2 drawbacks: too heavy and runs out of ammo too quickly.</szItemDesc>
+		<szBRName>Gryazev-Shipunov GSh-6-23M</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<ubClassIndex>2513</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicNum>895</ubGraphicNum>
+		<ubWeight>730</ubWeight>
+		<ItemSize>9</ItemSize>
+		<usPrice>7210</usPrice>
+		<ubCoolness>8</ubCoolness>
+		<bReliability>7</bReliability>
+		<bRepairEase>-3</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
+		<Unaerodynamic>1</Unaerodynamic>
+		<BR_ROF>10000</BR_ROF>
+		<Bipod>-150</Bipod>
+		<FingerPrintID>1</FingerPrintID>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2514</uiIndex>
+		<szItemName>Mk18 MOD1</szItemName>
+		<szLongItemName>Mk.18 MOD 1</szLongItemName>
+		<szItemDesc>Latest arsenal of special forces in Afghanistan, the Mk18 MOD 1 is an Mk18 fitted with a Daniel Defense RIS II rail. The barrel is now free-float for higher accuracy.</szItemDesc>
+		<szBRName>Mk.18 MOD 1</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<ubClassIndex>2514</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicNum>896</ubGraphicNum>
+		<ubWeight>25</ubWeight>
+		<ItemSize>6</ItemSize>
+		<usPrice>3870</usPrice>
+		<ubCoolness>5</ubCoolness>
+		<bReliability>3</bReliability>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
+		<NotBuyable>1</NotBuyable>
+		<BR_ROF>800</BR_ROF>
+		<ToHitBonus>20</ToHitBonus>
+		<BestLaserRange>450</BestLaserRange>
+		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
+		<NightVisionRangeBonus>25</NightVisionRangeBonus>
+		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
+		<DefaultAttachment>1833</DefaultAttachment>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2515</uiIndex>
+		<szItemName>SAR-21A</szItemName>
+		<szLongItemName>SAR-21A</szLongItemName>
+		<szItemDesc>This bullpup assault rifle is slightly shorter and lighter than the standard Singaporean SAR-21, the rate of fire is also increased to provide more firepower in close quarters.</szItemDesc>
+		<szBRName>SAR-21A</szBRName>
+		<szBRDesc>This bullpup assault rifle is slightly shorter and lighter than the standard Singaporean SAR-21, the rate of fire is also increased to provide more firepower in close quarters.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<ubClassIndex>2515</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicNum>897</ubGraphicNum>
+		<ubWeight>35</ubWeight>
+		<ItemSize>6</ItemSize>
+		<usPrice>2100</usPrice>
+		<ubCoolness>7</ubCoolness>
+		<bReliability>4</bReliability>
+		<bRepairEase>-1</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
+		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_ROF>900</BR_ROF>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2516</uiIndex>
+		<szItemName>Buschman</szItemName>
+		<szLongItemName>Buschman IDW</szLongItemName>
+		<szItemDesc>The Bushman also has an easily variable rate regulator and can vary its ROF from 100-1400 rpm with a simple switch. Its factory-set ROF is 450 for low recoil.</szItemDesc>
+		<szBRName>Buschman IDW</szBRName>
+		<szBRDesc>The Bushman also has an easily variable rate regulator and can vary its ROF from 100-1400 rpm with a simple switch. Its factory-set ROF is 450 for low recoil.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<ubClassIndex>2516</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicNum>898</ubGraphicNum>
+		<ubWeight>29</ubWeight>
+		<ubPerPocket>1</ubPerPocket>
+		<ItemSize>3</ItemSize>
+		<usPrice>1480</usPrice>
+		<ubCoolness>3</ubCoolness>
+		<bReliability>4</bReliability>
+		<bRepairEase>-2</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>2</BR_UsedInventory>
+		<BR_ROF>450</BR_ROF>
+		<ToHitBonus>-1</ToHitBonus>
+		<BurstToHitBonus>5</BurstToHitBonus>
+		<AutoFireToHitBonus>5</AutoFireToHitBonus>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2517</uiIndex>
+		<szItemName>LQE 1916 SLR</szItemName>
+		<szLongItemName>Liu Qing En 1916</szLongItemName>
+		<szItemDesc>This Made in China semi-automatic rifle is a century-old ingenious design. Just rotate the gas regulator near the muzzle to switch between manual and self-loading.</szItemDesc>
+		<szBRName>Liu Qing En 1916</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<ubClassIndex>2517</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicNum>899</ubGraphicNum>
+		<ubWeight>48</ubWeight>
+		<ItemSize>8</ItemSize>
+		<usPrice>2800</usPrice>
+		<ubCoolness>1</ubCoolness>
+		<bReliability>2</bReliability>
+		<bRepairEase>-1</bRepairEase>
+		<bRepairEase>2</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
+		<BR_ROF>50</BR_ROF>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2518</uiIndex>
+		<szItemName>Madsen</szItemName>
+		<szLongItemName>Madsen LMG</szLongItemName>
+		<szItemDesc>Incredibly reliable despite its complexity, this WWI era machinegun offers smooth action and low recoil thanks to its low fire rate.</szItemDesc>
+		<szBRName>Madsen LMG</szBRName>
+		<szBRDesc>Made in the early 20th century, this venerable machinegun now chambers 7.62x51mm NATO and is still on active duty in Brazil.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<ubClassIndex>2518</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicNum>900</ubGraphicNum>
+		<ubWeight>90</ubWeight>
+		<ItemSize>8</ItemSize>
+		<usPrice>3850</usPrice>
+		<ubCoolness>8</ubCoolness>
+		<bReliability>8</bReliability>
+		<bRepairEase>-4</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
+		<BR_UsedInventory>2</BR_UsedInventory>
+		<BR_ROF>450</BR_ROF>
+		<HideMuzzleFlash>1</HideMuzzleFlash>
+		<Bipod>15</Bipod>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2519</uiIndex>
+		<szItemName>UMP40</szItemName>
+		<szLongItemName>HK UMP40 Fully Armed</szLongItemName>
+		<szItemDesc>A UMP40 with sound suppressors, red-dot sight and hand grip.</szItemDesc>
+		<szBRName>HK UMP40 Fully Armed</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<ubClassIndex>2519</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicNum>901</ubGraphicNum>
+		<ubWeight>21</ubWeight>
+		<ItemSize>5</ItemSize>
+		<usPrice>1760</usPrice>
+		<ubCoolness>6</ubCoolness>
+		<bReliability>3</bReliability>
+		<bRepairEase>-1</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
+		<BigGunList>1</BigGunList>
+		<BR_ROF>600</BR_ROF>
+		<PercentNoiseReduction>85</PercentNoiseReduction>
+		<HideMuzzleFlash>1</HideMuzzleFlash>
+		<ToHitBonus>-1</ToHitBonus>
+		<BurstToHitBonus>5</BurstToHitBonus>
+		<AutoFireToHitBonus>5</AutoFireToHitBonus>
+		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
+		<DefaultAttachment>1802</DefaultAttachment>
 	</ITEM>
 </ITEMLIST>

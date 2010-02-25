@@ -452,8 +452,8 @@
 	</AMMO>
 	<AMMO>
 		<uiIndex>90</uiIndex>
-		<AmmoCaliber>Harpoon</AmmoCaliber>
-		<BRCaliber>Harpoon</BRCaliber>
+		<AmmoCaliber>Spear</AmmoCaliber>
+		<BRCaliber>Spear</BRCaliber>
 	</AMMO>
 	<AMMO>
 		<uiIndex>91</uiIndex>
@@ -464,5 +464,10 @@
 		<uiIndex>92</uiIndex>
 		<AmmoCaliber>.22 WMR</AmmoCaliber>
 		<BRCaliber>.22 WMR</BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>93</uiIndex>
+		<AmmoCaliber>23x115mm</AmmoCaliber>
+		<BRCaliber>23x115mm</BRCaliber>
 	</AMMO>
 </AMMOLIST>
