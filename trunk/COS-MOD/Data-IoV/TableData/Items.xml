@@ -21197,6 +21197,7 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<HearingRangeBonus>-5</HearingRangeBonus>
 		<AimBonus>-2</AimBonus>
 	</ITEM>
 	<ITEM>
@@ -21221,7 +21222,7 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<HearingRangeBonus>20</HearingRangeBonus>
+		<HearingRangeBonus>-5</HearingRangeBonus>
 		<AimBonus>-2</AimBonus>
 	</ITEM>
 	<ITEM>
@@ -62242,10 +62243,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2516</uiIndex>
-		<szItemName>Buschman</szItemName>
-		<szLongItemName>Buschman IDW</szLongItemName>
+		<szItemName>Bushman</szItemName>
+		<szLongItemName>Bushman IDW</szLongItemName>
 		<szItemDesc>The Bushman also has an easily variable rate regulator and can vary its ROF from 100-1400 rpm with a simple switch. Its factory-set ROF is 450 for low recoil.</szItemDesc>
-		<szBRName>Buschman IDW</szBRName>
+		<szBRName>Bushman IDW</szBRName>
 		<szBRDesc>The Bushman also has an easily variable rate regulator and can vary its ROF from 100-1400 rpm with a simple switch. Its factory-set ROF is 450 for low recoil.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2516</ubClassIndex>
