@@ -7194,11 +7194,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>899</uiIndex>
-		<szItemName>Straw Hat</szItemName>
-		<szLongItemName>越共斗笠</szLongItemName>
-		<szItemDesc>越共使用的斗笠。</szItemDesc>
-		<szBRName>Conical Straw Hat</szBRName>
-		<szBRDesc>不在BR出售</szBRDesc>
+		<szItemName>British Bush Hat</szItemName>
+		<szLongItemName>英军丛林帽</szLongItemName>
+		<szItemDesc>英军DPM迷彩“渔夫帽”，是英国正规军及SAS等特种部队的丛林战装备。</szItemDesc>
+		<szBRName>British Army Bush Hat</szBRName>
+		<szBRDesc>英军DPM迷彩“渔夫帽”，是英国正规军及SAS等特种部队的丛林战装备。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>900</uiIndex>
@@ -13626,10 +13626,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1703</uiIndex>
-		<szItemName>Wood Camo Pants</szItemName>
+		<szItemName>Wood Camo Trousers</szItemName>
 		<szLongItemName>丛林迷彩裤</szLongItemName>
 		<szItemDesc>只提供有限的保护。丛林数码迷彩裤在相应的环境里可提供更长期有效的隐藏效果。</szItemDesc>
-		<szBRName>Wood Camo Pants</szBRName>
+		<szBRName>Wood Camo Trousers</szBRName>
 		<szBRDesc>只提供有限的保护。丛林数码迷彩裤在相应的环境里可提供更长期有效的隐藏效果。</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -13650,10 +13650,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1706</uiIndex>
-		<szItemName>Desert Camo Pants</szItemName>
+		<szItemName>Desert Camo Trousers</szItemName>
 		<szLongItemName>沙漠迷彩裤</szLongItemName>
 		<szItemDesc>只提供有限的保护。丛林数码迷彩裤在相应的环境里可提供更长期有效的隐藏效果。</szItemDesc>
-		<szBRName>Desert Camo Pants</szBRName>
+		<szBRName>Desert Camo Trousers</szBRName>
 		<szBRDesc>只提供有限的保护。丛林数码迷彩裤在相应的环境里可提供更长期有效的隐藏效果。</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -13674,10 +13674,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1709</uiIndex>
-		<szItemName>Urban Camo Pants</szItemName>
+		<szItemName>Urban Camo Trousers</szItemName>
 		<szLongItemName>城市迷彩裤</szLongItemName>
 		<szItemDesc>只提供有限的保护。城市迷彩裤在相应的环境里可提供更长期有效的隐藏效果。</szItemDesc>
-		<szBRName>Urban Camo Pants</szBRName>
+		<szBRName>Urban Camo Trousers</szBRName>
 		<szBRDesc>只提供有限的保护。数码迷彩裤在相应的环境里可提供更长期有效的隐藏效果。</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -13698,10 +13698,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1712</uiIndex>
-		<szItemName>Snow Camo Pants</szItemName>
+		<szItemName>Snow Camo Trousers</szItemName>
 		<szLongItemName>雪地迷彩裤</szLongItemName>
 		<szItemDesc>只提供有限的保护。雪地迷彩裤在相应的环境里可提供更长期有效的隐藏效果。</szItemDesc>
-		<szBRName>Snow Camo Pants</szBRName>
+		<szBRName>Snow Camo Trousers</szBRName>
 		<szBRDesc>只提供有限的保护。雪地迷彩裤在相应的环境里可提供更长期有效的隐藏效果。</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -13722,10 +13722,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1715</uiIndex>
-		<szItemName>Night Camo Pants</szItemName>
+		<szItemName>Night Camo Trousers</szItemName>
 		<szLongItemName>夜间迷彩裤</szLongItemName>
 		<szItemDesc>只提供有限的保护。夜间迷彩裤在相应的环境里可提供更长期有效的隐藏效果。</szItemDesc>
-		<szBRName>Night Camo Pants</szBRName>
+		<szBRName>Night Camo Trousers</szBRName>
 		<szBRDesc>只提供有限的保护。夜间迷彩裤在相应的环境里可提供更长期有效的隐藏效果。</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -13818,10 +13818,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1727</uiIndex>
-		<szItemName>MC Pants</szItemName>
+		<szItemName>MC Trousers</szItemName>
 		<szLongItemName>MC迷彩裤</szLongItemName>
 		<szItemDesc>CP公司的全地形迷彩长裤，可以适用于森林或者沙漠环境。</szItemDesc>
-		<szBRName>MC Pants</szBRName>
+		<szBRName>MC Trousers</szBRName>
 		<szBRDesc>CP公司的全地形迷彩长裤，可以适用于森林或者沙漠环境。</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -13842,10 +13842,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1730</uiIndex>
-		<szItemName>Tiger Pants</szItemName>
+		<szItemName>Tiger Trousers</szItemName>
 		<szLongItemName>虎斑裤</szLongItemName>
 		<szItemDesc>著名的虎斑迷彩长裤，美军越南军事援助司令部-研究及观察组(MACV-SOG)在越战中的装备。</szItemDesc>
-		<szBRName>Tiger Stripe Pants</szBRName>
+		<szBRName>Tiger Stripe Trousers</szBRName>
 		<szBRDesc>著名的虎斑迷彩长裤，美军越南军事援助司令部-研究及观察组(MACV-SOG)在越战中的装备。</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -13866,7 +13866,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1733</uiIndex>
-		<szItemName>SPETsNAZ Pants</szItemName>
+		<szItemName>SPETsNAZ Trousers</szItemName>
 		<szLongItemName>SPETSNAZ长裤</szLongItemName>
 		<szItemDesc>俄罗斯特种部队SPETSNAZ所使用的DPM丛林迷彩长裤。</szItemDesc>
 		<szBRName>SPETsNAZ Leggings</szBRName>
@@ -13890,7 +13890,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1736</uiIndex>
-		<szItemName>Magilp Pants</szItemName>
+		<szItemName>Magilp Trousers</szItemName>
 		<szLongItemName>油画长裤</szLongItemName>
 		<szItemDesc>这款油画迷彩护腿长裤是意大利军队的现役装备。</szItemDesc>
 		<szBRName>Magilp Leggings</szBRName>
@@ -13914,7 +13914,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1739</uiIndex>
-		<szItemName>FELIN Pants</szItemName>
+		<szItemName>FELIN Trousers</szItemName>
 		<szLongItemName>FELIN长裤</szLongItemName>
 		<szItemDesc>很具有未来感的FELIN长裤。</szItemDesc>
 		<szBRName>FELIN Leggings</szBRName>
@@ -13938,7 +13938,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1742</uiIndex>
-		<szItemName>Spot Pants</szItemName>
+		<szItemName>Spot Trousers</szItemName>
 		<szLongItemName>斑点长裤</szLongItemName>
 		<szItemDesc>德国联邦国防军使用的斑点迷彩长裤。</szItemDesc>
 		<szBRName>Bundeswehr Leggings</szBRName>
@@ -13962,10 +13962,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1745</uiIndex>
-		<szItemName>Fallschirmjager Pants</szItemName>
+		<szItemName>Fallschirmjager Trousers</szItemName>
 		<szLongItemName>德军伞兵长裤</szLongItemName>
 		<szItemDesc>穿着德军伞兵长裤表明是德国空军精锐部队的一员。</szItemDesc>
-		<szBRName>Fallschirmjager Pants</szBRName>
+		<szBRName>Fallschirmjager Trousers</szBRName>
 		<szBRDesc>穿着德军伞兵长裤表明是德国空军精锐部队的一员。</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -13986,7 +13986,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1748</uiIndex>
-		<szItemName>Type65 Pants</szItemName>
+		<szItemName>Type65 Trousers</szItemName>
 		<szLongItemName>65式长裤</szLongItemName>
 		<szItemDesc>65党必备！草绿色的65式长裤是中国人民解放军65式作战服的一部分。</szItemDesc>
 		<szBRName>Type-65 Leggings</szBRName>
@@ -14098,10 +14098,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1762</uiIndex>
-		<szItemName>5.11 Pants</szItemName>
+		<szItemName>5.11 Trousers</szItemName>
 		<szLongItemName>5.11长裤</szLongItemName>
 		<szItemDesc>5.11战术长裤在15年间一直被联邦、州和各地方的执法人员所选用。</szItemDesc>
-		<szBRName>5.11 Pants</szBRName>
+		<szBRName>5.11 Trousers</szBRName>
 		<szBRDesc>5.11战术长裤在15年间一直被联邦、州和各地方的执法人员所选用。</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -14162,18 +14162,18 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1770</uiIndex>
-		<szItemName>Spain Helmet</szItemName>
-		<szLongItemName>西班牙头盔</szLongItemName>
-		<szItemDesc>西班牙殖民时期的头盔。</szItemDesc>
-		<szBRName>Spanischer Helmet</szBRName>
+		<szItemName>Mk.6 Helmet</szItemName>
+		<szLongItemName>英军Mk.6头盔</szLongItemName>
+		<szItemDesc>英国军队的标准配备，防弹尼龙材料制的Mk.6头盔，外裹DPM迷彩盔罩。</szItemDesc>
+		<szBRName>Mk.6 Helmet</szBRName>
 		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1771</uiIndex>
-		<szItemName>Magic Bra</szItemName>
+		<szItemName>Sorcery Bra</szItemName>
 		<szLongItemName>巫术胸罩</szLongItemName>
 		<szItemDesc>原装正品从塞拉利昂入口，经当地的大巫师施了法，戴在身上后可以让射向你的子弹转弯。相信我，"西部男孩"就是靠它抵挡住英军特种兵的子弹的。</szItemDesc>
-		<szBRName>Magic Bra</szBRName>
+		<szBRName>Sorcery Bra</szBRName>
 		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -14226,10 +14226,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1778</uiIndex>
-		<szItemName>Chastity Belt</szItemName>
-		<szLongItemName>贞操带</szLongItemName>
-		<szItemDesc>超坚固的防弹用品，无懈可击，无论是电钻、冲击钻、强酸、子弹或是锁匠。可单独穿戴或与其他长裤配合使用。</szItemDesc>
-		<szBRName>Chastity Belt</szBRName>
+		<szItemName>M1953 Pants</szItemName>
+		<szLongItemName>M1953防弹内裤</szLongItemName>
+		<szItemDesc>绰号"尿不湿"，在越战后期被许多美军飞行员所穿着的防弹裤。</szItemDesc>
+		<szBRName>M1953 Lower Torso Armor</szBRName>
 		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -14274,7 +14274,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1784</uiIndex>
-		<szItemName>Hunter Pants</szItemName>
+		<szItemName>Hunter Trousers</szItemName>
 		<szLongItemName>猎人迷彩裤</szLongItemName>
 		<szItemDesc>“士兵突击”剧组发明，猎人迷彩式样的长裤。</szItemDesc>
 		<szBRName>Hunter Camo Leggings</szBRName>
@@ -14338,10 +14338,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1792</uiIndex>
-		<szItemName>KMT Pants</szItemName>
+		<szItemName>KMT Trousers</szItemName>
 		<szLongItemName>国军长裤</szLongItemName>
 		<szItemDesc>二战时期国军使用的卡其色长裤。</szItemDesc>
-		<szBRName>KMT Pants</szBRName>
+		<szBRName>KMT Trousers</szBRName>
 		<szBRDesc>二战时期国军使用的卡其色长裤。</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -17538,10 +17538,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2192</uiIndex>
-		<szItemName>07 Wood Pants</szItemName>
+		<szItemName>07 Wood Trousers</szItemName>
 		<szLongItemName>中国07式丛林数码迷彩裤</szLongItemName>
 		<szItemDesc>中国军队最新的07式丛林数码迷彩裤。</szItemDesc>
-		<szBRName>Type07 Wood Pants</szBRName>
+		<szBRName>Type07 Wood Trousers</szBRName>
 		<szBRDesc>中国军队最新的07式丛林数码迷彩裤。</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -17554,10 +17554,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2194</uiIndex>
-		<szItemName>07 Desert Pants</szItemName>
+		<szItemName>07 Desert Trousers</szItemName>
 		<szLongItemName>中国07式沙漠数码迷彩服</szLongItemName>
 		<szItemDesc>中国军队最新的07式沙漠数码迷彩裤。</szItemDesc>
-		<szBRName>Type07 Desert Pants</szBRName>
+		<szBRName>Type07 Desert Trousers</szBRName>
 		<szBRDesc>中国军队最新的07式沙漠数码迷彩裤。</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -17674,7 +17674,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2209</uiIndex>
-		<szItemName>KLMK Pants</szItemName>
+		<szItemName>KLMK Trousers</szItemName>
 		<szLongItemName>KLMK长裤</szLongItemName>
 		<szItemDesc>KLMK伪装服是苏联时期著名的连体伪装服， 虽然图案比较古老，但是实际伪装效果惊人，目前仍然被俄罗斯特种部队使用。</szItemDesc>
 		<szBRName>KLMK长裤</szBRName>
@@ -17690,7 +17690,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2211</uiIndex>
-		<szItemName>OMON Wood Pants</szItemName>
+		<szItemName>OMON Wood Trousers</szItemName>
 		<szLongItemName>OMON丛林迷彩长裤</szLongItemName>
 		<szItemDesc>俄罗斯内务部特种部队OMON所装备的丛林迷彩BDU长裤。</szItemDesc>
 		<szBRName>OMON丛林迷彩长裤</szBRName>
@@ -17706,7 +17706,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2213</uiIndex>
-		<szItemName>OMON City Pants</szItemName>
+		<szItemName>OMON City Trousers</szItemName>
 		<szLongItemName>OMON城市迷彩长裤</szLongItemName>
 		<szItemDesc>俄罗斯内务部特种部队OMON所装备的城市迷彩BDU长裤。</szItemDesc>
 		<szBRName>OMON城市迷彩长裤</szBRName>
@@ -17898,11 +17898,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2237</uiIndex>
-		<szItemName>Schoolbag</szItemName>
-		<szLongItemName>书包</szLongItemName>
-		<szItemDesc>印着奥特曼图案的书包，是美国采购的中国生产的"正版军品"，虽然是送给伊拉克小朋友用的。</szItemDesc>
-		<szBRName>Schoolbag</szBRName>
-		<szBRDesc>不在BR出售</szBRDesc>
+		<szItemName>DPM Assault Vest</szItemName>
+		<szLongItemName>Webtex DPM迷彩作战背心</szLongItemName>
+		<szItemDesc>Web-Tex生产的DPM迷彩作战背心，英军的标准配备，有几个三联装弹匣包及杂物包，还有内置手枪套和地图袋。</szItemDesc>
+		<szBRName>Webtex DPM Assault Vest</szBRName>
+		<szBRDesc>Web-Tex生产的DPM迷彩作战背心，英军的标准配备，有几个三联装弹匣包及杂物包，还有内置手枪套和地图袋。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2238</uiIndex>
@@ -20159,5 +20159,45 @@
 		<szItemDesc>这支UMP40安装了消声器、红点镜和前握把。</szItemDesc>
 		<szBRName>HK UMP40 Fully Armed</szBRName>
 		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2520</uiIndex>
+		<szItemName>M3 bandoleer</szItemName>
+		<szLongItemName>M3弹药带</szLongItemName>
+		<szItemDesc>M3弹药带本来是用来携带预装在桥夹上的M16子弹的，但越战时许多美军用来携带7个M16弹匣。</szItemDesc>
+		<szBRName>M3 bandoleer</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2521</uiIndex>
+		<szItemName>PJ Vest</szItemName>
+		<szLongItemName>PJ防弹衣</szLongItemName>
+		<szItemDesc>美国空军的空勤人员防弹衣，重量比较轻，可穿在生存背心里。</szItemDesc>
+		<szBRName>PJ Body Armor</szBRName>
+		<szBRDesc>美国空军的空勤人员防弹衣，重量比较轻，可穿在生存背心里。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2522</uiIndex>
+		<szItemName>Mk.9 Cover</szItemName>
+		<szLongItemName>Mk.9防破片衣</szLongItemName>
+		<szItemDesc>英军在北爱尔兰装备过的防破片衣，只能抵挡弹片或低速弹头。</szItemDesc>
+		<szBRName>Mk.9 Fragmentation Vest</szBRName>
+		<szBRDesc>英军在北爱尔兰装备过的防破片衣，只能抵挡弹片或低速弹头。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2523</uiIndex>
+		<szItemName>DPM BDU</szItemName>
+		<szLongItemName>DPM上衣</szLongItemName>
+		<szItemDesc>英军的DPM迷彩上衣。</szItemDesc>
+		<szBRName>DPM Uniform</szBRName>
+		<szBRDesc>英军的DPM迷彩上衣。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2524</uiIndex>
+		<szItemName>DPM Trousers</szItemName>
+		<szLongItemName>DPM长裤</szLongItemName>
+		<szItemDesc>英军的DPM迷彩长裤。</szItemDesc>
+		<szBRName>DPM Trousers</szBRName>
+		<szBRDesc>英军的DPM迷彩长裤。</szBRDesc>
 	</ITEM>
 </ITEMLIST>

@@ -811,7 +811,7 @@
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>1100</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 	</ITEM>
 	<ITEM>
 		<uiIndex>25</uiIndex>
@@ -1100,7 +1100,7 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>1000</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 		<DefaultAttachment>1804</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -1130,7 +1130,7 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>600</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
@@ -1161,8 +1161,8 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>800</BR_ROF>
-		<Bipod>50</Bipod>
-		<ToHitBonus>-35</ToHitBonus>
+		<Bipod>25</Bipod>
+		<ToHitBonus>-15</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>37</uiIndex>
@@ -2665,7 +2665,6 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<RangeBonus>50</RangeBonus>
-		<ToHitBonus>5</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>108</uiIndex>
@@ -4911,8 +4910,8 @@
 		<Attachment>1</Attachment>
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<Bipod>15</Bipod>
-		<PercentReadyTimeAPReduction>-7</PercentReadyTimeAPReduction>
+		<Bipod>10</Bipod>
+		<PercentReadyTimeAPReduction>-3</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>210</uiIndex>
@@ -8039,7 +8038,7 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<RangeBonus>55</RangeBonus>
-		<ToHitBonus>10</ToHitBonus>
+		<ToHitBonus>5</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>355</uiIndex>
@@ -8143,7 +8142,7 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<RangeBonus>55</RangeBonus>
-		<ToHitBonus>10</ToHitBonus>
+		<ToHitBonus>5</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>360</uiIndex>
@@ -8187,7 +8186,7 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<RangeBonus>55</RangeBonus>
-		<ToHitBonus>10</ToHitBonus>
+		<ToHitBonus>5</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>362</uiIndex>
@@ -8291,7 +8290,7 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<RangeBonus>55</RangeBonus>
-		<ToHitBonus>10</ToHitBonus>
+		<ToHitBonus>5</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>367</uiIndex>
@@ -8395,7 +8394,7 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<RangeBonus>55</RangeBonus>
-		<ToHitBonus>10</ToHitBonus>
+		<ToHitBonus>5</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>372</uiIndex>
@@ -8440,7 +8439,7 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<RangeBonus>55</RangeBonus>
-		<ToHitBonus>10</ToHitBonus>
+		<ToHitBonus>5</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>374</uiIndex>
@@ -8545,7 +8544,7 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<RangeBonus>55</RangeBonus>
-		<ToHitBonus>10</ToHitBonus>
+		<ToHitBonus>5</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>379</uiIndex>
@@ -8589,7 +8588,7 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<RangeBonus>55</RangeBonus>
-		<ToHitBonus>10</ToHitBonus>
+		<ToHitBonus>5</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>381</uiIndex>
@@ -8692,7 +8691,7 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<RangeBonus>55</RangeBonus>
-		<ToHitBonus>10</ToHitBonus>
+		<ToHitBonus>5</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>386</uiIndex>
@@ -8736,7 +8735,7 @@
 		<BigGunList>1</BigGunList>
 		<PercentNoiseReduction>25</PercentNoiseReduction>
 		<RangeBonus>45</RangeBonus>
-		<ToHitBonus>10</ToHitBonus>
+		<ToHitBonus>5</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>388</uiIndex>
@@ -8823,7 +8822,7 @@
 		<BigGunList>1</BigGunList>
 		<PercentNoiseReduction>25</PercentNoiseReduction>
 		<RangeBonus>45</RangeBonus>
-		<ToHitBonus>10</ToHitBonus>
+		<ToHitBonus>5</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>392</uiIndex>
@@ -8911,7 +8910,7 @@
 		<BigGunList>1</BigGunList>
 		<PercentNoiseReduction>25</PercentNoiseReduction>
 		<RangeBonus>45</RangeBonus>
-		<ToHitBonus>10</ToHitBonus>
+		<ToHitBonus>5</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>396</uiIndex>
@@ -8935,7 +8934,7 @@
 		<BigGunList>1</BigGunList>
 		<PercentNoiseReduction>25</PercentNoiseReduction>
 		<RangeBonus>45</RangeBonus>
-		<ToHitBonus>10</ToHitBonus>
+		<ToHitBonus>5</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>397</uiIndex>
@@ -9019,7 +9018,7 @@
 		<Sinks>1</Sinks>
 		<PercentNoiseReduction>25</PercentNoiseReduction>
 		<RangeBonus>45</RangeBonus>
-		<ToHitBonus>10</ToHitBonus>
+		<ToHitBonus>5</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>401</uiIndex>
@@ -9099,7 +9098,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<RangeBonus>50</RangeBonus>
-		<ToHitBonus>5</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>405</uiIndex>
@@ -9207,7 +9205,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<RangeBonus>50</RangeBonus>
-		<ToHitBonus>5</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>410</uiIndex>
@@ -9381,7 +9378,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<RangeBonus>50</RangeBonus>
-		<ToHitBonus>5</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>418</uiIndex>
@@ -9489,7 +9485,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<RangeBonus>50</RangeBonus>
-		<ToHitBonus>5</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>423</uiIndex>
@@ -9597,7 +9592,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<RangeBonus>50</RangeBonus>
-		<ToHitBonus>5</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>428</uiIndex>
@@ -9977,7 +9971,7 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<RangeBonus>150</RangeBonus>
-		<ToHitBonus>10</ToHitBonus>
+		<ToHitBonus>5</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>446</uiIndex>
@@ -10081,7 +10075,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<RangeBonus>75</RangeBonus>
-		<ToHitBonus>5</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>451</uiIndex>
@@ -10194,7 +10187,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<RangeBonus>75</RangeBonus>
-		<ToHitBonus>5</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>456</uiIndex>
@@ -10325,7 +10317,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<RangeBonus>75</RangeBonus>
-		<ToHitBonus>5</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>462</uiIndex>
@@ -10458,7 +10449,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<RangeBonus>75</RangeBonus>
-		<ToHitBonus>5</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>468</uiIndex>
@@ -10589,7 +10579,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<RangeBonus>75</RangeBonus>
-		<ToHitBonus>5</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>474</uiIndex>
@@ -10696,7 +10685,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<RangeBonus>50</RangeBonus>
-		<ToHitBonus>3</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>479</uiIndex>
@@ -10785,7 +10773,7 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<RangeBonus>200</RangeBonus>
-		<ToHitBonus>10</ToHitBonus>
+		<ToHitBonus>5</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>483</uiIndex>
@@ -10897,7 +10885,7 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<RangeBonus>200</RangeBonus>
-		<ToHitBonus>10</ToHitBonus>
+		<ToHitBonus>5</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>488</uiIndex>
@@ -11010,7 +10998,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<RangeBonus>120</RangeBonus>
-		<ToHitBonus>10</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>493</uiIndex>
@@ -11124,7 +11111,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<RangeBonus>120</RangeBonus>
-		<ToHitBonus>10</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>498</uiIndex>
@@ -11255,7 +11241,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<RangeBonus>120</RangeBonus>
-		<ToHitBonus>10</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>504</uiIndex>
@@ -11385,7 +11370,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<RangeBonus>120</RangeBonus>
-		<ToHitBonus>10</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>510</uiIndex>
@@ -11491,7 +11475,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<RangeBonus>50</RangeBonus>
-		<ToHitBonus>5</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>515</uiIndex>
@@ -11579,7 +11562,6 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<RangeBonus>120</RangeBonus>
-		<ToHitBonus>10</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>519</uiIndex>
@@ -11687,7 +11669,6 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<RangeBonus>120</RangeBonus>
-		<ToHitBonus>10</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>524</uiIndex>
@@ -11796,7 +11777,6 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<RangeBonus>120</RangeBonus>
-		<ToHitBonus>10</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>529</uiIndex>
@@ -11906,7 +11886,6 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<RangeBonus>120</RangeBonus>
-		<ToHitBonus>10</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>534</uiIndex>
@@ -12034,7 +12013,6 @@
 		<NotBuyable>1</NotBuyable>
 		<BigGunList>1</BigGunList>
 		<RangeBonus>50</RangeBonus>
-		<ToHitBonus>5</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>540</uiIndex>
@@ -12193,9 +12171,9 @@
 		<uiIndex>547</uiIndex>
 		<szItemName>.50BMG M</szItemName>
 		<szLongItemName>.50 Single Match</szLongItemName>
-		<szItemDesc>One round .50 BMG caliber Raufoss sniper bullets.</szItemDesc>
+		<szItemDesc>One round .50 BMG caliber Mk.211 Raufoss sniper bullets.</szItemDesc>
 		<szBRName>.50BMG Single Match</szBRName>
-		<szBRDesc>One round .50 BMG caliber Raufoss sniper bullets.</szBRDesc>
+		<szBRDesc>One round .50 BMG caliber Mk.211 Raufoss sniper bullets.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>339</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
@@ -12208,7 +12186,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<RangeBonus>350</RangeBonus>
-		<ToHitBonus>15</ToHitBonus>
+		<ToHitBonus>5</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>548</uiIndex>
@@ -12237,9 +12215,9 @@
 		<uiIndex>549</uiIndex>
 		<szItemName>.50BMG Mag 5 M</szItemName>
 		<szLongItemName>.50BMG Magazine, 5 Match</szLongItemName>
-		<szItemDesc>A 5 round magazine of .50 BMG caliber Raufoss sniper bullets.</szItemDesc>
+		<szItemDesc>A 5 round magazine of .50 BMG caliber Mk.211 Raufoss sniper bullets.</szItemDesc>
 		<szBRName>.50BMG Mag 5 Match</szBRName>
-		<szBRDesc>A 5 round magazine of .50 BMG caliber Raufoss sniper bullets.</szBRDesc>
+		<szBRDesc>A 5 round magazine of .50 BMG caliber Mk.211 Raufoss sniper bullets.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>342</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
@@ -12252,15 +12230,15 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<RangeBonus>350</RangeBonus>
-		<ToHitBonus>15</ToHitBonus>
+		<ToHitBonus>5</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>550</uiIndex>
 		<szItemName>.50BMG Mag 10 M</szItemName>
 		<szLongItemName>.50BMG Magazine, 10 Match</szLongItemName>
-		<szItemDesc>A 10 round magazine of .50 BMG caliber Raufoss sniper bullets.</szItemDesc>
+		<szItemDesc>A 10 round magazine of .50 BMG caliber Mk.211 Raufoss sniper bullets.</szItemDesc>
 		<szBRName>.50BMG Mag, 10 Match</szBRName>
-		<szBRDesc>A 10 round magazine of .50 BMG caliber Raufoss sniper bullets.</szBRDesc>
+		<szBRDesc>A 10 round magazine of .50 BMG caliber Mk.211 Raufoss sniper bullets.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>345</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
@@ -12273,7 +12251,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<RangeBonus>350</RangeBonus>
-		<ToHitBonus>15</ToHitBonus>
+		<ToHitBonus>5</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>551</uiIndex>
@@ -12684,7 +12662,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<RangeBonus>350</RangeBonus>
-		<ToHitBonus>15</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>571</uiIndex>
@@ -13955,7 +13932,7 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>22</BR_ROF>
-		<Bipod>25</Bipod>
+		<Bipod>20</Bipod>
 		<ToHitBonus>-10</ToHitBonus>
 		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1825</DefaultAttachment>
@@ -13983,7 +13960,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
-		<BR_ROF>750</BR_ROF>
+		<BR_ROF>50</BR_ROF>
 		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1011</DefaultAttachment>
 	</ITEM>
@@ -14015,7 +13992,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>16</BR_ROF>
 		<Bipod>30</Bipod>
-		<ToHitBonus>-15</ToHitBonus>
+		<ToHitBonus>-20</ToHitBonus>
 		<DefaultAttachment>1825</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -14218,8 +14195,8 @@
 		<BigGunList>1</BigGunList>
 		<Unaerodynamic>1</Unaerodynamic>
 		<BR_ROF>500</BR_ROF>
-		<Bipod>50</Bipod>
-		<ToHitBonus>-30</ToHitBonus>
+		<Bipod>30</Bipod>
+		<ToHitBonus>-20</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>628</uiIndex>
@@ -14569,7 +14546,7 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>22</BR_ROF>
-		<Bipod>30</Bipod>
+		<Bipod>20</Bipod>
 		<ToHitBonus>-10</ToHitBonus>
 		<DefaultAttachment>1825</DefaultAttachment>
 	</ITEM>
@@ -14600,8 +14577,8 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>22</BR_ROF>
-		<Bipod>15</Bipod>
-		<ToHitBonus>-15</ToHitBonus>
+		<Bipod>10</Bipod>
+		<ToHitBonus>-10</ToHitBonus>
 		<DefaultAttachment>1825</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -14819,11 +14796,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>648</uiIndex>
-		<szItemName>FAL OSW</szItemName>
-		<szLongItemName>FN FAL OSW</szLongItemName>
+		<szItemName>SA58 OSW</szItemName>
+		<szLongItemName>DSA SA58 OSW</szLongItemName>
 		<szItemDesc>A heavily modified FAL, its compact size, portability, light weight, and power combine to make this a formidable battle rifle.</szItemDesc>
-		<szBRName>FN FAL OSW</szBRName>
-		<szBRDesc>The FAL OSW is extremely versatile. Featuring picatinny rails and a folding stock, this carbine is for someone who means business.</szBRDesc>
+		<szBRName>DSA SA58 OSW</szBRName>
+		<szBRDesc>The SA58 OSW is extremely versatile. Featuring picatinny rails and a folding stock, this carbine is for someone who means business.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>648</ubClassIndex>
 		<ubCursor>3</ubCursor>
@@ -14844,7 +14821,7 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<BR_ROF>700</BR_ROF>
+		<BR_ROF>70</BR_ROF>
 		<ToHitBonus>19</ToHitBonus>
 		<BestLaserRange>160</BestLaserRange>
 		<BurstToHitBonus>5</BurstToHitBonus>
@@ -14883,8 +14860,8 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>950</BR_ROF>
-		<Bipod>50</Bipod>
-		<ToHitBonus>-35</ToHitBonus>
+		<Bipod>25</Bipod>
+		<ToHitBonus>-15</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>650</uiIndex>
@@ -14945,7 +14922,7 @@
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>1100</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 		<DefaultAttachment>1613</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -15009,7 +14986,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>750</BR_ROF>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
-		<Bipod>10</Bipod>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
@@ -15040,7 +15016,7 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>22</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 		<DefaultAttachment>1007</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -15071,7 +15047,7 @@
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>700</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
@@ -15134,8 +15110,8 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>12</BR_ROF>
-		<Bipod>150</Bipod>
-		<ToHitBonus>-130</ToHitBonus>
+		<Bipod>110</Bipod>
+		<ToHitBonus>-100</ToHitBonus>
 		<DefaultAttachment>1825</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -15257,7 +15233,7 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>800</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 	</ITEM>
 	<ITEM>
 		<uiIndex>662</uiIndex>
@@ -15470,7 +15446,7 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>750</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>2485</DefaultAttachment>
@@ -15503,7 +15479,7 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>800</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>2485</DefaultAttachment>
@@ -15894,8 +15870,8 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>18</BR_ROF>
-		<Bipod>100</Bipod>
-		<ToHitBonus>-80</ToHitBonus>
+		<Bipod>60</Bipod>
+		<ToHitBonus>-50</ToHitBonus>
 		<DefaultAttachment>1000</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -16209,7 +16185,7 @@
 		<ubWeight>38</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>2190</usPrice>
-		<ubCoolness>1</ubCoolness>
+		<ubCoolness>5</ubCoolness>
 		<bReliability>1</bReliability>
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
@@ -16333,8 +16309,8 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>12</BR_ROF>
-		<Bipod>150</Bipod>
-		<ToHitBonus>-130</ToHitBonus>
+		<Bipod>100</Bipod>
+		<ToHitBonus>-90</ToHitBonus>
 		<DefaultAttachment>1819</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -16393,7 +16369,7 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>650</BR_ROF>
-		<Bipod>30</Bipod>
+		<Bipod>20</Bipod>
 		<ToHitBonus>-10</ToHitBonus>
 	</ITEM>
 	<ITEM>
@@ -16424,7 +16400,7 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>650</BR_ROF>
-		<Bipod>25</Bipod>
+		<Bipod>15</Bipod>
 		<ToHitBonus>-5</ToHitBonus>
 	</ITEM>
 	<ITEM>
@@ -16566,7 +16542,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
 		<BR_ROF>650</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 	</ITEM>
 	<ITEM>
 		<uiIndex>706</uiIndex>
@@ -16596,7 +16572,7 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>600</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
@@ -16806,7 +16782,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>700</BR_ROF>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
@@ -17189,7 +17165,7 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>680</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
 		<DefaultAttachment>1029</DefaultAttachment>
@@ -17257,7 +17233,7 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>26</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 		<DefaultAttachment>1806</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -17472,7 +17448,7 @@
 		<BR_ROF>650</BR_ROF>
 		<PercentNoiseReduction>50</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 		<DefaultAttachment>999</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -17612,7 +17588,7 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>550</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
 	</ITEM>
@@ -17788,7 +17764,7 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>24</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 		<DefaultAttachment>208</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -17876,7 +17852,7 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>850</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1810</DefaultAttachment>
@@ -17973,7 +17949,7 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>850</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1810</DefaultAttachment>
@@ -18212,7 +18188,7 @@
 		<uiIndex>761</uiIndex>
 		<szItemName>MPL</szItemName>
 		<szLongItemName>Walther MPL</szLongItemName>
-		<szItemDesc>This SMG was in use by German police before they switched to HK weapons (around 1985). The buttstock can act as foregrip when be folding.</szItemDesc>
+		<szItemDesc>The SMG held by the screaming muscular covergirl had finally made into the game! Its steel-wire buttstock can act as foregrip when folded.</szItemDesc>
 		<szBRName>Walther MPL</szBRName>
 		<szBRDesc>Surplus weapons for the serious gun collector. The MPL was used extensively by German police forces prior to 1985.</szBRDesc>
 		<usItemClass>2</usItemClass>
@@ -18455,7 +18431,7 @@
 		<BR_ROF>28</BR_ROF>
 		<PercentNoiseReduction>50</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 		<DefaultAttachment>1007</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -18594,7 +18570,7 @@
 		<BR_ROF>24</BR_ROF>
 		<PercentNoiseReduction>55</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
-		<Bipod>30</Bipod>
+		<Bipod>20</Bipod>
 		<ToHitBonus>-10</ToHitBonus>
 		<DefaultAttachment>1817</DefaultAttachment>
 	</ITEM>
@@ -18641,7 +18617,7 @@
 		<ubWeight>39</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>2280</usPrice>
-		<ubCoolness>1</ubCoolness>
+		<ubCoolness>5</ubCoolness>
 		<bReliability>1</bReliability>
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
@@ -19036,10 +19012,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>790</uiIndex>
-		<szItemName>DSA58 SPR</szItemName>
-		<szLongItemName>DSA58 SPR</szLongItemName>
+		<szItemName>SA58 SPR</szItemName>
+		<szLongItemName>DSA SA58 SPR</szLongItemName>
 		<szItemDesc>This rifle was submitted to the US Army for the SASS Rifle Trials. It's vailable with a 21" fully fluted premium barrel, equip SPR side folding adjustable stock and bipod.</szItemDesc>
-		<szBRName>DSA58 SPR</szBRName>
+		<szBRName>DSA SA58 SPR</szBRName>
 		<szBRDesc>This rifle was submitted to the US Army for the SASS Rifle Trials. It's vailable with a 21" fully fluted premium barrel, equip SPR side folding adjustable stock and bipod.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>790</ubClassIndex>
@@ -19060,8 +19036,8 @@
 		<TwoHanded>1</TwoHanded>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<BR_ROF>700</BR_ROF>
-		<Bipod>15</Bipod>
+		<BR_ROF>50</BR_ROF>
+		<Bipod>10</Bipod>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1007</DefaultAttachment>
@@ -19242,7 +19218,7 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>800</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1007</DefaultAttachment>
@@ -19273,7 +19249,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<BR_ROF>750</BR_ROF>
+		<BR_ROF>50</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1806</DefaultAttachment>
@@ -19334,7 +19310,7 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>24</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1007</DefaultAttachment>
@@ -21111,7 +21087,7 @@
 		<szBRName>Dyneema Plate</szBRName>
 		<szBRDesc>For those who require the latest in personal protection, the Super Light Weight Dyneema Body Armour Upgrade Plate is 15 times stronger then steel and half the weight of a ceramic plate.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>193</ubClassIndex>
+		<ubClassIndex>185</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>386</ubGraphicNum>
 		<ubWeight>14</ubWeight>
@@ -21136,7 +21112,7 @@
 		<szBRName>A Pair of Dyneema Plates</szBRName>
 		<szBRDesc>Not for sale through BR</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>194</ubClassIndex>
+		<ubClassIndex>186</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>387</ubGraphicNum>
 		<ubWeight>28</ubWeight>
@@ -21159,7 +21135,7 @@
 		<szBRName>ZSh-1 Helmet</szBRName>
 		<szBRDesc>One of Spetsnaz' favorite head gear. It is designed to stop most major handgun cartridges and shrapnel.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>189</ubClassIndex>
+		<ubClassIndex>187</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>381</ubGraphicNum>
 		<ubWeight>15</ubWeight>
@@ -21183,7 +21159,7 @@
 		<szBRName>MASKA-1Sch Helmet</szBRName>
 		<szBRDesc>MASKA is a well-known bullet-proof helmet made for and used by Russian Special forces including MVD's SOBR and OMON police units. Due to its weight, MASKA helmet is NOT designed for prolonged battle but rather for short periods of combat.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>190</ubClassIndex>
+		<ubClassIndex>188</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>382</ubGraphicNum>
 		<ubWeight>34</ubWeight>
@@ -21208,7 +21184,7 @@
 		<szBRName>K6-3 Helmet</szBRName>
 		<szBRDesc>Widely used by Spetsnaz units in Russian, the K6-3 heavy bullet proof helmet is intended to stop major pistol rounds and fragmentations. Comes with reinforced glass visor, integraded intercom and antenna.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>191</ubClassIndex>
+		<ubClassIndex>189</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>383</ubGraphicNum>
 		<ubWeight>35</ubWeight>
@@ -21233,7 +21209,7 @@
 		<szBRName>SF Half Head Helmet</szBRName>
 		<szBRDesc>U.S. Army Special Force's half head ballistic combat helmet. The half head design fits any tactical headset set up, lighter and lower profile in shape, it is a favorite choice of CQB operators</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>192</ubClassIndex>
+		<ubClassIndex>190</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>384</ubGraphicNum>
 		<ubWeight>10</ubWeight>
@@ -21256,7 +21232,7 @@
 		<szBRName>6B7-1L Kavlar Helmet</szBRName>
 		<szBRDesc>Russian Army's Kevlar helmet. </szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>187</ubClassIndex>
+		<ubClassIndex>181</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>362</ubGraphicNum>
 		<ubWeight>15</ubWeight>
@@ -21280,7 +21256,7 @@
 		<szBRName>STSH-81 Titanium Helmet</szBRName>
 		<szBRDesc>Russian STSH-81 "SPHERA" Titanium Helmet has been widely used by Russian troops and special forces in Chechnya and other "hot spots".</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>188</ubClassIndex>
+		<ubClassIndex>182</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>363</ubGraphicNum>
 		<ubWeight>24</ubWeight>
@@ -21305,7 +21281,7 @@
 		<szBRName>Interceptor OTV</szBRName>
 		<szBRDesc>Point Blank's Military version of the Interceptor Body Armor - OTV (Outer Tactical Vest) is manufactured for the sole use of the United States Military.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>185</ubClassIndex>
+		<ubClassIndex>183</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>360</ubGraphicNum>
 		<ubWeight>38</ubWeight>
@@ -21328,7 +21304,7 @@
 		<szBRName>Police Armor Bra</szBRName>
 		<szBRDesc>A body armor bra first used by German policewomen. Now available for those mercs who likes crossdressing.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>186</ubClassIndex>
+		<ubClassIndex>184</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>361</ubGraphicNum>
 		<ubWeight>11</ubWeight>
@@ -21543,11 +21519,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>893</uiIndex>
-		<szItemName>Camo Pants</szItemName>
-		<szLongItemName>Camo Pants</szLongItemName>
-		<szItemDesc>Provides limited protection, the Wood Camo pants allows you to hide better and longer in the corresponding environment.</szItemDesc>
-		<szBRName>Camo Pants</szBRName>
-		<szBRDesc>Provides limited protection, the Wood Camo pants allows you to hide better and longer in the corresponding environment.</szBRDesc>
+		<szItemName>Camo Trousers</szItemName>
+		<szLongItemName>Camo Trousers</szLongItemName>
+		<szItemDesc>Provides limited protection, the Wood Camo Trousers allows you to hide better and longer in the corresponding environment.</szItemDesc>
+		<szBRName>Camo Trousers</szBRName>
+		<szBRDesc>Provides limited protection, the Wood Camo Trousers allows you to hide better and longer in the corresponding environment.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<ubClassIndex>99</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
@@ -21616,11 +21592,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>896</uiIndex>
-		<szItemName>VDV Pants</szItemName>
-		<szLongItemName>VDV Paratrooper Pants</szLongItemName>
-		<szItemDesc>These VDV PARATROOPER Russian Camo Pants are made for comfort. They feature a loose cut to allow for unrestricted movement. Mesh in the groin area allows for air circulation. Worn by Russian VDV units.</szItemDesc>
-		<szBRName>VDV Paratrooper Pants</szBRName>
-		<szBRDesc>These VDV PARATROOPER Russian Camo Pants are made for comfort. They feature a loose cut to allow for unrestricted movement. Mesh in the groin area allows for air circulation. Worn by Russian VDV units.</szBRDesc>
+		<szItemName>VDV Trousers</szItemName>
+		<szLongItemName>VDV Paratrooper Trousers</szLongItemName>
+		<szItemDesc>These VDV PARATROOPER Russian Camo Trousers are made for comfort. They feature a loose cut to allow for unrestricted movement. Mesh in the groin area allows for air circulation. Worn by Russian VDV units.</szItemDesc>
+		<szBRName>VDV Paratrooper Trousers</szBRName>
+		<szBRDesc>These VDV PARATROOPER Russian Camo Trousers are made for comfort. They feature a loose cut to allow for unrestricted movement. Mesh in the groin area allows for air circulation. Worn by Russian VDV units.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<ubClassIndex>102</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
@@ -21663,11 +21639,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>898</uiIndex>
-		<szItemName>BEKAS Pants</szItemName>
-		<szLongItemName>BEKAS Camo BDU Pants</szLongItemName>
-		<szItemDesc>BEKAS Camouflage BDU Pants are one of the newer designs used by the Russian Special Forces today as well as elite anti-terrorist units of the former Soviet Union Republics.</szItemDesc>
-		<szBRName>BEKAS Camo BDU Pants</szBRName>
-		<szBRDesc>BEKAS Camouflage BDU Pants are one of the newer designs used by the Russian Special Forces today as well as elite anti-terrorist units of the former Soviet Union Republics.</szBRDesc>
+		<szItemName>BEKAS Trousers</szItemName>
+		<szLongItemName>BEKAS Camo BDU Trousers</szLongItemName>
+		<szItemDesc>BEKAS Camouflage BDU Trousers are one of the newer designs used by the Russian Special Forces today as well as elite anti-terrorist units of the former Soviet Union Republics.</szItemDesc>
+		<szBRName>BEKAS Camo BDU Trousers</szBRName>
+		<szBRDesc>BEKAS Camouflage BDU Trousers are one of the newer designs used by the Russian Special Forces today as well as elite anti-terrorist units of the former Soviet Union Republics.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<ubClassIndex>104</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
@@ -21686,24 +21662,26 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>899</uiIndex>
-		<szItemName>Straw Hat</szItemName>
-		<szLongItemName>Conical Straw Hat</szLongItemName>
-		<szItemDesc>Viet Cong style straw hat, made in China and sold on ebay.</szItemDesc>
-		<szBRName>Conical Straw Hat</szBRName>
-		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<szItemName>British Bush Hat</szItemName>
+		<szLongItemName>British Army Bush Hat</szLongItemName>
+		<szItemDesc>Excellent Quality British Army type DPM camouflage cotton Bush Hat, based on current Special Force Issue Hat.</szItemDesc>
+		<szBRName>British Army Bush Hat</szBRName>
+		<szBRDesc>Excellent Quality British Army type DPM camouflage cotton Bush Hat, based on current Special Force Issue Hat.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<ubClassIndex>105</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>307</ubGraphicNum>
-		<ubWeight>3</ubWeight>
-		<ItemSize>29</ItemSize>
-		<usPrice>10</usPrice>
-		<ubCoolness>3</ubCoolness>
+		<ubWeight>1</ubWeight>
+		<ItemSize>18</ItemSize>
+		<usPrice>20</usPrice>
+		<ubCoolness>7</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>20</CamoBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>900</uiIndex>
@@ -21713,7 +21691,7 @@
 		<szBRName>Firefighting Helmet</szBRName>
 		<szBRDesc>This helmet is usually used for fighting fire instead of fire fights. Being much lighter than most combat helmets, it provides a large coverage area but little to none ballistic protection.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>216</ubClassIndex>
+		<ubClassIndex>211</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>568</ubGraphicNum>
 		<ubWeight>16</ubWeight>
@@ -26375,7 +26353,7 @@
 		<SciFi>1</SciFi>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_ROF>300</BR_ROF>
-		<ToHitBonus>-200</ToHitBonus>
+		<ToHitBonus>-190</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1076</uiIndex>
@@ -26405,7 +26383,7 @@
 		<SciFi>1</SciFi>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_ROF>750</BR_ROF>
-		<ToHitBonus>-200</ToHitBonus>
+		<ToHitBonus>-190</ToHitBonus>
 		<DefaultAttachment>1855</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -26435,7 +26413,7 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>26</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 		<DefaultAttachment>1825</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -27310,7 +27288,7 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>650</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1113</uiIndex>
@@ -27396,7 +27374,7 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>650</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1116</uiIndex>
@@ -27484,7 +27462,7 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>35</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 		<DefaultAttachment>2189</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -27541,8 +27519,8 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>20</BR_ROF>
-		<Bipod>150</Bipod>
-		<ToHitBonus>-130</ToHitBonus>
+		<Bipod>100</Bipod>
+		<ToHitBonus>-90</ToHitBonus>
 		<DefaultAttachment>2189</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -27572,7 +27550,7 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>650</BR_ROF>
-		<Bipod>25</Bipod>
+		<Bipod>15</Bipod>
 		<ToHitBonus>-5</ToHitBonus>
 	</ITEM>
 	<ITEM>
@@ -28022,7 +28000,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>700</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 		<DefaultAttachment>208</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -28108,7 +28086,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>700</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>208</DefaultAttachment>
@@ -28255,7 +28233,7 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>32</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>208</DefaultAttachment>
@@ -28548,7 +28526,7 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>750</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 		<DefaultAttachment>1850</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -28577,7 +28555,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<BR_ROF>750</BR_ROF>
+		<BR_ROF>50</BR_ROF>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 	</ITEM>
 	<ITEM>
@@ -28684,7 +28662,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
-		<BR_ROF>750</BR_ROF>
+		<BR_ROF>50</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
@@ -28796,7 +28774,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>550</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1165</uiIndex>
@@ -28822,7 +28800,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>550</BR_ROF>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
 	</ITEM>
@@ -29197,8 +29175,8 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>35</BR_ROF>
-		<Bipod>150</Bipod>
-		<ToHitBonus>-130</ToHitBonus>
+		<Bipod>100</Bipod>
+		<ToHitBonus>-90</ToHitBonus>
 		<DefaultAttachment>1813</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -29227,8 +29205,8 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>15</BR_ROF>
-		<Bipod>100</Bipod>
-		<ToHitBonus>-80</ToHitBonus>
+		<Bipod>60</Bipod>
+		<ToHitBonus>-50</ToHitBonus>
 		<DefaultAttachment>1825</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -29258,8 +29236,8 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>20</BR_ROF>
-		<Bipod>150</Bipod>
-		<ToHitBonus>-130</ToHitBonus>
+		<Bipod>100</Bipod>
+		<ToHitBonus>-90</ToHitBonus>
 		<DefaultAttachment>1813</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -29291,7 +29269,7 @@
 		<PercentNoiseReduction>65</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<Bipod>50</Bipod>
-		<ToHitBonus>-30</ToHitBonus>
+		<ToHitBonus>-40</ToHitBonus>
 		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1813</DefaultAttachment>
 	</ITEM>
@@ -29755,7 +29733,7 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>775</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 		<DefaultAttachment>1807</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -29785,8 +29763,8 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>29</BR_ROF>
-		<Bipod>150</Bipod>
-		<ToHitBonus>-130</ToHitBonus>
+		<Bipod>100</Bipod>
+		<ToHitBonus>-90</ToHitBonus>
 		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1813</DefaultAttachment>
 	</ITEM>
@@ -29816,8 +29794,8 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>45</BR_ROF>
-		<Bipod>150</Bipod>
-		<ToHitBonus>-130</ToHitBonus>
+		<Bipod>100</Bipod>
+		<ToHitBonus>-90</ToHitBonus>
 		<DefaultAttachment>1825</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -29876,8 +29854,8 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>10</BR_ROF>
-		<Bipod>150</Bipod>
-		<ToHitBonus>-130</ToHitBonus>
+		<Bipod>100</Bipod>
+		<ToHitBonus>-90</ToHitBonus>
 		<DefaultAttachment>1825</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -30627,7 +30605,7 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>30</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1007</DefaultAttachment>
@@ -30721,7 +30699,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1232</uiIndex>
-		<szItemName>FAL Tactical Carbine</szItemName>
+		<szItemName>SA58 Tactical Carbine</szItemName>
 		<szLongItemName>DSA SA58 Tactical Carbine</szLongItemName>
 		<szItemDesc>The DSA FAL Tactical Carbine reproduces the legend with sense of modernity. It's out with a 16.25" barrel and shortened military grade handguard. Also pre-installed a SAW grip and a scope mount.</szItemDesc>
 		<szBRName>DSA SA58 Tactical Carbine</szBRName>
@@ -30745,7 +30723,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<BR_ROF>600</BR_ROF>
+		<BR_ROF>70</BR_ROF>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1233</uiIndex>
@@ -30800,7 +30778,7 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>750</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1235</uiIndex>
@@ -30829,7 +30807,7 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>700</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1236</uiIndex>
@@ -30856,7 +30834,7 @@
 		<TwoHanded>1</TwoHanded>
 		<NotBuyable>1</NotBuyable>
 		<BR_ROF>800</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1804</DefaultAttachment>
@@ -30887,7 +30865,7 @@
 		<NotBuyable>1</NotBuyable>
 		<Unaerodynamic>1</Unaerodynamic>
 		<BR_ROF>850</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
@@ -31289,7 +31267,7 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>1200</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1252</uiIndex>
@@ -31437,7 +31415,7 @@
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>750</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1257</uiIndex>
@@ -31699,7 +31677,7 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>20</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>2185</DefaultAttachment>
@@ -32020,7 +31998,7 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>750</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
@@ -32101,7 +32079,7 @@
 		<ubWeight>37</ubWeight>
 		<ItemSize>5</ItemSize>
 		<usPrice>3530</usPrice>
-		<ubCoolness>1</ubCoolness>
+		<ubCoolness>3</ubCoolness>
 		<bReliability>2</bReliability>
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
@@ -32129,7 +32107,7 @@
 		<ubWeight>24</ubWeight>
 		<ItemSize>6</ItemSize>
 		<usPrice>1820</usPrice>
-		<ubCoolness>1</ubCoolness>
+		<ubCoolness>3</ubCoolness>
 		<bReliability>1</bReliability>
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
@@ -32157,7 +32135,7 @@
 		<ubWeight>24</ubWeight>
 		<ItemSize>7</ItemSize>
 		<usPrice>1920</usPrice>
-		<ubCoolness>2</ubCoolness>
+		<ubCoolness>4</ubCoolness>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -32182,7 +32160,7 @@
 		<ubWeight>39</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>2070</usPrice>
-		<ubCoolness>1</ubCoolness>
+		<ubCoolness>4</ubCoolness>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -32207,7 +32185,7 @@
 		<ubWeight>88</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>4900</usPrice>
-		<ubCoolness>3</ubCoolness>
+		<ubCoolness>5</ubCoolness>
 		<bReliability>4</bReliability>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
@@ -32218,7 +32196,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>700</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1284</uiIndex>
@@ -32234,7 +32212,7 @@
 		<ubWeight>42</ubWeight>
 		<ItemSize>7</ItemSize>
 		<usPrice>3400</usPrice>
-		<ubCoolness>1</ubCoolness>
+		<ubCoolness>3</ubCoolness>
 		<bReliability>3</bReliability>
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
@@ -32260,7 +32238,7 @@
 		<ubWeight>38</ubWeight>
 		<ItemSize>7</ItemSize>
 		<usPrice>3700</usPrice>
-		<ubCoolness>3</ubCoolness>
+		<ubCoolness>5</ubCoolness>
 		<bReliability>3</bReliability>
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
@@ -32288,7 +32266,7 @@
 		<ubWeight>37</ubWeight>
 		<ItemSize>7</ItemSize>
 		<usPrice>2200</usPrice>
-		<ubCoolness>3</ubCoolness>
+		<ubCoolness>6</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<WaterDamages>1</WaterDamages>
@@ -32314,7 +32292,7 @@
 		<ubWeight>41</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>3090</usPrice>
-		<ubCoolness>1</ubCoolness>
+		<ubCoolness>6</ubCoolness>
 		<bReliability>1</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -32339,7 +32317,7 @@
 		<ubWeight>34</ubWeight>
 		<ItemSize>7</ItemSize>
 		<usPrice>2960</usPrice>
-		<ubCoolness>1</ubCoolness>
+		<ubCoolness>6</ubCoolness>
 		<bReliability>1</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -32365,7 +32343,7 @@
 		<ubWeight>87</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>4940</usPrice>
-		<ubCoolness>3</ubCoolness>
+		<ubCoolness>7</ubCoolness>
 		<bReliability>3</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -32375,7 +32353,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>550</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
 	</ITEM>
@@ -32393,7 +32371,7 @@
 		<ubWeight>120</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>5080</usPrice>
-		<ubCoolness>2</ubCoolness>
+		<ubCoolness>5</ubCoolness>
 		<bReliability>4</bReliability>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
@@ -32404,7 +32382,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>550</BR_ROF>
-		<Bipod>30</Bipod>
+		<Bipod>20</Bipod>
 		<ToHitBonus>-10</ToHitBonus>
 	</ITEM>
 	<ITEM>
@@ -32421,7 +32399,7 @@
 		<ubWeight>160</ubWeight>
 		<ItemSize>9</ItemSize>
 		<usPrice>8900</usPrice>
-		<ubCoolness>3</ubCoolness>
+		<ubCoolness>8</ubCoolness>
 		<bReliability>-1</bReliability>
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
@@ -32432,8 +32410,8 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>10</BR_ROF>
-		<Bipod>200</Bipod>
-		<ToHitBonus>-180</ToHitBonus>
+		<Bipod>150</Bipod>
+		<ToHitBonus>-140</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1292</uiIndex>
@@ -32449,7 +32427,7 @@
 		<ubWeight>38</ubWeight>
 		<ItemSize>7</ItemSize>
 		<usPrice>2190</usPrice>
-		<ubCoolness>2</ubCoolness>
+		<ubCoolness>5</ubCoolness>
 		<bReliability>1</bReliability>
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
@@ -32475,7 +32453,7 @@
 		<ubWeight>39</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>3400</usPrice>
-		<ubCoolness>3</ubCoolness>
+		<ubCoolness>6</ubCoolness>
 		<bRepairEase>-3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -32500,7 +32478,7 @@
 		<ubWeight>84</ubWeight>
 		<ItemSize>9</ItemSize>
 		<usPrice>5400</usPrice>
-		<ubCoolness>3</ubCoolness>
+		<ubCoolness>6</ubCoolness>
 		<bReliability>4</bReliability>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
@@ -32511,7 +32489,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>600</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1295</uiIndex>
@@ -32576,7 +32554,7 @@
 		<ubWeight>42</ubWeight>
 		<ItemSize>7</ItemSize>
 		<usPrice>980</usPrice>
-		<ubCoolness>1</ubCoolness>
+		<ubCoolness>2</ubCoolness>
 		<bReliability>1</bReliability>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
@@ -32602,7 +32580,7 @@
 		<ubWeight>40</ubWeight>
 		<ItemSize>6</ItemSize>
 		<usPrice>3700</usPrice>
-		<ubCoolness>2</ubCoolness>
+		<ubCoolness>3</ubCoolness>
 		<bReliability>2</bReliability>
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
@@ -32655,7 +32633,7 @@
 		<ubWeight>51</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>5400</usPrice>
-		<ubCoolness>3</ubCoolness>
+		<ubCoolness>6</ubCoolness>
 		<bReliability>1</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -32665,7 +32643,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>600</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 		<DefaultAttachment>1822</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -32682,7 +32660,7 @@
 		<ubWeight>115</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>5600</usPrice>
-		<ubCoolness>2</ubCoolness>
+		<ubCoolness>6</ubCoolness>
 		<bReliability>5</bReliability>
 		<bRepairEase>-4</bRepairEase>
 		<Damageable>1</Damageable>
@@ -32693,8 +32671,8 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>1200</BR_ROF>
-		<Bipod>50</Bipod>
-		<ToHitBonus>-30</ToHitBonus>
+		<Bipod>35</Bipod>
+		<ToHitBonus>-25</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1302</uiIndex>
@@ -32710,7 +32688,7 @@
 		<ubWeight>41</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>2100</usPrice>
-		<ubCoolness>1</ubCoolness>
+		<ubCoolness>3</ubCoolness>
 		<bReliability>-1</bReliability>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
@@ -32736,7 +32714,7 @@
 		<ubWeight>102</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>3690</usPrice>
-		<ubCoolness>2</ubCoolness>
+		<ubCoolness>5</ubCoolness>
 		<bReliability>3</bReliability>
 		<bRepairEase>-4</bRepairEase>
 		<Damageable>1</Damageable>
@@ -32747,7 +32725,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>500</BR_ROF>
-		<Bipod>30</Bipod>
+		<Bipod>20</Bipod>
 		<ToHitBonus>-10</ToHitBonus>
 	</ITEM>
 	<ITEM>
@@ -33314,7 +33292,7 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>34</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 		<DefaultAttachment>1806</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -33343,7 +33321,7 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>750</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 		<DefaultAttachment>1011</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -33430,7 +33408,7 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>40</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 		<DefaultAttachment>1825</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -34091,7 +34069,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>10</BR_ROF>
 		<Bipod>100</Bipod>
-		<ToHitBonus>-80</ToHitBonus>
+		<ToHitBonus>-90</ToHitBonus>
 		<DefaultAttachment>1813</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -34372,7 +34350,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>900</BR_ROF>
-		<Bipod>30</Bipod>
+		<Bipod>20</Bipod>
 		<ToHitBonus>-10</ToHitBonus>
 	</ITEM>
 	<ITEM>
@@ -34399,7 +34377,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
 		<BR_ROF>22</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 		<DefaultAttachment>1007</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -34426,15 +34404,15 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>1200</BR_ROF>
-		<Bipod>50</Bipod>
-		<ToHitBonus>-30</ToHitBonus>
+		<Bipod>35</Bipod>
+		<ToHitBonus>-25</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1359</uiIndex>
-		<szItemName>FAL Para Elite</szItemName>
-		<szLongItemName>SA58 FAL Para Elite</szLongItemName>
+		<szItemName>SA58 Para Elite</szItemName>
+		<szLongItemName>DSA SA58 Para Elite</szLongItemName>
 		<szItemDesc>The leaner and meaner "Right Arm of the Free World", its compact size, portability, light weight, and power combine to make this a formidable battle rifle.</szItemDesc>
-		<szBRName>SA58 FAL Para Elite</szBRName>
+		<szBRName>DSA SA58 Para Elite</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>1359</ubClassIndex>
@@ -34659,7 +34637,7 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>26</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 		<DefaultAttachment>208</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -34690,7 +34668,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>15</BR_ROF>
 		<Bipod>150</Bipod>
-		<ToHitBonus>-130</ToHitBonus>
+		<ToHitBonus>-140</ToHitBonus>
 		<DefaultAttachment>208</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -34809,7 +34787,7 @@
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>500</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1372</uiIndex>
@@ -34925,7 +34903,7 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>750</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
@@ -35018,7 +34996,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>20</BR_ROF>
 		<Bipod>100</Bipod>
-		<ToHitBonus>-80</ToHitBonus>
+		<ToHitBonus>-90</ToHitBonus>
 		<DefaultAttachment>208</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -35076,7 +35054,7 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>750</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1007</DefaultAttachment>
@@ -35279,7 +35257,7 @@
 		<ubWeight>89</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>4900</usPrice>
-		<ubCoolness>3</ubCoolness>
+		<ubCoolness>5</ubCoolness>
 		<bReliability>3</bReliability>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
@@ -35290,7 +35268,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>600</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1389</uiIndex>
@@ -35351,7 +35329,7 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>25</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 		<DefaultAttachment>208</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -35402,7 +35380,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
-		<BR_ROF>700</BR_ROF>
+		<BR_ROF>50</BR_ROF>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1393</uiIndex>
@@ -35582,7 +35560,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>10</BR_ROF>
 		<Bipod>150</Bipod>
-		<ToHitBonus>-130</ToHitBonus>
+		<ToHitBonus>-140</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1399</uiIndex>
@@ -35714,7 +35692,7 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<RangeBonus>50</RangeBonus>
-		<ToHitBonus>10</ToHitBonus>
+		<ToHitBonus>5</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1405</uiIndex>
@@ -35797,7 +35775,7 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<RangeBonus>50</RangeBonus>
-		<ToHitBonus>10</ToHitBonus>
+		<ToHitBonus>5</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1409</uiIndex>
@@ -35880,7 +35858,7 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<RangeBonus>50</RangeBonus>
-		<ToHitBonus>10</ToHitBonus>
+		<ToHitBonus>5</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1413</uiIndex>
@@ -35962,7 +35940,7 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<RangeBonus>50</RangeBonus>
-		<ToHitBonus>10</ToHitBonus>
+		<ToHitBonus>5</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1417</uiIndex>
@@ -36003,7 +35981,7 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<RangeBonus>200</RangeBonus>
-		<ToHitBonus>10</ToHitBonus>
+		<ToHitBonus>5</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1419</uiIndex>
@@ -36048,7 +36026,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<RangeBonus>200</RangeBonus>
-		<ToHitBonus>10</ToHitBonus>
+		<ToHitBonus>5</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1421</uiIndex>
@@ -36113,7 +36091,6 @@
 		<Sinks>1</Sinks>
 		<SciFi>1</SciFi>
 		<RangeBonus>150</RangeBonus>
-		<ToHitBonus>10</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1424</uiIndex>
@@ -36178,7 +36155,6 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<RangeBonus>150</RangeBonus>
-		<ToHitBonus>10</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1427</uiIndex>
@@ -36240,7 +36216,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<RangeBonus>50</RangeBonus>
-		<ToHitBonus>5</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1430</uiIndex>
@@ -36286,11 +36261,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1432</uiIndex>
-		<szItemName>.44 S-Load M</szItemName>
-		<szLongItemName>.44 Speed Loader, Match</szLongItemName>
-		<szItemDesc>6 rounds of match grade of .44 magnum JSP bullet.</szItemDesc>
-		<szBRName>.44 S-Load Match</szBRName>
-		<szBRDesc>6 rounds of match grade of .44 magnum JSP bullet.</szBRDesc>
+		<szItemName>.44 S-Load</szItemName>
+		<szLongItemName>.44 Speed Loader</szLongItemName>
+		<szItemDesc>6 rounds of .44 mag for rapid reload of your Dirty Harry revolver.</szItemDesc>
+		<szBRName>.44 S-Load</szBRName>
+		<szBRDesc>Why get pinned behind cover thumbing shells into your gun? Get back in the fight quickly with this speed-loader.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>470</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
@@ -36298,13 +36273,12 @@
 		<ubWeight>1</ubWeight>
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>14</ItemSize>
-		<usPrice>35</usPrice>
+		<usPrice>24</usPrice>
 		<ubCoolness>3</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<RangeBonus>40</RangeBonus>
-		<ToHitBonus>10</ToHitBonus>
+		<RangeBonus>30</RangeBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1433</uiIndex>
@@ -36328,11 +36302,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1434</uiIndex>
-		<szItemName>.44 Mag M</szItemName>
-		<szLongItemName>.44 Magazine, Match</szLongItemName>
-		<szItemDesc>This magazine hold 8 rounds of match grade of .44 magnum JSP bullet for Desert Eagle.</szItemDesc>
-		<szBRName>.44 Mag Match</szBRName>
-		<szBRDesc>This magazine hold 8 rounds of match grade of .44 magnum JSP bullet for Desert Eagle.</szBRDesc>
+		<szItemName>.44 Mag</szItemName>
+		<szLongItemName>.44 Magazine</szLongItemName>
+		<szItemDesc>8 magnum rounds for your .44 Magnum semi-automatic.</szItemDesc>
+		<szBRName>.44 Mag</szBRName>
+		<szBRDesc>Unparalleled muzzle velocity and knock down power in this clip of Magnum rounds.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>472</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
@@ -36340,13 +36314,12 @@
 		<ubWeight>2</ubWeight>
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>12</ItemSize>
-		<usPrice>42</usPrice>
+		<usPrice>32</usPrice>
 		<ubCoolness>3</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<RangeBonus>40</RangeBonus>
-		<ToHitBonus>10</ToHitBonus>
+		<RangeBonus>30</RangeBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1435</uiIndex>
@@ -36409,7 +36382,7 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<RangeBonus>50</RangeBonus>
-		<ToHitBonus>10</ToHitBonus>
+		<ToHitBonus>5</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1438</uiIndex>
@@ -36472,7 +36445,7 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<RangeBonus>50</RangeBonus>
-		<ToHitBonus>10</ToHitBonus>
+		<ToHitBonus>5</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1441</uiIndex>
@@ -36534,7 +36507,7 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<RangeBonus>50</RangeBonus>
-		<ToHitBonus>10</ToHitBonus>
+		<ToHitBonus>5</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1444</uiIndex>
@@ -36742,7 +36715,7 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<RangeBonus>30</RangeBonus>
-		<ToHitBonus>10</ToHitBonus>
+		<ToHitBonus>5</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1454</uiIndex>
@@ -37944,7 +37917,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<RangeBonus>40</RangeBonus>
-		<ToHitBonus>10</ToHitBonus>
+		<ToHitBonus>5</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1513</uiIndex>
@@ -38003,7 +37976,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<RangeBonus>40</RangeBonus>
-		<ToHitBonus>10</ToHitBonus>
+		<ToHitBonus>5</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1516</uiIndex>
@@ -39455,7 +39428,7 @@
 		<BigGunList>1</BigGunList>
 		<PercentNoiseReduction>25</PercentNoiseReduction>
 		<RangeBonus>45</RangeBonus>
-		<ToHitBonus>10</ToHitBonus>
+		<ToHitBonus>5</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1588</uiIndex>
@@ -39745,7 +39718,7 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>300</BR_ROF>
-		<Bipod>120</Bipod>
+		<Bipod>110</Bipod>
 		<ToHitBonus>-100</ToHitBonus>
 		<AimBonus>5</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
@@ -40022,8 +39995,8 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>15</BR_ROF>
-		<Bipod>150</Bipod>
-		<ToHitBonus>-130</ToHitBonus>
+		<Bipod>100</Bipod>
+		<ToHitBonus>-90</ToHitBonus>
 		<DefaultAttachment>208</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -40644,7 +40617,7 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>300</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 		<AimBonus>5</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
 		<GrenadeLauncher>1</GrenadeLauncher>
@@ -41718,7 +41691,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>18</ItemSize>
 		<usPrice>250</usPrice>
-		<ubCoolness>3</ubCoolness>
+		<ubCoolness>6</ubCoolness>
 		<bRepairEase>-3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -42450,13 +42423,13 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1703</uiIndex>
-		<szItemName>Wood Camo Pants</szItemName>
-		<szLongItemName>Wood Camo Pants</szLongItemName>
-		<szItemDesc>Provides limited protection, the Digital Wood Camo pants allows you to hide better and longer in the corresponding environment.</szItemDesc>
-		<szBRName>Wood Camo Pants</szBRName>
-		<szBRDesc>Provides limited protection, the Digital Wood Camo pants allows you to hide better and longer in the corresponding environment.</szBRDesc>
+		<szItemName>Wood Camo Trousers</szItemName>
+		<szLongItemName>Wood Camo Trousers</szLongItemName>
+		<szItemDesc>Provides limited protection, the Digital Wood Camo Trousers allows you to hide better and longer in the corresponding environment.</szItemDesc>
+		<szBRName>Wood Camo Trousers</szBRName>
+		<szBRDesc>Provides limited protection, the Digital Wood Camo Trousers allows you to hide better and longer in the corresponding environment.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>108</ubClassIndex>
+		<ubClassIndex>107</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>133</ubGraphicNum>
 		<ubWeight>4</ubWeight>
@@ -42506,7 +42479,7 @@
 		<szBRName>Desert Camo Uniform</szBRName>
 		<szBRDesc>The desert camo uniform can be worn with or without the addition of body armors.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>109</ubClassIndex>
+		<ubClassIndex>108</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>135</ubGraphicNum>
 		<ubWeight>5</ubWeight>
@@ -42525,13 +42498,13 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1706</uiIndex>
-		<szItemName>Desert Camo Pants</szItemName>
-		<szLongItemName>Desert Camo Pants</szLongItemName>
-		<szItemDesc>Provides limited protection, the desert camouflage pants allows you to hide better and longer in the corresponding environment.</szItemDesc>
-		<szBRName>Desert Camo Pants</szBRName>
-		<szBRDesc>Provides limited protection, the desert camouflage pants allows you to hide better and longer in the corresponding environment.</szBRDesc>
+		<szItemName>Desert Camo Trousers</szItemName>
+		<szLongItemName>Desert Camo Trousers</szLongItemName>
+		<szItemDesc>Provides limited protection, the desert camouflage trousers allows you to hide better and longer in the corresponding environment.</szItemDesc>
+		<szBRName>Desert Camo Trousers</szBRName>
+		<szBRDesc>Provides limited protection, the desert camouflage trousers allows you to hide better and longer in the corresponding environment.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>111</ubClassIndex>
+		<ubClassIndex>109</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>136</ubGraphicNum>
 		<ubWeight>4</ubWeight>
@@ -42581,7 +42554,7 @@
 		<szBRName>Urban Camo Uniform</szBRName>
 		<szBRDesc>The urban camo uniform can be worn with or without the addition of body armors.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>112</ubClassIndex>
+		<ubClassIndex>110</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>138</ubGraphicNum>
 		<ubWeight>5</ubWeight>
@@ -42600,13 +42573,13 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1709</uiIndex>
-		<szItemName>Urban Camo Pants</szItemName>
-		<szLongItemName>Urban Camo Pants</szLongItemName>
-		<szItemDesc>Provides limited protection, the urban camouflage pants allows you to hide better and longer in the corresponding environment.</szItemDesc>
-		<szBRName>Urban Camo Pants</szBRName>
-		<szBRDesc>Provides limited protection, the urban camouflage pants allows you to hide better and longer in the corresponding environment.</szBRDesc>
+		<szItemName>Urban Camo Trousers</szItemName>
+		<szLongItemName>Urban Camo Trousers</szLongItemName>
+		<szItemDesc>Provides limited protection, the urban camouflage trousers allows you to hide better and longer in the corresponding environment.</szItemDesc>
+		<szBRName>Urban Camo Trousers</szBRName>
+		<szBRDesc>Provides limited protection, the urban camouflage trousers allows you to hide better and longer in the corresponding environment.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>114</ubClassIndex>
+		<ubClassIndex>111</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>139</ubGraphicNum>
 		<ubWeight>4</ubWeight>
@@ -42656,7 +42629,7 @@
 		<szBRName>Snow Camo Uniform</szBRName>
 		<szBRDesc>The snowfield camo uniform can be worn with or without the addition of body armors.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>115</ubClassIndex>
+		<ubClassIndex>112</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>141</ubGraphicNum>
 		<ubWeight>5</ubWeight>
@@ -42675,13 +42648,13 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1712</uiIndex>
-		<szItemName>Snow Camo Pants</szItemName>
-		<szLongItemName>Snow Camo Pants</szLongItemName>
-		<szItemDesc>Provides limited protection, the snowfield camouflage pants allows you to hide better and longer in the corresponding environment.</szItemDesc>
-		<szBRName>Snow Camo Pants</szBRName>
-		<szBRDesc>Provides limited protection, the snowfield camouflage pants allows you to hide better and longer in the corresponding environment.</szBRDesc>
+		<szItemName>Snow Camo Trousers</szItemName>
+		<szLongItemName>Snow Camo Trousers</szLongItemName>
+		<szItemDesc>Provides limited protection, the snowfield camouflage trousers allows you to hide better and longer in the corresponding environment.</szItemDesc>
+		<szBRName>Snow Camo Trousers</szBRName>
+		<szBRDesc>Provides limited protection, the snowfield camouflage trousers allows you to hide better and longer in the corresponding environment.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>117</ubClassIndex>
+		<ubClassIndex>113</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>142</ubGraphicNum>
 		<ubWeight>4</ubWeight>
@@ -42731,7 +42704,7 @@
 		<szBRName>Night Camo Uniform</szBRName>
 		<szBRDesc>The nightfall camo uniform can be worn with or without the addition of body armors.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>118</ubClassIndex>
+		<ubClassIndex>114</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>144</ubGraphicNum>
 		<ubWeight>5</ubWeight>
@@ -42750,13 +42723,13 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1715</uiIndex>
-		<szItemName>Night Camo Pants</szItemName>
-		<szLongItemName>Night Camo Pants</szLongItemName>
-		<szItemDesc>Provides limited protection, the nightfall camouflage pants allows you to hide better and longer in the corresponding environment.</szItemDesc>
-		<szBRName>Night Camo Pants</szBRName>
-		<szBRDesc>Provides limited protection, the nightfall camouflage pants allows you to hide better and longer in the corresponding environment.</szBRDesc>
+		<szItemName>Night Camo Trousers</szItemName>
+		<szLongItemName>Night Camo Trousers</szLongItemName>
+		<szItemDesc>Provides limited protection, the nightfall camouflage trousers allows you to hide better and longer in the corresponding environment.</szItemDesc>
+		<szBRName>Night Camo Trousers</szBRName>
+		<szBRDesc>Provides limited protection, the nightfall camouflage trousers allows you to hide better and longer in the corresponding environment.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>120</ubClassIndex>
+		<ubClassIndex>115</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>145</ubGraphicNum>
 		<ubWeight>4</ubWeight>
@@ -42894,7 +42867,7 @@
 		<szBRName>Multicam Ballcap</szBRName>
 		<szBRDesc>This cap is a comfortable tactical headgear in Multi-cam pattern to fit various battle environments.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>121</ubClassIndex>
+		<ubClassIndex>116</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>86</ubGraphicNum>
 		<ubWeight>1</ubWeight>
@@ -42919,7 +42892,7 @@
 		<szBRName>Integrated Ballistic Com Helmet</szBRName>
 		<szBRDesc>Integrated Ballistic Helmet in desert tan color, had seen service with Airforce CCTs and Navy SEALs.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>122</ubClassIndex>
+		<ubClassIndex>117</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>87</ubGraphicNum>
 		<ubWeight>8</ubWeight>
@@ -42943,7 +42916,7 @@
 		<szBRName>Integrated Ballistic Com Helmet</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>123</ubClassIndex>
+		<ubClassIndex>118</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>88</ubGraphicNum>
 		<ubWeight>13</ubWeight>
@@ -42990,7 +42963,7 @@
 		<szBRName>MC Helmet</szBRName>
 		<szBRDesc>MICH helmet with Crye Precision Multi-Cam cover, it is lightweight but gives you a respectable amount of protection.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>124</ubClassIndex>
+		<ubClassIndex>119</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>90</ubGraphicNum>
 		<ubWeight>10</ubWeight>
@@ -43016,7 +42989,7 @@
 		<szBRName>C.P. Uniform &amp; Vest</szBRName>
 		<szBRDesc>The Crye Precision Bulletproof tactical vest with Multi-Cam patterns, which can blend into surroundings in both woodland and desert environment.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>125</ubClassIndex>
+		<ubClassIndex>120</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>91</ubGraphicNum>
 		<ubWeight>47</ubWeight>
@@ -43038,13 +43011,13 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1727</uiIndex>
-		<szItemName>MC Pants</szItemName>
-		<szLongItemName>MC Pants</szLongItemName>
-		<szItemDesc>Pants with Multi-Cam patterns, which can blend into surroundings in both woodland and desert environment.</szItemDesc>
-		<szBRName>MC Pants</szBRName>
-		<szBRDesc>Pants with Multi-Cam patterns, which can blend into surroundings in both woodland and desert environment.</szBRDesc>
+		<szItemName>MC Trousers</szItemName>
+		<szLongItemName>MC Trousers</szLongItemName>
+		<szItemDesc>Trousers with Multi-Cam patterns, which can blend into surroundings in both woodland and desert environment.</szItemDesc>
+		<szBRName>MC Trousers</szBRName>
+		<szBRDesc>Trousers with Multi-Cam patterns, which can blend into surroundings in both woodland and desert environment.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>126</ubClassIndex>
+		<ubClassIndex>121</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>92</ubGraphicNum>
 		<ubWeight>4</ubWeight>
@@ -43067,7 +43040,7 @@
 		<szBRName>Tiger Stripe Bonnie</szBRName>
 		<szBRDesc>Just like in the movies! This is the famous tiger stripe bonnie hat used by the US MACV-SOG in Vietnam.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>127</ubClassIndex>
+		<ubClassIndex>122</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>151</ubGraphicNum>
 		<ubWeight>1</ubWeight>
@@ -43105,13 +43078,13 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1730</uiIndex>
-		<szItemName>Tiger Pants</szItemName>
-		<szLongItemName>Tiger Stripe Pants</szLongItemName>
-		<szItemDesc>The tiger stripe pants used by the US MACV-SOG in Vietnam era.</szItemDesc>
-		<szBRName>Tiger Stripe Pants</szBRName>
-		<szBRDesc>The tiger stripe pants used by the US MACV-SOG in Vietnam era.</szBRDesc>
+		<szItemName>Tiger Trousers</szItemName>
+		<szLongItemName>Tiger Stripe Trousers</szLongItemName>
+		<szItemDesc>The tiger stripe trousers used by the US MACV-SOG in Vietnam era.</szItemDesc>
+		<szBRName>Tiger Stripe Trousers</szBRName>
+		<szBRDesc>The tiger stripe trousers used by the US MACV-SOG in Vietnam era.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>128</ubClassIndex>
+		<ubClassIndex>123</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>153</ubGraphicNum>
 		<ubWeight>4</ubWeight>
@@ -43134,7 +43107,7 @@
 		<szBRName>VITYAZ-S Helmet</szBRName>
 		<szBRDesc>The VITYAZ-S steel ballistic helmet provides almost complete coverage and is used by the SPETsNAZ. However it reduces your line of sight and makes aiming more difficult.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>129</ubClassIndex>
+		<ubClassIndex>124</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>154</ubGraphicNum>
 		<ubWeight>45</ubWeight>
@@ -43160,7 +43133,7 @@
 		<szBRName>SPETsNAZ Uniform &amp; Vest</szBRName>
 		<szBRDesc>The wood camouflage patterns bulletproof Vest and BDU used by the SPETsNAZ of Russia.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>130</ubClassIndex>
+		<ubClassIndex>125</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>155</ubGraphicNum>
 		<ubWeight>39</ubWeight>
@@ -43179,13 +43152,13 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1733</uiIndex>
-		<szItemName>SPETsNAZ Pants</szItemName>
-		<szLongItemName>SPETsNAZ Leggings</szLongItemName>
-		<szItemDesc>The wood camouflage patterned pants used by the SPETsNAZ of Russia.</szItemDesc>
-		<szBRName>SPETsNAZ Leggings</szBRName>
-		<szBRDesc>The wood camouflage patterned pants used by the SPETsNAZ of Russia.</szBRDesc>
+		<szItemName>SPETsNAZ Trousers</szItemName>
+		<szLongItemName>SPETsNAZ Trousers</szLongItemName>
+		<szItemDesc>The wood camouflage patterned trousers used by the SPETsNAZ of Russia.</szItemDesc>
+		<szBRName>SPETsNAZ Trousers</szBRName>
+		<szBRDesc>The wood camouflage patterned trousers used by the SPETsNAZ of Russia.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>131</ubClassIndex>
+		<ubClassIndex>126</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>156</ubGraphicNum>
 		<ubWeight>4</ubWeight>
@@ -43208,7 +43181,7 @@
 		<szBRName>Magilp Helmet</szBRName>
 		<szBRDesc>The Da Vinci style helmet is the current issue of the Italian armed forces.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>132</ubClassIndex>
+		<ubClassIndex>127</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>157</ubGraphicNum>
 		<ubWeight>14</ubWeight>
@@ -43233,7 +43206,7 @@
 		<szBRName>Magilp Uniform &amp; Vest</szBRName>
 		<szBRDesc>The da Vinci styled vest and uniform is the current issue of the Italian armed forces.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>133</ubClassIndex>
+		<ubClassIndex>128</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>158</ubGraphicNum>
 		<ubWeight>42</ubWeight>
@@ -43251,13 +43224,13 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1736</uiIndex>
-		<szItemName>Magilp Pants</szItemName>
-		<szLongItemName>Magilp Leggings</szLongItemName>
-		<szItemDesc>The Da Vinci style pants are the current issue of the Italian armed forces.</szItemDesc>
-		<szBRName>Magilp Leggings</szBRName>
-		<szBRDesc>The Da Vinci style pants are the current issue of the Italian armed forces.</szBRDesc>
+		<szItemName>Magilp Trousers</szItemName>
+		<szLongItemName>Magilp Trousers</szLongItemName>
+		<szItemDesc>The Da Vinci style trousers are the current issue of the Italian armed forces.</szItemDesc>
+		<szBRName>Magilp Trousers</szBRName>
+		<szBRDesc>The Da Vinci style trousers are the current issue of the Italian armed forces.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>134</ubClassIndex>
+		<ubClassIndex>129</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>159</ubGraphicNum>
 		<ubWeight>4</ubWeight>
@@ -43280,7 +43253,7 @@
 		<szBRName>FELIN Helmet</szBRName>
 		<szBRDesc>The FELIN (French Land Warrior) helmet optimises protection and ergonomics. It also integrated with some advanced optronics such as I2 (Image Intensification) and tactical hearing protection.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>135</ubClassIndex>
+		<ubClassIndex>130</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>160</ubGraphicNum>
 		<ubWeight>19</ubWeight>
@@ -43307,7 +43280,7 @@
 		<szBRName>FELIN Uniform &amp; Vest</szBRName>
 		<szBRDesc>The lightweight Felin combat vest ensures strong ballistic protection yet retaining flexibility.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>136</ubClassIndex>
+		<ubClassIndex>131</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>161</ubGraphicNum>
 		<ubWeight>36</ubWeight>
@@ -43327,13 +43300,13 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1739</uiIndex>
-		<szItemName>FELIN Pants</szItemName>
-		<szLongItemName>FELIN Leggings</szLongItemName>
-		<szItemDesc>The future fancy pants of the French Land Warrior.</szItemDesc>
-		<szBRName>FELIN Leggings</szBRName>
-		<szBRDesc>The future fancy pants of the French Land Warrior.</szBRDesc>
+		<szItemName>FELIN Trousers</szItemName>
+		<szLongItemName>FELIN Trousers</szLongItemName>
+		<szItemDesc>The future fancy trousers of the French Land Warrior.</szItemDesc>
+		<szBRName>FELIN Trousers</szBRName>
+		<szBRDesc>The future fancy trousers of the French Land Warrior.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>137</ubClassIndex>
+		<ubClassIndex>132</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>162</ubGraphicNum>
 		<ubWeight>4</ubWeight>
@@ -43352,11 +43325,11 @@
 		<uiIndex>1740</uiIndex>
 		<szItemName>Spot Helmet</szItemName>
 		<szLongItemName>Bundeswehr Helmet</szLongItemName>
-		<szItemDesc>The current issue helmet of the modern German armed forces, the Bundeswehr. Covered with the trademark spot camo.</szItemDesc>
+		<szItemDesc>The Gefechtshelm Schuberth B826 helmet of the modern German armed forces, the Bundeswehr. Covered with the trademark spot camo.</szItemDesc>
 		<szBRName>Bundeswehr Helmet</szBRName>
-		<szBRDesc>The current issue helmet of the modern German armed forces, the Bundeswehr. Covered with the trademark spot camo.</szBRDesc>
+		<szBRDesc>The Gefechtshelm Schuberth B826 helmet of the modern German armed forces, the Bundeswehr. Covered with the trademark spot camo.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>138</ubClassIndex>
+		<ubClassIndex>133</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>163</ubGraphicNum>
 		<ubWeight>14</ubWeight>
@@ -43381,7 +43354,7 @@
 		<szBRName>Bundeswehr Uniform &amp; Vest</szBRName>
 		<szBRDesc>The tactical combat vest used by the Bundeswehr, it carries a lot of supplies and provides ballistic protection.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>139</ubClassIndex>
+		<ubClassIndex>134</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>164</ubGraphicNum>
 		<ubWeight>38</ubWeight>
@@ -43399,13 +43372,13 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1742</uiIndex>
-		<szItemName>Spot Pants</szItemName>
-		<szLongItemName>Bundeswehr Leggings</szLongItemName>
-		<szItemDesc>Spot camo Pants used by the Bundeswehr.</szItemDesc>
-		<szBRName>Bundeswehr Leggings</szBRName>
-		<szBRDesc>Spot camo Pants used by the Bundeswehr.</szBRDesc>
+		<szItemName>Spot Trousers</szItemName>
+		<szLongItemName>Bundeswehr Trousers</szLongItemName>
+		<szItemDesc>Spot Camo Trousers used by the Bundeswehr.</szItemDesc>
+		<szBRName>Bundeswehr Trousers</szBRName>
+		<szBRDesc>Spot Camo Trousers used by the Bundeswehr.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>140</ubClassIndex>
+		<ubClassIndex>135</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>165</ubGraphicNum>
 		<ubWeight>4</ubWeight>
@@ -43428,7 +43401,7 @@
 		<szBRName>Fallschirmjager Helmet</szBRName>
 		<szBRDesc>The WWII German Fallschirmjager helmet was distinctively designed for airborne missions. The helmet harness was more extensive than that of the normal helmet and the interior was padded.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>141</ubClassIndex>
+		<ubClassIndex>136</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>166</ubGraphicNum>
 		<ubWeight>13</ubWeight>
@@ -43465,13 +43438,13 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1745</uiIndex>
-		<szItemName>Fallschirmjager Pants</szItemName>
-		<szLongItemName>Fallschirmjager Pants</szLongItemName>
-		<szItemDesc>The Fallschirmjager jump pants indicate the soldier is one of the elite units of the Luftwaffe.</szItemDesc>
-		<szBRName>Fallschirmjager Pants</szBRName>
-		<szBRDesc>The Fallschirmjager jump pants indicate the soldier is one of the elite units of the Luftwaffe.</szBRDesc>
+		<szItemName>Fallschirmjager Trousers</szItemName>
+		<szLongItemName>Fallschirmjager Trousers</szLongItemName>
+		<szItemDesc>The Fallschirmjager jump trousers indicate the soldier is one of the elite units of the Luftwaffe.</szItemDesc>
+		<szBRName>Fallschirmjager Trousers</szBRName>
+		<szBRDesc>The Fallschirmjager jump trousers indicate the soldier is one of the elite units of the Luftwaffe.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>142</ubClassIndex>
+		<ubClassIndex>137</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>168</ubGraphicNum>
 		<ubWeight>4</ubWeight>
@@ -43492,7 +43465,7 @@
 		<szBRName>Type-65 Cap</szBRName>
 		<szBRDesc>This grassy colored field cap is part of the Type65 uniform of the People's Liberation Army back in the days</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>143</ubClassIndex>
+		<ubClassIndex>138</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>169</ubGraphicNum>
 		<ubWeight>1</ubWeight>
@@ -43529,13 +43502,13 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1748</uiIndex>
-		<szItemName>Type65 Pants</szItemName>
-		<szLongItemName>Type-65 Leggings</szLongItemName>
-		<szItemDesc>These grassy colored pants are part of the Type65 uniform of the People's Liberation Army back in the days.</szItemDesc>
-		<szBRName>Type-65 Leggings</szBRName>
-		<szBRDesc>These grassy colored pants are part of the Type65 uniform of the People's Liberation Army back in the days.</szBRDesc>
+		<szItemName>Type65 Trousers</szItemName>
+		<szLongItemName>Type-65 Trousers</szLongItemName>
+		<szItemDesc>These grassy colored trousers are part of the Type65 uniform of the People's Liberation Army back in the days.</szItemDesc>
+		<szBRName>Type-65 Trousers</szBRName>
+		<szBRDesc>These grassy colored trousers are part of the Type65 uniform of the People's Liberation Army back in the days.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>144</ubClassIndex>
+		<ubClassIndex>139</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>171</ubGraphicNum>
 		<ubWeight>4</ubWeight>
@@ -43556,7 +43529,7 @@
 		<szBRName>Ballistic Goggles</szBRName>
 		<szBRDesc>Ballistic goggles can be worn with a helmet to stop some low velocity bullets and shrapnels.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>145</ubClassIndex>
+		<ubClassIndex>140</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>208</ubGraphicNum>
 		<ubWeight>3</ubWeight>
@@ -43583,7 +43556,7 @@
 		<szBRName>Ballistic Face Shield</szBRName>
 		<szBRDesc>Ballistic faceshield can be worn with a helmet to stop some low velocity bullets and shrapnels and keep your face pretty.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>146</ubClassIndex>
+		<ubClassIndex>141</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>94</ubGraphicNum>
 		<ubWeight>10</ubWeight>
@@ -43610,7 +43583,7 @@
 		<szBRName>Ballistic Face Mask</szBRName>
 		<szBRDesc>This ballistic mask can be worn with or without a helmet to stop some low velocity bullets and shrapnels and keep your face pretty.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>147</ubClassIndex>
+		<ubClassIndex>142</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>95</ubGraphicNum>
 		<ubWeight>11</ubWeight>
@@ -43636,7 +43609,7 @@
 		<szBRName>SAPI IV Plates</szBRName>
 		<szBRDesc>Small Arms Protective Insert (SAPI) plates provide additional protection for vital organs. The NIJ Threat Level of this plates is IV Stand-Alone.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>148</ubClassIndex>
+		<ubClassIndex>143</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>96</ubGraphicNum>
 		<ubWeight>28</ubWeight>
@@ -43662,7 +43635,7 @@
 		<szBRName>A Pair of SAPI IV Plates</szBRName>
 		<szBRDesc>Not for sale through BR</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>149</ubClassIndex>
+		<ubClassIndex>144</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>97</ubGraphicNum>
 		<ubWeight>56</ubWeight>
@@ -43684,7 +43657,7 @@
 		<szBRName>Stormtrooper Helmet</szBRName>
 		<szBRDesc>It's not just a movie prop but a part of a physical training equipment set. Running around in these will surely burn some unwanted calories.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>150</ubClassIndex>
+		<ubClassIndex>145</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>98</ubGraphicNum>
 		<ubWeight>55</ubWeight>
@@ -43712,7 +43685,7 @@
 		<szBRName>Stormtrooper Cuirass</szBRName>
 		<szBRDesc>It's not just a movie prop but a part of a physical training equipment set. Running around in these will surely burn some unwanted calories.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>151</ubClassIndex>
+		<ubClassIndex>146</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>99</ubGraphicNum>
 		<ubWeight>555</ubWeight>
@@ -43739,7 +43712,7 @@
 		<szBRName>Stormtrooper Leggings</szBRName>
 		<szBRDesc>It's not just a movie prop but a part of a physical training equipment set. Running around in these will surely burn some unwanted calories.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>152</ubClassIndex>
+		<ubClassIndex>147</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>100</ubGraphicNum>
 		<ubWeight>255</ubWeight>
@@ -43765,7 +43738,7 @@
 		<szBRName>FO BOS Power Armor Helmet</szBRName>
 		<szBRDesc>The Brotherhood of Steel power armor helmet is the eyes and ears of BOS paladins. Integrated with heavy armor and various electronics to enhance protection, communications and target searching ability.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>153</ubClassIndex>
+		<ubClassIndex>148</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>172</ubGraphicNum>
 		<ubWeight>10</ubWeight>
@@ -43795,7 +43768,7 @@
 		<szBRName>FO BOS Power Armor Cuirass</szBRName>
 		<szBRDesc>The cuirass of BOS power armor is housed with micro fusion reactor that provides power to all functioning component and lasts for a hundred of years. In addition to providing physical protection, Power Armor also serves as a radiation shield.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>154</ubClassIndex>
+		<ubClassIndex>149</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>173</ubGraphicNum>
 		<ubWeight>20</ubWeight>
@@ -43824,7 +43797,7 @@
 		<szBRName>FO BOS Power Armor Cuishs</szBRName>
 		<szBRDesc>The cuishs of BOS Power Armor exoskeleton offer you superhuman strength and extra protection in combat.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>155</ubClassIndex>
+		<ubClassIndex>150</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>174</ubGraphicNum>
 		<ubWeight>15</ubWeight>
@@ -43876,7 +43849,7 @@
 		<szBRName>5.11 Shirts</szBRName>
 		<szBRDesc>The 5.11 shirt is the ideal casual outfit of many security personnels. Offers very limited level of protection.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>215</ubClassIndex>
+		<ubClassIndex>151</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>418</ubGraphicNum>
 		<ubWeight>4</ubWeight>
@@ -43894,13 +43867,13 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1762</uiIndex>
-		<szItemName>5.11 Pants</szItemName>
-		<szLongItemName>5.11 Pants</szLongItemName>
-		<szItemDesc>5.11 Tactical Pants is the choice of federal, state and local law enforcement for over 15 years.</szItemDesc>
-		<szBRName>5.11 Pants</szBRName>
-		<szBRDesc>5.11 Tactical Pants is the choice of federal, state and local law enforcement for over 15 years.</szBRDesc>
+		<szItemName>5.11 Trousers</szItemName>
+		<szLongItemName>5.11 Trousers</szLongItemName>
+		<szItemDesc>5.11 Tactical trousers is the choice of federal, state and local law enforcement for over 15 years.</szItemDesc>
+		<szBRName>5.11 Trousers</szBRName>
+		<szBRDesc>5.11 Tactical trousers is the choice of federal, state and local law enforcement for over 15 years.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>156</ubClassIndex>
+		<ubClassIndex>152</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>264</ubGraphicNum>
 		<ubWeight>5</ubWeight>
@@ -43923,7 +43896,7 @@
 		<szBRName>A Pair of SAPI III Plates</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>157</ubClassIndex>
+		<ubClassIndex>153</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>125</ubGraphicNum>
 		<ubWeight>36</ubWeight>
@@ -43945,7 +43918,7 @@
 		<szBRName>A Pair of SAPI Plates</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>158</ubClassIndex>
+		<ubClassIndex>154</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>126</ubGraphicNum>
 		<ubWeight>46</ubWeight>
@@ -43967,7 +43940,7 @@
 		<szBRName>Dragon Skin SOV</szBRName>
 		<szBRDesc>The MIL-STD SOV-2000 Flexible Body Armor system will defeat most of the rifle rounds. Additionally, the SOV-3000 systems exceed the MIL-P-46593A fragmentation requirements around the high power rifle defeating areas. It's the best body armor money can buy!</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>159</ubClassIndex>
+		<ubClassIndex>155</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>175</ubGraphicNum>
 		<ubWeight>75</ubWeight>
@@ -43994,7 +43967,7 @@
 		<szBRName>SAS Beret</szBRName>
 		<szBRDesc>Berets come complete with cloth cap badges sewn on. So why not grab yourself a SAS beret as issued at Hereford.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>160</ubClassIndex>
+		<ubClassIndex>156</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>178</ubGraphicNum>
 		<ubWeight>1</ubWeight>
@@ -44017,7 +43990,7 @@
 		<szBRName>US M1 Helmet</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>161</ubClassIndex>
+		<ubClassIndex>157</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>179</ubGraphicNum>
 		<ubWeight>14</ubWeight>
@@ -44034,13 +44007,13 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1768</uiIndex>
-		<szItemName>Franzoesischer</szItemName>
-		<szLongItemName>Franzoesischer Helmet</szLongItemName>
-		<szItemDesc>A helmet of the poilu.</szItemDesc>
-		<szBRName>Franzoesischer Helmet</szBRName>
+		<szItemName>CGF Gallet</szItemName>
+		<szLongItemName>CGF Gallet Helmet</szLongItemName>
+		<szItemDesc>A SPECTRA helmet of the French army.</szItemDesc>
+		<szBRName>CGF Gallet Helmet</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>162</ubClassIndex>
+		<ubClassIndex>158</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>180</ubGraphicNum>
 		<ubWeight>15</ubWeight>
@@ -44054,6 +44027,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<AimBonus>-1</AimBonus>
+		<CamoBonus>10</CamoBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1769</uiIndex>
@@ -44063,7 +44037,7 @@
 		<szBRName>NVA Helmet</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>163</ubClassIndex>
+		<ubClassIndex>159</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>181</ubGraphicNum>
 		<ubWeight>14</ubWeight>
@@ -44080,18 +44054,18 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1770</uiIndex>
-		<szItemName>Spanischer Helmet</szItemName>
-		<szLongItemName>Spanischer Helmet</szLongItemName>
-		<szItemDesc>A spanish helmet of the colonial period. Anyone who's still wearing it deserves to be shot...maybe that already happened.</szItemDesc>
-		<szBRName>Spanischer Helmet</szBRName>
+		<szItemName>Mk.6 Helmet</szItemName>
+		<szLongItemName>British Mk.6 Helmet</szLongItemName>
+		<szItemDesc>The Mk.6 is the standard combat helmet of the British Armed forces. It is made by the "ballistic nylon", and covers the British Disruptive Pattern Material.</szItemDesc>
+		<szBRName>Mk.6 Helmet</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>164</ubClassIndex>
+		<ubClassIndex>160</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>182</ubGraphicNum>
-		<ubWeight>20</ubWeight>
+		<ubWeight>14</ubWeight>
 		<ItemSize>26</ItemSize>
-		<usPrice>300</usPrice>
+		<usPrice>250</usPrice>
 		<ubCoolness>8</ubCoolness>
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
@@ -44099,17 +44073,18 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
-		<AimBonus>-2</AimBonus>
+		<AimBonus>-1</AimBonus>
+		<CamoBonus>15</CamoBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1771</uiIndex>
-		<szItemName>Magic Bra</szItemName>
-		<szLongItemName>Magic Bra</szLongItemName>
+		<szItemName>Sorcery Bra</szItemName>
+		<szLongItemName>Sorcery Bra</szLongItemName>
 		<szItemDesc>Although not very visually appealing, the infamous perverted witch doctor Daboboye (whose name actually means "big titties, yay") from the eastern TBS tribe enchanted this bra to deflect bullets.</szItemDesc>
-		<szBRName>Magic Bra</szBRName>
+		<szBRName>Sorcery Bra</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>165</ubClassIndex>
+		<ubClassIndex>161</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>183</ubGraphicNum>
 		<ubWeight>3</ubWeight>
@@ -44130,7 +44105,7 @@
 		<szBRName>M69 Flak Jacket</szBRName>
 		<szBRDesc>The design of the M69 vest was improved in 1968 with the insertion of polyethylene stiffeners into the fifth layer of ballistic nylon, which alleviated the tendency of the filler to become bunched.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>166</ubClassIndex>
+		<ubClassIndex>162</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>184</ubGraphicNum>
 		<ubWeight>49</ubWeight>
@@ -44156,7 +44131,7 @@
 		<szBRName>AC 331E Vest</szBRName>
 		<szBRDesc>Australian concept, design and manufacture, AC331E is the Army and Spec-Op's body armor.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>167</ubClassIndex>
+		<ubClassIndex>163</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>185</ubGraphicNum>
 		<ubWeight>40</ubWeight>
@@ -44179,7 +44154,7 @@
 		<szBRName>PASGT Vest</szBRName>
 		<szBRDesc>The PASGT vest has an increased ability over the now obsolete nylon vest to stop or slow down fragments, it is America's first adoption of kevlar.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>168</ubClassIndex>
+		<ubClassIndex>164</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>186</ubGraphicNum>
 		<ubWeight>46</ubWeight>
@@ -44202,7 +44177,7 @@
 		<szBRName>SPEAR RBA</szBRName>
 		<szBRDesc>The SPEAR Ranger Body Armor (RBA) is currently used by the Army 75th Ranger Regiment and Special Forces.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>169</ubClassIndex>
+		<ubClassIndex>165</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>187</ubGraphicNum>
 		<ubWeight>48</ubWeight>
@@ -44225,7 +44200,7 @@
 		<szBRName>PT Tactical Body Armor</szBRName>
 		<szBRDesc>Point Blank Armor is a famous body armor among US Special Forces, such as SEALs and Army Special Forces. Fully adjustable shoulder strap and waist elastic straps ensure proper fit, maximizing comfort and mobility.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>170</ubClassIndex>
+		<ubClassIndex>166</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>188</ubGraphicNum>
 		<ubWeight>36</ubWeight>
@@ -44248,7 +44223,7 @@
 		<szBRName>Police Armor Vest</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>171</ubClassIndex>
+		<ubClassIndex>167</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>189</ubGraphicNum>
 		<ubWeight>55</ubWeight>
@@ -44263,24 +44238,24 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1778</uiIndex>
-		<szItemName>Chastity Belt</szItemName>
-		<szLongItemName>Chastity Belt</szLongItemName>
-		<szItemDesc>This thing protects dignity as much as your groin. Invulnerable to electric drill, percussion drill, strong acid, bullets, locksmith, and possibly survives a nuclear blast. Can be worn alone or with pants.</szItemDesc>
-		<szBRName>Chastity Belt</szBRName>
+		<szItemName>M1953 Pants</szItemName>
+		<szLongItemName>M1953 Lower Torso Armor</szLongItemName>
+		<szItemDesc>aka "The Diaper". Commonly issued to aircrew and airmobile units late in the Vietnam war up to Desert Storm. This is one of the rarest elements of the PASGT armor system.</szItemDesc>
+		<szBRName>M1953 Lower Torso Armor</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>172</ubClassIndex>
+		<ubClassIndex>168</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>190</ubGraphicNum>
-		<ubWeight>25</ubWeight>
+		<ubWeight>20</ubWeight>
 		<ItemSize>15</ItemSize>
-		<usPrice>9999</usPrice>
-		<ubCoolness>9</ubCoolness>
+		<usPrice>59</usPrice>
+		<ubCoolness>8</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
-		<APBonus>-6</APBonus>
+		<APBonus>-2</APBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1779</uiIndex>
@@ -44290,7 +44265,7 @@
 		<szBRName>M60 Soviet Helmet</szBRName>
 		<szBRDesc>M-60 helmet has the original Soviet brown fake leather 4-pad lining and black ink stamping reading: ZKO-85 on inside. Thickness of steel 1.2mm, weight 1.35kg.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>173</ubClassIndex>
+		<ubClassIndex>169</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>191</ubGraphicNum>
 		<ubWeight>14</ubWeight>
@@ -44315,7 +44290,7 @@
 		<szBRName>RFVC1 Flak Vest</szBRName>
 		<szBRDesc>Russian Army flak vest covered with pockets for AK magazines and grenades.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>174</ubClassIndex>
+		<ubClassIndex>170</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>216</ubGraphicNum>
 		<ubWeight>25</ubWeight>
@@ -44365,7 +44340,7 @@
 		<szBRName>Hunter Camo Helmet</szBRName>
 		<szBRDesc>The current issue helmet of the PLA with the newest Hunter Camo pattern.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>175</ubClassIndex>
+		<ubClassIndex>171</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>192</ubGraphicNum>
 		<ubWeight>13</ubWeight>
@@ -44390,7 +44365,7 @@
 		<szBRName>Hunter Camo Uniform &amp; Vest</szBRName>
 		<szBRDesc>People's Liberation Army's standard issue ballistic vest with the newest Hunter Camo.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>176</ubClassIndex>
+		<ubClassIndex>172</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>193</ubGraphicNum>
 		<ubWeight>39</ubWeight>
@@ -44408,13 +44383,13 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1784</uiIndex>
-		<szItemName>Hunter Pants</szItemName>
-		<szLongItemName>Hunter Camo Leggings</szLongItemName>
-		<szItemDesc>People's Liberation Army's standard issue camouflaged pants with the newest Hunter Camo pattern.</szItemDesc>
-		<szBRName>Hunter Camo Pants</szBRName>
-		<szBRDesc>People's Liberation Army's standard issue camouflaged pants with the newest Hunter Camo pattern.</szBRDesc>
+		<szItemName>Hunter Trousers</szItemName>
+		<szLongItemName>Hunter Camo Trousers</szLongItemName>
+		<szItemDesc>People's Liberation Army's standard issue camouflaged trousers with the newest Hunter Camo pattern.</szItemDesc>
+		<szBRName>Hunter Camo Trousers</szBRName>
+		<szBRDesc>People's Liberation Army's standard issue camouflaged trousers with the newest Hunter Camo pattern.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>177</ubClassIndex>
+		<ubClassIndex>173</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>194</ubGraphicNum>
 		<ubWeight>4</ubWeight>
@@ -44437,7 +44412,7 @@
 		<szBRName>Advanced Combat Helmet</szBRName>
 		<szBRDesc>The ACH is based on the MICH design and provides an improved helmet to soldiers, replacing the older PASGT.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>178</ubClassIndex>
+		<ubClassIndex>174</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>205</ubGraphicNum>
 		<ubWeight>9</ubWeight>
@@ -44461,7 +44436,7 @@
 		<szBRName>Ranger Body Armor</szBRName>
 		<szBRDesc>The Ranger Body Armor (RBA) was used by US Army Rangers and Army special forces.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>179</ubClassIndex>
+		<ubClassIndex>175</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>206</ubGraphicNum>
 		<ubWeight>41</ubWeight>
@@ -44484,7 +44459,7 @@
 		<szBRName>PASGT Helmet</szBRName>
 		<szBRDesc>PASGT Helmet was the standard issued helmet of U.S military untill 2003. It was nicknamed K-pot for being made of Kevlar.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>180</ubClassIndex>
+		<ubClassIndex>176</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>209</ubGraphicNum>
 		<ubWeight>14</ubWeight>
@@ -44508,7 +44483,7 @@
 		<szBRName>PASGT Armor</szBRName>
 		<szBRDesc>Once the standard issue body armor of the U.S military, this kevlar armor provides limited ballistic protection to small arms unless SAPI plates are inserted..</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>181</ubClassIndex>
+		<ubClassIndex>177</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>210</ubGraphicNum>
 		<ubWeight>31</ubWeight>
@@ -44530,7 +44505,7 @@
 		<szBRName>UK Mk2 Helmet</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>182</ubClassIndex>
+		<ubClassIndex>178</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>215</ubGraphicNum>
 		<ubWeight>15</ubWeight>
@@ -44551,7 +44526,7 @@
 		<szBRName>KMT Helmet</szBRName>
 		<szBRDesc>This sleek-looking German M35 "Stahlhelm" was bought and issued to China's KMT army in the 30s and served their lost cause throughout the WWII.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>183</ubClassIndex>
+		<ubClassIndex>179</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>218</ubGraphicNum>
 		<ubWeight>14</ubWeight>
@@ -44591,13 +44566,13 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1792</uiIndex>
-		<szItemName>KMT Pants</szItemName>
-		<szLongItemName>KMT Pants</szLongItemName>
-		<szItemDesc>A pair of war-torn khaki pants for the KMT army in WWII.</szItemDesc>
-		<szBRName>KMT Pants</szBRName>
-		<szBRDesc>A pair of war-torn khaki pants for the KMT army in WWII.</szBRDesc>
+		<szItemName>KMT Trousers</szItemName>
+		<szLongItemName>KMT Trousers</szLongItemName>
+		<szItemDesc>A pair of war-torn khaki trousers for the KMT army in WWII.</szItemDesc>
+		<szBRName>KMT Trousers</szBRName>
+		<szBRDesc>A pair of war-torn khaki trousers for the KMT army in WWII.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>184</ubClassIndex>
+		<ubClassIndex>180</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>220</ubGraphicNum>
 		<ubWeight>4</ubWeight>
@@ -44967,7 +44942,7 @@
 		<Attachment>1</Attachment>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<AimBonus>11</AimBonus>
+		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
 		<PercentAPReduction>8</PercentAPReduction>
 		<NightVisionRangeBonus>15</NightVisionRangeBonus>
@@ -45001,7 +44976,7 @@
 		<Electronic>1</Electronic>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<AimBonus>11</AimBonus>
+		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
 		<PercentAPReduction>6</PercentAPReduction>
 		<NightVisionRangeBonus>15</NightVisionRangeBonus>
@@ -45098,10 +45073,9 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<ToHitBonus>20</ToHitBonus>
-		<BestLaserRange>300</BestLaserRange>
+		<BestLaserRange>350</BestLaserRange>
 		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
-		<PercentAPReduction>5</PercentAPReduction>
 		<NightVisionRangeBonus>30</NightVisionRangeBonus>
 		<DayVisionRangeBonus>35</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>30</CaveVisionRangeBonus>
@@ -45132,7 +45106,7 @@
 		<Electronic>1</Electronic>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<AimBonus>11</AimBonus>
+		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
 		<PercentAPReduction>-4</PercentAPReduction>
 		<NightVisionRangeBonus>20</NightVisionRangeBonus>
@@ -45193,8 +45167,6 @@
 		<Attachment>1</Attachment>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<Bipod>5</Bipod>
-		<ToHitBonus>-5</ToHitBonus>
 		<AimBonus>25</AimBonus>
 		<MinRangeForAimBonus>100</MinRangeForAimBonus>
 		<PercentAPReduction>-20</PercentAPReduction>
@@ -45394,8 +45366,6 @@
 		<Attachment>1</Attachment>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<Bipod>3</Bipod>
-		<ToHitBonus>-3</ToHitBonus>
 		<AimBonus>25</AimBonus>
 		<MinRangeForAimBonus>85</MinRangeForAimBonus>
 		<PercentAPReduction>-18</PercentAPReduction>
@@ -45583,8 +45553,6 @@
 		<Attachment>1</Attachment>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<Bipod>2</Bipod>
-		<ToHitBonus>-2</ToHitBonus>
 		<AimBonus>22</AimBonus>
 		<MinRangeForAimBonus>75</MinRangeForAimBonus>
 		<PercentAPReduction>-15</PercentAPReduction>
@@ -45616,8 +45584,7 @@
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
 		<Electronic>1</Electronic>
-		<Bipod>25</Bipod>
-		<ToHitBonus>-5</ToHitBonus>
+		<ToHitBonus>20</ToHitBonus>
 		<BestLaserRange>1000</BestLaserRange>
 		<AimBonus>25</AimBonus>
 		<MinRangeForAimBonus>100</MinRangeForAimBonus>
@@ -45655,7 +45622,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<AimBonus>12</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
-		<PercentAPReduction>-4</PercentAPReduction>
+		<PercentAPReduction>-3</PercentAPReduction>
 		<NightVisionRangeBonus>15</NightVisionRangeBonus>
 		<DayVisionRangeBonus>50</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>45</BrightLightVisionRangeBonus>
@@ -45842,7 +45809,7 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<Bipod>10</Bipod>
+		<Bipod>7</Bipod>
 		<ToHitBonus>-1</ToHitBonus>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
@@ -46478,7 +46445,7 @@
 		<Metal>1</Metal>
 		<Attachment>1</Attachment>
 		<BR_NewInventory>1</BR_NewInventory>
-		<Bipod>220</Bipod>
+		<Bipod>200</Bipod>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1856</uiIndex>
@@ -46640,7 +46607,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
-		<PercentAPReduction>12</PercentAPReduction>
+		<PercentAPReduction>10</PercentAPReduction>
 		<NightVisionRangeBonus>20</NightVisionRangeBonus>
 		<DayVisionRangeBonus>35</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
@@ -48740,7 +48707,7 @@
 		<ubWeight>89</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>4650</usPrice>
-		<ubCoolness>4</ubCoolness>
+		<ubCoolness>5</ubCoolness>
 		<bReliability>4</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -48750,7 +48717,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>500</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
 	</ITEM>
@@ -49089,7 +49056,7 @@
 		<ubWeight>121</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>5270</usPrice>
-		<ubCoolness>2</ubCoolness>
+		<ubCoolness>4</ubCoolness>
 		<bReliability>4</bReliability>
 		<bRepairEase>-3</bRepairEase>
 		<Damageable>1</Damageable>
@@ -49101,7 +49068,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>900</BR_ROF>
 		<Bipod>25</Bipod>
-		<ToHitBonus>-5</ToHitBonus>
+		<ToHitBonus>-15</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1969</uiIndex>
@@ -49349,7 +49316,7 @@
 		<ubWeight>43</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>3630</usPrice>
-		<ubCoolness>2</ubCoolness>
+		<ubCoolness>4</ubCoolness>
 		<bReliability>1</bReliability>
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
@@ -49446,7 +49413,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
 		<BR_ROF>1000</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1981</uiIndex>
@@ -49475,8 +49442,8 @@
 		<BigGunList>1</BigGunList>
 		<Unaerodynamic>1</Unaerodynamic>
 		<BR_ROF>950</BR_ROF>
-		<Bipod>50</Bipod>
-		<ToHitBonus>-30</ToHitBonus>
+		<Bipod>30</Bipod>
+		<ToHitBonus>-20</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1982</uiIndex>
@@ -49504,7 +49471,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
 		<BR_ROF>1000</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1983</uiIndex>
@@ -49565,8 +49532,8 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>750</BR_ROF>
-		<Bipod>50</Bipod>
-		<ToHitBonus>-35</ToHitBonus>
+		<Bipod>30</Bipod>
+		<ToHitBonus>-20</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1985</uiIndex>
@@ -49624,7 +49591,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>700</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 		<DefaultAttachment>208</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -49747,7 +49714,7 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>25</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>208</DefaultAttachment>
@@ -49793,8 +49760,8 @@
 		<ubClassIndex>1992</ubClassIndex>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>744</ubGraphicNum>
-		<ubWeight>45</ubWeight>
-		<ItemSize>7</ItemSize>
+		<ubWeight>47</ubWeight>
+		<ItemSize>8</ItemSize>
 		<usPrice>5269</usPrice>
 		<ubCoolness>5</ubCoolness>
 		<bReliability>2</bReliability>
@@ -49809,7 +49776,7 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>600</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 		<DefaultAttachment>1007</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -49898,7 +49865,7 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>24</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>208</DefaultAttachment>
@@ -49928,8 +49895,8 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>16</BR_ROF>
-		<Bipod>150</Bipod>
-		<ToHitBonus>-130</ToHitBonus>
+		<Bipod>100</Bipod>
+		<ToHitBonus>-90</ToHitBonus>
 		<DefaultAttachment>2189</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -50488,8 +50455,8 @@
 		<TwoHanded>1</TwoHanded>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_ROF>35</BR_ROF>
-		<Bipod>145</Bipod>
-		<ToHitBonus>-100</ToHitBonus>
+		<Bipod>100</Bipod>
+		<ToHitBonus>-90</ToHitBonus>
 		<DefaultAttachment>1825</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -50602,7 +50569,7 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>10</BR_ROF>
-		<Bipod>70</Bipod>
+		<Bipod>60</Bipod>
 		<ToHitBonus>-50</ToHitBonus>
 		<DefaultAttachment>208</DefaultAttachment>
 	</ITEM>
@@ -50836,7 +50803,7 @@
 		<ubWeight>150</ubWeight>
 		<ItemSize>30</ItemSize>
 		<usPrice>5500</usPrice>
-		<ubCoolness>6</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -50857,7 +50824,7 @@
 		<ubWeight>150</ubWeight>
 		<ItemSize>30</ItemSize>
 		<usPrice>4000</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -50966,7 +50933,7 @@
 		<ubWeight>108</ubWeight>
 		<ItemSize>30</ItemSize>
 		<usPrice>5000</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -50987,7 +50954,7 @@
 		<ubWeight>110</ubWeight>
 		<ItemSize>30</ItemSize>
 		<usPrice>6000</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -51008,7 +50975,7 @@
 		<ubWeight>120</ubWeight>
 		<ItemSize>30</ItemSize>
 		<usPrice>5000</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -51029,7 +50996,7 @@
 		<ubWeight>108</ubWeight>
 		<ItemSize>30</ItemSize>
 		<usPrice>6000</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -51050,7 +51017,7 @@
 		<ubWeight>110</ubWeight>
 		<ItemSize>30</ItemSize>
 		<usPrice>17000</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -51071,7 +51038,7 @@
 		<ubWeight>124</ubWeight>
 		<ItemSize>30</ItemSize>
 		<usPrice>5000</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -51092,7 +51059,7 @@
 		<ubWeight>125</ubWeight>
 		<ItemSize>30</ItemSize>
 		<usPrice>6000</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -51113,7 +51080,7 @@
 		<ubWeight>135</ubWeight>
 		<ItemSize>30</ItemSize>
 		<usPrice>20000</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -51134,7 +51101,7 @@
 		<ubWeight>124</ubWeight>
 		<ItemSize>30</ItemSize>
 		<usPrice>5000</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -51155,7 +51122,7 @@
 		<ubWeight>124</ubWeight>
 		<ItemSize>30</ItemSize>
 		<usPrice>6000</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -51176,7 +51143,7 @@
 		<ubWeight>120</ubWeight>
 		<ItemSize>30</ItemSize>
 		<usPrice>17000</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -51197,7 +51164,7 @@
 		<ubWeight>122</ubWeight>
 		<ItemSize>30</ItemSize>
 		<usPrice>3750</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -51218,7 +51185,7 @@
 		<ubWeight>122</ubWeight>
 		<ItemSize>30</ItemSize>
 		<usPrice>4000</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -51239,7 +51206,7 @@
 		<ubWeight>130</ubWeight>
 		<ItemSize>30</ItemSize>
 		<usPrice>12500</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -51260,7 +51227,7 @@
 		<ubWeight>122</ubWeight>
 		<ItemSize>30</ItemSize>
 		<usPrice>3750</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -51281,7 +51248,7 @@
 		<ubWeight>122</ubWeight>
 		<ItemSize>30</ItemSize>
 		<usPrice>4000</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -51302,7 +51269,7 @@
 		<ubWeight>120</ubWeight>
 		<ItemSize>30</ItemSize>
 		<usPrice>11500</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -51323,7 +51290,7 @@
 		<ubWeight>123</ubWeight>
 		<ItemSize>30</ItemSize>
 		<usPrice>4500</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -51344,7 +51311,7 @@
 		<ubWeight>123</ubWeight>
 		<ItemSize>30</ItemSize>
 		<usPrice>5250</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -51365,7 +51332,7 @@
 		<ubWeight>125</ubWeight>
 		<ItemSize>30</ItemSize>
 		<usPrice>11250</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -51386,7 +51353,7 @@
 		<ubWeight>142</ubWeight>
 		<ItemSize>30</ItemSize>
 		<usPrice>4500</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -51407,7 +51374,7 @@
 		<ubWeight>123</ubWeight>
 		<ItemSize>30</ItemSize>
 		<usPrice>5250</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -51428,7 +51395,7 @@
 		<ubWeight>120</ubWeight>
 		<ItemSize>30</ItemSize>
 		<usPrice>12750</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -51449,7 +51416,7 @@
 		<ubWeight>182</ubWeight>
 		<ItemSize>30</ItemSize>
 		<usPrice>1500</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -51470,7 +51437,7 @@
 		<ubWeight>185</ubWeight>
 		<ItemSize>30</ItemSize>
 		<usPrice>3000</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -51491,7 +51458,7 @@
 		<ubWeight>180</ubWeight>
 		<ItemSize>30</ItemSize>
 		<usPrice>4500</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -51512,7 +51479,7 @@
 		<ubWeight>25</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>2000</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>3</BR_NewInventory>
@@ -51532,7 +51499,7 @@
 		<ubWeight>185</ubWeight>
 		<ItemSize>30</ItemSize>
 		<usPrice>1500</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -51553,7 +51520,7 @@
 		<ubWeight>110</ubWeight>
 		<ItemSize>30</ItemSize>
 		<usPrice>1450</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -51574,7 +51541,7 @@
 		<ubWeight>22</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>300</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>1</BR_NewInventory>
@@ -51594,7 +51561,7 @@
 		<ubWeight>22</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>500</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>5</BR_NewInventory>
@@ -51614,7 +51581,7 @@
 		<ubWeight>22</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>1200</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>5</BR_NewInventory>
@@ -51634,7 +51601,7 @@
 		<ubWeight>38</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>250</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>5</BR_NewInventory>
@@ -51654,7 +51621,7 @@
 		<ubWeight>38</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>250</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>5</BR_NewInventory>
@@ -51674,7 +51641,7 @@
 		<ubWeight>38</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>750</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>2</BR_NewInventory>
@@ -51694,7 +51661,7 @@
 		<ubWeight>42</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>1500</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>2</BR_NewInventory>
@@ -51714,7 +51681,7 @@
 		<ubWeight>40</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>375</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>3</BR_NewInventory>
@@ -51734,7 +51701,7 @@
 		<ubWeight>33</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>750</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>2</BR_NewInventory>
@@ -51752,9 +51719,10 @@
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>321</ubGraphicNum>
 		<ubWeight>14</ubWeight>
+		<ubPerPocket>3</ubPerPocket>
 		<ItemSize>22</ItemSize>
 		<usPrice>3750</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>3</BR_NewInventory>
@@ -51775,7 +51743,7 @@
 		<ubPerPocket>3</ubPerPocket>
 		<ItemSize>22</ItemSize>
 		<usPrice>5000</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>3</BR_NewInventory>
@@ -51796,7 +51764,7 @@
 		<ubPerPocket>3</ubPerPocket>
 		<ItemSize>22</ItemSize>
 		<usPrice>3750</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>2</BR_NewInventory>
@@ -51816,7 +51784,7 @@
 		<ubWeight>90</ubWeight>
 		<ItemSize>30</ItemSize>
 		<usPrice>15000</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -51837,7 +51805,7 @@
 		<ubWeight>13</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>3750</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>3</BR_NewInventory>
@@ -51857,7 +51825,7 @@
 		<ubWeight>13</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>7500</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>1</BR_NewInventory>
@@ -51877,7 +51845,7 @@
 		<ubWeight>120</ubWeight>
 		<ItemSize>30</ItemSize>
 		<usPrice>1000</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -51898,7 +51866,7 @@
 		<ubWeight>110</ubWeight>
 		<ItemSize>30</ItemSize>
 		<usPrice>2000</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -51919,7 +51887,7 @@
 		<ubWeight>130</ubWeight>
 		<ItemSize>30</ItemSize>
 		<usPrice>2000</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -51940,7 +51908,7 @@
 		<ubWeight>110</ubWeight>
 		<ItemSize>30</ItemSize>
 		<usPrice>750</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -51961,7 +51929,7 @@
 		<ubWeight>100</ubWeight>
 		<ItemSize>30</ItemSize>
 		<usPrice>1000</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -51982,7 +51950,7 @@
 		<ubWeight>110</ubWeight>
 		<ItemSize>30</ItemSize>
 		<usPrice>750</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -52003,7 +51971,7 @@
 		<ubWeight>125</ubWeight>
 		<ItemSize>30</ItemSize>
 		<usPrice>4500</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -52024,7 +51992,7 @@
 		<ubWeight>12</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>1250</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>1</BR_NewInventory>
@@ -52044,7 +52012,7 @@
 		<ubWeight>125</ubWeight>
 		<ItemSize>30</ItemSize>
 		<usPrice>6000</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -52065,7 +52033,7 @@
 		<ubWeight>22</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>2200</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>2</BR_NewInventory>
@@ -52085,7 +52053,7 @@
 		<ubWeight>22</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>2475</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>1</BR_NewInventory>
@@ -52105,7 +52073,7 @@
 		<ubWeight>32</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>2000</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>2</BR_NewInventory>
@@ -52125,7 +52093,7 @@
 		<ubWeight>32</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>2400</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>1</BR_NewInventory>
@@ -52145,7 +52113,7 @@
 		<ubWeight>98</ubWeight>
 		<ItemSize>30</ItemSize>
 		<usPrice>4500</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -52166,7 +52134,7 @@
 		<ubWeight>98</ubWeight>
 		<ItemSize>30</ItemSize>
 		<usPrice>5250</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -52187,7 +52155,7 @@
 		<ubWeight>21</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>6000</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>1</BR_NewInventory>
@@ -52207,7 +52175,7 @@
 		<ubWeight>20</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>700</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>2</BR_NewInventory>
@@ -52227,7 +52195,7 @@
 		<ubWeight>20</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>2000</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>1</BR_NewInventory>
@@ -52247,7 +52215,7 @@
 		<ubWeight>20</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>800</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>1</BR_NewInventory>
@@ -52267,7 +52235,7 @@
 		<ubWeight>120</ubWeight>
 		<ItemSize>30</ItemSize>
 		<usPrice>4000</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -52288,7 +52256,7 @@
 		<ubWeight>120</ubWeight>
 		<ItemSize>30</ItemSize>
 		<usPrice>5000</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -52309,7 +52277,7 @@
 		<ubWeight>105</ubWeight>
 		<ItemSize>30</ItemSize>
 		<usPrice>28000</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -52331,7 +52299,7 @@
 		<ubWeight>90</ubWeight>
 		<ItemSize>30</ItemSize>
 		<usPrice>18000</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -52353,7 +52321,7 @@
 		<ubWeight>235</ubWeight>
 		<ItemSize>34</ItemSize>
 		<usPrice>7000</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -52364,9 +52332,9 @@
 		<uiIndex>2103</uiIndex>
 		<szItemName>.50BMG M box</szItemName>
 		<szLongItemName>.50BMG Match ammo box</szLongItemName>
-		<szItemDesc>20 rounds of .50 BMG caliber Raufoss sniper bullets in paper box for long-range sniper rifles.</szItemDesc>
+		<szItemDesc>20 rounds of .50 BMG caliber Mk.211 Raufoss sniper bullets in paper box for long-range sniper rifles.</szItemDesc>
 		<szBRName>.50BMG M box</szBRName>
-		<szBRDesc>20 rounds of .50 BMG caliber Raufoss sniper bullets in paper box for long-range sniper rifless.</szBRDesc>
+		<szBRDesc>20 rounds of .50 BMG caliber Mk.211 Raufoss sniper bullets in paper box for long-range sniper rifless.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>351</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
@@ -52374,7 +52342,7 @@
 		<ubWeight>30</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>1250</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>2</BR_NewInventory>
@@ -52394,7 +52362,7 @@
 		<ubWeight>255</ubWeight>
 		<ItemSize>34</ItemSize>
 		<usPrice>6000</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -52415,7 +52383,7 @@
 		<ubWeight>30</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>1125</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>2</BR_NewInventory>
@@ -52435,7 +52403,7 @@
 		<ubWeight>29</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>200</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>4</BR_NewInventory>
@@ -52455,7 +52423,7 @@
 		<ubWeight>29</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>400</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>4</BR_NewInventory>
@@ -52475,7 +52443,7 @@
 		<ubWeight>29</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>1600</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>1</BR_NewInventory>
@@ -52495,7 +52463,7 @@
 		<ubWeight>29</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>2000</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>2</BR_NewInventory>
@@ -52515,7 +52483,7 @@
 		<ubWeight>28</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>300</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>3</BR_NewInventory>
@@ -52535,7 +52503,7 @@
 		<ubWeight>28</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>1200</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>1</BR_NewInventory>
@@ -52555,7 +52523,7 @@
 		<ubWeight>28</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>1350</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>1</BR_NewInventory>
@@ -52575,7 +52543,7 @@
 		<ubWeight>29</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>600</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>3</BR_NewInventory>
@@ -52595,7 +52563,7 @@
 		<ubWeight>29</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>800</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>2</BR_NewInventory>
@@ -52615,7 +52583,7 @@
 		<ubWeight>29</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>1400</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>1</BR_NewInventory>
@@ -52635,7 +52603,7 @@
 		<ubWeight>21</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>600</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>2</BR_NewInventory>
@@ -52655,7 +52623,7 @@
 		<ubWeight>13</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>900</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>3</BR_NewInventory>
@@ -52675,7 +52643,7 @@
 		<ubWeight>13</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>900</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>3</BR_NewInventory>
@@ -52695,7 +52663,7 @@
 		<ubWeight>20</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>3000</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>3</BR_NewInventory>
@@ -52715,7 +52683,7 @@
 		<ubWeight>20</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>3500</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>2</BR_NewInventory>
@@ -52735,7 +52703,7 @@
 		<ubWeight>135</ubWeight>
 		<ItemSize>30</ItemSize>
 		<usPrice>1500</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -52756,7 +52724,7 @@
 		<ubWeight>135</ubWeight>
 		<ItemSize>30</ItemSize>
 		<usPrice>1800</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -52777,7 +52745,7 @@
 		<ubWeight>24</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>3000</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>1</BR_NewInventory>
@@ -52797,7 +52765,7 @@
 		<ubWeight>150</ubWeight>
 		<ItemSize>30</ItemSize>
 		<usPrice>2500</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -52818,7 +52786,7 @@
 		<ubWeight>150</ubWeight>
 		<ItemSize>30</ItemSize>
 		<usPrice>4000</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -52839,7 +52807,7 @@
 		<ubWeight>120</ubWeight>
 		<ItemSize>30</ItemSize>
 		<usPrice>3600</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -52860,7 +52828,7 @@
 		<ubWeight>150</ubWeight>
 		<ItemSize>30</ItemSize>
 		<usPrice>2500</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -52881,7 +52849,7 @@
 		<ubWeight>30</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>1500</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>1</BR_NewInventory>
@@ -52901,7 +52869,7 @@
 		<ubWeight>150</ubWeight>
 		<ItemSize>30</ItemSize>
 		<usPrice>2250</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -52922,7 +52890,7 @@
 		<ubWeight>150</ubWeight>
 		<ItemSize>30</ItemSize>
 		<usPrice>5500</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -53133,8 +53101,8 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>35</BR_ROF>
-		<Bipod>150</Bipod>
-		<ToHitBonus>-130</ToHitBonus>
+		<Bipod>100</Bipod>
+		<ToHitBonus>-90</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2138</uiIndex>
@@ -53192,7 +53160,7 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>35</BR_ROF>
-		<Bipod>80</Bipod>
+		<Bipod>60</Bipod>
 		<ToHitBonus>-50</ToHitBonus>
 	</ITEM>
 	<ITEM>
@@ -53465,7 +53433,7 @@
 		<Electronic>1</Electronic>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<BR_ROF>750</BR_ROF>
+		<BR_ROF>50</BR_ROF>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2149</uiIndex>
@@ -53495,7 +53463,7 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>24</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 		<DefaultAttachment>1007</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -53717,7 +53685,7 @@
 		<BR_ROF>650</BR_ROF>
 		<PercentNoiseReduction>65</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2157</uiIndex>
@@ -53827,7 +53795,7 @@
 		<ubWeight>40</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>2370</usPrice>
-		<ubCoolness>1</ubCoolness>
+		<ubCoolness>6</ubCoolness>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -53852,7 +53820,7 @@
 		<ubWeight>28</ubWeight>
 		<ItemSize>2</ItemSize>
 		<usPrice>1950</usPrice>
-		<ubCoolness>1</ubCoolness>
+		<ubCoolness>6</ubCoolness>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -53876,7 +53844,7 @@
 		<ubWeight>56</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>3750</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>7</ubCoolness>
 		<bReliability>3</bReliability>
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
@@ -53887,7 +53855,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>700</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2163</uiIndex>
@@ -53903,7 +53871,7 @@
 		<ubWeight>28</ubWeight>
 		<ItemSize>6</ItemSize>
 		<usPrice>2870</usPrice>
-		<ubCoolness>7</ubCoolness>
+		<ubCoolness>8</ubCoolness>
 		<bReliability>4</bReliability>
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
@@ -54029,8 +53997,8 @@
 		<BR_ROF>12</BR_ROF>
 		<PercentNoiseReduction>35</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
-		<Bipod>50</Bipod>
-		<ToHitBonus>-30</ToHitBonus>
+		<Bipod>35</Bipod>
+		<ToHitBonus>-25</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2168</uiIndex>
@@ -54084,7 +54052,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
 		<BR_ROF>650</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
 	</ITEM>
@@ -54115,7 +54083,7 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>26</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 		<DefaultAttachment>1817</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -54245,7 +54213,7 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_ROF>800</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 		<DefaultAttachment>2485</DefaultAttachment>
@@ -54274,8 +54242,8 @@
 		<TwoHanded>1</TwoHanded>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_ROF>16</BR_ROF>
-		<Bipod>150</Bipod>
-		<ToHitBonus>-130</ToHitBonus>
+		<Bipod>100</Bipod>
+		<ToHitBonus>-90</ToHitBonus>
 		<DefaultAttachment>2189</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -54303,7 +54271,7 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_ROF>16</BR_ROF>
 		<Bipod>100</Bipod>
-		<ToHitBonus>-80</ToHitBonus>
+		<ToHitBonus>-90</ToHitBonus>
 		<DefaultAttachment>2189</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -54403,7 +54371,7 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<RangeBonus>350</RangeBonus>
-		<ToHitBonus>15</ToHitBonus>
+		<ToHitBonus>5</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2181</uiIndex>
@@ -54706,7 +54674,7 @@
 		<szBRName>Type07 Wood Uniform</szBRName>
 		<szBRDesc>The Chinese type07 woodland camo uniform is the latest PLA uniform with new type digicam pattern.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>195</ubClassIndex>
+		<ubClassIndex>191</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>388</ubGraphicNum>
 		<ubWeight>5</ubWeight>
@@ -54724,13 +54692,13 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2192</uiIndex>
-		<szItemName>07 Wood Pants</szItemName>
-		<szLongItemName>Chinese type07 Digital Woodland Pants</szLongItemName>
-		<szItemDesc>The Chinese type07 digital woodland camo pants.</szItemDesc>
-		<szBRName>Type07 Wood Pants</szBRName>
-		<szBRDesc>The Chinese type07 Woodland Camo Pants.</szBRDesc>
+		<szItemName>07 Wood Trousers</szItemName>
+		<szLongItemName>Chinese type07 Digital Woodland Trousers</szLongItemName>
+		<szItemDesc>The Chinese type07 digital woodland Camo Trousers.</szItemDesc>
+		<szBRName>Type07 Wood Trousers</szBRName>
+		<szBRDesc>The Chinese type07 Woodland Camo Trousers.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>196</ubClassIndex>
+		<ubClassIndex>192</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>389</ubGraphicNum>
 		<ubWeight>4</ubWeight>
@@ -54754,7 +54722,7 @@
 		<szBRName>Type07 Desert Uniform</szBRName>
 		<szBRDesc>The Chinese Type07 Digital Desert Camo Uniform.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>197</ubClassIndex>
+		<ubClassIndex>193</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>390</ubGraphicNum>
 		<ubWeight>5</ubWeight>
@@ -54772,13 +54740,13 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2194</uiIndex>
-		<szItemName>07 Desert Pants</szItemName>
-		<szLongItemName>Chinese Type07 Digital Desert Camo Pants</szLongItemName>
-		<szItemDesc>The Desert camo version of Chinese Type07 Pants.</szItemDesc>
-		<szBRName>Type07 Desert Pants</szBRName>
-		<szBRDesc>The Chinese Type07 Digital Desert Camo Pants.</szBRDesc>
+		<szItemName>07 Desert Trousers</szItemName>
+		<szLongItemName>Chinese Type07 Digital Desert Camo Trousers</szLongItemName>
+		<szItemDesc>The Desert camo version of Chinese Type07 Trousers.</szItemDesc>
+		<szBRName>Type07 Desert Trousers</szBRName>
+		<szBRDesc>The Chinese Type07 Digital Desert Camo Trousers.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>198</ubClassIndex>
+		<ubClassIndex>194</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>391</ubGraphicNum>
 		<ubWeight>4</ubWeight>
@@ -55041,7 +55009,7 @@
 		<szBRName>Balaclava</szBRName>
 		<szBRDesc>The Balaclava is widely used by many special forces in the world to conceal their identities. Made from fire resistant materials this offers you some degrees of face protection. Can be wear alone or with helmets.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>199</ubClassIndex>
+		<ubClassIndex>195</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>402</ubGraphicNum>
 		<ubWeight>1</ubWeight>
@@ -55065,7 +55033,7 @@
 		<szBRName>Headwrap</szBRName>
 		<szBRDesc>Fashion and practical, this military cotton headwrap sucks sweat and protect your head. This is a popular item for jungle warfare SEALs during Vietnam era and a long time headgear of Russian Spetsnaz.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>200</ubClassIndex>
+		<ubClassIndex>196</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>403</ubGraphicNum>
 		<ubWeight>1</ubWeight>
@@ -55090,7 +55058,7 @@
 		<szBRName>KLMK Shirt</szBRName>
 		<szBRDesc>The KLMK or Camouflage Summer Deceptive Coverall is an extremely effective camo oversuit used by Russian forces since 1960s. They are still seen at combat areas today Used by special forces, sappers, snipers, and sometimes regular infantry.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>201</ubClassIndex>
+		<ubClassIndex>197</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>404</ubGraphicNum>
 		<ubWeight>5</ubWeight>
@@ -55109,13 +55077,13 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2209</uiIndex>
-		<szItemName>KLMK Pants</szItemName>
-		<szLongItemName>KLMK Pants</szLongItemName>
+		<szItemName>KLMK Trousers</szItemName>
+		<szLongItemName>KLMK Trousers</szLongItemName>
 		<szItemDesc>The KLMK or Camouflage Summer Deceptive Coverall is an extremely effective camo oversuit used by Russian forces since 1960s. They are still seen at combat areas today Used by special forces, sappers, snipers, and sometimes regular infantry.</szItemDesc>
-		<szBRName>KLMK Pants</szBRName>
+		<szBRName>KLMK Trousers</szBRName>
 		<szBRDesc>The KLMK or Camouflage Summer Deceptive Coverall is an extremely effective camo oversuit used by Russian forces since 1960s. They are still seen at combat areas today Used by special forces, sappers, snipers, and sometimes regular infantry.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>202</ubClassIndex>
+		<ubClassIndex>198</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>405</ubGraphicNum>
 		<ubWeight>4</ubWeight>
@@ -55140,7 +55108,7 @@
 		<szBRName>OMON Wood Shirt</szBRName>
 		<szBRDesc>This jungle BDU is issued to Russian SWAT for MVD (OMON).</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>203</ubClassIndex>
+		<ubClassIndex>199</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>406</ubGraphicNum>
 		<ubWeight>5</ubWeight>
@@ -55159,13 +55127,13 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2211</uiIndex>
-		<szItemName>OMON Wood Pants</szItemName>
-		<szLongItemName>OMON Wood Pants</szLongItemName>
+		<szItemName>OMON Wood Trousers</szItemName>
+		<szLongItemName>OMON Wood Trousers</szLongItemName>
 		<szItemDesc>This jungle BDU is issued to Russian SWAT for MVD (OMON).</szItemDesc>
-		<szBRName>OMON Wood Pants</szBRName>
+		<szBRName>OMON Wood Trousers</szBRName>
 		<szBRDesc>This jungle BDU is issued to Russian SWAT for MVD (OMON).</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>204</ubClassIndex>
+		<ubClassIndex>200</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>407</ubGraphicNum>
 		<ubWeight>4</ubWeight>
@@ -55190,7 +55158,7 @@
 		<szBRName>OMON City Shirt</szBRName>
 		<szBRDesc>This urban camo BDU is issued to Russian SWAT for MVD (OMON).</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>205</ubClassIndex>
+		<ubClassIndex>201</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>408</ubGraphicNum>
 		<ubWeight>5</ubWeight>
@@ -55209,13 +55177,13 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2213</uiIndex>
-		<szItemName>OMON urban Pants</szItemName>
-		<szLongItemName>OMON urban Pants</szLongItemName>
+		<szItemName>OMON Urban Trousers</szItemName>
+		<szLongItemName>OMON Urban Trousers</szLongItemName>
 		<szItemDesc>This urban camo BDU is issued to Russian SWAT for MVD (OMON).</szItemDesc>
-		<szBRName>OMON urban Pants</szBRName>
+		<szBRName>OMON Urban Trousers</szBRName>
 		<szBRDesc>This urban camo BDU is issued to Russian SWAT for MVD (OMON).</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>206</ubClassIndex>
+		<ubClassIndex>202</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>409</ubGraphicNum>
 		<ubWeight>4</ubWeight>
@@ -55240,7 +55208,7 @@
 		<szBRName>QGF02 Helmet</szBRName>
 		<szBRDesc>QGF02 helmet is very similar to the PASGT when it comes to ballistic protection but provides a even larger coverage area.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>207</ubClassIndex>
+		<ubClassIndex>203</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>410</ubGraphicNum>
 		<ubWeight>14</ubWeight>
@@ -55266,7 +55234,7 @@
 		<szBRName>QGF03 Helmet</szBRName>
 		<szBRDesc>QGF03 is basically QGF02 helmet with Type07 digital Multicam cover.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>208</ubClassIndex>
+		<ubClassIndex>204</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>411</ubGraphicNum>
 		<ubWeight>14</ubWeight>
@@ -55293,7 +55261,7 @@
 		<szBRName>FDY-IVR Armor Vest</szBRName>
 		<szBRDesc>FDY-IVR Ballistic vest consists of coat, neck guard and soft protective layer that can be removed at any time, only effective against low-velocity non-AP projectiles.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>209</ubClassIndex>
+		<ubClassIndex>205</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>412</ubGraphicNum>
 		<ubWeight>55</ubWeight>
@@ -55317,10 +55285,10 @@
 		<szBRName>04B Armor Vest</szBRName>
 		<szBRDesc>Type-04B body armor is China's newest trial-basis issue, having one of these within the PLA is a privilege.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>210</ubClassIndex>
+		<ubClassIndex>206</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>413</ubGraphicNum>
-		<ubWeight>55</ubWeight>
+		<ubWeight>35</ubWeight>
 		<ItemSize>29</ItemSize>
 		<usPrice>1000</usPrice>
 		<ubCoolness>7</ubCoolness>
@@ -55341,11 +55309,11 @@
 		<szBRName>P.A.C.A. Body Armor</szBRName>
 		<szBRDesc>P.A.C.A. Tru-Fit level IIIA body Armor offers a unique design and has a special 6 point Velcro strap system that when tighten contours the vest to the shape of your mid section.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>211</ubClassIndex>
+		<ubClassIndex>207</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>414</ubGraphicNum>
-		<ubWeight>55</ubWeight>
-		<ItemSize>27</ItemSize>
+		<ubWeight>34</ubWeight>
+		<ItemSize>29</ItemSize>
 		<usPrice>1000</usPrice>
 		<ubCoolness>6</ubCoolness>
 		<Damageable>1</Damageable>
@@ -55364,7 +55332,7 @@
 		<szBRName>Multicam Bonnie</szBRName>
 		<szBRDesc>A jungle bonnie with Multicam pattern that provides limited camouflage in jungle and desert environment.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>212</ubClassIndex>
+		<ubClassIndex>208</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>415</ubGraphicNum>
 		<ubWeight>1</ubWeight>
@@ -55388,7 +55356,7 @@
 		<szBRName>Multicam BDU</szBRName>
 		<szBRDesc>A BDU shirt with Multicam pattern that provides limited camouflage in jungle and desert environment.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>213</ubClassIndex>
+		<ubClassIndex>209</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>416</ubGraphicNum>
 		<ubWeight>13</ubWeight>
@@ -55414,7 +55382,7 @@
 		<szBRName>Multicam Parka</szBRName>
 		<szBRDesc>This ECWCS Generation 2 Parka has 3 layers of nylon wind and water proof, breathable material.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<ubClassIndex>214</ubClassIndex>
+		<ubClassIndex>210</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>417</ubGraphicNum>
 		<ubWeight>15</ubWeight>
@@ -55760,23 +55728,26 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2237</uiIndex>
-		<szItemName>Schoolbag</szItemName>
-		<szLongItemName>Ultraman Schoolbag</szLongItemName>
-		<szItemDesc>These schoolbags with cheesy Japanese sci-fi figure came a long way from China, to the U.S, then somehow purchased by U.S forces in the sandbox, and was given to Iraqi kids for humanitarian support.</szItemDesc>
-		<szBRName>Ultraman Schoolbag</szBRName>
-		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<szItemName>DPM Assault Vest</szItemName>
+		<szLongItemName>Webtex DPM Assault Vest</szLongItemName>
+		<szItemDesc>The Web-Tex DPM Classic Assault Vest has a lightweight mesh back, with fully adjustable straps on the shoulders and front.  There is front zip access to an internal holster and pocket.</szItemDesc>
+		<szBRName>Webtex DPM Assault Vest</szBRName>
+		<szBRDesc>The Web-Tex DPM Classic Assault Vest has a lightweight mesh back, with fully adjustable straps on the shoulders and front.  There is front zip access to an internal holster and pocket.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<ubClassIndex>141</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>434</ubGraphicNum>
-		<ubWeight>11</ubWeight>
+		<ubWeight>12</ubWeight>
 		<ItemSize>27</ItemSize>
 		<usPrice>220</usPrice>
-		<ubCoolness>6</ubCoolness>
+		<ubCoolness>7</ubCoolness>
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
+		<BR_NewInventory>2</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>20</CamoBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2238</uiIndex>
@@ -56878,7 +56849,7 @@
 		<ubWeight>38</ubWeight>
 		<ItemSize>7</ItemSize>
 		<usPrice>2190</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>8</ubCoolness>
 		<bReliability>1</bReliability>
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
@@ -56960,7 +56931,7 @@
 		<ubWeight>211</ubWeight>
 		<ItemSize>7</ItemSize>
 		<usPrice>1300</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>8</ubCoolness>
 		<bReliability>-3</bReliability>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
@@ -56987,7 +56958,7 @@
 		<ubPerPocket>2</ubPerPocket>
 		<ItemSize>18</ItemSize>
 		<usPrice>500</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>8</ubCoolness>
 		<bRepairEase>-4</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -57356,7 +57327,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
 		<BR_ROF>700</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
@@ -57673,7 +57644,7 @@
 		<ubWeight>180</ubWeight>
 		<ItemSize>30</ItemSize>
 		<usPrice>3000</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -57815,7 +57786,7 @@
 		<BigGunList>1</BigGunList>
 		<PercentNoiseReduction>25</PercentNoiseReduction>
 		<RangeBonus>45</RangeBonus>
-		<ToHitBonus>10</ToHitBonus>
+		<ToHitBonus>5</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2320</uiIndex>
@@ -57947,7 +57918,7 @@
 		<ubWeight>110</ubWeight>
 		<ItemSize>30</ItemSize>
 		<usPrice>2500</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>1</BR_NewInventory>
@@ -58027,7 +57998,7 @@
 		<ubWeight>38</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>1500</usPrice>
-		<ubCoolness>7</ubCoolness>
+		<ubCoolness>3</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>1</BR_NewInventory>
@@ -58114,7 +58085,7 @@
 		<ubPerPocket>3</ubPerPocket>
 		<ItemSize>22</ItemSize>
 		<usPrice>3750</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>3</BR_NewInventory>
@@ -58211,7 +58182,7 @@
 		<ubWeight>235</ubWeight>
 		<ItemSize>34</ItemSize>
 		<usPrice>5000</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -58238,7 +58209,6 @@
 		<Sinks>1</Sinks>
 		<PercentNoiseReduction>44</PercentNoiseReduction>
 		<RangeBonus>50</RangeBonus>
-		<ToHitBonus>10</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2340</uiIndex>
@@ -58260,7 +58230,6 @@
 		<Sinks>1</Sinks>
 		<PercentNoiseReduction>44</PercentNoiseReduction>
 		<RangeBonus>50</RangeBonus>
-		<ToHitBonus>10</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2341</uiIndex>
@@ -58282,7 +58251,6 @@
 		<Sinks>1</Sinks>
 		<PercentNoiseReduction>44</PercentNoiseReduction>
 		<RangeBonus>50</RangeBonus>
-		<ToHitBonus>10</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2342</uiIndex>
@@ -58298,7 +58266,7 @@
 		<ubWeight>90</ubWeight>
 		<ItemSize>30</ItemSize>
 		<usPrice>12500</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -58359,7 +58327,7 @@
 		<ubWeight>13</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>3750</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>3</BR_NewInventory>
@@ -58384,7 +58352,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<RangeBonus>100</RangeBonus>
-		<ToHitBonus>5</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2347</uiIndex>
@@ -58424,7 +58391,6 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<RangeBonus>100</RangeBonus>
-		<ToHitBonus>5</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2349</uiIndex>
@@ -58463,7 +58429,6 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<RangeBonus>100</RangeBonus>
-		<ToHitBonus>5</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2351</uiIndex>
@@ -58502,7 +58467,6 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<RangeBonus>50</RangeBonus>
-		<ToHitBonus>5</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2353</uiIndex>
@@ -58542,7 +58506,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<RangeBonus>50</RangeBonus>
-		<ToHitBonus>5</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2355</uiIndex>
@@ -58577,7 +58540,7 @@
 		<ubWeight>12</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>1000</usPrice>
-		<ubCoolness>6</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>1</BR_NewInventory>
@@ -58597,7 +58560,7 @@
 		<ubWeight>24</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>1250</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>1</BR_NewInventory>
@@ -58625,24 +58588,22 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2359</uiIndex>
-		<szItemName>.44 Mag M box</szItemName>
-		<szLongItemName>.44 Magnum Match ammo box</szLongItemName>
-		<szItemDesc>100 rounds of .44 Magnum Match Softpoint ammunition in a cardboard box.</szItemDesc>
+		<szItemName>.44 Mag box</szItemName>
+		<szLongItemName>.44 Magnum FMJ ammo box</szLongItemName>
+		<szItemDesc>100 rounds of .44 Magnum FMJ ammunition in a cardboard box.</szItemDesc>
 		<szBRName>.44 Magnum Match ammo box</szBRName>
-		<szBRDesc>100 rounds of .44 Magnum Match Softpoint ammunition in a cardboard box.</szBRDesc>
+		<szBRDesc>100 rounds of .44 Magnum FMJ ammunition in a cardboard box.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>474</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>560</ubGraphicNum>
 		<ubWeight>18</ubWeight>
 		<ItemSize>22</ItemSize>
-		<usPrice>580</usPrice>
+		<usPrice>400</usPrice>
 		<ubCoolness>3</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>1</BR_NewInventory>
-		<RangeBonus>40</RangeBonus>
-		<ToHitBonus>10</ToHitBonus>
 		<AmmoCrate>1</AmmoCrate>
 	</ITEM>
 	<ITEM>
@@ -58727,7 +58688,7 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<RangeBonus>50</RangeBonus>
-		<ToHitBonus>10</ToHitBonus>
+		<ToHitBonus>5</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2364</uiIndex>
@@ -58771,7 +58732,7 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<RangeBonus>50</RangeBonus>
-		<ToHitBonus>10</ToHitBonus>
+		<ToHitBonus>5</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2366</uiIndex>
@@ -58814,7 +58775,7 @@
 		<Sinks>1</Sinks>
 		<BR_NewInventory>1</BR_NewInventory>
 		<RangeBonus>50</RangeBonus>
-		<ToHitBonus>10</ToHitBonus>
+		<ToHitBonus>5</ToHitBonus>
 		<AmmoCrate>1</AmmoCrate>
 	</ITEM>
 	<ITEM>
@@ -58831,7 +58792,7 @@
 		<ubWeight>18</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>2000</usPrice>
-		<ubCoolness>7</ubCoolness>
+		<ubCoolness>3</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>3</BR_NewInventory>
@@ -58851,7 +58812,7 @@
 		<ubWeight>290</ubWeight>
 		<ItemSize>34</ItemSize>
 		<usPrice>10000</usPrice>
-		<ubCoolness>10</ubCoolness>
+		<ubCoolness>5</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -58917,7 +58878,7 @@
 		<Sinks>1</Sinks>
 		<BR_NewInventory>1</BR_NewInventory>
 		<RangeBonus>30</RangeBonus>
-		<ToHitBonus>10</ToHitBonus>
+		<ToHitBonus>5</ToHitBonus>
 		<AmmoCrate>1</AmmoCrate>
 	</ITEM>
 	<ITEM>
@@ -59033,7 +58994,7 @@
 		<ubWeight>300</ubWeight>
 		<ItemSize>30</ItemSize>
 		<usPrice>9600</usPrice>
-		<ubCoolness>10</ubCoolness>
+		<ubCoolness>5</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -59054,7 +59015,7 @@
 		<ubWeight>28</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>2400</usPrice>
-		<ubCoolness>4</ubCoolness>
+		<ubCoolness>2</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -59075,7 +59036,7 @@
 		<ubWeight>28</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>2600</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>2</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -59177,7 +59138,7 @@
 		<ubWeight>21</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>5250</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>1</BR_NewInventory>
@@ -59237,7 +59198,7 @@
 		<ubWeight>13</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>1250</usPrice>
-		<ubCoolness>9</ubCoolness>
+		<ubCoolness>3</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>1</BR_NewInventory>
@@ -59257,7 +59218,7 @@
 		<ubWeight>13</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>1250</usPrice>
-		<ubCoolness>9</ubCoolness>
+		<ubCoolness>3</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>1</BR_NewInventory>
@@ -59409,7 +59370,6 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<RangeBonus>25</RangeBonus>
-		<ToHitBonus>3</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2397</uiIndex>
@@ -59446,7 +59406,7 @@
 		<ubWeight>12</ubWeight>
 		<ItemSize>34</ItemSize>
 		<usPrice>1000</usPrice>
-		<ubCoolness>7</ubCoolness>
+		<ubCoolness>5</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<SciFi>1</SciFi>
@@ -59468,7 +59428,7 @@
 		<ubWeight>20</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>1050</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>3</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>1</BR_NewInventory>
@@ -59488,7 +59448,7 @@
 		<ubWeight>20</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>2000</usPrice>
-		<ubCoolness>9</ubCoolness>
+		<ubCoolness>5</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>1</BR_NewInventory>
@@ -59508,7 +59468,7 @@
 		<ubWeight>15</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>1000</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>2</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<SciFi>1</SciFi>
@@ -59529,7 +59489,7 @@
 		<ubWeight>12</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>1000</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>2</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>1</BR_NewInventory>
@@ -59549,7 +59509,7 @@
 		<ubWeight>24</ubWeight>
 		<ItemSize>30</ItemSize>
 		<usPrice>2900</usPrice>
-		<ubCoolness>6</ubCoolness>
+		<ubCoolness>3</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>1</BR_NewInventory>
@@ -59569,7 +59529,7 @@
 		<ubWeight>24</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>3800</usPrice>
-		<ubCoolness>10</ubCoolness>
+		<ubCoolness>5</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>1</BR_NewInventory>
@@ -59719,7 +59679,7 @@
 		<ubWeight>150</ubWeight>
 		<ItemSize>30</ItemSize>
 		<usPrice>2500</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>2</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -59783,7 +59743,7 @@
 		<ubWeight>290</ubWeight>
 		<ItemSize>34</ItemSize>
 		<usPrice>9000</usPrice>
-		<ubCoolness>10</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -59804,7 +59764,7 @@
 		<ubWeight>150</ubWeight>
 		<ItemSize>34</ItemSize>
 		<usPrice>5000</usPrice>
-		<ubCoolness>4</ubCoolness>
+		<ubCoolness>2</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -59847,7 +59807,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>22</ItemSize>
 		<usPrice>150</usPrice>
-		<ubCoolness>4</ubCoolness>
+		<ubCoolness>2</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>1</BR_NewInventory>
@@ -59888,7 +59848,7 @@
 		<ubWeight>13</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>320</usPrice>
-		<ubCoolness>6</ubCoolness>
+		<ubCoolness>3</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>1</BR_NewInventory>
@@ -59908,7 +59868,7 @@
 		<ubWeight>13</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>480</usPrice>
-		<ubCoolness>6</ubCoolness>
+		<ubCoolness>3</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>1</BR_NewInventory>
@@ -59928,7 +59888,7 @@
 		<ubWeight>13</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>2000</usPrice>
-		<ubCoolness>6</ubCoolness>
+		<ubCoolness>3</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>1</BR_NewInventory>
@@ -59949,7 +59909,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>22</ItemSize>
 		<usPrice>250</usPrice>
-		<ubCoolness>9</ubCoolness>
+		<ubCoolness>3</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>3</BR_NewInventory>
@@ -59970,7 +59930,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>22</ItemSize>
 		<usPrice>1000</usPrice>
-		<ubCoolness>9</ubCoolness>
+		<ubCoolness>3</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>1</BR_NewInventory>
@@ -60072,7 +60032,7 @@
 		<ubWeight>24</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>2400</usPrice>
-		<ubCoolness>9</ubCoolness>
+		<ubCoolness>3</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>1</BR_NewInventory>
@@ -60232,7 +60192,7 @@
 		<ubWeight>22</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>550</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>3</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>2</BR_NewInventory>
@@ -60252,7 +60212,7 @@
 		<ubWeight>22</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>700</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>3</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>2</BR_NewInventory>
@@ -60291,7 +60251,7 @@
 		<ubWeight>24</ubWeight>
 		<ItemSize>30</ItemSize>
 		<usPrice>3000</usPrice>
-		<ubCoolness>6</ubCoolness>
+		<ubCoolness>3</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>1</BR_NewInventory>
@@ -60722,7 +60682,7 @@
 		<ubWeight>14</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>1500</usPrice>
-		<ubCoolness>9</ubCoolness>
+		<ubCoolness>3</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>1</BR_NewInventory>
@@ -60765,7 +60725,7 @@
 		<ubWeight>160</ubWeight>
 		<ItemSize>34</ItemSize>
 		<usPrice>3500</usPrice>
-		<ubCoolness>7</ubCoolness>
+		<ubCoolness>2</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -60821,7 +60781,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_ROF>29</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 		<DefaultAttachment>208</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -60849,7 +60809,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_ROF>31</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>15</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1825</DefaultAttachment>
@@ -60877,7 +60837,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>30</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>15</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1825</DefaultAttachment>
@@ -60905,7 +60865,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>29</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>15</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1825</DefaultAttachment>
@@ -60935,7 +60895,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_ROF>30</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>15</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1825</DefaultAttachment>
@@ -61176,7 +61136,7 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>26</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 		<DefaultAttachment>208</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -61342,7 +61302,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
 		<BR_ROF>800</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
 		<PercentAPReduction>10</PercentAPReduction>
@@ -61818,7 +61778,7 @@
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>700</BR_ROF>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>18</PercentReadyTimeAPReduction>
 	</ITEM>
@@ -61920,7 +61880,7 @@
 		<ubWeight>33</ubWeight>
 		<ItemSize>7</ItemSize>
 		<usPrice>3300</usPrice>
-		<ubCoolness>1</ubCoolness>
+		<ubCoolness>3</ubCoolness>
 		<bReliability>2</bReliability>
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
@@ -61952,7 +61912,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<RangeBonus>35</RangeBonus>
-		<ToHitBonus>5</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2503</uiIndex>
@@ -61994,7 +61953,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<RangeBonus>45</RangeBonus>
-		<ToHitBonus>5</ToHitBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2505</uiIndex>
@@ -62030,7 +61988,7 @@
 		<ubWeight>38</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>200</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>2</BR_NewInventory>
@@ -62050,7 +62008,7 @@
 		<ubWeight>38</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>200</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>5</BR_NewInventory>
@@ -62108,7 +62066,7 @@
 		<ubWeight>13</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>140</usPrice>
-		<ubCoolness>6</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>2</BR_NewInventory>
@@ -62128,7 +62086,7 @@
 		<ubWeight>15</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>200</usPrice>
-		<ubCoolness>6</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>1</BR_NewInventory>
@@ -62328,7 +62286,7 @@
 		<BR_UsedInventory>2</BR_UsedInventory>
 		<BR_ROF>450</BR_ROF>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
-		<Bipod>15</Bipod>
+		<Bipod>10</Bipod>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2519</uiIndex>
@@ -62363,5 +62321,123 @@
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
 		<PercentReadyTimeAPReduction>22</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1802</DefaultAttachment>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2520</uiIndex>
+		<szItemName>M3 bandoleer</szItemName>
+		<szLongItemName>M3 bandoleer</szLongItemName>
+		<szItemDesc>The cotton M3 bandoleer had seven pockets that were each designed to contain a cardboard sleeve that held a 10-round clip of 5.56mm ammunition. In Vietnam troops would often carry a 20-round M16 magazine in each of the bandoleer's seven pockets.</szItemDesc>
+		<szBRName>M3 bandoleer</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>131072</usItemClass>
+		<ubClassIndex>164</ubClassIndex>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>567</ubGraphicNum>
+		<ubWeight>6</ubWeight>
+		<ItemSize>27</ItemSize>
+		<usPrice>30</usPrice>
+		<ubCoolness>5</ubCoolness>
+		<bRepairEase>2</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<ShowStatus>1</ShowStatus>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2521</uiIndex>
+		<szItemName>PJ Vest</szItemName>
+		<szLongItemName>PJ Body Armor</szLongItemName>
+		<szItemDesc>USAF PJ body armor and aircrew survival vest set. The system contains a fully adjustable body armor which can further integrate with a aircrew survival vest.</szItemDesc>
+		<szBRName>PJ Body Armor</szBRName>
+		<szBRDesc>USAF PJ body armor and aircrew survival vest set. The system contains a fully adjustable body armor which can further integrate with a aircrew survival vest.</szBRDesc>
+		<usItemClass>2048</usItemClass>
+		<ubClassIndex>212</ubClassIndex>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>585</ubGraphicNum>
+		<ubWeight>29</ubWeight>
+		<ItemSize>29</ItemSize>
+		<usPrice>600</usPrice>
+		<ubCoolness>6</ubCoolness>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2522</uiIndex>
+		<szItemName>Mk.9 Cover</szItemName>
+		<szLongItemName>Mk.9 Fragmentation Vest</szLongItemName>
+		<szItemDesc>The vest is made of ballistic nylon fabric which weighs just one pound per square foot - light enough to let soldiers to move freely. It saves injury from 'bricks and stones' and even low-velocity bullets.</szItemDesc>
+		<szBRName>Mk.9 Fragmentation Vest</szBRName>
+		<szBRDesc>The vest is made of ballistic nylon fabric which weighs just one pound per square foot - light enough to let soldiers to move freely. It saves injury from 'bricks and stones' and even low-velocity bullets.</szBRDesc>
+		<usItemClass>2048</usItemClass>
+		<ubClassIndex>213</ubClassIndex>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>586</ubGraphicNum>
+		<ubWeight>43</ubWeight>
+		<ItemSize>29</ItemSize>
+		<usPrice>800</usPrice>
+		<ubCoolness>6</ubCoolness>
+		<bRepairEase>1</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<BigGunList>1</BigGunList>
+		<BR_NewInventory>2</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<AimBonus>-1</AimBonus>
+		<FlakJacket>1</FlakJacket>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2523</uiIndex>
+		<szItemName>DPM BDU</szItemName>
+		<szLongItemName>DPM Uniform</szLongItemName>
+		<szItemDesc>Disruptive/Displacement Pattern Material (DPM) is the commonly-used name of a camouflage pattern used by British forces as well many other armies worldwide.</szItemDesc>
+		<szBRName>DPM Uniform</szBRName>
+		<szBRDesc>Disruptive/Displacement Pattern Material (DPM) is the commonly-used name of a camouflage pattern used by British forces as well many other armies worldwide.</szBRDesc>
+		<usItemClass>2048</usItemClass>
+		<ubClassIndex>214</ubClassIndex>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>587</ubGraphicNum>
+		<ubWeight>5</ubWeight>
+		<ItemSize>23</ItemSize>
+		<usPrice>230</usPrice>
+		<ubCoolness>8</ubCoolness>
+		<bReliability>-1</bReliability>
+		<bRepairEase>1</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<ShowStatus>1</ShowStatus>
+		<BigGunList>1</BigGunList>
+		<BR_NewInventory>2</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>20</CamoBonus>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2524</uiIndex>
+		<szItemName>DPM Trousers</szItemName>
+		<szLongItemName>DPM Trousers</szLongItemName>
+		<szItemDesc>The DPM trousers allows you to hide better and longer in the corresponding environment.</szItemDesc>
+		<szBRName>DPM Trousers</szBRName>
+		<szBRDesc>The DPM trousers allows you to hide better and longer in the corresponding environment.</szBRDesc>
+		<usItemClass>2048</usItemClass>
+		<ubClassIndex>215</ubClassIndex>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>588</ubGraphicNum>
+		<ubWeight>4</ubWeight>
+		<ItemSize>23</ItemSize>
+		<usPrice>200</usPrice>
+		<ubCoolness>8</ubCoolness>
+		<bReliability>-1</bReliability>
+		<bRepairEase>1</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<ShowStatus>1</ShowStatus>
+		<BigGunList>1</BigGunList>
+		<BR_NewInventory>2</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>20</CamoBonus>
 	</ITEM>
 </ITEMLIST>
