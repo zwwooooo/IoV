@@ -50,7 +50,7 @@
 		<afterArmourDamageDivisor>10</afterArmourDamageDivisor>
 		<zeroMinimumDamage>1</zeroMinimumDamage>
 		<canGoThrough>0</canGoThrough>
-		<standardIssue>0</standardIssue>
+		<standardIssue>1</standardIssue>
 		<numberOfBullets>1</numberOfBullets>
 		<multipleBulletDamageMultiplier>1</multipleBulletDamageMultiplier>
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
@@ -183,7 +183,7 @@
 		<zeroMinimumDamage>1</zeroMinimumDamage>
 		<canGoThrough>1</canGoThrough>
 		<standardIssue>1</standardIssue>
-		<numberOfBullets>9</numberOfBullets>
+		<numberOfBullets>8</numberOfBullets>
 		<multipleBulletDamageMultiplier>1</multipleBulletDamageMultiplier>
 		<multipleBulletDamageDivisor>3</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
@@ -446,7 +446,7 @@
 		<afterArmourDamageDivisor>10</afterArmourDamageDivisor>
 		<zeroMinimumDamage>1</zeroMinimumDamage>
 		<canGoThrough>0</canGoThrough>
-		<standardIssue>0</standardIssue>
+		<standardIssue>1</standardIssue>
 		<numberOfBullets>1</numberOfBullets>
 		<multipleBulletDamageMultiplier>1</multipleBulletDamageMultiplier>
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
@@ -842,7 +842,7 @@
 		<afterArmourDamageDivisor>1</afterArmourDamageDivisor>
 		<zeroMinimumDamage>0</zeroMinimumDamage>
 		<canGoThrough>1</canGoThrough>
-		<standardIssue>0</standardIssue>
+		<standardIssue>1</standardIssue>
 		<numberOfBullets>1</numberOfBullets>
 		<multipleBulletDamageMultiplier>1</multipleBulletDamageMultiplier>
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
@@ -975,9 +975,9 @@
 		<zeroMinimumDamage>0</zeroMinimumDamage>
 		<canGoThrough>1</canGoThrough>
 		<standardIssue>0</standardIssue>
-		<numberOfBullets>14</numberOfBullets>
+		<numberOfBullets>20</numberOfBullets>
 		<multipleBulletDamageMultiplier>1</multipleBulletDamageMultiplier>
-		<multipleBulletDamageDivisor>7</multipleBulletDamageDivisor>
+		<multipleBulletDamageDivisor>12</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
 		<antiTank>0</antiTank>

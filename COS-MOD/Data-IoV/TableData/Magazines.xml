@@ -2824,7 +2824,7 @@
 		<uiIndex>470</uiIndex>
 		<ubCalibre>26</ubCalibre>
 		<ubMagSize>6</ubMagSize>
-		<ubAmmoType>13</ubAmmoType>
+		<ubAmmoType>0</ubAmmoType>
 	</MAGAZINE>
 	<MAGAZINE>
 		<uiIndex>471</uiIndex>
@@ -2836,7 +2836,7 @@
 		<uiIndex>472</uiIndex>
 		<ubCalibre>26</ubCalibre>
 		<ubMagSize>8</ubMagSize>
-		<ubAmmoType>13</ubAmmoType>
+		<ubAmmoType>0</ubAmmoType>
 	</MAGAZINE>
 	<MAGAZINE>
 		<uiIndex>473</uiIndex>
@@ -2848,7 +2848,7 @@
 		<uiIndex>474</uiIndex>
 		<ubCalibre>26</ubCalibre>
 		<ubMagSize>100</ubMagSize>
-		<ubAmmoType>13</ubAmmoType>
+		<ubAmmoType>0</ubAmmoType>
 	</MAGAZINE>
 	<MAGAZINE>
 		<uiIndex>475</uiIndex> <!-- 10mm AUTO, 8 -->

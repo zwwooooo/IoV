@@ -1395,10 +1395,10 @@
 	<EXPLOSIVE>
 		<uiIndex>116</uiIndex> <!-- WP -->
 		<ubType>8</ubType>
-		<ubDamage>50</ubDamage>
-		<ubStunDamage>60</ubStunDamage>
+		<ubDamage>40</ubDamage>
+		<ubStunDamage>50</ubStunDamage>
 		<ubRadius>3</ubRadius>
-		<ubVolume>75</ubVolume>
+		<ubVolume>70</ubVolume>
 		<ubVolatility>2</ubVolatility>
 		<ubAnimationID>9</ubAnimationID>
 		<ubDuration>4</ubDuration>
