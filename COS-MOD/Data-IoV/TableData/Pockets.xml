@@ -2562,4 +2562,46 @@
 		<ItemCapacityPerSize33>0</ItemCapacityPerSize33>
 		<ItemCapacityPerSize34>0</ItemCapacityPerSize34>
 	</POCKET>
+	<POCKET>
+		<pIndex>61</pIndex>
+		<pName>Big Drums Pocket</pName>
+		<pSilhouette>8</pSilhouette>
+		<pType>0</pType>
+		<pRestriction>1024</pRestriction>
+		<ItemCapacityPerSize0>0</ItemCapacityPerSize0>
+		<ItemCapacityPerSize1>0</ItemCapacityPerSize1>
+		<ItemCapacityPerSize2>0</ItemCapacityPerSize2>
+		<ItemCapacityPerSize3>0</ItemCapacityPerSize3>
+		<ItemCapacityPerSize4>0</ItemCapacityPerSize4>
+		<ItemCapacityPerSize5>0</ItemCapacityPerSize5>
+		<ItemCapacityPerSize6>0</ItemCapacityPerSize6>
+		<ItemCapacityPerSize7>0</ItemCapacityPerSize7>
+		<ItemCapacityPerSize8>0</ItemCapacityPerSize8>
+		<ItemCapacityPerSize9>0</ItemCapacityPerSize9>
+		<ItemCapacityPerSize10>0</ItemCapacityPerSize10>
+		<ItemCapacityPerSize11>0</ItemCapacityPerSize11>
+		<ItemCapacityPerSize12>0</ItemCapacityPerSize12>
+		<ItemCapacityPerSize13>0</ItemCapacityPerSize13>
+		<ItemCapacityPerSize14>0</ItemCapacityPerSize14>
+		<ItemCapacityPerSize15>0</ItemCapacityPerSize15>
+		<ItemCapacityPerSize16>6</ItemCapacityPerSize16>
+		<ItemCapacityPerSize17>3</ItemCapacityPerSize17>
+		<ItemCapacityPerSize18>3</ItemCapacityPerSize18>
+		<ItemCapacityPerSize19>2</ItemCapacityPerSize19>
+		<ItemCapacityPerSize20>4</ItemCapacityPerSize20>
+		<ItemCapacityPerSize21>4</ItemCapacityPerSize21>
+		<ItemCapacityPerSize22>1</ItemCapacityPerSize22>
+		<ItemCapacityPerSize23>1</ItemCapacityPerSize23>
+		<ItemCapacityPerSize24>2</ItemCapacityPerSize24>
+		<ItemCapacityPerSize25>2</ItemCapacityPerSize25>
+		<ItemCapacityPerSize26>1</ItemCapacityPerSize26>
+		<ItemCapacityPerSize27>1</ItemCapacityPerSize27>
+		<ItemCapacityPerSize28>0</ItemCapacityPerSize28>
+		<ItemCapacityPerSize29>0</ItemCapacityPerSize29>
+		<ItemCapacityPerSize30>0</ItemCapacityPerSize30>
+		<ItemCapacityPerSize31>0</ItemCapacityPerSize31>
+		<ItemCapacityPerSize32>0</ItemCapacityPerSize32>
+		<ItemCapacityPerSize33>0</ItemCapacityPerSize33>
+		<ItemCapacityPerSize34>0</ItemCapacityPerSize34>
+	</POCKET>
 </POCKETLIST>

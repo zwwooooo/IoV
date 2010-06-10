@@ -42,11 +42,11 @@
 		<onNormal>11</onNormal>
 		<structureImpactReductionMultiplier>2</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>1</structureImpactReductionDivisor>
-		<armourImpactReductionMultiplier>2</armourImpactReductionMultiplier>
-		<armourImpactReductionDivisor>1</armourImpactReductionDivisor>
+		<armourImpactReductionMultiplier>9</armourImpactReductionMultiplier>
+		<armourImpactReductionDivisor>4</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>23</afterArmourDamageMultiplier>
+		<afterArmourDamageMultiplier>27</afterArmourDamageMultiplier>
 		<afterArmourDamageDivisor>10</afterArmourDamageDivisor>
 		<zeroMinimumDamage>1</zeroMinimumDamage>
 		<canGoThrough>0</canGoThrough>
@@ -464,7 +464,7 @@
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>14</uiIndex>
-		<name>APT</name> <!-- Armor Piercing Tracer -->
+		<name>AP/T</name> <!-- Armor Piercing Tracer -->
 		<fontColour>163</fontColour>
 		<grayed>8</grayed>
 		<offNormal>5</offNormal>
@@ -607,8 +607,8 @@
 		<armourImpactReductionDivisor>4</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>6</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>5</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>11</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>10</afterArmourDamageDivisor>
 		<zeroMinimumDamage>0</zeroMinimumDamage>
 		<canGoThrough>1</canGoThrough>
 		<standardIssue>0</standardIssue>
@@ -728,7 +728,7 @@
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>22</uiIndex>
-		<name>SP</name> <!-- Heavy Armor Piercing -->
+		<name>HAP</name> <!-- Heavy Armor Piercing -->
 		<fontColour>161</fontColour>
 		<grayed>8</grayed>
 		<offNormal>5</offNormal>
@@ -799,13 +799,13 @@
 		<grayed>12</grayed>
 		<offNormal>9</offNormal>
 		<onNormal>11</onNormal>
-		<structureImpactReductionMultiplier>3</structureImpactReductionMultiplier>
-		<structureImpactReductionDivisor>2</structureImpactReductionDivisor>
-		<armourImpactReductionMultiplier>5</armourImpactReductionMultiplier>
-		<armourImpactReductionDivisor>3</armourImpactReductionDivisor>
+		<structureImpactReductionMultiplier>5</structureImpactReductionMultiplier>
+		<structureImpactReductionDivisor>3</structureImpactReductionDivisor>
+		<armourImpactReductionMultiplier>9</armourImpactReductionMultiplier>
+		<armourImpactReductionDivisor>5</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>17</afterArmourDamageMultiplier>
+		<afterArmourDamageMultiplier>21</afterArmourDamageMultiplier>
 		<afterArmourDamageDivisor>10</afterArmourDamageDivisor>
 		<zeroMinimumDamage>1</zeroMinimumDamage>
 		<canGoThrough>0</canGoThrough>
@@ -871,8 +871,8 @@
 		<armourImpactReductionDivisor>3</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>85</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>4</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>5</afterArmourDamageDivisor>
 		<zeroMinimumDamage>0</zeroMinimumDamage>
 		<canGoThrough>1</canGoThrough>
 		<standardIssue>0</standardIssue>
@@ -1223,7 +1223,7 @@
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>37</uiIndex>
-		<name>APT Z</name> <!-- Armor Piercing Tracer Zwilling -->
+		<name>AP/T Z</name> <!-- Armor Piercing Tracer Zwilling -->
 		<fontColour>163</fontColour>
 		<grayed>8</grayed>
 		<offNormal>5</offNormal>
@@ -1253,5 +1253,104 @@
 		<lockBustingPower>0</lockBustingPower>
 		<tracerEffect>1</tracerEffect>
 		<spreadPattern>DuplexSpread</spreadPattern>
+	</AMMOTYPE>
+	<AMMOTYPE>
+		<uiIndex>38</uiIndex>
+		<name>FMJ</name> <!-- M43 ball -->
+		<fontColour>218</fontColour>
+		<grayed>8</grayed>
+		<offNormal>5</offNormal>
+		<onNormal>7</onNormal>
+		<structureImpactReductionMultiplier>3</structureImpactReductionMultiplier>
+		<structureImpactReductionDivisor>5</structureImpactReductionDivisor>
+		<armourImpactReductionMultiplier>3</armourImpactReductionMultiplier>
+		<armourImpactReductionDivisor>5</armourImpactReductionDivisor>
+		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
+		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
+		<afterArmourDamageMultiplier>4</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>5</afterArmourDamageDivisor>
+		<zeroMinimumDamage>0</zeroMinimumDamage>
+		<canGoThrough>1</canGoThrough>
+		<standardIssue>1</standardIssue>
+		<numberOfBullets>1</numberOfBullets>
+		<multipleBulletDamageMultiplier>1</multipleBulletDamageMultiplier>
+		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
+		<highExplosive>0</highExplosive>
+		<explosionSize>0</explosionSize>
+		<antiTank>0</antiTank>
+		<dart>0</dart>
+		<knife>0</knife>
+		<monsterSpit>0</monsterSpit>
+		<acidic>0</acidic>
+		<ignoreArmour>0</ignoreArmour>
+		<lockBustingPower>0</lockBustingPower>
+		<tracerEffect>0</tracerEffect>
+		<spreadPattern />
+	</AMMOTYPE>
+	<AMMOTYPE>
+		<uiIndex>39</uiIndex>
+		<name>SOST</name> <!-- Mk318/Mk319 -->
+		<fontColour>160</fontColour>
+		<grayed>8</grayed>
+		<offNormal>25</offNormal>
+		<onNormal>27</onNormal>
+		<structureImpactReductionMultiplier>1</structureImpactReductionMultiplier>
+		<structureImpactReductionDivisor>2</structureImpactReductionDivisor>
+		<armourImpactReductionMultiplier>3</armourImpactReductionMultiplier>
+		<armourImpactReductionDivisor>4</armourImpactReductionDivisor>
+		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
+		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
+		<afterArmourDamageMultiplier>12</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>10</afterArmourDamageDivisor>
+		<zeroMinimumDamage>0</zeroMinimumDamage>
+		<canGoThrough>1</canGoThrough>
+		<standardIssue>0</standardIssue>
+		<numberOfBullets>1</numberOfBullets>
+		<multipleBulletDamageMultiplier>1</multipleBulletDamageMultiplier>
+		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
+		<highExplosive>0</highExplosive>
+		<explosionSize>0</explosionSize>
+		<antiTank>0</antiTank>
+		<dart>0</dart>
+		<knife>0</knife>
+		<monsterSpit>0</monsterSpit>
+		<acidic>0</acidic>
+		<ignoreArmour>0</ignoreArmour>
+		<lockBustingPower>0</lockBustingPower>
+		<tracerEffect>0</tracerEffect>
+		<spreadPattern />
+	</AMMOTYPE>
+	<AMMOTYPE>
+		<uiIndex>40</uiIndex>
+		<name>JSP</name> <!-- Rifle JSP -->
+		<fontColour>71</fontColour>
+		<grayed>12</grayed>
+		<offNormal>9</offNormal>
+		<onNormal>11</onNormal>
+		<structureImpactReductionMultiplier>3</structureImpactReductionMultiplier>
+		<structureImpactReductionDivisor>2</structureImpactReductionDivisor>
+		<armourImpactReductionMultiplier>5</armourImpactReductionMultiplier>
+		<armourImpactReductionDivisor>3</armourImpactReductionDivisor>
+		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
+		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
+		<afterArmourDamageMultiplier>18</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>10</afterArmourDamageDivisor>
+		<zeroMinimumDamage>1</zeroMinimumDamage>
+		<canGoThrough>0</canGoThrough>
+		<standardIssue>1</standardIssue>
+		<numberOfBullets>1</numberOfBullets>
+		<multipleBulletDamageMultiplier>1</multipleBulletDamageMultiplier>
+		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
+		<highExplosive>0</highExplosive>
+		<explosionSize>0</explosionSize>
+		<antiTank>0</antiTank>
+		<dart>0</dart>
+		<knife>0</knife>
+		<monsterSpit>0</monsterSpit>
+		<acidic>0</acidic>
+		<ignoreArmour>0</ignoreArmour>
+		<lockBustingPower>0</lockBustingPower>
+		<tracerEffect>0</tracerEffect>
+		<spreadPattern />
 	</AMMOTYPE>
 </AMMOTYPELIST>

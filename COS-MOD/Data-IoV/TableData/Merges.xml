@@ -1785,546 +1785,282 @@
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1861</firstItemIndex> <!-- Mk16 Mod0 STD con.kits -->
+		<firstItemIndex>1861</firstItemIndex> <!-- Mk16 Mod0 STD barrel -->
 		<secondItemIndex>1123</secondItemIndex> <!-- Mk16 Mod0 CQC -->
 		<firstResultingItemIndex>1122</firstResultingItemIndex> <!-- Mk16 Mod0 STD -->
-		<secondResultingItemIndex>1862</secondResultingItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
+		<secondResultingItemIndex>1862</secondResultingItemIndex> <!-- Mk16 Mod0 CQC barrel -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1861</firstItemIndex> <!-- Mk16 Mod0 STD con.kits -->
-		<secondItemIndex>1124</secondItemIndex> <!-- Mk16 Mod0 SV -->
+		<firstItemIndex>1861</firstItemIndex> <!-- Mk16 Mod0 STD barrel -->
+		<secondItemIndex>1124</secondItemIndex> <!-- Mk16 Mod0 LB -->
 		<firstResultingItemIndex>1122</firstResultingItemIndex> <!-- Mk16 Mod0 STD -->
-		<secondResultingItemIndex>1863</secondResultingItemIndex> <!-- Mk16 Mod0 SV con.kits -->
+		<secondResultingItemIndex>1863</secondResultingItemIndex> <!-- Mk16 Mod0 LB barrel -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1861</firstItemIndex> <!-- Mk16 Mod0 STD con.kits -->
-		<secondItemIndex>1128</secondItemIndex> <!-- Mk16 Mod1 STD -->
-		<firstResultingItemIndex>1122</firstResultingItemIndex> <!-- Mk16 Mod0 STD -->
-		<secondResultingItemIndex>1867</secondResultingItemIndex> <!-- Mk16 Mod1 STD con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1861</firstItemIndex> <!-- Mk16 Mod0 STD con.kits -->
-		<secondItemIndex>1129</secondItemIndex> <!-- Mk16 Mod1 CQC -->
-		<firstResultingItemIndex>1122</firstResultingItemIndex> <!-- Mk16 Mod0 STD -->
-		<secondResultingItemIndex>1868</secondResultingItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1861</firstItemIndex> <!-- Mk16 Mod0 STD con.kits -->
-		<secondItemIndex>1130</secondItemIndex> <!-- Mk16 Mod1 SV -->
-		<firstResultingItemIndex>1122</firstResultingItemIndex> <!-- Mk16 Mod0 STD -->
-		<secondResultingItemIndex>1869</secondResultingItemIndex> <!-- Mk16 Mod1 SV con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1861</firstItemIndex> <!-- Mk16 Mod0 STD con.kits -->
-		<secondItemIndex>1131</secondItemIndex> <!-- Mk16 Mod47 -->
-		<firstResultingItemIndex>1122</firstResultingItemIndex> <!-- Mk16 Mod0 STD -->
-		<secondResultingItemIndex>1870</secondResultingItemIndex> <!-- Mk16 Mod47 con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1861</firstItemIndex> <!-- Mk16 Mod0 STD con.kits -->
-		<secondItemIndex>1132</secondItemIndex> <!-- Mk16 Mod74 -->
-		<firstResultingItemIndex>1122</firstResultingItemIndex> <!-- Mk16 Mod0 STD -->
-		<secondResultingItemIndex>1871</secondResultingItemIndex> <!-- Mk16 Mod74 con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1862</firstItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
+		<firstItemIndex>1862</firstItemIndex> <!-- Mk16 Mod0 CQC barrel -->
 		<secondItemIndex>1122</secondItemIndex> <!-- Mk16 Mod0 STD -->
 		<firstResultingItemIndex>1123</firstResultingItemIndex> <!-- Mk16 Mod0 CQC -->
-		<secondResultingItemIndex>1861</secondResultingItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
+		<secondResultingItemIndex>1861</secondResultingItemIndex> <!-- Mk16 Mod0 STD barrel -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1862</firstItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
-		<secondItemIndex>1124</secondItemIndex> <!-- Mk16 Mod0 SV -->
+		<firstItemIndex>1862</firstItemIndex> <!-- Mk16 Mod0 CQC barrel -->
+		<secondItemIndex>1124</secondItemIndex> <!-- Mk16 Mod0 LB -->
 		<firstResultingItemIndex>1123</firstResultingItemIndex> <!-- Mk16 Mod0 CQC -->
-		<secondResultingItemIndex>1863</secondResultingItemIndex> <!-- Mk16 Mod0 SV con.kits -->
+		<secondResultingItemIndex>1863</secondResultingItemIndex> <!-- Mk16 Mod0 LB barrels -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1862</firstItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
-		<secondItemIndex>1128</secondItemIndex> <!-- Mk16 Mod1 STD -->
-		<firstResultingItemIndex>1123</firstResultingItemIndex> <!-- Mk16 Mod0 CQC -->
-		<secondResultingItemIndex>1867</secondResultingItemIndex> <!-- Mk16 Mod1 STD con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1862</firstItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
-		<secondItemIndex>1129</secondItemIndex> <!-- Mk16 Mod1 CQC -->
-		<firstResultingItemIndex>1123</firstResultingItemIndex> <!-- Mk16 Mod0 CQC -->
-		<secondResultingItemIndex>1868</secondResultingItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1862</firstItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
-		<secondItemIndex>1130</secondItemIndex> <!-- Mk16 Mod1 SV -->
-		<firstResultingItemIndex>1123</firstResultingItemIndex> <!-- Mk16 Mod0 CQC -->
-		<secondResultingItemIndex>1869</secondResultingItemIndex> <!-- Mk16 Mod1 SV con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1862</firstItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
-		<secondItemIndex>1131</secondItemIndex> <!-- Mk16 Mod47 -->
-		<firstResultingItemIndex>1123</firstResultingItemIndex> <!-- Mk16 Mod0 CQC -->
-		<secondResultingItemIndex>1870</secondResultingItemIndex> <!-- Mk16 Mod47 con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1862</firstItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
-		<secondItemIndex>1132</secondItemIndex> <!-- Mk16 Mod74 -->
-		<firstResultingItemIndex>1123</firstResultingItemIndex> <!-- Mk16 Mod0 CQC -->
-		<secondResultingItemIndex>1871</secondResultingItemIndex> <!-- Mk16 Mod74 con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1863</firstItemIndex> <!-- Mk16 Mod0 SV con.kits -->
+		<firstItemIndex>1863</firstItemIndex> <!-- Mk16 Mod0 LB barrel -->
 		<secondItemIndex>1122</secondItemIndex> <!-- Mk16 Mod0 STD -->
-		<firstResultingItemIndex>1124</firstResultingItemIndex> <!-- Mk16 Mod0 SV -->
-		<secondResultingItemIndex>1861</secondResultingItemIndex> <!-- Mk16 Mod0 SV con.kits -->
+		<firstResultingItemIndex>1124</firstResultingItemIndex> <!-- Mk16 Mod0 LB -->
+		<secondResultingItemIndex>1861</secondResultingItemIndex> <!-- Mk16 Mod0 STD barrel -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1863</firstItemIndex> <!-- Mk16 Mod0 SV con.kits -->
+		<firstItemIndex>1863</firstItemIndex> <!-- Mk16 Mod0 LB barrel -->
 		<secondItemIndex>1123</secondItemIndex> <!-- Mk16 Mod0 CQC -->
-		<firstResultingItemIndex>1124</firstResultingItemIndex> <!-- Mk16 Mod0 SV -->
-		<secondResultingItemIndex>1862</secondResultingItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
+		<firstResultingItemIndex>1124</firstResultingItemIndex> <!-- Mk16 Mod0 LB -->
+		<secondResultingItemIndex>1862</secondResultingItemIndex> <!-- Mk16 Mod0 CQC barrel -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1863</firstItemIndex> <!-- Mk16 Mod0 SV con.kits -->
-		<secondItemIndex>1128</secondItemIndex> <!-- Mk16 Mod1 STD -->
-		<firstResultingItemIndex>1124</firstResultingItemIndex> <!-- Mk16 Mod0 SV -->
-		<secondResultingItemIndex>1867</secondResultingItemIndex> <!-- Mk16 Mod1 STD con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1863</firstItemIndex> <!-- Mk16 Mod0 SV con.kits -->
-		<secondItemIndex>1129</secondItemIndex> <!-- Mk16 Mod1 CQC -->
-		<firstResultingItemIndex>1124</firstResultingItemIndex> <!-- Mk16 Mod0 SV -->
-		<secondResultingItemIndex>1868</secondResultingItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1863</firstItemIndex> <!-- Mk16 Mod0 SV con.kits -->
-		<secondItemIndex>1130</secondItemIndex> <!-- Mk16 Mod1 SV -->
-		<firstResultingItemIndex>1124</firstResultingItemIndex> <!-- Mk16 Mod0 SV -->
-		<secondResultingItemIndex>1869</secondResultingItemIndex> <!-- Mk16 Mod1 SV con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1863</firstItemIndex> <!-- Mk16 Mod0 SV con.kits -->
-		<secondItemIndex>1131</secondItemIndex> <!-- Mk16 Mod47 -->
-		<firstResultingItemIndex>1124</firstResultingItemIndex> <!-- Mk16 Mod0 SV -->
-		<secondResultingItemIndex>1870</secondResultingItemIndex> <!-- Mk16 Mod47 con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1863</firstItemIndex> <!-- Mk16 Mod0 SV con.kits -->
-		<secondItemIndex>1132</secondItemIndex> <!-- Mk16 Mod74 -->
-		<firstResultingItemIndex>1124</firstResultingItemIndex> <!-- Mk16 Mod0 SV -->
-		<secondResultingItemIndex>1871</secondResultingItemIndex> <!-- Mk16 Mod74 con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1864</firstItemIndex> <!-- Mk17 Mod0 STD con.kits -->
+		<firstItemIndex>1864</firstItemIndex> <!-- Mk17 Mod0 STD barrel -->
 		<secondItemIndex>1126</secondItemIndex> <!-- Mk17 Mod0 CQC -->
 		<firstResultingItemIndex>1125</firstResultingItemIndex> <!-- Mk17 Mod0 STD -->
-		<secondResultingItemIndex>1865</secondResultingItemIndex> <!-- Mk17 Mod0 CQC con.kits -->
+		<secondResultingItemIndex>1865</secondResultingItemIndex> <!-- Mk17 Mod0 CQC barrel -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1864</firstItemIndex> <!-- Mk17 Mod0 STD con.kits -->
-		<secondItemIndex>1127</secondItemIndex> <!-- Mk17 Mod0 SV -->
+		<firstItemIndex>1864</firstItemIndex> <!-- Mk17 Mod0 STD barrel -->
+		<secondItemIndex>1127</secondItemIndex> <!-- Mk17 Mod0 LB -->
 		<firstResultingItemIndex>1125</firstResultingItemIndex> <!-- Mk17 Mod0 STD -->
-		<secondResultingItemIndex>1866</secondResultingItemIndex> <!-- Mk17 Mod0 SV con.kits -->
+		<secondResultingItemIndex>1866</secondResultingItemIndex> <!-- Mk17 Mod0 LB barrel -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1864</firstItemIndex> <!-- Mk17 Mod0 STD con.kits -->
-		<secondItemIndex>1133</secondItemIndex> <!-- Mk17 Mod1 SV -->
-		<firstResultingItemIndex>1125</firstResultingItemIndex> <!-- Mk17 Mod0 STD -->
-		<secondResultingItemIndex>1872</secondResultingItemIndex> <!-- Mk17 Mod1 SV con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1865</firstItemIndex> <!-- Mk17 Mod0 CQC con.kits -->
+		<firstItemIndex>1865</firstItemIndex> <!-- Mk17 Mod0 CQC barrel -->
 		<secondItemIndex>1125</secondItemIndex> <!-- Mk17 Mod0 STD -->
 		<firstResultingItemIndex>1126</firstResultingItemIndex> <!-- Mk17 Mod0 CQC -->
+		<secondResultingItemIndex>1864</secondResultingItemIndex> <!-- Mk17 Mod0 STD barrel -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>1865</firstItemIndex> <!-- Mk17 Mod0 CQC barrel -->
+		<secondItemIndex>1127</secondItemIndex> <!-- Mk17 Mod0 LB -->
+		<firstResultingItemIndex>1126</firstResultingItemIndex> <!-- Mk17 Mod0 CQC -->
+		<secondResultingItemIndex>1866</secondResultingItemIndex> <!-- Mk17 Mod0 LB barrel -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>1866</firstItemIndex> <!-- Mk17 Mod0 LB barrel -->
+		<secondItemIndex>1125</secondItemIndex> <!-- Mk17 Mod0 STD -->
+		<firstResultingItemIndex>1127</firstResultingItemIndex> <!-- Mk17 Mod0 LB -->
+		<secondResultingItemIndex>1864</secondResultingItemIndex> <!-- Mk17 Mod0 STD barrel -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>1866</firstItemIndex> <!-- Mk17 Mod0 LB barrel -->
+		<secondItemIndex>1126</secondItemIndex> <!-- Mk17 Mod0 CQC -->
+		<firstResultingItemIndex>1127</firstResultingItemIndex> <!-- Mk17 Mod0 LB -->
+		<secondResultingItemIndex>1865</secondResultingItemIndex> <!-- Mk17 Mod0 CQC barrel -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>1867</firstItemIndex> <!-- Mk16 Mod1 STD barrel -->
+		<secondItemIndex>1129</secondItemIndex> <!-- Mk16 Mod1 CQC -->
+		<firstResultingItemIndex>1128</firstResultingItemIndex> <!-- Mk16 Mod1 STD -->
+		<secondResultingItemIndex>1868</secondResultingItemIndex> <!-- Mk16 Mod1 CQC barrel -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>1867</firstItemIndex> <!-- Mk16 Mod1 STD barrel -->
+		<secondItemIndex>1130</secondItemIndex> <!-- Mk16 Mod1 LB -->
+		<firstResultingItemIndex>1128</firstResultingItemIndex> <!-- Mk16 Mod1 STD -->
+		<secondResultingItemIndex>1869</secondResultingItemIndex> <!-- Mk16 Mod1 LB barrel -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>1868</firstItemIndex> <!-- Mk16 Mod1 CQC barrel -->
+		<secondItemIndex>1128</secondItemIndex> <!-- Mk16 Mod1 STD -->
+		<firstResultingItemIndex>1129</firstResultingItemIndex> <!-- Mk16 Mod1 CQC -->
+		<secondResultingItemIndex>1867</secondResultingItemIndex> <!-- Mk16 Mod1 STD barrel -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>1868</firstItemIndex> <!-- Mk16 Mod1 CQC barrel -->
+		<secondItemIndex>1130</secondItemIndex> <!-- Mk16 Mod1 LB -->
+		<firstResultingItemIndex>1129</firstResultingItemIndex> <!-- Mk16 Mod1 CQC -->
+		<secondResultingItemIndex>1869</secondResultingItemIndex> <!-- Mk16 Mod1 LB barrel -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>1869</firstItemIndex> <!-- Mk16 Mod1 LB barrel -->
+		<secondItemIndex>1128</secondItemIndex> <!-- Mk16 Mod1 STD -->
+		<firstResultingItemIndex>1130</firstResultingItemIndex> <!-- Mk16 Mod1 LB -->
+		<secondResultingItemIndex>1867</secondResultingItemIndex> <!-- Mk16 Mod1 STD barrel -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>1869</firstItemIndex> <!-- Mk16 Mod1 LB barrel -->
+		<secondItemIndex>1129</secondItemIndex> <!-- Mk16 Mod0 CQC -->
+		<firstResultingItemIndex>1130</firstResultingItemIndex> <!-- Mk16 Mod1 LB -->
+		<secondResultingItemIndex>1869</secondResultingItemIndex> <!-- Mk16 Mod1 CQC barrel -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>1870</firstItemIndex> <!-- Mk16 Mod47 con.kits -->
+		<secondItemIndex>1122</secondItemIndex> <!-- Mk16 Mod0 STD -->
+		<firstResultingItemIndex>1131</firstResultingItemIndex> <!-- Mk16 Mod47 -->
+		<secondResultingItemIndex>2599</secondResultingItemIndex> <!-- Mk16 Mod0 STD con.kits -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>1870</firstItemIndex> <!-- Mk16 Mod47 con.kits -->
+		<secondItemIndex>1123</secondItemIndex> <!-- Mk16 Mod0 CQC -->
+		<firstResultingItemIndex>1131</firstResultingItemIndex> <!-- Mk16 Mod47 -->
+		<secondResultingItemIndex>2600</secondResultingItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>1870</firstItemIndex> <!-- Mk16 Mod47 con.kits -->
+		<secondItemIndex>1124</secondItemIndex> <!-- Mk16 Mod0 LB -->
+		<firstResultingItemIndex>1131</firstResultingItemIndex> <!-- Mk16 Mod47 -->
+		<secondResultingItemIndex>2601</secondResultingItemIndex> <!-- Mk16 Mod0 LB con.kits -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>1870</firstItemIndex> <!-- Mk16 Mod47 con.kits -->
+		<secondItemIndex>1128</secondItemIndex> <!-- Mk16 Mod1 STD -->
+		<firstResultingItemIndex>1131</firstResultingItemIndex> <!-- Mk16 Mod47 -->
+		<secondResultingItemIndex>2605</secondResultingItemIndex> <!-- Mk16 Mod1 STD con.kits -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>1870</firstItemIndex> <!-- Mk16 Mod47 con.kits -->
+		<secondItemIndex>1129</secondItemIndex> <!-- Mk16 Mod1 CQC -->
+		<firstResultingItemIndex>1131</firstResultingItemIndex> <!-- Mk16 Mod47 -->
+		<secondResultingItemIndex>2606</secondResultingItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>1870</firstItemIndex> <!-- Mk16 Mod47 con.kits -->
+		<secondItemIndex>1130</secondItemIndex> <!-- Mk16 Mod1 LB -->
+		<firstResultingItemIndex>1131</firstResultingItemIndex> <!-- Mk16 Mod47 -->
+		<secondResultingItemIndex>2607</secondResultingItemIndex> <!-- Mk16 Mod1 LB con.kits -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>1870</firstItemIndex> <!-- Mk16 Mod47 con.kits -->
+		<secondItemIndex>1132</secondItemIndex> <!-- FN IAR -->
+		<firstResultingItemIndex>1131</firstResultingItemIndex> <!-- Mk16 Mod47 -->
+		<secondResultingItemIndex>1871</secondResultingItemIndex> <!-- FN IAR con.kits -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>1871</firstItemIndex> <!-- FN IAR con.kits -->
+		<secondItemIndex>1122</secondItemIndex> <!-- Mk16 Mod0 STD -->
+		<firstResultingItemIndex>1132</firstResultingItemIndex> <!-- FN IAR -->
+		<secondResultingItemIndex>2599</secondResultingItemIndex> <!-- Mk16 Mod0 STD con.kits -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>1871</firstItemIndex> <!-- FN IAR con.kits -->
+		<secondItemIndex>1123</secondItemIndex> <!-- Mk16 Mod0 CQC -->
+		<firstResultingItemIndex>1132</firstResultingItemIndex> <!-- FN IAR -->
+		<secondResultingItemIndex>2600</secondResultingItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>1871</firstItemIndex> <!-- FN IAR con.kits -->
+		<secondItemIndex>1124</secondItemIndex> <!-- Mk16 Mod0 LB -->
+		<firstResultingItemIndex>1132</firstResultingItemIndex> <!-- FN IAR -->
+		<secondResultingItemIndex>2601</secondResultingItemIndex> <!-- Mk16 Mod0 LB con.kits -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>1871</firstItemIndex> <!-- FN IAR con.kits -->
+		<secondItemIndex>1128</secondItemIndex> <!-- Mk16 Mod1 STD -->
+		<firstResultingItemIndex>1132</firstResultingItemIndex> <!-- FN IAR -->
+		<secondResultingItemIndex>2605</secondResultingItemIndex> <!-- Mk16 Mod1 STD con.kits -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>1871</firstItemIndex> <!-- FN IAR con.kits -->
+		<secondItemIndex>1129</secondItemIndex> <!-- Mk16 Mod1 CQC -->
+		<firstResultingItemIndex>1132</firstResultingItemIndex> <!-- FN IAR -->
+		<secondResultingItemIndex>2606</secondResultingItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>1871</firstItemIndex> <!-- FN IAR con.kits -->
+		<secondItemIndex>1130</secondItemIndex> <!-- Mk16 Mod1 LB -->
+		<firstResultingItemIndex>1132</firstResultingItemIndex> <!-- FN IAR -->
+		<secondResultingItemIndex>2607</secondResultingItemIndex> <!-- Mk16 Mod1 LB con.kits -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>1871</firstItemIndex> <!-- FN IAR con.kits -->
+		<secondItemIndex>1131</secondItemIndex> <!-- Mk16 Mod47 -->
+		<firstResultingItemIndex>1132</firstResultingItemIndex> <!-- FN IAR -->
+		<secondResultingItemIndex>1870</secondResultingItemIndex> <!-- Mk16 Mod47 con.kits -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>1872</firstItemIndex> <!-- Mk17 SSR con.kits -->
+		<secondItemIndex>1125</secondItemIndex> <!-- Mk17 Mod0 STD -->
+		<firstResultingItemIndex>1133</firstResultingItemIndex> <!-- Mk17 SSR -->
 		<secondResultingItemIndex>1864</secondResultingItemIndex> <!-- Mk17 Mod0 STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1865</firstItemIndex> <!-- Mk17 Mod0 CQC con.kits -->
-		<secondItemIndex>1127</secondItemIndex> <!-- Mk17 Mod0 SV -->
-		<firstResultingItemIndex>1126</firstResultingItemIndex> <!-- Mk17 Mod0 CQC -->
-		<secondResultingItemIndex>1866</secondResultingItemIndex> <!-- Mk17 Mod0 SV con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1865</firstItemIndex> <!-- Mk17 Mod0 CQC con.kits -->
-		<secondItemIndex>1133</secondItemIndex> <!-- Mk17 Mod1 SV -->
-		<firstResultingItemIndex>1126</firstResultingItemIndex> <!-- Mk17 Mod0 CQC -->
-		<secondResultingItemIndex>1872</secondResultingItemIndex> <!-- Mk17 Mod1 SV con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1866</firstItemIndex> <!-- Mk17 Mod0 SV con.kits -->
-		<secondItemIndex>1125</secondItemIndex> <!-- Mk17 Mod0 STD -->
-		<firstResultingItemIndex>1127</firstResultingItemIndex> <!-- Mk17 Mod0 SV -->
-		<secondResultingItemIndex>1864</secondResultingItemIndex> <!-- Mk17 Mod0 STD con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1866</firstItemIndex> <!-- Mk17 Mod0 SV con.kits -->
+		<firstItemIndex>1872</firstItemIndex> <!-- Mk17 SSR con.kits -->
 		<secondItemIndex>1126</secondItemIndex> <!-- Mk17 Mod0 CQC -->
-		<firstResultingItemIndex>1127</firstResultingItemIndex> <!-- Mk17 Mod0 SV -->
+		<firstResultingItemIndex>1133</firstResultingItemIndex> <!-- Mk17 SSR -->
 		<secondResultingItemIndex>1865</secondResultingItemIndex> <!-- Mk17 Mod0 CQC con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1866</firstItemIndex> <!-- Mk17 Mod0 SV con.kits -->
-		<secondItemIndex>1133</secondItemIndex> <!-- Mk17 Mod1 SV -->
-		<firstResultingItemIndex>1127</firstResultingItemIndex> <!-- Mk17 Mod0 SV -->
-		<secondResultingItemIndex>1872</secondResultingItemIndex> <!-- Mk17 Mod1 SV con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1867</firstItemIndex> <!-- Mk16 Mod1 STD con.kits -->
-		<secondItemIndex>1122</secondItemIndex> <!-- Mk16 Mod0 STD -->
-		<firstResultingItemIndex>1128</firstResultingItemIndex> <!-- Mk16 Mod1 STD -->
-		<secondResultingItemIndex>1861</secondResultingItemIndex> <!-- Mk16 Mod0 STD con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1867</firstItemIndex> <!-- Mk16 Mod1 STD con.kits -->
-		<secondItemIndex>1123</secondItemIndex> <!-- Mk16 Mod0 CQC -->
-		<firstResultingItemIndex>1128</firstResultingItemIndex> <!-- Mk16 Mod1 STD -->
-		<secondResultingItemIndex>1862</secondResultingItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1867</firstItemIndex> <!-- Mk16 Mod1 STD con.kits -->
-		<secondItemIndex>1124</secondItemIndex> <!-- Mk16 Mod0 SV -->
-		<firstResultingItemIndex>1128</firstResultingItemIndex> <!-- Mk16 Mod1 STD -->
-		<secondResultingItemIndex>1863</secondResultingItemIndex> <!-- Mk16 Mod0 SV con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1867</firstItemIndex> <!-- Mk16 Mod1 STD con.kits -->
-		<secondItemIndex>1129</secondItemIndex> <!-- Mk16 Mod1 CQC -->
-		<firstResultingItemIndex>1128</firstResultingItemIndex> <!-- Mk16 Mod1 STD -->
-		<secondResultingItemIndex>1868</secondResultingItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1867</firstItemIndex> <!-- Mk16 Mod1 STD con.kits -->
-		<secondItemIndex>1130</secondItemIndex> <!-- Mk16 Mod1 SV -->
-		<firstResultingItemIndex>1128</firstResultingItemIndex> <!-- Mk16 Mod1 STD -->
-		<secondResultingItemIndex>1869</secondResultingItemIndex> <!-- Mk16 Mod1 SV con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1867</firstItemIndex> <!-- Mk16 Mod1 STD con.kits -->
-		<secondItemIndex>1131</secondItemIndex> <!-- Mk16 Mod47 -->
-		<firstResultingItemIndex>1128</firstResultingItemIndex> <!-- Mk16 Mod1 STD -->
-		<secondResultingItemIndex>1870</secondResultingItemIndex> <!-- Mk16 Mod47 con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1867</firstItemIndex> <!-- Mk16 Mod1 STD con.kits -->
-		<secondItemIndex>1132</secondItemIndex> <!-- Mk16 Mod74 -->
-		<firstResultingItemIndex>1128</firstResultingItemIndex> <!-- Mk16 Mod1 STD -->
-		<secondResultingItemIndex>1871</secondResultingItemIndex> <!-- Mk16 Mod74 con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1868</firstItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
-		<secondItemIndex>1122</secondItemIndex> <!-- Mk16 Mod0 STD -->
-		<firstResultingItemIndex>1129</firstResultingItemIndex> <!-- Mk16 Mod1 CQC -->
-		<secondResultingItemIndex>1861</secondResultingItemIndex> <!-- Mk16 Mod0 STD con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1868</firstItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
-		<secondItemIndex>1123</secondItemIndex> <!-- Mk16 Mod0 CQC -->
-		<firstResultingItemIndex>1129</firstResultingItemIndex> <!-- Mk16 Mod1 CQC -->
-		<secondResultingItemIndex>1862</secondResultingItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1868</firstItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
-		<secondItemIndex>1124</secondItemIndex> <!-- Mk16 Mod0 SV -->
-		<firstResultingItemIndex>1129</firstResultingItemIndex> <!-- Mk16 Mod1 CQC -->
-		<secondResultingItemIndex>1863</secondResultingItemIndex> <!-- Mk16 Mod0 SV con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1868</firstItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
-		<secondItemIndex>1128</secondItemIndex> <!-- Mk16 Mod1 STD -->
-		<firstResultingItemIndex>1129</firstResultingItemIndex> <!-- Mk16 Mod1 CQC -->
-		<secondResultingItemIndex>1867</secondResultingItemIndex> <!-- Mk16 Mod1 STD con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1868</firstItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
-		<secondItemIndex>1130</secondItemIndex> <!-- Mk16 Mod1 SV -->
-		<firstResultingItemIndex>1129</firstResultingItemIndex> <!-- Mk16 Mod1 CQC -->
-		<secondResultingItemIndex>1869</secondResultingItemIndex> <!-- Mk16 Mod1 SV con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1868</firstItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
-		<secondItemIndex>1131</secondItemIndex> <!-- Mk16 Mod47 -->
-		<firstResultingItemIndex>1129</firstResultingItemIndex> <!-- Mk16 Mod1 CQC -->
-		<secondResultingItemIndex>1870</secondResultingItemIndex> <!-- Mk16 Mod47 con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1868</firstItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
-		<secondItemIndex>1132</secondItemIndex> <!-- Mk16 Mod74 -->
-		<firstResultingItemIndex>1129</firstResultingItemIndex> <!-- Mk16 Mod1 CQC -->
-		<secondResultingItemIndex>1871</secondResultingItemIndex> <!-- Mk16 Mod74 con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1869</firstItemIndex> <!-- Mk16 Mod1 SV con.kits -->
-		<secondItemIndex>1122</secondItemIndex> <!-- Mk16 Mod0 STD -->
-		<firstResultingItemIndex>1130</firstResultingItemIndex> <!-- Mk16 Mod1 SV -->
-		<secondResultingItemIndex>1861</secondResultingItemIndex> <!-- Mk16 Mod0 STD con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1869</firstItemIndex> <!-- Mk16 Mod1 SV con.kits -->
-		<secondItemIndex>1123</secondItemIndex> <!-- Mk16 Mod0 CQC -->
-		<firstResultingItemIndex>1130</firstResultingItemIndex> <!-- Mk16 Mod1 SV -->
-		<secondResultingItemIndex>1862</secondResultingItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1869</firstItemIndex> <!-- Mk16 Mod1 SV con.kits -->
-		<secondItemIndex>1124</secondItemIndex> <!-- Mk16 Mod0 SV -->
-		<firstResultingItemIndex>1130</firstResultingItemIndex> <!-- Mk16 Mod1 SV -->
-		<secondResultingItemIndex>1863</secondResultingItemIndex> <!-- Mk16 Mod0 SV con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1869</firstItemIndex> <!-- Mk16 Mod1 SV con.kits -->
-		<secondItemIndex>1128</secondItemIndex> <!-- Mk16 Mod1 STD -->
-		<firstResultingItemIndex>1130</firstResultingItemIndex> <!-- Mk16 Mod1 SV -->
-		<secondResultingItemIndex>1867</secondResultingItemIndex> <!-- Mk16 Mod1 STD con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1869</firstItemIndex> <!-- Mk16 Mod1 SV con.kits -->
-		<secondItemIndex>1129</secondItemIndex> <!-- Mk16 Mod1 CQC -->
-		<firstResultingItemIndex>1130</firstResultingItemIndex> <!-- Mk16 Mod1 SV -->
-		<secondResultingItemIndex>1868</secondResultingItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1869</firstItemIndex> <!-- Mk16 Mod1 SV con.kits -->
-		<secondItemIndex>1131</secondItemIndex> <!-- Mk16 Mod47 -->
-		<firstResultingItemIndex>1130</firstResultingItemIndex> <!-- Mk16 Mod1 SV -->
-		<secondResultingItemIndex>1870</secondResultingItemIndex> <!-- Mk16 Mod47 con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1869</firstItemIndex> <!-- Mk16 Mod1 SV con.kits -->
-		<secondItemIndex>1132</secondItemIndex> <!-- Mk16 Mod74 -->
-		<firstResultingItemIndex>1130</firstResultingItemIndex> <!-- Mk16 Mod1 SV -->
-		<secondResultingItemIndex>1871</secondResultingItemIndex> <!-- Mk16 Mod74 con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1870</firstItemIndex> <!-- Mk16 Mod47 con.kits -->
-		<secondItemIndex>1122</secondItemIndex> <!-- Mk16 Mod0 STD -->
-		<firstResultingItemIndex>1131</firstResultingItemIndex> <!-- Mk16 Mod47 -->
-		<secondResultingItemIndex>1861</secondResultingItemIndex> <!-- Mk16 Mod0 STD con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1870</firstItemIndex> <!-- Mk16 Mod47 con.kits -->
-		<secondItemIndex>1123</secondItemIndex> <!-- Mk16 Mod0 CQC -->
-		<firstResultingItemIndex>1131</firstResultingItemIndex> <!-- Mk16 Mod47 -->
-		<secondResultingItemIndex>1862</secondResultingItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1870</firstItemIndex> <!-- Mk16 Mod47 con.kits -->
-		<secondItemIndex>1124</secondItemIndex> <!-- Mk16 Mod0 SV -->
-		<firstResultingItemIndex>1131</firstResultingItemIndex> <!-- Mk16 Mod47 -->
-		<secondResultingItemIndex>1863</secondResultingItemIndex> <!-- Mk16 Mod0 SV con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1870</firstItemIndex> <!-- Mk16 Mod47 con.kits -->
-		<secondItemIndex>1128</secondItemIndex> <!-- Mk16 Mod1 STD -->
-		<firstResultingItemIndex>1131</firstResultingItemIndex> <!-- Mk16 Mod47 -->
-		<secondResultingItemIndex>1867</secondResultingItemIndex> <!-- Mk16 Mod1 STD con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1870</firstItemIndex> <!-- Mk16 Mod47 con.kits -->
-		<secondItemIndex>1129</secondItemIndex> <!-- Mk16 Mod1 CQC -->
-		<firstResultingItemIndex>1131</firstResultingItemIndex> <!-- Mk16 Mod47 -->
-		<secondResultingItemIndex>1868</secondResultingItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1870</firstItemIndex> <!-- Mk16 Mod47 con.kits -->
-		<secondItemIndex>1130</secondItemIndex> <!-- Mk16 Mod1 SV -->
-		<firstResultingItemIndex>1131</firstResultingItemIndex> <!-- Mk16 Mod47 -->
-		<secondResultingItemIndex>1869</secondResultingItemIndex> <!-- Mk16 Mod1 SV con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1870</firstItemIndex> <!-- Mk16 Mod47 con.kits -->
-		<secondItemIndex>1132</secondItemIndex> <!-- Mk16 Mod74 -->
-		<firstResultingItemIndex>1131</firstResultingItemIndex> <!-- Mk16 Mod47 -->
-		<secondResultingItemIndex>1871</secondResultingItemIndex> <!-- Mk16 Mod74 con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1871</firstItemIndex> <!-- Mk16 Mod74 con.kits -->
-		<secondItemIndex>1122</secondItemIndex> <!-- Mk16 Mod0 STD -->
-		<firstResultingItemIndex>1132</firstResultingItemIndex> <!-- Mk16 Mod74 -->
-		<secondResultingItemIndex>1861</secondResultingItemIndex> <!-- Mk16 Mod0 STD con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1871</firstItemIndex> <!-- Mk16 Mod74 con.kits -->
-		<secondItemIndex>1123</secondItemIndex> <!-- Mk16 Mod0 CQC -->
-		<firstResultingItemIndex>1132</firstResultingItemIndex> <!-- Mk16 Mod74 -->
-		<secondResultingItemIndex>1862</secondResultingItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1871</firstItemIndex> <!-- Mk16 Mod74 con.kits -->
-		<secondItemIndex>1124</secondItemIndex> <!-- Mk16 Mod0 SV -->
-		<firstResultingItemIndex>1132</firstResultingItemIndex> <!-- Mk16 Mod74 -->
-		<secondResultingItemIndex>1863</secondResultingItemIndex> <!-- Mk16 Mod0 SV con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1871</firstItemIndex> <!-- Mk16 Mod74 con.kits -->
-		<secondItemIndex>1128</secondItemIndex> <!-- Mk16 Mod1 STD -->
-		<firstResultingItemIndex>1132</firstResultingItemIndex> <!-- Mk16 Mod74 -->
-		<secondResultingItemIndex>1867</secondResultingItemIndex> <!-- Mk16 Mod1 STD con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1871</firstItemIndex> <!-- Mk16 Mod74 con.kits -->
-		<secondItemIndex>1129</secondItemIndex> <!-- Mk16 Mod1 CQC -->
-		<firstResultingItemIndex>1132</firstResultingItemIndex> <!-- Mk16 Mod74 -->
-		<secondResultingItemIndex>1868</secondResultingItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1871</firstItemIndex> <!-- Mk16 Mod74 con.kits -->
-		<secondItemIndex>1130</secondItemIndex> <!-- Mk16 Mod1 SV -->
-		<firstResultingItemIndex>1132</firstResultingItemIndex> <!-- Mk16 Mod74 -->
-		<secondResultingItemIndex>1869</secondResultingItemIndex> <!-- Mk16 Mod1 SV con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1871</firstItemIndex> <!-- Mk16 Mod74 con.kits -->
-		<secondItemIndex>1131</secondItemIndex> <!-- Mk16 Mod47 -->
-		<firstResultingItemIndex>1132</firstResultingItemIndex> <!-- Mk16 Mod74 -->
-		<secondResultingItemIndex>1870</secondResultingItemIndex> <!-- Mk16 Mod47 con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1872</firstItemIndex> <!-- Mk17 Mod1 SV con.kits -->
-		<secondItemIndex>1125</secondItemIndex> <!-- Mk17 Mod0 STD -->
-		<firstResultingItemIndex>1133</firstResultingItemIndex> <!-- Mk17 Mod1 SV -->
-		<secondResultingItemIndex>1864</secondResultingItemIndex> <!-- Mk17 Mod0 STD con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1872</firstItemIndex> <!-- Mk17 Mod1 SV con.kits -->
-		<secondItemIndex>1126</secondItemIndex> <!-- Mk17 Mod0 CQC -->
-		<firstResultingItemIndex>1133</firstResultingItemIndex> <!-- Mk17 Mod1 SV -->
-		<secondResultingItemIndex>1865</secondResultingItemIndex> <!-- Mk17 Mod0 CQC con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1872</firstItemIndex> <!-- Mk17 Mod1 SV con.kits -->
-		<secondItemIndex>1127</secondItemIndex> <!-- Mk17 Mod0 SV -->
-		<firstResultingItemIndex>1133</firstResultingItemIndex> <!-- Mk17 Mod1 SV -->
-		<secondResultingItemIndex>1866</secondResultingItemIndex> <!-- Mk17 Mod0 SV con.kits -->
+		<firstItemIndex>1872</firstItemIndex> <!-- Mk17 SSR con.kits -->
+		<secondItemIndex>1127</secondItemIndex> <!-- Mk17 Mod0 LB -->
+		<firstResultingItemIndex>1133</firstResultingItemIndex> <!-- Mk17 SSR -->
+		<secondResultingItemIndex>1866</secondResultingItemIndex> <!-- Mk17 Mod0 LB con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
@@ -3696,4 +3432,413 @@
 		<mergeType>4</mergeType>
 		<APCost>50</APCost>
 	</MERGE>
+	<MERGE>
+		<firstItemIndex>2599</firstItemIndex> <!-- Mk16 Mod0 STD con.kits -->
+		<secondItemIndex>1123</secondItemIndex> <!-- Mk16 Mod0 CQC -->
+		<firstResultingItemIndex>1122</firstResultingItemIndex> <!-- Mk16 Mod0 STD -->
+		<secondResultingItemIndex>2600</secondResultingItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2599</firstItemIndex> <!-- Mk16 Mod0 STD con.kits -->
+		<secondItemIndex>1124</secondItemIndex> <!-- Mk16 Mod0 SV -->
+		<firstResultingItemIndex>1122</firstResultingItemIndex> <!-- Mk16 Mod0 STD -->
+		<secondResultingItemIndex>2601</secondResultingItemIndex> <!-- Mk16 Mod0 SV con.kits -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2599</firstItemIndex> <!-- Mk16 Mod0 STD con.kits -->
+		<secondItemIndex>1128</secondItemIndex> <!-- Mk16 Mod1 STD -->
+		<firstResultingItemIndex>1122</firstResultingItemIndex> <!-- Mk16 Mod0 STD -->
+		<secondResultingItemIndex>2605</secondResultingItemIndex> <!-- Mk16 Mod1 STD con.kits -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2599</firstItemIndex> <!-- Mk16 Mod0 STD con.kits -->
+		<secondItemIndex>1129</secondItemIndex> <!-- Mk16 Mod1 CQC -->
+		<firstResultingItemIndex>1122</firstResultingItemIndex> <!-- Mk16 Mod0 STD -->
+		<secondResultingItemIndex>2606</secondResultingItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2599</firstItemIndex> <!-- Mk16 Mod0 STD con.kits -->
+		<secondItemIndex>1130</secondItemIndex> <!-- Mk16 Mod1 LB -->
+		<firstResultingItemIndex>1122</firstResultingItemIndex> <!-- Mk16 Mod0 STD -->
+		<secondResultingItemIndex>2607</secondResultingItemIndex> <!-- Mk16 Mod1 LB con.kits -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2599</firstItemIndex> <!-- Mk16 Mod0 STD con.kits -->
+		<secondItemIndex>1131</secondItemIndex> <!-- Mk16 Mod47 -->
+		<firstResultingItemIndex>1122</firstResultingItemIndex> <!-- Mk16 Mod0 STD -->
+		<secondResultingItemIndex>1870</secondResultingItemIndex> <!-- Mk16 Mod47 con.kits -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2599</firstItemIndex> <!-- Mk16 Mod0 STD con.kits -->
+		<secondItemIndex>1132</secondItemIndex> <!-- FN IAR -->
+		<firstResultingItemIndex>1122</firstResultingItemIndex> <!-- Mk16 Mod0 STD -->
+		<secondResultingItemIndex>1871</secondResultingItemIndex> <!-- FN IAR con.kits -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2600</firstItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
+		<secondItemIndex>1122</secondItemIndex> <!-- Mk16 Mod0 STD -->
+		<firstResultingItemIndex>1123</firstResultingItemIndex> <!-- Mk16 Mod0 CQC -->
+		<secondResultingItemIndex>2599</secondResultingItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2600</firstItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
+		<secondItemIndex>1124</secondItemIndex> <!-- Mk16 Mod0 LB -->
+		<firstResultingItemIndex>1123</firstResultingItemIndex> <!-- Mk16 Mod0 CQC -->
+		<secondResultingItemIndex>2601</secondResultingItemIndex> <!-- Mk16 Mod0 LB con.kits -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2600</firstItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
+		<secondItemIndex>1128</secondItemIndex> <!-- Mk16 Mod1 STD -->
+		<firstResultingItemIndex>1123</firstResultingItemIndex> <!-- Mk16 Mod0 CQC -->
+		<secondResultingItemIndex>2605</secondResultingItemIndex> <!-- Mk16 Mod1 STD con.kits -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2600</firstItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
+		<secondItemIndex>1129</secondItemIndex> <!-- Mk16 Mod1 CQC -->
+		<firstResultingItemIndex>1123</firstResultingItemIndex> <!-- Mk16 Mod0 CQC -->
+		<secondResultingItemIndex>2606</secondResultingItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2600</firstItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
+		<secondItemIndex>1130</secondItemIndex> <!-- Mk16 Mod1 LB -->
+		<firstResultingItemIndex>1123</firstResultingItemIndex> <!-- Mk16 Mod0 CQC -->
+		<secondResultingItemIndex>2607</secondResultingItemIndex> <!-- Mk16 Mod1 LB con.kits -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2600</firstItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
+		<secondItemIndex>1131</secondItemIndex> <!-- Mk16 Mod47 -->
+		<firstResultingItemIndex>1123</firstResultingItemIndex> <!-- Mk16 Mod0 CQC -->
+		<secondResultingItemIndex>1870</secondResultingItemIndex> <!-- Mk16 Mod47 con.kits -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2600</firstItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
+		<secondItemIndex>1132</secondItemIndex> <!-- FN IAR -->
+		<firstResultingItemIndex>1123</firstResultingItemIndex> <!-- Mk16 Mod0 CQC -->
+		<secondResultingItemIndex>1871</secondResultingItemIndex> <!-- FN IAR con.kits -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2601</firstItemIndex> <!-- Mk16 Mod0 LB con.kits -->
+		<secondItemIndex>1122</secondItemIndex> <!-- Mk16 Mod0 STD -->
+		<firstResultingItemIndex>1124</firstResultingItemIndex> <!-- Mk16 Mod0 LB -->
+		<secondResultingItemIndex>2599</secondResultingItemIndex> <!-- Mk16 Mod0 SV con.kits -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2601</firstItemIndex> <!-- Mk16 Mod0 LB con.kits -->
+		<secondItemIndex>1123</secondItemIndex> <!-- Mk16 Mod0 CQC -->
+		<firstResultingItemIndex>1124</firstResultingItemIndex> <!-- Mk16 Mod0 LB -->
+		<secondResultingItemIndex>2600</secondResultingItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2601</firstItemIndex> <!-- Mk16 Mod0 LB con.kits -->
+		<secondItemIndex>1128</secondItemIndex> <!-- Mk16 Mod1 STD -->
+		<firstResultingItemIndex>1124</firstResultingItemIndex> <!-- Mk16 Mod0 LB -->
+		<secondResultingItemIndex>2605</secondResultingItemIndex> <!-- Mk16 Mod1 STD con.kits -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2601</firstItemIndex> <!-- Mk16 Mod0 LB con.kits -->
+		<secondItemIndex>1129</secondItemIndex> <!-- Mk16 Mod1 CQC -->
+		<firstResultingItemIndex>1124</firstResultingItemIndex> <!-- Mk16 Mod0 LB -->
+		<secondResultingItemIndex>2606</secondResultingItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2601</firstItemIndex> <!-- Mk16 Mod0 LB con.kits -->
+		<secondItemIndex>1130</secondItemIndex> <!-- Mk16 Mod1 LB -->
+		<firstResultingItemIndex>1124</firstResultingItemIndex> <!-- Mk16 Mod0 LB -->
+		<secondResultingItemIndex>2607</secondResultingItemIndex> <!-- Mk16 Mod1 LB con.kits -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2601</firstItemIndex> <!-- Mk16 Mod0 LB con.kits -->
+		<secondItemIndex>1131</secondItemIndex> <!-- Mk16 Mod47 -->
+		<firstResultingItemIndex>1124</firstResultingItemIndex> <!-- Mk16 Mod0 LB -->
+		<secondResultingItemIndex>1870</secondResultingItemIndex> <!-- Mk16 Mod47 con.kits -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2601</firstItemIndex> <!-- Mk16 Mod0 LB con.kits -->
+		<secondItemIndex>1132</secondItemIndex> <!-- FN IAR -->
+		<firstResultingItemIndex>1124</firstResultingItemIndex> <!-- Mk16 Mod0 LB -->
+		<secondResultingItemIndex>1871</secondResultingItemIndex> <!-- FN IAR con.kits -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2602</firstItemIndex> <!-- Mk17 Mod0 STD con.kits -->
+		<secondItemIndex>1126</secondItemIndex> <!-- Mk17 Mod0 CQC -->
+		<firstResultingItemIndex>1125</firstResultingItemIndex> <!-- Mk17 Mod0 STD -->
+		<secondResultingItemIndex>2603</secondResultingItemIndex> <!-- Mk17 Mod0 CQC con.kits -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2602</firstItemIndex> <!-- Mk17 Mod0 STD con.kits -->
+		<secondItemIndex>1127</secondItemIndex> <!-- Mk17 Mod0 LB -->
+		<firstResultingItemIndex>1125</firstResultingItemIndex> <!-- Mk17 Mod0 STD -->
+		<secondResultingItemIndex>2604</secondResultingItemIndex> <!-- Mk17 Mod0 LB con.kits -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2602</firstItemIndex> <!-- Mk17 Mod0 STD con.kits -->
+		<secondItemIndex>1133</secondItemIndex> <!-- Mk17 SSR -->
+		<firstResultingItemIndex>1125</firstResultingItemIndex> <!-- Mk17 Mod0 STD -->
+		<secondResultingItemIndex>1872</secondResultingItemIndex> <!-- Mk17 SSR con.kits -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2603</firstItemIndex> <!-- Mk17 Mod0 CQC con.kits -->
+		<secondItemIndex>1125</secondItemIndex> <!-- Mk17 Mod0 STD -->
+		<firstResultingItemIndex>1126</firstResultingItemIndex> <!-- Mk17 Mod0 CQC -->
+		<secondResultingItemIndex>2602</secondResultingItemIndex> <!-- Mk17 Mod0 STD con.kits -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2603</firstItemIndex> <!-- Mk17 Mod0 CQC con.kits -->
+		<secondItemIndex>1127</secondItemIndex> <!-- Mk17 Mod0 LB -->
+		<firstResultingItemIndex>1126</firstResultingItemIndex> <!-- Mk17 Mod0 CQC -->
+		<secondResultingItemIndex>2604</secondResultingItemIndex> <!-- Mk17 Mod0 LB con.kits -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2603</firstItemIndex> <!-- Mk17 Mod0 CQC con.kits -->
+		<secondItemIndex>1133</secondItemIndex> <!-- Mk17 SSR -->
+		<firstResultingItemIndex>1126</firstResultingItemIndex> <!-- Mk17 Mod0 CQC -->
+		<secondResultingItemIndex>1872</secondResultingItemIndex> <!-- Mk17 SSR con.kits -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2604</firstItemIndex> <!-- Mk17 Mod0 LB con.kits -->
+		<secondItemIndex>1125</secondItemIndex> <!-- Mk17 Mod0 STD -->
+		<firstResultingItemIndex>1127</firstResultingItemIndex> <!-- Mk17 Mod0 LB -->
+		<secondResultingItemIndex>2602</secondResultingItemIndex> <!-- Mk17 Mod0 STD con.kits -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2604</firstItemIndex> <!-- Mk17 Mod0 LB con.kits -->
+		<secondItemIndex>1126</secondItemIndex> <!-- Mk17 Mod0 CQC -->
+		<firstResultingItemIndex>1127</firstResultingItemIndex> <!-- Mk17 Mod0 LB -->
+		<secondResultingItemIndex>2603</secondResultingItemIndex> <!-- Mk17 Mod0 CQC con.kits -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2604</firstItemIndex> <!-- Mk17 Mod0 LB con.kits -->
+		<secondItemIndex>1133</secondItemIndex> <!-- Mk17 SSR -->
+		<firstResultingItemIndex>1127</firstResultingItemIndex> <!-- Mk17 Mod0 LB -->
+		<secondResultingItemIndex>1872</secondResultingItemIndex> <!-- Mk17 SSR con.kits -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2605</firstItemIndex> <!-- Mk16 Mod1 STD con.kits -->
+		<secondItemIndex>1122</secondItemIndex> <!-- Mk16 Mod0 STD -->
+		<firstResultingItemIndex>1128</firstResultingItemIndex> <!-- Mk16 Mod1 STD -->
+		<secondResultingItemIndex>2599</secondResultingItemIndex> <!-- Mk16 Mod0 STD con.kits -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2605</firstItemIndex> <!-- Mk16 Mod1 STD con.kits -->
+		<secondItemIndex>1123</secondItemIndex> <!-- Mk16 Mod0 CQC -->
+		<firstResultingItemIndex>1128</firstResultingItemIndex> <!-- Mk16 Mod1 STD -->
+		<secondResultingItemIndex>2600</secondResultingItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2605</firstItemIndex> <!-- Mk16 Mod1 STD con.kits -->
+		<secondItemIndex>1124</secondItemIndex> <!-- Mk16 Mod0 LB -->
+		<firstResultingItemIndex>1128</firstResultingItemIndex> <!-- Mk16 Mod1 STD -->
+		<secondResultingItemIndex>2601</secondResultingItemIndex> <!-- Mk16 Mod0 LB con.kits -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2605</firstItemIndex> <!-- Mk16 Mod1 STD con.kits -->
+		<secondItemIndex>1129</secondItemIndex> <!-- Mk16 Mod1 CQC -->
+		<firstResultingItemIndex>1128</firstResultingItemIndex> <!-- Mk16 Mod1 STD -->
+		<secondResultingItemIndex>2606</secondResultingItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2605</firstItemIndex> <!-- Mk16 Mod1 STD con.kits -->
+		<secondItemIndex>1130</secondItemIndex> <!-- Mk16 Mod1 LB -->
+		<firstResultingItemIndex>1128</firstResultingItemIndex> <!-- Mk16 Mod1 STD -->
+		<secondResultingItemIndex>2607</secondResultingItemIndex> <!-- Mk16 Mod1 LB con.kits -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2605</firstItemIndex> <!-- Mk16 Mod1 STD con.kits -->
+		<secondItemIndex>1131</secondItemIndex> <!-- Mk16 Mod47 -->
+		<firstResultingItemIndex>1128</firstResultingItemIndex> <!-- Mk16 Mod1 STD -->
+		<secondResultingItemIndex>1870</secondResultingItemIndex> <!-- Mk16 Mod47 con.kits -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2605</firstItemIndex> <!-- Mk16 Mod1 STD con.kits -->
+		<secondItemIndex>1132</secondItemIndex> <!-- FN IAR -->
+		<firstResultingItemIndex>1128</firstResultingItemIndex> <!-- Mk16 Mod1 STD -->
+		<secondResultingItemIndex>1871</secondResultingItemIndex> <!-- FN IAR con.kits -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2606</firstItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
+		<secondItemIndex>1122</secondItemIndex> <!-- Mk16 Mod0 STD -->
+		<firstResultingItemIndex>1129</firstResultingItemIndex> <!-- Mk16 Mod1 CQC -->
+		<secondResultingItemIndex>2599</secondResultingItemIndex> <!-- Mk16 Mod0 STD con.kits -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2606</firstItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
+		<secondItemIndex>1123</secondItemIndex> <!-- Mk16 Mod0 CQC -->
+		<firstResultingItemIndex>1129</firstResultingItemIndex> <!-- Mk16 Mod1 CQC -->
+		<secondResultingItemIndex>2600</secondResultingItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2606</firstItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
+		<secondItemIndex>1124</secondItemIndex> <!-- Mk16 Mod0 LB -->
+		<firstResultingItemIndex>1129</firstResultingItemIndex> <!-- Mk16 Mod1 CQC -->
+		<secondResultingItemIndex>2601</secondResultingItemIndex> <!-- Mk16 Mod0 LB con.kits -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2606</firstItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
+		<secondItemIndex>1128</secondItemIndex> <!-- Mk16 Mod1 STD -->
+		<firstResultingItemIndex>1129</firstResultingItemIndex> <!-- Mk16 Mod1 CQC -->
+		<secondResultingItemIndex>2605</secondResultingItemIndex> <!-- Mk16 Mod1 STD con.kits -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2606</firstItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
+		<secondItemIndex>1130</secondItemIndex> <!-- Mk16 Mod1 LB -->
+		<firstResultingItemIndex>1129</firstResultingItemIndex> <!-- Mk16 Mod1 CQC -->
+		<secondResultingItemIndex>2607</secondResultingItemIndex> <!-- Mk16 Mod1 LB con.kits -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2606</firstItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
+		<secondItemIndex>1131</secondItemIndex> <!-- Mk16 Mod47 -->
+		<firstResultingItemIndex>1129</firstResultingItemIndex> <!-- Mk16 Mod1 CQC -->
+		<secondResultingItemIndex>1870</secondResultingItemIndex> <!-- Mk16 Mod47 con.kits -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2606</firstItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
+		<secondItemIndex>1132</secondItemIndex> <!-- FN IAR -->
+		<firstResultingItemIndex>1129</firstResultingItemIndex> <!-- Mk16 Mod1 CQC -->
+		<secondResultingItemIndex>1871</secondResultingItemIndex> <!-- FN IAR con.kits -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2607</firstItemIndex> <!-- Mk16 Mod1 LB con.kits -->
+		<secondItemIndex>1122</secondItemIndex> <!-- Mk16 Mod0 STD -->
+		<firstResultingItemIndex>1130</firstResultingItemIndex> <!-- Mk16 Mod1 LB -->
+		<secondResultingItemIndex>2599</secondResultingItemIndex> <!-- Mk16 Mod0 STD con.kits -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2607</firstItemIndex> <!-- Mk16 Mod1 LB con.kits -->
+		<secondItemIndex>1123</secondItemIndex> <!-- Mk16 Mod0 CQC -->
+		<firstResultingItemIndex>1130</firstResultingItemIndex> <!-- Mk16 Mod1 LB -->
+		<secondResultingItemIndex>2600</secondResultingItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2607</firstItemIndex> <!-- Mk16 Mod1 LB con.kits -->
+		<secondItemIndex>1124</secondItemIndex> <!-- Mk16 Mod0 LB -->
+		<firstResultingItemIndex>1130</firstResultingItemIndex> <!-- Mk16 Mod1 LB -->
+		<secondResultingItemIndex>2601</secondResultingItemIndex> <!-- Mk16 Mod0 LB con.kits -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2607</firstItemIndex> <!-- Mk16 Mod1 LB con.kits -->
+		<secondItemIndex>1128</secondItemIndex> <!-- Mk16 Mod1 STD -->
+		<firstResultingItemIndex>1130</firstResultingItemIndex> <!-- Mk16 Mod1 LB -->
+		<secondResultingItemIndex>2605</secondResultingItemIndex> <!-- Mk16 Mod1 STD con.kits -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2607</firstItemIndex> <!-- Mk16 Mod1 LB con.kits -->
+		<secondItemIndex>1129</secondItemIndex> <!-- Mk16 Mod1 CQC -->
+		<firstResultingItemIndex>1130</firstResultingItemIndex> <!-- Mk16 Mod1 LB -->
+		<secondResultingItemIndex>2606</secondResultingItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2607</firstItemIndex> <!-- Mk16 Mod1 LB con.kits -->
+		<secondItemIndex>1131</secondItemIndex> <!-- Mk16 Mod47 -->
+		<firstResultingItemIndex>1130</firstResultingItemIndex> <!-- Mk16 Mod1 LB -->
+		<secondResultingItemIndex>1870</secondResultingItemIndex> <!-- Mk16 Mod47 con.kits -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2607</firstItemIndex> <!-- Mk16 Mod1 LB con.kits -->
+		<secondItemIndex>1132</secondItemIndex> <!-- FN IAR -->
+		<firstResultingItemIndex>1130</firstResultingItemIndex> <!-- Mk16 Mod1 LB -->
+		<secondResultingItemIndex>1871</secondResultingItemIndex> <!-- FN IAR con.kits -->
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	
 </MERGELIST>

@@ -1779,10 +1779,10 @@
 	<ITEM>
 		<uiIndex>222</uiIndex>
 		<szItemName>Energy Boost</szItemName>
-		<szLongItemName>兴奋剂</szLongItemName>
-		<szItemDesc>这个皮下注射器装满了化学兴奋剂，会使你暂时令你精力充沛。警告：反复使用会导致心脏停跳</szItemDesc>
+		<szLongItemName>鸡血</szLongItemName>
+		<szItemDesc>这个皮下注射器装满了鸡血，会使你暂时令你精力充沛。警告：反复使用会导致心脏停跳</szItemDesc>
 		<szBRName>Energy Booster</szBRName>
-		<szBRDesc>这个皮下注射器装满了化学兴奋剂，会使你暂时令你精力充沛。警告：反复使用会导致心脏停跳</szBRDesc>
+		<szBRDesc>这个皮下注射器装满了鸡血，会使你暂时令你精力充沛。警告：反复使用会导致心脏停跳</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>223</uiIndex>
@@ -4690,7 +4690,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>586</uiIndex>
-		<szItemName>.338 Lapua Mag</szItemName>
+		<szItemName>.338 LM 5</szItemName>
 		<szLongItemName>.338拉普阿，5发普通弹</szLongItemName>
 		<szItemDesc>在猎杀大型猎物或者是远距离狙击时直接让目标从站着变成躺着，这种大威力弹药的性能不容置疑。</szItemDesc>
 		<szBRName>.338 Lapua Mag, 5</szBRName>
@@ -4698,7 +4698,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>587</uiIndex>
-		<szItemName>.338 Lapua Mag AP</szItemName>
+		<szItemName>.338 LM 5 AP</szItemName>
 		<szLongItemName>.338拉普阿，5发穿甲弹</szLongItemName>
 		<szItemDesc>5发.338拉普阿-马格努姆穿甲弹。它可以用来杀伤人员也可以对付轻装甲目标。</szItemDesc>
 		<szBRName>.338 Lapua Magnum Mag, 5 AP</szBRName>
@@ -4706,7 +4706,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>588</uiIndex>
-		<szItemName>.338 Lapua Mag</szItemName>
+		<szItemName>.338 LM 10</szItemName>
 		<szLongItemName>.338拉普阿，10发普通弹</szLongItemName>
 		<szItemDesc>在猎杀大型猎物或者是远距离狙击时直接让目标从站着变成躺着，这种大威力弹药的性能不容置疑。</szItemDesc>
 		<szBRName>.338 Lapua Mag, 10</szBRName>
@@ -4714,7 +4714,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>589</uiIndex>
-		<szItemName>.338 Lapua Mag AP</szItemName>
+		<szItemName>.338 LM 10 AP</szItemName>
 		<szLongItemName>.338拉普阿，10发穿甲弹</szLongItemName>
 		<szItemDesc>10发.338拉普阿-马格努姆穿甲弹。它可以用来杀伤人员也可以对付轻装甲目标。</szItemDesc>
 		<szBRName>.338 Lapua Magnum Mag, 10 AP</szBRName>
@@ -8994,11 +8994,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1124</uiIndex>
-		<szItemName>Mk16 Mod0 SPR</szItemName>
-		<szLongItemName>Mk16 Mod 0 SPR</szLongItemName>
-		<szItemDesc>将取代Mk12 SPR系列的第二代FNH SCAR-L狙击型(18")。这是美国特种作战司令部最好的突击步枪系统，使用5.56mm北约弹。</szItemDesc>
-		<szBRName>Mk16 Mod 0 SPR</szBRName>
-		<szBRDesc>将取代Mk12 SPR系列的第二代FNH SCAR-L狙击型(18")。这是美国特种作战司令部最好的突击步枪系统，使用5.56mm北约弹。</szBRDesc>
+		<szItemName>Mk16 Mod0 LB</szItemName>
+		<szLongItemName>Mk16 Mod 0 LB</szLongItemName>
+		<szItemDesc>将取代Mk12 SPR系列的第二代FNH SCAR-L长管型(18")。这是美国特种作战司令部最好的突击步枪系统，使用5.56mm北约弹。</szItemDesc>
+		<szBRName>Mk16 Mod 0 LB</szBRName>
+		<szBRDesc>将取代Mk12 SPR系列的第二代FNH SCAR-L长管型(18")。这是美国特种作战司令部最好的突击步枪系统，使用5.56mm北约弹。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1125</uiIndex>
@@ -9018,11 +9018,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1127</uiIndex>
-		<szItemName>Mk17 Mod0 SPR</szItemName>
-		<szLongItemName>Mk17 Mod 0 SPR</szLongItemName>
-		<szItemDesc>将取代Mk11 Mod 0 的第二代FNH SCAR-H狙击型(18")。这是美国特种作战司令部最好的突击步枪系统，使用7.62mm北约弹。</szItemDesc>
-		<szBRName>Mk17 Mod 0 SPR</szBRName>
-		<szBRDesc>将取代Mk11 Mod 0 的第二代FNH SCAR-H狙击型(18")。这是美国特种作战司令部最好的突击步枪系统，使用7.62mm北约弹。</szBRDesc>
+		<szItemName>Mk17 Mod0 LB</szItemName>
+		<szLongItemName>Mk17 Mod 0 LB</szLongItemName>
+		<szItemDesc>将取代Mk11 Mod 0 的第二代FNH SCAR-H长管型(18")。这是美国特种作战司令部最好的突击步枪系统，使用7.62mm北约弹。</szItemDesc>
+		<szBRName>Mk17 Mod 0 LB</szBRName>
+		<szBRDesc>将取代Mk11 Mod 0 的第二代FNH SCAR-H长管型(18")。这是美国特种作战司令部最好的突击步枪系统，使用7.62mm北约弹。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1128</uiIndex>
@@ -9042,10 +9042,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1130</uiIndex>
-		<szItemName>Mk16 Mod1 SPR</szItemName>
-		<szLongItemName>Mk16 Mod 1 SPR</szLongItemName>
-		<szItemDesc>第二代FNH SCAR-L 狙击型(18")。这种型号发射6.8mm特种用途弹。</szItemDesc>
-		<szBRName>Mk16 Mod 1 SPR</szBRName>
+		<szItemName>Mk16 Mod1 LB</szItemName>
+		<szLongItemName>Mk16 Mod 1 LB</szLongItemName>
+		<szItemDesc>第二代FNH SCAR-L长管型(18")。这种型号发射6.8mm特种用途弹。</szItemDesc>
+		<szBRName>Mk16 Mod 1 LB</szBRName>
 		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -9058,18 +9058,18 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1132</uiIndex>
-		<szItemName>Mk16 Mod74</szItemName>
-		<szLongItemName>Mk16 Mod 74</szLongItemName>
-		<szItemDesc>FNH SCAR-WP第二代16"枪管5.45x39mm口径型。它可以直接使用AK-74的子弹。</szItemDesc>
-		<szBRName>Mk16 Mod 74</szBRName>
+		<szItemName>FN IAR</szItemName>
+		<szLongItemName>FN IAR</szLongItemName>
+		<szItemDesc>FN IAR是由SCAR-L改进而成的班用轻机枪，采用16英寸重型枪管，全自动时开膛待击。</szItemDesc>
+		<szBRName>FN IAR</szBRName>
 		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1133</uiIndex>
-		<szItemName>Mk17 Mod1 SPR</szItemName>
-		<szLongItemName>Mk17 Mod 1 SPR</szLongItemName>
-		<szItemDesc>第二代FNH SCAR-H的狙击型(18") 。它使用.300 WSM子弹。</szItemDesc>
-		<szBRName>Mk17 Mod 1 SPR</szBRName>
+		<szItemName>Mk17 SSR</szItemName>
+		<szLongItemName>Mk17 SSR</szLongItemName>
+		<szItemDesc>Mk17 SSR是基于Mk17 LB型研制的狙击步枪，性能全面超越Mk14和Mk11，是海豹下一代狙击步枪。</szItemDesc>
+		<szBRName>Mk17 SSR</szBRName>
 		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -11498,11 +11498,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1437</uiIndex>
-		<szItemName>10mm Mag 8 M</szItemName>
-		<szLongItemName>10mm，8发比赛弹</szLongItemName>
-		<szItemDesc>一个装有8发10mm比赛弹的手枪弹匣。</szItemDesc>
-		<szBRName>10mm Mag 8 Match</szBRName>
-		<szBRDesc>针对真正的枪械爱好者推出的10mm比赛弹。</szBRDesc>
+		<szItemName>10mm Mag 8</szItemName>
+		<szLongItemName>10mm，8发</szLongItemName>
+		<szItemDesc>一个装有8发10mm全被甲弹的手枪弹匣。</szItemDesc>
+		<szBRName>10mm Mag 8</szBRName>
+		<szBRDesc>针对真正的枪械爱好者推出的10mm AUTO全被甲弹。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1438</uiIndex>
@@ -11522,11 +11522,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1440</uiIndex>
-		<szItemName>10mm Mag 11 M</szItemName>
-		<szLongItemName>10mm，11发比赛弹</szLongItemName>
-		<szItemDesc>一个装有11发10mm比赛弹的手枪弹匣。</szItemDesc>
-		<szBRName>10mm Mag 11 Match</szBRName>
-		<szBRDesc>针对真正的枪械爱好者推出的10mm比赛弹。</szBRDesc>
+		<szItemName>10mm Mag 11</szItemName>
+		<szLongItemName>10mm，11发全被甲弹</szLongItemName>
+		<szItemDesc>一个装有11发10mm全被甲弹的手枪弹匣。</szItemDesc>
+		<szBRName>10mm Mag 11</szBRName>
+		<szBRDesc>针对真正的枪械爱好者推出的10mm全被甲弹。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1441</uiIndex>
@@ -11546,11 +11546,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1443</uiIndex>
-		<szItemName>10mm Mag M</szItemName>
-		<szLongItemName>10mm，30发比赛弹</szLongItemName>
-		<szItemDesc>30发高质量的10mm比赛弹，能增加10mm口径冲锋枪的射程。</szItemDesc>
-		<szBRName>10mm Mag Match</szBRName>
-		<szBRDesc>这种大威力弹药的特点是能增加射程和性能。</szBRDesc>
+		<szItemName>10mm Mag</szItemName>
+		<szLongItemName>10mm，30发</szLongItemName>
+		<szItemDesc>30发高质量的10mm全被甲弹，用于10mm口径冲锋枪。</szItemDesc>
+		<szBRName>10mm Mag</szBRName>
+		<szBRDesc>30发高质量的10mm全被甲弹，用于10mm口径冲锋枪。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1444</uiIndex>
@@ -14517,16 +14517,16 @@
 		<szItemName>AN/PVS-24 NVD</szItemName>
 		<szLongItemName>AN/PVS-24夜瞄</szLongItemName>
 		<szItemDesc>AN/PVS-24夜瞄是北约武器所用的微型夜视镜。可直接装在武器上，或者在其他瞄准镜之后。</szItemDesc>
-		<szBRName>AN/PVS-24 Night Vision Device</szBRName>
+		<szBRName>AN/PVS-24 NVD</szBRName>
 		<szBRDesc>AN/PVS-24夜瞄是北约武器所用的微型夜视镜。可直接装在武器上，或者在其他瞄准镜之后。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1815</uiIndex>
 		<szItemName>AN/PVS-10 NVS</szItemName>
 		<szLongItemName>AN/PVS-10夜视狙击镜</szLongItemName>
-		<szItemDesc>AN/PVS-10夜视狙击镜结合了昼夜两种模式。日间和夜间的放大倍率均为12.2倍，可调光亮度和瞄准线照明度。</szItemDesc>
-		<szBRName>AN/PVS-10 Night Vision Sniperscope</szBRName>
-		<szBRDesc>AN/PVS-10夜视狙击镜结合了昼夜两种模式。日间和夜间的放大倍率均为12.2倍，可调光亮度和瞄准线照明度。</szBRDesc>
+		<szItemDesc>AN/PVS-10夜视狙击镜结合了昼夜两种模式。日间和夜间的放大倍率均为12.5倍，可调光亮度和瞄准线照明度。</szItemDesc>
+		<szBRName>AN/PVS-10 NVS</szBRName>
+		<szBRDesc>AN/PVS-10夜视狙击镜结合了昼夜两种模式。日间和夜间的放大倍率均为12.5倍，可调光亮度和瞄准线照明度。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1816</uiIndex>
@@ -14602,15 +14602,15 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1825</uiIndex>
-		<szItemName>Scope 12x</szItemName>
-		<szLongItemName>SCHMIDT ＆ BENDER 3-12倍镜</szLongItemName>
-		<szItemDesc>3-12倍警用神枪手II狙击镜一直以来是狙击手们的最爱。</szItemDesc>
-		<szBRName>SCHMIDT ＆ BENDER 3-12x Scope</szBRName>
-		<szBRDesc>3-12倍警用神枪手II狙击镜一直以来是狙击手们的最爱。</szBRDesc>
+		<szItemName>Scope 16x</szItemName>
+		<szLongItemName>SCHMIDT ＆ BENDER 4.5-16倍镜</szLongItemName>
+		<szItemDesc>4.5-16倍警用神枪手II狙击镜一直以来是狙击手们的最爱。</szItemDesc>
+		<szBRName>SCHMIDT ＆ BENDER 4.5-16x Scope</szBRName>
+		<szBRDesc>4.5-16倍警用神枪手II狙击镜一直以来是狙击手们的最爱。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1826</uiIndex>
-		<szItemName>FCS Scope</szItemName>
+		<szItemName>FCS 24x Scope</szItemName>
 		<szLongItemName>24倍狙击火控系统</szLongItemName>
 		<szItemDesc>24倍狙击镜结合了激光测距装置和弹道计算机。</szItemDesc>
 		<szBRName>FCS Scope, Mag.24x</szBRName>
@@ -14890,99 +14890,99 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1861</uiIndex>
-		<szItemName>SCAR-L 5.56 con. kit</szItemName>
-		<szLongItemName>Mk16 Mod0 STD转换工具</szLongItemName>
-		<szItemDesc>将任何型号SCAR-L转换为14英寸枪管的5.56mm Mk16 Mod0标准型。</szItemDesc>
-		<szBRName>con.kits of Mk16 Mod0 STD</szBRName>
-		<szBRDesc>将任何型号SCAR-L转换为14英寸枪管的5.56mm Mk16 Mod0标准型。</szBRDesc>
+		<szItemName>SCAR-L Barrel</szItemName>
+		<szLongItemName>Mk16 Mod0 STD枪管</szLongItemName>
+		<szItemDesc>将任何型号的5.56口径SCAR-L转换成14英寸枪管的Mk16 Mod0标准型。</szItemDesc>
+		<szBRName>Barrel of Mk16 Mod0 STD</szBRName>
+		<szBRDesc>将任何型号的5.56口径SCAR-L转换成14英寸枪管的Mk16 Mod0标准型。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1862</uiIndex>
-		<szItemName>SCAR-L 5.56 con. kit</szItemName>
-		<szLongItemName>Mk16 Mod0 CQC转换工具</szLongItemName>
-		<szItemDesc>将任何型号SCAR-L转换为10英寸枪管的5.56mm Mk16 Mod0近战型。</szItemDesc>
-		<szBRName>con.kits of Mk16 Mod0 CQC</szBRName>
-		<szBRDesc>将任何型号SCAR-L转换为10英寸枪管的5.56mm Mk16 Mod0近战型。</szBRDesc>
+		<szItemName>SCAR-L Barrel</szItemName>
+		<szLongItemName>Mk16 Mod0 CQC枪管</szLongItemName>
+		<szItemDesc>将任何型号的5.56口径SCAR-L转换成10英寸枪管的Mk16 Mod0近战型。</szItemDesc>
+		<szBRName>Barrel of Mk16 Mod0 CQC</szBRName>
+		<szBRDesc>将任何型号的5.56口径SCAR-L转换成10英寸枪管的Mk16 Mod0近战型。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1863</uiIndex>
-		<szItemName>SCAR-L 5.56 con. kit</szItemName>
-		<szLongItemName>Mk16 Mod0 SPR转换工具</szLongItemName>
-		<szItemDesc>将任何型号SCAR-L转换为5.56mm Mk16 Mod0狙击型。</szItemDesc>
-		<szBRName>con.kits of Mk16 Mod0 SV</szBRName>
-		<szBRDesc>将任何型号SCAR-L转换为5.56mm Mk16 Mod0狙击型。</szBRDesc>
+		<szItemName>SCAR-L Barrel</szItemName>
+		<szLongItemName>Mk16 Mod0 LB枪管</szLongItemName>
+		<szItemDesc>将任何型号的5.56口径SCAR-L转换成18英寸枪管的Mk16 Mod0长管型。</szItemDesc>
+		<szBRName>Barrel of Mk16 Mod0 LB</szBRName>
+		<szBRDesc>将任何型号的5.56口径SCAR-L转换成18英寸枪管的Mk16 Mod0长管型。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1864</uiIndex>
-		<szItemName>SCAR-H 7.62 con. kit</szItemName>
-		<szLongItemName>Mk17 Mod0 STD转换工具</szLongItemName>
-		<szItemDesc>将任何型号的SCAR-H转换为5.56mm Mk16 Mod0狙击型。</szItemDesc>
-		<szBRName>con.kits of Mk17 Mod0 STD</szBRName>
-		<szBRDesc>将任何型号的SCAR-L转换为5.56mm Mk16 Mod0狙击型。</szBRDesc>
+		<szItemName>SCAR-H Barrel</szItemName>
+		<szLongItemName>Mk17 Mod0 STD枪管</szLongItemName>
+		<szItemDesc>将任何型号的SCAR-H转换成16英寸枪管的Mk17 Mod0标准型。</szItemDesc>
+		<szBRName>Barrel of Mk17 Mod0 STD</szBRName>
+		<szBRDesc>将任何型号的SCAR-H转换成16英寸枪管的Mk17 Mod0标准型。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1865</uiIndex>
-		<szItemName>SCAR-H 7.62 con. kit</szItemName>
-		<szLongItemName>Mk17 Mod0 CQC转换工具</szLongItemName>
-		<szItemDesc>将任何型号的SCAR-H转换为10英寸枪管的7.62mm Mk17 Mod0近战型。</szItemDesc>
-		<szBRName>con.kits of Mk17 Mod0 CQC</szBRName>
-		<szBRDesc>将任何型号的SCAR-H转换为10英寸枪管的7.62mm Mk17 Mod0近战型。</szBRDesc>
+		<szItemName>SCAR-H Barrel</szItemName>
+		<szLongItemName>Mk17 Mod0 CQC枪管</szLongItemName>
+		<szItemDesc>将任何型号的SCAR-H转换成13英寸枪管的Mk17 Mod0近战型。</szItemDesc>
+		<szBRName>Barrel of Mk17 Mod0 CQC</szBRName>
+		<szBRDesc>将任何型号的SCAR-H转换成13英寸枪管的Mk17 Mod0近战型。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1866</uiIndex>
-		<szItemName>SCAR-H 7.62 con. kit</szItemName>
-		<szLongItemName>Mk17 Mod0 SPR转换工具</szLongItemName>
-		<szItemDesc>将任何型号的SCAR-H转换为7.62mm Mk17 Mod0狙击型。</szItemDesc>
-		<szBRName>con.kits of Mk17 Mod0 SPR</szBRName>
-		<szBRDesc>将任何型号的SCAR-H转换为7.62mm Mk17 Mod0狙击型。</szBRDesc>
+		<szItemName>SCAR-H Barrel</szItemName>
+		<szLongItemName>Mk17 Mod0 LB枪管</szLongItemName>
+		<szItemDesc>将任何型号的SCAR-H转换成20英寸枪管的Mk17 Mod0长管型。</szItemDesc>
+		<szBRName>Barrel of Mk17 Mod0 LB</szBRName>
+		<szBRDesc>将任何型号的SCAR-H转换成20英寸枪管的Mk17 Mod0长管型。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1867</uiIndex>
-		<szItemName>SCAR-L 6.8 con. kit</szItemName>
-		<szLongItemName>Mk16 Mod1 STD转换工具</szLongItemName>
-		<szItemDesc>将任何型号的SCAR-L转换为6.8mm Mk16 Mod1标准型。</szItemDesc>
-		<szBRName>SCAR-L 6.8 STD con.kit</szBRName>
-		<szBRDesc>将任何型号的SCAR-L转换为6.8mm Mk16 Mod1标准型。</szBRDesc>
+		<szItemName>SCAR-L 6.8 Barrel</szItemName>
+		<szLongItemName>Mk16 6.8 STD枪管</szLongItemName>
+		<szItemDesc>将任何型号的6.8 SPC口径的SCAR-L转换成14英寸枪管的Mk16 Mod1标准型。</szItemDesc>
+		<szBRName>Barrel of Mk16 6.8 STD</szBRName>
+		<szBRDesc>将任何型号的6.8 SPC口径的SCAR-L转换成14英寸枪管的Mk16 Mod1标准型。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1868</uiIndex>
-		<szItemName>SCAR-L 6.8 con. kit</szItemName>
-		<szLongItemName>Mk16 Mod1 CQC转换工具</szLongItemName>
-		<szItemDesc>将任何型号的SCAR-L转换为6.8mm Mk16 Mod1近战型。</szItemDesc>
-		<szBRName>SCAR-L 6.8 CQC con.kit</szBRName>
-		<szBRDesc>将任何型号的SCAR-L转换为6.8mm Mk16 Mod1近战型。</szBRDesc>
+		<szItemName>SCAR-L Barrel</szItemName>
+		<szLongItemName>Mk16 6.8 CQC枪管</szLongItemName>
+		<szItemDesc>将任何型号的6.8 SPC口径的SCAR-L转换成10英寸枪管的Mk16 Mod1近战型。</szItemDesc>
+		<szBRName>Barrel of Mk16 6.8 CQC</szBRName>
+		<szBRDesc>将任何型号的6.8 SPC口径的SCAR-L转换成10英寸枪管的Mk16 Mod1近战型。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1869</uiIndex>
-		<szItemName>SCAR-L 6.8 con.kit</szItemName>
-		<szLongItemName>Mk16 Mod1 SPR转换工具</szLongItemName>
-		<szItemDesc>将任何型号的SCAR-L转换为6.8mm Mk16 Mod1狙击型。</szItemDesc>
-		<szBRName>SCAR-L 6.8 SPR con.kit</szBRName>
-		<szBRDesc>将任何型号的SCAR-L转换为6.8mm Mk16 Mod1狙击型。</szBRDesc>
+		<szItemName>SCAR-L 6.8 Barrel</szItemName>
+		<szLongItemName>Mk16 6.8 LB枪管</szLongItemName>
+		<szItemDesc>将任何型号的6.8 SPC口径的SCAR-L转换成18英寸枪管的Mk16 Mod1长管型。</szItemDesc>
+		<szBRName>Barrel of Mk16 6.8 LB</szBRName>
+		<szBRDesc>将任何型号的6.8 SPC口径的SCAR-L转换成18英寸枪管的Mk16 Mod1长管型。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1870</uiIndex>
 		<szItemName>SCAR-WP M43 con.kit</szItemName>
-		<szLongItemName>Mk16 Mod47转换工具</szLongItemName>
-		<szItemDesc>将任何型号的SCAR-WP转换为7.62x39mm Mk16 Mod47。</szItemDesc>
-		<szBRName>SCAR-WP M43 con.kits</szBRName>
-		<szBRDesc>将任何型号的SCAR-WP转换为7.62x39mm Mk16 Mod47。</szBRDesc>
+		<szLongItemName>Mk16 Mod47转换套件</szLongItemName>
+		<szItemDesc>将任何型号的SCAR-L转换成7.62x39mm口径的Mk16 Mod47型。</szItemDesc>
+		<szBRName>con.kits of SCAR-WP M43</szBRName>
+		<szBRDesc>将任何型号的SCAR-L转换成7.62x39mm口径的Mk16 Mod47型。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1871</uiIndex>
-		<szItemName>SCAR-WP M74 con.kit</szItemName>
-		<szLongItemName>Mk16 Mod74转换工具</szLongItemName>
-		<szItemDesc>将任何型号的SCAR-WP转换为5.45x39mm Mk16 Mod74。</szItemDesc>
-		<szBRName>SCAR-WP M74 con.kits</szBRName>
-		<szBRDesc>将任何型号的SCAR-WP转换为5.45x39mm Mk16 Mod74。</szBRDesc>
+		<szItemName>FN IAR con.kit</szItemName>
+		<szLongItemName>FN IAR转换套件</szLongItemName>
+		<szItemDesc>将任何型号的SCAR-L转换成FN IAR轻机枪。</szItemDesc>
+		<szBRName>con.kits of FN IAR</szBRName>
+		<szBRDesc>将任何型号的SCAR-L转换成FN IAR轻机枪。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1872</uiIndex>
-		<szItemName>SCAR-H .300WSM con. kit</szItemName>
-		<szLongItemName>Mk17 Mod1 SPR转换工具</szLongItemName>
-		<szItemDesc>将任何型号的SCAR-H转换为18英寸枪管的.300WSM Mk17 Mod1狙击型。</szItemDesc>
-		<szBRName>con.kits of Mk17 Mod1 SPR</szBRName>
-		<szBRDesc>将任何型号的SCAR-H转换为18英寸枪管的.300WSM Mk17 Mod1狙击型。</szBRDesc>
+		<szItemName>Mk17 SSR con. kit</szItemName>
+		<szLongItemName>Mk17 SSR转换套件</szLongItemName>
+		<szItemDesc>能把任何型号的SCAR-H转换成Mk17 SSR狙击步枪。</szItemDesc>
+		<szBRName>con.kits of Mk17 SSR</szBRName>
+		<szBRDesc>能把任何型号的SCAR-H转换成Mk17 SSR狙击步枪。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1873</uiIndex>
@@ -15003,7 +15003,7 @@
 	<ITEM>
 		<uiIndex>1875</uiIndex>
 		<szItemName>Ares Shrike Upper</szItemName>
-		<szLongItemName>Ares Shrike 5.56转换工具</szLongItemName>
+		<szLongItemName>Ares Shrike 5.56转换套件</szLongItemName>
 		<szItemDesc>Ares Shrike上机匣和12英寸枪管，可将M16突击型或M4A1转换成Ares Shrike 5.56。</szItemDesc>
 		<szBRName>con.kits of Ares Shrike 5.5</szBRName>
 		<szBRDesc>Ares Shrike上机匣和12英寸枪管，可将M16突击型或M4A1转换成Ares Shrike 5.56。</szBRDesc>
@@ -15019,7 +15019,7 @@
 	<ITEM>
 		<uiIndex>1877</uiIndex>
 		<szItemName>Mk43 upgrade kit</szItemName>
-		<szLongItemName>Mk43 MOD1/60E4转换工具</szLongItemName>
+		<szLongItemName>Mk43 MOD1/60E4转换套件</szLongItemName>
 		<szItemDesc>这些M60升级组建来自SACO防御公司，让你的通用机枪更加灵活，耐久。</szItemDesc>
 		<szBRName>con.kits of Mk43 MOD1</szBRName>
 		<szBRDesc>这些M60升级组建来自SACO防御公司，让你的通用机枪更加灵活，耐久。</szBRDesc>
@@ -15027,7 +15027,7 @@
 	<ITEM>
 		<uiIndex>1878</uiIndex>
 		<szItemName>Ksp58D upgrade kit</szItemName>
-		<szLongItemName>Ksp58D转换工具</szLongItemName>
+		<szLongItemName>Ksp58D转换套件</szLongItemName>
 		<szItemDesc>瑞典FN MAG的升级组件，让你的通用机枪更灵活。</szItemDesc>
 		<szBRName>con.kits of Ksp58D</szBRName>
 		<szBRDesc>瑞典FN MAG的升级组件，让你的通用机枪更灵活。</szBRDesc>
@@ -15035,7 +15035,7 @@
 	<ITEM>
 		<uiIndex>1879</uiIndex>
 		<szItemName>Ultimax Upgrade</szItemName>
-		<szLongItemName>“无敌”机枪升级组件</szLongItemName>
+		<szLongItemName>“无敌”机枪升级套件</szLongItemName>
 		<szItemDesc>让你的无敌100 Mk3机枪升级到Mk4。集成的皮卡汀尼导轨可配先进的附件。</szItemDesc>
 		<szBRName>Ultimax Upgrade Kit</szBRName>
 		<szBRDesc>这部分组件包括皮卡汀尼导轨化的战术护木和上机匣，还有伞兵式折叠枪托。</szBRDesc>
@@ -15043,7 +15043,7 @@
 	<ITEM>
 		<uiIndex>1880</uiIndex>
 		<szItemName>M24 Upgrade Kit</szItemName>
-		<szLongItemName>M24升级组件</szLongItemName>
+		<szLongItemName>M24升级套件</szLongItemName>
 		<szItemDesc>这套组件包括改造过的装弹口，允许使用10发的弹匣；特大号的枪机柄，提高了手拉枪机的速度；最后还有结合了特制消声器的枪管。</szItemDesc>
 		<szBRName>M24 Upgrade Kit</szBRName>
 		<szBRDesc>这套组件包括改造过的装弹口，允许使用10发的弹匣；特大号的枪机柄，提高了手拉枪机的速度；最后还有结合了特制消声器的枪管。</szBRDesc>
@@ -16882,7 +16882,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2110</uiIndex>
-		<szItemName>10mm AUTO box</szItemName>
+		<szItemName>10mm AUTO HP box</szItemName>
 		<szLongItemName>10mm，150发空尖弹纸盒</szLongItemName>
 		<szItemDesc>这个纸盒包装里有150发散装10mm空尖弹。</szItemDesc>
 		<szBRName>10mm AUTO JHP box</szBRName>
@@ -16898,11 +16898,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2112</uiIndex>
-		<szItemName>10mm AUTO M box</szItemName>
-		<szLongItemName>10mm，150发比赛弹纸盒</szLongItemName>
-		<szItemDesc>这个纸盒包装里有150发散装10mm比赛弹。</szItemDesc>
-		<szBRName>10mm AUTO M box</szBRName>
-		<szBRDesc>这个纸盒包装里有150发散装10mm比赛弹。</szBRDesc>
+		<szItemName>10mm AUTO box</szItemName>
+		<szLongItemName>10mm，150发全被甲弹纸盒</szLongItemName>
+		<szItemDesc>这个纸盒包装里有150发散装10mm全被甲弹。</szItemDesc>
+		<szBRName>10mm AUTO box</szBRName>
+		<szBRDesc>这个纸盒包装里有150发散装10mm全被甲弹。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2113</uiIndex>
@@ -20199,5 +20199,669 @@
 		<szItemDesc>英军的DPM迷彩长裤。</szItemDesc>
 		<szBRName>DPM Trousers</szBRName>
 		<szBRDesc>英军的DPM迷彩长裤。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2525</uiIndex>
+		<szItemName>CL-MAG Hipbag</szItemName>
+		<szLongItemName>CL-MAG腰包</szLongItemName>
+		<szItemDesc>一个专门用来携带150发CL-Mag奶鼓的弹匣包。</szItemDesc>
+		<szBRName>CL-MAG Hipbag</szBRName>
+		<szBRDesc>一个专门用来携带150发CL-Mag奶鼓的弹匣包。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2526</uiIndex>
+		<szItemName>9x19mm Mag 32</szItemName>
+		<szLongItemName>9x19mm Mag, 32</szLongItemName>
+		<szItemDesc>装32发9x19mm的冲锋枪直弹匣。</szItemDesc>
+		<szBRName>9x19mm Mag, 32</szBRName>
+		<szBRDesc>装32发9x19mm的冲锋枪直弹匣。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2527</uiIndex>
+		<szItemName>9x19mm Mag 32 JHP</szItemName>
+		<szLongItemName>9x19mm Mag, 32 JHP</szLongItemName>
+		<szItemDesc>装32发9mm空尖弹的冲锋枪直弹匣。</szItemDesc>
+		<szBRName>9x19mm Mag, 32 JHP</szBRName>
+		<szBRDesc>装32发9mm空尖弹的冲锋枪直弹匣。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2528</uiIndex>
+		<szItemName>9x19mm Mag 32 AP</szItemName>
+		<szLongItemName>9x19mm Mag, 32 AP</szLongItemName>
+		<szItemDesc>装32发9x19mm俄罗斯7N1穿甲弹的冲锋枪直弹匣。</szItemDesc>
+		<szBRName>9x19mm Mag, 32 AP</szBRName>
+		<szBRDesc>装32发9x19mm俄罗斯7N1穿甲弹的冲锋枪直弹匣。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2529</uiIndex>
+		<szItemName>9x19mm Mag 32 T</szItemName>
+		<szLongItemName>9x19mm Mag, 32 Tracer</szLongItemName>
+		<szItemDesc>装32发9x19mm曳光弹的冲锋枪直弹匣。</szItemDesc>
+		<szBRName>9x19mm Mag, 32 Tracer</szBRName>
+		<szBRDesc>装32发9x19mm曳光弹的冲锋枪直弹匣。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2530</uiIndex>
+		<szItemName>9x19mm Mag 32 M</szItemName>
+		<szLongItemName>9x19mm Mag, 32 Match</szLongItemName>
+		<szItemDesc>装32发9x19mm比赛弹的冲锋枪直弹匣。</szItemDesc>
+		<szBRName>9x19mm Mag, 32 Match</szBRName>
+		<szBRDesc>装32发9x19mm比赛弹的冲锋枪直弹匣。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2531</uiIndex>
+		<szItemName>9x19mm Mag 32 SB</szItemName>
+		<szLongItemName>9x19mm Mag, 32 SB</szLongItemName>
+		<szItemDesc>装32发9x19mm亚音速弹的冲锋枪直弹匣。</szItemDesc>
+		<szBRName>9x19mm Mag, 32 SB</szBRName>
+		<szBRDesc>装32发9x19mm亚音速弹的冲锋枪直弹匣。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2532</uiIndex>
+		<szItemName>5.56mm CL-MAG</szItemName>
+		<szLongItemName>5.56x45mm CL-MAG</szLongItemName>
+		<szItemDesc>这个Armatac Industries公司的CL-Mag双弹鼓能容纳150发5.56口径M855普通弹。</szItemDesc>
+		<szBRName>5.56x45mm CL-MAG</szBRName>
+		<szBRDesc>这个Armatac Industries公司的CL-Mag双弹鼓能容纳150发5.56口径M855普通弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2533</uiIndex>
+		<szItemName>5.56mm CL-MAG T</szItemName>
+		<szLongItemName>5.56x45mm CL-MAG, Tracer</szLongItemName>
+		<szItemDesc>这个Armatac Industries公司的CL-Mag双弹鼓能容纳150发5.56口径M856曳光弹。</szItemDesc>
+		<szBRName>5.56x45mm CL-MAG, Tracer</szBRName>
+		<szBRDesc>这个Armatac Industries公司的CL-Mag双弹鼓能容纳150发5.56口径M856曳光弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2534</uiIndex>
+		<szItemName>5.56mm CL-MAG M</szItemName>
+		<szLongItemName>5.56x45mm CL-MAG, Mk262</szLongItemName>
+		<szItemDesc>这个Armatac Industries公司的CL-Mag双弹鼓能容纳150发5.56口径Mk262狙击弹。</szItemDesc>
+		<szBRName>5.56x45mm CL-MAG, Mk262</szBRName>
+		<szBRDesc>这个Armatac Industries公司的CL-Mag双弹鼓能容纳150发5.56口径Mk262狙击弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2535</uiIndex>
+		<szItemName>5.56mm CL-MAG SB</szItemName>
+		<szLongItemName>5.56x45mm CL-MAG, SB</szLongItemName>
+		<szItemDesc>这个Armatac Industries公司的CL-Mag双弹鼓能容纳150发5.56口径亚音速弹。</szItemDesc>
+		<szBRName>5.56x45mm CL-MAG, SB</szBRName>
+		<szBRDesc>这个Armatac Industries公司的CL-Mag双弹鼓能容纳150发5.56口径亚音速弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2536</uiIndex>
+		<szItemName>5.56mm CL-MAG HP</szItemName>
+		<szLongItemName>5.56x45mm CL-MAG, HP</szLongItemName>
+		<szItemDesc>这个Armatac Industries公司的CL-Mag双弹鼓能容纳150发5.56口径空尖弹。</szItemDesc>
+		<szBRName>5.56x45mm CL-MAG, HP</szBRName>
+		<szBRDesc>这个Armatac Industries公司的CL-Mag双弹鼓能容纳150发5.56口径空尖弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2537</uiIndex>
+		<szItemName>5.56mm CL-MAG AP</szItemName>
+		<szLongItemName>5.56x45mm CL-MAG, AP</szLongItemName>
+		<szItemDesc>这个Armatac Industries公司的CL-Mag双弹鼓能容纳150发5.56口径M995穿甲弹。</szItemDesc>
+		<szBRName>5.56x45mm CL-MAG, AP</szBRName>
+		<szBRDesc>这个Armatac Industries公司的CL-Mag双弹鼓能容纳150发5.56口径M995穿甲弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2538</uiIndex>
+		<szItemName>7.62x51mm Hi-Belt</szItemName>
+		<szLongItemName>7.62x51mm Hi-Belt</szLongItemName>
+		<szItemDesc>一条200发7.62mm北约标准弹弹链。</szItemDesc>
+		<szBRName>7.62x51mm Hi-Belt</szBRName>
+		<szBRDesc>一条200发7.62mm北约标准弹弹链。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2539</uiIndex>
+		<szItemName>7.62x51mm Hi-Belt T</szItemName>
+		<szLongItemName>7.62x51mm Hi-Belt, Tracer</szLongItemName>
+		<szItemDesc>一条200发7.62mm北约标准口径曳光弹弹链。</szItemDesc>
+		<szBRName>7.62x51mm Hi-Belt Tracer</szBRName>
+		<szBRDesc>一条200发7.62mm北约标准口径曳光弹弹链。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2540</uiIndex>
+		<szItemName>7.62x51mm Hi-Belt M</szItemName>
+		<szLongItemName>7.62x51mm Hi-Belt, M118L</szLongItemName>
+		<szItemDesc>一条200发7.62mm M118L狙击弹弹链。</szItemDesc>
+		<szBRName>7.62x51mm Hi-Belt M118L</szBRName>
+		<szBRDesc>一条200发7.62mm M118L狙击弹弹链。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2541</uiIndex>
+		<szItemName>7.62x51mm Hi-Belt SB</szItemName>
+		<szLongItemName>7.62x51mm Hi-Belt, SB</szLongItemName>
+		<szItemDesc>一条200发7.62mm北约标准口径亚音弹弹链。</szItemDesc>
+		<szBRName>7.62x51mm Hi-Belt SB</szBRName>
+		<szBRDesc>一条200发7.62mm北约标准口径亚音弹弹链。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2542</uiIndex>
+		<szItemName>7.62x51mm Hi-Belt HP</szItemName>
+		<szLongItemName>7.62x51mm Hi-Belt, HP</szLongItemName>
+		<szItemDesc>一条200发7.62mm北约标准口径空尖弹弹链。</szItemDesc>
+		<szBRName>7.62x51mm Hi-Belt HP</szBRName>
+		<szBRDesc>一条200发7.62mm北约标准口径空尖弹弹链。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2543</uiIndex>
+		<szItemName>7.62x51mm Hi-Belt AP</szItemName>
+		<szLongItemName>7.62x51mm Hi-Belt AP</szLongItemName>
+		<szItemDesc>一条200发7.62mm北约标准口径M955穿甲弹弹链。</szItemDesc>
+		<szBRName>7.62x51mm Hi-Belt AP</szBRName>
+		<szBRDesc>一条200发7.62mm北约标准口径M955穿甲弹弹链。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2544</uiIndex>
+		<szItemName>5.56mm Mag 20 SOST</szItemName>
+		<szLongItemName>5.56x45mm Mag, 20 SOST</szLongItemName>
+		<szItemDesc>这个弹匣装着20发5.56mm口径Mk318 MOD SOST特种近程弹。</szItemDesc>
+		<szBRName>5.56x45mm Mag 20 SOST</szBRName>
+		<szBRDesc>这个弹匣装着20发5.56mm口径Mk318 MOD SOST特种近程弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2545</uiIndex>
+		<szItemName>5.56mm Mag 30 SOST</szItemName>
+		<szLongItemName>5.56x45mm Mag, 30 SOST</szLongItemName>
+		<szItemDesc>这个弹匣装着30发5.56mm口径Mk318 MOD SOST特种近程弹。</szItemDesc>
+		<szBRName>5.56x45mm Mag 30 SOST</szBRName>
+		<szBRDesc>这个弹匣装着30发5.56mm口径Mk318 MOD SOST特种近程弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2546</uiIndex>
+		<szItemName>5.56mm Mag 35 SOST</szItemName>
+		<szLongItemName>5.56x45mm Mag, 35 SOST</szLongItemName>
+		<szItemDesc>这个弹匣装着35发5.56mm口径Mk318 MOD SOST特种近程弹。</szItemDesc>
+		<szBRName>5.56x45mm Mag 35 SOST</szBRName>
+		<szBRDesc>这个弹匣装着35发5.56mm口径Mk318 MOD SOST特种近程弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2547</uiIndex>
+		<szItemName>5.56mm Mag 42 SOST</szItemName>
+		<szLongItemName>5.56x45mm Mag, 42 SOST</szLongItemName>
+		<szItemDesc>这个弹匣装着42发5.56mm口径Mk318 MOD SOST特种近程弹。</szItemDesc>
+		<szBRName>5.56x45mm Mag 42 SOST</szBRName>
+		<szBRDesc>这个弹匣装着42发5.56mm口径Mk318 MOD SOST特种近程弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2548</uiIndex>
+		<szItemName>5.56mm AK-Drum SOST</szItemName>
+		<szLongItemName>5.56mm AK-Drum, SOST</szLongItemName>
+		<szItemDesc>这个AK弹鼓装着75发5.56mm口径Mk318 MOD SOST特种近程弹。</szItemDesc>
+		<szBRName>5.56mm AK-Drum SOST</szBRName>
+		<szBRDesc>这个AK弹鼓装着75发5.56mm口径Mk318 MOD SOST特种近程弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2549</uiIndex>
+		<szItemName>5.56mm C-Mag SOST</szItemName>
+		<szLongItemName>5.56x45mm C-Mag, SOST</szLongItemName>
+		<szItemDesc>这个Beta C-MAG双弹鼓装着100发5.56mm口径Mk318 MOD SOST特种近程弹。</szItemDesc>
+		<szBRName>5.56x45mm C-Mag SOST</szBRName>
+		<szBRDesc>这个Beta C-MAG双弹鼓装着100发5.56mm口径Mk318 MOD SOST特种近程弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2550</uiIndex>
+		<szItemName>5.56mm CL-MAG SOST</szItemName>
+		<szLongItemName>5.56x45mm CL-MAG, SOST</szLongItemName>
+		<szItemDesc>这个 Armatac Industries公司的CL-MAG双弹鼓装着150发5.56mm口径Mk318 MOD SOST特种近程弹。</szItemDesc>
+		<szBRName>5.56x45mm CL-Mag SOST</szBRName>
+		<szBRDesc>这个 Armatac Industries公司的CL-MAG双弹鼓装着150发5.56mm口径Mk318 MOD SOST特种近程弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2551</uiIndex>
+		<szItemName>5.56mm Belt SOST</szItemName>
+		<szLongItemName>5.56x45mm Belt, SOST</szLongItemName>
+		<szItemDesc>一条200发5.56mm Mk318 MOD 0特种近程弹弹链。</szItemDesc>
+		<szBRName>5.56x45mm Belt SOST</szBRName>
+		<szBRDesc>一条200发5.56mm Mk318 MOD 0特种近程弹弹链。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2552</uiIndex>
+		<szItemName>5.56mm crate SOST</szItemName>
+		<szLongItemName>5.56x45mm ammo crate, SOST</szLongItemName>
+		<szItemDesc>1000发5.56mm Mk318 MOD 0特种近程弹的弹药箱。</szItemDesc>
+		<szBRName>5.56x45 ammo crate SOST</szBRName>
+		<szBRDesc>1000发5.56mm Mk318 MOD 0特种近程弹（SOST）的弹药箱。SOST弹是专门设计用于SCAR-L、Mk18等短枪管突击步枪，它的比赛弹弹头采用接近空尖弹的原理，有更强的杀伤效果，但穿透力不会降低太多。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2553</uiIndex>
+		<szItemName>7.62x51mm 5 SOST</szItemName>
+		<szLongItemName>7.62x51mm Mag, 5 SOST</szLongItemName>
+		<szItemDesc>5发7.62x51mm口径Mk319 MOD 0特种近程弹。</szItemDesc>
+		<szBRName>7.62x51mm 5 SOST</szBRName>
+		<szBRDesc>5发7.62x51mm口径Mk319 MOD 0特种近程弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2554</uiIndex>
+		<szItemName>7.62x51mm 10 SOST</szItemName>
+		<szLongItemName>7.62x51mm Mag, 10 SOST</szLongItemName>
+		<szItemDesc>10发7.62x51mm口径Mk319 MOD 0特种近程弹。</szItemDesc>
+		<szBRName>7.62x51mm 10 SOST</szBRName>
+		<szBRDesc>10发7.62x51mm口径Mk319 MOD 0特种近程弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2555</uiIndex>
+		<szItemName>7.62x51mm 20 SOST</szItemName>
+		<szLongItemName>7.62x51mm Mag, 20 SOST</szLongItemName>
+		<szItemDesc>20发7.62x51mm口径Mk319 MOD 0特种近程弹。</szItemDesc>
+		<szBRName>7.62x51mm 20 SOST</szBRName>
+		<szBRDesc>20发7.62x51mm口径Mk319 MOD 0特种近程弹。.</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2556</uiIndex>
+		<szItemName>7.62x51mm 25 SOST</szItemName>
+		<szLongItemName>7.62x51mm Mag, 25 SOST</szLongItemName>
+		<szItemDesc>25发7.62x51mm口径Mk319 MOD 0特种近程弹。</szItemDesc>
+		<szBRName>7.62x51mm 25 SOST</szBRName>
+		<szBRDesc>25发7.62x51mm口径Mk319 MOD 0特种近程弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2557</uiIndex>
+		<szItemName>7.62x51mm Hi-Mag SOST</szItemName>
+		<szLongItemName>7.62x51mm Hi-Mag, 30 SOST</szLongItemName>
+		<szItemDesc>30发7.62x51mm口径Mk319 MOD 0特种近程弹。</szItemDesc>
+		<szBRName>7.62x51mm Hi-Mag SOST</szBRName>
+		<szBRDesc>30发7.62x51mm口径Mk319 MOD 0特种近程弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2558</uiIndex>
+		<szItemName>7.62x51mm C-MAG SOST</szItemName>
+		<szLongItemName>7.62x51mm C-MAG, SOST</szLongItemName>
+		<szItemDesc>99发7.62x51mm口径Mk319 MOD 0特种近程弹。</szItemDesc>
+		<szBRName>7.62x51mm C-MAG SOST</szBRName>
+		<szBRDesc>99发7.62x51mm口径Mk319 MOD 0特种近程弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2559</uiIndex>
+		<szItemName>7.62x51mm Belt SOST</szItemName>
+		<szLongItemName>7.62x51mm弹链, SOST</szLongItemName>
+		<szItemDesc>100发7.62x51mm口径Mk319 MOD 0特种近程弹。</szItemDesc>
+		<szBRName>7.62x51mm Belt SOST</szBRName>
+		<szBRDesc>100发7.62x51mm口径Mk319 MOD 0特种近程弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2560</uiIndex>
+		<szItemName>7.62x51mm Hi-Belt SOST</szItemName>
+		<szLongItemName>7.62x51mm长弹链, SOST</szLongItemName>
+		<szItemDesc>200发7.62x51mm口径Mk319 MOD 0特种近程弹。</szItemDesc>
+		<szBRName>7.62x51mm Hi-Belt SOST</szBRName>
+		<szBRDesc>200发7.62x51mm口径Mk319 MOD 0特种近程弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2561</uiIndex>
+		<szItemName>7.62NATO crate SOST</szItemName>
+		<szLongItemName>7.62x51mm弹药箱, SOST</szLongItemName>
+		<szItemDesc>500发装在弹药箱里的7.62x51mm口径Mk319 MOD 0特种近程弹。</szItemDesc>
+		<szBRName>7.62x51 ammo crate SOST</szBRName>
+		<szBRDesc>500发装在弹药箱里的7.62x51mm口径Mk319 MOD 0特种近程弹。SOST弹是专门设计用于SCAR-H、Mk14等短枪管突击步枪，它的比赛弹弹头采用接近空尖弹的原理，有更强的杀伤效果，但穿透力不会降低太多。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2562</uiIndex>
+		<szItemName>.338 LM 5 HBPT</szItemName>
+		<szLongItemName>.338 Lapua Magnum Mag, 5尾锥空尖弹</szLongItemName>
+		<szItemDesc>5发.338拉普阿-马格努姆口径的尾锥空尖比赛弹。</szItemDesc>
+		<szBRName>.338 Lapua Magnum Mag, 5 HBPT</szBRName>
+		<szBRDesc>5发.338拉普阿-马格努姆口径的尾锥空尖比赛弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2563</uiIndex>
+		<szItemName>.338 LM 10 HBPT</szItemName>
+		<szLongItemName>.338 Lapua Magnum Mag, 10尾锥空尖弹</szLongItemName>
+		<szItemDesc>10发.338拉普阿-马格努姆口径的尾锥空尖比赛弹。</szItemDesc>
+		<szBRName>.338 Lapua Magnum Mag, 10 HBPT</szBRName>
+		<szBRDesc>10发.338拉普阿-马格努姆口径的尾锥空尖比赛弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2564</uiIndex>
+		<szItemName>.338 LM box HBPT</szItemName>
+		<szLongItemName>.338 Lapua Magnum HBPT弹药盒</szLongItemName>
+		<szItemDesc>50发装在弹药盒里的.338拉普阿-马格努姆口径的尾锥空尖比赛弹。</szItemDesc>
+		<szBRName>.338 Lap Mag box HBPT</szBRName>
+		<szBRDesc>50 rounds of .338拉普阿-马格努姆口径的尾锥空尖比赛弹</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2565</uiIndex>
+		<szItemName>7.92x57mm 5 H</szItemName>
+		<szLongItemName>7.92x57mm Mauser, 5发狩猎弹</szLongItemName>
+		<szItemDesc>5发用于狩猎的7.92x57mm毛瑟式软尖弹。</szItemDesc>
+		<szBRName>7.92x57mm 5 Hunting</szBRName>
+		<szBRDesc>5发用于狩猎的7.92x57mm毛瑟式软尖弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2566</uiIndex>
+		<szItemName>7.92x57mm 10 H</szItemName>
+		<szLongItemName>7.92x57mm Mauser, 10发狩猎弹</szLongItemName>
+		<szItemDesc>10发用于狩猎的7.92x57mm毛瑟式软尖弹。</szItemDesc>
+		<szBRName>7.92x57mm 10 Hunting</szBRName>
+		<szBRDesc>10发用于狩猎的7.92x57mm毛瑟式软尖弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2567</uiIndex>
+		<szItemName>7.92x57mm 20 H</szItemName>
+		<szLongItemName>7.92x57mm Mauser, 20发狩猎弹</szLongItemName>
+		<szItemDesc>20发用于狩猎的7.92x57mm毛瑟式软尖弹。</szItemDesc>
+		<szBRName>7.92x57mm 20 Hunting</szBRName>
+		<szBRDesc>20发用于狩猎的7.92x57mm毛瑟式软尖弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2568</uiIndex>
+		<szItemName>7.92x57mm 25 H</szItemName>
+		<szLongItemName>7.92x57mm Mauser, 25发狩猎弹</szLongItemName>
+		<szItemDesc>25发用于狩猎的7.92x57mm毛瑟式软尖弹。</szItemDesc>
+		<szBRName>7.92x57mm 25 Hunting</szBRName>
+		<szBRDesc>25发用于狩猎的7.92x57mm毛瑟式软尖弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2569</uiIndex>
+		<szItemName>7.92x57mm Belt H</szItemName>
+		<szLongItemName>7.92x57mm Mauser,狩猎弹弹链</szLongItemName>
+		<szItemDesc>50发用于狩猎的7.92x57mm毛瑟式软尖弹。</szItemDesc>
+		<szBRName>7.92x57mm Belt Hunting</szBRName>
+		<szBRDesc>50发用于狩猎的7.92x57mm毛瑟式软尖弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2570</uiIndex>
+		<szItemName>7.92x57mm crate H</szItemName>
+		<szLongItemName>7.92x57mm狩猎弹弹药箱</szLongItemName>
+		<szItemDesc>装在弹药箱里的500发7.92x57mm毛瑟式软尖弹，这种狩猎弹比剩余军用物资弹打得更准。</szItemDesc>
+		<szBRName>7.92x57mm crate Hunting</szBRName>
+		<szBRDesc>装在弹药箱里的500发7.92x57mm毛瑟式软尖弹，这种狩猎弹比剩余军用物资弹打得更准。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2571</uiIndex>
+		<szItemName>.303 Clip 5 M</szItemName>
+		<szLongItemName>.303 British桥夹, 5发比赛弹</szLongItemName>
+		<szItemDesc>5发.303口径低阻比赛弹。</szItemDesc>
+		<szBRName>.303 British Clip 5 Match</szBRName>
+		<szBRDesc>5发.303口径低阻比赛弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2572</uiIndex>
+		<szItemName>.303 Clip 10 M</szItemName>
+		<szLongItemName>.303 British桥夹, 10发比赛弹</szLongItemName>
+		<szItemDesc>10发.303口径低阻比赛弹。</szItemDesc>
+		<szBRName>.303 British Clip 10 Match</szBRName>
+		<szBRDesc>10发.303口径低阻比赛弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2573</uiIndex>
+		<szItemName>.303 Clip 20 M</szItemName>
+		<szLongItemName>.303 British桥夹, 20发比赛弹</szLongItemName>
+		<szItemDesc>20发.303口径低阻比赛弹。</szItemDesc>
+		<szBRName>.303 British Clip 20 Match</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2574</uiIndex>
+		<szItemName>.303 Mag 30 M</szItemName>
+		<szLongItemName>布伦弹匣, 30发比赛弹</szLongItemName>
+		<szItemDesc>30发.303口径低阻比赛弹。</szItemDesc>
+		<szBRName>Bren Magazine 30 Match</szBRName>
+		<szBRDesc>30发.303口径低阻比赛弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2575</uiIndex>
+		<szItemName>.303 Drum 97 M</szItemName>
+		<szLongItemName>刘易斯弹鼓, 97发比赛弹</szLongItemName>
+		<szItemDesc>97发.303口径低阻比赛弹。</szItemDesc>
+		<szBRName>.303 Lewis Drum 97 Match</szBRName>
+		<szBRDesc>97发.303口径低阻比赛弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2576</uiIndex>
+		<szItemName>.303 crate M</szItemName>
+		<szLongItemName>.303 British比赛弹弹药箱</szLongItemName>
+		<szItemDesc>500发装在弹药箱里的.303口径低阻比赛弹。</szItemDesc>
+		<szBRName>.303 British crate Match</szBRName>
+		<szBRDesc>500发装在弹药箱里的.303口径低阻比赛弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2577</uiIndex>
+		<szItemName>7.5x54mm 5 SP</szItemName>
+		<szLongItemName>7.5x54mm桥夹, 5发软尖弹</szLongItemName>
+		<szItemDesc>5发7.5x54mm口径比赛级软尖弹。</szItemDesc>
+		<szBRName>7.5x54mm 5 SP</szBRName>
+		<szBRDesc>5发7.5x54mm口径比赛级软尖弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2578</uiIndex>
+		<szItemName>7.5x54mm 10 SP</szItemName>
+		<szLongItemName>7.5x54mm弹匣, 10发软尖弹</szLongItemName>
+		<szItemDesc>10发7.5x54mm口径比赛级软尖弹。</szItemDesc>
+		<szBRName>7.5x54mm 10 SP</szBRName>
+		<szBRDesc>10发7.5x54mm口径比赛级软尖弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2579</uiIndex>
+		<szItemName>7.5x54mm 25 SP</szItemName>
+		<szLongItemName>7.5x54mm弹匣, 25发软尖弹</szLongItemName>
+		<szItemDesc>25发7.5x54mm口径软尖弹。</szItemDesc>
+		<szBRName>7.5x54mm 25 SP</szBRName>
+		<szBRDesc>25发7.5x54mm口径软尖弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2580</uiIndex>
+		<szItemName>7.5x54mm 100 SP</szItemName>
+		<szLongItemName>7.5x54mm弹链, 100发软尖弹</szLongItemName>
+		<szItemDesc>100发7.5x54mm口径软尖弹。</szItemDesc>
+		<szBRName>7.5x54mm 100 SP</szBRName>
+		<szBRDesc>100发7.5x54mm口径软尖弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2581</uiIndex>
+		<szItemName>7.5x54mm crate SP</szItemName>
+		<szLongItemName>7.5x54mm弹药箱, 软尖弹</szLongItemName>
+		<szItemDesc>500发装在弹药箱里的7.5x54mm口径软尖弹。</szItemDesc>
+		<szBRName>7.5x54 ammo crate SP</szBRName>
+		<szBRDesc>500发装在弹药箱里的7.5x54mm口径软尖弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2582</uiIndex>
+		<szItemName>7.5mm GP11 Clip SP</szItemName>
+		<szLongItemName>7.5mm GP11桥夹, 软尖弹</szLongItemName>
+		<szItemDesc>6发7.5x55mm GP11软尖比赛弹。</szItemDesc>
+		<szBRName>7.5mm GP11 Clip, SP</szBRName>
+		<szBRDesc>6发7.5x55mm GP11软尖比赛弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2583</uiIndex>
+		<szItemName>7.5mm GP11 Mag SP</szItemName>
+		<szLongItemName>7.5mm GP11弹匣, 软尖弹</szLongItemName>
+		<szItemDesc>24发7.5x55mm GP11软尖比赛弹。</szItemDesc>
+		<szBRName>7.5mm GP11 Mag, SP</szBRName>
+		<szBRDesc>24发7.5x55mm GP11软尖比赛弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2584</uiIndex>
+		<szItemName>7.5mm GP11 crate SP</szItemName>
+		<szLongItemName>7.5mm GP11弹药箱, 软尖弹</szLongItemName>
+		<szItemDesc>500发装在弹药箱里的7.5x55mm GP11软尖比赛弹。</szItemDesc>
+		<szBRName>7.5mm GP11 crate, SP</szBRName>
+		<szBRDesc>500发装在弹药箱里的7.5x55mm GP11软尖比赛弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2585</uiIndex>
+		<szItemName>7.92x57mm Hi-Belt</szItemName>
+		<szLongItemName>7.92x57mm毛瑟弹长弹链</szLongItemName>
+		<szItemDesc>250发7.92x57mm毛瑟弹，用于固定射击的MG42。</szItemDesc>
+		<szBRName>7.92x57mm Hi-Belt</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2586</uiIndex>
+		<szItemName>7.92x57mm Hi-Belt APT</szItemName>
+		<szLongItemName>7.92x57mm毛瑟, 穿甲曳光弹长弹链</szLongItemName>
+		<szItemDesc>250发7.92x57mm S.m.K.L.穿甲曳光弹。</szItemDesc>
+		<szBRName>7.92x57mm Hi-Belt APT</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2587</uiIndex>
+		<szItemName>7.92x57mm Hi-Belt H</szItemName>
+		<szLongItemName>7.92x57mm毛瑟, 狩猎弹长弹链</szLongItemName>
+		<szItemDesc>250发7.92x57mm软尖弹。</szItemDesc>
+		<szBRName>7.92x57mm Hi-Belt Hunting</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2588</uiIndex>
+		<szItemName>7.62x54R Hi-Belt</szItemName>
+		<szLongItemName>7.62x54R Hi-Belt</szLongItemName>
+		<szItemDesc>250发7.62x54R普通弹长弹链。</szItemDesc>
+		<szBRName>7.62x54R Hi-Belt</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2589</uiIndex>
+		<szItemName>7.62x54R Hi-Belt T</szItemName>
+		<szLongItemName>7.62x54R Hi-Belt, Tracer</szLongItemName>
+		<szItemDesc>250发7.62x54R曳光弹长弹链。</szItemDesc>
+		<szBRName>7.62x54R Hi-Belt Tracer</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2590</uiIndex>
+		<szItemName>7.62x54R Hi-Belt M</szItemName>
+		<szLongItemName>7.62x54R Hi-Belt Match</szLongItemName>
+		<szItemDesc>250发7.62x54R比赛弹长弹链。</szItemDesc>
+		<szBRName>7.62x54R Hi-Belt Match</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2591</uiIndex>
+		<szItemName>7.62x54R Hi-Belt AP</szItemName>
+		<szLongItemName>7.62x54R Hi-Belt AP</szLongItemName>
+		<szItemDesc>250发7.62x54R穿甲弹长弹链。</szItemDesc>
+		<szBRName>7.62x54R Hi-Belt AP</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2592</uiIndex>
+		<szItemName>7.62x54R Hi-Belt H</szItemName>
+		<szLongItemName>7.62x54R Hi-Belt Hunting</szLongItemName>
+		<szItemDesc>250发7.62x54R软尖狩猎弹长弹链。.</szItemDesc>
+		<szBRName>7.62x54R Hi-Belt Hunting</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2593</uiIndex>
+		<szItemName>5.56mm CL-MAG适配器</szItemName>
+		<szLongItemName>5.56mm CL-MAG适配器</szLongItemName>
+		<szItemDesc>这种特殊的适配器可以安装在4179标准弹匣的武器上，使它们可以使用150发的CL-Mag弹鼓。</szItemDesc>
+		<szBRName>5.56mm CL-MAG Adapter</szBRName>
+		<szBRDesc>这种特殊的适配器可以安装在4179标准弹匣的武器上，使它们可以使用150发的CL-Mag弹鼓。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2594</uiIndex>
+		<szItemName>MAG三脚架</szItemName>
+		<szLongItemName>MAG三脚架</szLongItemName>
+		<szItemDesc>M192轻型三脚架可用于北约的大多数通用机枪，例如FN MAG/M240或M60，附带一个200发弹链箱。</szItemDesc>
+		<szBRName>MAG Tripod</szBRName>
+		<szBRDesc>M192轻型三脚架可用于北约的大多数通用机枪，例如FN MAG/M240或M60，附带一个200发弹链箱。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2595</uiIndex>
+		<szItemName>PKM三脚架</szItemName>
+		<szLongItemName>PKM三脚架</szLongItemName>
+		<szItemDesc>用于PKM等俄国通用机枪的三脚架，附带一个250发弹链箱。</szItemDesc>
+		<szBRName>PKM Tripod</szBRName>
+		<szBRDesc>用于PKM等俄国通用机枪的三脚架，附带一个250发弹链箱。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2596</uiIndex>
+		<szItemName>MG42三脚架</szItemName>
+		<szLongItemName>MG42三脚架</szLongItemName>
+		<szItemDesc>用于MG34或MG42的德国通用机枪三脚架，附带一个250发弹链箱。</szItemDesc>
+		<szBRName>MG42 Tripod</szBRName>
+		<szBRDesc>用于MG34或MG42的德国通用机枪三脚架，附带一个250发弹链箱。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2597</uiIndex>
+		<szItemName>重机枪三脚架</szItemName>
+		<szLongItemName>重机枪三脚架</szLongItemName>
+		<szItemDesc>重机枪三脚架，让你的12.7重机枪打得更远得稳。</szItemDesc>
+		<szBRName>Lightweight HMG Tripod</szBRName>
+		<szBRDesc>重机枪三脚架，让你的12.7重机枪打得更远得稳。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2598</uiIndex>
+		<szItemName>SR 5.8</szItemName>
+		<szLongItemName>SR 5.8</szLongItemName>
+		<szItemDesc>中国最新的5.8mm口径手动狙击步枪，以外贸名义研制，实际上是自用。</szItemDesc>
+		<szBRName>SR 5.8</szBRName>
+		<szBRDesc>中国最新的5.8mm口径手动狙击步枪，以外贸名义研制，实际上是自用。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2599</uiIndex>
+		<szItemName>SCAR-L con. kit</szItemName>
+		<szLongItemName>Mk16 Mod0 STD转换套件</szLongItemName>
+		<szItemDesc>将任何型号SCAR-L转换成14英寸枪管的5.56mm Mk16 Mod0标准型。</szItemDesc>
+		<szBRName>con.kits of Mk16 Mod0 STD</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2600</uiIndex>
+		<szItemName>SCAR-L con. kit</szItemName>
+		<szLongItemName>Mk16 Mod0 CQC转换套件</szLongItemName>
+		<szItemDesc>将任何型号SCAR-L转换成10英寸枪管的5.56mm Mk16 Mod0近战型。</szItemDesc>
+		<szBRName>con.kits of Mk16 Mod0 CQC</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2601</uiIndex>
+		<szItemName>SCAR-L con. kit</szItemName>
+		<szLongItemName>Mk16 Mod0 LB转换套件</szLongItemName>
+		<szItemDesc>将任何型号SCAR-L转换成18英寸枪管的5.56mm Mk16 Mod0长管型。</szItemDesc>
+		<szBRName>con.kits of Mk16 Mod0 LB</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2602</uiIndex>
+		<szItemName>SCAR-H con. kit</szItemName>
+		<szLongItemName>Mk17 Mod0 STD转换套件</szLongItemName>
+		<szItemDesc>将任何型号SCAR-H转换成16英寸枪管的Mk17 Mod0标准型。</szItemDesc>
+		<szBRName>con.kits of Mk17 Mod0 STD</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2603</uiIndex>
+		<szItemName>SCAR-H con. kit</szItemName>
+		<szLongItemName>Mk17 Mod0 CQC转换套件</szLongItemName>
+		<szItemDesc>将任何型号SCAR-H转换成13英寸枪管的Mk17 Mod0近战型。</szItemDesc>
+		<szBRName>con.kits of Mk17 Mod0 CQC</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2604</uiIndex>
+		<szItemName>SCAR-H con. kit</szItemName>
+		<szLongItemName>Mk17 Mod0 LB转换套件</szLongItemName>
+		<szItemDesc>将任何型号SCAR-H转换成20英寸枪管的Mk17 Mod0长管型。</szItemDesc>
+		<szBRName>con.kits of Mk17 Mod0 LB</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2605</uiIndex>
+		<szItemName>SCAR-L 6.8 con. kit</szItemName>
+		<szLongItemName>Mk16 Mod1 STD转换套件</szLongItemName>
+		<szItemDesc>将任何型号SCAR-L转换成14英寸枪管的6.8 SPC口径Mk16 Mod1标准型。</szItemDesc>
+		<szBRName>SCAR-L 6.8 STD con.kit</szBRName>
+		<szBRDesc>将任何型号SCAR-L转换成14英寸枪管的6.8 SPC口径Mk16 Mod1标准型。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2606</uiIndex>
+		<szItemName>SCAR-L 6.8 con. kit</szItemName>
+		<szLongItemName>Mk16 Mod1 CQC转换套件</szLongItemName>
+		<szItemDesc>将任何型号SCAR-L转换成10英寸枪管的6.8 SPC口径Mk16 Mod1近战型。</szItemDesc>
+		<szBRName>SCAR-L 6.8 CQC con.kit</szBRName>
+		<szBRDesc>将任何型号SCAR-L转换成10英寸枪管的6.8 SPC口径Mk16 Mod1近战型。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2607</uiIndex>
+		<szItemName>SCAR-L 6.8 con.kit</szItemName>
+		<szLongItemName>Mk16 Mod1 LB转换套件</szLongItemName>
+		<szItemDesc>将任何型号SCAR-L转换成18英寸枪管的6.8 SPC口径Mk16 Mod1长管型。</szItemDesc>
+		<szBRName>SCAR-L 6.8 LB con.kit</szBRName>
+		<szBRDesc>将任何型号SCAR-L转换成18英寸枪管的6.8 SPC口径Mk16 Mod1长管型。</szBRDesc>
 	</ITEM>
 </ITEMLIST>
