@@ -262,11 +262,6 @@
 	</ATTACHMENT>
 	<ATTACHMENT>
 		<attachmentIndex>183</attachmentIndex>
-		<itemIndex>840</itemIndex>
-		<APCost>35</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>183</attachmentIndex>
 		<itemIndex>883</itemIndex>
 		<APCost>35</APCost>
 	</ATTACHMENT>
@@ -10117,11 +10112,6 @@
 	</ATTACHMENT>
 	<ATTACHMENT>
 		<attachmentIndex>837</attachmentIndex>
-		<itemIndex>840</itemIndex>
-		<APCost>35</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>837</attachmentIndex>
 		<itemIndex>1726</itemIndex>
 		<APCost>35</APCost>
 	</ATTACHMENT>
@@ -10482,11 +10472,6 @@
 	</ATTACHMENT>
 	<ATTACHMENT>
 		<attachmentIndex>875</attachmentIndex>
-		<itemIndex>840</itemIndex>
-		<APCost>35</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>875</attachmentIndex>
 		<itemIndex>883</itemIndex>
 		<APCost>35</APCost>
 	</ATTACHMENT>
@@ -10728,11 +10713,6 @@
 	<ATTACHMENT>
 		<attachmentIndex>876</attachmentIndex>
 		<itemIndex>836</itemIndex>
-		<APCost>60</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>876</attachmentIndex>
-		<itemIndex>840</itemIndex>
 		<APCost>60</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
@@ -18477,11 +18457,6 @@
 	</ATTACHMENT>
 	<ATTACHMENT>
 		<attachmentIndex>999</attachmentIndex>
-		<itemIndex>840</itemIndex>
-		<APCost>12</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>999</attachmentIndex>
 		<itemIndex>943</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -18824,11 +18799,6 @@
 		<attachmentIndex>1000</attachmentIndex>
 		<itemIndex>785</itemIndex>
 		<APCost>50</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>1000</attachmentIndex>
-		<itemIndex>840</itemIndex>
-		<APCost>12</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
 		<attachmentIndex>1000</attachmentIndex>
@@ -42997,11 +42967,6 @@
 	</ATTACHMENT>
 	<ATTACHMENT>
 		<attachmentIndex>1752</attachmentIndex>
-		<itemIndex>840</itemIndex>
-		<APCost>35</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>1752</attachmentIndex>
 		<itemIndex>883</itemIndex>
 		<APCost>35</APCost>
 	</ATTACHMENT>
@@ -43243,11 +43208,6 @@
 	<ATTACHMENT>
 		<attachmentIndex>1753</attachmentIndex>
 		<itemIndex>836</itemIndex>
-		<APCost>60</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>1753</attachmentIndex>
-		<itemIndex>840</itemIndex>
 		<APCost>60</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
@@ -43497,11 +43457,6 @@
 	</ATTACHMENT>
 	<ATTACHMENT>
 		<attachmentIndex>1763</attachmentIndex>
-		<itemIndex>840</itemIndex>
-		<APCost>60</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>1763</attachmentIndex>
 		<itemIndex>883</itemIndex>
 		<APCost>60</APCost>
 	</ATTACHMENT>
@@ -43743,11 +43698,6 @@
 	<ATTACHMENT>
 		<attachmentIndex>1764</attachmentIndex>
 		<itemIndex>836</itemIndex>
-		<APCost>60</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>1764</attachmentIndex>
-		<itemIndex>840</itemIndex>
 		<APCost>60</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
@@ -54042,11 +53992,6 @@
 	</ATTACHMENT>
 	<ATTACHMENT>
 		<attachmentIndex>1814</attachmentIndex>
-		<itemIndex>840</itemIndex>
-		<APCost>12</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>1814</attachmentIndex>
 		<itemIndex>931</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -56007,87 +55952,7 @@
 	</ATTACHMENT>
 	<ATTACHMENT>
 		<attachmentIndex>1818</attachmentIndex>
-		<itemIndex>25</itemIndex>
-		<APCost>50</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>1818</attachmentIndex>
-		<itemIndex>26</itemIndex>
-		<APCost>50</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>1818</attachmentIndex>
-		<itemIndex>35</itemIndex>
-		<APCost>50</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>1818</attachmentIndex>
 		<itemIndex>333</itemIndex>
-		<APCost>50</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>1818</attachmentIndex>
-		<itemIndex>347</itemIndex>
-		<APCost>50</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>1818</attachmentIndex>
-		<itemIndex>602</itemIndex>
-		<APCost>50</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>1818</attachmentIndex>
-		<itemIndex>603</itemIndex>
-		<APCost>50</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>1818</attachmentIndex>
-		<itemIndex>606</itemIndex>
-		<APCost>50</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>1818</attachmentIndex>
-		<itemIndex>607</itemIndex>
-		<APCost>50</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>1818</attachmentIndex>
-		<itemIndex>610</itemIndex>
-		<APCost>50</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>1818</attachmentIndex>
-		<itemIndex>611</itemIndex>
-		<APCost>50</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>1818</attachmentIndex>
-		<itemIndex>612</itemIndex>
-		<APCost>50</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>1818</attachmentIndex>
-		<itemIndex>613</itemIndex>
-		<APCost>50</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>1818</attachmentIndex>
-		<itemIndex>614</itemIndex>
-		<APCost>50</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>1818</attachmentIndex>
-		<itemIndex>615</itemIndex>
-		<APCost>50</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>1818</attachmentIndex>
-		<itemIndex>616</itemIndex>
-		<APCost>50</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>1818</attachmentIndex>
-		<itemIndex>617</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
@@ -56107,16 +55972,6 @@
 	</ATTACHMENT>
 	<ATTACHMENT>
 		<attachmentIndex>1818</attachmentIndex>
-		<itemIndex>706</itemIndex>
-		<APCost>50</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>1818</attachmentIndex>
-		<itemIndex>708</itemIndex>
-		<APCost>50</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>1818</attachmentIndex>
 		<itemIndex>734</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -56132,47 +55987,7 @@
 	</ATTACHMENT>
 	<ATTACHMENT>
 		<attachmentIndex>1818</attachmentIndex>
-		<itemIndex>785</itemIndex>
-		<APCost>50</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>1818</attachmentIndex>
-		<itemIndex>840</itemIndex>
-		<APCost>12</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>1818</attachmentIndex>
 		<itemIndex>1076</itemIndex>
-		<APCost>50</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>1818</attachmentIndex>
-		<itemIndex>1100</itemIndex>
-		<APCost>50</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>1818</attachmentIndex>
-		<itemIndex>1108</itemIndex>
-		<APCost>50</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>1818</attachmentIndex>
-		<itemIndex>1110</itemIndex>
-		<APCost>50</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>1818</attachmentIndex>
-		<itemIndex>1111</itemIndex>
-		<APCost>50</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>1818</attachmentIndex>
-		<itemIndex>1112</itemIndex>
-		<APCost>50</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>1818</attachmentIndex>
-		<itemIndex>1264</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
@@ -56187,102 +56002,7 @@
 	</ATTACHMENT>
 	<ATTACHMENT>
 		<attachmentIndex>1818</attachmentIndex>
-		<itemIndex>1267</itemIndex>
-		<APCost>50</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>1818</attachmentIndex>
-		<itemIndex>1268</itemIndex>
-		<APCost>50</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>1818</attachmentIndex>
-		<itemIndex>1269</itemIndex>
-		<APCost>50</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>1818</attachmentIndex>
-		<itemIndex>1273</itemIndex>
-		<APCost>50</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>1818</attachmentIndex>
-		<itemIndex>1274</itemIndex>
-		<APCost>50</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>1818</attachmentIndex>
-		<itemIndex>1275</itemIndex>
-		<APCost>50</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>1818</attachmentIndex>
-		<itemIndex>1276</itemIndex>
-		<APCost>50</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>1818</attachmentIndex>
-		<itemIndex>1309</itemIndex>
-		<APCost>50</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>1818</attachmentIndex>
-		<itemIndex>1326</itemIndex>
-		<APCost>50</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>1818</attachmentIndex>
-		<itemIndex>1337</itemIndex>
-		<APCost>50</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>1818</attachmentIndex>
-		<itemIndex>1339</itemIndex>
-		<APCost>50</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>1818</attachmentIndex>
-		<itemIndex>1376</itemIndex>
-		<APCost>50</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>1818</attachmentIndex>
-		<itemIndex>1951</itemIndex>
-		<APCost>50</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>1818</attachmentIndex>
-		<itemIndex>1952</itemIndex>
-		<APCost>50</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>1818</attachmentIndex>
-		<itemIndex>1967</itemIndex>
-		<APCost>50</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>1818</attachmentIndex>
-		<itemIndex>1997</itemIndex>
-		<APCost>50</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>1818</attachmentIndex>
-		<itemIndex>1998</itemIndex>
-		<APCost>50</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>1818</attachmentIndex>
-		<itemIndex>1999</itemIndex>
-		<APCost>50</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>1818</attachmentIndex>
 		<itemIndex>2156</itemIndex>
-		<APCost>50</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>1818</attachmentIndex>
-		<itemIndex>2167</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
@@ -56303,16 +56023,6 @@
 	<ATTACHMENT>
 		<attachmentIndex>1818</attachmentIndex>
 		<itemIndex>2282</itemIndex>
-		<APCost>50</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>1818</attachmentIndex>
-		<itemIndex>2287</itemIndex>
-		<APCost>50</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>1818</attachmentIndex>
-		<itemIndex>2288</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
