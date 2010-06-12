@@ -4882,7 +4882,7 @@
 		<PercentAPReduction>-10</PercentAPReduction>
 		<DamageBonus>3</DamageBonus>
 		<NightVisionRangeBonus>30</NightVisionRangeBonus>
-		<DayVisionRangeBonus>90</DayVisionRangeBonus>
+		<DayVisionRangeBonus>80</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>15</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>100</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>90</PercentTunnelVision>
@@ -4910,7 +4910,7 @@
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<Bipod>10</Bipod>
-		<PercentReadyTimeAPReduction>-3</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>210</uiIndex>
@@ -20407,11 +20407,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>845</uiIndex>
-		<szItemName>Lifchick</szItemName>
-		<szLongItemName>Soviet 2nd Pattern Chestrig</szLongItemName>
-		<szItemDesc>Soviet manufactured "lifchick" is 2nd Pattern Chestrig for AK. It can hold AK mags x6, and  frag grenades x4, and Hand launched flares x2.</szItemDesc>
-		<szBRName>Soviet 2nd Pattern Chestrig</szBRName>
-		<szBRDesc>Soviet manufactured "lifchick" is 2nd Pattern Chestrig for AK. It can hold AK mags x6, and  frag grenades x4, and Hand launched flares x2.</szBRDesc>
+		<szItemName>Lifchik</szItemName>
+		<szLongItemName>Lifchik ChestRig</szLongItemName>
+		<szItemDesc>Soviet manufactured "lifchik" is 2nd Pattern Chestrig for AK. It can hold AK mags x6, and  frag grenades x4, and Hand launched flares x2.</szItemDesc>
+		<szBRName>Lifchik ChestRig</szBRName>
+		<szBRDesc>Soviet manufactured "lifchik" is 2nd Pattern Chestrig for AK. It can hold AK mags x6, and  frag grenades x4, and Hand launched flares x2.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<ubClassIndex>7</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
@@ -22966,9 +22966,9 @@
 		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>35</DayVisionRangeBonus>
+		<DayVisionRangeBonus>25</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>35</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>20</PercentTunnelVision>
+		<PercentTunnelVision>30</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>946</uiIndex>
@@ -22994,7 +22994,7 @@
 		<PercentAPReduction>-7</PercentAPReduction>
 		<DamageBonus>2</DamageBonus>
 		<NightVisionRangeBonus>20</NightVisionRangeBonus>
-		<DayVisionRangeBonus>60</DayVisionRangeBonus>
+		<DayVisionRangeBonus>50</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>60</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>70</PercentTunnelVision>
@@ -24193,9 +24193,9 @@
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
 		<PercentAPReduction>10</PercentAPReduction>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>35</DayVisionRangeBonus>
+		<DayVisionRangeBonus>25</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>35</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>20</PercentTunnelVision>
+		<PercentTunnelVision>30</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>998</uiIndex>
@@ -24255,7 +24255,7 @@
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
 		<DamageBonus>1</DamageBonus>
 		<NightVisionRangeBonus>15</NightVisionRangeBonus>
-		<DayVisionRangeBonus>35</DayVisionRangeBonus>
+		<DayVisionRangeBonus>25</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>35</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>45</PercentTunnelVision>
@@ -24289,11 +24289,11 @@
 		<MinRangeForAimBonus>65</MinRangeForAimBonus>
 		<PercentAPReduction>-7</PercentAPReduction>
 		<DamageBonus>2</DamageBonus>
-		<NightVisionRangeBonus>30</NightVisionRangeBonus>
-		<DayVisionRangeBonus>70</DayVisionRangeBonus>
+		<NightVisionRangeBonus>20</NightVisionRangeBonus>
+		<DayVisionRangeBonus>40</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>50</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>80</PercentTunnelVision>
+		<PercentTunnelVision>75</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1001</uiIndex>
@@ -24321,6 +24321,7 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<MagSizeBonus>70</MagSizeBonus>
+		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
 		<PercentReloadTimeAPReduction>-30</PercentReloadTimeAPReduction>
 	</ITEM>
 	<ITEM>
@@ -24349,6 +24350,7 @@
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<MagSizeBonus>70</MagSizeBonus>
+		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
 		<PercentReloadTimeAPReduction>-30</PercentReloadTimeAPReduction>
 	</ITEM>
 	<ITEM>
@@ -24402,9 +24404,9 @@
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
 		<PercentAPReduction>10</PercentAPReduction>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>35</DayVisionRangeBonus>
+		<DayVisionRangeBonus>25</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>35</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>20</PercentTunnelVision>
+		<PercentTunnelVision>30</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1005</uiIndex>
@@ -24490,7 +24492,7 @@
 		<PercentAPReduction>-5</PercentAPReduction>
 		<DamageBonus>2</DamageBonus>
 		<NightVisionRangeBonus>20</NightVisionRangeBonus>
-		<DayVisionRangeBonus>60</DayVisionRangeBonus>
+		<DayVisionRangeBonus>50</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>60</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>70</PercentTunnelVision>
@@ -24639,7 +24641,7 @@
 		<ToHitBonus>-2</ToHitBonus>
 		<BurstToHitBonus>2</BurstToHitBonus>
 		<AutoFireToHitBonus>2</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>-3</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1013</uiIndex>
@@ -25009,9 +25011,9 @@
 		<AimBonus>7</AimBonus>
 		<MinRangeForAimBonus>10</MinRangeForAimBonus>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>20</DayVisionRangeBonus>
+		<DayVisionRangeBonus>15</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>10</PercentTunnelVision>
+		<PercentTunnelVision>20</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1030</uiIndex>
@@ -25041,9 +25043,9 @@
 		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>35</DayVisionRangeBonus>
+		<DayVisionRangeBonus>25</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>35</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>20</PercentTunnelVision>
+		<PercentTunnelVision>30</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1031</uiIndex>
@@ -25071,6 +25073,7 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<MagSizeBonus>65</MagSizeBonus>
+		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
 		<PercentReloadTimeAPReduction>-30</PercentReloadTimeAPReduction>
 	</ITEM>
 	<ITEM>
@@ -25099,6 +25102,7 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<MagSizeBonus>79</MagSizeBonus>
+		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
 		<PercentReloadTimeAPReduction>-30</PercentReloadTimeAPReduction>
 	</ITEM>
 	<ITEM>
@@ -25127,6 +25131,7 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<MagSizeBonus>74</MagSizeBonus>
+		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
 		<PercentReloadTimeAPReduction>-30</PercentReloadTimeAPReduction>
 	</ITEM>
 	<ITEM>
@@ -25155,6 +25160,7 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<MagSizeBonus>69</MagSizeBonus>
+		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
 		<PercentReloadTimeAPReduction>-30</PercentReloadTimeAPReduction>
 	</ITEM>
 	<ITEM>
@@ -25210,6 +25216,7 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<MagSizeBonus>12</MagSizeBonus>
+		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
 		<PercentReloadTimeAPReduction>-30</PercentReloadTimeAPReduction>
 	</ITEM>
 	<ITEM>
@@ -25239,6 +25246,7 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<MagSizeBonus>20</MagSizeBonus>
+		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
 		<PercentReloadTimeAPReduction>-30</PercentReloadTimeAPReduction>
 	</ITEM>
 	<ITEM>
@@ -25267,6 +25275,7 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<MagSizeBonus>60</MagSizeBonus>
+		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
 		<PercentReloadTimeAPReduction>-30</PercentReloadTimeAPReduction>
 	</ITEM>
 	<ITEM>
@@ -25296,6 +25305,7 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<MagSizeBonus>45</MagSizeBonus>
+		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
 		<PercentReloadTimeAPReduction>-45</PercentReloadTimeAPReduction>
 	</ITEM>
 	<ITEM>
@@ -25327,11 +25337,11 @@
 		<AimBonus>15</AimBonus>
 		<MinRangeForAimBonus>65</MinRangeForAimBonus>
 		<PercentAPReduction>-5</PercentAPReduction>
-		<NightVisionRangeBonus>120</NightVisionRangeBonus>
+		<NightVisionRangeBonus>100</NightVisionRangeBonus>
 		<DayVisionRangeBonus>50</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>110</CaveVisionRangeBonus>
+		<CaveVisionRangeBonus>90</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>50</PercentTunnelVision>
+		<PercentTunnelVision>70</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1041</uiIndex>
@@ -42094,9 +42104,9 @@
 		<uiIndex>1692</uiIndex>
 		<szItemName>Battle Scissors</szItemName>
 		<szLongItemName>Battle Scissors</szLongItemName>
-		<szItemDesc>The combined Battle Scissors can be hold and functioned like a broadsword, or used like Scissors to inflict the most unforgiving damage. Can also shear wires and pry like a crowbar.</szItemDesc>
+		<szItemDesc>The combined Battle Scissors can be held and functioned like a broadsword, or used like Scissors to inflict the most unforgiving damage. Can also shear wires and pry like a crowbar.</szItemDesc>
 		<szBRName>Battle Scissors</szBRName>
-		<szBRDesc>The combined Battle Scissors can be hold and functioned like a broadsword, or used like Scissors to inflict the most unforgiving damage. Can also shear wires and pry like a crowbar.</szBRDesc>
+		<szBRDesc>The combined Battle Scissors can be held and functioned like a broadsword, or used like Scissors to inflict the most unforgiving damage. Can also shear wires and pry like a crowbar.</szBRDesc>
 		<usItemClass>4</usItemClass>
 		<ubClassIndex>1692</ubClassIndex>
 		<ubCursor>4</ubCursor>
@@ -42149,9 +42159,9 @@
 		<uiIndex>1694</uiIndex>
 		<szItemName>Bayonet</szItemName>
 		<szLongItemName>Bayonet</szLongItemName>
-		<szItemDesc>You can stab like a normal knife or mount on guns to arouse fear but it trades off accuracy.</szItemDesc>
+		<szItemDesc>A melee weapon that can be used as a knife or attached to the end of a long gun at the cost of accuracy. Anyone who goes to battle with this thing on deserves to be shipped back in a bag.</szItemDesc>
 		<szBRName>Bayonet</szBRName>
-		<szBRDesc>You can stab like a normal knife or mount on guns to arouse fear but it trades off accuracy.</szBRDesc>
+		<szBRDesc>Our bayonets are of the highest grade of steel. Polished like mirrors coming out of the package, you'll be ready to go for any parade or ceremony.</szBRDesc>
 		<usItemClass>4</usItemClass>
 		<ubClassIndex>1694</ubClassIndex>
 		<ubCursor>4</ubCursor>
@@ -43000,11 +43010,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1728</uiIndex>
-		<szItemName>Tiger Bonnie</szItemName>
-		<szLongItemName>Tiger Stripe Bonnie</szLongItemName>
-		<szItemDesc>The famous tiger stripe bonnie hat used by the US MACV-SOG in Vietnam.</szItemDesc>
-		<szBRName>Tiger Stripe Bonnie</szBRName>
-		<szBRDesc>Just like in the movies! This is the famous tiger stripe bonnie hat used by the US MACV-SOG in Vietnam.</szBRDesc>
+		<szItemName>Tiger Boonie</szItemName>
+		<szLongItemName>Tiger Stripe Boonie</szLongItemName>
+		<szItemDesc>The famous tiger stripe boonie hat used by the US MACV-SOG in Vietnam.</szItemDesc>
+		<szBRName>Tiger Stripe Boonie</szBRName>
+		<szBRDesc>Just like in the movies! This is the famous tiger stripe boonie hat used by the US MACV-SOG in Vietnam.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<ubClassIndex>136</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
@@ -44729,9 +44739,9 @@
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
 		<PercentAPReduction>10</PercentAPReduction>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>35</DayVisionRangeBonus>
+		<DayVisionRangeBonus>25</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>35</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>20</PercentTunnelVision>
+		<PercentTunnelVision>30</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1801</uiIndex>
@@ -44846,8 +44856,8 @@
 		<AimBonus>9</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
 		<PercentAPReduction>10</PercentAPReduction>
-		<VisionRangeBonus>30</VisionRangeBonus>
-		<PercentTunnelVision>15</PercentTunnelVision>
+		<VisionRangeBonus>20</VisionRangeBonus>
+		<PercentTunnelVision>20</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1805</uiIndex>
@@ -44878,9 +44888,9 @@
 		<MinRangeForAimBonus>10</MinRangeForAimBonus>
 		<PercentAPReduction>15</PercentAPReduction>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>25</DayVisionRangeBonus>
+		<DayVisionRangeBonus>20</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>25</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>15</PercentTunnelVision>
+		<PercentTunnelVision>20</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1806</uiIndex>
@@ -44907,12 +44917,12 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
-		<PercentAPReduction>8</PercentAPReduction>
+		<PercentAPReduction>5</PercentAPReduction>
 		<NightVisionRangeBonus>15</NightVisionRangeBonus>
-		<DayVisionRangeBonus>35</DayVisionRangeBonus>
+		<DayVisionRangeBonus>30</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>35</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>20</PercentTunnelVision>
+		<PercentTunnelVision>35</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1807</uiIndex>
@@ -44941,12 +44951,11 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
-		<PercentAPReduction>6</PercentAPReduction>
 		<NightVisionRangeBonus>15</NightVisionRangeBonus>
-		<DayVisionRangeBonus>35</DayVisionRangeBonus>
+		<DayVisionRangeBonus>30</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>35</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>25</PercentTunnelVision>
+		<PercentTunnelVision>35</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1808</uiIndex>
@@ -45040,10 +45049,10 @@
 		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
 		<NightVisionRangeBonus>30</NightVisionRangeBonus>
-		<DayVisionRangeBonus>35</DayVisionRangeBonus>
+		<DayVisionRangeBonus>25</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>30</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>35</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>20</PercentTunnelVision>
+		<PercentTunnelVision>30</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1811</uiIndex>
@@ -45071,11 +45080,10 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
-		<PercentAPReduction>-4</PercentAPReduction>
 		<NightVisionRangeBonus>20</NightVisionRangeBonus>
-		<DayVisionRangeBonus>35</DayVisionRangeBonus>
+		<DayVisionRangeBonus>30</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>35</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>30</PercentTunnelVision>
+		<PercentTunnelVision>35</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1812</uiIndex>
@@ -45101,7 +45109,7 @@
 		<MinRangeForAimBonus>90</MinRangeForAimBonus>
 		<DamageBonus>3</DamageBonus>
 		<NightVisionRangeBonus>30</NightVisionRangeBonus>
-		<DayVisionRangeBonus>90</DayVisionRangeBonus>
+		<DayVisionRangeBonus>80</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>15</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>90</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>90</PercentTunnelVision>
@@ -45134,7 +45142,7 @@
 		<PercentAPReduction>-20</PercentAPReduction>
 		<DamageBonus>4</DamageBonus>
 		<NightVisionRangeBonus>45</NightVisionRangeBonus>
-		<DayVisionRangeBonus>150</DayVisionRangeBonus>
+		<DayVisionRangeBonus>135</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>150</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>95</PercentTunnelVision>
@@ -45200,9 +45208,9 @@
 		<MinRangeForAimBonus>85</MinRangeForAimBonus>
 		<PercentAPReduction>-15</PercentAPReduction>
 		<DamageBonus>3</DamageBonus>
-		<NightVisionRangeBonus>130</NightVisionRangeBonus>
-		<DayVisionRangeBonus>100</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>120</CaveVisionRangeBonus>
+		<NightVisionRangeBonus>150</NightVisionRangeBonus>
+		<DayVisionRangeBonus>90</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>130</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>90</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>90</PercentTunnelVision>
 	</ITEM>
@@ -45234,7 +45242,7 @@
 		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>30</DayVisionRangeBonus>
+		<DayVisionRangeBonus>20</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>20</PercentTunnelVision>
 	</ITEM>
@@ -45266,7 +45274,7 @@
 		<PercentAPReduction>-8</PercentAPReduction>
 		<DamageBonus>3</DamageBonus>
 		<NightVisionRangeBonus>25</NightVisionRangeBonus>
-		<DayVisionRangeBonus>60</DayVisionRangeBonus>
+		<DayVisionRangeBonus>55</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>60</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>70</PercentTunnelVision>
@@ -45299,7 +45307,7 @@
 		<PercentAPReduction>-12</PercentAPReduction>
 		<DamageBonus>3</DamageBonus>
 		<NightVisionRangeBonus>25</NightVisionRangeBonus>
-		<DayVisionRangeBonus>80</DayVisionRangeBonus>
+		<DayVisionRangeBonus>65</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>80</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>85</PercentTunnelVision>
@@ -45332,7 +45340,7 @@
 		<PercentAPReduction>-18</PercentAPReduction>
 		<DamageBonus>4</DamageBonus>
 		<NightVisionRangeBonus>45</NightVisionRangeBonus>
-		<DayVisionRangeBonus>150</DayVisionRangeBonus>
+		<DayVisionRangeBonus>110</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>15</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>120</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>90</PercentTunnelVision>
@@ -45364,8 +45372,8 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<PercentAPReduction>15</PercentAPReduction>
-		<NightVisionRangeBonus>70</NightVisionRangeBonus>
-		<CaveVisionRangeBonus>60</CaveVisionRangeBonus>
+		<NightVisionRangeBonus>50</NightVisionRangeBonus>
+		<CaveVisionRangeBonus>40</CaveVisionRangeBonus>
 		<PercentTunnelVision>20</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
@@ -45397,10 +45405,10 @@
 		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
 		<PercentAPReduction>-4</PercentAPReduction>
-		<NightVisionRangeBonus>100</NightVisionRangeBonus>
-		<DayVisionRangeBonus>30</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>90</CaveVisionRangeBonus>
-		<PercentTunnelVision>50</PercentTunnelVision>
+		<NightVisionRangeBonus>70</NightVisionRangeBonus>
+		<DayVisionRangeBonus>20</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>60</CaveVisionRangeBonus>
+		<PercentTunnelVision>35</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1822</uiIndex>
@@ -45433,7 +45441,7 @@
 		<DayVisionRangeBonus>30</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>5</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>20</PercentTunnelVision>
+		<PercentTunnelVision>30</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1823</uiIndex>
@@ -45519,7 +45527,7 @@
 		<PercentAPReduction>-15</PercentAPReduction>
 		<DamageBonus>3</DamageBonus>
 		<NightVisionRangeBonus>45</NightVisionRangeBonus>
-		<DayVisionRangeBonus>120</DayVisionRangeBonus>
+		<DayVisionRangeBonus>110</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>15</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>100</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>92</PercentTunnelVision>
@@ -45552,7 +45560,7 @@
 		<PercentAPReduction>-20</PercentAPReduction>
 		<DamageBonus>4</DamageBonus>
 		<NightVisionRangeBonus>55</NightVisionRangeBonus>
-		<DayVisionRangeBonus>150</DayVisionRangeBonus>
+		<DayVisionRangeBonus>135</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>25</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>150</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>95</PercentTunnelVision>
@@ -45584,10 +45592,10 @@
 		<AimBonus>12</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
 		<PercentAPReduction>-3</PercentAPReduction>
-		<NightVisionRangeBonus>25</NightVisionRangeBonus>
-		<DayVisionRangeBonus>50</DayVisionRangeBonus>
+		<NightVisionRangeBonus>20</NightVisionRangeBonus>
+		<DayVisionRangeBonus>40</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>45</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>30</PercentTunnelVision>
+		<PercentTunnelVision>35</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1828</uiIndex>
@@ -45614,10 +45622,10 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<AimBonus>11</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
-		<NightVisionRangeBonus>11</NightVisionRangeBonus>
-		<DayVisionRangeBonus>33</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>11</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>33</BrightLightVisionRangeBonus>
+		<NightVisionRangeBonus>10</NightVisionRangeBonus>
+		<DayVisionRangeBonus>20</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1829</uiIndex>
@@ -45645,11 +45653,11 @@
 		<AimBonus>11</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
 		<PercentAPReduction>-5</PercentAPReduction>
-		<NightVisionRangeBonus>80</NightVisionRangeBonus>
-		<DayVisionRangeBonus>30</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>80</CaveVisionRangeBonus>
+		<NightVisionRangeBonus>60</NightVisionRangeBonus>
+		<DayVisionRangeBonus>17</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>60</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>40</PercentTunnelVision>
+		<PercentTunnelVision>30</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1830</uiIndex>
@@ -45682,7 +45690,7 @@
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
 		<PercentAPReduction>5</PercentAPReduction>
 		<NightVisionRangeBonus>70</NightVisionRangeBonus>
-		<DayVisionRangeBonus>55</DayVisionRangeBonus>
+		<DayVisionRangeBonus>40</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>70</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>55</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>50</PercentTunnelVision>
@@ -45835,6 +45843,7 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<MagSizeBonus>80</MagSizeBonus>
+		<PercentReadyTimeAPReduction>-10</PercentReadyTimeAPReduction>
 		<PercentReloadTimeAPReduction>-90</PercentReloadTimeAPReduction>
 	</ITEM>
 	<ITEM>
@@ -45864,6 +45873,7 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<MagSizeBonus>45</MagSizeBonus>
+		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
 		<PercentReloadTimeAPReduction>-30</PercentReloadTimeAPReduction>
 	</ITEM>
 	<ITEM>
@@ -45893,6 +45903,7 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<MagSizeBonus>60</MagSizeBonus>
+		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
 		<PercentReloadTimeAPReduction>-45</PercentReloadTimeAPReduction>
 	</ITEM>
 	<ITEM>
@@ -45979,6 +45990,7 @@
 		<ToHitBonus>3</ToHitBonus>
 		<BurstToHitBonus>10</BurstToHitBonus>
 		<AutoFireToHitBonus>10</AutoFireToHitBonus>
+		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1841</uiIndex>
@@ -46009,6 +46021,7 @@
 		<BurstSizeBonus>3</BurstSizeBonus>
 		<BurstToHitBonus>10</BurstToHitBonus>
 		<AutoFireToHitBonus>10</AutoFireToHitBonus>
+		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1842</uiIndex>
@@ -46040,7 +46053,7 @@
 		<ToHitBonus>-1</ToHitBonus>
 		<BurstToHitBonus>1</BurstToHitBonus>
 		<AutoFireToHitBonus>1</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>-3</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1843</uiIndex>
@@ -46073,7 +46086,7 @@
 		<ToHitBonus>-2</ToHitBonus>
 		<BurstToHitBonus>2</BurstToHitBonus>
 		<AutoFireToHitBonus>2</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>-3</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1844</uiIndex>
@@ -46254,6 +46267,7 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<MagSizeBonus>70</MagSizeBonus>
+		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
 		<PercentReloadTimeAPReduction>-30</PercentReloadTimeAPReduction>
 	</ITEM>
 	<ITEM>
@@ -46436,9 +46450,9 @@
 		<PercentAPReduction>-7</PercentAPReduction>
 		<DamageBonus>1</DamageBonus>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>40</DayVisionRangeBonus>
+		<DayVisionRangeBonus>28</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>50</PercentTunnelVision>
+		<PercentTunnelVision>35</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1857</uiIndex>
@@ -46469,9 +46483,9 @@
 		<PercentAPReduction>-7</PercentAPReduction>
 		<DamageBonus>1</DamageBonus>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>40</DayVisionRangeBonus>
+		<DayVisionRangeBonus>30</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>50</PercentTunnelVision>
+		<PercentTunnelVision>35</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1858</uiIndex>
@@ -46502,9 +46516,9 @@
 		<PercentAPReduction>-7</PercentAPReduction>
 		<DamageBonus>1</DamageBonus>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>40</DayVisionRangeBonus>
+		<DayVisionRangeBonus>30</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>50</PercentTunnelVision>
+		<PercentTunnelVision>40</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1859</uiIndex>
@@ -46534,11 +46548,11 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<AimBonus>8</AimBonus>
 		<MinRangeForAimBonus>20</MinRangeForAimBonus>
-		<NightVisionRangeBonus>90</NightVisionRangeBonus>
-		<DayVisionRangeBonus>20</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>90</CaveVisionRangeBonus>
+		<NightVisionRangeBonus>60</NightVisionRangeBonus>
+		<DayVisionRangeBonus>15</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>60</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>40</PercentTunnelVision>
+		<PercentTunnelVision>20</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1860</uiIndex>
@@ -46569,10 +46583,10 @@
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
 		<PercentAPReduction>7</PercentAPReduction>
 		<NightVisionRangeBonus>20</NightVisionRangeBonus>
-		<DayVisionRangeBonus>35</DayVisionRangeBonus>
+		<DayVisionRangeBonus>28</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>35</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>15</PercentTunnelVision>
+		<PercentTunnelVision>25</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1861</uiIndex>
@@ -54389,9 +54403,9 @@
 		<uiIndex>2183</uiIndex>
 		<szItemName>SPP 10P50</szItemName>
 		<szLongItemName>SPP 10P50 Sight</szLongItemName>
-		<szItemDesc>The SPP 10P50 daylight sights are intended for use with tripod-mounted heavy machine guns of the NSV type and the Kord.</szItemDesc>
+		<szItemDesc>The SPP 10P50 3-6x26 daylight sights are intended for use with tripod-mounted heavy machine guns of the NSV type and the Kord.</szItemDesc>
 		<szBRName>SPP 10P50 Sight</szBRName>
-		<szBRDesc>The SPP 10P50 daylight sights are intended for use with tripod-mounted heavy machine guns of the NSV type and the Kord.</szBRDesc>
+		<szBRDesc>The SPP 10P50 3-6x26 daylight sights are intended for use with tripod-mounted heavy machine guns of the NSV type and the Kord.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>903</ubGraphicNum>
@@ -54411,8 +54425,8 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
-		<VisionRangeBonus>50</VisionRangeBonus>
-		<PercentTunnelVision>30</PercentTunnelVision>
+		<VisionRangeBonus>40</VisionRangeBonus>
+		<PercentTunnelVision>50</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2184</uiIndex>
@@ -54471,7 +54485,7 @@
 		<PercentAPReduction>-12</PercentAPReduction>
 		<DamageBonus>3</DamageBonus>
 		<NightVisionRangeBonus>35</NightVisionRangeBonus>
-		<DayVisionRangeBonus>90</DayVisionRangeBonus>
+		<DayVisionRangeBonus>70</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>90</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>85</PercentTunnelVision>
@@ -54563,7 +54577,7 @@
 		<MinRangeForAimBonus>10</MinRangeForAimBonus>
 		<PercentAPReduction>-4</PercentAPReduction>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>25</DayVisionRangeBonus>
+		<DayVisionRangeBonus>20</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>25</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>15</PercentTunnelVision>
 	</ITEM>
@@ -54593,7 +54607,7 @@
 		<PercentAPReduction>-9</PercentAPReduction>
 		<DamageBonus>3</DamageBonus>
 		<NightVisionRangeBonus>25</NightVisionRangeBonus>
-		<DayVisionRangeBonus>85</DayVisionRangeBonus>
+		<DayVisionRangeBonus>65</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>80</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>85</PercentTunnelVision>
@@ -55280,11 +55294,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2219</uiIndex>
-		<szItemName>Multicam Bonnie</szItemName>
-		<szLongItemName>Multicam Bonnie</szLongItemName>
-		<szItemDesc>A jungle bonnie with Multicam pattern that provides limited camouflage in jungle and desert environment.</szItemDesc>
-		<szBRName>Multicam Bonnie</szBRName>
-		<szBRDesc>A jungle bonnie with Multicam pattern that provides limited camouflage in jungle and desert environment.</szBRDesc>
+		<szItemName>Multicam Boonie</szItemName>
+		<szLongItemName>Multicam Boonie</szLongItemName>
+		<szItemDesc>A jungle boonie with Multicam pattern that provides limited camouflage in jungle and desert environment.</szItemDesc>
+		<szBRName>Multicam Boonie</szBRName>
+		<szBRDesc>A jungle boonie with Multicam pattern that provides limited camouflage in jungle and desert environment.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<ubClassIndex>212</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
@@ -56235,7 +56249,7 @@
 		<AimBonus>5</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>30</DayVisionRangeBonus>
+		<DayVisionRangeBonus>20</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>25</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>35</PercentTunnelVision>
 	</ITEM>
@@ -61411,10 +61425,10 @@
 		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>28</DayVisionRangeBonus>
+		<DayVisionRangeBonus>20</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>6</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>28</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>10</PercentTunnelVision>
+		<PercentTunnelVision>20</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2486</uiIndex>
@@ -61526,7 +61540,7 @@
 		<ToHitBonus>-2</ToHitBonus>
 		<BurstToHitBonus>2</BurstToHitBonus>
 		<AutoFireToHitBonus>2</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>-3</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
 		<DefaultAttachment>2489</DefaultAttachment>
 	</ITEM>
 	<ITEM>
@@ -62773,9 +62787,9 @@
 		<uiIndex>2544</uiIndex>
 		<szItemName>5.56mm Mag 20 SOST</szItemName>
 		<szLongItemName>5.56x45mm Mag, 20 SOST</szLongItemName>
-		<szItemDesc>This magazine hold 20 rounds of 5.56mm Mk318 MOD 0 Special Operations Science and Technology rounds.</szItemDesc>
+		<szItemDesc>This magazine holds 20 rounds of 5.56mm Mk318 MOD 0 Special Operations Science and Technology cartridges.</szItemDesc>
 		<szBRName>5.56x45mm Mag 20 SOST</szBRName>
-		<szBRDesc>This magazine hold 20 rounds of 5.56mm Mk318 MOD 0 Special Operations Science and Technology rounds.</szBRDesc>
+		<szBRDesc>This magazine holds 20 rounds of 5.56mm Mk318 MOD 0 Special Operations Science and Technology cartridges.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>196</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
@@ -62793,9 +62807,9 @@
 		<uiIndex>2545</uiIndex>
 		<szItemName>5.56mm Mag 30 SOST</szItemName>
 		<szLongItemName>5.56x45mm Mag, 30 SOST</szLongItemName>
-		<szItemDesc>This magazine hold 30 rounds of 5.56mm Mk318 MOD 0 Special Operations Science and Technology rounds.</szItemDesc>
+		<szItemDesc>This magazine holds 30 rounds of 5.56mm Mk318 MOD 0 Special Operations Science and Technology cartridges.</szItemDesc>
 		<szBRName>5.56x45mm Mag 30 SOST</szBRName>
-		<szBRDesc>This magazine hold 30 rounds of 5.56mm Mk318 MOD 0 Special Operations Science and Technology rounds.</szBRDesc>
+		<szBRDesc>This magazine holds 30 rounds of 5.56mm Mk318 MOD 0 Special Operations Science and Technology cartridges.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>203</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
@@ -62812,9 +62826,9 @@
 		<uiIndex>2546</uiIndex>
 		<szItemName>5.56mm Mag 35 SOST</szItemName>
 		<szLongItemName>5.56x45mm Mag, 35 SOST</szLongItemName>
-		<szItemDesc>This magazine hold 35 rounds of 5.56mm Mk318 MOD 0 Special Operations Science and Technology rounds.</szItemDesc>
+		<szItemDesc>This magazine holds 35 rounds of 5.56mm Mk318 MOD 0 Special Operations Science and Technology cartridges.</szItemDesc>
 		<szBRName>5.56x45mm Mag 35 SOST</szBRName>
-		<szBRDesc>This magazine hold 35 rounds of 5.56mm Mk318 MOD 0 Special Operations Science and Technology rounds.</szBRDesc>
+		<szBRDesc>This magazine holds 35 rounds of 5.56mm Mk318 MOD 0 Special Operations Science and Technology cartridges.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>210</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
@@ -62832,9 +62846,9 @@
 		<uiIndex>2547</uiIndex>
 		<szItemName>5.56mm Mag 42 SOST</szItemName>
 		<szLongItemName>5.56x45mm Mag, 42 SOST</szLongItemName>
-		<szItemDesc>This magazine hold 42 rounds of 5.56mm Mk318 MOD 0 Special Operations Science and Technology rounds.</szItemDesc>
+		<szItemDesc>This magazine holds 42 rounds of 5.56mm Mk318 MOD 0 Special Operations Science and Technology cartridges.</szItemDesc>
 		<szBRName>5.56x45mm Mag 42 SOST</szBRName>
-		<szBRDesc>This magazine hold 42 rounds of 5.56mm Mk318 MOD 0 Special Operations Science and Technology rounds.</szBRDesc>
+		<szBRDesc>This magazine holds 42 rounds of 5.56mm Mk318 MOD 0 Special Operations Science and Technology cartridges.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>217</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
@@ -62852,9 +62866,9 @@
 		<uiIndex>2548</uiIndex>
 		<szItemName>5.56mm AK-Drum SOST</szItemName>
 		<szLongItemName>5.56mm AK-Drum, SOST</szLongItemName>
-		<szItemDesc>This AK-Drum hold 75 rounds of 5.56mm Mk318 MOD 0 Special Operations Science and Technology rounds.</szItemDesc>
+		<szItemDesc>This AK-Drum holds 75 rounds of 5.56mm Mk318 MOD 0 Special Operations Science and Technology cartridges.</szItemDesc>
 		<szBRName>5.56mm AK-Drum SOST</szBRName>
-		<szBRDesc>This AK-Drum hold 75 rounds of 5.56mm Mk318 MOD 0 Special Operations Science and Technology rounds.</szBRDesc>
+		<szBRDesc>This AK-Drum holds 75 rounds of 5.56mm Mk318 MOD 0 Special Operations Science and Technology cartridges.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>224</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
@@ -62872,9 +62886,9 @@
 		<uiIndex>2549</uiIndex>
 		<szItemName>5.56mm C-Mag SOST</szItemName>
 		<szLongItemName>5.56x45mm C-Mag, SOST</szLongItemName>
-		<szItemDesc>This Beta C-MAG hold 100 rounds of 5.56mm Mk318 MOD 0 Special Operations Science and Technology rounds.</szItemDesc>
+		<szItemDesc>This Beta C-MAG holds 100 rounds of 5.56mm Mk318 MOD 0 Special Operations Science and Technology cartridges.</szItemDesc>
 		<szBRName>5.56x45mm C-Mag SOST</szBRName>
-		<szBRDesc>This Beta C-MAG hold 100 rounds of 5.56mm Mk318 MOD 0 Special Operations Science and Technology rounds.</szBRDesc>
+		<szBRDesc>This Beta C-MAG holds 100 rounds of 5.56mm Mk318 MOD 0 Special Operations Science and Technology cartridges.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>231</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
@@ -62892,9 +62906,9 @@
 		<uiIndex>2550</uiIndex>
 		<szItemName>5.56mm CL-MAG SOST</szItemName>
 		<szLongItemName>5.56x45mm CL-MAG, SOST</szLongItemName>
-		<szItemDesc>This Armatac Industries Inc CL-Mag hold 150 rounds of 5.56mm Mk318 MOD 0 Special Operations Science and Technology rounds.</szItemDesc>
+		<szItemDesc>This Armatac Industries Inc CL-Mag holds 150 rounds of 5.56mm Mk318 MOD 0 Special Operations Science and Technology cartridges.</szItemDesc>
 		<szBRName>5.56x45mm CL-Mag SOST</szBRName>
-		<szBRDesc>This Armatac Industries Inc CL-Mag hold 150 rounds of 5.56mm Mk318 MOD 0 Special Operations Science and Technology rounds.</szBRDesc>
+		<szBRDesc>This Armatac Industries Inc CL-Mag holds 150 rounds of 5.56mm Mk318 MOD 0 Special Operations Science and Technology cartridges.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>238</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
@@ -62912,9 +62926,9 @@
 		<uiIndex>2551</uiIndex>
 		<szItemName>5.56mm Belt SOST</szItemName>
 		<szLongItemName>5.56x45mm Belt, SOST</szLongItemName>
-		<szItemDesc>A 200 rounds of 5.56mm Mk318 MOD 0 Special Operations Science and Technology rounds.</szItemDesc>
+		<szItemDesc>A 200 rounds of 5.56mm Mk318 MOD 0 Special Operations Science and Technology cartridges.</szItemDesc>
 		<szBRName>5.56x45mm Belt SOST</szBRName>
-		<szBRDesc>A 200 rounds of 5.56mm Mk318 MOD 0 Special Operations Science and Technology rounds.</szBRDesc>
+		<szBRDesc>A 200 rounds of 5.56mm Mk318 MOD 0 Special Operations Science and Technology cartridges.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>245</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
@@ -62930,9 +62944,9 @@
 		<uiIndex>2552</uiIndex>
 		<szItemName>5.56mm crate SOST</szItemName>
 		<szLongItemName>5.56x45mm ammo crate, SOST</szLongItemName>
-		<szItemDesc>1000 rounds of 5.56mm Mk318 MOD 0 Special Operations Science and Technology rounds crate.</szItemDesc>
+		<szItemDesc>1000 rounds of 5.56mm Mk318 MOD 0 SOST cartridges in crate.</szItemDesc>
 		<szBRName>5.56x45 ammo crate SOST</szBRName>
-		<szBRDesc>1000 rounds of 5.56mm Mk318 MOD 0 SOST rounds in crate. SOST rounds design for short barrel rifle. An open-tip match round stay on target better than existing M855 rounds after penetrating windshields, car doors and other objects.</szBRDesc>
+		<szBRDesc>1000 rounds of 5.56mm Mk318 MOD 0 SOST cartridges in crate. Designed for SBRs, this open-tip match bullet stays on target better than the M855 after penetrating windshields, car doors and other objects.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>252</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
@@ -62951,9 +62965,9 @@
 		<uiIndex>2553</uiIndex>
 		<szItemName>7.62x51mm 5 SOST</szItemName>
 		<szLongItemName>7.62x51mm Mag, 5 SOST</szLongItemName>
-		<szItemDesc>5 rounds of 7.62x51mm Mk319 MOD 0 Special Operations Science and Technology rounds.</szItemDesc>
+		<szItemDesc>5 rounds of 7.62x51mm Mk319 MOD 0 Special Operations Science and Technology cartridges.</szItemDesc>
 		<szBRName>7.62x51mm 5 SOST</szBRName>
-		<szBRDesc>5 rounds of 7.62x51mm Mk319 MOD 0 Special Operations Science and Technology rounds.</szBRDesc>
+		<szBRDesc>5 rounds of 7.62x51mm Mk319 MOD 0 Special Operations Science and Technology cartridges.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>259</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
@@ -62973,9 +62987,9 @@
 		<uiIndex>2554</uiIndex>
 		<szItemName>7.62x51mm 10 SOST</szItemName>
 		<szLongItemName>7.62x51mm Mag, 10 SOST</szLongItemName>
-		<szItemDesc>10 rounds of 7.62x51mm Mk319 MOD 0 Special Operations Science and Technology rounds.</szItemDesc>
+		<szItemDesc>10 rounds of 7.62x51mm Mk319 MOD 0 Special Operations Science and Technology cartridges.</szItemDesc>
 		<szBRName>7.62x51mm 10 SOST</szBRName>
-		<szBRDesc>10 rounds of 7.62x51mm Mk319 MOD 0 Special Operations Science and Technology rounds.</szBRDesc>
+		<szBRDesc>10 rounds of 7.62x51mm Mk319 MOD 0 Special Operations Science and Technology cartridges.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>266</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
@@ -62996,9 +63010,9 @@
 		<uiIndex>2555</uiIndex>
 		<szItemName>7.62x51mm 20 SOST</szItemName>
 		<szLongItemName>7.62x51mm Mag, 20 SOST</szLongItemName>
-		<szItemDesc>20 rounds of 7.62x51mm Mk319 MOD 0 Special Operations Science and Technology rounds.</szItemDesc>
+		<szItemDesc>20 rounds of 7.62x51mm Mk319 MOD 0 Special Operations Science and Technology cartridges.</szItemDesc>
 		<szBRName>7.62x51mm 20 SOST</szBRName>
-		<szBRDesc>20 rounds of 7.62x51mm Mk319 MOD 0 Special Operations Science and Technology rounds.</szBRDesc>
+		<szBRDesc>20 rounds of 7.62x51mm Mk319 MOD 0 Special Operations Science and Technology cartridges.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>273</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
@@ -63018,9 +63032,9 @@
 		<uiIndex>2556</uiIndex>
 		<szItemName>7.62x51mm 25 SOST</szItemName>
 		<szLongItemName>7.62x51mm Mag, 25 SOST</szLongItemName>
-		<szItemDesc>25 rounds of 7.62x51mm Mk319 MOD 0 Special Operations Science and Technology rounds.</szItemDesc>
+		<szItemDesc>25 rounds of 7.62x51mm Mk319 MOD 0 Special Operations Science and Technology cartridges.</szItemDesc>
 		<szBRName>7.62x51mm 25 SOST</szBRName>
-		<szBRDesc>25 rounds of 7.62x51mm Mk319 MOD 0 Special Operations Science and Technology rounds.</szBRDesc>
+		<szBRDesc>25 rounds of 7.62x51mm Mk319 MOD 0 Special Operations Science and Technology cartridges.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>280</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
@@ -63041,9 +63055,9 @@
 		<uiIndex>2557</uiIndex>
 		<szItemName>7.62x51mm Hi-Mag SOST</szItemName>
 		<szLongItemName>7.62x51mm Hi-Mag, 30 SOST</szLongItemName>
-		<szItemDesc>30 rounds of 7.62x51mm Mk319 MOD 0 Special Operations Science and Technology rounds.</szItemDesc>
+		<szItemDesc>30 rounds of 7.62x51mm Mk319 MOD 0 Special Operations Science and Technology cartridges.</szItemDesc>
 		<szBRName>7.62x51mm Hi-Mag SOST</szBRName>
-		<szBRDesc>30 rounds of 7.62x51mm Mk319 MOD 0 Special Operations Science and Technology rounds.</szBRDesc>
+		<szBRDesc>30 rounds of 7.62x51mm Mk319 MOD 0 Special Operations Science and Technology cartridges.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>287</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
@@ -63064,9 +63078,9 @@
 		<uiIndex>2558</uiIndex>
 		<szItemName>7.62x51mm C-MAG SOST</szItemName>
 		<szLongItemName>7.62x51mm C-MAG, SOST</szLongItemName>
-		<szItemDesc>99 rounds of 7.62x51mm Mk319 MOD 0 Special Operations Science and Technology rounds.</szItemDesc>
+		<szItemDesc>99 rounds of 7.62x51mm Mk319 MOD 0 Special Operations Science and Technology cartridges.</szItemDesc>
 		<szBRName>7.62x51mm C-MAG SOST</szBRName>
-		<szBRDesc>99 rounds of 7.62x51mm Mk319 MOD 0 Special Operations Science and Technology rounds.</szBRDesc>
+		<szBRDesc>99 rounds of 7.62x51mm Mk319 MOD 0 Special Operations Science and Technology cartridges.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>294</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
@@ -63087,9 +63101,9 @@
 		<uiIndex>2559</uiIndex>
 		<szItemName>7.62x51mm Belt SOST</szItemName>
 		<szLongItemName>7.62x51mm Belt, SOST</szLongItemName>
-		<szItemDesc>100 rounds of 7.62x51mm Mk319 MOD 0 Special Operations Science and Technology rounds.</szItemDesc>
+		<szItemDesc>100 rounds of 7.62x51mm Mk319 MOD 0 Special Operations Science and Technology cartridges.</szItemDesc>
 		<szBRName>7.62x51mm Belt SOST</szBRName>
-		<szBRDesc>100 rounds of 7.62x51mm Mk319 MOD 0 Special Operations Science and Technology rounds.</szBRDesc>
+		<szBRDesc>100 rounds of 7.62x51mm Mk319 MOD 0 Special Operations Science and Technology cartridges.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>301</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
@@ -63108,9 +63122,9 @@
 		<uiIndex>2560</uiIndex>
 		<szItemName>7.62x51mm Hi-Belt SOST</szItemName>
 		<szLongItemName>7.62x51mm Hi-Belt, SOST</szLongItemName>
-		<szItemDesc>200 rounds of 7.62x51mm Mk319 MOD 0 Special Operations Science and Technology rounds.</szItemDesc>
+		<szItemDesc>200 rounds of 7.62x51mm Mk319 MOD 0 Special Operations Science and Technology cartridges.</szItemDesc>
 		<szBRName>7.62x51mm Hi-Belt SOST</szBRName>
-		<szBRDesc>200 rounds of 7.62x51mm Mk319 MOD 0 Special Operations Science and Technology rounds.</szBRDesc>
+		<szBRDesc>200 rounds of 7.62x51mm Mk319 MOD 0 Special Operations Science and Technology cartridges.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>308</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
@@ -63129,9 +63143,9 @@
 		<uiIndex>2561</uiIndex>
 		<szItemName>7.62NATO crate SOST</szItemName>
 		<szLongItemName>7.62x51mm ammo crate, SOST</szLongItemName>
-		<szItemDesc>500 rounds of 7.62x51mm Mk319 MOD 0 Special Operations Science and Technology rounds in ammo crate.</szItemDesc>
+		<szItemDesc>500 rounds of 7.62x51mm Mk319 MOD 0 Special Operations Science and Technology cartridges in ammo crate.</szItemDesc>
 		<szBRName>7.62x51 ammo crate SOST</szBRName>
-		<szBRDesc>500 rounds of 7.62x51mm Mk319 MOD 0 Special Operations Science and Technology rounds. SOST rounds design for short barrel rifle. An open-tip match round stay on target better than existing M855 rounds after penetrating windshields, car doors and other objects.</szBRDesc>
+		<szBRDesc>500 rounds of 7.62x51mm Mk319 MOD 0 SOST cartridges in ammo crate. Designed for SBRs, this open-tip match bullet stays on target better than the M80 ball after penetrating windshields, car doors and other objects.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>315</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
@@ -63768,9 +63782,9 @@
 		<uiIndex>2593</uiIndex>
 		<szItemName>5.56mm CL-MAG Adapter</szItemName>
 		<szLongItemName>5.56mm CL-MAG Adapter</szLongItemName>
-		<szItemDesc>This special adapter can be attached to certain AR-type magazine 5.56mm weapons to allow for the use of the 150-rd Armatac Industries Inc CL-Mags. Just for 4179 standard.</szItemDesc>
+		<szItemDesc>This adapter allows the use of 150-rd Armatac Industries Inc CL-Mags on many 5.56mm caliber rifle that uses 4176 STANAG.</szItemDesc>
 		<szBRName>5.56mm CL-MAG Adapter</szBRName>
-		<szBRDesc>This special adapter can be attached to certain AR-type magazine 5.56mm weapons to allow for the use of the 150-rd Armatac Industries Inc CL-Mags. Just for 4179 standard.</szBRDesc>
+		<szBRDesc>This adapter allows the use of 150-rd Armatac Industries Inc CL-Mags on many 5.56mm caliber rifle that uses 4176 STANAG.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>161</ubGraphicNum>
@@ -63789,16 +63803,16 @@
 		<Inseparable>1</Inseparable>
 		<BR_NewInventory>1</BR_NewInventory>
 		<MagSizeBonus>120</MagSizeBonus>
-		<PercentReadyTimeAPReduction>-7</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>-8</PercentReadyTimeAPReduction>
 		<PercentReloadTimeAPReduction>-40</PercentReloadTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2594</uiIndex>
-		<szItemName>MAG Tripod</szItemName>
-		<szLongItemName>MAG Tripod</szLongItemName>
-		<szItemDesc>The M192 Lightweight Ground Mount is a tripod fielded by the United States armed forces. It use on M240 or M60 GPMG.</szItemDesc>
-		<szBRName>MAG Tripod</szBRName>
-		<szBRDesc>The M192 Lightweight Ground Mount is a tripod fielded by the United States armed forces. It use on M240 or M60 GPMG.</szBRDesc>
+		<szItemName>M192 LWGM</szItemName>
+		<szLongItemName>M192 LWGM</szLongItemName>
+		<szItemDesc>The M192 Lightweight Ground Mount is the latest GPMG tripod for the U.S. 6.5 pounds lighter than its predecessor, compatible with the M60 and M240 only.</szItemDesc>
+		<szBRName>M192 LWGM</szBRName>
+		<szBRDesc>The M192 Lightweight Ground Mount is the latest GPMG tripod for the U.S. 6.5 pounds lighter than its predecessor, compatible with the M60 and M240 only.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>633</ubGraphicNum>
@@ -63826,9 +63840,9 @@
 		<uiIndex>2595</uiIndex>
 		<szItemName>PKM Tripod</szItemName>
 		<szLongItemName>PKM Tripod</szLongItemName>
-		<szItemDesc>This tripod can use on PKM or other Russian GPMG.</szItemDesc>
+		<szItemDesc>The Stepanov tripod provides a stable platform for the PKM.</szItemDesc>
 		<szBRName>PKM Tripod</szBRName>
-		<szBRDesc>This tripod can use on PKM or other Russian GPMG.</szBRDesc>
+		<szBRDesc>The Stepanov tripod provides a stable platform for the PKM.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>633</ubGraphicNum>
@@ -63856,9 +63870,9 @@
 		<uiIndex>2596</uiIndex>
 		<szItemName>MG42 Tripod</szItemName>
 		<szLongItemName>MG42 Tripod</szLongItemName>
-		<szItemDesc>These are original German military surplus MG42 Tripods. All tripods are in very good condition, but some may show handling marks from use in the field. Use these on your MG42 or MG34 type weapon.</szItemDesc>
+		<szItemDesc>This tripod provides rock-steady support for the MG42 family of "Maschinengewehr".</szItemDesc>
 		<szBRName>MG42 Tripod</szBRName>
-		<szBRDesc>These are original German military surplus MG42 Tripods. All tripods are in very good condition, but some may show handling marks from use in the field. Use these on your MG42 or MG34 type weapon.</szBRDesc>
+		<szBRDesc>This tripod provides rock-steady support for the MG42 family of "Maschinengewehr".</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>633</ubGraphicNum>
@@ -63886,9 +63900,9 @@
 		<uiIndex>2597</uiIndex>
 		<szItemName>HMG Tripod</szItemName>
 		<szLongItemName>Lightweight HMG Tripod</szLongItemName>
-		<szItemDesc>Russian 6T7 lightweight tripod can use on your Kord HMG, or some GPMG.</szItemDesc>
+		<szItemDesc>The Russian 6T7 lightweight tripod is not only an essential component of the Kord HMG, it supports other GPMGs as well.</szItemDesc>
 		<szBRName>Lightweight HMG Tripod</szBRName>
-		<szBRDesc>Russian 6T7 lightweight tripod can use on your Kord HMG, or some GPMG.</szBRDesc>
+		<szBRDesc>The Russian 6T7 lightweight tripod is not only an essential component of the Kord HMG, it supports other GPMGs as well.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>633</ubGraphicNum>
