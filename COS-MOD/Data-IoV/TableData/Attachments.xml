@@ -19562,11 +19562,6 @@
 	</ATTACHMENT>
 	<ATTACHMENT>
 		<attachmentIndex>1002</attachmentIndex>
-		<itemIndex>346</itemIndex>
-		<APCost>20</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>1002</attachmentIndex>
 		<itemIndex>641</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -19582,27 +19577,12 @@
 	</ATTACHMENT>
 	<ATTACHMENT>
 		<attachmentIndex>1002</attachmentIndex>
-		<itemIndex>727</itemIndex>
-		<APCost>20</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>1002</attachmentIndex>
-		<itemIndex>761</itemIndex>
-		<APCost>20</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>1002</attachmentIndex>
 		<itemIndex>939</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
 		<attachmentIndex>1002</attachmentIndex>
 		<itemIndex>1072</itemIndex>
-		<APCost>20</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>1002</attachmentIndex>
-		<itemIndex>1146</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
@@ -19632,11 +19612,6 @@
 	</ATTACHMENT>
 	<ATTACHMENT>
 		<attachmentIndex>1002</attachmentIndex>
-		<itemIndex>1954</itemIndex>
-		<APCost>20</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>1002</attachmentIndex>
 		<itemIndex>1973</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -19648,16 +19623,6 @@
 	<ATTACHMENT>
 		<attachmentIndex>1002</attachmentIndex>
 		<itemIndex>2007</itemIndex>
-		<APCost>20</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>1002</attachmentIndex>
-		<itemIndex>2476</itemIndex>
-		<APCost>20</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>1002</attachmentIndex>
-		<itemIndex>2516</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
@@ -39031,13 +38996,68 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1037</attachmentIndex> <!-- .22LR Drum Adapter -->
-		<itemIndex>788</itemIndex>
+		<attachmentIndex>1037</attachmentIndex> <!-- 9mm C-Mag Adapter, 32 -->
+		<itemIndex>330</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
 		<attachmentIndex>1037</attachmentIndex>
-		<itemIndex>796</itemIndex>
+		<itemIndex>345</itemIndex>
+		<APCost>20</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1037</attachmentIndex>
+		<itemIndex>346</itemIndex>
+		<APCost>20</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1037</attachmentIndex>
+		<itemIndex>688</itemIndex>
+		<APCost>20</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1037</attachmentIndex>
+		<itemIndex>692</itemIndex>
+		<APCost>20</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1037</attachmentIndex>
+		<itemIndex>725</itemIndex>
+		<APCost>20</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1037</attachmentIndex>
+		<itemIndex>727</itemIndex>
+		<APCost>20</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1037</attachmentIndex>
+		<itemIndex>761</itemIndex>
+		<APCost>20</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1037</attachmentIndex>
+		<itemIndex>793</itemIndex>
+		<APCost>20</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1037</attachmentIndex>
+		<itemIndex>1146</itemIndex>
+		<APCost>20</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1037</attachmentIndex>
+		<itemIndex>1954</itemIndex>
+		<APCost>20</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1037</attachmentIndex>
+		<itemIndex>2476</itemIndex>
+		<APCost>20</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1037</attachmentIndex>
+		<itemIndex>2516</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>

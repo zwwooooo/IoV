@@ -24300,10 +24300,10 @@
 	<ITEM>
 		<uiIndex>1002</uiIndex>
 		<szItemName>9mm C-Mag Adapter</szItemName>
-		<szLongItemName>9mm C-Mag Adapter</szLongItemName>
-		<szItemDesc>This special adapter can be attached to certain 9mm weapons to allow for the use of the 100-rd Beta C-Mags.</szItemDesc>
-		<szBRName>9mm C-Mag Adapter</szBRName>
-		<szBRDesc>This special adapter can be attached to certain 9mm weapons to allow for the use of the 100-rd Beta C-Mags.</szBRDesc>
+		<szLongItemName>9mm C-Mag Adapter, 30</szLongItemName>
+		<szItemDesc>This special adapter can be attached to certain 30-rds magzine 9mm weapons to allow for the use of the 100-rd Beta C-Mags.</szItemDesc>
+		<szBRName>9mm C-Mag Adapter, 30</szBRName>
+		<szBRDesc>This special adapter can be attached to certain 30-rds magzine 9mm weapons to allow for the use of the 100-rd Beta C-Mags.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>162</ubGraphicNum>
@@ -25195,31 +25195,30 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1037</uiIndex>
-		<szItemName>.22LR Drum Adapter</szItemName>
-		<szLongItemName>.22LR Drum Adapter</szLongItemName>
-		<szItemDesc>This special adapter can be attached to .22 LR assault weapons to allow for the use of the 50-round drum.</szItemDesc>
-		<szBRName>.22LR Drum Adapter</szBRName>
-		<szBRDesc>This special adapter can be attached to .22 LR assault weapons to allow for the use of the 50-round drum.</szBRDesc>
+		<szItemName>9mm C-Mag Adapter</szItemName>
+		<szLongItemName>9mm C-Mag Adapter, 32</szLongItemName>
+		<szItemDesc>This special adapter can be attached to certain 32-rds magzine 9mm weapons to allow for the use of the 100-rd Beta C-Mags.</szItemDesc>
+		<szBRName>9mm C-Mag Adapter, 32</szBRName>
+		<szBRDesc>This special adapter can be attached to certain 32-rds magzine 9mm weapons to allow for the use of the 100-rd Beta C-Mags.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>162</ubGraphicNum>
-		<ubWeight>1</ubWeight>
-		<ubPerPocket>6</ubPerPocket>
+		<ubWeight>3</ubWeight>
+		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>13</ItemSize>
-		<usPrice>500</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<usPrice>1000</usPrice>
+		<ubCoolness>5</ubCoolness>
 		<bReliability>1</bReliability>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
-		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
 		<Inseparable>1</Inseparable>
-		<BR_NewInventory>1</BR_NewInventory>
+		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<MagSizeBonus>20</MagSizeBonus>
+		<MagSizeBonus>68</MagSizeBonus>
 		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
 		<PercentReloadTimeAPReduction>-30</PercentReloadTimeAPReduction>
 	</ITEM>

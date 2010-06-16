@@ -8013,16 +8013,16 @@
 		<szItemName>5.56mm C-MAG Adapter</szItemName>
 		<szLongItemName>5.56mm C-MAG适配器，30发弹匣用</szLongItemName>
 		<szItemDesc>这种特殊的适配器可以安装在某些使用30发弹匣的5.56mm口径武器上，使它们可以使用100发的Beta C-Mag弹鼓。</szItemDesc>
-		<szBRName>5.56mm C-MAG Adapter</szBRName>
+		<szBRName>5.56mm C-MAG Adapter, 30</szBRName>
 		<szBRDesc>这种特殊的适配器可以安装在某些使用30发弹匣的5.56mm口径武器上，使它们可以使用100发的Beta C-Mag弹鼓。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1002</uiIndex>
 		<szItemName>9mm C-Mag Adapter</szItemName>
-		<szLongItemName>9mm C-Mag适配器</szLongItemName>
-		<szItemDesc>这种特殊的适配器可以安装在某些9mm口径的武器上，使它们可以使用100发的Beta C-Mag弹鼓。</szItemDesc>
-		<szBRName>9mm C-Mag Adapter</szBRName>
-		<szBRDesc>这种特殊的适配器可以安装在某些9mm口径的武器上，使它们可以使用100发的Beta C-Mag弹鼓。</szBRDesc>
+		<szLongItemName>9mm C-Mag适配器，30发弹匣用</szLongItemName>
+		<szItemDesc>这种特殊的适配器可以安装在某些30发弹匣的9mm口径的武器上，使它们可以使用100发的Beta C-Mag弹鼓。</szItemDesc>
+		<szBRName>9mm C-Mag Adapter, 30</szBRName>
+		<szBRDesc>这种特殊的适配器可以安装在某些30发弹匣的9mm口径的武器上，使它们可以使用100发的Beta C-Mag弹鼓。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1003</uiIndex>
@@ -8298,11 +8298,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1037</uiIndex>
-		<szItemName>.22LR Drum Adapter</szItemName>
-		<szLongItemName>.22LR弹鼓适配器</szLongItemName>
-		<szItemDesc>这种特殊的适配器可以安装在使用.22LR子弹的突击武器上，使它们可以使用50发的弹鼓。</szItemDesc>
-		<szBRName>.22LR Drum Adapter</szBRName>
-		<szBRDesc>这种特殊的适配器可以安装在使用.22LR子弹的突击武器上，使它们可以使用50发的弹鼓。</szBRDesc>
+		<szItemName>9mm C-Mag Adapter</szItemName>
+		<szLongItemName>9mm C-Mag适配器，32发弹匣用</szLongItemName>
+		<szItemDesc>这种特殊的适配器可以安装在某些32发弹匣的9mm口径的武器上，使它们可以使用100发的Beta C-Mag弹鼓。</szItemDesc>
+		<szBRName>9mm C-Mag Adapter, 32</szBRName>
+		<szBRDesc>这种特殊的适配器可以安装在某些32发弹匣的9mm口径的武器上，使它们可以使用100发的Beta C-Mag弹鼓。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1038</uiIndex>
