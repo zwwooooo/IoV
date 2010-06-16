@@ -4644,7 +4644,7 @@
 		<ItemSize>18</ItemSize>
 		<usPrice>50</usPrice>
 		<ubCoolness>4</ubCoolness>
-		<bReliability>1</bReliability>
+		<bReliability>-1</bReliability>
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -4659,7 +4659,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<DayVisionRangeBonus>100</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>80</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>50</PercentTunnelVision>
+		<PercentTunnelVision>70</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>200</uiIndex>
@@ -4689,10 +4689,9 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<NightVisionRangeBonus>20</NightVisionRangeBonus>
-		<DayVisionRangeBonus>70</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>15</CaveVisionRangeBonus>
+		<DayVisionRangeBonus>60</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>50</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>30</PercentTunnelVision>
+		<PercentTunnelVision>40</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>201</uiIndex>
@@ -4963,8 +4962,8 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<NightVisionRangeBonus>35</NightVisionRangeBonus>
 		<DayVisionRangeBonus>-35</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>35</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>-45</BrightLightVisionRangeBonus>
+		<CaveVisionRangeBonus>25</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>-40</BrightLightVisionRangeBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>212</uiIndex>
@@ -5014,8 +5013,8 @@
 		<Attachment>1</Attachment>
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<AimBonus>-3</AimBonus>
-		<VisionRangeBonus>-10</VisionRangeBonus>
+		<AimBonus>-2</AimBonus>
+		<PercentTunnelVision>20</PercentTunnelVision>
 		<GasMask>1</GasMask>
 	</ITEM>
 	<ITEM>
@@ -5654,10 +5653,10 @@
 		<Electronic>1</Electronic>
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<NightVisionRangeBonus>55</NightVisionRangeBonus>
+		<NightVisionRangeBonus>50</NightVisionRangeBonus>
 		<DayVisionRangeBonus>-35</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>55</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>-45</BrightLightVisionRangeBonus>
+		<CaveVisionRangeBonus>40</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>-40</BrightLightVisionRangeBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>247</uiIndex>
@@ -7716,8 +7715,6 @@
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>800</BR_ROF>
-		<NightVisionRangeBonus>20</NightVisionRangeBonus>
-		<CaveVisionRangeBonus>16</CaveVisionRangeBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>343</uiIndex>
@@ -7748,8 +7745,6 @@
 		<BR_ROF>800</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
-		<NightVisionRangeBonus>20</NightVisionRangeBonus>
-		<CaveVisionRangeBonus>16</CaveVisionRangeBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>344</uiIndex>
@@ -14659,7 +14654,7 @@
 		<ubPerPocket>1</ubPerPocket>
 		<ItemSize>1</ItemSize>
 		<usPrice>600</usPrice>
-		<ubCoolness>2</ubCoolness>
+		<ubCoolness>4</ubCoolness>
 		<bReliability>4</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -14732,9 +14727,9 @@
 		<MinRangeForAimBonus>20</MinRangeForAimBonus>
 		<DefaultAttachment>910</DefaultAttachment>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>20</DayVisionRangeBonus>
+		<DayVisionRangeBonus>15</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>10</PercentTunnelVision>
+		<PercentTunnelVision>20</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>647</uiIndex>
@@ -15424,10 +15419,10 @@
 		<PercentReadyTimeAPReduction>15</PercentReadyTimeAPReduction>
 		<PercentAPReduction>15</PercentAPReduction>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>28</DayVisionRangeBonus>
+		<DayVisionRangeBonus>20</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>6</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>28</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>10</PercentTunnelVision>
+		<PercentTunnelVision>30</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>669</uiIndex>
@@ -16958,7 +16953,7 @@
 		<ubPerPocket>1</ubPerPocket>
 		<ItemSize>3</ItemSize>
 		<usPrice>870</usPrice>
-		<ubCoolness>2</ubCoolness>
+		<ubCoolness>3</ubCoolness>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -17180,9 +17175,9 @@
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>20</DayVisionRangeBonus>
+		<DayVisionRangeBonus>15</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>10</PercentTunnelVision>
+		<PercentTunnelVision>20</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>728</uiIndex>
@@ -18022,10 +18017,10 @@
 		<PercentReadyTimeAPReduction>15</PercentReadyTimeAPReduction>
 		<PercentAPReduction>15</PercentAPReduction>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>28</DayVisionRangeBonus>
+		<DayVisionRangeBonus>20</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>6</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>28</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>10</PercentTunnelVision>
+		<PercentTunnelVision>30</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>756</uiIndex>
@@ -18061,10 +18056,10 @@
 		<PercentReadyTimeAPReduction>15</PercentReadyTimeAPReduction>
 		<PercentAPReduction>15</PercentAPReduction>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>28</DayVisionRangeBonus>
+		<DayVisionRangeBonus>20</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>6</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>28</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>10</PercentTunnelVision>
+		<PercentTunnelVision>30</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>757</uiIndex>
@@ -21293,22 +21288,11 @@
 		<szLongItemName>Police Armor Bra</szLongItemName>
 		<szItemDesc>A body armor bra first used by German policewomen. </szItemDesc>
 		<szBRName>Police Armor Bra</szBRName>
-		<szBRDesc>A body armor bra first used by German policewomen. Now available for those mercs who likes crossdressing.</szBRDesc>
+		<szBRDesc>Delete.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<ubClassIndex>105</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>361</ubGraphicNum>
-		<ubWeight>11</ubWeight>
-		<ItemSize>25</ItemSize>
-		<usPrice>500</usPrice>
-		<ubCoolness>8</ubCoolness>
-		<Damageable>1</Damageable>
-		<Repairable>1</Repairable>
-		<Sinks>1</Sinks>
-		<ShowStatus>1</ShowStatus>
-		<Attachment>1</Attachment>
-		<BR_NewInventory>1</BR_NewInventory>
-		<BR_UsedInventory>1</BR_UsedInventory>
 	</ITEM>
 	<ITEM>
 		<uiIndex>885</uiIndex>
@@ -21680,22 +21664,11 @@
 		<szLongItemName>Firefighting Helmet</szLongItemName>
 		<szItemDesc>This firefighting helmet with faceshield are made of thermoplastic and other composite material. Being much lighter than most combat helmets, it provides a large coverage area but little to none ballistic protection.</szItemDesc>
 		<szBRName>Firefighting Helmet</szBRName>
-		<szBRDesc>This helmet is usually used for fighting fire instead of fire fights. Being much lighter than most combat helmets, it provides a large coverage area but little to none ballistic protection.</szBRDesc>
+		<szBRDesc>Delete.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<ubClassIndex>119</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>568</ubGraphicNum>
-		<ubWeight>16</ubWeight>
-		<ItemSize>23</ItemSize>
-		<usPrice>190</usPrice>
-		<ubCoolness>5</ubCoolness>
-		<Damageable>1</Damageable>
-		<Repairable>1</Repairable>
-		<ShowStatus>1</ShowStatus>
-		<BigGunList>1</BigGunList>
-		<BR_NewInventory>1</BR_NewInventory>
-		<BR_UsedInventory>1</BR_UsedInventory>
-		<AimBonus>-2</AimBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>901</uiIndex>
@@ -22968,7 +22941,7 @@
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
 		<DayVisionRangeBonus>25</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>35</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>30</PercentTunnelVision>
+		<PercentTunnelVision>40</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>946</uiIndex>
@@ -24195,7 +24168,7 @@
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
 		<DayVisionRangeBonus>25</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>35</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>30</PercentTunnelVision>
+		<PercentTunnelVision>40</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>998</uiIndex>
@@ -24262,11 +24235,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1000</uiIndex>
-		<szItemName>PSO-3</szItemName>
-		<szLongItemName>PSO-3 Scope</szLongItemName>
-		<szItemDesc>Better than the PSO-1 (Magnification is 8x), this scope is often used on Russian DMRs and sniper rifles.</szItemDesc>
-		<szBRName>PSO-3 Scope</szBRName>
-		<szBRDesc>If you have an older style Russian rifle and need a highpower scope, than this is your best choice. Magnification is 8x.</szBRDesc>
+		<szItemName>PSO-P</szItemName>
+		<szLongItemName>PSO-P Scope</szLongItemName>
+		<szItemDesc>Better than the PSO-1 (Magnification is 6x), this scope is often used on Russian DMRs and sniper rifles.</szItemDesc>
+		<szBRName>PSO-P Scope</szBRName>
+		<szBRDesc>If you have an older style Russian rifle and need a highpower scope, than this is your best choice. Magnification is 6x.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>555</ubGraphicNum>
@@ -24293,7 +24266,7 @@
 		<DayVisionRangeBonus>40</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>50</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>75</PercentTunnelVision>
+		<PercentTunnelVision>65</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1001</uiIndex>
@@ -24406,7 +24379,7 @@
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
 		<DayVisionRangeBonus>25</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>35</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>30</PercentTunnelVision>
+		<PercentTunnelVision>40</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1005</uiIndex>
@@ -24876,10 +24849,10 @@
 		<Electronic>1</Electronic>
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<NightVisionRangeBonus>75</NightVisionRangeBonus>
+		<NightVisionRangeBonus>65</NightVisionRangeBonus>
 		<DayVisionRangeBonus>-35</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>75</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>-45</BrightLightVisionRangeBonus>
+		<CaveVisionRangeBonus>55</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>-40</BrightLightVisionRangeBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1025</uiIndex>
@@ -24906,8 +24879,9 @@
 		<Electronic>1</Electronic>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<NightVisionRangeBonus>75</NightVisionRangeBonus>
-		<CaveVisionRangeBonus>75</CaveVisionRangeBonus>
+		<NightVisionRangeBonus>65</NightVisionRangeBonus>
+		<CaveVisionRangeBonus>65</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>-20</BrightLightVisionRangeBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1026</uiIndex>
@@ -25008,7 +24982,7 @@
 		<Attachment>1</Attachment>
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<AimBonus>7</AimBonus>
+		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>10</MinRangeForAimBonus>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
 		<DayVisionRangeBonus>15</DayVisionRangeBonus>
@@ -25045,7 +25019,7 @@
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
 		<DayVisionRangeBonus>25</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>35</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>30</PercentTunnelVision>
+		<PercentTunnelVision>40</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1031</uiIndex>
@@ -26022,10 +25996,11 @@
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
 		<PercentReadyTimeAPReduction>15</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1616</DefaultAttachment>
-		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>35</DayVisionRangeBonus>
+		<NightVisionRangeBonus>15</NightVisionRangeBonus>
+		<DayVisionRangeBonus>30</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>35</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>10</PercentTunnelVision>
+		<PercentTunnelVision>50</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1065</uiIndex>
@@ -27187,7 +27162,7 @@
 		<ubWeight>35</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>2040</usPrice>
-		<ubCoolness>3</ubCoolness>
+		<ubCoolness>5</ubCoolness>
 		<bReliability>4</bReliability>
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
@@ -27216,7 +27191,7 @@
 		<ubWeight>35</ubWeight>
 		<ItemSize>6</ItemSize>
 		<usPrice>2040</usPrice>
-		<ubCoolness>4</ubCoolness>
+		<ubCoolness>6</ubCoolness>
 		<bReliability>5</bReliability>
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
@@ -27272,7 +27247,7 @@
 		<ubWeight>41</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>3170</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>7</ubCoolness>
 		<bReliability>6</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -27574,6 +27549,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_ROF>625</BR_ROF>
+		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>15</PercentReadyTimeAPReduction>
 	</ITEM>
@@ -27602,6 +27578,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_ROF>625</BR_ROF>
+		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>15</PercentReadyTimeAPReduction>
 	</ITEM>
@@ -27629,6 +27606,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_ROF>625</BR_ROF>
+		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>15</PercentReadyTimeAPReduction>
 	</ITEM>
@@ -27657,6 +27635,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_ROF>600</BR_ROF>
+		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>15</PercentReadyTimeAPReduction>
 	</ITEM>
@@ -27685,6 +27664,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_ROF>600</BR_ROF>
+		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>15</PercentReadyTimeAPReduction>
 	</ITEM>
@@ -27712,6 +27692,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_ROF>600</BR_ROF>
+		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>15</PercentReadyTimeAPReduction>
 	</ITEM>
@@ -27740,6 +27721,7 @@
 		<NotBuyable>1</NotBuyable>
 		<SciFi>1</SciFi>
 		<BR_ROF>650</BR_ROF>
+		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>15</PercentReadyTimeAPReduction>
 	</ITEM>
@@ -27768,6 +27750,7 @@
 		<NotBuyable>1</NotBuyable>
 		<SciFi>1</SciFi>
 		<BR_ROF>650</BR_ROF>
+		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>15</PercentReadyTimeAPReduction>
 	</ITEM>
@@ -27795,6 +27778,7 @@
 		<NotBuyable>1</NotBuyable>
 		<SciFi>1</SciFi>
 		<BR_ROF>650</BR_ROF>
+		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>15</PercentReadyTimeAPReduction>
 	</ITEM>
@@ -27823,6 +27807,7 @@
 		<NotBuyable>1</NotBuyable>
 		<SciFi>1</SciFi>
 		<BR_ROF>650</BR_ROF>
+		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>15</PercentReadyTimeAPReduction>
 	</ITEM>
@@ -27851,6 +27836,7 @@
 		<NotBuyable>1</NotBuyable>
 		<SciFi>1</SciFi>
 		<BR_ROF>650</BR_ROF>
+		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>15</PercentReadyTimeAPReduction>
 	</ITEM>
@@ -27878,6 +27864,7 @@
 		<NotBuyable>1</NotBuyable>
 		<SciFi>1</SciFi>
 		<BR_ROF>30</BR_ROF>
+		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>15</PercentReadyTimeAPReduction>
 	</ITEM>
@@ -29470,8 +29457,6 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
-		<BR_NewInventory>1</BR_NewInventory>
-		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>36</BR_ROF>
 	</ITEM>
 	<ITEM>
@@ -29525,6 +29510,8 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
+		<BR_NewInventory>2</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>26</BR_ROF>
 		<DefaultAttachment>1801</DefaultAttachment>
 	</ITEM>
@@ -29708,7 +29695,7 @@
 		<ubWeight>69</ubWeight>
 		<ItemSize>7</ItemSize>
 		<usPrice>3010</usPrice>
-		<ubCoolness>6</ubCoolness>
+		<ubCoolness>7</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<WaterDamages>1</WaterDamages>
@@ -29798,7 +29785,7 @@
 		<ubWeight>36</ubWeight>
 		<ItemSize>4</ItemSize>
 		<usPrice>1160</usPrice>
-		<ubCoolness>3</ubCoolness>
+		<ubCoolness>4</ubCoolness>
 		<bReliability>1</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -30063,7 +30050,7 @@
 		<ubWeight>21</ubWeight>
 		<ItemSize>5</ItemSize>
 		<usPrice>2000</usPrice>
-		<ubCoolness>4</ubCoolness>
+		<ubCoolness>5</ubCoolness>
 		<bReliability>4</bReliability>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
@@ -30122,7 +30109,7 @@
 		<ubWeight>30</ubWeight>
 		<ItemSize>4</ItemSize>
 		<usPrice>2700</usPrice>
-		<ubCoolness>4</ubCoolness>
+		<ubCoolness>8</ubCoolness>
 		<bReliability>2</bReliability>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
@@ -30208,7 +30195,7 @@
 		<ubWeight>41</ubWeight>
 		<ItemSize>6</ItemSize>
 		<usPrice>3250</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>7</ubCoolness>
 		<bReliability>2</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -30750,7 +30737,7 @@
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>434</ubGraphicNum>
 		<ubWeight>57</ubWeight>
-		<ItemSize>7</ItemSize>
+		<ItemSize>6</ItemSize>
 		<usPrice>7360</usPrice>
 		<ubCoolness>8</ubCoolness>
 		<bReliability>9</bReliability>
@@ -30765,6 +30752,8 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>750</BR_ROF>
 		<Bipod>10</Bipod>
+		<ToHitBonus>-1</ToHitBonus>
+		<PercentReadyTimeAPReduction>15</PercentReadyTimeAPReduction>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1235</uiIndex>
@@ -31035,7 +31024,7 @@
 		<ubWeight>26</ubWeight>
 		<ItemSize>7</ItemSize>
 		<usPrice>1200</usPrice>
-		<ubCoolness>3</ubCoolness>
+		<ubCoolness>4</ubCoolness>
 		<bReliability>1</bReliability>
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
@@ -31181,7 +31170,7 @@
 		<ubWeight>27</ubWeight>
 		<ItemSize>6</ItemSize>
 		<usPrice>2970</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>6</ubCoolness>
 		<bReliability>4</bReliability>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
@@ -31286,9 +31275,9 @@
 		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>20</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>10</PercentTunnelVision>
+		<DayVisionRangeBonus>15</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
+		<PercentTunnelVision>20</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1253</uiIndex>
@@ -31358,7 +31347,7 @@
 		<ubWeight>30</ubWeight>
 		<ItemSize>7</ItemSize>
 		<usPrice>2890</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>6</ubCoolness>
 		<bReliability>1</bReliability>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
@@ -31388,7 +31377,7 @@
 		<ubWeight>35</ubWeight>
 		<ItemSize>6</ItemSize>
 		<usPrice>6150</usPrice>
-		<ubCoolness>1</ubCoolness>
+		<ubCoolness>7</ubCoolness>
 		<bReliability>3</bReliability>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
@@ -31417,7 +31406,7 @@
 		<ubWeight>33</ubWeight>
 		<ItemSize>6</ItemSize>
 		<usPrice>2900</usPrice>
-		<ubCoolness>1</ubCoolness>
+		<ubCoolness>5</ubCoolness>
 		<bReliability>2</bReliability>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
@@ -31448,7 +31437,7 @@
 		<ubWeight>33</ubWeight>
 		<ItemSize>7</ItemSize>
 		<usPrice>2980</usPrice>
-		<ubCoolness>1</ubCoolness>
+		<ubCoolness>6</ubCoolness>
 		<bReliability>1</bReliability>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
@@ -31561,7 +31550,7 @@
 		<ubWeight>15</ubWeight>
 		<ItemSize>3</ItemSize>
 		<usPrice>2500</usPrice>
-		<ubCoolness>6</ubCoolness>
+		<ubCoolness>8</ubCoolness>
 		<bReliability>3</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -31592,7 +31581,7 @@
 		<ubWeight>21</ubWeight>
 		<ItemSize>5</ItemSize>
 		<usPrice>2500</usPrice>
-		<ubCoolness>4</ubCoolness>
+		<ubCoolness>5</ubCoolness>
 		<bReliability>3</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -32002,7 +31991,7 @@
 		<ubWeight>39</ubWeight>
 		<ItemSize>6</ItemSize>
 		<usPrice>3130</usPrice>
-		<ubCoolness>4</ubCoolness>
+		<ubCoolness>5</ubCoolness>
 		<bReliability>5</bReliability>
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
@@ -32033,7 +32022,7 @@
 		<ubWeight>35</ubWeight>
 		<ItemSize>5</ItemSize>
 		<usPrice>2930</usPrice>
-		<ubCoolness>4</ubCoolness>
+		<ubCoolness>6</ubCoolness>
 		<bReliability>6</bReliability>
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
@@ -32065,7 +32054,7 @@
 		<ubWeight>37</ubWeight>
 		<ItemSize>5</ItemSize>
 		<usPrice>3530</usPrice>
-		<ubCoolness>3</ubCoolness>
+		<ubCoolness>5</ubCoolness>
 		<bReliability>2</bReliability>
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
@@ -32093,7 +32082,7 @@
 		<ubWeight>24</ubWeight>
 		<ItemSize>6</ItemSize>
 		<usPrice>1820</usPrice>
-		<ubCoolness>3</ubCoolness>
+		<ubCoolness>2</ubCoolness>
 		<bReliability>1</bReliability>
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
@@ -32121,7 +32110,7 @@
 		<ubWeight>24</ubWeight>
 		<ItemSize>7</ItemSize>
 		<usPrice>1920</usPrice>
-		<ubCoolness>4</ubCoolness>
+		<ubCoolness>5</ubCoolness>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -32146,7 +32135,7 @@
 		<ubWeight>39</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>2070</usPrice>
-		<ubCoolness>4</ubCoolness>
+		<ubCoolness>5</ubCoolness>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -32171,7 +32160,7 @@
 		<ubWeight>88</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>4900</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>6</ubCoolness>
 		<bReliability>4</bReliability>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
@@ -32278,7 +32267,7 @@
 		<ubWeight>41</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>3090</usPrice>
-		<ubCoolness>6</ubCoolness>
+		<ubCoolness>5</ubCoolness>
 		<bReliability>1</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -32329,7 +32318,7 @@
 		<ubWeight>87</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>4940</usPrice>
-		<ubCoolness>7</ubCoolness>
+		<ubCoolness>6</ubCoolness>
 		<bReliability>3</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -32357,7 +32346,7 @@
 		<ubWeight>120</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>5080</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>6</ubCoolness>
 		<bReliability>4</bReliability>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
@@ -32385,7 +32374,7 @@
 		<ubWeight>160</ubWeight>
 		<ItemSize>9</ItemSize>
 		<usPrice>8900</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>9</ubCoolness>
 		<bReliability>-1</bReliability>
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
@@ -32491,7 +32480,7 @@
 		<ubWeight>12</ubWeight>
 		<ItemSize>2</ItemSize>
 		<usPrice>1200</usPrice>
-		<ubCoolness>3</ubCoolness>
+		<ubCoolness>5</ubCoolness>
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -32516,7 +32505,7 @@
 		<ubPerPocket>1</ubPerPocket>
 		<ItemSize>1</ItemSize>
 		<usPrice>850</usPrice>
-		<ubCoolness>1</ubCoolness>
+		<ubCoolness>6</ubCoolness>
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -32540,7 +32529,7 @@
 		<ubWeight>42</ubWeight>
 		<ItemSize>7</ItemSize>
 		<usPrice>980</usPrice>
-		<ubCoolness>2</ubCoolness>
+		<ubCoolness>5</ubCoolness>
 		<bReliability>1</bReliability>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
@@ -32594,7 +32583,7 @@
 		<ubWeight>52</ubWeight>
 		<ItemSize>7</ItemSize>
 		<usPrice>2940</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>6</ubCoolness>
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -32619,7 +32608,7 @@
 		<ubWeight>51</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>5400</usPrice>
-		<ubCoolness>6</ubCoolness>
+		<ubCoolness>8</ubCoolness>
 		<bReliability>1</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -32646,7 +32635,7 @@
 		<ubWeight>115</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>5600</usPrice>
-		<ubCoolness>6</ubCoolness>
+		<ubCoolness>9</ubCoolness>
 		<bReliability>5</bReliability>
 		<bRepairEase>-4</bRepairEase>
 		<Damageable>1</Damageable>
@@ -32674,7 +32663,7 @@
 		<ubWeight>41</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>2100</usPrice>
-		<ubCoolness>3</ubCoolness>
+		<ubCoolness>6</ubCoolness>
 		<bReliability>-1</bReliability>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
@@ -32700,7 +32689,7 @@
 		<ubWeight>102</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>3690</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>7</ubCoolness>
 		<bReliability>3</bReliability>
 		<bRepairEase>-4</bRepairEase>
 		<Damageable>1</Damageable>
@@ -32926,6 +32915,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
 		<BR_ROF>625</BR_ROF>
+		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>18</ToHitBonus>
 		<BestLaserRange>400</BestLaserRange>
 		<PercentReadyTimeAPReduction>15</PercentReadyTimeAPReduction>
@@ -32960,6 +32950,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
 		<BR_ROF>600</BR_ROF>
+		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>18</ToHitBonus>
 		<BestLaserRange>400</BestLaserRange>
 		<PercentReadyTimeAPReduction>15</PercentReadyTimeAPReduction>
@@ -33004,9 +32995,9 @@
 		<PercentAPReduction>10</PercentAPReduction>
 		<DefaultAttachment>50</DefaultAttachment>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>35</DayVisionRangeBonus>
+		<DayVisionRangeBonus>25</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>35</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>20</PercentTunnelVision>
+		<PercentTunnelVision>40</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1313</uiIndex>
@@ -33183,9 +33174,9 @@
 		<PercentAPReduction>10</PercentAPReduction>
 		<DefaultAttachment>1616</DefaultAttachment>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>35</DayVisionRangeBonus>
+		<DayVisionRangeBonus>25</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>35</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>20</PercentTunnelVision>
+		<PercentTunnelVision>40</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1319</uiIndex>
@@ -33451,6 +33442,8 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>1000</BR_ROF>
 		<PercentNoiseReduction>60</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
@@ -33472,7 +33465,7 @@
 		<ubPerPocket>1</ubPerPocket>
 		<ItemSize>0</ItemSize>
 		<usPrice>2180</usPrice>
-		<ubCoolness>1</ubCoolness>
+		<ubCoolness>9</ubCoolness>
 		<bReliability>1</bReliability>
 		<bRepairEase>3</bRepairEase>
 		<Damageable>1</Damageable>
@@ -33497,7 +33490,7 @@
 		<ubWeight>8</ubWeight>
 		<ItemSize>2</ItemSize>
 		<usPrice>1650</usPrice>
-		<ubCoolness>1</ubCoolness>
+		<ubCoolness>5</ubCoolness>
 		<bReliability>3</bReliability>
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
@@ -33774,10 +33767,9 @@
 		<PercentReadyTimeAPReduction>15</PercentReadyTimeAPReduction>
 		<DefaultAttachment>911</DefaultAttachment>
 		<NightVisionRangeBonus>70</NightVisionRangeBonus>
-		<DayVisionRangeBonus>30</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>70</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>50</PercentTunnelVision>
+		<DayVisionRangeBonus>20</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>60</CaveVisionRangeBonus>
+		<PercentTunnelVision>30</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1339</uiIndex>
@@ -34128,7 +34120,7 @@
 		<DayVisionRangeBonus>28</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>28</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>10</PercentTunnelVision>
+		<PercentTunnelVision>30</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1350</uiIndex>
@@ -34162,9 +34154,9 @@
 		<PercentAPReduction>10</PercentAPReduction>
 		<DefaultAttachment>50</DefaultAttachment>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>35</DayVisionRangeBonus>
+		<DayVisionRangeBonus>25</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>35</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>20</PercentTunnelVision>
+		<PercentTunnelVision>40</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1351</uiIndex>
@@ -34180,7 +34172,7 @@
 		<ubWeight>32</ubWeight>
 		<ItemSize>7</ItemSize>
 		<usPrice>2750</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>6</ubCoolness>
 		<bReliability>2</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -34608,7 +34600,7 @@
 		<ubWeight>72</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>5390</usPrice>
-		<ubCoolness>7</ubCoolness>
+		<ubCoolness>8</ubCoolness>
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -34758,7 +34750,7 @@
 		<ubWeight>44</ubWeight>
 		<ItemSize>7</ItemSize>
 		<usPrice>5300</usPrice>
-		<ubCoolness>1</ubCoolness>
+		<ubCoolness>6</ubCoolness>
 		<bReliability>3</bReliability>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
@@ -34787,7 +34779,7 @@
 		<ubWeight>43</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>4100</usPrice>
-		<ubCoolness>3</ubCoolness>
+		<ubCoolness>4</ubCoolness>
 		<bReliability>1</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -39700,7 +39692,7 @@
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
 		<GrenadeLauncher>1</GrenadeLauncher>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>30</DayVisionRangeBonus>
+		<DayVisionRangeBonus>25</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>50</PercentTunnelVision>
 	</ITEM>
@@ -39736,7 +39728,7 @@
 		<SingleShotRocketLauncher>1</SingleShotRocketLauncher>
 		<DiscardedLauncherItem>247</DiscardedLauncherItem>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>25</DayVisionRangeBonus>
+		<DayVisionRangeBonus>20</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>25</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>50</PercentTunnelVision>
 	</ITEM>
@@ -39803,11 +39795,10 @@
 		<AimBonus>5</AimBonus>
 		<MinRangeForAimBonus>20</MinRangeForAimBonus>
 		<GrenadeLauncher>1</GrenadeLauncher>
-		<NightVisionRangeBonus>25</NightVisionRangeBonus>
-		<DayVisionRangeBonus>35</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
+		<NightVisionRangeBonus>10</NightVisionRangeBonus>
+		<DayVisionRangeBonus>25</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>35</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>20</PercentTunnelVision>
+		<PercentTunnelVision>40</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1605</uiIndex>
@@ -39903,7 +39894,7 @@
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
 		<RocketLauncher>1</RocketLauncher>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>30</DayVisionRangeBonus>
+		<DayVisionRangeBonus>20</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>50</PercentTunnelVision>
 	</ITEM>
@@ -39939,7 +39930,7 @@
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
 		<RocketLauncher>1</RocketLauncher>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>30</DayVisionRangeBonus>
+		<DayVisionRangeBonus>20</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>50</PercentTunnelVision>
 	</ITEM>
@@ -40314,7 +40305,7 @@
 		<SingleShotRocketLauncher>1</SingleShotRocketLauncher>
 		<DiscardedLauncherItem>247</DiscardedLauncherItem>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>30</DayVisionRangeBonus>
+		<DayVisionRangeBonus>20</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>60</PercentTunnelVision>
 	</ITEM>
@@ -40507,7 +40498,7 @@
 		<SingleShotRocketLauncher>1</SingleShotRocketLauncher>
 		<DiscardedLauncherItem>247</DiscardedLauncherItem>
 		<VisionRangeBonus>90</VisionRangeBonus>
-		<PercentTunnelVision>70</PercentTunnelVision>
+		<PercentTunnelVision>80</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1627</uiIndex>
@@ -40598,7 +40589,7 @@
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
 		<GrenadeLauncher>1</GrenadeLauncher>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>30</DayVisionRangeBonus>
+		<DayVisionRangeBonus>20</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>50</PercentTunnelVision>
 	</ITEM>
@@ -43571,8 +43562,8 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<AimBonus>-2</AimBonus>
-		<VisionRangeBonus>-8</VisionRangeBonus>
+		<AimBonus>-1</AimBonus>
+		<PercentTunnelVision>20</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1752</uiIndex>
@@ -44741,7 +44732,7 @@
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
 		<DayVisionRangeBonus>25</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>35</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>30</PercentTunnelVision>
+		<PercentTunnelVision>40</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1801</uiIndex>
@@ -44853,11 +44844,11 @@
 		<Electronic>1</Electronic>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<AimBonus>9</AimBonus>
+		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
 		<PercentAPReduction>10</PercentAPReduction>
 		<VisionRangeBonus>20</VisionRangeBonus>
-		<PercentTunnelVision>20</PercentTunnelVision>
+		<PercentTunnelVision>35</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1805</uiIndex>
@@ -44890,7 +44881,7 @@
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
 		<DayVisionRangeBonus>20</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>25</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>20</PercentTunnelVision>
+		<PercentTunnelVision>30</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1806</uiIndex>
@@ -44915,14 +44906,14 @@
 		<Attachment>1</Attachment>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<AimBonus>10</AimBonus>
+		<AimBonus>11</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
 		<PercentAPReduction>5</PercentAPReduction>
 		<NightVisionRangeBonus>15</NightVisionRangeBonus>
 		<DayVisionRangeBonus>30</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>35</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>35</PercentTunnelVision>
+		<PercentTunnelVision>45</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1807</uiIndex>
@@ -44955,7 +44946,7 @@
 		<DayVisionRangeBonus>30</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>35</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>35</PercentTunnelVision>
+		<PercentTunnelVision>45</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1808</uiIndex>
@@ -44968,7 +44959,7 @@
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>759</ubGraphicNum>
 		<ubWeight>3</ubWeight>
-		<ubPerPocket>4</ubPerPocket>
+		<ubPerPocket>6</ubPerPocket>
 		<ItemSize>18</ItemSize>
 		<usPrice>1400</usPrice>
 		<ubCoolness>5</ubCoolness>
@@ -45052,7 +45043,7 @@
 		<DayVisionRangeBonus>25</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>30</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>35</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>30</PercentTunnelVision>
+		<PercentTunnelVision>40</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1811</uiIndex>
@@ -45083,7 +45074,7 @@
 		<NightVisionRangeBonus>20</NightVisionRangeBonus>
 		<DayVisionRangeBonus>30</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>35</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>35</PercentTunnelVision>
+		<PercentTunnelVision>45</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1812</uiIndex>
@@ -45145,7 +45136,7 @@
 		<DayVisionRangeBonus>135</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>150</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>95</PercentTunnelVision>
+		<PercentTunnelVision>96</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1814</uiIndex>
@@ -45244,7 +45235,7 @@
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
 		<DayVisionRangeBonus>20</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>20</PercentTunnelVision>
+		<PercentTunnelVision>35</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1817</uiIndex>
@@ -45269,7 +45260,7 @@
 		<Attachment>1</Attachment>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<AimBonus>19</AimBonus>
+		<AimBonus>20</AimBonus>
 		<MinRangeForAimBonus>65</MinRangeForAimBonus>
 		<PercentAPReduction>-8</PercentAPReduction>
 		<DamageBonus>3</DamageBonus>
@@ -45335,15 +45326,15 @@
 		<Attachment>1</Attachment>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<AimBonus>25</AimBonus>
+		<AimBonus>20</AimBonus>
 		<MinRangeForAimBonus>85</MinRangeForAimBonus>
 		<PercentAPReduction>-18</PercentAPReduction>
 		<DamageBonus>4</DamageBonus>
 		<NightVisionRangeBonus>45</NightVisionRangeBonus>
-		<DayVisionRangeBonus>110</DayVisionRangeBonus>
+		<DayVisionRangeBonus>120</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>15</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>120</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>90</PercentTunnelVision>
+		<PercentTunnelVision>95</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1820</uiIndex>
@@ -45433,7 +45424,7 @@
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<AimBonus>11</AimBonus>
+		<AimBonus>15</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
 		<PercentAPReduction>-6</PercentAPReduction>
 		<DamageBonus>1</DamageBonus>
@@ -45441,7 +45432,7 @@
 		<DayVisionRangeBonus>30</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>5</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>30</PercentTunnelVision>
+		<PercentTunnelVision>50</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1823</uiIndex>
@@ -45530,7 +45521,7 @@
 		<DayVisionRangeBonus>110</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>15</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>100</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>92</PercentTunnelVision>
+		<PercentTunnelVision>93</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1826</uiIndex>
@@ -45555,7 +45546,7 @@
 		<Electronic>1</Electronic>
 		<ToHitBonus>20</ToHitBonus>
 		<BestLaserRange>1000</BestLaserRange>
-		<AimBonus>25</AimBonus>
+		<AimBonus>20</AimBonus>
 		<MinRangeForAimBonus>100</MinRangeForAimBonus>
 		<PercentAPReduction>-20</PercentAPReduction>
 		<DamageBonus>4</DamageBonus>
@@ -45563,7 +45554,7 @@
 		<DayVisionRangeBonus>135</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>25</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>150</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>95</PercentTunnelVision>
+		<PercentTunnelVision>96</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1827</uiIndex>
@@ -45589,13 +45580,13 @@
 		<Electronic>1</Electronic>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<AimBonus>12</AimBonus>
+		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
 		<PercentAPReduction>-3</PercentAPReduction>
 		<NightVisionRangeBonus>20</NightVisionRangeBonus>
 		<DayVisionRangeBonus>40</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>45</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>35</PercentTunnelVision>
+		<PercentTunnelVision>50</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1828</uiIndex>
@@ -45620,12 +45611,13 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<AimBonus>11</AimBonus>
+		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
 		<DayVisionRangeBonus>20</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
+		<PercentTunnelVision>20</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1829</uiIndex>
@@ -45650,7 +45642,7 @@
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
 		<Electronic>1</Electronic>
-		<AimBonus>11</AimBonus>
+		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
 		<PercentAPReduction>-5</PercentAPReduction>
 		<NightVisionRangeBonus>60</NightVisionRangeBonus>
@@ -45693,7 +45685,7 @@
 		<DayVisionRangeBonus>40</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>70</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>55</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>50</PercentTunnelVision>
+		<PercentTunnelVision>60</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1831</uiIndex>
@@ -46151,7 +46143,7 @@
 		<DayVisionRangeBonus>16</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>32</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>24</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>50</PercentTunnelVision>
+		<PercentTunnelVision>60</PercentTunnelVision>
 		<ThermalOptics>1</ThermalOptics>
 	</ITEM>
 	<ITEM>
@@ -46182,7 +46174,7 @@
 		<DayVisionRangeBonus>170</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>170</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>70</PercentTunnelVision>
+		<PercentTunnelVision>80</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1847</uiIndex>
@@ -46445,14 +46437,14 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<AimBonus>11</AimBonus>
+		<AimBonus>15</AimBonus>
 		<MinRangeForAimBonus>45</MinRangeForAimBonus>
 		<PercentAPReduction>-7</PercentAPReduction>
 		<DamageBonus>1</DamageBonus>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
 		<DayVisionRangeBonus>28</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>35</PercentTunnelVision>
+		<PercentTunnelVision>50</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1857</uiIndex>
@@ -46478,14 +46470,14 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<AimBonus>11</AimBonus>
+		<AimBonus>15</AimBonus>
 		<MinRangeForAimBonus>45</MinRangeForAimBonus>
 		<PercentAPReduction>-7</PercentAPReduction>
 		<DamageBonus>1</DamageBonus>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
 		<DayVisionRangeBonus>30</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>35</PercentTunnelVision>
+		<PercentTunnelVision>40</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1858</uiIndex>
@@ -46511,7 +46503,7 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<AimBonus>11</AimBonus>
+		<AimBonus>15</AimBonus>
 		<MinRangeForAimBonus>45</MinRangeForAimBonus>
 		<PercentAPReduction>-7</PercentAPReduction>
 		<DamageBonus>1</DamageBonus>
@@ -46546,7 +46538,7 @@
 		<Electronic>1</Electronic>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<AimBonus>8</AimBonus>
+		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>20</MinRangeForAimBonus>
 		<NightVisionRangeBonus>60</NightVisionRangeBonus>
 		<DayVisionRangeBonus>15</DayVisionRangeBonus>
@@ -46579,14 +46571,14 @@
 		<Electronic>1</Electronic>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<AimBonus>12</AimBonus>
+		<AimBonus>11</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
 		<PercentAPReduction>7</PercentAPReduction>
 		<NightVisionRangeBonus>20</NightVisionRangeBonus>
 		<DayVisionRangeBonus>28</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>35</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>25</PercentTunnelVision>
+		<PercentTunnelVision>40</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1861</uiIndex>
@@ -48599,7 +48591,7 @@
 		<ubWeight>66</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>5830</usPrice>
-		<ubCoolness>9</ubCoolness>
+		<ubCoolness>8</ubCoolness>
 		<bReliability>2</bReliability>
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
@@ -48689,7 +48681,7 @@
 		<ubWeight>89</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>4650</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>7</ubCoolness>
 		<bReliability>4</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -48717,7 +48709,7 @@
 		<ubWeight>45</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>3900</usPrice>
-		<ubCoolness>4</ubCoolness>
+		<ubCoolness>8</ubCoolness>
 		<bReliability>1</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -48859,7 +48851,7 @@
 		<ubPerPocket>1</ubPerPocket>
 		<ItemSize>0</ItemSize>
 		<usPrice>530</usPrice>
-		<ubCoolness>2</ubCoolness>
+		<ubCoolness>4</ubCoolness>
 		<bReliability>1</bReliability>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
@@ -48916,7 +48908,7 @@
 		<ubWeight>21</ubWeight>
 		<ItemSize>4</ItemSize>
 		<usPrice>1250</usPrice>
-		<ubCoolness>3</ubCoolness>
+		<ubCoolness>4</ubCoolness>
 		<bReliability>4</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -49038,7 +49030,7 @@
 		<ubWeight>121</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>5270</usPrice>
-		<ubCoolness>4</ubCoolness>
+		<ubCoolness>6</ubCoolness>
 		<bReliability>4</bReliability>
 		<bRepairEase>-3</bRepairEase>
 		<Damageable>1</Damageable>
@@ -49298,8 +49290,8 @@
 		<ubWeight>43</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>3630</usPrice>
-		<ubCoolness>4</ubCoolness>
-		<bReliability>1</bReliability>
+		<ubCoolness>6</ubCoolness>
+		<bReliability>-3</bReliability>
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -49354,7 +49346,7 @@
 		<ubWeight>45</ubWeight>
 		<ItemSize>7</ItemSize>
 		<usPrice>5970</usPrice>
-		<ubCoolness>7</ubCoolness>
+		<ubCoolness>8</ubCoolness>
 		<bReliability>8</bReliability>
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
@@ -49412,7 +49404,7 @@
 		<ubWeight>134</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>6250</usPrice>
-		<ubCoolness>6</ubCoolness>
+		<ubCoolness>7</ubCoolness>
 		<bReliability>5</bReliability>
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
@@ -49666,11 +49658,10 @@
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
 		<PercentAPReduction>10</PercentAPReduction>
-		<NightVisionRangeBonus>40</NightVisionRangeBonus>
-		<DayVisionRangeBonus>35</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>40</CaveVisionRangeBonus>
+		<NightVisionRangeBonus>10</NightVisionRangeBonus>
+		<DayVisionRangeBonus>25</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>35</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>20</PercentTunnelVision>
+		<PercentTunnelVision>40</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1990</uiIndex>
@@ -49717,7 +49708,7 @@
 		<ubWeight>32</ubWeight>
 		<ItemSize>6</ItemSize>
 		<usPrice>1749</usPrice>
-		<ubCoolness>4</ubCoolness>
+		<ubCoolness>6</ubCoolness>
 		<bReliability>4</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -49805,7 +49796,7 @@
 		<ubWeight>39</ubWeight>
 		<ItemSize>6</ItemSize>
 		<usPrice>3120</usPrice>
-		<ubCoolness>6</ubCoolness>
+		<ubCoolness>7</ubCoolness>
 		<bReliability>3</bReliability>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
@@ -49961,7 +49952,7 @@
 		<ubWeight>36</ubWeight>
 		<ItemSize>6</ItemSize>
 		<usPrice>3270</usPrice>
-		<ubCoolness>6</ubCoolness>
+		<ubCoolness>7</ubCoolness>
 		<bReliability>7</bReliability>
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
@@ -49992,7 +49983,7 @@
 		<ubWeight>34</ubWeight>
 		<ItemSize>6</ItemSize>
 		<usPrice>2850</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>6</ubCoolness>
 		<bReliability>3</bReliability>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
@@ -50049,7 +50040,7 @@
 		<ubWeight>17</ubWeight>
 		<ItemSize>5</ItemSize>
 		<usPrice>1920</usPrice>
-		<ubCoolness>6</ubCoolness>
+		<ubCoolness>7</ubCoolness>
 		<bReliability>3</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -50107,7 +50098,7 @@
 		<ubWeight>23</ubWeight>
 		<ItemSize>5</ItemSize>
 		<usPrice>2790</usPrice>
-		<ubCoolness>6</ubCoolness>
+		<ubCoolness>9</ubCoolness>
 		<bReliability>-1</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -50186,7 +50177,7 @@
 		<ubWeight>28</ubWeight>
 		<ItemSize>4</ItemSize>
 		<usPrice>1650</usPrice>
-		<ubCoolness>6</ubCoolness>
+		<ubCoolness>7</ubCoolness>
 		<bReliability>3</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -50215,7 +50206,7 @@
 		<ubWeight>29</ubWeight>
 		<ItemSize>6</ItemSize>
 		<usPrice>980</usPrice>
-		<ubCoolness>4</ubCoolness>
+		<ubCoolness>6</ubCoolness>
 		<bReliability>2</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -50245,7 +50236,7 @@
 		<ubWeight>21</ubWeight>
 		<ItemSize>5</ItemSize>
 		<usPrice>1320</usPrice>
-		<ubCoolness>6</ubCoolness>
+		<ubCoolness>8</ubCoolness>
 		<bReliability>3</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -50372,7 +50363,7 @@
 		<ItemSize>7</ItemSize>
 		<usPrice>1670</usPrice>
 		<ubCoolness>3</ubCoolness>
-		<bReliability>3</bReliability>
+		<bReliability>4</bReliability>
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -50457,7 +50448,7 @@
 		<ubWeight>48</ubWeight>
 		<ItemSize>7</ItemSize>
 		<usPrice>1530</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>6</ubCoolness>
 		<bReliability>3</bReliability>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
@@ -52881,7 +52872,7 @@
 		<ItemSize>7</ItemSize>
 		<usPrice>1400</usPrice>
 		<ubCoolness>4</ubCoolness>
-		<bReliability>1</bReliability>
+		<bReliability>2</bReliability>
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -52910,7 +52901,7 @@
 		<ItemSize>8</ItemSize>
 		<usPrice>1460</usPrice>
 		<ubCoolness>5</ubCoolness>
-		<bReliability>1</bReliability>
+		<bReliability>2</bReliability>
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -53087,7 +53078,7 @@
 		<ubWeight>124</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>14000</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>9</ubCoolness>
 		<bReliability>1</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -53175,7 +53166,7 @@
 		<ubWeight>31</ubWeight>
 		<ItemSize>5</ItemSize>
 		<usPrice>1330</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>7</ubCoolness>
 		<bReliability>4</bReliability>
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
@@ -53205,7 +53196,7 @@
 		<ubWeight>28</ubWeight>
 		<ItemSize>4</ItemSize>
 		<usPrice>1350</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>8</ubCoolness>
 		<bReliability>3</bReliability>
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
@@ -53236,7 +53227,7 @@
 		<ubWeight>30</ubWeight>
 		<ItemSize>5</ItemSize>
 		<usPrice>1100</usPrice>
-		<ubCoolness>4</ubCoolness>
+		<ubCoolness>6</ubCoolness>
 		<bReliability>4</bReliability>
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
@@ -53510,7 +53501,7 @@
 		<ubWeight>21</ubWeight>
 		<ItemSize>4</ItemSize>
 		<usPrice>2460</usPrice>
-		<ubCoolness>6</ubCoolness>
+		<ubCoolness>7</ubCoolness>
 		<bReliability>4</bReliability>
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
@@ -53717,10 +53708,10 @@
 		<PercentAPReduction>5</PercentAPReduction>
 		<DefaultAttachment>50</DefaultAttachment>
 		<NightVisionRangeBonus>60</NightVisionRangeBonus>
-		<DayVisionRangeBonus>50</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>60</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>45</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>40</PercentTunnelVision>
+		<DayVisionRangeBonus>30</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>50</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
+		<PercentTunnelVision>50</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2159</uiIndex>
@@ -53789,7 +53780,7 @@
 		<ubWeight>28</ubWeight>
 		<ItemSize>2</ItemSize>
 		<usPrice>1950</usPrice>
-		<ubCoolness>6</ubCoolness>
+		<ubCoolness>7</ubCoolness>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -53891,22 +53882,11 @@
 		<szLongItemName>Brick</szLongItemName>
 		<szItemDesc>A heavy brick came off the Great Wall, from Beijing with love.</szItemDesc>
 		<szBRName>Brick</szBRName>
-		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<szBRDesc>Delete.</szBRDesc>
 		<usItemClass>128</usItemClass>
 		<ubClassIndex>2165</ubClassIndex>
 		<ubCursor>2</ubCursor>
 		<ubGraphicNum>810</ubGraphicNum>
-		<ubWeight>10</ubWeight>
-		<ubPerPocket>2</ubPerPocket>
-		<ItemSize>21</ItemSize>
-		<usPrice>5</usPrice>
-		<ubCoolness>1</ubCoolness>
-		<Damageable>1</Damageable>
-		<Metal>1</Metal>
-		<Sinks>1</Sinks>
-		<ShowStatus>1</ShowStatus>
-		<BR_ROF>20</BR_ROF>
-		<Hardware>1</Hardware>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2166</uiIndex>
@@ -53983,7 +53963,7 @@
 		<ubWeight>14</ubWeight>
 		<ItemSize>2</ItemSize>
 		<usPrice>1070</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>6</ubCoolness>
 		<bReliability>1</bReliability>
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
@@ -54151,7 +54131,7 @@
 		<PercentAPReduction>20</PercentAPReduction>
 		<DefaultAttachment>1834</DefaultAttachment>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>25</DayVisionRangeBonus>
+		<DayVisionRangeBonus>20</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>25</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>30</PercentTunnelVision>
 	</ITEM>
@@ -54426,7 +54406,7 @@
 		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
 		<VisionRangeBonus>40</VisionRangeBonus>
-		<PercentTunnelVision>50</PercentTunnelVision>
+		<PercentTunnelVision>60</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2184</uiIndex>
@@ -54485,10 +54465,10 @@
 		<PercentAPReduction>-12</PercentAPReduction>
 		<DamageBonus>3</DamageBonus>
 		<NightVisionRangeBonus>35</NightVisionRangeBonus>
-		<DayVisionRangeBonus>70</DayVisionRangeBonus>
+		<DayVisionRangeBonus>85</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>90</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>85</PercentTunnelVision>
+		<PercentTunnelVision>90</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2186</uiIndex>
@@ -54579,7 +54559,7 @@
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
 		<DayVisionRangeBonus>20</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>25</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>15</PercentTunnelVision>
+		<PercentTunnelVision>30</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2189</uiIndex>
@@ -54602,7 +54582,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
-		<AimBonus>18</AimBonus>
+		<AimBonus>20</AimBonus>
 		<MinRangeForAimBonus>70</MinRangeForAimBonus>
 		<PercentAPReduction>-9</PercentAPReduction>
 		<DamageBonus>3</DamageBonus>
@@ -56246,12 +56226,12 @@
 		<Electronic>1</Electronic>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<AimBonus>5</AimBonus>
+		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
 		<DayVisionRangeBonus>20</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>25</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>35</PercentTunnelVision>
+		<PercentTunnelVision>25</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2262</uiIndex>
@@ -56584,7 +56564,7 @@
 		<ubPerPocket>1</ubPerPocket>
 		<ItemSize>1</ItemSize>
 		<usPrice>555</usPrice>
-		<ubCoolness>2</ubCoolness>
+		<ubCoolness>3</ubCoolness>
 		<bReliability>3</bReliability>
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
@@ -56613,7 +56593,7 @@
 		<ubPerPocket>1</ubPerPocket>
 		<ItemSize>2</ItemSize>
 		<usPrice>680</usPrice>
-		<ubCoolness>2</ubCoolness>
+		<ubCoolness>4</ubCoolness>
 		<bReliability>3</bReliability>
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
@@ -56641,7 +56621,7 @@
 		<ubWeight>15</ubWeight>
 		<ItemSize>2</ItemSize>
 		<usPrice>770</usPrice>
-		<ubCoolness>2</ubCoolness>
+		<ubCoolness>4</ubCoolness>
 		<bReliability>3</bReliability>
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
@@ -57140,7 +57120,7 @@
 		<ubWeight>25</ubWeight>
 		<ItemSize>7</ItemSize>
 		<usPrice>2680</usPrice>
-		<ubCoolness>6</ubCoolness>
+		<ubCoolness>5</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<WaterDamages>1</WaterDamages>
@@ -57299,9 +57279,9 @@
 		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>35</DayVisionRangeBonus>
+		<DayVisionRangeBonus>25</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>35</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>20</PercentTunnelVision>
+		<PercentTunnelVision>40</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2300</uiIndex>
@@ -60405,7 +60385,7 @@
 		<ubWeight>26</ubWeight>
 		<ItemSize>6</ItemSize>
 		<usPrice>1870</usPrice>
-		<ubCoolness>6</ubCoolness>
+		<ubCoolness>7</ubCoolness>
 		<bReliability>2</bReliability>
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
@@ -60435,7 +60415,7 @@
 		<ubWeight>33</ubWeight>
 		<ItemSize>7</ItemSize>
 		<usPrice>1680</usPrice>
-		<ubCoolness>4</ubCoolness>
+		<ubCoolness>6</ubCoolness>
 		<bReliability>3</bReliability>
 		<bRepairEase>3</bRepairEase>
 		<Damageable>1</Damageable>
@@ -61269,9 +61249,9 @@
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
 		<PercentAPReduction>10</PercentAPReduction>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>35</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>35</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>20</PercentTunnelVision>
+		<DayVisionRangeBonus>25</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>25</BrightLightVisionRangeBonus>
+		<PercentTunnelVision>40</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2480</uiIndex>
@@ -61287,7 +61267,7 @@
 		<ubWeight>35</ubWeight>
 		<ItemSize>7</ItemSize>
 		<usPrice>1900</usPrice>
-		<ubCoolness>4</ubCoolness>
+		<ubCoolness>5</ubCoolness>
 		<bReliability>2</bReliability>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
@@ -61317,7 +61297,7 @@
 		<ubWeight>43</ubWeight>
 		<ItemSize>6</ItemSize>
 		<usPrice>3040</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>7</ubCoolness>
 		<bReliability>8</bReliability>
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
@@ -61343,7 +61323,7 @@
 		<ubWeight>34</ubWeight>
 		<ItemSize>5</ItemSize>
 		<usPrice>1180</usPrice>
-		<ubCoolness>3</ubCoolness>
+		<ubCoolness>4</ubCoolness>
 		<bReliability>4</bReliability>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
@@ -61428,7 +61408,7 @@
 		<DayVisionRangeBonus>20</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>6</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>28</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>20</PercentTunnelVision>
+		<PercentTunnelVision>30</PercentTunnelVision>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2486</uiIndex>
@@ -61497,21 +61477,10 @@
 		<szLongItemName>QD Flash Suppressor</szLongItemName>
 		<szItemDesc>This muzzle flas-hide for Quick-Attach/Detach Sound Suppressors.</szItemDesc>
 		<szBRName>QD Suppressor</szBRName>
-		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<szBRDesc>Delete.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>580</ubGraphicNum>
-		<ubWeight>3</ubWeight>
-		<ubPerPocket>4</ubPerPocket>
-		<ItemSize>12</ItemSize>
-		<usPrice>200</usPrice>
-		<ubCoolness>2</ubCoolness>
-		<Damageable>1</Damageable>
-		<Repairable>1</Repairable>
-		<Metal>1</Metal>
-		<Attachment>1</Attachment>
-		<BigGunList>1</BigGunList>
-		<HideMuzzleFlash>1</HideMuzzleFlash>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2490</uiIndex>
@@ -61519,29 +61488,10 @@
 		<szLongItemName>QD Silencer</szLongItemName>
 		<szItemDesc>Quick-Attach/Detach Sound Suppressors for Spec-Ops.</szItemDesc>
 		<szBRName>QD Silencer</szBRName>
-		<szBRDesc>Quick-Attach/Detach Sound Suppressors for Spec-Ops.</szBRDesc>
+		<szBRDesc>Delete.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>581</ubGraphicNum>
-		<ubWeight>6</ubWeight>
-		<ubPerPocket>4</ubPerPocket>
-		<ItemSize>16</ItemSize>
-		<ItemSizeBonus>1</ItemSizeBonus>
-		<usPrice>1000</usPrice>
-		<ubCoolness>6</ubCoolness>
-		<bRepairEase>-1</bRepairEase>
-		<Damageable>1</Damageable>
-		<Repairable>1</Repairable>
-		<Metal>1</Metal>
-		<Attachment>1</Attachment>
-		<BigGunList>1</BigGunList>
-		<PercentNoiseReduction>55</PercentNoiseReduction>
-		<HideMuzzleFlash>1</HideMuzzleFlash>
-		<ToHitBonus>-2</ToHitBonus>
-		<BurstToHitBonus>2</BurstToHitBonus>
-		<AutoFireToHitBonus>2</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
-		<DefaultAttachment>2489</DefaultAttachment>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2491</uiIndex>
@@ -61587,7 +61537,7 @@
 		<ubWeight>42</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>3400</usPrice>
-		<ubCoolness>3</ubCoolness>
+		<ubCoolness>5</ubCoolness>
 		<bRepairEase>-3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -61841,7 +61791,7 @@
 		<ubWeight>33</ubWeight>
 		<ItemSize>7</ItemSize>
 		<usPrice>3300</usPrice>
-		<ubCoolness>3</ubCoolness>
+		<ubCoolness>4</ubCoolness>
 		<bReliability>2</bReliability>
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
@@ -62226,7 +62176,7 @@
 		<szLongItemName>Madsen LMG</szLongItemName>
 		<szItemDesc>Incredibly reliable despite its complexity, this WWI era machinegun offers smooth action and low recoil thanks to its low fire rate.</szItemDesc>
 		<szBRName>Madsen LMG</szBRName>
-		<szBRDesc>Made in the early 20th century, this venerable machinegun now chambers 7.62x51mm NATO and is still on active duty in Brazil.</szBRDesc>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2518</ubClassIndex>
 		<ubCursor>3</ubCursor>
@@ -62244,7 +62194,6 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
-		<BR_UsedInventory>2</BR_UsedInventory>
 		<BR_ROF>450</BR_ROF>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<Bipod>10</Bipod>
