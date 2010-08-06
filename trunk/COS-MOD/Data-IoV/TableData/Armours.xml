@@ -736,10 +736,10 @@
 		<ubDegradePercent>20</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>105</uiIndex> <!-- Armor Bra -->
+		<uiIndex>105</uiIndex> <!-- Soft Balistic Panel -->
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>15</ubProtection>
-		<ubCoverage>30</ubCoverage>
+		<ubProtection>30</ubProtection>
+		<ubCoverage>90</ubCoverage>
 		<ubDegradePercent>20</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
@@ -1228,8 +1228,8 @@
 	<ARMOUR>
 		<uiIndex>175</uiIndex> <!-- Sorcery Bra -->
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>99</ubProtection>
-		<ubCoverage>19</ubCoverage>
+		<ubProtection>150</ubProtection>
+		<ubCoverage>25</ubCoverage>
 		<ubDegradePercent>35</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
@@ -1289,245 +1289,238 @@
 		<ubDegradePercent>5</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>184</uiIndex> <!-- RFVC1 Flak Vest -->
-		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>20</ubProtection>
-		<ubCoverage>85</ubCoverage>
-		<ubDegradePercent>20</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
-		<uiIndex>185</uiIndex> <!-- Hunter Helmet -->
+		<uiIndex>184</uiIndex> <!-- Hunter Helmet -->
 		<ubArmourClass>0</ubArmourClass>
 		<ubProtection>28</ubProtection>
 		<ubCoverage>65</ubCoverage>
 		<ubDegradePercent>20</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>186</uiIndex> <!-- Hunter Uniform -->
+		<uiIndex>185</uiIndex> <!-- Hunter Uniform -->
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>28</ubProtection>
 		<ubCoverage>90</ubCoverage>
 		<ubDegradePercent>15</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>187</uiIndex> <!-- Hunter Trousers -->
+		<uiIndex>186</uiIndex> <!-- Hunter Trousers -->
 		<ubArmourClass>2</ubArmourClass>
 		<ubProtection>2</ubProtection>
 		<ubCoverage>95</ubCoverage>
 		<ubDegradePercent>15</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>188</uiIndex> <!-- ACH Helmet -->
+		<uiIndex>187</uiIndex> <!-- ACH Helmet -->
 		<ubArmourClass>0</ubArmourClass>
 		<ubProtection>29</ubProtection>
 		<ubCoverage>70</ubCoverage>
 		<ubDegradePercent>5</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>189</uiIndex> <!-- RBA Vest -->
+		<uiIndex>188</uiIndex> <!-- RBA Vest -->
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>33</ubProtection>
 		<ubCoverage>85</ubCoverage>
 		<ubDegradePercent>20</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>190</uiIndex> <!-- PASGT Helmet -->
+		<uiIndex>189</uiIndex> <!-- PASGT Helmet -->
 		<ubArmourClass>0</ubArmourClass>
 		<ubProtection>27</ubProtection>
 		<ubCoverage>65</ubCoverage>
 		<ubDegradePercent>11</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>191</uiIndex> <!-- PASGT Armor -->
+		<uiIndex>190</uiIndex> <!-- PASGT Armor -->
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>26</ubProtection>
 		<ubCoverage>80</ubCoverage>
 		<ubDegradePercent>10</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>192</uiIndex> <!-- Mk2 Steel Helmet -->
+		<uiIndex>191</uiIndex> <!-- Mk2 Steel Helmet -->
 		<ubArmourClass>0</ubArmourClass>
 		<ubProtection>12</ubProtection>
 		<ubCoverage>50</ubCoverage>
 		<ubDegradePercent>9</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>193</uiIndex> <!-- KMT Helmet -->
+		<uiIndex>192</uiIndex> <!-- KMT Helmet -->
 		<ubArmourClass>0</ubArmourClass>
 		<ubProtection>15</ubProtection>
 		<ubCoverage>65</ubCoverage>
 		<ubDegradePercent>20</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>194</uiIndex> <!-- KMT Trousers -->
+		<uiIndex>193</uiIndex> <!-- KMT Trousers -->
 		<ubArmourClass>2</ubArmourClass>
 		<ubProtection>3</ubProtection>
 		<ubCoverage>95</ubCoverage>
 		<ubDegradePercent>5</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>195</uiIndex> <!-- 07 Wood Shirt -->
+		<uiIndex>194</uiIndex> <!-- 07 Wood Shirt -->
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>1</ubProtection>
 		<ubCoverage>99</ubCoverage>
 		<ubDegradePercent>5</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>196</uiIndex> <!-- 07 Wood Trousers -->
+		<uiIndex>195</uiIndex> <!-- 07 Wood Trousers -->
 		<ubArmourClass>2</ubArmourClass>
 		<ubProtection>1</ubProtection>
 		<ubCoverage>99</ubCoverage>
 		<ubDegradePercent>5</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>197</uiIndex> <!-- 07 Desert Shirt -->
+		<uiIndex>196</uiIndex> <!-- 07 Desert Shirt -->
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>1</ubProtection>
 		<ubCoverage>99</ubCoverage>
 		<ubDegradePercent>5</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>198</uiIndex> <!-- 07 Desert Trousers -->
+		<uiIndex>197</uiIndex> <!-- 07 Desert Trousers -->
 		<ubArmourClass>2</ubArmourClass>
 		<ubProtection>1</ubProtection>
 		<ubCoverage>99</ubCoverage>
 		<ubDegradePercent>5</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>199</uiIndex> <!-- Balaclava -->
+		<uiIndex>198</uiIndex> <!-- Balaclava -->
 		<ubArmourClass>0</ubArmourClass>
 		<ubProtection>1</ubProtection>
 		<ubCoverage>99</ubCoverage>
 		<ubDegradePercent>25</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>200</uiIndex> <!-- Headwrap -->
+		<uiIndex>199</uiIndex> <!-- Headwrap -->
 		<ubArmourClass>0</ubArmourClass>
 		<ubProtection>1</ubProtection>
 		<ubCoverage>50</ubCoverage>
 		<ubDegradePercent>25</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>201</uiIndex> <!-- KLMK Shirt -->
+		<uiIndex>200</uiIndex> <!-- KLMK Shirt -->
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>1</ubProtection>
 		<ubCoverage>99</ubCoverage>
 		<ubDegradePercent>5</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>202</uiIndex> <!-- KLMK Trousers -->
+		<uiIndex>201</uiIndex> <!-- KLMK Trousers -->
 		<ubArmourClass>2</ubArmourClass>
 		<ubProtection>1</ubProtection>
 		<ubCoverage>99</ubCoverage>
 		<ubDegradePercent>5</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>203</uiIndex> <!-- OMON Wood Shirt -->
+		<uiIndex>202</uiIndex> <!-- OMON Wood Shirt -->
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>1</ubProtection>
 		<ubCoverage>99</ubCoverage>
 		<ubDegradePercent>5</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>204</uiIndex> <!-- OMON Wood Trousers -->
+		<uiIndex>203</uiIndex> <!-- OMON Wood Trousers -->
 		<ubArmourClass>2</ubArmourClass>
 		<ubProtection>1</ubProtection>
 		<ubCoverage>99</ubCoverage>
 		<ubDegradePercent>5</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>205</uiIndex> <!-- OMON City Shirt -->
+		<uiIndex>204</uiIndex> <!-- OMON City Shirt -->
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>1</ubProtection>
 		<ubCoverage>99</ubCoverage>
 		<ubDegradePercent>5</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>206</uiIndex> <!-- OMON City Trousers -->
+		<uiIndex>205</uiIndex> <!-- OMON City Trousers -->
 		<ubArmourClass>2</ubArmourClass>
 		<ubProtection>1</ubProtection>
 		<ubCoverage>99</ubCoverage>
 		<ubDegradePercent>5</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>207</uiIndex> <!-- QGF02 Helmet -->
+		<uiIndex>206</uiIndex> <!-- QGF02 Helmet -->
 		<ubArmourClass>0</ubArmourClass>
 		<ubProtection>29</ubProtection>
 		<ubCoverage>75</ubCoverage>
 		<ubDegradePercent>11</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>208</uiIndex> <!-- QGF03 Helmet -->
+		<uiIndex>207</uiIndex> <!-- QGF03 Helmet -->
 		<ubArmourClass>0</ubArmourClass>
 		<ubProtection>29</ubProtection>
 		<ubCoverage>75</ubCoverage>
 		<ubDegradePercent>15</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>209</uiIndex> <!-- FDY-IVR Vest -->
+		<uiIndex>208</uiIndex> <!-- FDY-IVR Vest -->
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>25</ubProtection>
 		<ubCoverage>88</ubCoverage>
 		<ubDegradePercent>15</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>210</uiIndex> <!-- 04B Vest -->
+		<uiIndex>209</uiIndex> <!-- 04B Vest -->
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>31</ubProtection>
 		<ubCoverage>85</ubCoverage>
 		<ubDegradePercent>13</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>211</uiIndex> <!-- PACA Vest -->
+		<uiIndex>210</uiIndex> <!-- PACA Vest -->
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>30</ubProtection>
 		<ubCoverage>87</ubCoverage>
 		<ubDegradePercent>15</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>212</uiIndex> <!-- Multicam Bonnie -->
+		<uiIndex>211</uiIndex> <!-- Multicam Bonnie -->
 		<ubArmourClass>0</ubArmourClass>
 		<ubProtection>1</ubProtection>
 		<ubCoverage>55</ubCoverage>
 		<ubDegradePercent>5</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>213</uiIndex> <!-- Multicam Parka -->
+		<uiIndex>212</uiIndex> <!-- Multicam Parka -->
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>1</ubProtection>
 		<ubCoverage>99</ubCoverage>
 		<ubDegradePercent>5</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>214</uiIndex> <!-- Multicam BDU -->
+		<uiIndex>213</uiIndex> <!-- Multicam BDU -->
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>1</ubProtection>
 		<ubCoverage>99</ubCoverage>
 		<ubDegradePercent>5</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>215</uiIndex> <!-- PJ Body Armor -->
+		<uiIndex>214</uiIndex> <!-- PJ Body Armor -->
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>25</ubProtection>
 		<ubCoverage>85</ubCoverage>
 		<ubDegradePercent>15</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>216</uiIndex> <!-- Mk.9 Fragmentation Vest -->
+		<uiIndex>215</uiIndex> <!-- Mk.9 Fragmentation Vest -->
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>25</ubProtection>
 		<ubCoverage>80</ubCoverage>
 		<ubDegradePercent>20</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>217</uiIndex> <!-- DPM Shirt -->
+		<uiIndex>216</uiIndex> <!-- DPM Shirt -->
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>1</ubProtection>
 		<ubCoverage>99</ubCoverage>
 		<ubDegradePercent>5</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>218</uiIndex> <!-- DPM Trousers -->
+		<uiIndex>217</uiIndex> <!-- DPM Trousers -->
 		<ubArmourClass>2</ubArmourClass>
 		<ubProtection>1</ubProtection>
 		<ubCoverage>99</ubCoverage>

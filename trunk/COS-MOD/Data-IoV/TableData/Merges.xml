@@ -2745,14 +2745,6 @@
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1899</firstItemIndex> <!-- JAE-100 Stock -->
-		<secondItemIndex>1158</secondItemIndex> <!-- M14 -->
-		<firstResultingItemIndex>1391</firstResultingItemIndex> <!-- M14 JAE -->
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
 		<firstItemIndex>1900</firstItemIndex> <!-- Masada 556 SBR kit -->
 		<secondItemIndex>1382</secondItemIndex>
 		<firstResultingItemIndex>1381</firstResultingItemIndex>
@@ -3433,6 +3425,46 @@
 		<APCost>50</APCost>
 	</MERGE>
 	<MERGE>
+		<firstItemIndex>2489</firstItemIndex> <!-- Thompson SMG Upgrade Kits -->
+		<secondItemIndex>11</secondItemIndex> <!--Thompson M1A1 -->
+		<firstResultingItemIndex>2165</firstResultingItemIndex> <!-- M41A Rale Gun -->
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>4</mergeType>
+		<APCost>85</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2489</firstItemIndex> <!-- Thompson SMG Upgrade Kits -->
+		<secondItemIndex>737</secondItemIndex> <!--Thompson M1928 -->
+		<firstResultingItemIndex>2165</firstResultingItemIndex> <!-- M41A Rale Gun -->
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>4</mergeType>
+		<APCost>85</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2490</firstItemIndex> <!-- Bulldog 762 -->
+		<secondItemIndex>27</secondItemIndex> <!-- M14 -->
+		<firstResultingItemIndex>2637</firstResultingItemIndex> <!-- Bulldog 762 M14 -->
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2490</firstItemIndex> <!-- Bulldog 762 -->
+		<secondItemIndex>1155</secondItemIndex> <!-- M14E2 -->
+		<firstResultingItemIndex>2637</firstResultingItemIndex> <!-- Bulldog 762 M14 -->
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2490</firstItemIndex> <!-- Bulldog 762 -->
+		<secondItemIndex>1156</secondItemIndex> <!-- M1A Scout -->
+		<firstResultingItemIndex>2638</firstResultingItemIndex> <!-- Bulldog 762 M1A -->
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
 		<firstItemIndex>2599</firstItemIndex> <!-- Mk16 Mod0 STD con.kits -->
 		<secondItemIndex>1123</secondItemIndex> <!-- Mk16 Mod0 CQC -->
 		<firstResultingItemIndex>1122</firstResultingItemIndex> <!-- Mk16 Mod0 STD -->
@@ -3840,5 +3872,4 @@
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
-	
 </MERGELIST>
