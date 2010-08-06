@@ -858,18 +858,18 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>107</uiIndex>
-		<szItemName>12Ga Slug 6</szItemName>
-		<szLongItemName>12号，6发独头弹</szLongItemName>
-		<szItemDesc>6发12号独头弹，洞穿防弹衣对其而言是小菜一碟。</szItemDesc>
-		<szBRName>12号，6发独头弹</szBRName>
+		<szItemName>12Ga Slug 7</szItemName>
+		<szLongItemName>12号，7发独头弹</szLongItemName>
+		<szItemDesc>7发12号独头弹，洞穿防弹衣对其而言是小菜一碟。</szItemDesc>
+		<szBRName>12Ga Slug 7</szBRName>
 		<szBRDesc>真正的男人用真正的猛弹，12号独头弹的弹丸可以像穿透手纸一样穿透防弹衣。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>108</uiIndex>
-		<szItemName>12Ga Shells 6 BS</szItemName>
-		<szLongItemName>12号，6发鹿弹</szLongItemName>
+		<szItemName>12Ga Shells 7 BS</szItemName>
+		<szLongItemName>12号，7发鹿弹</szLongItemName>
 		<szItemDesc>12号鹿弹是公安机关长期爱用的镇暴/执法弹药，特别适合近距离的城市作战。</szItemDesc>
-		<szBRName>12号，6发鹿弹</szBRName>
+		<szBRName>12Ga Shells 7 Buckshot</szBRName>
 		<szBRDesc>理想的近战弹药，一击制敌，居家防身必不可缺。</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -3242,34 +3242,34 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>405</uiIndex>
-		<szItemName>12g Shells 2 BS</szItemName>
+		<szItemName>12Ga Shells 2 BS</szItemName>
 		<szLongItemName>12号，2发鹿弹</szLongItemName>
 		<szItemDesc>装上两发鹿弹，你可以无所顾忌的大喊“这是我的地盘！”。</szItemDesc>
-		<szBRName>12g Shells 2 Buckshot</szBRName>
+		<szBRName>12Ga Shells 2 Buckshot</szBRName>
 		<szBRDesc>把敌人在你眼前轰成碎片。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>406</uiIndex>
-		<szItemName>12g Shells 2 FL</szItemName>
+		<szItemName>12Ga Shells 2 FL</szItemName>
 		<szLongItemName>12号，2发箭型弹</szLongItemName>
 		<szItemDesc>用这些小飞镖穿透敌人的防弹衣再把他们撕成碎片，没有比这再过瘾的了。</szItemDesc>
-		<szBRName>12g Shells 2 Flechette</szBRName>
+		<szBRName>12Ga Shells 2 Flechette</szBRName>
 		<szBRDesc>用这些小飞镖穿透敌人的防弹衣再把他们撕成碎片，没有比这再过瘾的了。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>407</uiIndex>
-		<szItemName>12g Shells 2 HE</szItemName>
+		<szItemName>12Ga Shells 2 HE</szItemName>
 		<szLongItemName>12号，2发高爆弹(FRAG-12)</szLongItemName>
 		<szItemDesc>FRAG-12弹药是12号霰弹家族中的一种试验性高爆弹。</szItemDesc>
-		<szBRName>12g Shells 2 FRAG-12</szBRName>
+		<szBRName>12Ga Shells 2 FRAG-12</szBRName>
 		<szBRDesc>FRAG-12弹药是12号霰弹家族中的一种试验性高爆弹。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>408</uiIndex>
-		<szItemName>12g Shells 2 LB</szItemName>
+		<szItemName>12Ga Shells 2 LB</szItemName>
 		<szLongItemName>12号，2发破锁弹</szLongItemName>
 		<szItemDesc>当对一扇锁住的门没招时这些子弹就有用了。这些弹药很少用来杀人。</szItemDesc>
-		<szBRName>12g Shells 2 Lock-Buster</szBRName>
+		<szBRName>12Ga Shells 2 Lock-Buster</szBRName>
 		<szBRDesc>技巧娴熟的开锁专家很昂贵，这些子弹就便宜多了，而且更响。</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -3282,64 +3282,64 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>410</uiIndex>
-		<szItemName>12g Shells 4 BS</szItemName>
+		<szItemName>12Ga Shells 4 BS</szItemName>
 		<szLongItemName>12号，4发鹿弹</szLongItemName>
 		<szItemDesc>这是我们在世界末日后对付流民和僵尸的必备品。</szItemDesc>
-		<szBRName>12g Shells 4 Buckshot</szBRName>
+		<szBRName>12Ga Shells 4 Buckshot</szBRName>
 		<szBRDesc>一堆12号鹿弹可以在中近距离将敌人解体，拥有它还需要什么别的理由么？</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>411</uiIndex>
-		<szItemName>12g Shells 4 FL</szItemName>
+		<szItemName>12Ga Shells 4 FL</szItemName>
 		<szLongItemName>12号，4发箭型弹</szLongItemName>
 		<szItemDesc>用这些小飞镖穿透敌人的防弹衣再把他们撕成碎片，没有比这再过瘾的了。</szItemDesc>
-		<szBRName>12g Shells 4 Flechette</szBRName>
+		<szBRName>12Ga Shells 4 Flechette</szBRName>
 		<szBRDesc>用这些小飞镖穿透敌人的防弹衣再把他们撕成碎片，没有比这再过瘾的了。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>412</uiIndex>
-		<szItemName>12g Shells 4 HE</szItemName>
+		<szItemName>12Ga Shells 4 HE</szItemName>
 		<szLongItemName>12号，4发高爆弹(FRAG-12)</szLongItemName>
 		<szItemDesc>FRAG-12弹药是12号霰弹家族中的一种试验性高爆弹。</szItemDesc>
-		<szBRName>12g Shells 4 FRAG-12</szBRName>
+		<szBRName>12Ga Shells 4 FRAG-12</szBRName>
 		<szBRDesc>FRAG-12弹药是12号霰弹家族中的一种试验性高爆弹。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>413</uiIndex>
-		<szItemName>12g Shells 4 LB</szItemName>
+		<szItemName>12Ga Shells 4 LB</szItemName>
 		<szLongItemName>12号，4发破锁弹</szLongItemName>
 		<szItemDesc>适合在近距离解决掉锁。</szItemDesc>
-		<szBRName>12g Shells 4 Lock-Buster</szBRName>
+		<szBRName>12Ga Shells 4 Lock-Buster</szBRName>
 		<szBRDesc>对于那些向你“挑衅”的挂锁，这些子弹会给你雪中送炭的。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>414</uiIndex>
-		<szItemName>12g Shells 6 FL</szItemName>
-		<szLongItemName>12号，6发箭型弹</szLongItemName>
+		<szItemName>12Ga Shells 7 FL</szItemName>
+		<szLongItemName>12号，7发箭型弹</szLongItemName>
 		<szItemDesc>用这些小飞镖穿透敌人的防弹衣再把他们撕成碎片，没有比这再过瘾的了。</szItemDesc>
-		<szBRName>12g Shells 6 Flechette</szBRName>
+		<szBRName>12Ga Shells 7 Flechette</szBRName>
 		<szBRDesc>用这些小飞镖穿透敌人的防弹衣再把他们撕成碎片，没有比这再过瘾的了。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>415</uiIndex>
-		<szItemName>12g Shells 6 HE</szItemName>
-		<szLongItemName>12号，6发高爆弹(FRAG-12)</szLongItemName>
+		<szItemName>12Ga Shells 7 HE</szItemName>
+		<szLongItemName>12号，7发高爆弹(FRAG-12)</szLongItemName>
 		<szItemDesc>FRAG-12弹药是12号霰弹家族中的一种试验性高爆弹。</szItemDesc>
-		<szBRName>12g Shells 6 FRAG-12</szBRName>
+		<szBRName>12Ga Shells 7 FRAG-12</szBRName>
 		<szBRDesc>FRAG-12弹药是12号霰弹家族中的一种试验性高爆弹。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>416</uiIndex>
-		<szItemName>12g Shells 6 LB</szItemName>
-		<szLongItemName>12号，6发破锁弹</szLongItemName>
+		<szItemName>12Ga Shells 7 LB</szItemName>
+		<szLongItemName>12号，7发破锁弹</szLongItemName>
 		<szItemDesc>当对一扇锁住的门没招时这些子弹就有用了。这些弹药很少用来杀人。</szItemDesc>
-		<szBRName>112g Shells 6 Lock-Buster</szBRName>
+		<szBRName>112g Shells 7 Lock-Buster</szBRName>
 		<szBRDesc>技巧娴熟的开锁专家很昂贵，这些子弹就便宜多了，而且更响。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>417</uiIndex>
 		<szItemName>12Ga Slug 8</szItemName>
-		<szLongItemName>12号，8发独头弹</szLongItemName>
+		<szLongItemName>12号弹匣，8发独头弹</szLongItemName>
 		<szItemDesc>这8发12号独头弹可以击穿多种障碍物和轻装甲。</szItemDesc>
 		<szBRName>12Ga Slug 8</szBRName>
 		<szBRDesc>霰弹枪独头弹有着广泛的战术应用。</szBRDesc>
@@ -3347,15 +3347,15 @@
 	<ITEM>
 		<uiIndex>418</uiIndex>
 		<szItemName>12Ga BS 8</szItemName>
-		<szLongItemName>12号，8发鹿弹</szLongItemName>
+		<szLongItemName>12号弹匣，8发鹿弹</szLongItemName>
 		<szItemDesc>这是我们在世界末日后对付流民和僵尸的必备品。</szItemDesc>
-		<szBRName>12g Shells 8 Buckshot</szBRName>
+		<szBRName>12Ga Shells 8 Buckshot</szBRName>
 		<szBRDesc>一堆12号鹿弹可以在中近距离将敌人解体，拥有它还需要什么别的理由么？</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>419</uiIndex>
 		<szItemName>12Ga FL 8</szItemName>
-		<szLongItemName>12号，8发箭型弹</szLongItemName>
+		<szLongItemName>12号弹匣，8发箭型弹</szLongItemName>
 		<szItemDesc>用这些小飞镖穿透敌人的防弹衣再把他们撕成碎片，没有比这再过瘾的了。</szItemDesc>
 		<szBRName>12Ga 8 Flechette</szBRName>
 		<szBRDesc>用这些小飞镖穿透敌人的防弹衣再把他们撕成碎片，没有比这再过瘾的了。</szBRDesc>
@@ -3363,17 +3363,17 @@
 	<ITEM>
 		<uiIndex>420</uiIndex>
 		<szItemName>12Ga HE 8</szItemName>
-		<szLongItemName>12号，8发高爆弹(FRAG-12)</szLongItemName>
+		<szLongItemName>12号弹匣，8发高爆弹(FRAG-12)</szLongItemName>
 		<szItemDesc>FRAG-12弹药是12号霰弹家族中的一种试验性高爆弹。</szItemDesc>
-		<szBRName>12g Shells 8 FRAG-12</szBRName>
+		<szBRName>12Ga Shells 8 FRAG-12</szBRName>
 		<szBRDesc>FRAG-12弹药是12号霰弹家族中的一种试验性高爆弹。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>421</uiIndex>
 		<szItemName>12Ga LB 8</szItemName>
-		<szLongItemName>12号，8发破锁弹</szLongItemName>
+		<szLongItemName>12号弹匣，8发破锁弹</szLongItemName>
 		<szItemDesc>适合在近距离解决掉锁。</szItemDesc>
-		<szBRName>12g Shells 8 Lock-Buster</szBRName>
+		<szBRName>12Ga Shells 8 Lock-Buster</szBRName>
 		<szBRDesc>对于那些向你“挑衅”的挂锁，这些子弹会给你雪中送炭的。</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -3386,15 +3386,15 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>423</uiIndex>
-		<szItemName>12g Shells 12 BS</szItemName>
+		<szItemName>12Ga Shells 12 BS</szItemName>
 		<szLongItemName>12号，12发鹿弹</szLongItemName>
 		<szItemDesc>在弹匣供弹的霰弹枪上使用的12发12号鹿弹霰弹。</szItemDesc>
-		<szBRName>12g Shells 12 Buckshot</szBRName>
+		<szBRName>12Ga Shells 12 Buckshot</szBRName>
 		<szBRDesc>用这12发霰弹鼓下一场猛烈的白热的“冰雹”吧。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>424</uiIndex>
-		<szItemName>12g Shells 12 FL</szItemName>
+		<szItemName>12Ga Shells 12 FL</szItemName>
 		<szLongItemName>12号，12发箭型弹</szLongItemName>
 		<szItemDesc>用这些小飞镖穿透敌人的防弹衣再把他们撕成碎片，没有比这再过瘾的了。</szItemDesc>
 		<szBRName>12Ga 12 Flechette</szBRName>
@@ -3402,18 +3402,18 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>425</uiIndex>
-		<szItemName>12g Shells 12 HE</szItemName>
+		<szItemName>12Ga Shells 12 HE</szItemName>
 		<szLongItemName>12号，12发高爆弹(FRAG-12)</szLongItemName>
 		<szItemDesc>FRAG-12弹药是12号霰弹家族中的一种试验性高爆弹。</szItemDesc>
-		<szBRName>12g Shells 12 FRAG-12</szBRName>
+		<szBRName>12Ga Shells 12 FRAG-12</szBRName>
 		<szBRDesc>FRAG-12弹药是12号霰弹家族中的一种试验性高爆弹。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>426</uiIndex>
-		<szItemName>12g Shells 12 LB</szItemName>
+		<szItemName>12Ga Shells 12 LB</szItemName>
 		<szLongItemName>12号，12发破锁弹</szLongItemName>
 		<szItemDesc>12发破锁弹，可以保证你能够轰开大多数门，只是射程十分有限。</szItemDesc>
-		<szBRName>12g Shells 12 Lock-Buster</szBRName>
+		<szBRName>12Ga Shells 12 Lock-Buster</szBRName>
 		<szBRDesc>12发破锁弹可以帮助你快速破门。</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -3434,7 +3434,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>429</uiIndex>
-		<szItemName>12g Drum 20 FL</szItemName>
+		<szItemName>12Ga Drum 20 FL</szItemName>
 		<szLongItemName>12号，20发箭型弹</szLongItemName>
 		<szItemDesc>用这些小飞镖穿透敌人的防弹衣再把他们撕成碎片，没有比这再过瘾的了。</szItemDesc>
 		<szBRName>12Ga 20 Flechette</szBRName>
@@ -3442,18 +3442,18 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>430</uiIndex>
-		<szItemName>12g Shells 20 HE</szItemName>
+		<szItemName>12Ga Shells 20 HE</szItemName>
 		<szLongItemName>12号，20发高爆弹(FRAG-12)</szLongItemName>
 		<szItemDesc>FRAG-12弹药是12号霰弹家族中的一种试验性高爆弹。</szItemDesc>
-		<szBRName>12g Shells 20 FRAG-12</szBRName>
+		<szBRName>12Ga Shells 20 FRAG-12</szBRName>
 		<szBRDesc>FRAG-12弹药是12号霰弹家族中的一种试验性高爆弹。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>431</uiIndex>
-		<szItemName>12g Drum 20 LB</szItemName>
+		<szItemName>12Ga Drum 20 LB</szItemName>
 		<szLongItemName>12号，20发破锁弹</szLongItemName>
 		<szItemDesc>一整个弹鼓的破锁弹，虽然射程很短，却可以解决掉银行金库以外的任何锁。</szItemDesc>
-		<szBRName>12g Shells 20 Lock-Buster</szBRName>
+		<szBRName>12Ga Shells 20 Lock-Buster</szBRName>
 		<szBRDesc>当你的开锁专家累了抑或是挂了时，这个破锁弹弹鼓就会十分有用了。</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -7074,11 +7074,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>884</uiIndex>
-		<szItemName>Armor Bra</szItemName>
-		<szLongItemName>警用防弹胸罩</szLongItemName>
-		<szItemDesc>德国女警装备的防弹胸罩。</szItemDesc>
-		<szBRName>Police Armor Bra</szBRName>
-		<szBRDesc>德国女警装备的防弹胸罩。</szBRDesc>
+		<szItemName>Balistic Insert</szItemName>
+		<szLongItemName>软防弹内衬</szLongItemName>
+		<szItemDesc>防弹衣的软质凯夫拉纤维内衬。</szItemDesc>
+		<szBRName>Soft Balistic Insert</szBRName>
+		<szBRDesc>防弹衣的软质凯夫拉纤维内衬。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>885</uiIndex>
@@ -9195,9 +9195,9 @@
 	<ITEM>
 		<uiIndex>1149</uiIndex>
 		<szItemName>SR-25 BR</szItemName>
-		<szLongItemName>SR-25 Battle Rifle</szLongItemName>
+		<szLongItemName>KAC SR-25 Battle Rifle</szLongItemName>
 		<szItemDesc>KAC生产的SR-25战斗步枪装备了14.5英寸的枪管和最新的URX导轨型护木系统。它发射7.62mm口径北约弹。</szItemDesc>
-		<szBRName>SR-25 Battle Rifle</szBRName>
+		<szBRName>KAC SR-25 Battle Rifle</szBRName>
 		<szBRDesc>奈特军械公司生产的SR-25战斗步枪装备了14.5英寸的枪管和最新的URX导轨型护木系统。它发射7.62mm口径北约弹。</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -12506,19 +12506,19 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1563</uiIndex>
-		<szItemName>.22 LR Drum</szItemName>
-		<szLongItemName>.22 LR，50发普通弹</szLongItemName>
-		<szItemDesc>这个弹鼓内装有50发.22LR普通弹。</szItemDesc>
-		<szBRName>.22 LR Mag 50</szBRName>
-		<szBRDesc>这个弹鼓内装有50发.22LR普通弹。</szBRDesc>
+		<szItemName>.44 S-Load VBR</szItemName>
+		<szLongItemName>.44 VBR高速穿甲弹</szLongItemName>
+		<szItemDesc>装有6发.44马格南口径的VBR高速穿甲弹的快速装弹器。</szItemDesc>
+		<szBRName>.44 S-Load VBR</szBRName>
+		<szBRDesc>装有6发.44马格南口径的VBR高速穿甲弹的快速装弹器。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1564</uiIndex>
-		<szItemName>.22 LR Drum HV</szItemName>
-		<szLongItemName>.22 LR，50发高速弹</szLongItemName>
-		<szItemDesc>这个弹鼓内装有50发.22LR普通弹。</szItemDesc>
-		<szBRName>.22 LR Mag 50 HV</szBRName>
-		<szBRDesc>这个弹鼓内装有50发.22LR普通弹。</szBRDesc>
+		<szItemName>.44 Mag VBR</szItemName>
+		<szLongItemName>.44 Magazine, VBR</szLongItemName>
+		<szItemDesc>装有8发.44马格南口径的VBR高速穿甲弹的弹匣。</szItemDesc>
+		<szBRName>.44 Mag VBR</szBRName>
+		<szBRDesc>装有8发.44马格南口径的VBR高速穿甲弹的弹匣。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1565</uiIndex>
@@ -16186,11 +16186,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2023</uiIndex>
-		<szItemName>12Ga Polyshok 6</szItemName>
-		<szLongItemName>12号，6发Polyshok弹</szLongItemName>
-		<szItemDesc>6发12号Polyshok弹，它是一种撞击后利用反冲力消除跳弹几率的霰弹，与通常的独头弹相对比它重量更轻、后座力更小、射程更远、准确性更好、在受害者身上开的洞也更大。</szItemDesc>
+		<szItemName>12Ga Polyshok 7</szItemName>
+		<szLongItemName>12号，7发Polyshok弹</szLongItemName>
+		<szItemDesc>7发12号Polyshok弹，它是一种撞击后利用反冲力消除跳弹几率的霰弹，与通常的独头弹相对比它重量更轻、后座力更小、射程更远、准确性更好、在受害者身上开的洞也更大。</szItemDesc>
 		<szBRName>12Ga Polyshok 6</szBRName>
-		<szBRDesc>6发12号Polyshok弹，它是一种撞击后利用反冲力消除跳弹几率的霰弹，与通常的独头弹相对比它重量更轻、后座力更小、射程更远、准确性更好、在受害者身上开的洞也更大。</szBRDesc>
+		<szBRDesc>7发12号Polyshok弹，它是一种撞击后利用反冲力消除跳弹几率的霰弹，与通常的独头弹相对比它重量更轻、后座力更小、射程更远、准确性更好、在受害者身上开的洞也更大。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2024</uiIndex>
@@ -16213,7 +16213,7 @@
 		<szItemName>12Ga Polyshok 20</szItemName>
 		<szLongItemName>12号，20发Polyshok弹</szLongItemName>
 		<szItemDesc>20发12号Polyshok弹，它是一种撞击后利用反冲力消除跳弹几率的霰弹，与通常的独头弹相对比它重量更轻、后座力更小、射程更远、准确性更好、在受害者身上开的洞也更大。</szItemDesc>
-		<szBRName>12g Drum Polyshok 20</szBRName>
+		<szBRName>12Ga Drum Polyshok 20</szBRName>
 		<szBRDesc>20发12号Polyshok弹，它是一种撞击后利用反冲力消除跳弹几率的霰弹，与通常的独头弹相对比它重量更轻、后座力更小、射程更远、准确性更好、在受害者身上开的洞也更大。</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -16250,10 +16250,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2031</uiIndex>
-		<szItemName>12g Drum 20 BS</szItemName>
+		<szItemName>12Ga Drum 20 BS</szItemName>
 		<szLongItemName>12号，20发鹿弹</szLongItemName>
 		<szItemDesc>不论是居家自卫还是做战场先锋，这种弹药都很理想的。</szItemDesc>
-		<szBRName>12g Drum 20 Buckshot</szBRName>
+		<szBRName>12Ga Drum 20 Buckshot</szBRName>
 		<szBRDesc>这种使用便利的鹿弹鼓可以让你拥有强大的火力。</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -17322,10 +17322,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2165</uiIndex>
-		<szItemName>Brick</szItemName>
-		<szLongItemName>板砖</szLongItemName>
-		<szItemDesc>来自拆迁建筑的上好红砖，街头斗殴利器。</szItemDesc>
-		<szBRName>Brick</szBRName>
+		<szItemName>M41A</szItemName>
+		<szLongItemName>M41A真枪</szLongItemName>
+		<szItemDesc>由汤姆森冲锋枪改装，外形像异型电影里的M-41A脉冲步枪，但其实是发射.45 ACP子弹。</szItemDesc>
+		<szBRName>M41A Real Gun</szBRName>
 		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -19914,19 +19914,19 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2489</uiIndex>
-		<szItemName>QD Supp.</szItemName>
-		<szLongItemName>AAC快拆消焰器</szLongItemName>
-		<szItemDesc>当你要使用AAC消声器的时候，不需要先拆掉这个消焰器。</szItemDesc>
-		<szBRName>AAC QD Suppressor</szBRName>
-		<szBRDesc>不在BR出售</szBRDesc>
+		<szItemName>Upgrade for Thompson</szItemName>
+		<szLongItemName>汤姆森冲锋枪升级套件</szLongItemName>
+		<szItemDesc>把汤姆森M1A1或M1928冲锋枪改装成电影异型里的M41A步枪外形。</szItemDesc>
+		<szBRName>Thompson Upgrade Kits</szBRName>
+		<szBRDesc>把汤姆森M1A1或M1928冲锋枪改装成电影异型里的M41A步枪外形。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2490</uiIndex>
-		<szItemName>QD Sil.</szItemName>
-		<szLongItemName>AAC快拆消声器</szLongItemName>
-		<szItemDesc>Quick-Attach/Detach Sound Suppressors for Spec-Ops.</szItemDesc>
-		<szBRName>AAC QD Silencer</szBRName>
-		<szBRDesc>Quick-Attach/Detach Sound Suppressors for Spec-Ops.</szBRDesc>
+		<szItemName>Bulldog 762 Kits</szItemName>
+		<szLongItemName>Bulldog 762转换套件</szLongItemName>
+		<szItemDesc>把M14或M1A改装成无托结构，不影响它的射程和精度，但长度缩短了12英寸。</szItemDesc>
+		<szBRName>Bulldog 762 Transforms Kits</szBRName>
+		<szBRDesc>把M14或M1A改装成无托结构，不影响它的射程和精度，但长度缩短了12英寸。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2491</uiIndex>
@@ -20863,5 +20863,253 @@
 		<szItemDesc>将任何型号SCAR-L转换成18英寸枪管的6.8 SPC口径Mk16 Mod1长管型。</szItemDesc>
 		<szBRName>SCAR-L 6.8 LB con.kit</szBRName>
 		<szBRDesc>将任何型号SCAR-L转换成18英寸枪管的6.8 SPC口径Mk16 Mod1长管型。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2608</uiIndex>
+		<szItemName>.44 Mag VBR box</szItemName>
+		<szLongItemName>.44马格南口径VBR弹药盒</szLongItemName>
+		<szItemDesc>比利时VBR公司生产，.44马格南口径的高速穿甲弹，沙漠之鹰粉丝对付防弹衣首选。</szItemDesc>
+		<szBRName>.44 Magnum VBR ammo box</szBRName>
+		<szBRDesc>比利时VBR公司生产，.44马格南口径的高速穿甲弹，沙漠之鹰粉丝对付防弹衣首选。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2609</uiIndex>
+		<szItemName>.45 M41A Mag</szItemName>
+		<szLongItemName>.45 M41A弹匣</szLongItemName>
+		<szItemDesc>为异型版汤姆森（M41A）而设计的大容量弹匣，可以装4排共55发.45 ACP普通弹。</szItemDesc>
+		<szBRName>.45 M41A Mag</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2610</uiIndex>
+		<szItemName>.45 M41A Mag H</szItemName>
+		<szLongItemName>.45 M41A弹匣, 空尖弹</szLongItemName>
+		<szItemDesc>为异型版汤姆森（M41A）而设计的大容量弹匣，可以装4排共55发.45 ACP空尖弹。</szItemDesc>
+		<szBRName>.45 M41A Mag JHP</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2611</uiIndex>
+		<szItemName>.45 M41A Mag T</szItemName>
+		<szLongItemName>.45 M41A弹匣, 曳光弹</szLongItemName>
+		<szItemDesc>为异型版汤姆森（M41A）而设计的大容量弹匣，可以装4排共55发.45 ACP曳光弹。</szItemDesc>
+		<szBRName>.45 M41A Mag Tracer</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2612</uiIndex>
+		<szItemName>.45 M41A Mag M</szItemName>
+		<szLongItemName>.45 M41A弹匣, 比赛弹</szLongItemName>
+		<szItemDesc>为异型版汤姆森（M41A）而设计的大容量弹匣，可以装4排共55发.45 ACP比赛弹。</szItemDesc>
+		<szBRName>.45 M41A Mag Match</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2613</uiIndex>
+		<szItemName>.45 M41A Mag KTW</szItemName>
+		<szLongItemName>.45 M41A弹匣, KTW弹</szLongItemName>
+		<szItemDesc>为异型版汤姆森（M41A）而设计的大容量弹匣，可以装4排共55发.45 ACP口径KTW高速弹。</szItemDesc>
+		<szBRName>.45 M41A Mag KTW</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2614</uiIndex>
+		<szItemName>12Ga Mag 6 Slug</szItemName>
+		<szLongItemName>12号弹匣，6发独头弹</szLongItemName>
+		<szItemDesc>装6发12号独头弹的弹匣。</szItemDesc>
+		<szBRName>12Ga Mag, 6 Slug</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2615</uiIndex>
+		<szItemName>12Ga Mag, 6 BS</szItemName>
+		<szLongItemName>12号弹匣，6发鹿弹</szLongItemName>
+		<szItemDesc>装有6发12号鹿弹的霰弹枪弹匣。</szItemDesc>
+		<szBRName>12Ga Mag 6 Buckshot</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2616</uiIndex>
+		<szItemName>12Ga Mag, 6 FL</szItemName>
+		<szLongItemName>12号弹匣，6发箭型弹</szLongItemName>
+		<szItemDesc>用这些小飞镖穿透敌人的防弹衣再把他们撕成碎片，没有比这再过瘾的了。</szItemDesc>
+		<szBRName>12g Shells 6 Flechette</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2617</uiIndex>
+		<szItemName>12Ga Mag, 6 HE</szItemName>
+		<szLongItemName>12号弹匣，6发高爆弹(FRAG-12)</szLongItemName>
+		<szItemDesc>FRAG-12弹药是12号霰弹家族中的一种试验性高爆弹。</szItemDesc>
+		<szBRName>12g Shells 6 FRAG-12</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2618</uiIndex>
+		<szItemName>12Ga Mag, 6 LB</szItemName>
+		<szLongItemName>12号弹匣，6发破锁弹</szLongItemName>
+		<szItemDesc>当对一扇锁住的门没招时这些子弹就有用了。这些弹药很少用来杀人。</szItemDesc>
+		<szBRName>112g Shells 6 Lock-Buster</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2619</uiIndex>
+		<szItemName>12Ga Mag 6 Polyshok</szItemName>
+		<szLongItemName>12号弹匣，6发Polyshok弹</szLongItemName>
+		<szItemDesc>6发12号Polyshok弹，它是一种撞击后利用反冲力消除跳弹几率的霰弹，与通常的独头弹相对比它重量更轻、后座力更小、射程更远、准确性更好、在受害者身上开的洞也更大。</szItemDesc>
+		<szBRName>12Ga Polyshok 6</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2620</uiIndex>
+		<szItemName>5.45x39 Hi-Mag</szItemName>
+		<szLongItemName>5.45x39mm四排弹匣</szLongItemName>
+		<szItemDesc>这个AK74式的四排弹匣装有60发7N6普通弹。</szItemDesc>
+		<szBRName>5.45x39mm Hi-Mag</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2621</uiIndex>
+		<szItemName>5.45x39 Hi-Mag T</szItemName>
+		<szLongItemName>5.45x39mm四排弹匣, 曳光弹</szLongItemName>
+		<szItemDesc>这个AK74式的四排弹匣装有60发曳光弹。</szItemDesc>
+		<szBRName>5.45x39mm Hi-Mag, Tracer</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2622</uiIndex>
+		<szItemName>5.45x39 Hi-Mag SB</szItemName>
+		<szLongItemName>5.45x39mm四排弹匣, 亚音速弹</szLongItemName>
+		<szItemDesc>这个AK74式的四排弹匣装有60发7U1亚音速弹。</szItemDesc>
+		<szBRName>5.45x39mm Hi-Mag, SB</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2623</uiIndex>
+		<szItemName>5.45x39 Hi-Mag HP</szItemName>
+		<szLongItemName>5.45x39mm四排弹匣, 空尖弹</szLongItemName>
+		<szItemDesc>这个AK74式的四排弹匣装有60发WOLF生产的空尖弹。</szItemDesc>
+		<szBRName>5.45x39mm Hi-Mag, HP</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2624</uiIndex>
+		<szItemName>5.45x39 Hi-Mag AP</szItemName>
+		<szLongItemName>5.45x39mm四排弹匣, 穿甲弹</szLongItemName>
+		<szItemDesc>这个AK74式的四排弹匣装有60发7N22穿甲弹。</szItemDesc>
+		<szBRName>5.45x39mm Hi-Mag, AP</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2625</uiIndex>
+		<szItemName>7.62x51 5 Duplex</szItemName>
+		<szLongItemName>7.62x51mm Mag, 5 Duplex</szLongItemName>
+		<szItemDesc>5发7.62x51mm口径M198双头弹。</szItemDesc>
+		<szBRName>7.62x51mm 5 Duplex</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2626</uiIndex>
+		<szItemName>7.62x51 10 Duplex</szItemName>
+		<szLongItemName>7.62x51mm Mag, 10 Duplex</szLongItemName>
+		<szItemDesc>10发7.62x51mm口径M198双头弹。</szItemDesc>
+		<szBRName>7.62x51mm 10 Duplex</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2627</uiIndex>
+		<szItemName>7.62x51 20 Duplex</szItemName>
+		<szLongItemName>7.62x51mm Mag, 20 Duplex</szLongItemName>
+		<szItemDesc>20发7.62x51mm口径M198双头弹。</szItemDesc>
+		<szBRName>7.62x51mm 20 Duplex</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2628</uiIndex>
+		<szItemName>7.62x51 25 Duplex</szItemName>
+		<szLongItemName>7.62x51mm Mag, 25 Duplex</szLongItemName>
+		<szItemDesc>25发7.62x51mm口径M198双头弹。</szItemDesc>
+		<szBRName>7.62x51mm 25 Duplex</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2629</uiIndex>
+		<szItemName>7.62x51 Hi-Mag Duplex</szItemName>
+		<szLongItemName>7.62x51mm Hi-Mag, 30 Duplex</szLongItemName>
+		<szItemDesc>30发7.62x51mm口径M198双头弹。</szItemDesc>
+		<szBRName>7.62x51mm Hi-Mag Duplex</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2630</uiIndex>
+		<szItemName>7.62x51 C-MAG Duplex</szItemName>
+		<szLongItemName>7.62x51mm C-MAG, Duplex</szLongItemName>
+		<szItemDesc>99发7.62x51mm口径M198双头弹。</szItemDesc>
+		<szBRName>7.62x51mm C-MAG Duplex</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2631</uiIndex>
+		<szItemName>7.62x51 Belt Duplex</szItemName>
+		<szLongItemName>7.62x51mm Belt, Duplex</szLongItemName>
+		<szItemDesc>100发7.62x51mm口径M198双头弹。</szItemDesc>
+		<szBRName>7.62x51mm Belt Duplex</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2632</uiIndex>
+		<szItemName>7.62x51 Hi-Belt Duplex</szItemName>
+		<szLongItemName>7.62x51mm Hi-Belt, Duplex</szLongItemName>
+		<szItemDesc>200发7.62x51mm口径M198双头弹。</szItemDesc>
+		<szBRName>7.62x51mm Hi-Belt Duplex</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2633</uiIndex>
+		<szItemName>7.62NATO crate Duplex</szItemName>
+		<szLongItemName>7.62NATO ammo crate, Duplex</szLongItemName>
+		<szItemDesc>500发装在弹药箱里的7.62x51mm口径M198双头弹。</szItemDesc>
+		<szBRName>7.62x51mm ammo crate Duplex</szBRName>
+		<szBRDesc>M198双头弹里面有两枚84格令重的弹头，被它打中的话有两倍命中的杀伤力，不过弹头总重量增大而药室容积又减少了，所以射程和精度比普通弹略有降低。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2634</uiIndex>
+		<szItemName>410 3-Slug 5</szItemName>
+		<szLongItemName>.410 Triple Slug, 5</szLongItemName>
+		<szItemDesc>5发.410号的三连装独头弹。</szItemDesc>
+		<szBRName>.410 Triple Slug 5</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2635</uiIndex>
+		<szItemName>410 3-Slug 10</szItemName>
+		<szLongItemName>.410 Triple Slug 10</szLongItemName>
+		<szItemDesc>这个弹匣装有10发.410号的三连装独头弹。</szItemDesc>
+		<szBRName>.410 Triple Slug 10 Mag</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2636</uiIndex>
+		<szItemName>410Ga 3-Slug box</szItemName>
+		<szLongItemName>.410 Triple Slug ammo box</szLongItemName>
+		<szItemDesc>这个弹药盒装有100发410口径的三连装独头弹，里面有三个大弹头。</szItemDesc>
+		<szBRName>410Ga Triple Slug box</szBRName>
+		<szBRDesc>这个弹药盒装有100发410口径的三连装独头弹，里面有三个大弹头。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2637</uiIndex>
+		<szItemName>Bulldog 22"</szItemName>
+		<szLongItemName>Bulldog 762 M14</szLongItemName>
+		<szItemDesc>22英寸型的M14无托版。</szItemDesc>
+		<szBRName>Bulldog 762 M14</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2638</uiIndex>
+		<szItemName>Bulldog 16"</szItemName>
+		<szLongItemName>Bulldog 762 M1A</szLongItemName>
+		<szItemDesc>16英寸型的M1A无托版。</szItemDesc>
+		<szBRName>Bulldog 762 M1A</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 </ITEMLIST>

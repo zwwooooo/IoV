@@ -253,10 +253,10 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>14</lbeIndex> <!-- SWAT Assault Vest -->
+		<lbeIndex>14</lbeIndex> <!-- Safariland SWAT Assault Vest -->
 		<lbeClass>2</lbeClass>
 		<lbeCombo>0</lbeCombo>
-		<lbeFilledSize>31</lbeFilledSize>
+		<lbeFilledSize>29</lbeFilledSize>
 		<lbePocketIndex1>17</lbePocketIndex1>
 		<lbePocketIndex2>17</lbePocketIndex2>
 		<lbePocketIndex3>15</lbePocketIndex3>
@@ -1102,7 +1102,7 @@
 		<lbeIndex>61</lbeIndex> <!-- FLC AR Mag Pouch -->
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
-		<lbeFilledSize>22</lbeFilledSize>
+		<lbeFilledSize>49</lbeFilledSize>
 		<lbePocketIndex1>29</lbePocketIndex1>
 		<lbePocketIndex2>29</lbePocketIndex2>
 		<lbePocketIndex3>0</lbePocketIndex3>
@@ -1120,7 +1120,7 @@
 		<lbeIndex>62</lbeIndex> <!-- FLC SMG Mag Pouch -->
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
-		<lbeFilledSize>22</lbeFilledSize>
+		<lbeFilledSize>49</lbeFilledSize>
 		<lbePocketIndex1>12</lbePocketIndex1>
 		<lbePocketIndex2>12</lbePocketIndex2>
 		<lbePocketIndex3>12</lbePocketIndex3>
@@ -1138,7 +1138,7 @@
 		<lbeIndex>63</lbeIndex> <!-- FLC SAW Pouch -->
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
-		<lbeFilledSize>26</lbeFilledSize>
+		<lbeFilledSize>51</lbeFilledSize>
 		<lbePocketIndex1>0</lbePocketIndex1>
 		<lbePocketIndex2>0</lbePocketIndex2>
 		<lbePocketIndex3>0</lbePocketIndex3>
@@ -1243,7 +1243,25 @@
 		<lbePocketIndex12>58</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>69</lbeIndex> <!-- R60 Sniper Jacket -->
+		<lbeIndex>69</lbeIndex> <!-- RFVC1 Flak Vest -->
+		<lbeClass>2</lbeClass>
+		<lbeCombo>0</lbeCombo>
+		<lbeFilledSize>29</lbeFilledSize>
+		<lbePocketIndex1>14</lbePocketIndex1>
+		<lbePocketIndex2>14</lbePocketIndex2>
+		<lbePocketIndex3>14</lbePocketIndex3>
+		<lbePocketIndex4>14</lbePocketIndex4>
+		<lbePocketIndex5>16</lbePocketIndex5>
+		<lbePocketIndex6>30</lbePocketIndex6>
+		<lbePocketIndex7>30</lbePocketIndex7>
+		<lbePocketIndex8>30</lbePocketIndex8>
+		<lbePocketIndex9>30</lbePocketIndex9>
+		<lbePocketIndex10>16</lbePocketIndex10>
+		<lbePocketIndex11>0</lbePocketIndex11>
+		<lbePocketIndex12>0</lbePocketIndex12>
+	</LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>
+		<lbeIndex>70</lbeIndex> <!-- R60 Sniper Jacket -->
 		<lbeClass>2</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>30</lbeFilledSize>
@@ -1261,7 +1279,7 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>70</lbeIndex> <!-- KMT Uniform -->
+		<lbeIndex>71</lbeIndex> <!-- KMT Uniform -->
 		<lbeClass>2</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>31</lbeFilledSize>
@@ -1279,7 +1297,7 @@
 		<lbePocketIndex12>42</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>71</lbeIndex> <!-- Hunter Vest -->
+		<lbeIndex>72</lbeIndex> <!-- Hunter Vest -->
 		<lbeClass>2</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>31</lbeFilledSize>
@@ -1297,7 +1315,7 @@
 		<lbePocketIndex12>57</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>72</lbeIndex> <!-- AR-Mag / Grenade Pouch -->
+		<lbeIndex>73</lbeIndex> <!-- AR-Mag / Grenade Pouch -->
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>30</lbeFilledSize>
@@ -1315,7 +1333,7 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>73</lbeIndex> <!-- AR-Mag / Utility Pouch -->
+		<lbeIndex>74</lbeIndex> <!-- AR-Mag / Utility Pouch -->
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>30</lbeFilledSize>
@@ -1333,7 +1351,7 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>74</lbeIndex> <!-- Canteen / Utility Pouch -->
+		<lbeIndex>75</lbeIndex> <!-- Canteen / Utility Pouch -->
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>30</lbeFilledSize>
@@ -1351,7 +1369,7 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>75</lbeIndex> <!-- Utility / Grenade Pouch -->
+		<lbeIndex>76</lbeIndex> <!-- Utility / Grenade Pouch -->
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>30</lbeFilledSize>
@@ -1369,7 +1387,7 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>76</lbeIndex> <!-- Large Mag / Utility Pouch -->
+		<lbeIndex>77</lbeIndex> <!-- Large Mag / Utility Pouch -->
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>30</lbeFilledSize>
@@ -1387,7 +1405,7 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>77</lbeIndex> <!-- Large Mag / Grenade Pouch -->
+		<lbeIndex>78</lbeIndex> <!-- Large Mag / Grenade Pouch -->
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>30</lbeFilledSize>
@@ -1405,7 +1423,7 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>78</lbeIndex> <!-- Pistol Stock Holster -->
+		<lbeIndex>79</lbeIndex> <!-- Pistol Stock Holster -->
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>24</lbeFilledSize>
@@ -1423,7 +1441,7 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>79</lbeIndex> <!-- VP Stock Holster -->
+		<lbeIndex>80</lbeIndex> <!-- VP Stock Holster -->
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>24</lbeFilledSize>
@@ -1441,10 +1459,10 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>80</lbeIndex> <!-- FLC Cantoon Bag -->
+		<lbeIndex>81</lbeIndex> <!-- FLC Cantoon Bag -->
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
-		<lbeFilledSize>22</lbeFilledSize>
+		<lbeFilledSize>49</lbeFilledSize>
 		<lbePocketIndex1>18</lbePocketIndex1>
 		<lbePocketIndex2>0</lbePocketIndex2>
 		<lbePocketIndex3>16</lbePocketIndex3>
@@ -1459,7 +1477,7 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>81</lbeIndex> <!-- Holster-Universal -->
+		<lbeIndex>82</lbeIndex> <!-- Holster-Universal -->
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>30</lbeFilledSize>
@@ -1477,7 +1495,7 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>82</lbeIndex> <!-- TT MAV -->
+		<lbeIndex>83</lbeIndex> <!-- TT MAV -->
 		<lbeClass>2</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>31</lbeFilledSize>
@@ -1495,7 +1513,7 @@
 		<lbePocketIndex12>6</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>83</lbeIndex> <!-- BHI M16 Chest Pouch -->
+		<lbeIndex>84</lbeIndex> <!-- BHI M16 Chest Pouch -->
 		<lbeClass>2</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>31</lbeFilledSize>
@@ -1513,7 +1531,7 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>84</lbeIndex> <!-- BHI Low Profile Chest Rig -->
+		<lbeIndex>85</lbeIndex> <!-- BHI Low Profile Chest Rig -->
 		<lbeClass>2</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>31</lbeFilledSize>
@@ -1531,7 +1549,7 @@
 		<lbePocketIndex12>8</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>85</lbeIndex> <!-- LBT-1961A -->
+		<lbeIndex>86</lbeIndex> <!-- LBT-1961A -->
 		<lbeClass>2</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>31</lbeFilledSize>
@@ -1549,7 +1567,7 @@
 		<lbePocketIndex12>8</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>86</lbeIndex> <!-- BDS Tac. Patrol CQB Subload-->
+		<lbeIndex>87</lbeIndex> <!-- BDS Tac. Patrol CQB Subload-->
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>25</lbeFilledSize>
@@ -1567,7 +1585,7 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>87</lbeIndex> <!-- BDS 40mm Subload-->
+		<lbeIndex>88</lbeIndex> <!-- BDS 40mm Subload-->
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>25</lbeFilledSize>
@@ -1585,7 +1603,7 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>88</lbeIndex> <!-- Russian RM23G Vest -->
+		<lbeIndex>89</lbeIndex> <!-- Russian RM23G Vest -->
 		<lbeClass>2</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>31</lbeFilledSize>
@@ -1603,7 +1621,7 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>89</lbeIndex> <!-- HSGI WASATCH -->
+		<lbeIndex>90</lbeIndex> <!-- HSGI WASATCH -->
 		<lbeClass>2</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>31</lbeFilledSize>
@@ -1621,7 +1639,7 @@
 		<lbePocketIndex12>52</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>90</lbeIndex> <!-- HSGI WEESATCH -->
+		<lbeIndex>91</lbeIndex> <!-- HSGI WEESATCH -->
 		<lbeClass>2</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>34</lbeFilledSize>
@@ -1639,7 +1657,7 @@
 		<lbePocketIndex12>52</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>91</lbeIndex> <!-- Simple Chest Rig -->
+		<lbeIndex>92</lbeIndex> <!-- Simple Chest Rig -->
 		<lbeClass>2</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>34</lbeFilledSize>
@@ -1657,7 +1675,7 @@
 		<lbePocketIndex12>52</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>92</lbeIndex> <!-- Go-Bag Backpack -->
+		<lbeIndex>93</lbeIndex> <!-- Go-Bag Backpack -->
 		<lbeClass>3</lbeClass>
 		<lbeCombo>1</lbeCombo>
 		<lbeFilledSize>32</lbeFilledSize>
@@ -1675,7 +1693,7 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>93</lbeIndex> <!-- Ranger Rucksack -->
+		<lbeIndex>94</lbeIndex> <!-- Ranger Rucksack -->
 		<lbeClass>3</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>30</lbeFilledSize>
@@ -1693,7 +1711,7 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>94</lbeIndex> <!-- Eagle AIII Assault Pack -->
+		<lbeIndex>95</lbeIndex> <!-- Eagle AIII Assault Pack -->
 		<lbeClass>3</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>33</lbeFilledSize>
@@ -1711,7 +1729,7 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>95</lbeIndex> <!-- Sniper Gun Bag -->
+		<lbeIndex>96</lbeIndex> <!-- Sniper Gun Bag -->
 		<lbeClass>4</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>34</lbeFilledSize>
@@ -1729,7 +1747,7 @@
 		<lbePocketIndex12>1</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>96</lbeIndex> <!-- Leg Pouch GR-->
+		<lbeIndex>97</lbeIndex> <!-- Leg Pouch GR-->
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>25</lbeFilledSize>
@@ -1747,7 +1765,7 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>97</lbeIndex> <!-- Sword Sheath -->
+		<lbeIndex>98</lbeIndex> <!-- Sword Sheath -->
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>28</lbeFilledSize>
@@ -1765,7 +1783,7 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>98</lbeIndex> <!-- SOE Patrol Leg Pouch-->
+		<lbeIndex>99</lbeIndex> <!-- SOE Patrol Leg Pouch-->
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>25</lbeFilledSize>
@@ -1783,7 +1801,7 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>99</lbeIndex> <!-- Eagle SAS FBP-->
+		<lbeIndex>100</lbeIndex> <!-- Eagle SAS FBP-->
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>25</lbeFilledSize>
@@ -1801,7 +1819,7 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>100</lbeIndex> <!-- SPEAR Multi Purpose Pouch -->
+		<lbeIndex>101</lbeIndex> <!-- SPEAR Multi Purpose Pouch -->
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>22</lbeFilledSize>
@@ -1819,7 +1837,7 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>101</lbeIndex> <!-- SPEAR ELCS REM -->
+		<lbeIndex>102</lbeIndex> <!-- SPEAR ELCS REM -->
 		<lbeClass>2</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>34</lbeFilledSize>
@@ -1837,7 +1855,7 @@
 		<lbePocketIndex12>8</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>102</lbeIndex> <!-- SPEAR ELCS SAW -->
+		<lbeIndex>103</lbeIndex> <!-- SPEAR ELCS SAW -->
 		<lbeClass>2</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>34</lbeFilledSize>
@@ -1855,7 +1873,7 @@
 		<lbePocketIndex12>6</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>103</lbeIndex> <!-- SPEAR ELCS GR -->
+		<lbeIndex>104</lbeIndex> <!-- SPEAR ELCS GR -->
 		<lbeClass>2</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>34</lbeFilledSize>
@@ -1873,7 +1891,7 @@
 		<lbePocketIndex12>40</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>104</lbeIndex> <!-- Revolver Holster -->
+		<lbeIndex>105</lbeIndex> <!-- Revolver Holster -->
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>26</lbeFilledSize>
@@ -1891,7 +1909,7 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>105</lbeIndex> <!-- TAC-V10-SF Vest -->
+		<lbeIndex>106</lbeIndex> <!-- TAC-V10-SF Vest -->
 		<lbeClass>2</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>34</lbeFilledSize>
@@ -1909,7 +1927,7 @@
 		<lbePocketIndex12>8</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>106</lbeIndex> <!-- ABA Moduler Vest -->
+		<lbeIndex>107</lbeIndex> <!-- ABA Moduler Vest -->
 		<lbeClass>2</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>34</lbeFilledSize>
@@ -1927,7 +1945,7 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>107</lbeIndex> <!-- R.A.C.K. -->
+		<lbeIndex>108</lbeIndex> <!-- R.A.C.K. -->
 		<lbeClass>2</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>34</lbeFilledSize>
@@ -1945,7 +1963,7 @@
 		<lbePocketIndex12>44</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>108</lbeIndex> <!-- MBSS -->
+		<lbeIndex>109</lbeIndex> <!-- MBSS -->
 		<lbeClass>2</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>34</lbeFilledSize>
@@ -1963,7 +1981,7 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>109</lbeIndex> <!-- EAGLE Universal Chest Rig -->
+		<lbeIndex>110</lbeIndex> <!-- EAGLE Universal Chest Rig -->
 		<lbeClass>2</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>31</lbeFilledSize>
@@ -1981,7 +1999,7 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>110</lbeIndex> <!-- AK Chest Pouch -->
+		<lbeIndex>111</lbeIndex> <!-- AK Chest Pouch -->
 		<lbeClass>2</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>31</lbeFilledSize>
@@ -1999,7 +2017,7 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>111</lbeIndex> <!-- ALICE LC Mag Pouch -->
+		<lbeIndex>112</lbeIndex> <!-- ALICE LC Mag Pouch -->
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>22</lbeFilledSize>
@@ -2017,7 +2035,7 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>112</lbeIndex> <!-- VOG-25 Leg Pouch -->
+		<lbeIndex>113</lbeIndex> <!-- VOG-25 Leg Pouch -->
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>24</lbeFilledSize>
@@ -2035,7 +2053,7 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>113</lbeIndex> <!-- Mortar Bomb Panel -->
+		<lbeIndex>114</lbeIndex> <!-- Mortar Bomb Panel -->
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>26</lbeFilledSize>
@@ -2053,10 +2071,10 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>114</lbeIndex> <!-- FLC Holster -->
+		<lbeIndex>115</lbeIndex> <!-- FLC Holster -->
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
-		<lbeFilledSize>22</lbeFilledSize>
+		<lbeFilledSize>49</lbeFilledSize>
 		<lbePocketIndex1>15</lbePocketIndex1>
 		<lbePocketIndex2>0</lbePocketIndex2>
 		<lbePocketIndex3>0</lbePocketIndex3>
@@ -2071,7 +2089,7 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>115</lbeIndex> <!-- 07 Backpack -->
+		<lbeIndex>116</lbeIndex> <!-- 07 Backpack -->
 		<lbeClass>4</lbeClass>
 		<lbeCombo>1</lbeCombo>
 		<lbeFilledSize>34</lbeFilledSize>
@@ -2089,7 +2107,7 @@
 		<lbePocketIndex12>4</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>116</lbeIndex> <!-- WAS 901 Chest Rig -->
+		<lbeIndex>117</lbeIndex> <!-- WAS 901 Chest Rig -->
 		<lbeClass>2</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>34</lbeFilledSize>
@@ -2107,7 +2125,7 @@
 		<lbePocketIndex12>44</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>117</lbeIndex> <!-- ATS 762 Chest Harness -->
+		<lbeIndex>118</lbeIndex> <!-- ATS 762 Chest Harness -->
 		<lbeClass>2</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>33</lbeFilledSize>
@@ -2125,7 +2143,7 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>118</lbeIndex> <!-- Eagle AK Chest Rig -->
+		<lbeIndex>119</lbeIndex> <!-- Eagle AK Chest Rig -->
 		<lbeClass>2</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>33</lbeFilledSize>
@@ -2143,7 +2161,7 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>119</lbeIndex> <!-- RAV 556 -->
+		<lbeIndex>120</lbeIndex> <!-- RAV 556 -->
 		<lbeClass>2</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>34</lbeFilledSize>
@@ -2161,7 +2179,7 @@
 		<lbePocketIndex12>8</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>120</lbeIndex> <!-- RAV 762 -->
+		<lbeIndex>121</lbeIndex> <!-- RAV 762 -->
 		<lbeClass>2</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>34</lbeFilledSize>
@@ -2179,7 +2197,7 @@
 		<lbePocketIndex12>8</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>121</lbeIndex> <!-- TF LBV -->
+		<lbeIndex>122</lbeIndex> <!-- TF LBV -->
 		<lbeClass>2</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>31</lbeFilledSize>
@@ -2197,7 +2215,7 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>122</lbeIndex> <!-- TAG Shingle Leg Pouch -->
+		<lbeIndex>123</lbeIndex> <!-- TAG Shingle Leg Pouch -->
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>24</lbeFilledSize>
@@ -2215,7 +2233,7 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>123</lbeIndex> <!-- M1956 LC Mag Pouch -->
+		<lbeIndex>124</lbeIndex> <!-- M1956 LC Mag Pouch -->
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>22</lbeFilledSize>
@@ -2233,7 +2251,7 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>124</lbeIndex> <!-- AK Sheath -->
+		<lbeIndex>125</lbeIndex> <!-- AK Sheath -->
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>20</lbeFilledSize>
@@ -2251,7 +2269,7 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>125</lbeIndex> <!-- Magforce Lep Pouch -->
+		<lbeIndex>126</lbeIndex> <!-- Magforce Lep Pouch -->
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>24</lbeFilledSize>
@@ -2269,7 +2287,7 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>126</lbeIndex> <!-- DIY Chest Rig -->
+		<lbeIndex>127</lbeIndex> <!-- DIY Chest Rig -->
 		<lbeClass>2</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>31</lbeFilledSize>
@@ -2287,7 +2305,7 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>127</lbeIndex> <!-- 03 Chest Rig -->
+		<lbeIndex>128</lbeIndex> <!-- 03 Chest Rig -->
 		<lbeClass>2</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>31</lbeFilledSize>
@@ -2305,7 +2323,7 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>128</lbeIndex> <!-- 95 Gunner Vest -->
+		<lbeIndex>129</lbeIndex> <!-- 95 Gunner Vest -->
 		<lbeClass>2</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>31</lbeFilledSize>
@@ -2323,7 +2341,7 @@
 		<lbePocketIndex12>8</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>129</lbeIndex> <!-- 05 SMG vest -->
+		<lbeIndex>130</lbeIndex> <!-- 05 SMG vest -->
 		<lbeClass>2</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>31</lbeFilledSize>
@@ -2341,7 +2359,7 @@
 		<lbePocketIndex12>18</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>130</lbeIndex> <!-- RRV -->
+		<lbeIndex>131</lbeIndex> <!-- RRV -->
 		<lbeClass>2</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>34</lbeFilledSize>
@@ -2359,7 +2377,7 @@
 		<lbePocketIndex12>44</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>131</lbeIndex> <!-- TAG Gladiator Chest Rig -->
+		<lbeIndex>132</lbeIndex> <!-- TAG Gladiator Chest Rig -->
 		<lbeClass>2</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>31</lbeFilledSize>
@@ -2377,7 +2395,7 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>132</lbeIndex> <!-- TAG Rifleman Chest Rig -->
+		<lbeIndex>133</lbeIndex> <!-- TAG Rifleman Chest Rig -->
 		<lbeClass>2</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>31</lbeFilledSize>
@@ -2395,7 +2413,7 @@
 		<lbePocketIndex12>6</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>133</lbeIndex> <!-- ACU vest -->
+		<lbeIndex>134</lbeIndex> <!-- ACU vest -->
 		<lbeClass>2</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>34</lbeFilledSize>
@@ -2413,7 +2431,7 @@
 		<lbePocketIndex12>8</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>134</lbeIndex> <!-- HSGI Recon Vest -->
+		<lbeIndex>135</lbeIndex> <!-- HSGI Recon Vest -->
 		<lbeClass>2</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>34</lbeFilledSize>
@@ -2431,7 +2449,7 @@
 		<lbePocketIndex12>39</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>135</lbeIndex> <!-- SOE Patrol Vest -->
+		<lbeIndex>136</lbeIndex> <!-- SOE Patrol Vest -->
 		<lbeClass>2</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>34</lbeFilledSize>
@@ -2449,7 +2467,7 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>136</lbeIndex> <!-- KSK Jungle Vest vest -->
+		<lbeIndex>137</lbeIndex> <!-- KSK Jungle Vest vest -->
 		<lbeClass>2</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>31</lbeFilledSize>
@@ -2467,7 +2485,7 @@
 		<lbePocketIndex12>8</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>137</lbeIndex> <!-- German Lep Pouch -->
+		<lbeIndex>138</lbeIndex> <!-- German Lep Pouch -->
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>25</lbeFilledSize>
@@ -2485,7 +2503,7 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>138</lbeIndex> <!-- VOG Chest Rig -->
+		<lbeIndex>139</lbeIndex> <!-- VOG Chest Rig -->
 		<lbeClass>2</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>31</lbeFilledSize>
@@ -2503,7 +2521,7 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>139</lbeIndex> <!-- Russian M22B Vest -->
+		<lbeIndex>140</lbeIndex> <!-- Russian M22B Vest -->
 		<lbeClass>2</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>31</lbeFilledSize>
@@ -2521,7 +2539,7 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>140</lbeIndex> <!-- RPG Backpack -->
+		<lbeIndex>141</lbeIndex> <!-- RPG Backpack -->
 		<lbeClass>4</lbeClass>
 		<lbeCombo>1</lbeCombo>
 		<lbeFilledSize>34</lbeFilledSize>
@@ -2536,10 +2554,10 @@
 		<lbePocketIndex9>48</lbePocketIndex9>
 		<lbePocketIndex10>48</lbePocketIndex10>
 		<lbePocketIndex11>48</lbePocketIndex11>
-		<lbePocketIndex12>48</lbePocketIndex12>
+		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>141</lbeIndex> <!-- DPM Assault Vest -->
+		<lbeIndex>142</lbeIndex> <!-- DPM Assault Vest -->
 		<lbeClass>2</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>31</lbeFilledSize>
@@ -2557,10 +2575,10 @@
 		<lbePocketIndex12>11</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>142</lbeIndex> <!-- MOLLE AR Mag Pouch -->
+		<lbeIndex>143</lbeIndex> <!-- MOLLE AR Mag Pouch -->
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
-		<lbeFilledSize>22</lbeFilledSize>
+		<lbeFilledSize>49</lbeFilledSize>
 		<lbePocketIndex1>28</lbePocketIndex1>
 		<lbePocketIndex2>28</lbePocketIndex2>
 		<lbePocketIndex3>28</lbePocketIndex3>
@@ -2575,10 +2593,10 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>143</lbeIndex> <!-- MOLLE SR25 Mag Pouch -->
+		<lbeIndex>144</lbeIndex> <!-- MOLLE SR25 Mag Pouch -->
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
-		<lbeFilledSize>22</lbeFilledSize>
+		<lbeFilledSize>49</lbeFilledSize>
 		<lbePocketIndex1>33</lbePocketIndex1>
 		<lbePocketIndex2>33</lbePocketIndex2>
 		<lbePocketIndex3>33</lbePocketIndex3>
@@ -2593,10 +2611,10 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>144</lbeIndex> <!-- MOLLE AK Mag Pouch -->
+		<lbeIndex>145</lbeIndex> <!-- MOLLE AK Mag Pouch -->
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
-		<lbeFilledSize>22</lbeFilledSize>
+		<lbeFilledSize>49</lbeFilledSize>
 		<lbePocketIndex1>30</lbePocketIndex1>
 		<lbePocketIndex2>30</lbePocketIndex2>
 		<lbePocketIndex3>30</lbePocketIndex3>
@@ -2611,10 +2629,10 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>145</lbeIndex> <!-- MOLLE Pistol Mag Pouch -->
+		<lbeIndex>146</lbeIndex> <!-- MOLLE Pistol Mag Pouch -->
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
-		<lbeFilledSize>22</lbeFilledSize>
+		<lbeFilledSize>49</lbeFilledSize>
 		<lbePocketIndex1>15</lbePocketIndex1>
 		<lbePocketIndex2>15</lbePocketIndex2>
 		<lbePocketIndex3>15</lbePocketIndex3>
@@ -2629,10 +2647,10 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>146</lbeIndex> <!-- MOLLE SMG Mag Pouch -->
+		<lbeIndex>147</lbeIndex> <!-- MOLLE SMG Mag Pouch -->
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
-		<lbeFilledSize>22</lbeFilledSize>
+		<lbeFilledSize>49</lbeFilledSize>
 		<lbePocketIndex1>12</lbePocketIndex1>
 		<lbePocketIndex2>12</lbePocketIndex2>
 		<lbePocketIndex3>12</lbePocketIndex3>
@@ -2647,10 +2665,10 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>147</lbeIndex> <!-- MOLLE Drum Pouch -->
+		<lbeIndex>148</lbeIndex> <!-- MOLLE Drum Pouch -->
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
-		<lbeFilledSize>22</lbeFilledSize>
+		<lbeFilledSize>49</lbeFilledSize>
 		<lbePocketIndex1>0</lbePocketIndex1>
 		<lbePocketIndex2>0</lbePocketIndex2>
 		<lbePocketIndex3>0</lbePocketIndex3>
@@ -2665,10 +2683,10 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>148</lbeIndex> <!-- MOLLE SAW Pouch -->
+		<lbeIndex>149</lbeIndex> <!-- MOLLE SAW Pouch -->
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
-		<lbeFilledSize>26</lbeFilledSize>
+		<lbeFilledSize>51</lbeFilledSize>
 		<lbePocketIndex1>0</lbePocketIndex1>
 		<lbePocketIndex2>0</lbePocketIndex2>
 		<lbePocketIndex3>0</lbePocketIndex3>
@@ -2683,10 +2701,10 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>149</lbeIndex> <!-- MOLLE Marksman Pouch -->
+		<lbeIndex>150</lbeIndex> <!-- MOLLE Marksman Pouch -->
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
-		<lbeFilledSize>22</lbeFilledSize>
+		<lbeFilledSize>49</lbeFilledSize>
 		<lbePocketIndex1>49</lbePocketIndex1>
 		<lbePocketIndex2>49</lbePocketIndex2>
 		<lbePocketIndex3>0</lbePocketIndex3>
@@ -2701,10 +2719,10 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>150</lbeIndex> <!-- MOLLE Barrett Mag Pouch -->
+		<lbeIndex>151</lbeIndex> <!-- MOLLE Barrett Mag Pouch -->
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
-		<lbeFilledSize>22</lbeFilledSize>
+		<lbeFilledSize>49</lbeFilledSize>
 		<lbePocketIndex1>50</lbePocketIndex1>
 		<lbePocketIndex2>50</lbePocketIndex2>
 		<lbePocketIndex3>0</lbePocketIndex3>
@@ -2719,10 +2737,10 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>151</lbeIndex> <!-- MOLLE Shotgun Bandoleer -->
+		<lbeIndex>152</lbeIndex> <!-- MOLLE Shotgun Bandoleer -->
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
-		<lbeFilledSize>22</lbeFilledSize>
+		<lbeFilledSize>49</lbeFilledSize>
 		<lbePocketIndex1>36</lbePocketIndex1>
 		<lbePocketIndex2>36</lbePocketIndex2>
 		<lbePocketIndex3>36</lbePocketIndex3>
@@ -2737,10 +2755,10 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>152</lbeIndex> <!-- MOLLE 40mm Pocket -->
+		<lbeIndex>153</lbeIndex> <!-- MOLLE 40mm Pocket -->
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
-		<lbeFilledSize>22</lbeFilledSize>
+		<lbeFilledSize>49</lbeFilledSize>
 		<lbePocketIndex1>13</lbePocketIndex1>
 		<lbePocketIndex2>13</lbePocketIndex2>
 		<lbePocketIndex3>13</lbePocketIndex3>
@@ -2755,10 +2773,10 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>153</lbeIndex> <!-- MOLLE Frag Pocket -->
+		<lbeIndex>154</lbeIndex> <!-- MOLLE Frag Pocket -->
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
-		<lbeFilledSize>22</lbeFilledSize>
+		<lbeFilledSize>49</lbeFilledSize>
 		<lbePocketIndex1>14</lbePocketIndex1>
 		<lbePocketIndex2>14</lbePocketIndex2>
 		<lbePocketIndex3>14</lbePocketIndex3>
@@ -2773,10 +2791,10 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>154</lbeIndex> <!-- MOLLE Flashbang Pocket -->
+		<lbeIndex>155</lbeIndex> <!-- MOLLE Flashbang Pocket -->
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
-		<lbeFilledSize>22</lbeFilledSize>
+		<lbeFilledSize>49</lbeFilledSize>
 		<lbePocketIndex1>41</lbePocketIndex1>
 		<lbePocketIndex2>41</lbePocketIndex2>
 		<lbePocketIndex3>41</lbePocketIndex3>
@@ -2791,10 +2809,10 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>155</lbeIndex> <!-- MOLLE Holster -->
+		<lbeIndex>156</lbeIndex> <!-- MOLLE Holster -->
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
-		<lbeFilledSize>22</lbeFilledSize>
+		<lbeFilledSize>49</lbeFilledSize>
 		<lbePocketIndex1>15</lbePocketIndex1>
 		<lbePocketIndex2>0</lbePocketIndex2>
 		<lbePocketIndex3>0</lbePocketIndex3>
@@ -2809,10 +2827,10 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>156</lbeIndex> <!-- MOLLE Sheath -->
+		<lbeIndex>157</lbeIndex> <!-- MOLLE Sheath -->
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
-		<lbeFilledSize>16</lbeFilledSize>
+		<lbeFilledSize>49</lbeFilledSize>
 		<lbePocketIndex1>15</lbePocketIndex1>
 		<lbePocketIndex2>0</lbePocketIndex2>
 		<lbePocketIndex3>0</lbePocketIndex3>
@@ -2827,10 +2845,10 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>157</lbeIndex> <!-- MOLLE Map Pouch -->
+		<lbeIndex>158</lbeIndex> <!-- MOLLE Map Pouch -->
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
-		<lbeFilledSize>22</lbeFilledSize>
+		<lbeFilledSize>49</lbeFilledSize>
 		<lbePocketIndex1>16</lbePocketIndex1>
 		<lbePocketIndex2>15</lbePocketIndex2>
 		<lbePocketIndex3>0</lbePocketIndex3>
@@ -2845,10 +2863,10 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>158</lbeIndex> <!-- MOLLE General -->
+		<lbeIndex>159</lbeIndex> <!-- MOLLE General -->
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
-		<lbeFilledSize>26</lbeFilledSize>
+		<lbeFilledSize>51</lbeFilledSize>
 		<lbePocketIndex1>17</lbePocketIndex1>
 		<lbePocketIndex2>17</lbePocketIndex2>
 		<lbePocketIndex3>0</lbePocketIndex3>
@@ -2863,10 +2881,10 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>159</lbeIndex> <!-- MOLLE Medic Bag -->
+		<lbeIndex>160</lbeIndex> <!-- MOLLE Medic Bag -->
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
-		<lbeFilledSize>22</lbeFilledSize>
+		<lbeFilledSize>49</lbeFilledSize>
 		<lbePocketIndex1>20</lbePocketIndex1>
 		<lbePocketIndex2>20</lbePocketIndex2>
 		<lbePocketIndex3>21</lbePocketIndex3>
@@ -2881,10 +2899,10 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>160</lbeIndex> <!-- MOLLE Cantoon Bag -->
+		<lbeIndex>161</lbeIndex> <!-- MOLLE Cantoon Bag -->
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
-		<lbeFilledSize>22</lbeFilledSize>
+		<lbeFilledSize>49</lbeFilledSize>
 		<lbePocketIndex1>18</lbePocketIndex1>
 		<lbePocketIndex2>0</lbePocketIndex2>
 		<lbePocketIndex3>16</lbePocketIndex3>
@@ -2899,10 +2917,10 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>161</lbeIndex> <!-- FLC General -->
+		<lbeIndex>162</lbeIndex> <!-- FLC General -->
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
-		<lbeFilledSize>22</lbeFilledSize>
+		<lbeFilledSize>49</lbeFilledSize>
 		<lbePocketIndex1>0</lbePocketIndex1>
 		<lbePocketIndex2>0</lbePocketIndex2>
 		<lbePocketIndex3>0</lbePocketIndex3>
@@ -2917,10 +2935,10 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>162</lbeIndex> <!-- FLC Frag Pocket -->
+		<lbeIndex>163</lbeIndex> <!-- FLC Frag Pocket -->
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
-		<lbeFilledSize>22</lbeFilledSize>
+		<lbeFilledSize>49</lbeFilledSize>
 		<lbePocketIndex1>14</lbePocketIndex1>
 		<lbePocketIndex2>14</lbePocketIndex2>
 		<lbePocketIndex3>14</lbePocketIndex3>
@@ -2935,10 +2953,10 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>163</lbeIndex> <!-- FLC 40mm Pocket -->
+		<lbeIndex>164</lbeIndex> <!-- FLC 40mm Pocket -->
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
-		<lbeFilledSize>22</lbeFilledSize>
+		<lbeFilledSize>49</lbeFilledSize>
 		<lbePocketIndex1>13</lbePocketIndex1>
 		<lbePocketIndex2>13</lbePocketIndex2>
 		<lbePocketIndex3>13</lbePocketIndex3>
@@ -2953,7 +2971,7 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>164</lbeIndex> <!-- M3 bandoleer -->
+		<lbeIndex>165</lbeIndex> <!-- M3 bandoleer -->
 		<lbeClass>4</lbeClass>
 		<lbeCombo>1</lbeCombo>
 		<lbeFilledSize>27</lbeFilledSize>
@@ -2971,7 +2989,7 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>165</lbeIndex> <!-- CL-MAG Hipbag -->
+		<lbeIndex>166</lbeIndex> <!-- CL-MAG Hipbag -->
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>26</lbeFilledSize>
