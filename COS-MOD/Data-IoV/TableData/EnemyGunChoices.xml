@@ -278,7 +278,7 @@
 	<ENEMYGUNCHOICES>
 		<uiIndex>5</uiIndex> <!-- 冲锋枪、霰弹枪、突击步枪、手动步枪 -->
 		<name>50%</name>
-		<ubChoices>45</ubChoices>
+		<ubChoices>46</ubChoices>
 		<bItemNo1>601</bItemNo1>
 		<bItemNo2>727</bItemNo2>
 		<bItemNo3>344</bItemNo3>
@@ -324,7 +324,7 @@
 		<bItemNo43>2151</bItemNo43>
 		<bItemNo44>2294</bItemNo44>
 		<bItemNo45>2492</bItemNo45>
-		<bItemNo46>0</bItemNo46>
+		<bItemNo46>2649</bItemNo46>
 		<bItemNo47>0</bItemNo47>
 		<bItemNo48>0</bItemNo48>
 		<bItemNo49>0</bItemNo49>
@@ -553,7 +553,7 @@
 	<ENEMYGUNCHOICES>
 		<uiIndex>10</uiIndex> <!-- 卡宾枪、突击步枪、狙击步枪、机枪 -->
 		<name>100%</name>
-		<ubChoices>23</ubChoices>
+		<ubChoices>24</ubChoices>
 		<bItemNo1>639</bItemNo1>
 		<bItemNo2>1164</bItemNo2>
 		<bItemNo3>1049</bItemNo3>
@@ -577,7 +577,7 @@
 		<bItemNo21>2174</bItemNo21>
 		<bItemNo22>2471</bItemNo22>
 		<bItemNo23>2518</bItemNo23>
-		<bItemNo24>0</bItemNo24>
+		<bItemNo24>1373</bItemNo24>
 		<bItemNo25>0</bItemNo25>
 		<bItemNo26>0</bItemNo26>
 		<bItemNo27>0</bItemNo27>

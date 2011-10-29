@@ -193,14 +193,6 @@
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>208</firstItemIndex> <!-- 10x Tactical Scope -->
-		<secondItemIndex>1006</secondItemIndex> <!-- Reflex Sight -->
-		<firstResultingItemIndex>1812</firstResultingItemIndex> <!-- 10x Tactical-Doc Scope -->
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
 		<firstItemIndex>210</firstItemIndex> <!-- Extended Ear -->
 		<secondItemIndex>1722</secondItemIndex> <!-- IBCH -->
 		<firstResultingItemIndex>1723</firstResultingItemIndex> <!-- IBCH -->
@@ -841,14 +833,6 @@
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>310</firstItemIndex> <!-- Extender -->
-		<secondItemIndex>648</secondItemIndex> <!-- FN FAL OSW -->
-		<firstResultingItemIndex>1359</firstResultingItemIndex> <!-- SA58 FAL Para Elite -->
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
 		<firstItemIndex>311</firstItemIndex>
 		<secondItemIndex>312</secondItemIndex>
 		<firstResultingItemIndex>313</firstResultingItemIndex>
@@ -1337,41 +1321,9 @@
 		<APCost>32</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1004</firstItemIndex>
-		<secondItemIndex>1909</secondItemIndex> <!-- Upgread Rail for Oldgun -->
-		<firstResultingItemIndex>997</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1006</firstItemIndex> <!-- Reflex Sight -->
-		<secondItemIndex>208</secondItemIndex> <!-- 10x Sniper Scope -->
-		<firstResultingItemIndex>1812</firstResultingItemIndex> <!-- 10x Tactical Scope -->
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1006</firstItemIndex>
-		<secondItemIndex>945</secondItemIndex>
-		<firstResultingItemIndex>997</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
 		<firstItemIndex>1006</firstItemIndex>
 		<secondItemIndex>1030</secondItemIndex>
 		<firstResultingItemIndex>1004</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1007</firstItemIndex>
-		<secondItemIndex>1909</secondItemIndex> <!-- Upgread Rail for Oldgun -->
-		<firstResultingItemIndex>946</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
@@ -1433,6 +1385,14 @@
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
+		<firstItemIndex>1011</firstItemIndex> <!-- Grip -->
+		<secondItemIndex>902</secondItemIndex> <!-- M203PI -->
+		<firstResultingItemIndex>2651</firstResultingItemIndex> <!-- M203/Grip -->
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
 		<firstItemIndex>1022</firstItemIndex>
 		<secondItemIndex>245</secondItemIndex>
 		<firstResultingItemIndex>979</firstResultingItemIndex>
@@ -1455,22 +1415,6 @@
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>1</mergeType>
 		<APCost>32</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1030</firstItemIndex>
-		<secondItemIndex>1006</secondItemIndex>
-		<firstResultingItemIndex>1004</firstResultingItemIndex> <!-- ACOG-DOC -->
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>4</mergeType>
-		<APCost>32</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1030</firstItemIndex>
-		<secondItemIndex>1909</secondItemIndex> <!-- Upgread Rail for Oldgun -->
-		<firstResultingItemIndex>945</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>1631</firstItemIndex>
@@ -1775,14 +1719,6 @@
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>2</mergeType>
 		<APCost>20</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1802</firstItemIndex>
-		<secondItemIndex>1909</secondItemIndex> <!-- Upgread Rail for Oldgun -->
-		<firstResultingItemIndex>947</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>1861</firstItemIndex> <!-- Mk16 Mod0 STD barrel -->
@@ -2147,7 +2083,7 @@
 	<MERGE>
 		<firstItemIndex>1877</firstItemIndex> <!-- M60E4 upgread kit -->
 		<secondItemIndex>687</secondItemIndex> <!-- M60E3 -->
-		<firstResultingItemIndex>1165</firstResultingItemIndex> <!-- M60E4 -->
+		<firstResultingItemIndex>1165</firstResultingItemIndex> <!-- MK43 -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
@@ -2155,7 +2091,7 @@
 	<MERGE>
 		<firstItemIndex>1877</firstItemIndex> <!-- M60E4 upgread kit -->
 		<secondItemIndex>1164</secondItemIndex> <!-- M60 -->
-		<firstResultingItemIndex>1165</firstResultingItemIndex> <!-- M60E4 -->
+		<firstResultingItemIndex>1165</firstResultingItemIndex> <!-- Mk43 -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
@@ -2665,9 +2601,17 @@
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1895</firstItemIndex>
-		<secondItemIndex>1244</secondItemIndex>
-		<firstResultingItemIndex>1369</firstResultingItemIndex>
+		<firstItemIndex>1895</firstItemIndex> <!-- DDL Handguard -->
+		<secondItemIndex>331</secondItemIndex> <!-- L85A2 -->
+		<firstResultingItemIndex>1989</firstResultingItemIndex> <!-- L85A3 -->
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>1895</firstItemIndex> <!-- DDL Handguard -->
+		<secondItemIndex>1134</secondItemIndex> <!-- Mk18 Mod0 -->
+		<firstResultingItemIndex>2514</firstResultingItemIndex> <!-- Mk18 Mod1 -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
@@ -2724,6 +2668,14 @@
 		<firstItemIndex>1899</firstItemIndex> <!-- JAE-100 Stock -->
 		<secondItemIndex>27</secondItemIndex> <!-- M14 -->
 		<firstResultingItemIndex>1391</firstResultingItemIndex> <!-- M14 JAE -->
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>1899</firstItemIndex> <!-- JAE-100 Stock -->
+		<secondItemIndex>684</secondItemIndex> <!-- M21 -->
+		<firstResultingItemIndex>1074</firstResultingItemIndex> <!-- M21 JAE -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
@@ -3012,30 +2964,6 @@
 		<firstItemIndex>1908</firstItemIndex> <!-- Colt 9mm Upgread Kit -->
 		<secondItemIndex>346</secondItemIndex>
 		<firstResultingItemIndex>1065</firstResultingItemIndex> <!-- Colt 10mm SMG MOD -->
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1909</firstItemIndex> <!-- Upgread Rail for Oldgun -->
-		<secondItemIndex>1007</secondItemIndex>
-		<firstResultingItemIndex>946</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1909</firstItemIndex> <!-- Upgread Rail for Oldgun -->
-		<secondItemIndex>1030</secondItemIndex>
-		<firstResultingItemIndex>945</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1909</firstItemIndex> <!-- Upgread Rail for Oldgun -->
-		<secondItemIndex>1802</secondItemIndex>
-		<firstResultingItemIndex>947</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>

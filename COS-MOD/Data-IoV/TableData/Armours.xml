@@ -491,46 +491,46 @@
 		<ubDegradePercent>10</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>70</uiIndex>
+		<uiIndex>70</uiIndex> <!-- CCE Boonie -->
 		<ubArmourClass>0</ubArmourClass>
-		<ubProtection>50</ubProtection>
-		<ubCoverage>99</ubCoverage>
-		<ubDegradePercent>6</ubDegradePercent>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>50</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>71</uiIndex>
+		<uiIndex>71</uiIndex> <!-- CCE Trousers -->
 		<ubArmourClass>2</ubArmourClass>
-		<ubProtection>50</ubProtection>
-		<ubCoverage>99</ubCoverage>
-		<ubDegradePercent>4</ubDegradePercent>
+		<ubProtection>3</ubProtection>
+		<ubCoverage>95</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>72</uiIndex>
+		<uiIndex>72</uiIndex> <!-- CCE Shirt -->
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>55</ubProtection>
+		<ubProtection>1</ubProtection>
 		<ubCoverage>99</ubCoverage>
-		<ubDegradePercent>4</ubDegradePercent>
+		<ubDegradePercent>5</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>73</uiIndex>
+		<uiIndex>73</uiIndex> <!-- DPM Desert Boonie -->
 		<ubArmourClass>0</ubArmourClass>
-		<ubProtection>28</ubProtection>
-		<ubCoverage>65</ubCoverage>
-		<ubDegradePercent>15</ubDegradePercent>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>50</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>74</uiIndex>
+		<uiIndex>74</uiIndex> <!-- DPM Desert Trousers -->
 		<ubArmourClass>2</ubArmourClass>
-		<ubProtection>28</ubProtection>
-		<ubCoverage>75</ubCoverage>
-		<ubDegradePercent>11</ubDegradePercent>
+		<ubProtection>3</ubProtection>
+		<ubCoverage>95</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>75</uiIndex>
+		<uiIndex>75</uiIndex> <!-- DPM Desert Shirt -->
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>30</ubProtection>
-		<ubCoverage>90</ubCoverage>
-		<ubDegradePercent>11</ubDegradePercent>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>76</uiIndex>
@@ -675,14 +675,14 @@
 	<ARMOUR>
 		<uiIndex>96</uiIndex> <!-- Dyneema Plate -->
 		<ubArmourClass>3</ubArmourClass>
-		<ubProtection>55</ubProtection>
+		<ubProtection>50</ubProtection>
 		<ubCoverage>55</ubCoverage>
 		<ubDegradePercent>15</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>97</uiIndex> <!-- A Pair of Dyneema Plate  -->
 		<ubArmourClass>3</ubArmourClass>
-		<ubProtection>55</ubProtection>
+		<ubProtection>50</ubProtection>
 		<ubCoverage>99</ubCoverage>
 		<ubDegradePercent>15</ubDegradePercent>
 	</ARMOUR>
@@ -697,7 +697,7 @@
 		<uiIndex>99</uiIndex> <!-- MASKA-1Sch Helmet -->
 		<ubArmourClass>0</ubArmourClass>
 		<ubProtection>33</ubProtection>
-		<ubCoverage>88</ubCoverage>
+		<ubCoverage>99</ubCoverage>
 		<ubDegradePercent>20</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
@@ -745,14 +745,14 @@
 	<ARMOUR>
 		<uiIndex>106</uiIndex> <!-- Kazak-4 Vest -->
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>30</ubProtection>
+		<ubProtection>35</ubProtection>
 		<ubCoverage>80</ubCoverage>
 		<ubDegradePercent>15</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>107</uiIndex> <!-- Kazak-6 Vest -->
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>40</ubProtection>
+		<ubProtection>45</ubProtection>
 		<ubCoverage>90</ubCoverage>
 		<ubDegradePercent>15</ubDegradePercent>
 	</ARMOUR>
@@ -1018,7 +1018,7 @@
 	<ARMOUR>
 		<uiIndex>145</uiIndex> <!-- Felin Uniform -->
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>29</ubProtection>
+		<ubProtection>30</ubProtection>
 		<ubCoverage>90</ubCoverage>
 		<ubDegradePercent>15</ubDegradePercent>
 	</ARMOUR>
@@ -1039,7 +1039,7 @@
 	<ARMOUR>
 		<uiIndex>148</uiIndex> <!-- Spot Uniform -->
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>29</ubProtection>
+		<ubProtection>33</ubProtection>
 		<ubCoverage>90</ubCoverage>
 		<ubDegradePercent>15</ubDegradePercent>
 	</ARMOUR>
@@ -1103,7 +1103,7 @@
 		<uiIndex>157</uiIndex> <!-- SAPI IV -->
 		<ubArmourClass>3</ubArmourClass>
 		<ubProtection>65</ubProtection>
-		<ubCoverage>55</ubCoverage>
+		<ubCoverage>50</ubCoverage>
 		<ubDegradePercent>15</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
@@ -1116,21 +1116,21 @@
 	<ARMOUR>
 		<uiIndex>159</uiIndex> <!-- SS Helmet -->
 		<ubArmourClass>0</ubArmourClass>
-		<ubProtection>40</ubProtection>
+		<ubProtection>55</ubProtection>
 		<ubCoverage>99</ubCoverage>
 		<ubDegradePercent>15</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>160</uiIndex> <!-- SS Cuirass -->
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>50</ubProtection>
+		<ubProtection>75</ubProtection>
 		<ubCoverage>99</ubCoverage>
 		<ubDegradePercent>15</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>161</uiIndex> <!-- SS Cuishs -->
 		<ubArmourClass>2</ubArmourClass>
-		<ubProtection>40</ubProtection>
+		<ubProtection>55</ubProtection>
 		<ubCoverage>99</ubCoverage>
 		<ubDegradePercent>15</ubDegradePercent>
 	</ARMOUR>
@@ -1151,7 +1151,7 @@
 	<ARMOUR>
 		<uiIndex>164</uiIndex> <!-- FO Cuishs -->
 		<ubArmourClass>2</ubArmourClass>
-		<ubProtection>65</ubProtection>
+		<ubProtection>55</ubProtection>
 		<ubCoverage>99</ubCoverage>
 		<ubDegradePercent>5</ubDegradePercent>
 	</ARMOUR>
@@ -1173,7 +1173,7 @@
 		<uiIndex>167</uiIndex> <!-- A Pair of SAPI III Plates -->
 		<ubArmourClass>3</ubArmourClass>
 		<ubProtection>50</ubProtection>
-		<ubCoverage>85</ubCoverage>
+		<ubCoverage>99</ubCoverage>
 		<ubDegradePercent>15</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
@@ -1186,8 +1186,8 @@
 	<ARMOUR>
 		<uiIndex>169</uiIndex> <!-- DRAGON SKIN -->
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>75</ubProtection>
-		<ubCoverage>95</ubCoverage>
+		<ubProtection>45</ubProtection>
+		<ubCoverage>99</ubCoverage>
 		<ubDegradePercent>5</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
@@ -1235,35 +1235,35 @@
 	<ARMOUR>
 		<uiIndex>176</uiIndex> <!-- M69 Flak Jacket -->
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>26</ubProtection>
+		<ubProtection>28</ubProtection>
 		<ubCoverage>80</ubCoverage>
 		<ubDegradePercent>20</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>177</uiIndex> <!-- AC331E Vest -->
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>32</ubProtection>
+		<ubProtection>30</ubProtection>
 		<ubCoverage>85</ubCoverage>
 		<ubDegradePercent>25</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>178</uiIndex> <!-- PASGT Vest -->
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>29</ubProtection>
+		<ubProtection>34</ubProtection>
 		<ubCoverage>85</ubCoverage>
 		<ubDegradePercent>25</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>179</uiIndex> <!-- SPEAR RBA Vest -->
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>33</ubProtection>
+		<ubProtection>32</ubProtection>
 		<ubCoverage>95</ubCoverage>
 		<ubDegradePercent>18</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>180</uiIndex> <!-- PT Armor -->
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>27</ubProtection>
+		<ubProtection>28</ubProtection>
 		<ubCoverage>85</ubCoverage>
 		<ubDegradePercent>20</ubDegradePercent>
 	</ARMOUR>
@@ -1473,7 +1473,7 @@
 	<ARMOUR>
 		<uiIndex>210</uiIndex> <!-- PACA Vest -->
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>30</ubProtection>
+		<ubProtection>29</ubProtection>
 		<ubCoverage>87</ubCoverage>
 		<ubDegradePercent>15</ubDegradePercent>
 	</ARMOUR>

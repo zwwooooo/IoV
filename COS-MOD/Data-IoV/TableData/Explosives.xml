@@ -11,6 +11,7 @@
 		<ubAnimationID>4</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>1</uiIndex> <!-- Tear gas Grenade -->
@@ -23,6 +24,7 @@
 		<ubAnimationID>6</ubAnimationID>
 		<ubDuration>5</ubDuration>
 		<ubStartRadius>1</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>2</uiIndex> <!-- gas Grenade -->
@@ -35,6 +37,7 @@
 		<ubAnimationID>8</ubAnimationID>
 		<ubDuration>5</ubDuration>
 		<ubStartRadius>1</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>3</uiIndex> <!-- Mini Grenade -->
@@ -47,6 +50,7 @@
 		<ubAnimationID>1</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>4</uiIndex> <!-- Frag Grenade -->
@@ -59,6 +63,7 @@
 		<ubAnimationID>1</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>5</uiIndex>
@@ -71,6 +76,7 @@
 		<ubAnimationID>2</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>6</uiIndex>
@@ -83,6 +89,7 @@
 		<ubAnimationID>2</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>7</uiIndex>
@@ -95,6 +102,7 @@
 		<ubAnimationID>2</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>8</uiIndex>
@@ -107,6 +115,7 @@
 		<ubAnimationID>2</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>9</uiIndex> <!-- Mortar Shell -->
@@ -119,6 +128,7 @@
 		<ubAnimationID>2</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>10</uiIndex> <!-- AT Mine -->
@@ -131,6 +141,7 @@
 		<ubAnimationID>1</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>11</uiIndex>
@@ -143,6 +154,7 @@
 		<ubAnimationID>1</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>12</uiIndex>
@@ -155,6 +167,7 @@
 		<ubAnimationID>1</ubAnimationID>
 		<ubDuration>35</ubDuration>
 		<ubStartRadius>6</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>13</uiIndex>
@@ -167,6 +180,7 @@
 		<ubAnimationID>1</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>14</uiIndex>
@@ -179,6 +193,7 @@
 		<ubAnimationID>1</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>15</uiIndex> <!-- Break Light -->
@@ -191,6 +206,7 @@
 		<ubAnimationID>1</ubAnimationID>
 		<ubDuration>35</ubDuration>
 		<ubStartRadius>4</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>16</uiIndex> <!-- 40mm HE -->
@@ -203,6 +219,7 @@
 		<ubAnimationID>1</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>17</uiIndex> <!-- 40mm Tear Gas -->
@@ -215,6 +232,7 @@
 		<ubAnimationID>6</ubAnimationID>
 		<ubDuration>5</ubDuration>
 		<ubStartRadius>1</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>18</uiIndex>
@@ -227,6 +245,7 @@
 		<ubAnimationID>4</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>19</uiIndex>
@@ -239,6 +258,7 @@
 		<ubAnimationID>7</ubAnimationID>
 		<ubDuration>5</ubDuration>
 		<ubStartRadius>2</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>20</uiIndex>
@@ -251,6 +271,7 @@
 		<ubAnimationID>7</ubAnimationID>
 		<ubDuration>5</ubDuration>
 		<ubStartRadius>2</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>21</uiIndex>
@@ -263,6 +284,7 @@
 		<ubAnimationID>2</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>22</uiIndex>
@@ -275,6 +297,7 @@
 		<ubAnimationID>1</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>23</uiIndex>
@@ -287,6 +310,7 @@
 		<ubAnimationID>1</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>24</uiIndex>
@@ -299,6 +323,7 @@
 		<ubAnimationID>2</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>25</uiIndex>
@@ -311,6 +336,7 @@
 		<ubAnimationID>3</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>26</uiIndex>
@@ -323,6 +349,7 @@
 		<ubAnimationID>6</ubAnimationID>
 		<ubDuration>5</ubDuration>
 		<ubStartRadius>1</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>27</uiIndex>
@@ -335,6 +362,7 @@
 		<ubAnimationID>0</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>1</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>28</uiIndex> <!-- Large Creature Gas -->
@@ -347,6 +375,7 @@
 		<ubAnimationID>0</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>1</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>29</uiIndex>
@@ -359,6 +388,7 @@
 		<ubAnimationID>0</ubAnimationID>
 		<ubDuration>2</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>30</uiIndex> <!-- MPM-RAW -->
@@ -371,6 +401,7 @@
 		<ubAnimationID>2</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>31</uiIndex> <!-- Mustard Gas Shell -->
@@ -383,6 +414,7 @@
 		<ubAnimationID>8</ubAnimationID>
 		<ubDuration>8</ubDuration>
 		<ubStartRadius>6</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>32</uiIndex> <!-- 20mm HE -->
@@ -395,6 +427,7 @@
 		<ubAnimationID>1</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>6</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>33</uiIndex>
@@ -407,6 +440,7 @@
 		<ubAnimationID>8</ubAnimationID>
 		<ubDuration>4</ubDuration>
 		<ubStartRadius>1</ubStartRadius>
+		<ubMagSize>6</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>34</uiIndex>
@@ -419,6 +453,7 @@
 		<ubAnimationID>7</ubAnimationID>
 		<ubDuration>4</ubDuration>
 		<ubStartRadius>1</ubStartRadius>
+		<ubMagSize>6</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>35</uiIndex>
@@ -431,6 +466,7 @@
 		<ubAnimationID>4</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>6</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>36</uiIndex>
@@ -443,6 +479,7 @@
 		<ubAnimationID>6</ubAnimationID>
 		<ubDuration>4</ubDuration>
 		<ubStartRadius>1</ubStartRadius>
+		<ubMagSize>6</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>37</uiIndex>
@@ -455,6 +492,7 @@
 		<ubAnimationID>2</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>6</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>38</uiIndex> <!-- 25mm HE -->
@@ -467,6 +505,7 @@
 		<ubAnimationID>1</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>6</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>39</uiIndex>
@@ -479,6 +518,7 @@
 		<ubAnimationID>8</ubAnimationID>
 		<ubDuration>5</ubDuration>
 		<ubStartRadius>1</ubStartRadius>
+		<ubMagSize>6</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>40</uiIndex>
@@ -491,6 +531,7 @@
 		<ubAnimationID>7</ubAnimationID>
 		<ubDuration>5</ubDuration>
 		<ubStartRadius>1</ubStartRadius>
+		<ubMagSize>6</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>41</uiIndex>
@@ -503,6 +544,7 @@
 		<ubAnimationID>4</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>6</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>42</uiIndex>
@@ -515,6 +557,7 @@
 		<ubAnimationID>6</ubAnimationID>
 		<ubDuration>5</ubDuration>
 		<ubStartRadius>1</ubStartRadius>
+		<ubMagSize>6</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>43</uiIndex>
@@ -527,6 +570,7 @@
 		<ubAnimationID>2</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>6</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>44</uiIndex> <!-- 40mm HE Cylinder -->
@@ -539,6 +583,7 @@
 		<ubAnimationID>1</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>6</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>45</uiIndex>
@@ -551,6 +596,7 @@
 		<ubAnimationID>8</ubAnimationID>
 		<ubDuration>6</ubDuration>
 		<ubStartRadius>1</ubStartRadius>
+		<ubMagSize>6</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>46</uiIndex>
@@ -563,6 +609,7 @@
 		<ubAnimationID>8</ubAnimationID>
 		<ubDuration>6</ubDuration>
 		<ubStartRadius>1</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>47</uiIndex>
@@ -575,6 +622,7 @@
 		<ubAnimationID>7</ubAnimationID>
 		<ubDuration>5</ubDuration>
 		<ubStartRadius>2</ubStartRadius>
+		<ubMagSize>6</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>48</uiIndex>
@@ -587,6 +635,7 @@
 		<ubAnimationID>4</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>6</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>49</uiIndex>
@@ -599,6 +648,7 @@
 		<ubAnimationID>6</ubAnimationID>
 		<ubDuration>5</ubDuration>
 		<ubStartRadius>1</ubStartRadius>
+		<ubMagSize>6</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>50</uiIndex> <!-- 40mm Therm -->
@@ -611,6 +661,7 @@
 		<ubAnimationID>2</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>51</uiIndex> <!-- 43mm HE -->
@@ -623,6 +674,7 @@
 		<ubAnimationID>1</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>52</uiIndex>
@@ -635,6 +687,7 @@
 		<ubAnimationID>8</ubAnimationID>
 		<ubDuration>6</ubDuration>
 		<ubStartRadius>1</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>53</uiIndex>
@@ -647,6 +700,7 @@
 		<ubAnimationID>7</ubAnimationID>
 		<ubDuration>5</ubDuration>
 		<ubStartRadius>2</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>54</uiIndex>
@@ -659,6 +713,7 @@
 		<ubAnimationID>4</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>55</uiIndex>
@@ -671,6 +726,7 @@
 		<ubAnimationID>6</ubAnimationID>
 		<ubDuration>5</ubDuration>
 		<ubStartRadius>1</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>56</uiIndex> <!-- Frag Rocket -->
@@ -683,6 +739,7 @@
 		<ubAnimationID>2</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>57</uiIndex>
@@ -695,6 +752,7 @@
 		<ubAnimationID>1</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>58</uiIndex>
@@ -707,6 +765,7 @@
 		<ubAnimationID>2</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>59</uiIndex>
@@ -719,6 +778,7 @@
 		<ubAnimationID>10</ubAnimationID>
 		<ubDuration>5</ubDuration>
 		<ubStartRadius>2</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>60</uiIndex> <!-- VOG-25 -->
@@ -731,6 +791,7 @@
 		<ubAnimationID>1</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>61</uiIndex> <!-- VOG-25P -->
@@ -743,6 +804,7 @@
 		<ubAnimationID>2</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>62</uiIndex> <!-- 40mm Therm -->
@@ -755,6 +817,7 @@
 		<ubAnimationID>2</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>6</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>63</uiIndex> <!-- 40mm MS -->
@@ -767,6 +830,7 @@
 		<ubAnimationID>1</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>3</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>64</uiIndex>
@@ -779,6 +843,7 @@
 		<ubAnimationID>6</ubAnimationID>
 		<ubDuration>5</ubDuration>
 		<ubStartRadius>1</ubStartRadius>
+		<ubMagSize>3</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>65</uiIndex>
@@ -791,6 +856,7 @@
 		<ubAnimationID>7</ubAnimationID>
 		<ubDuration>5</ubDuration>
 		<ubStartRadius>2</ubStartRadius>
+		<ubMagSize>3</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>66</uiIndex>
@@ -803,6 +869,7 @@
 		<ubAnimationID>8</ubAnimationID>
 		<ubDuration>6</ubDuration>
 		<ubStartRadius>1</ubStartRadius>
+		<ubMagSize>3</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>67</uiIndex>
@@ -815,6 +882,7 @@
 		<ubAnimationID>2</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>3</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>68</uiIndex>
@@ -827,6 +895,7 @@
 		<ubAnimationID>4</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>3</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>69</uiIndex> <!-- 20mm Napalm -->
@@ -839,6 +908,7 @@
 		<ubAnimationID>9</ubAnimationID>
 		<ubDuration>2</ubDuration>
 		<ubStartRadius>3</ubStartRadius>
+		<ubMagSize>6</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>70</uiIndex>
@@ -851,6 +921,7 @@
 		<ubAnimationID>9</ubAnimationID>
 		<ubDuration>3</ubDuration>
 		<ubStartRadius>4</ubStartRadius>
+		<ubMagSize>6</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>71</uiIndex>
@@ -863,6 +934,7 @@
 		<ubAnimationID>9</ubAnimationID>
 		<ubDuration>4</ubDuration>
 		<ubStartRadius>6</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>72</uiIndex>
@@ -875,6 +947,7 @@
 		<ubAnimationID>9</ubAnimationID>
 		<ubDuration>4</ubDuration>
 		<ubStartRadius>6</ubStartRadius>
+		<ubMagSize>6</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>73</uiIndex>
@@ -887,6 +960,7 @@
 		<ubAnimationID>9</ubAnimationID>
 		<ubDuration>4</ubDuration>
 		<ubStartRadius>6</ubStartRadius>
+		<ubMagSize>3</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>74</uiIndex> <!-- Flashbang -->
@@ -899,6 +973,7 @@
 		<ubAnimationID>11</ubAnimationID>
 		<ubDuration>2</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>75</uiIndex> <!--VG-70 26.5mm -->
@@ -911,6 +986,7 @@
 		<ubAnimationID>1</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>76</uiIndex> <!--QLZ87 35mm -->
@@ -923,6 +999,7 @@
 		<ubAnimationID>2</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>15</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>77</uiIndex> <!-- VOG-25 Cylinder -->
@@ -935,6 +1012,7 @@
 		<ubAnimationID>1</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>6</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>78</uiIndex> <!-- VOG-25P Cylinder -->
@@ -947,6 +1025,7 @@
 		<ubAnimationID>2</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>6</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>79</uiIndex> <!-- 83mm HEAA -->
@@ -959,6 +1038,7 @@
 		<ubAnimationID>2</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>80</uiIndex> <!-- 83mm HEDP -->
@@ -971,6 +1051,7 @@
 		<ubAnimationID>2</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>81</uiIndex> <!-- 84mm HEAT -->
@@ -983,6 +1064,7 @@
 		<ubAnimationID>2</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>82</uiIndex> <!-- 84mm NHEDP -->
@@ -995,6 +1077,7 @@
 		<ubAnimationID>2</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>83</uiIndex> <!-- 84mm NNapalm -->
@@ -1007,6 +1090,7 @@
 		<ubAnimationID>9</ubAnimationID>
 		<ubDuration>4</ubDuration>
 		<ubStartRadius>8</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>84</uiIndex> <!-- PN 30mm HE -->
@@ -1019,6 +1103,7 @@
 		<ubAnimationID>1</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>85</uiIndex> <!-- 40mm ILL -->
@@ -1031,6 +1116,7 @@
 		<ubAnimationID>1</ubAnimationID>
 		<ubDuration>6</ubDuration>
 		<ubStartRadius>5</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>86</uiIndex> <!-- RG AT -->
@@ -1043,6 +1129,7 @@
 		<ubAnimationID>2</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>87</uiIndex> <!-- RG HE -->
@@ -1055,6 +1142,7 @@
 		<ubAnimationID>1</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>88</uiIndex> <!-- RG Tear Gas -->
@@ -1067,6 +1155,7 @@
 		<ubAnimationID>6</ubAnimationID>
 		<ubDuration>5</ubDuration>
 		<ubStartRadius>1</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>89</uiIndex> <!-- RG Stun -->
@@ -1079,6 +1168,7 @@
 		<ubAnimationID>4</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>90</uiIndex> <!-- RG Smoke -->
@@ -1091,6 +1181,7 @@
 		<ubAnimationID>7</ubAnimationID>
 		<ubDuration>5</ubDuration>
 		<ubStartRadius>2</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>91</uiIndex> <!-- RG Mustard Gas -->
@@ -1103,6 +1194,7 @@
 		<ubAnimationID>8</ubAnimationID>
 		<ubDuration>6</ubDuration>
 		<ubStartRadius>1</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>92</uiIndex> <!-- BS-1 -->
@@ -1115,6 +1207,7 @@
 		<ubAnimationID>1</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>93</uiIndex> <!-- EFL -->
@@ -1127,6 +1220,7 @@
 		<ubAnimationID>1</ubAnimationID>
 		<ubDuration>5</ubDuration>
 		<ubStartRadius>3</ubStartRadius>
+		<ubMagSize>5</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>94</uiIndex> <!-- M72A1 HEAT -->
@@ -1139,6 +1233,7 @@
 		<ubAnimationID>2</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>95</uiIndex> <!-- M74 Napalm -->
@@ -1151,6 +1246,7 @@
 		<ubAnimationID>9</ubAnimationID>
 		<ubDuration>3</ubDuration>
 		<ubStartRadius>8</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>96</uiIndex> <!-- M96 Mustard Gas -->
@@ -1163,6 +1259,7 @@
 		<ubAnimationID>8</ubAnimationID>
 		<ubDuration>5</ubDuration>
 		<ubStartRadius>6</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>97</uiIndex> <!-- 60mm HEAT -->
@@ -1175,6 +1272,7 @@
 		<ubAnimationID>1</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>98</uiIndex> <!-- 25mm HE Belt -->
@@ -1187,6 +1285,7 @@
 		<ubAnimationID>1</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>31</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>99</uiIndex> <!-- Pallad-M MAG -->
@@ -1199,6 +1298,7 @@
 		<ubAnimationID>1</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>7</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>100</uiIndex> <!-- 3rds 40mm HE -->
@@ -1211,6 +1311,7 @@
 		<ubAnimationID>1</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>3</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>101</uiIndex> <!-- 12rds 40mm HE -->
@@ -1223,6 +1324,7 @@
 		<ubAnimationID>1</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>12</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>102</uiIndex> <!--QLB-06 35mm -->
@@ -1235,6 +1337,7 @@
 		<ubAnimationID>2</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>6</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>103</uiIndex> <!-- F-1 Frag -->
@@ -1247,6 +1350,7 @@
 		<ubAnimationID>1</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>104</uiIndex> <!-- RGD-5 Frag -->
@@ -1259,6 +1363,7 @@
 		<ubAnimationID>1</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>105</uiIndex> <!-- PEARL Frag -->
@@ -1271,6 +1376,7 @@
 		<ubAnimationID>1</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>106</uiIndex> <!-- Mk3A2 Grenade -->
@@ -1283,6 +1389,7 @@
 		<ubAnimationID>2</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>107</uiIndex> <!-- M24 Grenade -->
@@ -1295,6 +1402,7 @@
 		<ubAnimationID>1</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>108</uiIndex> <!-- RKG-3 ATG -->
@@ -1307,6 +1415,7 @@
 		<ubAnimationID>1</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>109</uiIndex> <!-- M-DN 11 Frag -->
@@ -1319,6 +1428,7 @@
 		<ubAnimationID>1</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>110</uiIndex> <!-- V40 Mini-Frag -->
@@ -1331,6 +1441,7 @@
 		<ubAnimationID>1</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>111</uiIndex> <!-- Type 77-1 Grenade -->
@@ -1343,6 +1454,7 @@
 		<ubAnimationID>1</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>112</uiIndex> <!-- RGN -->
@@ -1355,6 +1467,7 @@
 		<ubAnimationID>2</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>113</uiIndex> <!-- RGO -->
@@ -1367,6 +1480,7 @@
 		<ubAnimationID>1</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>114</uiIndex> <!-- RG-42 -->
@@ -1379,6 +1493,7 @@
 		<ubAnimationID>2</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>115</uiIndex> <!-- URG-86 -->
@@ -1391,6 +1506,7 @@
 		<ubAnimationID>1</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>116</uiIndex> <!-- OD-82 -->
@@ -1403,6 +1519,7 @@
 		<ubAnimationID>1</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>117</uiIndex> <!-- WP -->
@@ -1415,6 +1532,7 @@
 		<ubAnimationID>9</ubAnimationID>
 		<ubDuration>4</ubDuration>
 		<ubStartRadius>8</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>118</uiIndex> <!-- M61 Frag -->
@@ -1427,6 +1545,7 @@
 		<ubAnimationID>1</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>119</uiIndex> <!-- SHgr56 Frag -->
@@ -1439,6 +1558,7 @@
 		<ubAnimationID>1</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>120</uiIndex> <!-- Type 97 Grenade -->
@@ -1451,6 +1571,7 @@
 		<ubAnimationID>1</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>121</uiIndex> <!-- AU F1 Frag -->
@@ -1463,6 +1584,7 @@
 		<ubAnimationID>1</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>122</uiIndex> <!-- Emergency Flare -->
@@ -1475,6 +1597,7 @@
 		<ubAnimationID>1</ubAnimationID>
 		<ubDuration>2</ubDuration>
 		<ubStartRadius>6</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>123</uiIndex> <!-- BLU-43 Mine -->
@@ -1487,6 +1610,7 @@
 		<ubAnimationID>1</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>124</uiIndex> <!-- M18 Claymore -->
@@ -1499,6 +1623,7 @@
 		<ubAnimationID>1</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>125</uiIndex> <!-- 60mm ILL -->
@@ -1511,6 +1636,7 @@
 		<ubAnimationID>1</ubAnimationID>
 		<ubDuration>8</ubDuration>
 		<ubStartRadius>6</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>126</uiIndex> <!-- 60mm Smoke -->
@@ -1523,6 +1649,7 @@
 		<ubAnimationID>7</ubAnimationID>
 		<ubDuration>8</ubDuration>
 		<ubStartRadius>6</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>127</uiIndex> <!-- Type-89 Grenade -->
@@ -1535,5 +1662,6 @@
 		<ubAnimationID>2</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 </EXPLOSIVELIST>

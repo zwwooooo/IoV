@@ -402,8 +402,8 @@
 	</AMMO>
 	<AMMO>
 		<uiIndex>80</uiIndex>
-		<AmmoCaliber>Cannonball</AmmoCaliber>
-		<BRCaliber>Cannonball</BRCaliber>
+		<AmmoCaliber>13mm Gyrojet</AmmoCaliber>
+		<BRCaliber>13mm Gyrojet</BRCaliber>
 	</AMMO>
 	<AMMO>
 		<uiIndex>81</uiIndex>
@@ -469,5 +469,10 @@
 		<uiIndex>93</uiIndex>
 		<AmmoCaliber>23x115mm</AmmoCaliber>
 		<BRCaliber>23x115mm</BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>94</uiIndex>
+		<AmmoCaliber>.338 Spectre</AmmoCaliber>
+		<BRCaliber>.338 Spectre</BRCaliber>
 	</AMMO>
 </AMMOLIST>
