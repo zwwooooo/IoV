@@ -37,44 +37,23 @@
 	</ATTACHMENTCOMBOMERGE>
 	<ATTACHMENTCOMBOMERGE>
 		<uiIndex>5</uiIndex>
-		<usItem>670</usItem>
-		<usAttachment1>207</usAttachment1>
-		<usAttachment2>1005</usAttachment2>
-		<usResult>1204</usResult>
-	</ATTACHMENTCOMBOMERGE>
-	<ATTACHMENTCOMBOMERGE>
-		<uiIndex>6</uiIndex>
-		<usItem>1813</usItem>
-		<usAttachment1>950</usAttachment1>
-		<usAttachment2>1832</usAttachment2>
-		<usResult>1826</usResult>
-	</ATTACHMENTCOMBOMERGE>
-	<ATTACHMENTCOMBOMERGE>
-		<uiIndex>7</uiIndex>
 		<usItem>340</usItem>
 		<usAttachment1>310</usAttachment1>
 		<usAttachment2>1026</usAttachment2>
 		<usResult>1370</usResult>
 	</ATTACHMENTCOMBOMERGE>
 	<ATTACHMENTCOMBOMERGE>
-		<uiIndex>8</uiIndex>
+		<uiIndex>6</uiIndex>
 		<usItem>1140</usItem>
 		<usAttachment1>1026</usAttachment1>
 		<usAttachment2>1888</usAttachment2>
 		<usResult>1986</usResult>
 	</ATTACHMENTCOMBOMERGE>
 	<ATTACHMENTCOMBOMERGE>
-		<uiIndex>9</uiIndex>
+		<uiIndex>7</uiIndex>
 		<usItem>61</usItem>
 		<usAttachment1>310</usAttachment1>
 		<usAttachment2>2260</usAttachment2>
 		<usResult>2283</usResult>
-	</ATTACHMENTCOMBOMERGE>
-	<ATTACHMENTCOMBOMERGE>
-		<uiIndex>10</uiIndex>
-		<usItem>648</usItem>
-		<usAttachment1>310</usAttachment1>
-		<usAttachment2>1026</usAttachment2>
-		<usResult>1359</usResult>
 	</ATTACHMENTCOMBOMERGE>
 </ATTACHMENTCOMBOMERGELIST>

@@ -2028,7 +2028,7 @@
 		<uiIndex>253</uiIndex>
 		<szItemName>Head</szItemName>
 		<szLongItemName>Matron的头</szLongItemName>
-		<szItemDesc>没有谁会想念Matron，或者她的脑袋。块拿去换钱吧。</szItemDesc>
+		<szItemDesc>没有谁会想念Matron，或者她的脑袋。快拿去换钱吧。</szItemDesc>
 		<szBRName>Matron's Head</szBRName>
 		<szBRDesc>BR不做人肉买卖</szBRDesc>
 	</ITEM>
@@ -2722,8 +2722,8 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>340</uiIndex>
-		<szItemName>Saiga 12K</szItemName>
-		<szLongItemName>Saiga 12K</szLongItemName>
+		<szItemName>Saiga12K</szItemName>
+		<szLongItemName>Saiga-12K</szLongItemName>
 		<szItemDesc>当你按下班机，像一堵墙一般的霰弹就会喷射而出。适合用作自家防卫，或者用来紧张家庭聚会的气氛。</szItemDesc>
 		<szBRName>Saiga 12K</szBRName>
 		<szBRDesc>于AK-47诞生后而生产，设计精良，造价便宜，半自动射击。无论是家用自卫还是警用，都有很不错的效果。</szBRDesc>
@@ -4058,50 +4058,50 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>507</uiIndex>
-		<szItemName>7.62x51mm C-MAG</szItemName>
-		<szLongItemName>7.62x51mm，90发普通弹(M80)</szLongItemName>
-		<szItemDesc>一个装有90发北约7.62mm口径全被甲弹的C-MAG弹鼓。</szItemDesc>
-		<szBRName>7.62x51mm C-MAG</szBRName>
-		<szBRDesc>当你收到这个90发全被甲弹C-MAG弹鼓后，下次的小规模交火会变的更加猛烈。</szBRDesc>
+		<szItemName>7.62x51 XS DRUM</szItemName>
+		<szLongItemName>7.62x51mm XS弹鼓</szLongItemName>
+		<szItemDesc>一个装有50发北约7.62mm口径全被甲弹的XS弹鼓。</szItemDesc>
+		<szBRName>7.62x51mm XS DRUM MAG</szBRName>
+		<szBRDesc>当你收到这个50发全被甲弹XS弹鼓后，下次的小规模交火会变的更加猛烈。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>508</uiIndex>
-		<szItemName>7.62x51mm C-MAG T</szItemName>
-		<szLongItemName>7.62x51mm，90发曳光弹(M62)</szLongItemName>
-		<szItemDesc>90发可以协助你提高点射精度的7.62mm口径M62曳光弹。</szItemDesc>
-		<szBRName>7.62x51mm C-MAG Tracer</szBRName>
-		<szBRDesc>倾泻这一整个C-MAG弹鼓内的带有致命精度的曳光弹吧。</szBRDesc>
+		<szItemName>7.62x51 XS DRUM T</szItemName>
+		<szLongItemName>7.62x51mm XS弹鼓, 曳光弹</szLongItemName>
+		<szItemDesc>50发可以协助你提高点射精度的7.62mm口径M62曳光弹。</szItemDesc>
+		<szBRName>7.62x51mm XS DRUM MAG Tracer</szBRName>
+		<szBRDesc>倾泻这一整个XS弹鼓内的带有致命精度的曳光弹吧。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>509</uiIndex>
-		<szItemName>7.62x51mm C-MAG M</szItemName>
-		<szLongItemName>7.62x51mm，90发比赛弹(M118L)</szLongItemName>
+		<szItemName>7.62x51 XS DRUM M</szItemName>
+		<szLongItemName>7.62x51mm XS弹鼓, M118LR狙击弹</szLongItemName>
 		<szItemDesc>7.62x51mm狙击弹为您提供额外的射程和更高的杀伤力。</szItemDesc>
-		<szBRName>7.62x51mm C-MAG M118L</szBRName>
+		<szBRName>7.62x51mm XS DRUM MAG M118LR</szBRName>
 		<szBRDesc>7.62x51mm狙击弹为您提供额外的射程和更高的杀伤力。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>510</uiIndex>
-		<szItemName>7.62x51mm C-MAG SB</szItemName>
-		<szLongItemName>7.62x51mm，90发亚音速弹</szLongItemName>
-		<szItemDesc>一整个C-MAG弹鼓的7.62x51mm亚音速弹，发射噪音比标准全被甲弹减少40％。</szItemDesc>
-		<szBRName>7.62x51mm C-MAG SB</szBRName>
+		<szItemName>7.62x51 XS DRUM SB</szItemName>
+		<szLongItemName>7.62x51mm XS弹鼓, 亚音速弹</szLongItemName>
+		<szItemDesc>一整个XS弹鼓的7.62x51mm亚音速弹，发射噪音比标准全被甲弹减少40％。</szItemDesc>
+		<szBRName>7.62x51mm XS DRUM MAG SB</szBRName>
 		<szBRDesc>较低的发射噪音和穿透力去换取最大的伤害。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>511</uiIndex>
-		<szItemName>7.62x51mm C-MAG HP</szItemName>
-		<szLongItemName>7.62x51mm，90发空尖弹</szLongItemName>
-		<szItemDesc>一个装有90发7.62mm口径空尖弹的C-MAG弹鼓。</szItemDesc>
-		<szBRName>7.62x51mm C-MAG HP</szBRName>
+		<szItemName>7.62x51 XS DRUM HP</szItemName>
+		<szLongItemName>7.62x51mm XS弹鼓, 空尖弹</szLongItemName>
+		<szItemDesc>一个装有50发7.62mm口径空尖弹的XS弹鼓。</szItemDesc>
+		<szBRName>7.62x51mm XS DRUM MAG HP</szBRName>
 		<szBRDesc>1899年的海牙公约规定禁止在军事用途上使用空尖弹药。万一你被控犯有战争罪Bobby Ray's可不替你承担任何责任。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>512</uiIndex>
-		<szItemName>7.62x51mm C-MAG AP</szItemName>
-		<szLongItemName>7.62x51mm，90发穿甲弹(M993)</szLongItemName>
+		<szItemName>7.62x51 XS DRUM AP</szItemName>
+		<szLongItemName>7.62x51mm XS弹鼓, 穿甲弹</szLongItemName>
 		<szItemDesc>M993是7.62x51mm穿甲弹的美军弹药编号，它能提供不错的穿甲性能。</szItemDesc>
-		<szBRName>7.62x51mm C-MAG AP</szBRName>
+		<szBRName>7.62x51mm XS DRUM MAG AP</szBRName>
 		<szBRDesc>M993是7.62x51mm穿甲弹的美军弹药编号，它能提供不错的穿甲性能。</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -5170,10 +5170,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>646</uiIndex>
-		<szItemName>F2000 Fully</szItemName>
-		<szLongItemName>FN F2000全附件</szLongItemName>
+		<szItemName>F2000</szItemName>
+		<szLongItemName>FN F2000</szLongItemName>
 		<szItemDesc>充满了未来风格的突击步枪，是比利时FN公司用以打入执法机构的产品。</szItemDesc>
-		<szBRName>FN F2000 Fully Armed</szBRName>
+		<szBRName>FN F2000</szBRName>
 		<szBRDesc>如果您是无托式步枪的爱好者却又偏偏是个左撇子，那这支采用聚合物机匣，导气式设计以及独特前抛壳机构的突击步枪一定非常合您胃口。还自带榴弹发射器哦！</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -6530,51 +6530,51 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>816</uiIndex>
-		<szItemName>C-18 EOD Helmet</szItemName>
-		<szLongItemName>强化EOD头盔</szLongItemName>
-		<szItemDesc>0</szItemDesc>
-		<szBRName>Treated EOD Helmet</szBRName>
-		<szBRDesc>不在BR出售</szBRDesc>
+		<szItemName>CCE Boonie</szItemName>
+		<szLongItemName>法军CCE迷彩奔尼帽</szLongItemName>
+		<szItemDesc>法国军队的丛林迷彩式丛林软帽。</szItemDesc>
+		<szBRName>French CCE Boonie Hat</szBRName>
+		<szBRDesc>法国军队的丛林迷彩式丛林软帽。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>817</uiIndex>
-		<szItemName>C-18 EOD Pants</szItemName>
-		<szLongItemName>强化EOD防弹裤</szLongItemName>
-		<szItemDesc>0</szItemDesc>
-		<szBRName>Treated EOD Leggings</szBRName>
-		<szBRDesc>不在BR出售</szBRDesc>
+		<szItemName>CCE Trousers</szItemName>
+		<szLongItemName>法军CCE丛林迷彩长裤</szLongItemName>
+		<szItemDesc>法国军队的丛林迷彩制服的长裤。</szItemDesc>
+		<szBRName>French CCE BDU Trousers</szBRName>
+		<szBRDesc>法国军队的丛林迷彩制服的长裤。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>818</uiIndex>
-		<szItemName>C-18 EOD Vest</szItemName>
-		<szLongItemName>强化EOD外套</szLongItemName>
-		<szItemDesc>0</szItemDesc>
-		<szBRName>Treated EOD Vest</szBRName>
-		<szBRDesc>不在BR出售</szBRDesc>
+		<szItemName>CCE Shirt</szItemName>
+		<szLongItemName>渤CCE丛林迷彩上衣</szLongItemName>
+		<szItemDesc>法国军队的丛林迷彩制服的上衣。</szItemDesc>
+		<szBRName>French CCE BDU Shirt</szBRName>
+		<szBRDesc>法国军队的丛林迷彩制服的上衣。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>819</uiIndex>
-		<szItemName>C-18 SWAT Helmet</szItemName>
-		<szLongItemName>强化SWAT头盔</szLongItemName>
-		<szItemDesc>0</szItemDesc>
-		<szBRName>Treated SWAT Helmet</szBRName>
-		<szBRDesc>不在BR出售</szBRDesc>
+		<szItemName>DPM Boonie</szItemName>
+		<szLongItemName>DPM沙漠迷彩奔尼帽</szLongItemName>
+		<szItemDesc>英军的DPM沙漠迷彩款丛林软帽。</szItemDesc>
+		<szBRName>DPM Desert Camo Boonie</szBRName>
+		<szBRDesc>英军的DPM沙漠迷彩款丛林软帽。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>820</uiIndex>
-		<szItemName>C-18 SWAT Pants</szItemName>
-		<szLongItemName>强化SWAT防弹裤</szLongItemName>
-		<szItemDesc>0</szItemDesc>
-		<szBRName>Treated SWAT Leggings</szBRName>
-		<szBRDesc>不在BR出售</szBRDesc>
+		<szItemName>DPM Trousers</szItemName>
+		<szLongItemName>DPM沙漠迷彩长裤</szLongItemName>
+		<szItemDesc>英军的DPM沙漠迷彩色制服的长裤。</szItemDesc>
+		<szBRName>DPM Desert Camo Trousers</szBRName>
+		<szBRDesc>英军的DPM沙漠迷彩色制服的长裤。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>821</uiIndex>
-		<szItemName>C-18 SWAT Vest</szItemName>
-		<szLongItemName>强化SWAT防弹背心</szLongItemName>
-		<szItemDesc>0</szItemDesc>
-		<szBRName>Treated SWAT Vest</szBRName>
-		<szBRDesc>不在BR出售</szBRDesc>
+		<szItemName>DPM Shirt</szItemName>
+		<szLongItemName>DPM沙漠迷彩上衣</szLongItemName>
+		<szItemDesc>英军的DPM沙漠迷彩色制服的上衣。</szItemDesc>
+		<szBRName>DPM Desert Camo Shirt</szBRName>
+		<szBRDesc>英军的DPM沙漠迷彩色制服的上衣。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>822</uiIndex>
@@ -7434,19 +7434,19 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>929</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Nothing</szLongItemName>
-		<szItemDesc>Index 929</szItemDesc>
-		<szBRName>Nothing</szBRName>
-		<szBRDesc>Nothing</szBRDesc>
+		<szItemName>XM148</szItemName>
+		<szLongItemName>Colt XM-148榴弹发射器</szLongItemName>
+		<szItemDesc>Colt XM-148/CG-4 40mm下挂榴弹发射器是为越战期间特种部队所造。</szItemDesc>
+		<szBRName>Colt XM-148 Grenade Launcher</szBRName>
+		<szBRDesc>Colt XM-148/CG-4 40mm下挂榴弹发射器是为越战期间特种部队所造。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>930</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Nothing</szLongItemName>
-		<szItemDesc>Index 930</szItemDesc>
-		<szBRName>Nothing</szBRName>
-		<szBRDesc>Nothing</szBRDesc>
+		<szItemName>EAGLE LVGL</szItemName>
+		<szLongItemName>EAGLE LV榴弹发射器</szLongItemName>
+		<szItemDesc>“鹰”增强型灵巧榴弹发射器无论左右手都可以很灵活的操作，可以自由设定枪管打开的方向，可以使用包括高爆弹、烟雾弹、低致命弹药等等各种40mm榴弹。</szItemDesc>
+		<szBRName>EAGLE LV Grenade Launcher</szBRName>
+		<szBRDesc>“鹰”增强型灵巧榴弹发射器无论左右手都可以很灵活的操作，可以自由设定枪管打开的方向，可以使用包括高爆弹、烟雾弹、低致命弹药等等各种40mm榴弹。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>931</uiIndex>
@@ -7522,11 +7522,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>940</uiIndex>
-		<szItemName>MP-Enfield</szItemName>
-		<szLongItemName>MP-恩菲尔德</szLongItemName>
-		<szItemDesc>专为加拿大骑警。此步枪的目的是在极端条件下运作非常可靠性和准确性。</szItemDesc>
-		<szBRName>MP-Enfield</szBRName>
-		<szBRDesc>专为加拿大骑警。此步枪的目的是在极端条件下运作非常可靠性和准确性。</szBRDesc>
+		<szItemName>QBU10</szItemName>
+		<szLongItemName>QBU10 AMR</szLongItemName>
+		<szItemDesc>PLA正式定型和装备的大口径反器材步枪。</szItemDesc>
+		<szBRName>QBU10 AMR</szBRName>
+		<szBRDesc>PLA正式定型和装备的大口径反器材步枪。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>941</uiIndex>
@@ -7562,26 +7562,26 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>945</uiIndex>
-		<szItemName>ACOG for WW2</szItemName>
-		<szLongItemName>Trijicon ACOG二战版</szLongItemName>
-		<szItemDesc>带有皮卡汀尼导轨的ACOG（先进战斗光学瞄准镜），可以安装到二战期间或其他一些老式步枪上。</szItemDesc>
-		<szBRName>Trijicon ACOG for WW2</szBRName>
-		<szBRDesc>不在BR出售</szBRDesc>
+		<szItemName>UltiMAK Rail</szItemName>
+		<szLongItemName>老枪升级导轨(短)</szLongItemName>
+		<szItemDesc>带有Ultimak导轨的升级套件，让二战或者其它时期的老式枪械可以安装现代瞄准具（例如CCO，ACOG等）。</szItemDesc>
+		<szBRName>UltiMAK Rail Short Kit</szBRName>
+		<szBRDesc>带有Ultimak导轨的升级套件，让二战或者其它时期的老式枪械可以安装现代瞄准具（例如CCO，ACOG等）。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>946</uiIndex>
-		<szItemName>Scope 7x for WW2</szItemName>
-		<szLongItemName>7倍二战瞄准镜</szLongItemName>
-		<szItemDesc>带有皮卡汀尼导轨的7倍狙击瞄准镜，可以安装到二战期间或其他一些老式步枪上。</szItemDesc>
-		<szBRName>Battle Scope, Mag.7x for WW2</szBRName>
-		<szBRDesc>不在BR出售</szBRDesc>
+		<szItemName>Magpul AFG</szItemName>
+		<szLongItemName>猫扑AFG前握把</szLongItemName>
+		<szItemDesc>猫扑公司的AFG前握把能让你更快更稳定地指向目标，适合群战使用。</szItemDesc>
+		<szBRName>Magpul Angled Fore-Grip</szBRName>
+		<szBRDesc>猫扑公司的AFG前握把能让你更快更稳定地指向目标，适合群战使用。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>947</uiIndex>
-		<szItemName>CCO for WW2</szItemName>
-		<szLongItemName>CCO二战版红点瞄准具</szLongItemName>
-		<szItemDesc>带有皮卡汀尼导轨的红点近战瞄准具，可以安装到二战期间或其他一些老式步枪上。</szItemDesc>
-		<szBRName>Aimpoint CCO for WW2</szBRName>
+		<szItemName>AN/PEQ-16A</szItemName>
+		<szLongItemName>AN/PEQ-16A MIPIM</szLongItemName>
+		<szItemDesc>PEQ-16A是PEQ-15的重新设计版，除了有激光指示功能外，还有具有战术灯功能，让你夜晚看得更远。</szItemDesc>
+		<szBRName>AN/PEQ-16A MIPIM</szBRName>
 		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -7978,11 +7978,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>997</uiIndex>
-		<szItemName>ACOG-DOC for WW2</szItemName>
-		<szLongItemName>Trijicon ACOG-DOC二战版</szLongItemName>
-		<szItemDesc>带有皮卡汀尼导轨的ACOG-DOC微型瞄准具，可以安装到二战期间或其他一些老式步枪上。</szItemDesc>
-		<szBRName>Trijicon ACOG-DOC for WW2</szBRName>
-		<szBRDesc>带有皮卡汀尼导轨的ACOG-DOC微型瞄准具，可以安装到二战期间或其他一些老式步枪上。</szBRDesc>
+		<szItemName>KX3 Flash Hider</szItemName>
+		<szLongItemName>Noveske KX3 Flash Hider</szLongItemName>
+		<szItemDesc>俗称“喷火猪”的高效消焰器，还能降低一定程度的枪口噪音。</szItemDesc>
+		<szBRName>Noveske KX3 Flash Hider </szBRName>
+		<szBRDesc>俗称“喷火猪”的高效消焰器，还能降低一定程度的枪口噪音。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>998</uiIndex>
@@ -8258,27 +8258,27 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1032</uiIndex>
-		<szItemName>7.62mm C-MAG Adapter</szItemName>
-		<szLongItemName>7.62mm C-MAG适配器，20发弹匣用</szLongItemName>
-		<szItemDesc>这种特殊的适配器可以安装在某些使用20发弹匣的7.62mm NATO口径武器上，使它们可以使用90发的Beta C-Mag弹鼓。</szItemDesc>
-		<szBRName>7.62mm C-MAG Adapter</szBRName>
-		<szBRDesc>这种特殊的适配器可以安装在某些使用20发弹匣的7.62mm NATO口径武器上，使它们可以使用90发的Beta C-Mag弹鼓。</szBRDesc>
+		<szItemName>7.62mm XS DRUM Adapter</szItemName>
+		<szLongItemName>7.62mm XS弹鼓适配器，20发弹匣用</szLongItemName>
+		<szItemDesc>这种特殊的适配器可以安装在某些使用20发弹匣的7.62mm NATO口径武器上，使它们可以使用50发的XS弹鼓。</szItemDesc>
+		<szBRName>7.62mm XS DRUM MAG Adapter</szBRName>
+		<szBRDesc>这种特殊的适配器可以安装在某些使用20发弹匣的7.62mm NATO口径武器上，使它们可以使用50发的XS弹鼓。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1033</uiIndex>
-		<szItemName>7.62mm C-MAG Adapter</szItemName>
-		<szLongItemName>7.62mm C-MAG适配器，25发弹匣用</szLongItemName>
-		<szItemDesc>这种特殊的适配器可以安装在某些使用25发弹匣的7.62mm NATO口径武器上，使它们可以使用90发的Beta C-Mag弹鼓。</szItemDesc>
-		<szBRName>7.62mm C-MAG Adapter</szBRName>
-		<szBRDesc>这种特殊的适配器可以安装在某些使用25发弹匣的7.62mm NATO口径武器上，使它们可以使用90发的Beta C-Mag弹鼓。</szBRDesc>
+		<szItemName>7.62mm XS DRUM Adapter</szItemName>
+		<szLongItemName>7.62mm XS弹鼓适配器，25发弹匣用</szLongItemName>
+		<szItemDesc>这种特殊的适配器可以安装在某些使用25发弹匣的7.62mm NATO口径武器上，使它们可以使用50发的XS弹鼓。</szItemDesc>
+		<szBRName>7.62mm XS DRUM MAG Adapter</szBRName>
+		<szBRDesc>这种特殊的适配器可以安装在某些使用25发弹匣的7.62mm NATO口径武器上，使它们可以使用50发的XS弹鼓。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1034</uiIndex>
-		<szItemName>7.62mm C-MAG Adapter</szItemName>
-		<szLongItemName>7.62mm C-MAG适配器，30发弹匣用</szLongItemName>
-		<szItemDesc>这种特殊的适配器可以安装在某些使用30发弹匣的7.62mm NATO口径武器上，使它们可以使用90发的Beta C-Mag弹鼓。</szItemDesc>
-		<szBRName>7.62mm C-MAG Adapter</szBRName>
-		<szBRDesc>这种特殊的适配器可以安装在某些使用30发弹匣的7.62mm NATO口径武器上，使它们可以使用90发的Beta C-Mag弹鼓。</szBRDesc>
+		<szItemName>7.62mm XS DRUM Adapter</szItemName>
+		<szLongItemName>7.62mm XS弹鼓适配器，30发弹匣用</szLongItemName>
+		<szItemDesc>这种特殊的适配器可以安装在某些使用30发弹匣的7.62mm NATO口径武器上，使它们可以使用50发的XS弹鼓。</szItemDesc>
+		<szBRName>7.62mm XS DRUM MAG Adapter</szBRName>
+		<szBRDesc>这种特殊的适配器可以安装在某些使用30发弹匣的7.62mm NATO口径武器上，使它们可以使用50发的XS弹鼓。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1035</uiIndex>
@@ -8562,11 +8562,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1070</uiIndex>
-		<szItemName>Handcannon</szItemName>
-		<szLongItemName>手炮</szLongItemName>
-		<szItemDesc>一种古老、经典而且威力强大的大口径燧发枪。</szItemDesc>
-		<szBRName>Handcannon</szBRName>
-		<szBRDesc>一种古老、经典而且威力强大的大口径燧发枪。</szBRDesc>
+		<szItemName>Gyrojet</szItemName>
+		<szLongItemName>MBA Gyrojet</szLongItemName>
+		<szItemDesc>Gyrojet火箭式手枪发射13mm口径的火箭弹，威力相当惊人（YY的），至于精度嘛。。。。。。</szItemDesc>
+		<szBRName>MBA Gyrojet</szBRName>
+		<szBRDesc>Gyrojet火箭式手枪发射13mm口径的火箭弹，威力相当惊人（YY的），至于精度嘛。。。。。。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1071</uiIndex>
@@ -8586,18 +8586,18 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1073</uiIndex>
-		<szItemName>AUG-SMG Fully Armed</szItemName>
-		<szLongItemName>Steyr AUG-SMG全附件</szLongItemName>
-		<szItemDesc>这种AUG-A3突击队员型的全附件型安装了前握把，激光瞄准具/战术灯组件和消声器，并可以使用长弹匣。</szItemDesc>
-		<szBRName>Steyr AUG-SMG Fully Armed</szBRName>
-		<szBRDesc>不在BR出售</szBRDesc>
+		<szItemName>AUG-A3 SF</szItemName>
+		<szLongItemName>Steyr AUG-A3 SF</szLongItemName>
+		<szItemDesc>类似AUG A2卡宾型，但固定的瞄准镜上装有MIL-STD-1913导轨，方便接上各种附件。现已装备奥地利特种部队。</szItemDesc>
+		<szBRName>Steyr AUG-A3 SF</szBRName>
+		<szBRDesc>类似AUG A2卡宾型，但固定的瞄准镜上装有MIL-STD-1913导轨，方便接上各种附件。现已装备奥地利特种部队。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1074</uiIndex>
-		<szItemName>SG552 Fully Armed</szItemName>
-		<szLongItemName>SIG SG552全附件</szLongItemName>
-		<szItemDesc>SG552突击队员型加装消声器和前握把，换成M4式样的枪托，并安装了CCO瞄准镜。</szItemDesc>
-		<szBRName>SIG SG552 Fully Armed</szBRName>
+		<szItemName>M21 JAE</szItemName>
+		<szLongItemName>M21 JAE-100</szLongItemName>
+		<szItemDesc>更换了JAE-100枪托的M21狙击步枪。</szItemDesc>
+		<szBRName>M21 JAE-100</szBRName>
 		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -8802,11 +8802,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1100</uiIndex>
-		<szItemName>AK-74M</szItemName>
-		<szLongItemName>AK-74M</szLongItemName>
-		<szItemDesc>AK-74系列的最新型号，自90年代初期配备俄国军队。与较早的AK-74步枪相比它最大的不同之处在于它的可侧向折叠塑料枪托。</szItemDesc>
-		<szBRName>AK-74M</szBRName>
-		<szBRDesc>AK-74系列的最新型号，自90年代初期配备俄国军队。与较早的AK-74步枪相比它最大的不同之处在于它的可侧向折叠塑料枪托。</szBRDesc>
+		<szItemName>AK-101</szItemName>
+		<szLongItemName>AK-101</szLongItemName>
+		<szItemDesc>这是5.56 NATO口径的AK-74M。</szItemDesc>
+		<szBRName>AK-101</szBRName>
+		<szBRDesc>这是5.56 NATO口径的AK-74M。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1101</uiIndex>
@@ -9634,11 +9634,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1204</uiIndex>
-		<szItemName>Mk23 Mod0</szItemName>
-		<szLongItemName>Mk23 Mod0全附件</szLongItemName>
-		<szItemDesc>Mk23 SOCOM手枪是在Mk23 Mod0上加装了LAM和KAC消声器。</szItemDesc>
-		<szBRName>Mk23 Mod0 Full Armed</szBRName>
-		<szBRDesc>Mk23 SOCOM手枪是在Mk23 Mod0上加装了LAM和KAC消声器。</szBRDesc>
+		<szItemName>CQBW M4</szItemName>
+		<szLongItemName>Custom CQBW M4</szLongItemName>
+		<szItemDesc>海豹专用于CQB的M4定制版，装有ACOG、PEQ-2、REDI-MAG和象耳托。</szItemDesc>
+		<szBRName>Custom CQBW M4</szBRName>
+		<szBRDesc>不在BR出售。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1205</uiIndex>
@@ -10514,11 +10514,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1314</uiIndex>
-		<szItemName>S＆W M327 TTR8</szItemName>
-		<szLongItemName>S＆W Model 327 TRR8</szLongItemName>
-		<szItemDesc>无论是用于狩猎、比赛、作战或者自卫，经史密斯威森性能中心认定的手枪都能满足您的所有需求。性能中心对手枪的要求是提供完美的准确性、可靠性和外观。</szItemDesc>
-		<szBRName>S＆W Model 327 TRR8</szBRName>
-		<szBRDesc>无论是用于狩猎、比赛、作战或者自卫，经史密斯威森性能中心认定的手枪都能满足您的所有需求。这款全配置手枪带有反射式瞄准镜和激光指示器。</szBRDesc>
+		<szItemName>Tavor X95</szItemName>
+		<szLongItemName>Tavor X95</szLongItemName>
+		<szItemDesc>微型塔沃尔MTAR-21的最新改进型，整合的导轨便于安装更多的附件。</szItemDesc>
+		<szBRName>Tavor X95</szBRName>
+		<szBRDesc>微型塔沃尔MTAR-21的最新改进型，整合的导轨便于安装更多的附件。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1315</uiIndex>
@@ -10698,11 +10698,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1337</uiIndex>
-		<szItemName>AKMS/GP-30</szItemName>
-		<szLongItemName>AKMS/GP-30组合</szLongItemName>
-		<szItemDesc>配用了GP-30下挂榴弹发射器的AKM步枪。</szItemDesc>
-		<szBRName>AKMS/GP-30 Combo</szBRName>
-		<szBRDesc>配用了GP-30下挂榴弹发射器的AKM步枪。</szBRDesc>
+		<szItemName>AKMS/BS-1</szItemName>
+		<szLongItemName>AKMS/BS-1 Combo</szLongItemName>
+		<szItemDesc>安装有BS-1无声榴弹发射器的消声型AKMS。</szItemDesc>
+		<szBRName>AKMS/BS-1 Combo</szBRName>
+		<szBRDesc>安装有BS-1无声榴弹发射器的消声型AKMS。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1338</uiIndex>
@@ -10835,9 +10835,9 @@
 	<ITEM>
 		<uiIndex>1354</uiIndex>
 		<szItemName>American-180</szItemName>
-		<szLongItemName>American-180</szLongItemName>
+		<szLongItemName>American-180短管型</szLongItemName>
 		<szItemDesc>这是一款弹容量极大可持续发射很长时间的小口径高射速冲锋枪，对付变形金刚的大杀器（只保证对付电影版大黄蜂）。</szItemDesc>
-		<szBRName>American-180</szBRName>
+		<szBRName>American-180短管型</szBRName>
 		<szBRDesc>这是一款弹容量极大可持续发射很长时间的小口径高射速冲锋枪，对付变形金刚的大杀器（只保证对付电影版大黄蜂）。</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -10962,10 +10962,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1370</uiIndex>
-		<szItemName>Saiga 12 EXP-01</szItemName>
-		<szLongItemName>Saiga 12 EXP-01</szLongItemName>
+		<szItemName>Saiga12 EX02</szItemName>
+		<szLongItemName>Saiga-12-EX02</szLongItemName>
 		<szItemDesc>长枪管、消焰器和大容量弹匣，配有皮卡汀尼以安装北约制式的各种光学瞄具。</szItemDesc>
-		<szBRName>Saiga 12 EXP-01</szBRName>
+		<szBRName>Saiga 12 EX-02</szBRName>
 		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -10986,11 +10986,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1373</uiIndex>
-		<szItemName>M16A4 Fully Armed</szItemName>
-		<szLongItemName>Colt M16A4全附件</szLongItemName>
-		<szItemDesc>M16A4配备了伸缩式枪托、M203榴弹发射器、M68近战光学瞄准镜（CCO）和AN/PVS-14夜视瞄准系统。</szItemDesc>
-		<szBRName>Colt M16A4 Fully Armed</szBRName>
-		<szBRDesc>M16A4配备了伸缩式枪托、M203榴弹发射器、M68近战光学瞄准镜（CCO）和AN/PVS-14夜视瞄准系统。</szBRDesc>
+		<szItemName>Negev</szItemName>
+		<szLongItemName>IMI Negev Commando</szLongItemName>
+		<szItemDesc>以色列奈格夫轻机枪的突击队员型，比标准型的枪管稍短，更灵活。</szItemDesc>
+		<szBRName>IMI Negev Commando</szBRName>
+		<szBRDesc>以色列奈格夫轻机枪的突击队员型，比标准型的枪管稍短，更灵活。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1374</uiIndex>
@@ -12666,11 +12666,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1583</uiIndex>
-		<szItemName>Cannonball</szItemName>
-		<szLongItemName>手炮铅弹</szLongItemName>
-		<szItemDesc>用手炮发射的一个大号铅球。</szItemDesc>
-		<szBRName>Cannonball</szBRName>
-		<szBRDesc>用手炮发射的一个大号铅球。</szBRDesc>
+		<szItemName>Gyrojet Projectiles</szItemName>
+		<szLongItemName>Gyrojet火箭弹</szLongItemName>
+		<szItemDesc>六枚13mm口径的小型火箭弹，这是Gyrojet火箭式手枪专用的。</szItemDesc>
+		<szBRName>Gyrojet Projectiles</szBRName>
+		<szBRDesc>六枚13mm口径的小型火箭弹，这是Gyrojet火箭式手枪专用的。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1584</uiIndex>
@@ -12826,19 +12826,19 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1603</uiIndex>
-		<szItemName>FN EX13 EGLM</szItemName>
-		<szLongItemName>FNH EX13增强榴弹模组</szLongItemName>
-		<szItemDesc>EX13 EGLM(Enhanced Grenade Launcher Module/增强榴弹发射器模组)由FNH美国分公司制造， 可装于SCAR系列步枪。</szItemDesc>
-		<szBRName>FNH EX13 E.G.L.M.</szBRName>
-		<szBRDesc>EX13 EGLM(Enhanced Grenade Launcher Module/增强榴弹发射器模组)由FNH美国分公司制造， 可装于SCAR系列步枪。</szBRDesc>
+		<szItemName>Mk13 EGLM</szItemName>
+		<szLongItemName>FNH Mk13增强榴弹模块</szLongItemName>
+		<szItemDesc>Mk13 EGLM(Enhanced Grenade Launcher Module/增强榴弹发射器模组)由FNH美国分公司制造， 可装于SCAR系列步枪。</szItemDesc>
+		<szBRName>FNH Mk13 E.G.L.M.</szBRName>
+		<szBRDesc>Mk13 EGLM(Enhanced Grenade Launcher Module/增强榴弹发射器模组)由FNH美国分公司制造， 可装于SCAR系列步枪。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1604</uiIndex>
-		<szItemName>EX13 EGLM Alone</szItemName>
-		<szLongItemName>FNH EX13独立榴弹模组</szLongItemName>
-		<szItemDesc>单独使用的EX13增强榴弹发射器。 这款武器结合了红外激光测距/瞄准的火控系统，可发射至600米。</szItemDesc>
-		<szBRName>FNH EX13 E.G.L.M. Alone</szBRName>
-		<szBRDesc>单独使用的EX13增强榴弹发射器。 这款武器结合了红外激光测距/瞄准的火控系统，可发射至600米。</szBRDesc>
+		<szItemName>Mk13 EGLM Alone</szItemName>
+		<szLongItemName>FNH Mk13独立榴弹模块</szLongItemName>
+		<szItemDesc>单独使用的Mk13增强榴弹发射器。 这款武器结合了红外激光测距/瞄准的火控系统，可发射至600米。</szItemDesc>
+		<szBRName>FNH Mk13 E.G.L.M. Alone</szBRName>
+		<szBRDesc>单独使用的Mk13增强榴弹发射器。 这款武器结合了红外激光测距/瞄准的火控系统，可发射至600米。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1605</uiIndex>
@@ -12978,11 +12978,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1622</uiIndex>
-		<szItemName>SAA GL</szItemName>
-		<szLongItemName>SAA榴弹发射器</szLongItemName>
-		<szItemDesc>SAA 40mm榴弹发射器是独立使用的掷弹筒。</szItemDesc>
-		<szBRName>SAA Grenade Launcher</szBRName>
-		<szBRDesc>SAA 40mm榴弹发射器是独立使用的掷弹筒。</szBRDesc>
+		<szItemName>Sawed-Off M79</szItemName>
+		<szLongItemName>短版M79榴弹发射器</szLongItemName>
+		<szItemDesc>切短枪管和切掉枪托的短版M79榴弹发射器。</szItemDesc>
+		<szBRName>Sawed-Off M79 Grenade Launcher</szBRName>
+		<szBRDesc>切短枪管和切掉枪托的短版M79榴弹发射器。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1623</uiIndex>
@@ -14498,11 +14498,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1812</uiIndex>
-		<szItemName>Tactical Scope</szItemName>
-		<szLongItemName>10倍战术瞄准镜</szLongItemName>
-		<szItemDesc>结合了Doctor紧凑型红点和10倍狙击镜，让射手在战斗中更快的找到目标。</szItemDesc>
-		<szBRName>10x Tactical Scope</szBRName>
-		<szBRDesc>BR不卖。</szBRDesc>
+		<szItemName>OEG Sight</szItemName>
+		<szLongItemName>Armson O.E.G.准直式光学瞄准仪</szLongItemName>
+		<szItemDesc>准直式光学瞄准仪虽然不怎么准，但瞄得快，很快。</szItemDesc>
+		<szBRName>Armson O.E.G. Sight</szBRName>
+		<szBRDesc>准直式光学瞄准仪虽然不怎么准，但瞄得快，很快。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1813</uiIndex>
@@ -14610,11 +14610,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1826</uiIndex>
-		<szItemName>FCS 24x Scope</szItemName>
-		<szLongItemName>24倍狙击火控系统</szLongItemName>
-		<szItemDesc>24倍狙击镜结合了激光测距装置和弹道计算机。</szItemDesc>
-		<szBRName>FCS Scope, Mag.24x</szBRName>
-		<szBRDesc>24倍狙击镜结合了激光测距装置和弹道计算机。</szBRDesc>
+		<szItemName>ACOG TA-26</szItemName>
+		<szLongItemName>Trijicon Compact ACOG TA-26</szLongItemName>
+		<szItemDesc>1.5倍的小型瞄准镜，很适合在冲锋枪和短步枪上使用。</szItemDesc>
+		<szBRName>Trijicon ACOG Compact TA-26</szBRName>
+		<szBRDesc>1.5倍的小型瞄准镜，很适合在冲锋枪和短步枪上使用。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1827</uiIndex>
@@ -14707,7 +14707,7 @@
 	<ITEM>
 		<uiIndex>1838</uiIndex>
 		<szItemName>Pistol +Floorplate</szItemName>
-		<szLongItemName>手枪弹匣底板+</szLongItemName>
+		<szLongItemName>手枪弹匣加号底板</szLongItemName>
 		<szItemDesc>这款弹匣底板+ 适用于一些9mm和.357sig手枪弹匣， 增加5发弹容量。</szItemDesc>
 		<szBRName>Pistol +Floorplate</szBRName>
 		<szBRDesc>这款弹匣底板+ 适用于一些9mm和.357sig手枪弹匣， 增加5发弹容量。</szBRDesc>
@@ -15162,11 +15162,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1895</uiIndex>
-		<szItemName>Cx4 Upgrade Kit</szItemName>
-		<szLongItemName>Cx4升级组件</szLongItemName>
-		<szItemDesc>这些升级组件可将Cx4 Storm改为.45ACP口径，同时允许全自动模式。</szItemDesc>
-		<szBRName>Cx4 Upgrade Kit</szBRName>
-		<szBRDesc>这些升级组件可将Cx4 Storm改为.45ACP口径，同时允许全自动模式。</szBRDesc>
+		<szItemName>DDL Handguard</szItemName>
+		<szLongItemName>DDL Handguard</szLongItemName>
+		<szItemDesc>Daniel Defense公司的12英寸浮置式导轨系统护木，装到枪上可以让你的短AR武器有更好的精度。</szItemDesc>
+		<szBRName>DDL Handguard</szBRName>
+		<szBRDesc>Daniel Defense公司的12英寸浮置式导轨系统护木，装到枪上可以让你的短AR武器有更好的精度。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1896</uiIndex>
@@ -15274,11 +15274,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1909</uiIndex>
-		<szItemName>Upgread Rail</szItemName>
-		<szLongItemName>老枪升级导轨</szLongItemName>
-		<szItemDesc>带有Ultimak导轨的升级套件，让二战或者其它时期的老式枪械可以安装现代瞄准具（例如CCO，ACOG或者7x战斗瞄准镜）。</szItemDesc>
-		<szBRName>Upgread Rail for Oldgun</szBRName>
-		<szBRDesc>带有Ultimak导轨的升级套件，让二战或者其它时期的老式枪械可以安装现代瞄准具（例如CCO，ACOG或者7x战斗瞄准镜）。</szBRDesc>
+		<szItemName>UltiMAK Rail</szItemName>
+		<szLongItemName>老枪升级导轨(长)</szLongItemName>
+		<szItemDesc>带有Ultimak导轨的升级套件，让二战或者其它时期的老式长枪可以安装现代瞄准具（例如CCO，ACOG或者7x战斗瞄准镜）。</szItemDesc>
+		<szBRName>UltiMAK Rail Long Kit</szBRName>
+		<szBRDesc>带有Ultimak导轨的升级套件，让二战或者其它时期的老式长枪可以安装现代瞄准具（例如CCO，ACOG或者7x战斗瞄准镜）。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1910</uiIndex>
@@ -15642,11 +15642,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1955</uiIndex>
-		<szItemName>C8A1</szItemName>
-		<szLongItemName>Diemaco C8A1</szLongItemName>
-		<szItemDesc>这是科尔特的加拿大分公司(Diemaco)生产的使用平顶机匣的C8A1型卡宾枪。</szItemDesc>
-		<szBRName>Diemaco C8A1</szBRName>
-		<szBRDesc>这是科尔特的加拿大分公司(Diemaco)生产的使用平顶机匣的C8A1型卡宾枪。</szBRDesc>
+		<szItemName>SCAR PDW</szItemName>
+		<szLongItemName>FN SCAR PDW</szLongItemName>
+		<szItemDesc>最短的SCAR。</szItemDesc>
+		<szBRName>FN SCAR PDW</szBRName>
+		<szBRDesc>最短的SCAR。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1956</uiIndex>
@@ -15684,9 +15684,9 @@
 		<uiIndex>1960</uiIndex>
 		<szItemName>S＆W 1911 .45 Hi-Cap</szItemName>
 		<szLongItemName>S＆W 1911大弹匣型</szLongItemName>
-		<szItemDesc>使用14发大容量弹匣的史密斯韦森1911手枪。</szItemDesc>
+		<szItemDesc>使用10发大容量弹匣的史密斯韦森1911手枪。</szItemDesc>
 		<szBRName>Colt High Capacity M1911A1</szBRName>
-		<szBRDesc>使用14发大容量弹匣的史密斯韦森1911手枪。</szBRDesc>
+		<szBRDesc>使用10发大容量弹匣的史密斯韦森1911手枪。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1961</uiIndex>
@@ -15914,10 +15914,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1989</uiIndex>
-		<szItemName>SR-15 Fully Armed</szItemName>
-		<szLongItemName>SR-15全附件</szLongItemName>
-		<szItemDesc>这种民用型M4卡宾枪装备了ACOG瞄准镜、微型夜视瞄准镜、AN/PEQ-2 ITP激光瞄准具和Eagle战术灯/前握把组合。</szItemDesc>
-		<szBRName>SR-15 Fully Armed</szBRName>
+		<szItemName>L85A3</szItemName>
+		<szLongItemName>Enfield L85A3</szLongItemName>
+		<szItemDesc>L85A2的升级型，安装DDL公司的战术导轨护木，便于安装各种新式通用配件。</szItemDesc>
+		<szBRName>Enfield L85A3</szBRName>
 		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -16090,19 +16090,19 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2011</uiIndex>
-		<szItemName>SIG 556 SWAT</szItemName>
-		<szLongItemName>SIG 556 SWAT</szLongItemName>
-		<szItemDesc>SIG 556 SWAT和SIG 556一样使用16”军标冷锻枪管。带有散热孔的战术护木采用经硬化处理的航空阳极氧化铝合金制造以提高耐用性。</szItemDesc>
-		<szBRName>SIG 556 SWAT</szBRName>
-		<szBRDesc>SIG 556 SWAT和SIG 556一样使用16”军标冷锻枪管。带有散热孔的战术护木采用经硬化处理的航空阳极氧化铝合金制造以提高耐用性。</szBRDesc>
+		<szItemName>SIG 547</szItemName>
+		<szLongItemName>SIG 547</szLongItemName>
+		<szItemDesc>SIG 547是SIG 556的7.62mm WP口径版，可以直接使用AK47的弹匣。</szItemDesc>
+		<szBRName>SIG 547</szBRName>
+		<szBRDesc>SIG 547是SIG 556的7.62mm WP口径版，可以直接使用AK47的弹匣。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2012</uiIndex>
-		<szItemName>C8-RECON</szItemName>
-		<szLongItemName>Diemaco C8-RECON</szLongItemName>
-		<szItemDesc>这是柯尔特加拿大（迪玛科）公司C8A2换装了平顶机匣和R.I.S（导轨界面连接系统）的型号。</szItemDesc>
-		<szBRName>Diemaco C8-RECON</szBRName>
-		<szBRDesc>这是柯尔特加拿大（迪玛科）公司C8A2换装了平顶机匣和R.I.S（导轨界面连接系统）的型号。</szBRDesc>
+		<szItemName>C8IUR</szItemName>
+		<szLongItemName>Diemaco C8IUR</szLongItemName>
+		<szItemDesc>柯尔特加拿大（迪玛科）公司最新改进的一体上机匣的C8卡宾枪。</szItemDesc>
+		<szBRName>Diemaco C8IUR</szBRName>
+		<szBRDesc>柯尔特加拿大（迪玛科）公司最新改进的一体上机匣的C8卡宾枪。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2013</uiIndex>
@@ -16162,11 +16162,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2020</uiIndex>
-		<szItemName>Vz.58v</szItemName>
-		<szLongItemName>SA Vz.58v</szLongItemName>
-		<szItemDesc>vz.58步枪的最新工厂改进型，配备了皮卡汀尼导轨，可安装各种北约标准的红外、激光等瞄准具。带有枪口制退器。</szItemDesc>
-		<szBRName>SA Vz.58v</szBRName>
-		<szBRDesc>vz.58步枪的最新工厂改进型，配备了皮卡汀尼导轨，可安装各种北约标准的红外、激光等瞄准具。带有枪口制退器。</szBRDesc>
+		<szItemName>Raptor</szItemName>
+		<szLongItemName>Raptor Infantry Rifle</szLongItemName>
+		<szItemDesc>南非Truvelo公司的Raptor步枪是维克托R4步枪的现代化改进型，有皮卡汀尼导轨便于安装各种战术附件。</szItemDesc>
+		<szBRName>Raptor Infantry Rifle</szBRName>
+		<szBRDesc>南非Truvelo公司的Raptor步枪是维克托R4步枪的现代化改进型，有皮卡汀尼导轨便于安装各种战术附件。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2021</uiIndex>
@@ -17218,19 +17218,19 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2152</uiIndex>
-		<szItemName>9A-91</szItemName>
-		<szLongItemName>9A-91</szLongItemName>
-		<szItemDesc>采用9x39mm弹药的9A-91紧凑型突击步枪，轻便而强大，即使敌人穿着防爆服一样抵挡不了。</szItemDesc>
-		<szBRName>9A-91</szBRName>
-		<szBRDesc>作为俄罗斯A91武器系统的一部分，9A-91是采用了9x39mm亚音速子弹的短突击步枪型。把它更换枪托，加装消声器以后，就是有名的VSK94狙击步枪了。</szBRDesc>
+		<szItemName>Saiga-12K-EXP</szItemName>
+		<szLongItemName>Saiga-12K-EXP</szLongItemName>
+		<szItemDesc>紧凑型的SAIGA-12，这是美国人改装的版本。</szItemDesc>
+		<szBRName>Saiga-12K-EXP</szBRName>
+		<szBRDesc>紧凑型的SAIGA-12，这是美国人改装的版本。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2153</uiIndex>
 		<szItemName>9A-91 Fully</szItemName>
 		<szLongItemName>9A-91全附件</szLongItemName>
-		<szItemDesc>这支9A-91短突击步枪加装了消声器，GP-30榴弹发射器，还有BARS红点瞄准镜。有了它，你可以成为寂静中的死神。</szItemDesc>
+		<szItemDesc>这支9A-91短突击步枪加装了GP-30榴弹发射器，还有BARS红点瞄准镜。有了它，你可以成为寂静中的死神。</szItemDesc>
 		<szBRName>9A-91 Fully Armed</szBRName>
-		<szBRDesc>这支9A-91短突击步枪加装了消声器，GP-30榴弹发射器，还有BARS红点瞄准镜。有了它，你可以成为寂静中的死神。</szBRDesc>
+		<szBRDesc>这支9A-91短突击步枪加装了GP-30榴弹发射器，还有BARS红点瞄准镜。有了它，你可以成为寂静中的死神。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2154</uiIndex>
@@ -17378,11 +17378,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2172</uiIndex>
-		<szItemName>QBZ95 Fully</szItemName>
-		<szLongItemName>QBZ95全附件</szLongItemName>
-		<szItemDesc>中国95式突击步枪的全附件型，带有一个3倍白光瞄准镜，一个激光指示器/战术灯模块和一个消声器。</szItemDesc>
-		<szBRName>QBZ95 Fully Armed</szBRName>
-		<szBRDesc>BR不卖。</szBRDesc>
+		<szItemName>AK-200</szItemName>
+		<szLongItemName>AK-200</szLongItemName>
+		<szItemDesc>下一代的AK步枪，使用60发4排弹匣、CTR枪托、整合皮卡汀尼导轨的护木。</szItemDesc>
+		<szBRName>AK-200</szBRName>
+		<szBRDesc>下一代的AK步枪，使用60发4排弹匣、CTR枪托、整合皮卡汀尼导轨的护木。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2173</uiIndex>
@@ -18162,11 +18162,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2270</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Nothing</szLongItemName>
-		<szItemDesc>Index 2270</szItemDesc>
-		<szBRName>Nothing</szBRName>
-		<szBRDesc>Nothing</szBRDesc>
+		<szItemName>AN/PVS-2</szItemName>
+		<szLongItemName>AN/PVS-2 NVS</szLongItemName>
+		<szItemDesc>AN/PVS-2是第一代微光夜视装置，可安装到M14、M16或其他相同年代的武器上。</szItemDesc>
+		<szBRName>AN/PVS-2 NSV</szBRName>
+		<szBRDesc>AN/PVS-2是第一代微光夜视装置，可安装到M14、M16或其他相同年代的武器上。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2271</uiIndex>
@@ -19738,11 +19738,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2467</uiIndex>
-		<szItemName>SR-3M F.A.</szItemName>
-		<szLongItemName>Vikhr SR-3M Fully Armed</szLongItemName>
-		<szItemDesc>安装了消声器和瞄准镜的SR-3M。</szItemDesc>
-		<szBRName>Vikhr SR-3M Fully Armed</szBRName>
-		<szBRDesc>不在BR出售</szBRDesc>
+		<szItemName>AK-109</szItemName>
+		<szLongItemName>AK-109</szLongItemName>
+		<szItemDesc>7.62x39mm版本的AK-107。</szItemDesc>
+		<szBRName>AK-109</szBRName>
+		<szBRDesc>7.62x39mm版本的AK-107。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2468</uiIndex>
@@ -20466,11 +20466,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2558</uiIndex>
-		<szItemName>7.62x51mm C-MAG SOST</szItemName>
-		<szLongItemName>7.62x51mm C-MAG, SOST</szLongItemName>
-		<szItemDesc>99发7.62x51mm口径Mk319 MOD 0特种近程弹。</szItemDesc>
-		<szBRName>7.62x51mm C-MAG SOST</szBRName>
-		<szBRDesc>99发7.62x51mm口径Mk319 MOD 0特种近程弹。</szBRDesc>
+		<szItemName>7.62x51 XS DRUM SOST</szItemName>
+		<szLongItemName>7.62x51mm XS弹鼓, SOST</szLongItemName>
+		<szItemDesc>50发7.62x51mm口径Mk319 MOD 0特种近程弹。</szItemDesc>
+		<szBRName>7.62x51mm XS DRUM MAG SOST</szBRName>
+		<szBRDesc>50发7.62x51mm口径Mk319 MOD 0特种近程弹。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2559</uiIndex>
@@ -21042,10 +21042,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2630</uiIndex>
-		<szItemName>7.62x51 C-MAG Duplex</szItemName>
-		<szLongItemName>7.62x51mm C-MAG, Duplex</szLongItemName>
-		<szItemDesc>99发7.62x51mm口径M198双头弹。</szItemDesc>
-		<szBRName>7.62x51mm C-MAG Duplex</szBRName>
+		<szItemName>7.62x51 XS DRUM Duplex</szItemName>
+		<szLongItemName>7.62x51mm XS弹鼓, Duplex</szLongItemName>
+		<szItemDesc>50发7.62x51mm口径M198双头弹。</szItemDesc>
+		<szBRName>7.62x51mm XS DRUM MAG Duplex</szBRName>
 		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -21111,5 +21111,165 @@
 		<szItemDesc>16英寸型的M1A无托版。</szItemDesc>
 		<szBRName>Bulldog 762 M1A</szBRName>
 		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2639</uiIndex>
+		<szItemName>Bipod</szItemName>
+		<szLongItemName>哈里斯两脚架</szLongItemName>
+		<szItemDesc>哈里斯两脚架能为你的狙击步枪提供更牢固更稳定的架枪状态，但它也比较重了一些。</szItemDesc>
+		<szBRName>Harris Bipod</szBRName>
+		<szBRDesc>哈里斯两脚架能为你的狙击步枪提供更牢固更稳定的架枪状态，但它也比较重了一些。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2640</uiIndex>
+		<szItemName>Bipod</szItemName>
+		<szLongItemName>TangoDown Bipod</szLongItemName>
+		<szItemDesc>可装到皮卡汀尼导轨上的轻型两脚架，这种两脚架不影响枪挂式榴弹发射器的使用。</szItemDesc>
+		<szBRName>TangoDown Bipod</szBRName>
+		<szBRDesc>可装到皮卡汀尼导轨上的轻型两脚架，这种两脚架不影响枪挂式榴弹发射器的使用。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2641</uiIndex>
+		<szItemName>5.56mm C-MAG Adapter</szItemName>
+		<szLongItemName>5.56mm C-MAG适配器，20发弹匣用</szLongItemName>
+		<szItemDesc>这种特殊的适配器可以安装在某些使用20发弹匣的5.56mm口径武器上，使它们可以使用100发的Beta C-Mag弹鼓。</szItemDesc>
+		<szBRName>5.56mm C-MAG Adapter, 20</szBRName>
+		<szBRDesc>这种特殊的适配器可以安装在某些使用20发弹匣的5.56mm口径武器上，使它们可以使用100发的Beta C-Mag弹鼓。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2642</uiIndex>
+		<szItemName>5.56mm C-MAG Adapter</szItemName>
+		<szLongItemName>5.56mm C-MAG适配器，42发弹匣用</szLongItemName>
+		<szItemDesc>这种特殊的适配器可以安装在某些使用42发弹匣的5.56mm口径武器上，使它们可以使用100发的Beta C-Mag弹鼓。</szItemDesc>
+		<szBRName>5.56mm C-MAG Adapter, 42</szBRName>
+		<szBRDesc>这种特殊的适配器可以安装在某些使用42发弹匣的5.56mm口径武器上，使它们可以使用100发的Beta C-Mag弹鼓。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2643</uiIndex>
+		<szItemName>7.62mm XS DRUM Adapter</szItemName>
+		<szLongItemName>7.62mm XS弹鼓适配器，10发弹匣用</szLongItemName>
+		<szItemDesc>这种特殊的适配器可以安装在某些使用10发弹匣的7.62mm NATO口径武器上，使它们可以使用50发的XS弹鼓。</szItemDesc>
+		<szBRName>7.62mm XS DRUM MAG Adapter, 10</szBRName>
+		<szBRDesc>这种特殊的适配器可以安装在某些使用10发弹匣的7.62mm NATO口径武器上，使它们可以使用50发的XS弹鼓。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2644</uiIndex>
+		<szItemName>Pistol +Floorplate</szItemName>
+		<szLongItemName>手枪弹匣加号底板</szLongItemName>
+		<szItemDesc>这款弹匣底板+ 适用于一些.45和.40手枪弹匣，增加3发弹容量。</szItemDesc>
+		<szBRName>Pistol +Floorplate</szBRName>
+		<szBRDesc>这款弹匣底板+ 适用于一些.45和.40手枪弹匣，增加3发弹容量。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2645</uiIndex>
+		<szItemName>.45 Drum Adapter</szItemName>
+		<szLongItemName>.45弹鼓适配器</szLongItemName>
+		<szItemDesc>这种特殊的适配器可以安装在某些使用弹匣的.45 ACP口径的武器上，使它们可以使用50发的汤普森弹鼓。</szItemDesc>
+		<szBRName>.45 Drum Adapter</szBRName>
+		<szBRDesc>这种特殊的适配器可以安装在某些使用弹匣的.45 ACP口径的武器上，使它们可以使用50发的汤普森弹鼓。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2646</uiIndex>
+		<szItemName>MP Stock</szItemName>
+		<szLongItemName>冲锋手枪枪托</szLongItemName>
+		<szItemDesc>聚合物材料制成的冲锋手枪枪托，可用于现代冲锋手枪。</szItemDesc>
+		<szBRName>Machine-Pistol Stock</szBRName>
+		<szBRDesc>聚合物材料制成的冲锋手枪枪托，可用于现代冲锋手枪。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2647</uiIndex>
+		<szItemName>Scope Mount</szItemName>
+		<szLongItemName>手枪瞄准镜座</szLongItemName>
+		<szItemDesc>让你的旧款手枪变得比较“现代化”，并且能装上红点镜或低倍瞄准镜。</szItemDesc>
+		<szBRName>Handgun Scope Mount</szBRName>
+		<szBRDesc>让你的旧款手枪变得比较“现代化”，并且能装上红点镜或低倍瞄准镜。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2648</uiIndex>
+		<szItemName>China AMR Sight</szItemName>
+		<szLongItemName>多功能瞄准装置</szLongItemName>
+		<szItemDesc>有激光测距仪、环境传感仪、弹道计算器的瞄准装置，是中国为大口径反器材步枪的超远程射击所研制的。</szItemDesc>
+		<szBRName>China AMR Sight</szBRName>
+		<szBRDesc>有激光测距仪、环境传感仪、弹道计算器的瞄准装置，是中国为大口径反器材步枪的超远程射击所研制的。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2649</uiIndex>
+		<szItemName>American-180</szItemName>
+		<szLongItemName>American-180长管型</szLongItemName>
+		<szItemDesc>标准型的，枪管较长所以有欠灵活，但射程更远威力更大。</szItemDesc>
+		<szBRName>American-180长管型</szBRName>
+		<szBRDesc>标准型的，枪管较长所以有欠灵活，但射程更远威力更大。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2650</uiIndex>
+		<szItemName>M320 GLM</szItemName>
+		<szLongItemName>M320榴弹发射器模块</szLongItemName>
+		<szItemDesc>HK公司生产的榴弹发射器模块的独立使用型号，重量轻、尺寸短，可发射各种40mm低速榴弹。</szItemDesc>
+		<szBRName>M320 HK GLM</szBRName>
+		<szBRDesc>HK公司生产的榴弹发射器模块的独立使用型号，重量轻、尺寸短，可发射各种40mm低速榴弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2651</uiIndex>
+		<szItemName>M203/Grip</szItemName>
+		<szLongItemName>Colt M203带前握把的榴弹发射器</szLongItemName>
+		<szItemDesc>在M203下面固定上一个前握把。</szItemDesc>
+		<szBRName>Colt M203/Grip Grenade Launcher</szBRName>
+		<szBRDesc>不在BR出售。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2652</uiIndex>
+		<szItemName>5.56mm Hi-MAG Adapter</szItemName>
+		<szLongItemName>5.56mm长弹匣适配器</szLongItemName>
+		<szItemDesc>这种特殊的适配器可以安装在那些使用30发弹匣的5.56NATO武器上，使它们可以使用42发的长弹匣。</szItemDesc>
+		<szBRName>5.56mm Hi-MAG Adapter</szBRName>
+		<szBRDesc>这种特殊的适配器可以安装在那些使用30发弹匣的5.56NATO武器上，使它们可以使用42发的长弹匣。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2653</uiIndex>
+		<szItemName>Minimi Mag Adapter</szItemName>
+		<szLongItemName>Minimi弹匣适配器</szLongItemName>
+		<szItemDesc>FN Minimi/M249机枪的弹匣适配器，使它们可以使用标准的M16弹匣。</szItemDesc>
+		<szBRName>Minimi Mag Adapter</szBRName>
+		<szBRDesc>FN Minimi/M249机枪的弹匣适配器，使它们可以使用标准的M16弹匣。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2654</uiIndex>
+		<szItemName>7.62mm Hi-MAG Adapter</szItemName>
+		<szLongItemName>7.62mm长弹匣适配器</szLongItemName>
+		<szItemDesc>这种特殊的适配器可以安装在那些使用20发弹匣的7.62NATO武器上，使它们可以使用30发的长弹匣。</szItemDesc>
+		<szBRName>7.62mm Hi-MAG Adapter</szBRName>
+		<szBRDesc>这种特殊的适配器可以安装在那些使用20发弹匣的7.62NATO武器上，使它们可以使用30发的长弹匣。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2655</uiIndex>
+		<szItemName>HK Mag Adapter</szItemName>
+		<szLongItemName>HK机枪弹匣适配器</szLongItemName>
+		<szItemDesc>HK21机枪的弹匣适配器，使它们可以使用G3弹匣。</szItemDesc>
+		<szBRName>HK Mag Adapter</szBRName>
+		<szBRDesc>HK21机枪的弹匣适配器，使它们可以使用G3弹匣。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2656</uiIndex>
+		<szItemName>5.45mm RPK-MAG Adapter</szItemName>
+		<szLongItemName>5.45mm RPK弹匣适配器</szLongItemName>
+		<szItemDesc>这种特殊的适配器可以安装在那些使用30发弹匣的5.45x39mm武器上，使它们可以使用45发的RPK长弹匣。</szItemDesc>
+		<szBRName>5.45mm RPK-MAG Adapter</szBRName>
+		<szBRDesc>这种特殊的适配器可以安装在那些使用30发弹匣的5.45x39mm武器上，使它们可以使用45发的RPK长弹匣。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2657</uiIndex>
+		<szItemName>5.45mm Hi-MAG Adapter</szItemName>
+		<szLongItemName>5.45mm四排弹匣适配器</szLongItemName>
+		<szItemDesc>这种特殊的适配器可以安装在那些使用30发弹匣的5.45x39mm武器上，使它们可以使用60发的4排大容量弹匣。</szItemDesc>
+		<szBRName>5.45mm Hi-MAG Adapter</szBRName>
+		<szBRDesc>这种特殊的适配器可以安装在那些使用30发弹匣的5.45x39mm武器上，使它们可以使用60发的4排大容量弹匣。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2658</uiIndex>
+		<szItemName>9x39mm Hi-MAG Adapter</szItemName>
+		<szLongItemName>9x39mm长弹匣适配器</szLongItemName>
+		<szItemDesc>这种特殊的适配器可以安装在那些使用20发弹匣的9x39mm武器上，使它们可以使用30发长弹匣。</szItemDesc>
+		<szBRName>9x39mm Hi-MAG Adapter</szBRName>
+		<szBRDesc>这种特殊的适配器可以安装在那些使用20发弹匣的9x39mm武器上，使它们可以使用30发长弹匣。</szBRDesc>
 	</ITEM>
 </ITEMLIST>

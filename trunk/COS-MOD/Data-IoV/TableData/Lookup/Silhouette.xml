@@ -234,18 +234,22 @@
 	</Silhouette>
 	<Silhouette>
 		<id>58</id>
-		<name>Vehicle</name>
-	</Silhouette>
-	<Silhouette>
-		<id>59</id>
 		<name>Med. Document Pouch</name>
 	</Silhouette>
 	<Silhouette>
-		<id>60</id>
+		<id>59</id>
 		<name>Single M16A1 Mag Pocket</name>
 	</Silhouette>
 	<Silhouette>
+		<id>60</id>
+		<name>Double M16A1 Pocket</name>
+	</Silhouette>
+	<Silhouette>
 		<id>61</id>
-		<name>Double M16A1 Mag Pocket</name>
+		<name>Big Drums Pocket</name>
+	</Silhouette>
+	<Silhouette>
+		<id>62</id>
+		<name>Four-stack SMG Mag Pocket</name>
 	</Silhouette>
 </JA2Data>

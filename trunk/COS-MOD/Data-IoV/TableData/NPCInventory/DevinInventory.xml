@@ -293,12 +293,12 @@
 	<INVENTORY>
 		<uiIndex>58</uiIndex>
 		<sItemIndex>964</sItemIndex>
-		<ubOptimalNumber>2</ubOptimalNumber>
+		<ubOptimalNumber>0</ubOptimalNumber>
 	</INVENTORY>
 	<INVENTORY>
 		<uiIndex>59</uiIndex>
 		<sItemIndex>965</sItemIndex>
-		<ubOptimalNumber>2</ubOptimalNumber>
+		<ubOptimalNumber>0</ubOptimalNumber>
 	</INVENTORY>
 	<INVENTORY>
 		<uiIndex>60</uiIndex>
@@ -308,17 +308,17 @@
 	<INVENTORY>
 		<uiIndex>61</uiIndex>
 		<sItemIndex>967</sItemIndex>
-		<ubOptimalNumber>2</ubOptimalNumber>
+		<ubOptimalNumber>0</ubOptimalNumber>
 	</INVENTORY>
 	<INVENTORY>
 		<uiIndex>62</uiIndex>
 		<sItemIndex>968</sItemIndex>
-		<ubOptimalNumber>2</ubOptimalNumber>
+		<ubOptimalNumber>0</ubOptimalNumber>
 	</INVENTORY>
 	<INVENTORY>
 		<uiIndex>63</uiIndex>
 		<sItemIndex>969</sItemIndex>
-		<ubOptimalNumber>2</ubOptimalNumber>
+		<ubOptimalNumber>0</ubOptimalNumber>
 	</INVENTORY>
 	<INVENTORY>
 		<uiIndex>64</uiIndex>
@@ -498,12 +498,12 @@
 	<INVENTORY>
 		<uiIndex>99</uiIndex>
 		<sItemIndex>1632</sItemIndex>
-		<ubOptimalNumber>2</ubOptimalNumber>
+		<ubOptimalNumber>0</ubOptimalNumber>
 	</INVENTORY>
 	<INVENTORY>
 		<uiIndex>100</uiIndex>
 		<sItemIndex>1633</sItemIndex>
-		<ubOptimalNumber>1</ubOptimalNumber>
+		<ubOptimalNumber>0</ubOptimalNumber>
 	</INVENTORY>
 	<INVENTORY>
 		<uiIndex>101</uiIndex>
@@ -708,6 +708,16 @@
 	<INVENTORY>
 		<uiIndex>141</uiIndex>
 		<sItemIndex>928</sItemIndex>
+		<ubOptimalNumber>1</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>142</uiIndex>
+		<sItemIndex>2650</sItemIndex>
+		<ubOptimalNumber>1</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>143</uiIndex>
+		<sItemIndex>2651</sItemIndex>
 		<ubOptimalNumber>1</ubOptimalNumber>
 	</INVENTORY>
 </INVENTORYLIST>

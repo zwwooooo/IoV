@@ -244,4 +244,20 @@
 		<pIndex>60</pIndex>
 		<pName>双联M16A1弹匣包</pName>
 	</POCKET>
+	<POCKET>
+		<pIndex>61</pIndex>
+		<pName>大弹鼓包</pName>
+	</POCKET>
+	<POCKET>
+		<pIndex>62</pIndex>
+		<pName>4排冲锋枪弹匣包</pName>
+	</POCKET>
+	<POCKET>
+		<pIndex>63</pIndex>
+		<pName>窄ALICE扣</pName>
+	</POCKET>
+	<POCKET>
+		<pIndex>64</pIndex>
+		<pName>宽ALICE扣</pName>
+	</POCKET>
 </POCKETLIST>
