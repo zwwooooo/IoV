@@ -663,7 +663,6 @@
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>700</BR_ROF>
-		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<STAND_MODIFIERS>
@@ -8642,7 +8641,7 @@
 		<nasAttachmentClass>2</nasAttachmentClass>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>134</ubGraphicNum>
-		<ubWeight>6</ubWeight>
+		<ubWeight>7</ubWeight>
 		<ubPerPocket>2</ubPerPocket>
 		<ItemSize>22</ItemSize>
 		<ItemSizeBonus>1</ItemSizeBonus>
@@ -16395,7 +16394,6 @@
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>900</BR_ROF>
-		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<STAND_MODIFIERS>
@@ -16435,7 +16433,6 @@
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>900</BR_ROF>
-		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<STAND_MODIFIERS>
@@ -16561,7 +16558,6 @@
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>600</BR_ROF>
-		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<STAND_MODIFIERS>
@@ -16640,7 +16636,6 @@
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>600</BR_ROF>
-		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<STAND_MODIFIERS>
@@ -16680,7 +16675,6 @@
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>600</BR_ROF>
-		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<STAND_MODIFIERS>
@@ -16956,7 +16950,6 @@
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>600</BR_ROF>
-		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<STAND_MODIFIERS>
@@ -18043,6 +18036,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
 		<BR_ROF>850</BR_ROF>
 		<DefaultAttachment>910</DefaultAttachment>
 		<DefaultAttachment>1830</DefaultAttachment>
@@ -18201,8 +18195,6 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>2</BR_NewInventory>
-		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
@@ -18324,7 +18316,6 @@
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>750</BR_ROF>
-		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<STAND_MODIFIERS>
@@ -18998,7 +18989,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>4</BR_NewInventory>
+		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>36</BR_ROF>
 		<PercentNoiseReduction>90</PercentNoiseReduction>
@@ -20557,7 +20548,6 @@
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>700</BR_ROF>
-		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<Bipod>10</Bipod>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
@@ -20602,7 +20592,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>700</BR_ROF>
-		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<STAND_MODIFIERS>
@@ -20642,7 +20631,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>700</BR_ROF>
-		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<STAND_MODIFIERS>
@@ -22390,7 +22378,6 @@
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
 		<BR_ROF>900</BR_ROF>
-		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<STAND_MODIFIERS>
@@ -24978,10 +24965,10 @@
 	<ITEM>
 		<uiIndex>839</uiIndex>
 		<szItemName>Protec Helmet</szItemName>
-		<szLongItemName>Protec VBSS Helmet</szLongItemName>
-		<szItemDesc>This light weight VBSS (Visit, Boarding, Search and Seizure) helmet was made by Pro-Tec.</szItemDesc>
-		<szBRName>Protec VBSS Helmet</szBRName>
-		<szBRDesc>This light weight VBSS (Visit, Boarding, Search and Seizure) helmet was made by Pro-Tec.</szBRDesc>
+		<szLongItemName>Pro-Tec Half-Head Helmet</szLongItemName>
+		<szItemDesc>This light weight and half-head for VBSS (Visit, Boarding, Search and Seizure) helmet was made by Pro-Tec.</szItemDesc>
+		<szBRName>Pro-Tec VBSS Helmet</szBRName>
+		<szBRDesc>This light weight and half-head for VBSS (Visit, Boarding, Search and Seizure) helmet was made by Pro-Tec.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>93</ubClassIndex>
@@ -24989,7 +24976,7 @@
 		<ubGraphicNum>478</ubGraphicNum>
 		<ubWeight>4</ubWeight>
 		<ItemSize>40</ItemSize>
-		<usPrice>650</usPrice>
+		<usPrice>350</usPrice>
 		<ubCoolness>4</ubCoolness>
 		<bReliability>1</bReliability>
 		<bRepairEase>1</bRepairEase>
@@ -26545,17 +26532,17 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>892</uiIndex>
-		<szItemName>Para Helmet</szItemName>
-		<szLongItemName>Protec Para Helmet</szLongItemName>
+		<szItemName>Protec Para</szItemName>
+		<szLongItemName>Pro-Tec Para Helmet</szLongItemName>
 		<szItemDesc>This light weight anti-impact paratrooper's helmet was made by Pro-Tec.</szItemDesc>
-		<szBRName>Protec Para Helmet</szBRName>
+		<szBRName>Pro-Tec Para Helmet</szBRName>
 		<szBRDesc>This light weight anti-impact paratrooper's helmet was made by Pro-Tec.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>111</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>265</ubGraphicNum>
-		<ubWeight>4</ubWeight>
+		<ubWeight>6</ubWeight>
 		<ItemSize>40</ItemSize>
 		<usPrice>600</usPrice>
 		<ubCoolness>3</ubCoolness>
@@ -27100,7 +27087,7 @@
 		<szBRDesc>The AICW comes with an integrated 40mm grenade launcher.</szBRDesc>
 		<usItemClass>16</usItemClass>
 		<nasAttachmentClass>512</nasAttachmentClass>
-		<nasLayoutClass>2</nasLayoutClass>
+		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>909</ubClassIndex>
 		<ubCursor>20</ubCursor>
 		<ubGraphicNum>39</ubGraphicNum>
@@ -29594,6 +29581,10 @@
 		<SciFi>1</SciFi>
 		<BR_NewInventory>1</BR_NewInventory>
 		<GLGrenade>1</GLGrenade>
+		<AttachmentSystem>1</AttachmentSystem>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>986</uiIndex>
@@ -29930,8 +29921,8 @@
 		<nasAttachmentClass>2</nasAttachmentClass>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>871</ubGraphicNum>
-		<ubWeight>2</ubWeight>
-		<ubPerPocket>4</ubPerPocket>
+		<ubWeight>3</ubWeight>
+		<ubPerPocket>2</ubPerPocket>
 		<ItemSize>25</ItemSize>
 		<usPrice>200</usPrice>
 		<ubCoolness>2</ubCoolness>
@@ -30190,11 +30181,11 @@
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>2</BR_UsedInventory>
 		<ToHitBonus>-5</ToHitBonus>
 		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
-		<PercentAPReduction>10</PercentAPReduction>
+		<PercentAPReduction>15</PercentAPReduction>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
 		<DayVisionRangeBonus>25</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>25</BrightLightVisionRangeBonus>
@@ -31441,7 +31432,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>39</BR_ROF>
-		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<DefaultAttachment>1801</DefaultAttachment>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -31568,7 +31558,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>30</BR_ROF>
-		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<DefaultAttachment>1801</DefaultAttachment>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -33458,7 +33447,6 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>1000</BR_ROF>
-		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1011</DefaultAttachment>
@@ -33536,7 +33524,6 @@
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>600</BR_ROF>
-		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<STAND_MODIFIERS>
@@ -34045,9 +34032,10 @@
 		<TwoHanded>1</TwoHanded>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_ROF>625</BR_ROF>
-		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
+		<DefaultAttachment>1011</DefaultAttachment>
+		<DefaultAttachment>1860</DefaultAttachment>
 		<STAND_MODIFIERS>
 			<PercentMaxCounterForce>-15</PercentMaxCounterForce>
 			<PercentCounterForceAccuracy>-15</PercentCounterForceAccuracy>
@@ -34082,7 +34070,6 @@
 		<TwoHanded>1</TwoHanded>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_ROF>625</BR_ROF>
-		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<STAND_MODIFIERS>
@@ -34118,9 +34105,9 @@
 		<TwoHanded>1</TwoHanded>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_ROF>625</BR_ROF>
-		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
+		<DefaultAttachment>1011</DefaultAttachment>
 		<STAND_MODIFIERS>
 			<PercentMaxCounterForce>-15</PercentMaxCounterForce>
 			<PercentCounterForceAccuracy>-15</PercentCounterForceAccuracy>
@@ -34141,7 +34128,7 @@
 		<ubClassIndex>1125</ubClassIndex>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>325</ubGraphicNum>
-		<ubWeight>35</ubWeight>
+		<ubWeight>36</ubWeight>
 		<ItemSize>6</ItemSize>
 		<usPrice>8200</usPrice>
 		<ubCoolness>8</ubCoolness>
@@ -34155,7 +34142,6 @@
 		<TwoHanded>1</TwoHanded>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_ROF>600</BR_ROF>
-		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<STAND_MODIFIERS>
@@ -34178,7 +34164,7 @@
 		<ubClassIndex>1126</ubClassIndex>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>326</ubGraphicNum>
-		<ubWeight>36</ubWeight>
+		<ubWeight>35</ubWeight>
 		<ItemSize>6</ItemSize>
 		<usPrice>8050</usPrice>
 		<ubCoolness>8</ubCoolness>
@@ -34192,9 +34178,9 @@
 		<TwoHanded>1</TwoHanded>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_ROF>600</BR_ROF>
-		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
+		<DefaultAttachment>1011</DefaultAttachment>
 		<STAND_MODIFIERS>
 			<PercentMaxCounterForce>-15</PercentMaxCounterForce>
 			<PercentCounterForceAccuracy>-15</PercentCounterForceAccuracy>
@@ -34228,7 +34214,6 @@
 		<TwoHanded>1</TwoHanded>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_ROF>600</BR_ROF>
-		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<STAND_MODIFIERS>
@@ -34266,9 +34251,9 @@
 		<NotBuyable>1</NotBuyable>
 		<SciFi>1</SciFi>
 		<BR_ROF>650</BR_ROF>
-		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
+		<DefaultAttachment>1011</DefaultAttachment>
 		<STAND_MODIFIERS>
 			<PercentMaxCounterForce>-15</PercentMaxCounterForce>
 			<PercentCounterForceAccuracy>-15</PercentCounterForceAccuracy>
@@ -34304,7 +34289,6 @@
 		<NotBuyable>1</NotBuyable>
 		<SciFi>1</SciFi>
 		<BR_ROF>650</BR_ROF>
-		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<STAND_MODIFIERS>
@@ -34341,7 +34325,6 @@
 		<NotBuyable>1</NotBuyable>
 		<SciFi>1</SciFi>
 		<BR_ROF>650</BR_ROF>
-		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<STAND_MODIFIERS>
@@ -34379,9 +34362,10 @@
 		<NotBuyable>1</NotBuyable>
 		<SciFi>1</SciFi>
 		<BR_ROF>650</BR_ROF>
-		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
+		<DefaultAttachment>1011</DefaultAttachment>
+		<DefaultAttachment>1802</DefaultAttachment>
 		<STAND_MODIFIERS>
 			<PercentMaxCounterForce>-15</PercentMaxCounterForce>
 			<PercentCounterForceAccuracy>-15</PercentCounterForceAccuracy>
@@ -34404,7 +34388,7 @@
 		<ubGraphicNum>332</ubGraphicNum>
 		<ubWeight>48</ubWeight>
 		<ItemSize>7</ItemSize>
-		<usPrice>7900</usPrice>
+		<usPrice>7600</usPrice>
 		<ubCoolness>9</ubCoolness>
 		<bReliability>6</bReliability>
 		<bRepairEase>1</bRepairEase>
@@ -34414,12 +34398,11 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
-		<NotBuyable>1</NotBuyable>
-		<SciFi>1</SciFi>
+		<BR_NewInventory>1</BR_NewInventory>
 		<BR_ROF>650</BR_ROF>
-		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
+		<DefaultAttachment>1004</DefaultAttachment>
 		<DefaultAttachment>1011</DefaultAttachment>
 		<DefaultAttachment>2640</DefaultAttachment>
 		<STAND_MODIFIERS>
@@ -34453,13 +34436,13 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
-		<NotBuyable>1</NotBuyable>
-		<SciFi>1</SciFi>
+		<BR_NewInventory>1</BR_NewInventory>
 		<BR_ROF>30</BR_ROF>
-		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<DefaultAttachment>208</DefaultAttachment>
+		<DefaultAttachment>1011</DefaultAttachment>
+		<DefaultAttachment>2639</DefaultAttachment>
 		<STAND_MODIFIERS>
 			<PercentMaxCounterForce>-15</PercentMaxCounterForce>
 			<PercentCounterForceAccuracy>-15</PercentCounterForceAccuracy>
@@ -35184,11 +35167,11 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>750</BR_ROF>
-		<PercentNoiseReduction>55</PercentNoiseReduction>
-		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
+		<DefaultAttachment>997</DefaultAttachment>
 		<DefaultAttachment>1011</DefaultAttachment>
+		<DefaultAttachment>1854</DefaultAttachment>
 		<STAND_MODIFIERS>
 			<PercentMaxCounterForce>-20</PercentMaxCounterForce>
 			<PercentCounterForceAccuracy>-20</PercentCounterForceAccuracy>
@@ -35225,11 +35208,11 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>700</BR_ROF>
-		<PercentNoiseReduction>55</PercentNoiseReduction>
-		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
+		<DefaultAttachment>997</DefaultAttachment>
 		<DefaultAttachment>1011</DefaultAttachment>
+		<DefaultAttachment>1854</DefaultAttachment>
 		<STAND_MODIFIERS>
 			<PercentMaxCounterForce>-20</PercentMaxCounterForce>
 			<PercentCounterForceAccuracy>-20</PercentCounterForceAccuracy>
@@ -37029,13 +37012,12 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
-		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>850</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<DefaultAttachment>950</DefaultAttachment>
+		<DefaultAttachment>1004</DefaultAttachment>
 		<DefaultAttachment>1011</DefaultAttachment>
-		<DefaultAttachment>1030</DefaultAttachment>
 		<STAND_MODIFIERS>
 			<PercentMaxCounterForce>-20</PercentMaxCounterForce>
 			<PercentCounterForceAccuracy>15</PercentCounterForceAccuracy>
@@ -37739,6 +37721,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
+		<BR_NewInventory>1</BR_NewInventory>
 		<BR_ROF>700</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
@@ -38266,7 +38249,6 @@
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>650</BR_ROF>
-		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<STAND_MODIFIERS>
@@ -39491,6 +39473,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
+		<BR_NewInventory>1</BR_NewInventory>
 		<BR_ROF>36</BR_ROF>
 		<Crowbar>1</Crowbar>
 		<DefaultAttachment>1005</DefaultAttachment>
@@ -39727,7 +39710,6 @@
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>750</BR_ROF>
-		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
@@ -40843,12 +40825,10 @@
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
 		<BR_ROF>625</BR_ROF>
-		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1603</DefaultAttachment>
 		<DefaultAttachment>1802</DefaultAttachment>
-		<DefaultAttachment>2264</DefaultAttachment>
 		<STAND_MODIFIERS>
 			<PercentMaxCounterForce>-15</PercentMaxCounterForce>
 			<PercentCounterForceAccuracy>-15</PercentCounterForceAccuracy>
@@ -40887,7 +40867,6 @@
 		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1603</DefaultAttachment>
 		<DefaultAttachment>1802</DefaultAttachment>
-		<DefaultAttachment>2264</DefaultAttachment>
 		<STAND_MODIFIERS>
 			<PercentMaxCounterForce>-15</PercentMaxCounterForce>
 			<PercentCounterForceAccuracy>-15</PercentCounterForceAccuracy>
@@ -41066,7 +41045,6 @@
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
 		<BR_ROF>900</BR_ROF>
-		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1605</DefaultAttachment>
@@ -41103,8 +41081,6 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>1</BR_NewInventory>
-		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>700</BR_ROF>
 		<DefaultAttachment>50</DefaultAttachment>
 		<STAND_MODIFIERS />
@@ -41903,6 +41879,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
 		<BR_ROF>900</BR_ROF>
 		<DefaultAttachment>50</DefaultAttachment>
 		<DefaultAttachment>1808</DefaultAttachment>
@@ -41972,7 +41949,6 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
-		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>650</BR_ROF>
 		<DefaultAttachment>1617</DefaultAttachment>
 		<STAND_MODIFIERS />
@@ -42200,6 +42176,8 @@
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
 		<SciFi>1</SciFi>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
@@ -42239,6 +42217,8 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
 		<AimBonus>10</AimBonus>
@@ -42991,7 +42971,6 @@
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
 		<BR_ROF>300</BR_ROF>
-		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -43199,7 +43178,6 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
-		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
@@ -43679,7 +43657,6 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>1</BR_NewInventory>
 		<BR_ROF>800</BR_ROF>
 		<PercentNoiseReduction>75</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
@@ -49470,7 +49447,7 @@
 		<ubCursor>20</ubCursor>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>149</ubGraphicNum>
-		<ubWeight>4</ubWeight>
+		<ubWeight>2</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>15</ItemSize>
 		<usPrice>300</usPrice>
@@ -49829,7 +49806,6 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
-		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>14</BR_ROF>
 		<GrenadeLauncher>1</GrenadeLauncher>
 		<STAND_MODIFIERS />
@@ -56458,7 +56434,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<AimBonus>5</AimBonus>
 		<VisionRangeBonus>20</VisionRangeBonus>
-		<PercentTunnelVision>10</PercentTunnelVision>
 		<ScopeMagFactor>3.0</ScopeMagFactor>
 		<STAND_MODIFIERS>
 			<AimLevels>1</AimLevels>
@@ -60018,7 +59993,6 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>700</BR_ROF>
-		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1011</DefaultAttachment>
@@ -60301,7 +60275,6 @@
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>30</BR_ROF>
-		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<DefaultAttachment>1801</DefaultAttachment>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -61687,7 +61660,6 @@
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
 		<BR_ROF>600</BR_ROF>
-		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<DefaultAttachment>911</DefaultAttachment>
@@ -61728,7 +61700,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>900</BR_ROF>
-		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1029</DefaultAttachment>
@@ -62225,7 +62196,6 @@
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
 		<BR_ROF>850</BR_ROF>
-		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1011</DefaultAttachment>
@@ -65343,7 +65313,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>24</BR_ROF>
-		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<spreadPattern>SawedoffSpread</spreadPattern>
 		<STAND_MODIFIERS>
@@ -66102,6 +66071,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
 		<BR_ROF>800</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
@@ -66815,6 +66785,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
@@ -70611,7 +70582,6 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
-		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>800</BR_ROF>
 		<PercentNoiseReduction>75</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
@@ -74790,7 +74760,6 @@
 		<TwoHanded>1</TwoHanded>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_ROF>29</BR_ROF>
-		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<DefaultAttachment>208</DefaultAttachment>
 		<DefaultAttachment>2639</DefaultAttachment>
 		<STAND_MODIFIERS />
@@ -74823,7 +74792,6 @@
 		<TwoHanded>1</TwoHanded>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_ROF>31</BR_ROF>
-		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1825</DefaultAttachment>
@@ -74860,7 +74828,6 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>30</BR_ROF>
-		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1825</DefaultAttachment>
@@ -74902,7 +74869,6 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>29</BR_ROF>
-		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1825</DefaultAttachment>
@@ -76111,7 +76077,6 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<BR_ROF>36</BR_ROF>
-		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -76506,7 +76471,6 @@
 		<TwoHanded>1</TwoHanded>
 		<NotBuyable>1</NotBuyable>
 		<BR_ROF>800</BR_ROF>
-		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1011</DefaultAttachment>
@@ -76681,6 +76645,8 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>2</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
@@ -80490,6 +80456,39 @@
 			<PercentHandling>3</PercentHandling>
 			<PercentMaxCounterForce>5</PercentMaxCounterForce>
 			<PercentCounterForceAccuracy>3</PercentCounterForceAccuracy>
+		</STAND_MODIFIERS>
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2659</uiIndex>
+		<szItemName>Glock +Floorplate</szItemName>
+		<szLongItemName>Glock +Floorplate</szLongItemName>
+		<szItemDesc>This "+Floorplate" can be attached to 9mm glock to allow for the use of the HI-MAGs.</szItemDesc>
+		<szBRName>Glock +Floorplate</szBRName>
+		<szBRDesc>This "+Floorplate" can be attached to 9mm glock to allow for the use of the HI-MAGs.</szBRDesc>
+		<usItemClass>268435456</usItemClass>
+		<nasAttachmentClass>64</nasAttachmentClass>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>781</ubGraphicNum>
+		<ubPerPocket>8</ubPerPocket>
+		<ItemSize>12</ItemSize>
+		<usPrice>1500</usPrice>
+		<ubCoolness>5</ubCoolness>
+		<bReliability>1</bReliability>
+		<bRepairEase>-1</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<Attachment>1</Attachment>
+		<BigGunList>1</BigGunList>
+		<BR_NewInventory>2</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<MagSizeBonus>14</MagSizeBonus>
+		<PercentReloadTimeAPReduction>-30</PercentReloadTimeAPReduction>
+		<STAND_MODIFIERS>
+			<PercentHandling>10</PercentHandling>
 		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
