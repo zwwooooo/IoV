@@ -1,11 +1,7 @@
 IoV 921的修改项目和建议项
 
 1）白天和夜晚的视距比例为3/1，而原版为2/1
-另外我推荐对Ja2_Options.INI作出如下修改：
-打开Ja2_Options.INI
-搜索到“BASE_SIGHT_RANGE = 13”
-把“13”改为“15”
-但如果不喜欢白天远距离射击，而喜欢夜晚摸到敌人背后爆菊的话，不作此修改会有更大的成功率。
+视距默认是15，修改地方在 Data-IoV 目录下的 IoV_Settings.ini
 
 
 2）射程加成的算法由实数改为比例。比如原版射程加成为70，表示加7格。而新版的20表示为加20%，如果原来打20格，加成4格；原来打35格，加成7格。
@@ -18,3 +14,15 @@ IoV 921的修改项目和建议项
 ★PS：另外也建议对CTHConstants.INI作出以下修改
 搜索到“SCOPE_RANGE_MULTIPLIER = 0.7”
 把“0.7”改为“0.8”
+
+
+
+附：
+
+狙击镜近距减成距离应该是这样的
+
+[NORMAL_SHOOTING_DISTANCE]*[瞄镜倍率]*[SCOPE_RANGE_MULTIPLIER]
+
+比如默认设定下，10x镜的最近距离为 70*10*0.7=490m，或者49格
+
+http://tbsgame.net/bbs/index.php?showtopic=64480&view=findpost&p=890974

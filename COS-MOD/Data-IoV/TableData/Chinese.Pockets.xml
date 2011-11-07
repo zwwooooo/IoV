@@ -134,7 +134,7 @@
 	</POCKET>
 	<POCKET>
 		<pIndex>33</pIndex>
-		<pName>单联M14弹匣包</pName>
+		<pName>通用SR弹匣包</pName>
 	</POCKET>
 	<POCKET>
 		<pIndex>34</pIndex>
@@ -142,7 +142,7 @@
 	</POCKET>
 	<POCKET>
 		<pIndex>35</pIndex>
-		<pName>通用弹匣包</pName>
+		<pName>通用AR弹匣包</pName>
 	</POCKET>
 	<POCKET>
 		<pIndex>36</pIndex>
@@ -254,10 +254,14 @@
 	</POCKET>
 	<POCKET>
 		<pIndex>63</pIndex>
-		<pName>窄ALICE扣</pName>
+		<pName>长刀鞘</pName>
 	</POCKET>
 	<POCKET>
 		<pIndex>64</pIndex>
-		<pName>宽ALICE扣</pName>
+		<pName>手榴弹绑扣</pName>
+	</POCKET>
+	<POCKET>
+		<pIndex>64</pIndex>
+		<pName>发光棒绑带</pName>
 	</POCKET>
 </POCKETLIST>

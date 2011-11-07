@@ -152,7 +152,7 @@
 	</INVENTORY>
 	<INVENTORY>
 		<uiIndex>30</uiIndex>
-		<sItemIndex>1233</sItemIndex>
+		<sItemIndex>1352</sItemIndex>
 		<ubOptimalNumber>1</ubOptimalNumber>
 	</INVENTORY>
 	<INVENTORY>
@@ -343,11 +343,6 @@
 	<INVENTORY>
 		<uiIndex>68</uiIndex>
 		<sItemIndex>1622</sItemIndex>
-		<ubOptimalNumber>1</ubOptimalNumber>
-	</INVENTORY>
-	<INVENTORY>
-		<uiIndex>69</uiIndex>
-		<sItemIndex>2281</sItemIndex>
 		<ubOptimalNumber>1</ubOptimalNumber>
 	</INVENTORY>
 	<INVENTORY>
