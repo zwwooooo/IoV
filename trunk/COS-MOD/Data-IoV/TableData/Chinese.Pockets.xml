@@ -261,7 +261,11 @@
 		<pName>手榴弹绑扣</pName>
 	</POCKET>
 	<POCKET>
-		<pIndex>64</pIndex>
+		<pIndex>65</pIndex>
 		<pName>发光棒绑带</pName>
+	</POCKET>
+	<POCKET>
+		<pIndex>66</pIndex>
+		<pName>SureFIrex弹匣袋</pName>
 	</POCKET>
 </POCKETLIST>

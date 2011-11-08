@@ -468,7 +468,7 @@
 		<bRecoilY>9</bRecoilY>
 		<ubAimLevels>4</ubAimLevels>
 		<Handling>10</Handling>
-		<MalfunctionRate>105</MalfunctionRate>
+		<MalfunctionRate>135</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>13</uiIndex>
@@ -498,7 +498,7 @@
 		<SilencedSound>156</SilencedSound>
 		<bBurstAP>9</bBurstAP>
 		<bAutofireShotsPerFiveAP>7</bAutofireShotsPerFiveAP>
-		<APsToReload>31</APsToReload>
+		<APsToReload>30</APsToReload>
 		<SwapClips>1</SwapClips>
 		<MaxDistForMessyDeath>17</MaxDistForMessyDeath>
 		<AutoPenalty>11</AutoPenalty>
@@ -794,7 +794,7 @@
 		<SilencedSound>156</SilencedSound>
 		<bBurstAP>8</bBurstAP>
 		<bAutofireShotsPerFiveAP>10</bAutofireShotsPerFiveAP>
-		<APsToReload>31</APsToReload>
+		<APsToReload>29</APsToReload>
 		<SwapClips>1</SwapClips>
 		<MaxDistForMessyDeath>27</MaxDistForMessyDeath>
 		<AutoPenalty>9</AutoPenalty>
@@ -879,7 +879,7 @@
 		<bRecoilY>6</bRecoilY>
 		<ubAimLevels>5</ubAimLevels>
 		<Handling>13</Handling>
-		<MalfunctionRate>120</MalfunctionRate>
+		<MalfunctionRate>140</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>24</uiIndex>
@@ -1036,7 +1036,7 @@
 		<bRecoilY>15</bRecoilY>
 		<ubAimLevels>6</ubAimLevels>
 		<Handling>17</Handling>
-		<MalfunctionRate>180</MalfunctionRate>
+		<MalfunctionRate>195</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>28</uiIndex>
@@ -1104,7 +1104,7 @@
 		<SilencedSound>156</SilencedSound>
 		<bBurstAP>12</bBurstAP>
 		<bAutofireShotsPerFiveAP>5</bAutofireShotsPerFiveAP>
-		<APsToReload>31</APsToReload>
+		<APsToReload>30</APsToReload>
 		<SwapClips>1</SwapClips>
 		<MaxDistForMessyDeath>41</MaxDistForMessyDeath>
 		<AutoPenalty>34</AutoPenalty>
@@ -2395,7 +2395,7 @@
 		<sLocknLoadSound>108</sLocknLoadSound>
 		<SilencedSound>503</SilencedSound>
 		<bBurstAP>20</bBurstAP>
-		<APsToReload>31</APsToReload>
+		<APsToReload>30</APsToReload>
 		<SwapClips>1</SwapClips>
 		<MaxDistForMessyDeath>55</MaxDistForMessyDeath>
 		<ManualReloadSound>476</ManualReloadSound>
@@ -3813,7 +3813,7 @@
 		<bRecoilY>16</bRecoilY>
 		<ubAimLevels>5</ubAimLevels>
 		<Handling>16</Handling>
-		<MalfunctionRate>180</MalfunctionRate>
+		<MalfunctionRate>195</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>620</uiIndex>
@@ -4168,7 +4168,7 @@
 		<SilencedSound>157</SilencedSound>
 		<bBurstAP>12</bBurstAP>
 		<bAutofireShotsPerFiveAP>5</bAutofireShotsPerFiveAP>
-		<APsToReload>31</APsToReload>
+		<APsToReload>30</APsToReload>
 		<SwapClips>1</SwapClips>
 		<MaxDistForMessyDeath>41</MaxDistForMessyDeath>
 		<AutoPenalty>33</AutoPenalty>
@@ -4283,7 +4283,7 @@
 		<bRecoilY>6</bRecoilY>
 		<ubAimLevels>5</ubAimLevels>
 		<Handling>15</Handling>
-		<MalfunctionRate>105</MalfunctionRate>
+		<MalfunctionRate>135</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>633</uiIndex>
@@ -4321,7 +4321,7 @@
 		<bRecoilY>8</bRecoilY>
 		<ubAimLevels>4</ubAimLevels>
 		<Handling>12</Handling>
-		<MalfunctionRate>105</MalfunctionRate>
+		<MalfunctionRate>135</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>634</uiIndex>
@@ -5576,7 +5576,7 @@
 		<SilencedSound>156</SilencedSound>
 		<bBurstAP>12</bBurstAP>
 		<bAutofireShotsPerFiveAP>5</bAutofireShotsPerFiveAP>
-		<APsToReload>31</APsToReload>
+		<APsToReload>30</APsToReload>
 		<SwapClips>1</SwapClips>
 		<MaxDistForMessyDeath>39</MaxDistForMessyDeath>
 		<AutoPenalty>35</AutoPenalty>
@@ -5842,7 +5842,7 @@
 		<sLocknLoadSound>108</sLocknLoadSound>
 		<SilencedSound>503</SilencedSound>
 		<bBurstAP>20</bBurstAP>
-		<APsToReload>31</APsToReload>
+		<APsToReload>30</APsToReload>
 		<SwapClips>1</SwapClips>
 		<MaxDistForMessyDeath>52</MaxDistForMessyDeath>
 		<ManualReloadSound>476</ManualReloadSound>
@@ -8984,7 +8984,7 @@
 		<bRecoilY>13</bRecoilY>
 		<ubAimLevels>5</ubAimLevels>
 		<Handling>13</Handling>
-		<MalfunctionRate>110</MalfunctionRate>
+		<MalfunctionRate>130</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>761</uiIndex>
@@ -9060,7 +9060,7 @@
 		<bRecoilY>6</bRecoilY>
 		<ubAimLevels>5</ubAimLevels>
 		<Handling>13</Handling>
-		<MalfunctionRate>105</MalfunctionRate>
+		<MalfunctionRate>120</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>763</uiIndex>
@@ -9099,7 +9099,7 @@
 		<bRecoilY>9</bRecoilY>
 		<ubAimLevels>3</ubAimLevels>
 		<Handling>9</Handling>
-		<MalfunctionRate>105</MalfunctionRate>
+		<MalfunctionRate>120</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>764</uiIndex>
@@ -9136,7 +9136,7 @@
 		<bRecoilY>13</bRecoilY>
 		<ubAimLevels>3</ubAimLevels>
 		<Handling>6</Handling>
-		<MalfunctionRate>105</MalfunctionRate>
+		<MalfunctionRate>135</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>765</uiIndex>
@@ -9172,7 +9172,7 @@
 		<bRecoilY>12</bRecoilY>
 		<ubAimLevels>3</ubAimLevels>
 		<Handling>5</Handling>
-		<MalfunctionRate>175</MalfunctionRate>
+		<MalfunctionRate>135</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>766</uiIndex>
@@ -9301,7 +9301,7 @@
 		<bRecoilY>6</bRecoilY>
 		<ubAimLevels>6</ubAimLevels>
 		<Handling>16</Handling>
-		<MalfunctionRate>120</MalfunctionRate>
+		<MalfunctionRate>130</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>770</uiIndex>
@@ -9757,7 +9757,7 @@
 		<bRecoilY>9</bRecoilY>
 		<ubAimLevels>4</ubAimLevels>
 		<Handling>13</Handling>
-		<MalfunctionRate>105</MalfunctionRate>
+		<MalfunctionRate>110</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>783</uiIndex>
@@ -10083,7 +10083,7 @@
 		<bRecoilY>8</bRecoilY>
 		<ubAimLevels>4</ubAimLevels>
 		<Handling>11</Handling>
-		<MalfunctionRate>120</MalfunctionRate>
+		<MalfunctionRate>140</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>792</uiIndex>
@@ -10303,7 +10303,7 @@
 		<bRecoilY>16</bRecoilY>
 		<ubAimLevels>6</ubAimLevels>
 		<Handling>16</Handling>
-		<MalfunctionRate>180</MalfunctionRate>
+		<MalfunctionRate>195</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>798</uiIndex>
@@ -14122,7 +14122,7 @@
 		<bRecoilY>6</bRecoilY>
 		<ubAimLevels>5</ubAimLevels>
 		<Handling>14</Handling>
-		<MalfunctionRate>215</MalfunctionRate>
+		<MalfunctionRate>225</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1133</uiIndex>
@@ -14196,7 +14196,7 @@
 		<bRecoilY>9</bRecoilY>
 		<ubAimLevels>3</ubAimLevels>
 		<Handling>9</Handling>
-		<MalfunctionRate>110</MalfunctionRate>
+		<MalfunctionRate>140</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1135</uiIndex>
@@ -14234,7 +14234,7 @@
 		<bRecoilY>7</bRecoilY>
 		<ubAimLevels>4</ubAimLevels>
 		<Handling>13</Handling>
-		<MalfunctionRate>110</MalfunctionRate>
+		<MalfunctionRate>140</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1136</uiIndex>
@@ -14271,7 +14271,7 @@
 		<bRecoilY>6</bRecoilY>
 		<ubAimLevels>5</ubAimLevels>
 		<Handling>15</Handling>
-		<MalfunctionRate>105</MalfunctionRate>
+		<MalfunctionRate>135</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1137</uiIndex>
@@ -14309,7 +14309,7 @@
 		<bRecoilY>6</bRecoilY>
 		<ubAimLevels>6</ubAimLevels>
 		<Handling>16</Handling>
-		<MalfunctionRate>105</MalfunctionRate>
+		<MalfunctionRate>135</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1138</uiIndex>
@@ -14425,7 +14425,7 @@
 		<bRecoilY>7</bRecoilY>
 		<ubAimLevels>6</ubAimLevels>
 		<Handling>15</Handling>
-		<MalfunctionRate>110</MalfunctionRate>
+		<MalfunctionRate>140</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1141</uiIndex>
@@ -14463,7 +14463,7 @@
 		<bRecoilY>6</bRecoilY>
 		<ubAimLevels>5</ubAimLevels>
 		<Handling>14</Handling>
-		<MalfunctionRate>105</MalfunctionRate>
+		<MalfunctionRate>125</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1142</uiIndex>
@@ -14502,7 +14502,7 @@
 		<bRecoilY>7</bRecoilY>
 		<ubAimLevels>5</ubAimLevels>
 		<Handling>13</Handling>
-		<MalfunctionRate>110</MalfunctionRate>
+		<MalfunctionRate>140</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1143</uiIndex>
@@ -14538,7 +14538,7 @@
 		<bRecoilY>7</bRecoilY>
 		<ubAimLevels>4</ubAimLevels>
 		<Handling>13</Handling>
-		<MalfunctionRate>105</MalfunctionRate>
+		<MalfunctionRate>135</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1144</uiIndex>
@@ -14576,7 +14576,7 @@
 		<bRecoilY>6</bRecoilY>
 		<ubAimLevels>4</ubAimLevels>
 		<Handling>13</Handling>
-		<MalfunctionRate>120</MalfunctionRate>
+		<MalfunctionRate>140</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1145</uiIndex>
@@ -14613,7 +14613,7 @@
 		<bRecoilY>7</bRecoilY>
 		<ubAimLevels>6</ubAimLevels>
 		<Handling>15</Handling>
-		<MalfunctionRate>120</MalfunctionRate>
+		<MalfunctionRate>140</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1146</uiIndex>
@@ -14725,7 +14725,7 @@
 		<bRecoilY>12</bRecoilY>
 		<ubAimLevels>6</ubAimLevels>
 		<Handling>15</Handling>
-		<MalfunctionRate>100</MalfunctionRate>
+		<MalfunctionRate>110</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1149</uiIndex>
@@ -14762,7 +14762,7 @@
 		<bRecoilY>15</bRecoilY>
 		<ubAimLevels>5</ubAimLevels>
 		<Handling>14</Handling>
-		<MalfunctionRate>105</MalfunctionRate>
+		<MalfunctionRate>135</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1150</uiIndex>
@@ -14796,7 +14796,7 @@
 		<nAccuracy>85</nAccuracy>
 		<ubAimLevels>7</ubAimLevels>
 		<Handling>17</Handling>
-		<MalfunctionRate>105</MalfunctionRate>
+		<MalfunctionRate>130</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1151</uiIndex>
@@ -14832,7 +14832,7 @@
 		<bRecoilY>8</bRecoilY>
 		<ubAimLevels>5</ubAimLevels>
 		<Handling>13</Handling>
-		<MalfunctionRate>105</MalfunctionRate>
+		<MalfunctionRate>125</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1152</uiIndex>
@@ -14866,7 +14866,7 @@
 		<nAccuracy>86</nAccuracy>
 		<ubAimLevels>7</ubAimLevels>
 		<Handling>18</Handling>
-		<MalfunctionRate>110</MalfunctionRate>
+		<MalfunctionRate>140</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1153</uiIndex>
@@ -14903,7 +14903,7 @@
 		<bRecoilY>9</bRecoilY>
 		<ubAimLevels>3</ubAimLevels>
 		<Handling>11</Handling>
-		<MalfunctionRate>110</MalfunctionRate>
+		<MalfunctionRate>140</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1154</uiIndex>
@@ -14942,7 +14942,7 @@
 		<bRecoilY>14</bRecoilY>
 		<ubAimLevels>4</ubAimLevels>
 		<Handling>13</Handling>
-		<MalfunctionRate>110</MalfunctionRate>
+		<MalfunctionRate>140</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1155</uiIndex>
@@ -14981,7 +14981,7 @@
 		<bRecoilY>14</bRecoilY>
 		<ubAimLevels>6</ubAimLevels>
 		<Handling>18</Handling>
-		<MalfunctionRate>180</MalfunctionRate>
+		<MalfunctionRate>195</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1156</uiIndex>
@@ -15019,7 +15019,7 @@
 		<bRecoilY>16</bRecoilY>
 		<ubAimLevels>6</ubAimLevels>
 		<Handling>15</Handling>
-		<MalfunctionRate>180</MalfunctionRate>
+		<MalfunctionRate>195</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1157</uiIndex>
@@ -15053,7 +15053,7 @@
 		<nAccuracy>82</nAccuracy>
 		<ubAimLevels>6</ubAimLevels>
 		<Handling>19</Handling>
-		<MalfunctionRate>180</MalfunctionRate>
+		<MalfunctionRate>195</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1158</uiIndex>
@@ -15092,7 +15092,7 @@
 		<bRecoilY>15</bRecoilY>
 		<ubAimLevels>6</ubAimLevels>
 		<Handling>17</Handling>
-		<MalfunctionRate>180</MalfunctionRate>
+		<MalfunctionRate>195</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1159</uiIndex>
@@ -15131,7 +15131,7 @@
 		<bRecoilY>7</bRecoilY>
 		<ubAimLevels>5</ubAimLevels>
 		<Handling>13</Handling>
-		<MalfunctionRate>180</MalfunctionRate>
+		<MalfunctionRate>210</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1160</uiIndex>
@@ -15170,7 +15170,7 @@
 		<bRecoilY>16</bRecoilY>
 		<ubAimLevels>5</ubAimLevels>
 		<Handling>16</Handling>
-		<MalfunctionRate>180</MalfunctionRate>
+		<MalfunctionRate>195</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1161</uiIndex>
@@ -16781,7 +16781,7 @@
 		<bRecoilY>8</bRecoilY>
 		<ubAimLevels>4</ubAimLevels>
 		<Handling>11</Handling>
-		<MalfunctionRate>105</MalfunctionRate>
+		<MalfunctionRate>135</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1205</uiIndex>
@@ -17032,7 +17032,7 @@
 		<SilencedSound>156</SilencedSound>
 		<bBurstAP>11</bBurstAP>
 		<bAutofireShotsPerFiveAP>5</bAutofireShotsPerFiveAP>
-		<APsToReload>31</APsToReload>
+		<APsToReload>30</APsToReload>
 		<SwapClips>1</SwapClips>
 		<MaxDistForMessyDeath>39</MaxDistForMessyDeath>
 		<AutoPenalty>37</AutoPenalty>
@@ -17072,7 +17072,7 @@
 		<SilencedSound>156</SilencedSound>
 		<bBurstAP>11</bBurstAP>
 		<bAutofireShotsPerFiveAP>6</bAutofireShotsPerFiveAP>
-		<APsToReload>31</APsToReload>
+		<APsToReload>30</APsToReload>
 		<SwapClips>1</SwapClips>
 		<MaxDistForMessyDeath>19</MaxDistForMessyDeath>
 		<AutoPenalty>40</AutoPenalty>
@@ -17112,7 +17112,7 @@
 		<SilencedSound>156</SilencedSound>
 		<bBurstAP>8</bBurstAP>
 		<bAutofireShotsPerFiveAP>6</bAutofireShotsPerFiveAP>
-		<APsToReload>30</APsToReload>
+		<APsToReload>29</APsToReload>
 		<SwapClips>1</SwapClips>
 		<MaxDistForMessyDeath>27</MaxDistForMessyDeath>
 		<AutoPenalty>9</AutoPenalty>
@@ -17151,7 +17151,7 @@
 		<SilencedSound>156</SilencedSound>
 		<bBurstAP>12</bBurstAP>
 		<bAutofireShotsPerFiveAP>5</bAutofireShotsPerFiveAP>
-		<APsToReload>31</APsToReload>
+		<APsToReload>30</APsToReload>
 		<SwapClips>1</SwapClips>
 		<MaxDistForMessyDeath>41</MaxDistForMessyDeath>
 		<AutoPenalty>34</AutoPenalty>
@@ -20854,7 +20854,7 @@
 		<bRecoilY>8</bRecoilY>
 		<ubAimLevels>4</ubAimLevels>
 		<Handling>14</Handling>
-		<MalfunctionRate>105</MalfunctionRate>
+		<MalfunctionRate>135</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1313</uiIndex>
@@ -21004,7 +21004,7 @@
 		<bRecoilY>8</bRecoilY>
 		<ubAimLevels>3</ubAimLevels>
 		<Handling>10</Handling>
-		<MalfunctionRate>105</MalfunctionRate>
+		<MalfunctionRate>125</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1317</uiIndex>
@@ -21041,7 +21041,7 @@
 		<bRecoilY>6</bRecoilY>
 		<ubAimLevels>5</ubAimLevels>
 		<Handling>14</Handling>
-		<MalfunctionRate>105</MalfunctionRate>
+		<MalfunctionRate>135</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1318</uiIndex>
@@ -21079,7 +21079,7 @@
 		<bRecoilY>6</bRecoilY>
 		<ubAimLevels>4</ubAimLevels>
 		<Handling>13</Handling>
-		<MalfunctionRate>120</MalfunctionRate>
+		<MalfunctionRate>140</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1319</uiIndex>
@@ -21150,7 +21150,7 @@
 		<nAccuracy>75</nAccuracy>
 		<ubAimLevels>5</ubAimLevels>
 		<Handling>14</Handling>
-		<MalfunctionRate>110</MalfunctionRate>
+		<MalfunctionRate>130</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1321</uiIndex>
@@ -21183,7 +21183,7 @@
 		<nAccuracy>82</nAccuracy>
 		<ubAimLevels>7</ubAimLevels>
 		<Handling>17</Handling>
-		<MalfunctionRate>110</MalfunctionRate>
+		<MalfunctionRate>130</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1322</uiIndex>
@@ -21222,7 +21222,7 @@
 		<bRecoilY>5</bRecoilY>
 		<ubAimLevels>6</ubAimLevels>
 		<Handling>18</Handling>
-		<MalfunctionRate>120</MalfunctionRate>
+		<MalfunctionRate>140</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1323</uiIndex>
@@ -22256,7 +22256,7 @@
 		<bRecoilY>6</bRecoilY>
 		<ubAimLevels>5</ubAimLevels>
 		<Handling>15</Handling>
-		<MalfunctionRate>105</MalfunctionRate>
+		<MalfunctionRate>135</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1351</uiIndex>
@@ -22293,7 +22293,7 @@
 		<bRecoilY>6</bRecoilY>
 		<ubAimLevels>5</ubAimLevels>
 		<Handling>14</Handling>
-		<MalfunctionRate>105</MalfunctionRate>
+		<MalfunctionRate>135</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1352</uiIndex>
@@ -22330,7 +22330,7 @@
 		<bRecoilY>6</bRecoilY>
 		<ubAimLevels>5</ubAimLevels>
 		<Handling>13</Handling>
-		<MalfunctionRate>105</MalfunctionRate>
+		<MalfunctionRate>125</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1353</uiIndex>
@@ -23701,7 +23701,7 @@
 		<bRecoilY>8</bRecoilY>
 		<ubAimLevels>4</ubAimLevels>
 		<Handling>12</Handling>
-		<MalfunctionRate>110</MalfunctionRate>
+		<MalfunctionRate>130</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1390</uiIndex>
@@ -23735,7 +23735,7 @@
 		<nAccuracy>84</nAccuracy>
 		<ubAimLevels>7</ubAimLevels>
 		<Handling>18</Handling>
-		<MalfunctionRate>180</MalfunctionRate>
+		<MalfunctionRate>195</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1391</uiIndex>
@@ -23774,7 +23774,7 @@
 		<bRecoilY>14</bRecoilY>
 		<ubAimLevels>6</ubAimLevels>
 		<Handling>18</Handling>
-		<MalfunctionRate>180</MalfunctionRate>
+		<MalfunctionRate>195</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1392</uiIndex>
@@ -23810,7 +23810,7 @@
 		<nAccuracy>70</nAccuracy>
 		<ubAimLevels>6</ubAimLevels>
 		<Handling>16</Handling>
-		<MalfunctionRate>180</MalfunctionRate>
+		<MalfunctionRate>195</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1393</uiIndex>
@@ -23920,7 +23920,7 @@
 		<bRecoilY>8</bRecoilY>
 		<ubAimLevels>3</ubAimLevels>
 		<Handling>10</Handling>
-		<MalfunctionRate>115</MalfunctionRate>
+		<MalfunctionRate>140</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1396</uiIndex>
@@ -23958,7 +23958,7 @@
 		<bRecoilY>9</bRecoilY>
 		<ubAimLevels>3</ubAimLevels>
 		<Handling>7</Handling>
-		<MalfunctionRate>115</MalfunctionRate>
+		<MalfunctionRate>135</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1397</uiIndex>
@@ -23996,7 +23996,7 @@
 		<bRecoilY>8</bRecoilY>
 		<ubAimLevels>4</ubAimLevels>
 		<Handling>9</Handling>
-		<MalfunctionRate>115</MalfunctionRate>
+		<MalfunctionRate>135</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1398</uiIndex>
@@ -25532,7 +25532,7 @@
 		<bRecoilY>11</bRecoilY>
 		<ubAimLevels>4</ubAimLevels>
 		<Handling>13</Handling>
-		<MalfunctionRate>110</MalfunctionRate>
+		<MalfunctionRate>120</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1966</uiIndex>
@@ -25686,7 +25686,7 @@
 		<bRecoilY>9</bRecoilY>
 		<ubAimLevels>3</ubAimLevels>
 		<Handling>9</Handling>
-		<MalfunctionRate>110</MalfunctionRate>
+		<MalfunctionRate>130</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1970</uiIndex>
@@ -25724,7 +25724,7 @@
 		<bRecoilY>8</bRecoilY>
 		<ubAimLevels>4</ubAimLevels>
 		<Handling>10</Handling>
-		<MalfunctionRate>110</MalfunctionRate>
+		<MalfunctionRate>130</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1971</uiIndex>
@@ -25762,7 +25762,7 @@
 		<bRecoilY>14</bRecoilY>
 		<ubAimLevels>5</ubAimLevels>
 		<Handling>13</Handling>
-		<MalfunctionRate>110</MalfunctionRate>
+		<MalfunctionRate>130</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1972</uiIndex>
@@ -25797,7 +25797,7 @@
 		<bRecoilY>7</bRecoilY>
 		<ubAimLevels>7</ubAimLevels>
 		<Handling>16</Handling>
-		<MalfunctionRate>110</MalfunctionRate>
+		<MalfunctionRate>130</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1973</uiIndex>
@@ -26026,7 +26026,7 @@
 		<bRecoilY>14</bRecoilY>
 		<ubAimLevels>6</ubAimLevels>
 		<Handling>15</Handling>
-		<MalfunctionRate>105</MalfunctionRate>
+		<MalfunctionRate>135</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1979</uiIndex>
@@ -26340,7 +26340,7 @@
 		<bRecoilY>7</bRecoilY>
 		<ubAimLevels>6</ubAimLevels>
 		<Handling>15</Handling>
-		<MalfunctionRate>110</MalfunctionRate>
+		<MalfunctionRate>140</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1987</uiIndex>
@@ -26377,7 +26377,7 @@
 		<bRecoilY>8</bRecoilY>
 		<ubAimLevels>6</ubAimLevels>
 		<Handling>15</Handling>
-		<MalfunctionRate>110</MalfunctionRate>
+		<MalfunctionRate>130</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1988</uiIndex>
@@ -26482,7 +26482,7 @@
 		<nAccuracy>85</nAccuracy>
 		<ubAimLevels>7</ubAimLevels>
 		<Handling>18</Handling>
-		<MalfunctionRate>110</MalfunctionRate>
+		<MalfunctionRate>140</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1991</uiIndex>
@@ -26549,7 +26549,7 @@
 		<SilencedSound>156</SilencedSound>
 		<bBurstAP>12</bBurstAP>
 		<bAutofireShotsPerFiveAP>5</bAutofireShotsPerFiveAP>
-		<APsToReload>31</APsToReload>
+		<APsToReload>30</APsToReload>
 		<SwapClips>1</SwapClips>
 		<MaxDistForMessyDeath>41</MaxDistForMessyDeath>
 		<AutoPenalty>33</AutoPenalty>
@@ -26589,7 +26589,7 @@
 		<SilencedSound>156</SilencedSound>
 		<bBurstAP>8</bBurstAP>
 		<bAutofireShotsPerFiveAP>8</bAutofireShotsPerFiveAP>
-		<APsToReload>31</APsToReload>
+		<APsToReload>30</APsToReload>
 		<SwapClips>1</SwapClips>
 		<MaxDistForMessyDeath>27</MaxDistForMessyDeath>
 		<AutoPenalty>9</AutoPenalty>
@@ -26629,7 +26629,7 @@
 		<SilencedSound>156</SilencedSound>
 		<bBurstAP>8</bBurstAP>
 		<bAutofireShotsPerFiveAP>8</bAutofireShotsPerFiveAP>
-		<APsToReload>31</APsToReload>
+		<APsToReload>30</APsToReload>
 		<SwapClips>1</SwapClips>
 		<MaxDistForMessyDeath>27</MaxDistForMessyDeath>
 		<AutoPenalty>9</AutoPenalty>
@@ -27314,7 +27314,7 @@
 		<bRecoilY>6</bRecoilY>
 		<ubAimLevels>4</ubAimLevels>
 		<Handling>11</Handling>
-		<MalfunctionRate>120</MalfunctionRate>
+		<MalfunctionRate>140</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2013</uiIndex>
@@ -27499,7 +27499,7 @@
 		<bRecoilY>9</bRecoilY>
 		<ubAimLevels>3</ubAimLevels>
 		<Handling>8</Handling>
-		<MalfunctionRate>120</MalfunctionRate>
+		<MalfunctionRate>140</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2018</uiIndex>
@@ -28139,7 +28139,7 @@
 		<bRecoilY>8</bRecoilY>
 		<ubAimLevels>4</ubAimLevels>
 		<Handling>11</Handling>
-		<MalfunctionRate>110</MalfunctionRate>
+		<MalfunctionRate>130</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2146</uiIndex>
@@ -28178,7 +28178,7 @@
 		<bRecoilY>10</bRecoilY>
 		<ubAimLevels>3</ubAimLevels>
 		<Handling>7</Handling>
-		<MalfunctionRate>115</MalfunctionRate>
+		<MalfunctionRate>135</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2147</uiIndex>
@@ -28215,7 +28215,7 @@
 		<bRecoilY>6</bRecoilY>
 		<ubAimLevels>6</ubAimLevels>
 		<Handling>15</Handling>
-		<MalfunctionRate>115</MalfunctionRate>
+		<MalfunctionRate>135</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2148</uiIndex>
@@ -28253,7 +28253,7 @@
 		<bRecoilY>16</bRecoilY>
 		<ubAimLevels>6</ubAimLevels>
 		<Handling>16</Handling>
-		<MalfunctionRate>180</MalfunctionRate>
+		<MalfunctionRate>195</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2149</uiIndex>
@@ -28285,7 +28285,7 @@
 		<nAccuracy>81</nAccuracy>
 		<ubAimLevels>7</ubAimLevels>
 		<Handling>15</Handling>
-		<MalfunctionRate>180</MalfunctionRate>
+		<MalfunctionRate>195</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2150</uiIndex>
@@ -29967,7 +29967,7 @@
 		<bRecoilY>12</bRecoilY>
 		<ubAimLevels>4</ubAimLevels>
 		<Handling>8</Handling>
-		<MalfunctionRate>120</MalfunctionRate>
+		<MalfunctionRate>140</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2292</uiIndex>
@@ -30005,7 +30005,7 @@
 		<bRecoilY>7</bRecoilY>
 		<ubAimLevels>5</ubAimLevels>
 		<Handling>13</Handling>
-		<MalfunctionRate>110</MalfunctionRate>
+		<MalfunctionRate>120</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2293</uiIndex>
@@ -30043,7 +30043,7 @@
 		<bRecoilY>9</bRecoilY>
 		<ubAimLevels>3</ubAimLevels>
 		<Handling>8</Handling>
-		<MalfunctionRate>105</MalfunctionRate>
+		<MalfunctionRate>125</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2294</uiIndex>
@@ -30081,7 +30081,7 @@
 		<bRecoilY>7</bRecoilY>
 		<ubAimLevels>4</ubAimLevels>
 		<Handling>11</Handling>
-		<MalfunctionRate>105</MalfunctionRate>
+		<MalfunctionRate>125</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2295</uiIndex>
@@ -30234,7 +30234,7 @@
 		<bRecoilY>9</bRecoilY>
 		<ubAimLevels>3</ubAimLevels>
 		<Handling>10</Handling>
-		<MalfunctionRate>110</MalfunctionRate>
+		<MalfunctionRate>140</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2299</uiIndex>
@@ -30272,7 +30272,7 @@
 		<bRecoilY>6</bRecoilY>
 		<ubAimLevels>5</ubAimLevels>
 		<Handling>14</Handling>
-		<MalfunctionRate>105</MalfunctionRate>
+		<MalfunctionRate>135</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2300</uiIndex>
@@ -30310,7 +30310,7 @@
 		<bRecoilY>6</bRecoilY>
 		<ubAimLevels>5</ubAimLevels>
 		<Handling>17</Handling>
-		<MalfunctionRate>120</MalfunctionRate>
+		<MalfunctionRate>140</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2440</uiIndex>
@@ -31121,7 +31121,7 @@
 		<nAccuracy>84</nAccuracy>
 		<ubAimLevels>6</ubAimLevels>
 		<Handling>17</Handling>
-		<MalfunctionRate>110</MalfunctionRate>
+		<MalfunctionRate>130</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2475</uiIndex>
@@ -31909,7 +31909,7 @@
 		<bRecoilY>8</bRecoilY>
 		<ubAimLevels>3</ubAimLevels>
 		<Handling>9</Handling>
-		<MalfunctionRate>120</MalfunctionRate>
+		<MalfunctionRate>130</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2515</uiIndex>
@@ -32175,7 +32175,7 @@
 		<bRecoilY>13</bRecoilY>
 		<ubAimLevels>6</ubAimLevels>
 		<Handling>17</Handling>
-		<MalfunctionRate>180</MalfunctionRate>
+		<MalfunctionRate>195</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2638</uiIndex>
@@ -32213,7 +32213,7 @@
 		<bRecoilY>16</bRecoilY>
 		<ubAimLevels>6</ubAimLevels>
 		<Handling>15</Handling>
-		<MalfunctionRate>180</MalfunctionRate>
+		<MalfunctionRate>195</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2649</uiIndex>

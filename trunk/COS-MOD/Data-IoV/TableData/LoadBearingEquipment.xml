@@ -703,14 +703,14 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>39</lbeIndex> <!-- 40mm Grenade Panel -->
+		<lbeIndex>39</lbeIndex> <!-- Grenade Panel -->
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>31</lbeFilledSize>
-		<lbePocketIndex1>13</lbePocketIndex1>
-		<lbePocketIndex2>13</lbePocketIndex2>
-		<lbePocketIndex3>13</lbePocketIndex3>
-		<lbePocketIndex4>13</lbePocketIndex4>
+		<lbePocketIndex1>14</lbePocketIndex1>
+		<lbePocketIndex2>14</lbePocketIndex2>
+		<lbePocketIndex3>14</lbePocketIndex3>
+		<lbePocketIndex4>14</lbePocketIndex4>
 		<lbePocketIndex5>0</lbePocketIndex5>
 		<lbePocketIndex6>0</lbePocketIndex6>
 		<lbePocketIndex7>0</lbePocketIndex7>
@@ -1628,12 +1628,12 @@
 		<lbePocketIndex1>35</lbePocketIndex1>
 		<lbePocketIndex2>35</lbePocketIndex2>
 		<lbePocketIndex3>35</lbePocketIndex3>
-		<lbePocketIndex4>35</lbePocketIndex4>
+		<lbePocketIndex4>41</lbePocketIndex4>
 		<lbePocketIndex5>51</lbePocketIndex5>
 		<lbePocketIndex6>35</lbePocketIndex6>
 		<lbePocketIndex7>35</lbePocketIndex7>
 		<lbePocketIndex8>35</lbePocketIndex8>
-		<lbePocketIndex9>35</lbePocketIndex9>
+		<lbePocketIndex9>41</lbePocketIndex9>
 		<lbePocketIndex10>51</lbePocketIndex10>
 		<lbePocketIndex11>52</lbePocketIndex11>
 		<lbePocketIndex12>52</lbePocketIndex12>
@@ -1645,13 +1645,13 @@
 		<lbeFilledSize>46</lbeFilledSize>
 		<lbePocketIndex1>35</lbePocketIndex1>
 		<lbePocketIndex2>35</lbePocketIndex2>
-		<lbePocketIndex3>35</lbePocketIndex3>
-		<lbePocketIndex4>0</lbePocketIndex4>
+		<lbePocketIndex3>41</lbePocketIndex3>
+		<lbePocketIndex4>51</lbePocketIndex4>
 		<lbePocketIndex5>51</lbePocketIndex5>
 		<lbePocketIndex6>35</lbePocketIndex6>
 		<lbePocketIndex7>35</lbePocketIndex7>
-		<lbePocketIndex8>35</lbePocketIndex8>
-		<lbePocketIndex9>0</lbePocketIndex9>
+		<lbePocketIndex8>41</lbePocketIndex8>
+		<lbePocketIndex9>51</lbePocketIndex9>
 		<lbePocketIndex10>51</lbePocketIndex10>
 		<lbePocketIndex11>52</lbePocketIndex11>
 		<lbePocketIndex12>52</lbePocketIndex12>
@@ -2435,18 +2435,18 @@
 		<lbeClass>2</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>46</lbeFilledSize>
-		<lbePocketIndex1>17</lbePocketIndex1>
+		<lbePocketIndex1>29</lbePocketIndex1>
 		<lbePocketIndex2>29</lbePocketIndex2>
-		<lbePocketIndex3>29</lbePocketIndex3>
-		<lbePocketIndex4>29</lbePocketIndex4>
-		<lbePocketIndex5>17</lbePocketIndex5>
-		<lbePocketIndex6>17</lbePocketIndex6>
-		<lbePocketIndex7>44</lbePocketIndex7>
-		<lbePocketIndex8>44</lbePocketIndex8>
-		<lbePocketIndex9>44</lbePocketIndex9>
-		<lbePocketIndex10>17</lbePocketIndex10>
-		<lbePocketIndex11>39</lbePocketIndex11>
-		<lbePocketIndex12>39</lbePocketIndex12>
+		<lbePocketIndex3>17</lbePocketIndex3>
+		<lbePocketIndex4>38</lbePocketIndex4>
+		<lbePocketIndex5>38</lbePocketIndex5>
+		<lbePocketIndex6>29</lbePocketIndex6>
+		<lbePocketIndex7>29</lbePocketIndex7>
+		<lbePocketIndex8>17</lbePocketIndex8>
+		<lbePocketIndex9>38</lbePocketIndex9>
+		<lbePocketIndex10>38</lbePocketIndex10>
+		<lbePocketIndex11>44</lbePocketIndex11>
+		<lbePocketIndex12>44</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
 		<lbeIndex>136</lbeIndex> <!-- SOE Patrol Vest -->
@@ -3005,5 +3005,77 @@
 		<lbePocketIndex10>0</lbePocketIndex10>
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
+	</LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>
+		<lbeIndex>167</lbeIndex> <!-- SF-Mag Pocket -->
+		<lbeClass>1</lbeClass>
+		<lbeCombo>0</lbeCombo>
+		<lbeFilledSize>38</lbeFilledSize>
+		<lbePocketIndex1>66</lbePocketIndex1>
+		<lbePocketIndex2>0</lbePocketIndex2>
+		<lbePocketIndex3>0</lbePocketIndex3>
+		<lbePocketIndex4>0</lbePocketIndex4>
+		<lbePocketIndex5>0</lbePocketIndex5>
+		<lbePocketIndex6>0</lbePocketIndex6>
+		<lbePocketIndex7>0</lbePocketIndex7>
+		<lbePocketIndex8>0</lbePocketIndex8>
+		<lbePocketIndex9>0</lbePocketIndex9>
+		<lbePocketIndex10>0</lbePocketIndex10>
+		<lbePocketIndex11>0</lbePocketIndex11>
+		<lbePocketIndex12>0</lbePocketIndex12>
+	</LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>
+		<lbeIndex>168</lbeIndex> <!-- SF-Mag Leg Pouch -->
+		<lbeClass>1</lbeClass>
+		<lbeCombo>0</lbeCombo>
+		<lbeFilledSize>44</lbeFilledSize>
+		<lbePocketIndex1>66</lbePocketIndex1>
+		<lbePocketIndex2>66</lbePocketIndex2>
+		<lbePocketIndex3>66</lbePocketIndex3>
+		<lbePocketIndex4>0</lbePocketIndex4>
+		<lbePocketIndex5>0</lbePocketIndex5>
+		<lbePocketIndex6>0</lbePocketIndex6>
+		<lbePocketIndex7>0</lbePocketIndex7>
+		<lbePocketIndex8>0</lbePocketIndex8>
+		<lbePocketIndex9>0</lbePocketIndex9>
+		<lbePocketIndex10>0</lbePocketIndex10>
+		<lbePocketIndex11>0</lbePocketIndex11>
+		<lbePocketIndex12>0</lbePocketIndex12>
+	</LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>
+		<lbeIndex>169</lbeIndex> <!-- BCS AK Chest Rig -->
+		<lbeClass>2</lbeClass>
+		<lbeCombo>0</lbeCombo>
+		<lbeFilledSize>45</lbeFilledSize>
+		<lbePocketIndex1>30</lbePocketIndex1>
+		<lbePocketIndex2>30</lbePocketIndex2>
+		<lbePocketIndex3>30</lbePocketIndex3>
+		<lbePocketIndex4>30</lbePocketIndex4>
+		<lbePocketIndex5>30</lbePocketIndex5>
+		<lbePocketIndex6>51</lbePocketIndex6>
+		<lbePocketIndex7>51</lbePocketIndex7>
+		<lbePocketIndex8>51</lbePocketIndex8>
+		<lbePocketIndex9>51</lbePocketIndex9>
+		<lbePocketIndex10>51</lbePocketIndex10>
+		<lbePocketIndex11>58</lbePocketIndex11>
+		<lbePocketIndex12>0</lbePocketIndex12>
+	</LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>
+		<lbeIndex>170</lbeIndex> <!-- BCS SVD Chest Rig -->
+		<lbeClass>2</lbeClass>
+		<lbeCombo>0</lbeCombo>
+		<lbeFilledSize>45</lbeFilledSize>
+		<lbePocketIndex1>32</lbePocketIndex1>
+		<lbePocketIndex2>32</lbePocketIndex2>
+		<lbePocketIndex3>32</lbePocketIndex3>
+		<lbePocketIndex4>32</lbePocketIndex4>
+		<lbePocketIndex5>32</lbePocketIndex5>
+		<lbePocketIndex6>32</lbePocketIndex6>
+		<lbePocketIndex7>32</lbePocketIndex7>
+		<lbePocketIndex8>32</lbePocketIndex8>
+		<lbePocketIndex9>32</lbePocketIndex9>
+		<lbePocketIndex10>32</lbePocketIndex10>
+		<lbePocketIndex11>58</lbePocketIndex11>
+		<lbePocketIndex12>52</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 </LOADBEARINGEQUIPMENTLIST>

@@ -675,14 +675,14 @@
 	<ARMOUR>
 		<uiIndex>96</uiIndex> <!-- Dyneema Plate -->
 		<ubArmourClass>3</ubArmourClass>
-		<ubProtection>50</ubProtection>
-		<ubCoverage>55</ubCoverage>
+		<ubProtection>45</ubProtection>
+		<ubCoverage>50</ubCoverage>
 		<ubDegradePercent>15</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>97</uiIndex> <!-- A Pair of Dyneema Plate  -->
 		<ubArmourClass>3</ubArmourClass>
-		<ubProtection>50</ubProtection>
+		<ubProtection>45</ubProtection>
 		<ubCoverage>99</ubCoverage>
 		<ubDegradePercent>15</ubDegradePercent>
 	</ARMOUR>
@@ -1088,7 +1088,7 @@
 	<ARMOUR>
 		<uiIndex>155</uiIndex> <!-- Face Shield -->
 		<ubArmourClass>3</ubArmourClass>
-		<ubProtection>20</ubProtection>
+		<ubProtection>25</ubProtection>
 		<ubCoverage>100</ubCoverage>
 		<ubDegradePercent>35</ubDegradePercent>
 	</ARMOUR>
@@ -1096,20 +1096,20 @@
 		<uiIndex>156</uiIndex> <!-- Face Mask -->
 		<ubArmourClass>0</ubArmourClass>
 		<ubProtection>30</ubProtection>
-		<ubCoverage>90</ubCoverage>
+		<ubCoverage>95</ubCoverage>
 		<ubDegradePercent>25</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>157</uiIndex> <!-- SAPI IV -->
 		<ubArmourClass>3</ubArmourClass>
-		<ubProtection>65</ubProtection>
+		<ubProtection>70</ubProtection>
 		<ubCoverage>50</ubCoverage>
 		<ubDegradePercent>15</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>158</uiIndex> <!-- A Pair of SAPI IV  -->
 		<ubArmourClass>3</ubArmourClass>
-		<ubProtection>65</ubProtection>
+		<ubProtection>70</ubProtection>
 		<ubCoverage>99</ubCoverage>
 		<ubDegradePercent>15</ubDegradePercent>
 	</ARMOUR>
@@ -1179,14 +1179,14 @@
 	<ARMOUR>
 		<uiIndex>168</uiIndex> <!-- A Pair of SAPI Plates -->
 		<ubArmourClass>3</ubArmourClass>
-		<ubProtection>55</ubProtection>
-		<ubCoverage>90</ubCoverage>
+		<ubProtection>60</ubProtection>
+		<ubCoverage>99</ubCoverage>
 		<ubDegradePercent>15</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>169</uiIndex> <!-- DRAGON SKIN -->
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>45</ubProtection>
+		<ubProtection>50</ubProtection>
 		<ubCoverage>99</ubCoverage>
 		<ubDegradePercent>5</ubDegradePercent>
 	</ARMOUR>

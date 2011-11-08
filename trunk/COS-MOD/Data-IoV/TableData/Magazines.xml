@@ -5226,4 +5226,46 @@
 		<ubMagSize>100</ubMagSize>
 		<ubAmmoType>35</ubAmmoType>
 	</MAGAZINE>
+	<MAGAZINE>
+		<uiIndex>871</uiIndex>
+		<ubCalibre>8</ubCalibre>
+		<ubMagSize>98</ubMagSize>
+		<ubAmmoType>2</ubAmmoType>
+	</MAGAZINE>
+	<MAGAZINE>
+		<uiIndex>872</uiIndex>
+		<ubCalibre>8</ubCalibre>
+		<ubMagSize>98</ubMagSize>
+		<ubAmmoType>16</ubAmmoType>
+	</MAGAZINE>
+	<MAGAZINE>
+		<uiIndex>873</uiIndex>
+		<ubCalibre>8</ubCalibre>
+		<ubMagSize>98</ubMagSize>
+		<ubAmmoType>19</ubAmmoType>
+	</MAGAZINE>
+	<MAGAZINE>
+		<uiIndex>874</uiIndex>
+		<ubCalibre>8</ubCalibre>
+		<ubMagSize>98</ubMagSize>
+		<ubAmmoType>21</ubAmmoType>
+	</MAGAZINE>
+	<MAGAZINE>
+		<uiIndex>875</uiIndex>
+		<ubCalibre>8</ubCalibre>
+		<ubMagSize>98</ubMagSize>
+		<ubAmmoType>24</ubAmmoType>
+	</MAGAZINE>
+	<MAGAZINE>
+		<uiIndex>876</uiIndex>
+		<ubCalibre>8</ubCalibre>
+		<ubMagSize>98</ubMagSize>
+		<ubAmmoType>26</ubAmmoType>
+	</MAGAZINE>
+	<MAGAZINE>
+		<uiIndex>877</uiIndex>
+		<ubCalibre>8</ubCalibre>
+		<ubMagSize>98</ubMagSize>
+		<ubAmmoType>39</ubAmmoType>
+	</MAGAZINE>
 </MAGAZINELIST>

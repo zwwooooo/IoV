@@ -6216,9 +6216,9 @@
 		<Electronic>1</Electronic>
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<NightVisionRangeBonus>35</NightVisionRangeBonus>
-		<DayVisionRangeBonus>-35</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>25</CaveVisionRangeBonus>
+		<NightVisionRangeBonus>30</NightVisionRangeBonus>
+		<DayVisionRangeBonus>-20</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>-40</BrightLightVisionRangeBonus>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -6906,7 +6906,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<ToHitBonus>20</ToHitBonus>
 		<BestLaserRange>120</BestLaserRange>
-		<ProjectionFactor>1.4</ProjectionFactor>
+		<ProjectionFactor>1.7</ProjectionFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -7047,9 +7047,9 @@
 		<Electronic>1</Electronic>
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<NightVisionRangeBonus>50</NightVisionRangeBonus>
-		<DayVisionRangeBonus>-35</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>40</CaveVisionRangeBonus>
+		<NightVisionRangeBonus>45</NightVisionRangeBonus>
+		<DayVisionRangeBonus>-20</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>35</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>-40</BrightLightVisionRangeBonus>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -11110,7 +11110,7 @@
 		<szLongItemName>.45 SMG Drum Match</szLongItemName>
 		<szItemDesc>Though it seems to be a waste, someone filled this drum with Match ammo...</szItemDesc>
 		<szBRName>.45 Drum Match</szBRName>
-		<szBRDesc>Not buyable at BR.</szBRDesc>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>105</ubClassIndex>
@@ -12911,7 +12911,7 @@
 		<ubClassIndex>241</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>153</ubGraphicNum>
-		<ubWeight>18</ubWeight>
+		<ubWeight>20</ubWeight>
 		<ubPerPocket>2</ubPerPocket>
 		<ItemSize>33</ItemSize>
 		<usPrice>500</usPrice>
@@ -12935,7 +12935,7 @@
 		<ubClassIndex>242</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>241</ubGraphicNum>
-		<ubWeight>18</ubWeight>
+		<ubWeight>20</ubWeight>
 		<ubPerPocket>2</ubPerPocket>
 		<ItemSize>33</ItemSize>
 		<usPrice>600</usPrice>
@@ -12963,7 +12963,7 @@
 		<ubClassIndex>243</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>242</ubGraphicNum>
-		<ubWeight>19</ubWeight>
+		<ubWeight>21</ubWeight>
 		<ubPerPocket>2</ubPerPocket>
 		<ItemSize>33</ItemSize>
 		<usPrice>2000</usPrice>
@@ -12989,7 +12989,7 @@
 		<ubClassIndex>244</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>341</ubGraphicNum>
-		<ubWeight>18</ubWeight>
+		<ubWeight>20</ubWeight>
 		<ubPerPocket>2</ubPerPocket>
 		<ItemSize>33</ItemSize>
 		<usPrice>500</usPrice>
@@ -13015,7 +13015,7 @@
 		<ubClassIndex>245</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>154</ubGraphicNum>
-		<ubWeight>18</ubWeight>
+		<ubWeight>20</ubWeight>
 		<ubPerPocket>2</ubPerPocket>
 		<ItemSize>33</ItemSize>
 		<usPrice>600</usPrice>
@@ -13038,7 +13038,7 @@
 		<ubClassIndex>246</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>342</ubGraphicNum>
-		<ubWeight>19</ubWeight>
+		<ubWeight>21</ubWeight>
 		<ubPerPocket>2</ubPerPocket>
 		<ItemSize>33</ItemSize>
 		<usPrice>1700</usPrice>
@@ -24253,6 +24253,8 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>20</CamoBonus>
+		<DayVisionRangeBonus>5</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -24338,6 +24340,8 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<DesertCamoBonus>20</DesertCamoBonus>
+		<DayVisionRangeBonus>5</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -25938,7 +25942,7 @@
 		<ubClassIndex>96</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>386</ubGraphicNum>
-		<ubWeight>12</ubWeight>
+		<ubWeight>13</ubWeight>
 		<ubPerPocket>2</ubPerPocket>
 		<ItemSize>44</ItemSize>
 		<usPrice>1200</usPrice>
@@ -25951,14 +25955,14 @@
 		<ToHitBonus>-1</ToHitBonus>
 		<AimBonus>-1</AimBonus>
 		<STAND_MODIFIERS>
-			<PercentBase>-8</PercentBase>
+			<PercentBase>-7</PercentBase>
 			<PercentCap>-3</PercentCap>
-			<PercentCounterForceAccuracy>-8</PercentCounterForceAccuracy>
+			<PercentCounterForceAccuracy>-7</PercentCounterForceAccuracy>
 		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS>
-			<PercentBase>-11</PercentBase>
+			<PercentBase>-10</PercentBase>
 			<PercentCap>-4</PercentCap>
-			<PercentCounterForceAccuracy>-11</PercentCounterForceAccuracy>
+			<PercentCounterForceAccuracy>-10</PercentCounterForceAccuracy>
 		</CROUCH_MODIFIERS>
 		<PRONE_MODIFIERS />
 	</ITEM>
@@ -25975,7 +25979,7 @@
 		<ubClassIndex>97</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>387</ubGraphicNum>
-		<ubWeight>24</ubWeight>
+		<ubWeight>26</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
 		<ItemSize>45</ItemSize>
 		<usPrice>2400</usPrice>
@@ -25987,19 +25991,19 @@
 		<ToHitBonus>-1</ToHitBonus>
 		<AimBonus>-2</AimBonus>
 		<STAND_MODIFIERS>
-			<PercentBase>-8</PercentBase>
+			<PercentBase>-7</PercentBase>
 			<PercentCap>-3</PercentCap>
-			<PercentCounterForceAccuracy>-8</PercentCounterForceAccuracy>
+			<PercentCounterForceAccuracy>-7</PercentCounterForceAccuracy>
 		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS>
-			<PercentBase>-11</PercentBase>
+			<PercentBase>-10</PercentBase>
 			<PercentCap>-4</PercentCap>
-			<PercentCounterForceAccuracy>-11</PercentCounterForceAccuracy>
+			<PercentCounterForceAccuracy>-10</PercentCounterForceAccuracy>
 		</CROUCH_MODIFIERS>
 		<PRONE_MODIFIERS>
-			<PercentBase>-16</PercentBase>
-			<PercentCap>-6</PercentCap>
-			<PercentCounterForceAccuracy>-16</PercentCounterForceAccuracy>
+			<PercentBase>-14</PercentBase>
+			<PercentCap>-5</PercentCap>
+			<PercentCounterForceAccuracy>-14</PercentCounterForceAccuracy>
 		</PRONE_MODIFIERS>
 	</ITEM>
 	<ITEM>
@@ -26610,7 +26614,9 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<DesertCamoBonus>15</DesertCamoBonus>
+		<DesertCamoBonus>10</DesertCamoBonus>
+		<DayVisionRangeBonus>5</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -26761,6 +26767,8 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>20</CamoBonus>
+		<DayVisionRangeBonus>5</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -28483,7 +28491,7 @@
 		<StealthBonus>-15</StealthBonus>
 		<NightVisionRangeBonus>25</NightVisionRangeBonus>
 		<CaveVisionRangeBonus>30</CaveVisionRangeBonus>
-		<ProjectionFactor>3.0</ProjectionFactor>
+		<ProjectionFactor>4.3</ProjectionFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -28521,7 +28529,7 @@
 		<StealthBonus>-20</StealthBonus>
 		<NightVisionRangeBonus>20</NightVisionRangeBonus>
 		<CaveVisionRangeBonus>30</CaveVisionRangeBonus>
-		<ProjectionFactor>3.5</ProjectionFactor>
+		<ProjectionFactor>5.5</ProjectionFactor>
 		<STAND_MODIFIERS>
 			<AimLevels>-1</AimLevels>
 		</STAND_MODIFIERS>
@@ -28559,7 +28567,7 @@
 		<DesertCamoBonus>-15</DesertCamoBonus>
 		<SnowCamoBonus>-15</SnowCamoBonus>
 		<StealthBonus>-15</StealthBonus>
-		<ProjectionFactor>2.5</ProjectionFactor>
+		<ProjectionFactor>4.0</ProjectionFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -28597,7 +28605,7 @@
 		<StealthBonus>-20</StealthBonus>
 		<NightVisionRangeBonus>20</NightVisionRangeBonus>
 		<CaveVisionRangeBonus>30</CaveVisionRangeBonus>
-		<ProjectionFactor>3.5</ProjectionFactor>
+		<ProjectionFactor>8.5</ProjectionFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -29180,7 +29188,6 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>2</BR_NewInventory>
 		<GLGrenade>1</GLGrenade>
-		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -29207,7 +29214,6 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>2</BR_NewInventory>
 		<GLGrenade>1</GLGrenade>
-		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -29234,7 +29240,6 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>2</BR_NewInventory>
 		<GLGrenade>1</GLGrenade>
-		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -29261,7 +29266,6 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>2</BR_NewInventory>
 		<GLGrenade>1</GLGrenade>
-		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -29288,7 +29292,6 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>2</BR_NewInventory>
 		<GLGrenade>1</GLGrenade>
-		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -29523,7 +29526,6 @@
 		<SciFi>1</SciFi>
 		<BR_NewInventory>1</BR_NewInventory>
 		<GLGrenade>1</GLGrenade>
-		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -29552,7 +29554,6 @@
 		<SciFi>1</SciFi>
 		<BR_NewInventory>1</BR_NewInventory>
 		<GLGrenade>1</GLGrenade>
-		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -29581,7 +29582,6 @@
 		<SciFi>1</SciFi>
 		<BR_NewInventory>1</BR_NewInventory>
 		<GLGrenade>1</GLGrenade>
-		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -29610,7 +29610,6 @@
 		<SciFi>1</SciFi>
 		<BR_NewInventory>1</BR_NewInventory>
 		<GLGrenade>1</GLGrenade>
-		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -29639,7 +29638,6 @@
 		<SciFi>1</SciFi>
 		<BR_NewInventory>1</BR_NewInventory>
 		<GLGrenade>1</GLGrenade>
-		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -29668,7 +29666,6 @@
 		<SciFi>1</SciFi>
 		<BR_NewInventory>1</BR_NewInventory>
 		<GLGrenade>1</GLGrenade>
-		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -29903,7 +29900,7 @@
 		<DesertCamoBonus>-5</DesertCamoBonus>
 		<SnowCamoBonus>-5</SnowCamoBonus>
 		<StealthBonus>-5</StealthBonus>
-		<ProjectionFactor>1.7</ProjectionFactor>
+		<ProjectionFactor>2.8</ProjectionFactor>
 		<STAND_MODIFIERS>
 			<AimLevels>-1</AimLevels>
 		</STAND_MODIFIERS>
@@ -30069,7 +30066,6 @@
 		<ItemSize>18</ItemSize>
 		<usPrice>1500</usPrice>
 		<ubCoolness>8</ubCoolness>
-		<bReliability>1</bReliability>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -30107,7 +30103,6 @@
 		<ItemSize>18</ItemSize>
 		<usPrice>1000</usPrice>
 		<ubCoolness>5</ubCoolness>
-		<bReliability>1</bReliability>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -30233,7 +30228,7 @@
 		<StealthBonus>-5</StealthBonus>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
 		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
-		<ProjectionFactor>1.6</ProjectionFactor>
+		<ProjectionFactor>1.8</ProjectionFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -30793,9 +30788,9 @@
 		<Electronic>1</Electronic>
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<NightVisionRangeBonus>65</NightVisionRangeBonus>
-		<DayVisionRangeBonus>-35</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>55</CaveVisionRangeBonus>
+		<NightVisionRangeBonus>60</NightVisionRangeBonus>
+		<DayVisionRangeBonus>-20</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>50</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>-40</BrightLightVisionRangeBonus>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -30827,9 +30822,10 @@
 		<Electronic>1</Electronic>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<NightVisionRangeBonus>65</NightVisionRangeBonus>
-		<CaveVisionRangeBonus>65</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>-20</BrightLightVisionRangeBonus>
+		<NightVisionRangeBonus>70</NightVisionRangeBonus>
+		<DayVisionRangeBonus>-20</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>60</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>-30</BrightLightVisionRangeBonus>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -31012,7 +31008,6 @@
 		<ItemSize>18</ItemSize>
 		<usPrice>1500</usPrice>
 		<ubCoolness>8</ubCoolness>
-		<bReliability>1</bReliability>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -31050,7 +31045,6 @@
 		<ItemSize>18</ItemSize>
 		<usPrice>1500</usPrice>
 		<ubCoolness>8</ubCoolness>
-		<bReliability>1</bReliability>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -31088,7 +31082,6 @@
 		<ItemSize>18</ItemSize>
 		<usPrice>1500</usPrice>
 		<ubCoolness>8</ubCoolness>
-		<bReliability>1</bReliability>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -31126,7 +31119,6 @@
 		<ItemSize>18</ItemSize>
 		<usPrice>1500</usPrice>
 		<ubCoolness>8</ubCoolness>
-		<bReliability>1</bReliability>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -31164,7 +31156,6 @@
 		<ItemSize>30</ItemSize>
 		<usPrice>500</usPrice>
 		<ubCoolness>6</ubCoolness>
-		<bReliability>1</bReliability>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -31197,7 +31188,6 @@
 		<ItemSize>18</ItemSize>
 		<usPrice>1500</usPrice>
 		<ubCoolness>8</ubCoolness>
-		<bReliability>1</bReliability>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -31235,7 +31225,6 @@
 		<ItemSize>18</ItemSize>
 		<usPrice>1000</usPrice>
 		<ubCoolness>5</ubCoolness>
-		<bReliability>1</bReliability>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -31273,7 +31262,6 @@
 		<ItemSize>18</ItemSize>
 		<usPrice>1500</usPrice>
 		<ubCoolness>8</ubCoolness>
-		<bReliability>1</bReliability>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -31311,7 +31299,6 @@
 		<ItemSize>18</ItemSize>
 		<usPrice>500</usPrice>
 		<ubCoolness>8</ubCoolness>
-		<bReliability>1</bReliability>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -32684,20 +32671,20 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1080</uiIndex>
-		<szItemName>40mm Gren.P.</szItemName>
-		<szLongItemName>40mm Grenade Panel</szLongItemName>
-		<szItemDesc>A panel with four individual pockets to store up to four 40mm grenades.</szItemDesc>
-		<szBRName>40mm Grenade Panel</szBRName>
-		<szBRDesc>A quadruple pouch mounted on a leg rig. The long adjustable straps let you store 40mm grenades on any length.</szBRDesc>
+		<szItemName>Grenade Panel</szItemName>
+		<szLongItemName>Grenade Panel</szLongItemName>
+		<szItemDesc>Four pouches, each for a single grenade, mounted onto a modular panel that can be attached to your load bearing equipment.</szItemDesc>
+		<szBRName>Grenade Panel</szBRName>
+		<szBRDesc>No more grenades dangling from D-rings and ripping off while crawling through the underbrush. Our grenade carrier panel has four individual pouches to carry your grenades safely.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>39</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>573</ubGraphicNum>
-		<ubWeight>4</ubWeight>
+		<ubWeight>3</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
-		<ItemSize>30</ItemSize>
-		<usPrice>180</usPrice>
+		<ItemSize>26</ItemSize>
+		<usPrice>80</usPrice>
 		<ubCoolness>5</ubCoolness>
 		<bRepairEase>3</bRepairEase>
 		<Damageable>1</Damageable>
@@ -34380,7 +34367,7 @@
 		<szLongItemName>FN HAMR</szLongItemName>
 		<szItemDesc>The FN Heat Adaptive Modular Rifle (HAMR) is based on the SCAR-L, a unique, highly-adaptable, modular selective fire weapon system that fills the roles of both individual battle rifle and squad automatic weapon in one light, compact package.</szItemDesc>
 		<szBRName>FN HAMR</szBRName>
-		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<szBRDesc>The FN Heat Adaptive Modular Rifle (HAMR) is based on the SCAR-L, a unique, highly-adaptable, modular selective fire weapon system that fills the roles of both individual battle rifle and squad automatic weapon in one light, compact package.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>1132</ubClassIndex>
@@ -34390,7 +34377,7 @@
 		<ItemSize>7</ItemSize>
 		<usPrice>7600</usPrice>
 		<ubCoolness>9</ubCoolness>
-		<bReliability>6</bReliability>
+		<bReliability>8</bReliability>
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -34419,7 +34406,7 @@
 		<szLongItemName>Mk20 SSR</szLongItemName>
 		<szItemDesc>The Mk20 SSR (Sniper Support Rifle) is base on Mk17 MOD0 Long Barrel version. But with long handguard, match class barrel, and match trigger.</szItemDesc>
 		<szBRName>Mk20 SSR</szBRName>
-		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<szBRDesc>The Mk20 SSR (Sniper Support Rifle) is base on Mk17 MOD0 Long Barrel version. But with long handguard, match class barrel, and match trigger.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>1133</ubClassIndex>
@@ -38762,7 +38749,7 @@
 		<BrightLightVisionRangeBonus>15</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>20</PercentTunnelVision>
 		<ScopeMagFactor>1.5</ScopeMagFactor>
-		<ProjectionFactor>1.7</ProjectionFactor>
+		<ProjectionFactor>4.4</ProjectionFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -40084,6 +40071,8 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
+		<BigGunList>1</BigGunList>
+		<Unaerodynamic>1</Unaerodynamic>
 		<BR_ROF>550</BR_ROF>
 		<Bipod>10</Bipod>
 		<BurstToHitBonus>5</BurstToHitBonus>
@@ -40124,6 +40113,8 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
+		<BigGunList>1</BigGunList>
+		<Unaerodynamic>1</Unaerodynamic>
 		<BR_ROF>550</BR_ROF>
 		<Bipod>10</Bipod>
 		<STAND_MODIFIERS>
@@ -40165,6 +40156,8 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
+		<BigGunList>1</BigGunList>
+		<Unaerodynamic>1</Unaerodynamic>
 		<BR_ROF>10</BR_ROF>
 		<Bipod>10</Bipod>
 		<STAND_MODIFIERS>
@@ -40268,6 +40261,8 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
+		<BigGunList>1</BigGunList>
+		<Unaerodynamic>1</Unaerodynamic>
 		<BR_ROF>600</BR_ROF>
 		<Bipod>10</Bipod>
 		<STAND_MODIFIERS />
@@ -40454,6 +40449,8 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
+		<BigGunList>1</BigGunList>
+		<Unaerodynamic>1</Unaerodynamic>
 		<BR_ROF>600</BR_ROF>
 		<Bipod>10</Bipod>
 		<DefaultAttachment>1822</DefaultAttachment>
@@ -40490,6 +40487,8 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
+		<BigGunList>1</BigGunList>
+		<Unaerodynamic>1</Unaerodynamic>
 		<BR_ROF>1200</BR_ROF>
 		<Bipod>10</Bipod>
 		<STAND_MODIFIERS>
@@ -40563,6 +40562,8 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
+		<BigGunList>1</BigGunList>
+		<Unaerodynamic>1</Unaerodynamic>
 		<BR_ROF>500</BR_ROF>
 		<Bipod>10</Bipod>
 		<STAND_MODIFIERS>
@@ -40713,7 +40714,7 @@
 		<BR_ROF>700</BR_ROF>
 		<ToHitBonus>15</ToHitBonus>
 		<BestLaserRange>300</BestLaserRange>
-		<ProjectionFactor>1.5</ProjectionFactor>
+		<ProjectionFactor>5.5</ProjectionFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -40750,7 +40751,7 @@
 		<BestLaserRange>300</BestLaserRange>
 		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1612</DefaultAttachment>
-		<ProjectionFactor>1.7</ProjectionFactor>
+		<ProjectionFactor>4.7</ProjectionFactor>
 		<STAND_MODIFIERS>
 			<PercentMaxCounterForce>-20</PercentMaxCounterForce>
 			<PercentCounterForceAccuracy>-20</PercentCounterForceAccuracy>
@@ -42898,7 +42899,7 @@
 		<VisionRangeBonus>100</VisionRangeBonus>
 		<PercentTunnelVision>90</PercentTunnelVision>
 		<ScopeMagFactor>12.0</ScopeMagFactor>
-		<ProjectionFactor>2.5</ProjectionFactor>
+		<ProjectionFactor>20</ProjectionFactor>
 		<STAND_MODIFIERS>
 			<FlatBase>-10</FlatBase>
 			<FlatAim>-10</FlatAim>
@@ -49725,8 +49726,6 @@
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>10</BR_ROF>
-		<ToHitBonus>20</ToHitBonus>
-		<BestLaserRange>400</BestLaserRange>
 		<AimBonus>7</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
 		<RocketLauncher>1</RocketLauncher>
@@ -49736,6 +49735,8 @@
 		<DayVisionRangeBonus>20</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>60</PercentTunnelVision>
+		<ScopeMagFactor>3.0</ScopeMagFactor>
+		<ProjectionFactor>6</ProjectionFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -49779,6 +49780,8 @@
 		<CaveVisionRangeBonus>30</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>50</PercentTunnelVision>
+		<ScopeMagFactor>3.0</ScopeMagFactor>
+		<ProjectionFactor>9</ProjectionFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -49956,7 +49959,7 @@
 		<VisionRangeBonus>90</VisionRangeBonus>
 		<PercentTunnelVision>80</PercentTunnelVision>
 		<ScopeMagFactor>6.0</ScopeMagFactor>
-		<ProjectionFactor>3.5</ProjectionFactor>
+		<ProjectionFactor>20</ProjectionFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -52729,6 +52732,8 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>5</CamoBonus>
 		<DesertCamoBonus>5</DesertCamoBonus>
+		<DayVisionRangeBonus>5</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -52948,6 +52953,8 @@
 		<ShowStatus>1</ShowStatus>
 		<BigGunList>1</BigGunList>
 		<CamoBonus>20</CamoBonus>
+		<DayVisionRangeBonus>5</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -53595,7 +53602,7 @@
 		<ubPerPocket>2</ubPerPocket>
 		<ItemSize>30</ItemSize>
 		<usPrice>250</usPrice>
-		<ubCoolness>2</ubCoolness>
+		<ubCoolness>7</ubCoolness>
 		<bRepairEase>-4</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -53627,7 +53634,7 @@
 		<ubPerPocket>1</ubPerPocket>
 		<ItemSize>31</ItemSize>
 		<usPrice>350</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>9</ubCoolness>
 		<bRepairEase>-4</bRepairEase>
 		<Damageable>1</Damageable>
 		<Sinks>1</Sinks>
@@ -55678,7 +55685,7 @@
 		<DesertCamoBonus>-10</DesertCamoBonus>
 		<SnowCamoBonus>-10</SnowCamoBonus>
 		<StealthBonus>-10</StealthBonus>
-		<ProjectionFactor>1.9</ProjectionFactor>
+		<ProjectionFactor>4.0</ProjectionFactor>
 		<STAND_MODIFIERS>
 			<AimLevels>-1</AimLevels>
 		</STAND_MODIFIERS>
@@ -55721,7 +55728,7 @@
 		<StealthBonus>-10</StealthBonus>
 		<NightVisionRangeBonus>20</NightVisionRangeBonus>
 		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
-		<ProjectionFactor>2.0</ProjectionFactor>
+		<ProjectionFactor>4.4</ProjectionFactor>
 		<STAND_MODIFIERS>
 			<AimLevels>-1</AimLevels>
 		</STAND_MODIFIERS>
@@ -55753,7 +55760,7 @@
 		<BigGunList>1</BigGunList>
 		<Electronic>1</Electronic>
 		<ToHitBonus>20</ToHitBonus>
-		<BestLaserRange>300</BestLaserRange>
+		<BestLaserRange>400</BestLaserRange>
 		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
 		<CamoBonus>-10</CamoBonus>
@@ -55767,7 +55774,7 @@
 		<BrightLightVisionRangeBonus>25</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>40</PercentTunnelVision>
 		<ScopeMagFactor>4.0</ScopeMagFactor>
-		<ProjectionFactor>2.0</ProjectionFactor>
+		<ProjectionFactor>6.0</ProjectionFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -55914,9 +55921,9 @@
 		<Electronic>1</Electronic>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<NightVisionRangeBonus>80</NightVisionRangeBonus>
+		<NightVisionRangeBonus>60</NightVisionRangeBonus>
 		<DayVisionRangeBonus>-20</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>70</CaveVisionRangeBonus>
+		<CaveVisionRangeBonus>50</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>-40</BrightLightVisionRangeBonus>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -56105,11 +56112,11 @@
 		<MinRangeForAimBonus>85</MinRangeForAimBonus>
 		<PercentAPReduction>-10</PercentAPReduction>
 		<DamageBonus>2</DamageBonus>
-		<NightVisionRangeBonus>100</NightVisionRangeBonus>
+		<NightVisionRangeBonus>110</NightVisionRangeBonus>
 		<DayVisionRangeBonus>120</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>95</CaveVisionRangeBonus>
+		<CaveVisionRangeBonus>100</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>120</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>95</PercentTunnelVision>
+		<PercentTunnelVision>90</PercentTunnelVision>
 		<ScopeMagFactor>13.0</ScopeMagFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -56516,7 +56523,7 @@
 		<VisionRangeBonus>25</VisionRangeBonus>
 		<PercentTunnelVision>25</PercentTunnelVision>
 		<ScopeMagFactor>3.0</ScopeMagFactor>
-		<ProjectionFactor>3.0</ProjectionFactor>
+		<ProjectionFactor>7.2</ProjectionFactor>
 		<STAND_MODIFIERS>
 			<AimLevels>-1</AimLevels>
 		</STAND_MODIFIERS>
@@ -56558,7 +56565,7 @@
 		<StealthBonus>-10</StealthBonus>
 		<NightVisionRangeBonus>20</NightVisionRangeBonus>
 		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
-		<ProjectionFactor>2.0</ProjectionFactor>
+		<ProjectionFactor>3.0</ProjectionFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -56681,7 +56688,7 @@
 		<NightVisionRangeBonus>25</NightVisionRangeBonus>
 		<CaveVisionRangeBonus>30</CaveVisionRangeBonus>
 		<RecoilModifierY>-1</RecoilModifierY>
-		<ProjectionFactor>1.7</ProjectionFactor>
+		<ProjectionFactor>2.5</ProjectionFactor>
 		<STAND_MODIFIERS>
 			<PercentCap>-5</PercentCap>
 			<PercentHandling>-10</PercentHandling>
@@ -56712,7 +56719,6 @@
 		<ItemSize>25</ItemSize>
 		<usPrice>2630</usPrice>
 		<ubCoolness>8</ubCoolness>
-		<bReliability>1</bReliability>
 		<bRepairEase>-5</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -56749,7 +56755,6 @@
 		<ItemSize>18</ItemSize>
 		<usPrice>1500</usPrice>
 		<ubCoolness>8</ubCoolness>
-		<bReliability>1</bReliability>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -56786,7 +56791,6 @@
 		<ItemSize>18</ItemSize>
 		<usPrice>500</usPrice>
 		<ubCoolness>8</ubCoolness>
-		<bReliability>1</bReliability>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -56822,7 +56826,6 @@
 		<ItemSize>12</ItemSize>
 		<usPrice>1500</usPrice>
 		<ubCoolness>5</ubCoolness>
-		<bReliability>1</bReliability>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -56856,7 +56859,6 @@
 		<ItemSize>30</ItemSize>
 		<usPrice>500</usPrice>
 		<ubCoolness>6</ubCoolness>
-		<bReliability>1</bReliability>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -57236,7 +57238,6 @@
 		<ItemSize>18</ItemSize>
 		<usPrice>1500</usPrice>
 		<ubCoolness>8</ubCoolness>
-		<bReliability>1</bReliability>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -57399,7 +57400,7 @@
 		<StealthBonus>-10</StealthBonus>
 		<NightVisionRangeBonus>20</NightVisionRangeBonus>
 		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
-		<ProjectionFactor>1.7</ProjectionFactor>
+		<ProjectionFactor>2.0</ProjectionFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -59370,7 +59371,7 @@
 		<ubClassIndex>92</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>285</ubGraphicNum>
-		<ubWeight>6</ubWeight>
+		<ubWeight>5</ubWeight>
 		<ItemSize>35</ItemSize>
 		<usPrice>140</usPrice>
 		<ubCoolness>7</ubCoolness>
@@ -59845,7 +59846,7 @@
 		<ubClassIndex>110</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>257</ubGraphicNum>
-		<ubWeight>9</ubWeight>
+		<ubWeight>5</ubWeight>
 		<ItemSize>35</ItemSize>
 		<usPrice>125</usPrice>
 		<ubCoolness>4</ubCoolness>
@@ -67280,7 +67281,7 @@
 		<ToHitBonus>20</ToHitBonus>
 		<BestLaserRange>120</BestLaserRange>
 		<PercentAPReduction>20</PercentAPReduction>
-		<ProjectionFactor>1.4</ProjectionFactor>
+		<ProjectionFactor>1.8</ProjectionFactor>
 		<STAND_MODIFIERS>
 			<AimLevels>-1</AimLevels>
 		</STAND_MODIFIERS>
@@ -67560,7 +67561,7 @@
 		<ubClassIndex>118</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>394</ubGraphicNum>
-		<ubWeight>9</ubWeight>
+		<ubWeight>6</ubWeight>
 		<ItemSize>35</ItemSize>
 		<usPrice>210</usPrice>
 		<ubCoolness>8</ubCoolness>
@@ -67585,7 +67586,7 @@
 		<ubClassIndex>119</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>395</ubGraphicNum>
-		<ubWeight>8</ubWeight>
+		<ubWeight>5</ubWeight>
 		<ItemSize>35</ItemSize>
 		<usPrice>220</usPrice>
 		<ubCoolness>8</ubCoolness>
@@ -68228,6 +68229,8 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>9</CamoBonus>
 		<DesertCamoBonus>9</DesertCamoBonus>
+		<DayVisionRangeBonus>5</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -68503,9 +68506,9 @@
 	<ITEM>
 		<uiIndex>2230</uiIndex>
 		<szItemName>HSGI Recon Vest</szItemName>
-		<szLongItemName>HSGI Recon Vest</szLongItemName>
+		<szLongItemName>HSGI HSGI Denali Chest Harness</szLongItemName>
 		<szItemDesc>Favored by USMC Sniper/Scouts, with dozens of pockets for sniper's small misc items.</szItemDesc>
-		<szBRName>HSGI Recon Vest</szBRName>
+		<szBRName>HSGI HSGI Denali Chest Harness</szBRName>
 		<szBRDesc>Favored by USMC Sniper/Scouts, with dozens of pockets for sniper's small misc items.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -69450,7 +69453,7 @@
 		<StealthBonus>-10</StealthBonus>
 		<NightVisionRangeBonus>20</NightVisionRangeBonus>
 		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
-		<ProjectionFactor>2.0</ProjectionFactor>
+		<ProjectionFactor>4.4</ProjectionFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -69869,7 +69872,7 @@
 		<BR_ROF>1100</BR_ROF>
 		<ToHitBonus>20</ToHitBonus>
 		<BestLaserRange>150</BestLaserRange>
-		<ProjectionFactor>1.5</ProjectionFactor>
+		<ProjectionFactor>2.2</ProjectionFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -76836,7 +76839,7 @@
 		<ubClassIndex>166</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>589</ubGraphicNum>
-		<ubWeight>1</ubWeight>
+		<ubWeight>2</ubWeight>
 		<ItemSize>39</ItemSize>
 		<usPrice>90</usPrice>
 		<ubCoolness>6</ubCoolness>
@@ -77013,7 +77016,7 @@
 		<ubClassIndex>248</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>938</ubGraphicNum>
-		<ubWeight>26</ubWeight>
+		<ubWeight>30</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
 		<ItemSize>40</ItemSize>
 		<usPrice>750</usPrice>
@@ -77037,7 +77040,7 @@
 		<ubClassIndex>249</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>939</ubGraphicNum>
-		<ubWeight>26</ubWeight>
+		<ubWeight>30</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
 		<ItemSize>40</ItemSize>
 		<usPrice>900</usPrice>
@@ -77065,7 +77068,7 @@
 		<ubClassIndex>250</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>940</ubGraphicNum>
-		<ubWeight>28</ubWeight>
+		<ubWeight>31</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
 		<ItemSize>40</ItemSize>
 		<usPrice>3000</usPrice>
@@ -77090,7 +77093,7 @@
 		<ubClassIndex>251</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>941</ubGraphicNum>
-		<ubWeight>26</ubWeight>
+		<ubWeight>30</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
 		<ItemSize>40</ItemSize>
 		<usPrice>750</usPrice>
@@ -77116,7 +77119,7 @@
 		<ubClassIndex>252</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>942</ubGraphicNum>
-		<ubWeight>26</ubWeight>
+		<ubWeight>30</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
 		<ItemSize>40</ItemSize>
 		<usPrice>900</usPrice>
@@ -77139,7 +77142,7 @@
 		<ubClassIndex>253</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>943</ubGraphicNum>
-		<ubWeight>26</ubWeight>
+		<ubWeight>30</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
 		<ItemSize>40</ItemSize>
 		<usPrice>2550</usPrice>
@@ -77432,7 +77435,7 @@
 		<ubClassIndex>247</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>595</ubGraphicNum>
-		<ubWeight>16</ubWeight>
+		<ubWeight>20</ubWeight>
 		<ubPerPocket>2</ubPerPocket>
 		<ItemSize>33</ItemSize>
 		<usPrice>1500</usPrice>
@@ -77457,7 +77460,7 @@
 		<ubClassIndex>254</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>596</ubGraphicNum>
-		<ubWeight>23</ubWeight>
+		<ubWeight>30</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
 		<ItemSize>40</ItemSize>
 		<usPrice>2250</usPrice>
@@ -78521,7 +78524,6 @@
 		<ItemSize>18</ItemSize>
 		<usPrice>2000</usPrice>
 		<ubCoolness>8</ubCoolness>
-		<bReliability>1</bReliability>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -79827,7 +79829,6 @@
 		<ItemSize>18</ItemSize>
 		<usPrice>1500</usPrice>
 		<ubCoolness>8</ubCoolness>
-		<bReliability>1</bReliability>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -79864,7 +79865,6 @@
 		<ItemSize>18</ItemSize>
 		<usPrice>1500</usPrice>
 		<ubCoolness>8</ubCoolness>
-		<bReliability>1</bReliability>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -79901,7 +79901,6 @@
 		<ItemSize>18</ItemSize>
 		<usPrice>1500</usPrice>
 		<ubCoolness>8</ubCoolness>
-		<bReliability>1</bReliability>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -79937,7 +79936,6 @@
 		<ItemSize>12</ItemSize>
 		<usPrice>1500</usPrice>
 		<ubCoolness>5</ubCoolness>
-		<bReliability>1</bReliability>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -79971,7 +79969,6 @@
 		<ItemSize>18</ItemSize>
 		<usPrice>1000</usPrice>
 		<ubCoolness>5</ubCoolness>
-		<bReliability>1</bReliability>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -80093,7 +80090,7 @@
 		<VisionRangeBonus>120</VisionRangeBonus>
 		<PercentTunnelVision>90</PercentTunnelVision>
 		<ScopeMagFactor>12.0</ScopeMagFactor>
-		<ProjectionFactor>3.0</ProjectionFactor>
+		<ProjectionFactor>10.0</ProjectionFactor>
 		<PercentAccuracyModifier>5</PercentAccuracyModifier>
 		<STAND_MODIFIERS>
 			<PercentTargetTrackingSpeed>30</PercentTargetTrackingSpeed>
@@ -80225,7 +80222,6 @@
 		<ItemSize>18</ItemSize>
 		<usPrice>1500</usPrice>
 		<ubCoolness>8</ubCoolness>
-		<bReliability>1</bReliability>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -80261,7 +80257,6 @@
 		<ItemSize>18</ItemSize>
 		<usPrice>1500</usPrice>
 		<ubCoolness>8</ubCoolness>
-		<bReliability>1</bReliability>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -80273,7 +80268,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<MagSizeBonus>-170</MagSizeBonus>
 		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
-		<PercentReloadTimeAPReduction>65</PercentReloadTimeAPReduction>
+		<PercentReloadTimeAPReduction>60</PercentReloadTimeAPReduction>
 		<STAND_MODIFIERS>
 			<PercentHandling>-20</PercentHandling>
 		</STAND_MODIFIERS>
@@ -80296,7 +80291,6 @@
 		<ItemSize>18</ItemSize>
 		<usPrice>1500</usPrice>
 		<ubCoolness>8</ubCoolness>
-		<bReliability>1</bReliability>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -80332,7 +80326,6 @@
 		<ItemSize>18</ItemSize>
 		<usPrice>1500</usPrice>
 		<ubCoolness>8</ubCoolness>
-		<bReliability>1</bReliability>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -80367,7 +80360,6 @@
 		<ItemSize>18</ItemSize>
 		<usPrice>500</usPrice>
 		<ubCoolness>8</ubCoolness>
-		<bReliability>1</bReliability>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -80402,7 +80394,6 @@
 		<ItemSize>18</ItemSize>
 		<usPrice>500</usPrice>
 		<ubCoolness>8</ubCoolness>
-		<bReliability>1</bReliability>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -80439,7 +80430,6 @@
 		<ItemSize>18</ItemSize>
 		<usPrice>500</usPrice>
 		<ubCoolness>8</ubCoolness>
-		<bReliability>1</bReliability>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -80473,9 +80463,8 @@
 		<ubGraphicNum>781</ubGraphicNum>
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>12</ItemSize>
-		<usPrice>1500</usPrice>
+		<usPrice>200</usPrice>
 		<ubCoolness>5</ubCoolness>
-		<bReliability>1</bReliability>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -80486,10 +80475,323 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<MagSizeBonus>14</MagSizeBonus>
-		<PercentReloadTimeAPReduction>-30</PercentReloadTimeAPReduction>
+		<PercentReadyTimeAPReduction>-3</PercentReadyTimeAPReduction>
+		<PercentReloadTimeAPReduction>-15</PercentReloadTimeAPReduction>
 		<STAND_MODIFIERS>
 			<PercentHandling>10</PercentHandling>
 		</STAND_MODIFIERS>
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2660</uiIndex>
+		<szItemName>SF-MAG Adapter</szItemName>
+		<szLongItemName>SureFire Hi-MAG Adapter</szLongItemName>
+		<szItemDesc>This special adapter can be attached to certain STANAG 4179 magazine 5.56mm weapons to allow for the use of the SureFire 100rds Hi-MAGs.</szItemDesc>
+		<szBRName>SureFire Hi-MAG Adapter</szBRName>
+		<szBRDesc>This special adapter can be attached to certain STANAG 4179 magazine 5.56mm weapons to allow for the use of the SureFire 100rds Hi-MAGs.</szBRDesc>
+		<usItemClass>268435456</usItemClass>
+		<nasAttachmentClass>64</nasAttachmentClass>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>161</ubGraphicNum>
+		<ubWeight>1</ubWeight>
+		<ubPerPocket>4</ubPerPocket>
+		<ItemSize>18</ItemSize>
+		<usPrice>1500</usPrice>
+		<ubCoolness>9</ubCoolness>
+		<bRepairEase>-1</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<Attachment>1</Attachment>
+		<BigGunList>1</BigGunList>
+		<BR_NewInventory>2</BR_NewInventory>
+		<Bipod>-5</Bipod>
+		<MagSizeBonus>68</MagSizeBonus>
+		<PercentReloadTimeAPReduction>-15</PercentReloadTimeAPReduction>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS>
+			<PercentBase>-20</PercentBase>
+			<PercentCap>-10</PercentCap>
+		</PRONE_MODIFIERS>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2661</uiIndex>
+		<szItemName>5.56mm SF-MAG</szItemName>
+		<szLongItemName>5.56x45mm SF-MAG</szLongItemName>
+		<szItemDesc>This SureFire 100 rounds high-capacity, 4 stack magazines hold 98 rounds of 5.56 M855 ball.</szItemDesc>
+		<szBRName>5.56x45mm SF-MAG</szBRName>
+		<szBRDesc>This SureFire 100 rounds high-capacity, 4 stack magazines hold 98 rounds of 5.56 M855 ball.</szBRDesc>
+		<usItemClass>1024</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>871</ubClassIndex>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>959</ubGraphicNum>
+		<ubWeight>15</ubWeight>
+		<ubPerPocket>1</ubPerPocket>
+		<ItemSize>38</ItemSize>
+		<usPrice>490</usPrice>
+		<ubCoolness>5</ubCoolness>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<BigGunList>1</BigGunList>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2662</uiIndex>
+		<szItemName>5.56mm SF-MAG T</szItemName>
+		<szLongItemName>5.56x45mm SF-MAG, Tracer</szLongItemName>
+		<szItemDesc>This SureFire 100 rounds high-capacity, 4 stack magazines hold 98 rounds of 5.56 M856 tracer.</szItemDesc>
+		<szBRName>5.56x45mm SF-MAG, Tracer</szBRName>
+		<szBRDesc>This SureFire 100 rounds high-capacity, 4 stack magazines hold 98 rounds of 5.56 M856 tracer.</szBRDesc>
+		<usItemClass>1024</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>872</ubClassIndex>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>960</ubGraphicNum>
+		<ubWeight>15</ubWeight>
+		<ubPerPocket>1</ubPerPocket>
+		<ItemSize>38</ItemSize>
+		<usPrice>588</usPrice>
+		<ubCoolness>7</ubCoolness>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<BigGunList>1</BigGunList>
+		<ToHitBonus>-1</ToHitBonus>
+		<BulletSpeedBonus>-10</BulletSpeedBonus>
+		<BurstToHitBonus>2</BurstToHitBonus>
+		<AutoFireToHitBonus>6</AutoFireToHitBonus>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2663</uiIndex>
+		<szItemName>5.56mm SF-MAG M</szItemName>
+		<szLongItemName>5.56x45mm SF-MAG, Mk262</szLongItemName>
+		<szItemDesc>This SureFire 100 rounds high-capacity, 4 stack magazines hold 98 rounds of 5.56 Mk262 sniper ammo.</szItemDesc>
+		<szBRName>5.56x45mm SF-MAG, Mk262</szBRName>
+		<szBRDesc>This SureFire 100 rounds high-capacity, 4 stack magazines hold 98 rounds of 5.56 Mk262 sniper ammo.</szBRDesc>
+		<usItemClass>1024</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>873</ubClassIndex>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>961</ubGraphicNum>
+		<ubWeight>15</ubWeight>
+		<ubPerPocket>1</ubPerPocket>
+		<ItemSize>38</ItemSize>
+		<usPrice>1960</usPrice>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<BigGunList>1</BigGunList>
+		<RangeBonus>20</RangeBonus>
+		<PercentAccuracyModifier>10</PercentAccuracyModifier>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2664</uiIndex>
+		<szItemName>5.56mm SF-MAG SB</szItemName>
+		<szLongItemName>5.56x45mm SF-MAG, SB</szLongItemName>
+		<szItemDesc>This SureFire 100 rounds high-capacity, 4 stack magazines hold 98 rounds of 5.56 subsonic ball.</szItemDesc>
+		<szBRName>5.56x45mm SF-MAG, SB</szBRName>
+		<szBRDesc>This SureFire 100 rounds high-capacity, 4 stack magazines hold 98 rounds of 5.56 subsonic ball.</szBRDesc>
+		<usItemClass>1024</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>874</ubClassIndex>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>962</ubGraphicNum>
+		<ubWeight>15</ubWeight>
+		<ubPerPocket>1</ubPerPocket>
+		<ItemSize>38</ItemSize>
+		<usPrice>490</usPrice>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<BigGunList>1</BigGunList>
+		<PercentNoiseReduction>45</PercentNoiseReduction>
+		<RangeBonus>-20</RangeBonus>
+		<PercentRecoilModifier>-20</PercentRecoilModifier>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2665</uiIndex>
+		<szItemName>5.56mm SF-MAG HP</szItemName>
+		<szLongItemName>5.56x45mm SF-MAG, HP</szLongItemName>
+		<szItemDesc>This SureFire 100 rounds high-capacity, 4 stack magazines hold 98 rounds of 5.56 Remington hollow point ammo.</szItemDesc>
+		<szBRName>5.56x45mm SF-MAG, HP</szBRName>
+		<szBRDesc>This SureFire 100 rounds high-capacity, 4 stack magazines hold 98 rounds of 5.56 Remington hollow point ammo.</szBRDesc>
+		<usItemClass>1024</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>875</ubClassIndex>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>963</ubGraphicNum>
+		<ubWeight>15</ubWeight>
+		<ubPerPocket>1</ubPerPocket>
+		<ItemSize>38</ItemSize>
+		<usPrice>588</usPrice>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<BigGunList>1</BigGunList>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2666</uiIndex>
+		<szItemName>5.56mm SF-MAG AP</szItemName>
+		<szLongItemName>5.56x45mm SF-MAG, AP</szLongItemName>
+		<szItemDesc>This SureFire 100 rounds high-capacity, 4 stack magazines hold 98 rounds of 5.56 M995 Armor Piercing cartridge.</szItemDesc>
+		<szBRName>5.56x45mm SF-MAG, AP</szBRName>
+		<szBRDesc>This SureFire 100 rounds high-capacity, 4 stack magazines hold 98 rounds of 5.56 M995 Armor Piercing cartridge.</szBRDesc>
+		<usItemClass>1024</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>876</ubClassIndex>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>964</ubGraphicNum>
+		<ubWeight>15</ubWeight>
+		<ubPerPocket>1</ubPerPocket>
+		<ItemSize>38</ItemSize>
+		<usPrice>1470</usPrice>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<BigGunList>1</BigGunList>
+		<RangeBonus>10</RangeBonus>
+		<ToHitBonus>-3</ToHitBonus>
+		<BulletSpeedBonus>10</BulletSpeedBonus>
+		<PercentAccuracyModifier>-3</PercentAccuracyModifier>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2667</uiIndex>
+		<szItemName>5.56mm SF-MAG SOST</szItemName>
+		<szLongItemName>5.56x45mm SF-MAG, SOST</szLongItemName>
+		<szItemDesc>This SureFire 100 rounds high-capacity, 4 stack magazines hold 98 rounds of 5.56mm Mk318 MOD 0 Special Operations Science and Technology cartridges.</szItemDesc>
+		<szBRName>5.56x45mm SF-Mag SOST</szBRName>
+		<szBRDesc>This SureFire 100 rounds high-capacity, 4 stack magazines hold 98 rounds of 5.56mm Mk318 MOD 0 Special Operations Science and Technology cartridges.</szBRDesc>
+		<usItemClass>1024</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>877</ubClassIndex>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>965</ubGraphicNum>
+		<ubWeight>15</ubWeight>
+		<ubPerPocket>1</ubPerPocket>
+		<ItemSize>38</ItemSize>
+		<usPrice>1470</usPrice>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<BigGunList>1</BigGunList>
+		<ToHitBonus>5</ToHitBonus>
+		<PercentAccuracyModifier>10</PercentAccuracyModifier>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2668</uiIndex>
+		<szItemName>SF-MAG Pouch</szItemName>
+		<szLongItemName>MOLLE SF-MAG Pouch</szLongItemName>
+		<szItemDesc>A SureFire Hi-Mag Pocket for MOLLE/PALS in camo. It can carry one SureFire 4-stack 100-rounds high-capacity magazines.</szItemDesc>
+		<szBRName>MOLLE SF-MAG Pouch</szBRName>
+		<szBRDesc>A SureFire Hi-Mag Pocket for MOLLE/PALS in camo. It can carry one SureFire 4-stack 100-rounds high-capacity magazines.</szBRDesc>
+		<usItemClass>131072</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>167</ubClassIndex>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>673</ubGraphicNum>
+		<ubWeight>1</ubWeight>
+		<ItemSize>32</ItemSize>
+		<usPrice>40</usPrice>
+		<ubCoolness>8</ubCoolness>
+		<bRepairEase>1</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<ShowStatus>1</ShowStatus>
+		<BR_NewInventory>2</BR_NewInventory>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2669</uiIndex>
+		<szItemName>SF-MAG Pouch</szItemName>
+		<szLongItemName>SureFire Hi-MAG Leg Pouch</szLongItemName>
+		<szItemDesc>A large leg pouch that can carry three SureFire 4-stack 100-rounds high-capacity magazines.</szItemDesc>
+		<szBRName>SureFire Hi-MAG Leg Pouch</szBRName>
+		<szBRDesc>A large leg pouch that can carry three SureFire 4-stack 100-rounds high-capacity magazines.</szBRDesc>
+		<usItemClass>131072</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>168</ubClassIndex>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>674</ubGraphicNum>
+		<ubWeight>5</ubWeight>
+		<ItemSize>31</ItemSize>
+		<usPrice>120</usPrice>
+		<ubCoolness>8</ubCoolness>
+		<bRepairEase>2</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<ShowStatus>1</ShowStatus>
+		<BR_NewInventory>2</BR_NewInventory>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2670</uiIndex>
+		<szItemName>BCS AK Chest Rig</szItemName>
+		<szLongItemName>Beez Combat Systems AK Chest Rig</szLongItemName>
+		<szItemDesc>BCS AK Chest rig can holds 5 AK magazines. MOLLE webbing across the expanse of the rig allows the operator to configure it for mission needs with any molle compatible pouches.</szItemDesc>
+		<szBRName>Beez Combat Systems AK Chest Rig</szBRName>
+		<szBRDesc>BCS AK Chest rig can holds 5 AK magazines. MOLLE webbing across the expanse of the rig allows the operator to configure it for mission needs with any molle compatible pouches.</szBRDesc>
+		<usItemClass>131072</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>169</ubClassIndex>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>675</ubGraphicNum>
+		<ubWeight>7</ubWeight>
+		<ItemSize>35</ItemSize>
+		<usPrice>250</usPrice>
+		<ubCoolness>8</ubCoolness>
+		<bRepairEase>2</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2671</uiIndex>
+		<szItemName>BCS SVD Chest Rig</szItemName>
+		<szLongItemName>Beez Combat Systems SVD Chest Rig</szLongItemName>
+		<szItemDesc>BCS SVD chest rig designed to support 10 SVD mags. And two rows of molle PALS allows the operator to configure it for mission needs with any molle compatible pouches.</szItemDesc>
+		<szBRName>Beez Combat Systems SVD Chest Rig</szBRName>
+		<szBRDesc>BCS SVD chest rig designed to support 10 SVD mags. And two rows of molle PALS allows the operator to configure it for mission needs with any molle compatible pouches.</szBRDesc>
+		<usItemClass>131072</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>170</ubClassIndex>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>676</ubGraphicNum>
+		<ubWeight>8</ubWeight>
+		<ItemSize>35</ItemSize>
+		<usPrice>300</usPrice>
+		<ubCoolness>8</ubCoolness>
+		<bRepairEase>2</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>

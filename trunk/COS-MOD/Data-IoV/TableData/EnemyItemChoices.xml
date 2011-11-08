@@ -608,13 +608,13 @@
 	<ENEMYITEMCHOICES>
 		<uiIndex>11</uiIndex>
 		<name>Armour Attachments</name>
-		<ubChoices>6</ubChoices>
+		<ubChoices>5</ubChoices>
 		<bItemNo1>183</bItemNo1>
 		<bItemNo2>837</bItemNo2>
 		<bItemNo3>838</bItemNo3>
-		<bItemNo4>1749</bItemNo4>
-		<bItemNo5>1750</bItemNo5>
-		<bItemNo6>1751</bItemNo6>
+		<bItemNo4>1751</bItemNo4>
+		<bItemNo5>1749</bItemNo5>
+		<bItemNo6>0</bItemNo6>
 		<bItemNo7>0</bItemNo7>
 		<bItemNo8>0</bItemNo8>
 		<bItemNo9>0</bItemNo9>
