@@ -4958,7 +4958,7 @@
 		<szLongItemName>Mk14 MOD1</szLongItemName>
 		<szItemDesc>Mk14 MOD0的改进型，更舒服的EBR护木，更舒服的伸缩式枪托。</szItemDesc>
 		<szBRName>Mk14 MOD1</szBRName>
-		<szBRDesc>不在BR出售</szBRDesc>
+		<szBRDesc>Mk14 MOD0的改进型，更舒服的EBR护木，更舒服的伸缩式枪托。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>620</uiIndex>
@@ -8642,11 +8642,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1080</uiIndex>
-		<szItemName>40mm Gren.P.</szItemName>
-		<szLongItemName>40mm榴弹腿袋</szLongItemName>
-		<szItemDesc>带有4个独立的口袋，可以存放最多四枚40mm榴弹。</szItemDesc>
-		<szBRName>40mm Grenade Panel</szBRName>
-		<szBRDesc>一个四联口袋安装在腿部装具上。长度可调的束带让你可以储存任意长度的40mm榴弹。</szBRDesc>
+		<szItemName>Gren.P.</szItemName>
+		<szLongItemName>手榴弹腿袋</szLongItemName>
+		<szItemDesc>带有4个独立的口袋，可以携带4枚无柄手榴弹。</szItemDesc>
+		<szBRName>Grenade Panel</szBRName>
+		<szBRDesc>一个四联口袋安装在腿部装具上。可以携带4枚无柄手榴弹。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1081</uiIndex>
@@ -9058,19 +9058,19 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1132</uiIndex>
-		<szItemName>FN IAR</szItemName>
-		<szLongItemName>FN IAR</szLongItemName>
-		<szItemDesc>FN IAR是由SCAR-L改进而成的班用轻机枪，采用16英寸重型枪管，全自动时开膛待击。</szItemDesc>
-		<szBRName>FN IAR</szBRName>
-		<szBRDesc>不在BR出售</szBRDesc>
+		<szItemName>FN HAMR</szItemName>
+		<szLongItemName>FN HAMR</szLongItemName>
+		<szItemDesc>FN HAMR是由SCAR-L改进而成的班用轻机枪，采用16英寸重型枪管，全自动时开膛待击。</szItemDesc>
+		<szBRName>FN HAMR</szBRName>
+		<szBRDesc>FN HAMR是由SCAR-L改进而成的班用轻机枪，采用16英寸重型枪管，全自动时开膛待击。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1133</uiIndex>
-		<szItemName>Mk17 SSR</szItemName>
-		<szLongItemName>Mk17 SSR</szLongItemName>
-		<szItemDesc>Mk17 SSR是基于Mk17 LB型研制的狙击步枪，性能全面超越Mk14和Mk11，是海豹下一代狙击步枪。</szItemDesc>
-		<szBRName>Mk17 SSR</szBRName>
-		<szBRDesc>不在BR出售</szBRDesc>
+		<szItemName>Mk20 SSR</szItemName>
+		<szLongItemName>Mk20 SSR</szLongItemName>
+		<szItemDesc>Mk20 SSR是基于Mk17 LB型研制的狙击步枪，性能全面超越Mk14和Mk11，是海豹下一代狙击步枪。</szItemDesc>
+		<szBRName>Mk20 SSR</szBRName>
+		<szBRDesc>Mk20 SSR是基于Mk17 LB型研制的狙击步枪，性能全面超越Mk14和Mk11，是海豹下一代狙击步枪。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1134</uiIndex>
@@ -21271,5 +21271,109 @@
 		<szItemDesc>这种特殊的适配器可以安装在那些使用20发弹匣的9x39mm武器上，使它们可以使用30发长弹匣。</szItemDesc>
 		<szBRName>9x39mm Hi-MAG Adapter</szBRName>
 		<szBRDesc>这种特殊的适配器可以安装在那些使用20发弹匣的9x39mm武器上，使它们可以使用30发长弹匣。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2659</uiIndex>
+		<szItemName>Glock +Floorplate</szItemName>
+		<szLongItemName>格洛克手枪弹匣底座</szLongItemName>
+		<szItemDesc>这个加长底座可以让格洛克使用使用超长的32发弹匣。</szItemDesc>
+		<szBRName>Glock +Floorplate</szBRName>
+		<szBRDesc>这个加长底座可以让格洛克使用使用超长的32发弹匣。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2660</uiIndex>
+		<szItemName>SF-MAG Adapter</szItemName>
+		<szLongItemName>SureFire四排弹匣适配器</szLongItemName>
+		<szItemDesc>这种特殊的适配器可以安装在那些使用4179标准弹匣的5.56x45mm武器上，使它们可以使用SureFIre公司的100发四排超长弹匣。</szItemDesc>
+		<szBRName>SureFire Hi-MAG Adapter</szBRName>
+		<szBRDesc>这种特殊的适配器可以安装在那些使用4179标准弹匣的5.56x45mm武器上，使它们可以使用SureFIre公司的100发四排超长弹匣。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2661</uiIndex>
+		<szItemName>5.56mm SF-MAG</szItemName>
+		<szLongItemName>5.56x45mm四排弹匣</szLongItemName>
+		<szItemDesc>这个SureFire四排100发弹匣装有98发5.56 M855普通弹。</szItemDesc>
+		<szBRName>5.56x45mm SF-MAG</szBRName>
+		<szBRDesc>这个SureFire四排100发弹匣装有98发5.56 M855普通弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2662</uiIndex>
+		<szItemName>5.56mm SF-MAG T</szItemName>
+		<szLongItemName>5.56x45mm四排弹匣, 曳光弹</szLongItemName>
+		<szItemDesc>这个SureFire四排100发弹匣装有98发5.56 M856曳光弹。</szItemDesc>
+		<szBRName>5.56x45mm SF-MAG, Tracer</szBRName>
+		<szBRDesc>这个SureFire四排100发弹匣装有98发5.56 M856曳光弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2663</uiIndex>
+		<szItemName>5.56mm SF-MAG M</szItemName>
+		<szLongItemName>5.56x45mm四排弹匣, Mk262</szLongItemName>
+		<szItemDesc>这个SureFire四排100发弹匣装有98发5.56 Mk262狙击弹。</szItemDesc>
+		<szBRName>5.56x45mm SF-MAG, Mk262</szBRName>
+		<szBRDesc>这个SureFire四排100发弹匣装有98发5.56 Mk262狙击弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2664</uiIndex>
+		<szItemName>5.56mm SF-MAG SB</szItemName>
+		<szLongItemName>5.56x45mm四排弹匣, 亚音速弹</szLongItemName>
+		<szItemDesc>这个SureFire四排100发弹匣装有98发5.56亚音速弹。</szItemDesc>
+		<szBRName>5.56x45mm SF-MAG, SB</szBRName>
+		<szBRDesc>这个SureFire四排100发弹匣装有98发5.56亚音速弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2665</uiIndex>
+		<szItemName>5.56mm SF-MAG HP</szItemName>
+		<szLongItemName>5.56x45mm四排弹匣, 空尖弹</szLongItemName>
+		<szItemDesc>这个SureFire四排100发弹匣装有98发5.56空尖弹。</szItemDesc>
+		<szBRName>5.56x45mm SF-MAG, HP</szBRName>
+		<szBRDesc>这个SureFire四排100发弹匣装有98发5.56空尖弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2666</uiIndex>
+		<szItemName>5.56mm SF-MAG AP</szItemName>
+		<szLongItemName>5.56x45mm四排弹匣, 穿甲弹</szLongItemName>
+		<szItemDesc>这个SureFire四排100发弹匣装有98发5.56 M995高速穿甲弹。</szItemDesc>
+		<szBRName>5.56x45mm SF-MAG, AP</szBRName>
+		<szBRDesc>这个SureFire四排100发弹匣装有98发5.56 M995高速穿甲弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2667</uiIndex>
+		<szItemName>5.56mm SF-MAG SOST</szItemName>
+		<szLongItemName>5.56x45mm四排弹匣, 特种近程弹</szLongItemName>
+		<szItemDesc>这个SureFire四排100发弹匣装有98发5.56 Mk318 MOD0特种近程弹。</szItemDesc>
+		<szBRName>5.56x45mm SF-Mag SOST</szBRName>
+		<szBRDesc>这个SureFire四排100发弹匣装有98发5.56 Mk318 MOD0特种近程弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2668</uiIndex>
+		<szItemName>SF-MAG Pocket</szItemName>
+		<szLongItemName>MOLLE四排SF弹匣包</szLongItemName>
+		<szItemDesc>这个SureFire四排弹匣包可以挂在MOLLE织带上使用。</szItemDesc>
+		<szBRName>MOLLE SureFire Hi-MAG Pocket</szBRName>
+		<szBRDesc>这个SureFire四排弹匣包可以挂在MOLLE织带上使用。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2669</uiIndex>
+		<szItemName>SF-MAG Pouch</szItemName>
+		<szLongItemName>SureFire四排弹匣包腿袋</szLongItemName>
+		<szItemDesc>这个三联装弹匣腿袋专门用于携带SureFire的四排大容量长弹匣。</szItemDesc>
+		<szBRName>SureFire Hi-MAG Leg Pouch</szBRName>
+		<szBRDesc>这个三联装弹匣腿袋专门用于携带SureFire的四排大容量长弹匣。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2670</uiIndex>
+		<szItemName>BCS AK Chest Rig</szItemName>
+		<szLongItemName>Beez Combat Systems AK弹匣胸挂</szLongItemName>
+		<szItemDesc>这个BCS公司的AK弹匣胸挂有5个内置AK弹匣包，外表还有MOLLE织带可根据你的需要挂上其他类型的包具。</szItemDesc>
+		<szBRName>Beez Combat Systems AK Chest Rig</szBRName>
+		<szBRDesc>这个BCS公司的AK弹匣胸挂有5个内置AK弹匣包，外表还有MOLLE织带可根据你的需要挂上其他类型的包具。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2671</uiIndex>
+		<szItemName>BCS SVD Chest Rig</szItemName>
+		<szLongItemName>Beez Combat Systems SVD弹匣胸挂</szLongItemName>
+		<szItemDesc>这个BCS公司的SVD弹匣胸挂不但可以携带10个SVD弹匣，还有一段MOLLE织带可根据你的需要挂上其他类型的包具。</szItemDesc>
+		<szBRName>Beez Combat Systems SVD Chest Rig</szBRName>
+		<szBRDesc>这个BCS公司的SVD弹匣胸挂不但可以携带10个SVD弹匣，还有一段MOLLE织带可根据你的需要挂上其他类型的包具。</szBRDesc>
 	</ITEM>
 </ITEMLIST>

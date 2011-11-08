@@ -333,7 +333,7 @@
 	<ENEMYGUNCHOICES>
 		<uiIndex>6</uiIndex> <!-- 冲锋枪、霰弹枪、突击步枪、狙击步枪 -->
 		<name>60%</name>
-		<ubChoices>45</ubChoices>
+		<ubChoices>44</ubChoices>
 		<bItemNo1>337</bItemNo1>
 		<bItemNo2>671</bItemNo2>
 		<bItemNo3>672</bItemNo3>
@@ -360,7 +360,7 @@
 		<bItemNo24>627</bItemNo24>
 		<bItemNo25>784</bItemNo25>
 		<bItemNo26>785</bItemNo26>
-		<bItemNo27>940</bItemNo27>
+		<bItemNo27>2481</bItemNo27>
 		<bItemNo28>1061</bItemNo28>
 		<bItemNo29>1109</bItemNo29>
 		<bItemNo30>1147</bItemNo30>
@@ -378,7 +378,7 @@
 		<bItemNo42>1344</bItemNo42>
 		<bItemNo43>1351</bItemNo43>
 		<bItemNo44>2468</bItemNo44>
-		<bItemNo45>2481</bItemNo45>
+		<bItemNo45>0</bItemNo45>
 		<bItemNo46>0</bItemNo46>
 		<bItemNo47>0</bItemNo47>
 		<bItemNo48>0</bItemNo48>

@@ -1,0 +1,42 @@
+IoV 922 Feature
+
+1）白天和夜晚的视距比例为3/1，而原版为2/1。就是说白天裸眼能看到30格左右，夜晚裸眼能看到10格左右。
+Sight ranger of day / night from 2/1 change to 3/1. In other word you can see 30 grid at day, but at night just 10 grid.
+
+2）射程加成的算法由原版的“实数相加”改为“比例相乘”。比如原版<RangeBonus>为70，表示在原来射程上加70米。而IoV的<RangeBonus>为20，则表示为在原来的射程上增加20％。
+The <RangeBonus> change to ratable. For example, "<RangeBonus>20" meet is 120%.
+
+3）ITEMSIZE从原来的0～34扩大到0～54种。这是为了细分多种大小和形状的弹匣、手榴弹、瞄准镜，具体表现在多种LBE口袋上的需要。
+New ITEMSIZE confine is 0~54. For more shape and size magazine and frag and other item.
+
+4）新的故障率计算公式，完好状态的武器也有一定的机率会卡壳。比如一把100%的M16发生卡壳的机会和一把60％的AK相当。但即使是100%的AK，仍然也0.4％的机会会发生卡壳。故障率级别要在EDB面板上显示的话，需要在游戏中打开NCTH选项才行。
+其实还有需要改进的地方，连发射击时的卡壳只发生在射击前，而不是射击中途。比如要打出10发，但出了3发就卡住，或要打出6发，但出到第5发才卡住。不过这个是原版就已经有的问题，目前我们还没有得力的程序员去改进这一项。
+New malfunction type. Example a new M16 jam same a Damage 60% AK. But a 100% AK have 0.4% jam chance.
+But we are want getting better this programmer, jaw just only before auto shooting. Because only check for a jam on the first bullet. We hope check for a jam in each one bullet.
+
+5）携具里加上防弹插板能挡子弹。我的那些人现在穿CIRAS背心的都不穿防弹衣了，只插两块SAPI板子就上场打仗了。
+It can plates for the LED bulletproof. Like CRIAS, MBSS, HSGI WASATCH.......
+
+
+--------------------------------
+
+For Chinese fans
+
+设置中文版方法：
+
+1. 把 TBS 1.13 lang zh_CN（原名 TBS Chinese(GB) patch）补丁文件覆盖到游戏目录
+svn地址 1 https://81.169.133.124/source/ja2/trunk/GameData/Chinese_Version
+svn地址 2 https://tbs-chinese-gb-patch.googlecode.com/svn/trunk
+
+2. 然后把打开 ja2.ini，在
+VFS_CONFIG_INI = vfs_config.IoV.ini
+前面加个英文分号 ;
+
+3. 再把
+; VFS_CONFIG_INI = vfs_config.IoV_CN.ini
+前面的分号去掉，保存退出。
+
+4. 运行 ja2_IoV_cn.exe 进行游戏。
+
+
+
