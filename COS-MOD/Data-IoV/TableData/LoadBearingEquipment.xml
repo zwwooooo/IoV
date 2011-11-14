@@ -275,16 +275,16 @@
 		<lbeClass>2</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>46</lbeFilledSize>
-		<lbePocketIndex1>16</lbePocketIndex1>
-		<lbePocketIndex2>17</lbePocketIndex2>
-		<lbePocketIndex3>17</lbePocketIndex3>
-		<lbePocketIndex4>18</lbePocketIndex4>
-		<lbePocketIndex5>18</lbePocketIndex5>
-		<lbePocketIndex6>0</lbePocketIndex6>
-		<lbePocketIndex7>0</lbePocketIndex7>
-		<lbePocketIndex8>0</lbePocketIndex8>
-		<lbePocketIndex9>0</lbePocketIndex9>
-		<lbePocketIndex10>0</lbePocketIndex10>
+		<lbePocketIndex1>29</lbePocketIndex1>
+		<lbePocketIndex2>29</lbePocketIndex2>
+		<lbePocketIndex3>18</lbePocketIndex3>
+		<lbePocketIndex4>65</lbePocketIndex4>
+		<lbePocketIndex5>17</lbePocketIndex5>
+		<lbePocketIndex6>29</lbePocketIndex6>
+		<lbePocketIndex7>29</lbePocketIndex7>
+		<lbePocketIndex8>18</lbePocketIndex8>
+		<lbePocketIndex9>65</lbePocketIndex9>
+		<lbePocketIndex10>17</lbePocketIndex10>
 		<lbePocketIndex11>22</lbePocketIndex11>
 		<lbePocketIndex12>22</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
@@ -3077,5 +3077,239 @@
 		<lbePocketIndex10>32</lbePocketIndex10>
 		<lbePocketIndex11>58</lbePocketIndex11>
 		<lbePocketIndex12>52</lbePocketIndex12>
+	</LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>
+		<lbeIndex>171</lbeIndex> <!-- 40mm Grenade Carry Vest -->
+		<lbeClass>2</lbeClass>
+		<lbeCombo>0</lbeCombo>
+		<lbeFilledSize>46</lbeFilledSize>
+		<lbePocketIndex1>38</lbePocketIndex1>
+		<lbePocketIndex2>38</lbePocketIndex2>
+		<lbePocketIndex3>38</lbePocketIndex3>
+		<lbePocketIndex4>38</lbePocketIndex4>
+		<lbePocketIndex5>0</lbePocketIndex5>
+		<lbePocketIndex6>38</lbePocketIndex6>
+		<lbePocketIndex7>38</lbePocketIndex7>
+		<lbePocketIndex8>38</lbePocketIndex8>
+		<lbePocketIndex9>38</lbePocketIndex9>
+		<lbePocketIndex10>0</lbePocketIndex10>
+		<lbePocketIndex11>0</lbePocketIndex11>
+		<lbePocketIndex12>0</lbePocketIndex12>
+	</LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>
+		<lbeIndex>172</lbeIndex> <!-- 6B43 -->
+		<lbeClass>2</lbeClass>
+		<lbeCombo>0</lbeCombo>
+		<lbeFilledSize>46</lbeFilledSize>
+		<lbePocketIndex1>51</lbePocketIndex1>
+		<lbePocketIndex2>51</lbePocketIndex2>
+		<lbePocketIndex3>51</lbePocketIndex3>
+		<lbePocketIndex4>51</lbePocketIndex4>
+		<lbePocketIndex5>51</lbePocketIndex5>
+		<lbePocketIndex6>51</lbePocketIndex6>
+		<lbePocketIndex7>51</lbePocketIndex7>
+		<lbePocketIndex8>51</lbePocketIndex8>
+		<lbePocketIndex9>51</lbePocketIndex9>
+		<lbePocketIndex10>51</lbePocketIndex10>
+		<lbePocketIndex11>52</lbePocketIndex11>
+		<lbePocketIndex12>52</lbePocketIndex12>
+	</LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>
+		<lbeIndex>173</lbeIndex> <!-- UMTBS Vest -->
+		<lbeClass>2</lbeClass>
+		<lbeCombo>0</lbeCombo>
+		<lbeFilledSize>46</lbeFilledSize>
+		<lbePocketIndex1>51</lbePocketIndex1>
+		<lbePocketIndex2>51</lbePocketIndex2>
+		<lbePocketIndex3>51</lbePocketIndex3>
+		<lbePocketIndex4>51</lbePocketIndex4>
+		<lbePocketIndex5>51</lbePocketIndex5>
+		<lbePocketIndex6>51</lbePocketIndex6>
+		<lbePocketIndex7>51</lbePocketIndex7>
+		<lbePocketIndex8>51</lbePocketIndex8>
+		<lbePocketIndex9>51</lbePocketIndex9>
+		<lbePocketIndex10>51</lbePocketIndex10>
+		<lbePocketIndex11>52</lbePocketIndex11>
+		<lbePocketIndex12>52</lbePocketIndex12>
+	</LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>
+		<lbeIndex>174</lbeIndex> <!-- Russian MOLLE AK Mag Pouch -->
+		<lbeClass>1</lbeClass>
+		<lbeCombo>0</lbeCombo>
+		<lbeFilledSize>33</lbeFilledSize>
+		<lbePocketIndex1>31</lbePocketIndex1>
+		<lbePocketIndex2>31</lbePocketIndex2>
+		<lbePocketIndex3>65</lbePocketIndex3>
+		<lbePocketIndex4>0</lbePocketIndex4>
+		<lbePocketIndex5>0</lbePocketIndex5>
+		<lbePocketIndex6>0</lbePocketIndex6>
+		<lbePocketIndex7>0</lbePocketIndex7>
+		<lbePocketIndex8>0</lbePocketIndex8>
+		<lbePocketIndex9>0</lbePocketIndex9>
+		<lbePocketIndex10>0</lbePocketIndex10>
+		<lbePocketIndex11>0</lbePocketIndex11>
+		<lbePocketIndex12>0</lbePocketIndex12>
+	</LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>
+		<lbeIndex>175</lbeIndex> <!-- Russian MOLLE RPK Mag Pouch -->
+		<lbeClass>1</lbeClass>
+		<lbeCombo>0</lbeCombo>
+		<lbeFilledSize>33</lbeFilledSize>
+		<lbePocketIndex1>9</lbePocketIndex1>
+		<lbePocketIndex2>9</lbePocketIndex2>
+		<lbePocketIndex3>65</lbePocketIndex3>
+		<lbePocketIndex4>0</lbePocketIndex4>
+		<lbePocketIndex5>0</lbePocketIndex5>
+		<lbePocketIndex6>0</lbePocketIndex6>
+		<lbePocketIndex7>0</lbePocketIndex7>
+		<lbePocketIndex8>0</lbePocketIndex8>
+		<lbePocketIndex9>0</lbePocketIndex9>
+		<lbePocketIndex10>0</lbePocketIndex10>
+		<lbePocketIndex11>0</lbePocketIndex11>
+		<lbePocketIndex12>0</lbePocketIndex12>
+	</LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>
+		<lbeIndex>176</lbeIndex> <!-- Russian MOLLE PKM Mag Pouch -->
+		<lbeClass>1</lbeClass>
+		<lbeCombo>0</lbeCombo>
+		<lbeFilledSize>40</lbeFilledSize>
+		<lbePocketIndex1>0</lbePocketIndex1>
+		<lbePocketIndex2>0</lbePocketIndex2>
+		<lbePocketIndex3>0</lbePocketIndex3>
+		<lbePocketIndex4>0</lbePocketIndex4>
+		<lbePocketIndex5>6</lbePocketIndex5>
+		<lbePocketIndex6>0</lbePocketIndex6>
+		<lbePocketIndex7>0</lbePocketIndex7>
+		<lbePocketIndex8>0</lbePocketIndex8>
+		<lbePocketIndex9>0</lbePocketIndex9>
+		<lbePocketIndex10>0</lbePocketIndex10>
+		<lbePocketIndex11>0</lbePocketIndex11>
+		<lbePocketIndex12>0</lbePocketIndex12>
+	</LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>
+		<lbeIndex>177</lbeIndex> <!-- Russian MOLLE SVD Mag Pouch -->
+		<lbeClass>1</lbeClass>
+		<lbeCombo>0</lbeCombo>
+		<lbeFilledSize>33</lbeFilledSize>
+		<lbePocketIndex1>32</lbePocketIndex1>
+		<lbePocketIndex2>32</lbePocketIndex2>
+		<lbePocketIndex3>0</lbePocketIndex3>
+		<lbePocketIndex4>0</lbePocketIndex4>
+		<lbePocketIndex5>0</lbePocketIndex5>
+		<lbePocketIndex6>0</lbePocketIndex6>
+		<lbePocketIndex7>0</lbePocketIndex7>
+		<lbePocketIndex8>0</lbePocketIndex8>
+		<lbePocketIndex9>0</lbePocketIndex9>
+		<lbePocketIndex10>0</lbePocketIndex10>
+		<lbePocketIndex11>0</lbePocketIndex11>
+		<lbePocketIndex12>0</lbePocketIndex12>
+	</LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>
+		<lbeIndex>178</lbeIndex> <!-- Russian MOLLE Pistol Mag Pouch -->
+		<lbeClass>1</lbeClass>
+		<lbeCombo>0</lbeCombo>
+		<lbeFilledSize>33</lbeFilledSize>
+		<lbePocketIndex1>15</lbePocketIndex1>
+		<lbePocketIndex2>15</lbePocketIndex2>
+		<lbePocketIndex3>15</lbePocketIndex3>
+		<lbePocketIndex4>15</lbePocketIndex4>
+		<lbePocketIndex5>0</lbePocketIndex5>
+		<lbePocketIndex6>0</lbePocketIndex6>
+		<lbePocketIndex7>0</lbePocketIndex7>
+		<lbePocketIndex8>0</lbePocketIndex8>
+		<lbePocketIndex9>0</lbePocketIndex9>
+		<lbePocketIndex10>0</lbePocketIndex10>
+		<lbePocketIndex11>0</lbePocketIndex11>
+		<lbePocketIndex12>0</lbePocketIndex12>
+	</LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>
+		<lbeIndex>179</lbeIndex> <!-- Russian MOLLE VOG Pouch -->
+		<lbeClass>1</lbeClass>
+		<lbeCombo>0</lbeCombo>
+		<lbeFilledSize>33</lbeFilledSize>
+		<lbePocketIndex1>13</lbePocketIndex1>
+		<lbePocketIndex2>13</lbePocketIndex2>
+		<lbePocketIndex3>13</lbePocketIndex3>
+		<lbePocketIndex4>13</lbePocketIndex4>
+		<lbePocketIndex5>13</lbePocketIndex5>
+		<lbePocketIndex6>0</lbePocketIndex6>
+		<lbePocketIndex7>0</lbePocketIndex7>
+		<lbePocketIndex8>0</lbePocketIndex8>
+		<lbePocketIndex9>0</lbePocketIndex9>
+		<lbePocketIndex10>0</lbePocketIndex10>
+		<lbePocketIndex11>0</lbePocketIndex11>
+		<lbePocketIndex12>0</lbePocketIndex12>
+	</LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>
+		<lbeIndex>180</lbeIndex> <!-- Russian MOLLE Frag Pouch -->
+		<lbeClass>1</lbeClass>
+		<lbeCombo>0</lbeCombo>
+		<lbeFilledSize>33</lbeFilledSize>
+		<lbePocketIndex1>14</lbePocketIndex1>
+		<lbePocketIndex2>14</lbePocketIndex2>
+		<lbePocketIndex3>14</lbePocketIndex3>
+		<lbePocketIndex4>14</lbePocketIndex4>
+		<lbePocketIndex5>0</lbePocketIndex5>
+		<lbePocketIndex6>0</lbePocketIndex6>
+		<lbePocketIndex7>0</lbePocketIndex7>
+		<lbePocketIndex8>0</lbePocketIndex8>
+		<lbePocketIndex9>0</lbePocketIndex9>
+		<lbePocketIndex10>0</lbePocketIndex10>
+		<lbePocketIndex11>0</lbePocketIndex11>
+		<lbePocketIndex12>0</lbePocketIndex12>
+	</LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>
+		<lbeIndex>181</lbeIndex> <!-- Russian MOLLE Universal holster -->
+		<lbeClass>1</lbeClass>
+		<lbeCombo>0</lbeCombo>
+		<lbeFilledSize>33</lbeFilledSize>
+		<lbePocketIndex1>0</lbePocketIndex1>
+		<lbePocketIndex2>0</lbePocketIndex2>
+		<lbePocketIndex3>0</lbePocketIndex3>
+		<lbePocketIndex4>0</lbePocketIndex4>
+		<lbePocketIndex5>45</lbePocketIndex5>
+		<lbePocketIndex6>0</lbePocketIndex6>
+		<lbePocketIndex7>0</lbePocketIndex7>
+		<lbePocketIndex8>0</lbePocketIndex8>
+		<lbePocketIndex9>0</lbePocketIndex9>
+		<lbePocketIndex10>0</lbePocketIndex10>
+		<lbePocketIndex11>0</lbePocketIndex11>
+		<lbePocketIndex12>0</lbePocketIndex12>
+	</LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>
+		<lbeIndex>182</lbeIndex> <!-- Russian MOLLE Medic Pouch -->
+		<lbeClass>1</lbeClass>
+		<lbeCombo>0</lbeCombo>
+		<lbeFilledSize>33</lbeFilledSize>
+		<lbePocketIndex1>20</lbePocketIndex1>
+		<lbePocketIndex2>20</lbePocketIndex2>
+		<lbePocketIndex3>21</lbePocketIndex3>
+		<lbePocketIndex4>21</lbePocketIndex4>
+		<lbePocketIndex5>0</lbePocketIndex5>
+		<lbePocketIndex6>0</lbePocketIndex6>
+		<lbePocketIndex7>0</lbePocketIndex7>
+		<lbePocketIndex8>0</lbePocketIndex8>
+		<lbePocketIndex9>0</lbePocketIndex9>
+		<lbePocketIndex10>0</lbePocketIndex10>
+		<lbePocketIndex11>0</lbePocketIndex11>
+		<lbePocketIndex12>0</lbePocketIndex12>
+	</LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>
+		<lbeIndex>183</lbeIndex> <!-- Russian MOLLE Messkit Pouch -->
+		<lbeClass>1</lbeClass>
+		<lbeCombo>0</lbeCombo>
+		<lbeFilledSize>33</lbeFilledSize>
+		<lbePocketIndex1>18</lbePocketIndex1>
+		<lbePocketIndex2>0</lbePocketIndex2>
+		<lbePocketIndex3>16</lbePocketIndex3>
+		<lbePocketIndex4>16</lbePocketIndex4>
+		<lbePocketIndex5>0</lbePocketIndex5>
+		<lbePocketIndex6>0</lbePocketIndex6>
+		<lbePocketIndex7>0</lbePocketIndex7>
+		<lbePocketIndex8>0</lbePocketIndex8>
+		<lbePocketIndex9>0</lbePocketIndex9>
+		<lbePocketIndex10>0</lbePocketIndex10>
+		<lbePocketIndex11>0</lbePocketIndex11>
+		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 </LOADBEARINGEQUIPMENTLIST>

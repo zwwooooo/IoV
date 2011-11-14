@@ -20526,7 +20526,7 @@
 		<uiIndex>1304</uiIndex>
 		<szWeaponName>Crossbow</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
-		<ubWeaponType>5</ubWeaponType>
+		<ubWeaponType>4</ubWeaponType>
 		<ubCalibre>62</ubCalibre>
 		<ubReadyTime>9</ubReadyTime>
 		<ubShotsPer4Turns>11.25</ubShotsPer4Turns>
@@ -21694,7 +21694,7 @@
 		<ubWeaponClass>5</ubWeaponClass>
 		<ubWeaponType>8</ubWeaponType>
 		<ubCalibre>75</ubCalibre>
-		<ubReadyTime>13</ubReadyTime>
+		<ubReadyTime>11</ubReadyTime>
 		<ubShotsPer4Turns>15.65</ubShotsPer4Turns>
 		<ubBulletSpeed>22</ubBulletSpeed>
 		<ubImpact>60</ubImpact>
@@ -21720,7 +21720,7 @@
 		<ManualReloadSound>481</ManualReloadSound>
 		<nAccuracy>23</nAccuracy>
 		<ubAimLevels>3</ubAimLevels>
-		<Handling>13</Handling>
+		<Handling>11</Handling>
 		<MalfunctionRate>200</MalfunctionRate>
 		<EasyUnjam>1</EasyUnjam>
 	</WEAPON>
@@ -32298,5 +32298,77 @@
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
 		<ManualReloadSound>476</ManualReloadSound>
 		<Handling>16</Handling>
+	</WEAPON>
+	<WEAPON>
+		<uiIndex>2692</uiIndex>
+		<szWeaponName>KS-23</szWeaponName>
+		<ubWeaponClass>5</ubWeaponClass>
+		<ubWeaponType>8</ubWeaponType>
+		<ubCalibre>75</ubCalibre>
+		<ubReadyTime>13</ubReadyTime>
+		<ubShotsPer4Turns>15.65</ubShotsPer4Turns>
+		<ubBulletSpeed>22</ubBulletSpeed>
+		<ubImpact>60</ubImpact>
+		<ubDeadliness>28</ubDeadliness>
+		<bAccuracy>4</bAccuracy>
+		<ubMagSize>4</ubMagSize>
+		<usRange>190</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>100</BurstAniDelay>
+		<ubAttackVolume>85</ubAttackVolume>
+		<ubHitVolume>8</ubHitVolume>
+		<sSound>435</sSound>
+		<sBurstSound>3</sBurstSound>
+		<sSilencedBurstSound>111</sSilencedBurstSound>
+		<sReloadSound>103</sReloadSound>
+		<sLocknLoadSound>109</sLocknLoadSound>
+		<SilencedSound>516</SilencedSound>
+		<bBurstAP>20</bBurstAP>
+		<APsToReload>38</APsToReload>
+		<SwapClips>1</SwapClips>
+		<MaxDistForMessyDeath>17</MaxDistForMessyDeath>
+		<APsToReloadManually>11</APsToReloadManually>
+		<ManualReloadSound>481</ManualReloadSound>
+		<nAccuracy>29</nAccuracy>
+		<ubAimLevels>3</ubAimLevels>
+		<Handling>13</Handling>
+		<MalfunctionRate>220</MalfunctionRate>
+		<EasyUnjam>1</EasyUnjam>
+	</WEAPON>
+	<WEAPON>
+		<uiIndex>2693</uiIndex>
+		<szWeaponName>KS-23M</szWeaponName>
+		<ubWeaponClass>5</ubWeaponClass>
+		<ubWeaponType>8</ubWeaponType>
+		<ubCalibre>75</ubCalibre>
+		<ubReadyTime>9</ubReadyTime>
+		<ubShotsPer4Turns>15.65</ubShotsPer4Turns>
+		<ubBulletSpeed>22</ubBulletSpeed>
+		<ubImpact>60</ubImpact>
+		<ubDeadliness>28</ubDeadliness>
+		<bAccuracy>3</bAccuracy>
+		<ubMagSize>4</ubMagSize>
+		<usRange>130</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>100</BurstAniDelay>
+		<ubAttackVolume>85</ubAttackVolume>
+		<ubHitVolume>8</ubHitVolume>
+		<sSound>435</sSound>
+		<sBurstSound>3</sBurstSound>
+		<sSilencedBurstSound>111</sSilencedBurstSound>
+		<sReloadSound>103</sReloadSound>
+		<sLocknLoadSound>109</sLocknLoadSound>
+		<SilencedSound>516</SilencedSound>
+		<bBurstAP>20</bBurstAP>
+		<APsToReload>38</APsToReload>
+		<SwapClips>1</SwapClips>
+		<MaxDistForMessyDeath>17</MaxDistForMessyDeath>
+		<APsToReloadManually>11</APsToReloadManually>
+		<ManualReloadSound>481</ManualReloadSound>
+		<nAccuracy>20</nAccuracy>
+		<ubAimLevels>2</ubAimLevels>
+		<Handling>9</Handling>
+		<MalfunctionRate>220</MalfunctionRate>
+		<EasyUnjam>1</EasyUnjam>
 	</WEAPON>
 </WEAPONLIST>
