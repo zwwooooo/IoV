@@ -6330,11 +6330,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>791</uiIndex>
-		<szItemName>C8A1 Fully Armed</szItemName>
-		<szLongItemName>迪玛科C8A1全附件</szLongItemName>
-		<szItemDesc>柯尔特加拿大（ Diemaco ）C8A1平顶机匣步枪配备了EAGLE LV榴弹发射器。并附加AN/PEQ-2和Eotech 552瞄准镜。</szItemDesc>
-		<szBRName>C8A1 Fully Armed</szBRName>
-		<szBRDesc>柯尔特加拿大（ Diemaco ）C8A1平顶机匣步枪配备了EAGLE LV榴弹发射器。并附加AN/PEQ-2和Eotech 552瞄准镜。</szBRDesc>
+		<szItemName>C8A1/EAGLE</szItemName>
+		<szLongItemName>迪玛科C8A1/EAGLE组合</szLongItemName>
+		<szItemDesc>柯尔特加拿大（ Diemaco ）C8A1平顶机匣步枪配备了EAGLE LV榴弹发射器和Eotech 552瞄准镜。</szItemDesc>
+		<szBRName>Diemaco C8A1/EAGLE LV Combo</szBRName>
+		<szBRDesc>柯尔特加拿大（ Diemaco ）C8A1平顶机匣步枪配备了EAGLE LV榴弹发射器和Eotech 552瞄准镜。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>792</uiIndex>
@@ -6642,59 +6642,59 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>830</uiIndex>
-		<szItemName>C. EOD Vest</szItemName>
-		<szLongItemName>虫胶EOD外套</szLongItemName>
-		<szItemDesc>0</szItemDesc>
-		<szBRName>Coated EOD Vest</szBRName>
-		<szBRDesc>不在BR出售</szBRDesc>
+		<szItemName>STRIKE Plate Carrier</szItemName>
+		<szLongItemName>BHI STRIKE Rapid Plate Carrier</szLongItemName>
+		<szItemDesc>黑鹰公司的STRIKE防弹插板护胸套，这仅仅是一个可以挂在胸前的方形袋子，可以装入防弹插板，提供简易轻便的防护功能。</szItemDesc>
+		<szBRName>BHI STRIKE Rapid Plate Carrier</szBRName>
+		<szBRDesc>黑鹰公司的STRIKE防弹插板护胸套，这仅仅是一个可以挂在胸前的方形袋子，可以装入防弹插板，提供简易轻便的防护功能。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>831</uiIndex>
-		<szItemName>C. SWAT Helmet</szItemName>
-		<szLongItemName>虫胶SWAT头盔</szLongItemName>
-		<szItemDesc>0</szItemDesc>
-		<szBRName>Coated SWAT Helmet</szBRName>
-		<szBRDesc>不在BR出售</szBRDesc>
+		<szItemName>German Fleck</szItemName>
+		<szLongItemName>德军防弹背心</szLongItemName>
+		<szItemDesc>外表有丛林迷彩的德军凯夫拉防弹背心。</szItemDesc>
+		<szBRName>German Fleck Body Armour</szBRName>
+		<szBRDesc>外表有丛林迷彩的德军凯夫拉防弹背心。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>832</uiIndex>
-		<szItemName>C. SWAT Pants</szItemName>
-		<szLongItemName>虫胶SWAT防弹裤</szLongItemName>
-		<szItemDesc>0</szItemDesc>
-		<szBRName>Coated SWAT Leggings</szBRName>
+		<szItemName>SN-42 Body Armor</szItemName>
+		<szLongItemName>SN-42防弹钢甲</szLongItemName>
+		<szItemDesc>苏联军队在二战时使用过的防弹衣，其实是两片可以抵挡手枪弹的钢制板甲。</szItemDesc>
+		<szBRName>SN-42 Body Armor</szBRName>
 		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>833</uiIndex>
-		<szItemName>C. SWAT Vest</szItemName>
-		<szLongItemName>虫胶SWAT防弹背心</szLongItemName>
-		<szItemDesc>0</szItemDesc>
-		<szBRName>Coated SWAT Vest</szBRName>
-		<szBRDesc>不在BR出售</szBRDesc>
+		<szItemName>Defender-2 Vest</szItemName>
+		<szLongItemName>俄罗斯内务部后卫2型防弹衣</szLongItemName>
+		<szItemDesc>俄罗斯内务部特种部队装备的后卫2型防弹衣。</szItemDesc>
+		<szBRName>FSB Defender-2 Body Armor</szBRName>
+		<szBRDesc>俄罗斯内务部特种部队装备的后卫2型防弹衣。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>834</uiIndex>
-		<szItemName>C. Tw. Helmet</szItemName>
-		<szLongItemName>虫胶芳纶头盔</szLongItemName>
-		<szItemDesc>戴上这种涂覆了异形体液的头盔，好让你的脑子乖乖呆在脑壳里。</szItemDesc>
-		<szBRName>Coated Twaron Helmet</szBRName>
-		<szBRDesc>戴上这种涂覆了异形体液的头盔，好让你的脑子乖乖呆在脑壳里。</szBRDesc>
+		<szItemName>6B12 Body Armor</szItemName>
+		<szLongItemName>俄军6B12防弹衣</szLongItemName>
+		<szItemDesc>俄罗斯装备的丛林迷彩式凯夫拉防弹衣，里面还有防弹钢板。</szItemDesc>
+		<szBRName>Russian 6B12 Body Armor</szBRName>
+		<szBRDesc>俄罗斯装备的丛林迷彩式凯夫拉防弹衣，里面还有防弹钢板。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>835</uiIndex>
-		<szItemName>C. Tw. Pants</szItemName>
-		<szLongItemName>虫胶芳纶防弹裤</szLongItemName>
-		<szItemDesc>芳纶防弹裤蘸虫子酱——对，我就是这么说的。</szItemDesc>
-		<szBRName>Coated Twaron Leggings</szBRName>
-		<szBRDesc>涂覆过异形体液的腿部护具能保护你的命根毫发无损。</szBRDesc>
+		<szItemName>6B23 Body Armor</szItemName>
+		<szLongItemName>俄军6B23防弹衣</szLongItemName>
+		<szItemDesc>6B23是6B12的改进型，外表有DPM丛林迷彩，里面可以同时插入防弹钢板和陶瓷板。</szItemDesc>
+		<szBRName>Russian 6B23 Body Armor</szBRName>
+		<szBRDesc>6B23是6B12的改进型，外表有DPM丛林迷彩，里面可以同时插入防弹钢板和陶瓷板。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>836</uiIndex>
-		<szItemName>C. Tw. Vest</szItemName>
-		<szLongItemName>虫胶芳纶防弹背心</szLongItemName>
-		<szItemDesc>对异形黏液的巧妙运用强化了这件防弹背心的防护力。</szItemDesc>
-		<szBRName>Coated Twaron Vest</szBRName>
-		<szBRDesc>这件用异形体液涂覆的芳纶防弹背心能阻止不受欢迎的外来物高速侵入你的胸腔。</szBRDesc>
+		<szItemName>Steel Plate</szItemName>
+		<szLongItemName>俄军防弹钢板</szLongItemName>
+		<szItemDesc>俄罗斯防弹衣专用的钢内衬，虽然不如陶瓷板的防护效果好，但胜在耐用。</szItemDesc>
+		<szBRName>Russian Steel Plate Insert</szBRName>
+		<szBRDesc>俄罗斯防弹衣专用的钢内衬，虽然不如陶瓷板的防护效果好，但胜在耐用。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>837</uiIndex>
@@ -8514,10 +8514,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1064</uiIndex>
-		<szItemName>HK417 Fully</szItemName>
-		<szLongItemName>HK417全附件</szLongItemName>
-		<szItemDesc>在HK417卡宾枪上组合了HK AG-C枪挂榴弹发射器和1.1-4x CRT瞄准镜。</szItemDesc>
-		<szBRName>HK417 Fully Armed</szBRName>
+		<szItemName>HK417/AG417</szItemName>
+		<szLongItemName>HK417/AG417组合</szLongItemName>
+		<szItemDesc>在HK417卡宾枪上组合了HK AG-C枪挂榴弹发射器和S＆B 1.1-4x近战瞄准镜。</szItemDesc>
+		<szBRName>HK417/AG417 Combo</szBRName>
 		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -9794,11 +9794,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1224</uiIndex>
-		<szItemName>SG552-LB</szItemName>
-		<szLongItemName>SIG SG552-LB全附件</szLongItemName>
-		<szItemDesc>这款5.56mm卡宾枪是SG552的长枪管型，在中等距离上精度表现优良。全附件版装备了Aimpoint公司的Comp M反射式瞄准镜，激光瞄准具/战术灯组合和前握把。</szItemDesc>
+		<szItemName>SG553-LB</szItemName>
+		<szLongItemName>SIG SG553-LB</szLongItemName>
+		<szItemDesc>这款5.56mm卡宾枪是SG552的长枪管及导轨型，在中等距离上精度表现优良。并装备了Aimpoint Comp M4瞄准镜、激光指示器和前握把。</szItemDesc>
 		<szBRName>SIG SG552-LB</szBRName>
-		<szBRDesc>不在BR出售</szBRDesc>
+		<szBRDesc>这款5.56mm卡宾枪是SG552的长枪管及导轨型，在中等距离上精度表现优良。并装备了Aimpoint Comp M4瞄准镜、激光指示器和前握把。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1225</uiIndex>
@@ -10482,35 +10482,35 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1310</uiIndex>
-		<szItemName>Mk16 Fully</szItemName>
-		<szLongItemName>Mk16 Mod0全附件</szLongItemName>
-		<szItemDesc>Mk16 SCAR-L基础上装备了EGLM（增强型榴弹发射器模块）、反射式瞄准镜和FCU（火力控制单元，带有可见光/红外激光指示器和战术灯）。</szItemDesc>
-		<szBRName>Mk16 Fully Armed</szBRName>
-		<szBRDesc>Mk16 SCAR-L基础上装备了EGLM（增强型榴弹发射器模块）、反射式瞄准镜和FCU（火力控制单元，带有可见光/红外激光指示器和战术灯）。</szBRDesc>
+		<szItemName>Mk16/EGLM</szItemName>
+		<szLongItemName>Mk16 Mod0/Mk13 EGLM组合</szLongItemName>
+		<szItemDesc>装备了Mk13 EGLM（增强型榴弹发射器模块）的Mk16 SCAR-L。</szItemDesc>
+		<szBRName>Mk16 Mod0/Mk13 EGLM Combo</szBRName>
+		<szBRDesc>装备了Mk13 EGLM（增强型榴弹发射器模块）的Mk16 SCAR-L。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1311</uiIndex>
-		<szItemName>Mk17 Fully</szItemName>
-		<szLongItemName>Mk17 Mod0全附件</szLongItemName>
-		<szItemDesc>FN SCAR-H (Mk17 Mod0)基础上装备了EGLM（增强型榴弹发射器模块）、反射式瞄准镜和FCU（火力控制单元，带有可见光/红外激光指示器和战术灯）。</szItemDesc>
-		<szBRName>Mk17 Fully Armed</szBRName>
-		<szBRDesc>FN SCAR-H (Mk17 Mod0)基础上装备了EGLM（增强型榴弹发射器模块）、反射式瞄准镜和FCU（火力控制单元，带有可见光/红外激光指示器和战术灯）。</szBRDesc>
+		<szItemName>Mk17/EGLM</szItemName>
+		<szLongItemName>Mk17 Mod0/Mk13 EGLM组合</szLongItemName>
+		<szItemDesc>装备了Mk13 EGLM（增强型榴弹发射器模块）的Mk17 SCAR-H。</szItemDesc>
+		<szBRName>Mk17 Mod0/Mk13 EGLM Combo</szBRName>
+		<szBRDesc>装备了Mk13 EGLM（增强型榴弹发射器模块）的Mk17 SCAR-H。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1312</uiIndex>
 		<szItemName>M4A1 SOPMOD</szItemName>
-		<szLongItemName>M4A1 SOPMOD全附件</szLongItemName>
+		<szLongItemName>M4A1 SOPMOD</szLongItemName>
 		<szItemDesc>SOPMOD的意思是“特种作战改进型”，它在M4A1上集成了M203榴弹发射器及其瞄准具、一个KAC快速拆卸（QD）消声器还有Trijicon公司的ACOG（先进战斗光学瞄准镜）和C型弹鼓。</szItemDesc>
-		<szBRName>M4A1 SOPMOD Fully Armed</szBRName>
+		<szBRName>M4A1 SOPMOD</szBRName>
 		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1313</uiIndex>
 		<szItemName>AKS-74U/BS-1</szItemName>
-		<szLongItemName>AKS-74U</szLongItemName>
-		<szItemDesc>俄罗斯特种部队的常用装备。由于枪管过短，射击时的火焰可以烧焦你的眉毛。</szItemDesc>
-		<szBRName>AKS-74U</szBRName>
-		<szBRDesc>不在BR出售</szBRDesc>
+		<szLongItemName>AKS-74U/BS-1组合</szLongItemName>
+		<szItemDesc>俄罗斯特种部队的装备，在AKS-74U下面挂装BS-1消声榴弹发射器。</szItemDesc>
+		<szBRName>AKS-74U/BS-1 Combo</szBRName>
+		<szBRDesc>俄罗斯特种部队的装备，在AKS-74U下面挂装BS-1消声榴弹发射器。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1314</uiIndex>
@@ -10546,18 +10546,18 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1318</uiIndex>
-		<szItemName>L119A1</szItemName>
-		<szLongItemName>L119A1全附件</szLongItemName>
+		<szItemName>L119A1/L17A2</szItemName>
+		<szLongItemName>L119A1/L17A2组合</szLongItemName>
 		<szItemDesc>就是L119A1（英国SAS装备）配上了L17A2下挂榴弹发射器（就是HK AG-36 ）和ACOG（先进战斗光学瞄准镜）。</szItemDesc>
-		<szBRName>L119A1 Fully Armed</szBRName>
+		<szBRName>L119A1/L17A2 Combo</szBRName>
 		<szBRDesc>就是L119A1（英国SAS装备）配上了L17A2下挂榴弹发射器（就是HK AG-36 ）和ACOG（先进战斗光学瞄准镜）。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1319</uiIndex>
-		<szItemName>HK416 Fully Armed</szItemName>
-		<szLongItemName>HK416 14"全附件</szLongItemName>
+		<szItemName>HK416/AG416</szItemName>
+		<szLongItemName>HK416/AG416组合</szLongItemName>
 		<szItemDesc>在HK416卡宾枪上加装了反射式瞄准镜、AG-36榴弹发射器和可见光/红外激光指示器。</szItemDesc>
-		<szBRName>HK416 14" Fully Armed</szBRName>
+		<szBRName>HK416/AG416 Combo</szBRName>
 		<szBRDesc>在HK416卡宾枪上加装了反射式瞄准镜、AG-36榴弹发射器和可见光/红外激光指示器。</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -10699,34 +10699,34 @@
 	<ITEM>
 		<uiIndex>1337</uiIndex>
 		<szItemName>AKMS/BS-1</szItemName>
-		<szLongItemName>AKMS/BS-1 Combo</szLongItemName>
+		<szLongItemName>AKMS/BS-1组合</szLongItemName>
 		<szItemDesc>安装有BS-1无声榴弹发射器的消声型AKMS。</szItemDesc>
 		<szBRName>AKMS/BS-1 Combo</szBRName>
 		<szBRDesc>安装有BS-1无声榴弹发射器的消声型AKMS。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1338</uiIndex>
-		<szItemName>AK-74MN Fully</szItemName>
-		<szLongItemName>AK-74MN全附件</szLongItemName>
+		<szItemName>AK-74MN/GP-25</szItemName>
+		<szLongItemName>AK-74MN/GP-25组合</szLongItemName>
 		<szItemDesc>配用了GP-30下挂榴弹发射器和1PN51三倍夜视瞄准镜的AK-74步枪。</szItemDesc>
-		<szBRName>AK-74MN Fully Armed</szBRName>
+		<szBRName>AK-74MN/GP-25 Combo</szBRName>
 		<szBRDesc>配用了GP-30下挂榴弹发射器和1PN51三倍夜视瞄准镜的AK-74步枪。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1339</uiIndex>
-		<szItemName>Zastava M77</szItemName>
-		<szLongItemName>“扎斯塔瓦”M77 GL</szLongItemName>
+		<szItemName>M77/GP-25</szItemName>
+		<szLongItemName>扎斯塔瓦M77/GP-25组合</szLongItemName>
 		<szItemDesc>AK-47的改装型，发射7.62北约弹，配有下挂榴弹发射器。</szItemDesc>
-		<szBRName>Zastava M77 GL</szBRName>
+		<szBRName>Zastava M77/GP-25 Combo</szBRName>
 		<szBRDesc>AK-47的改装型，发射7.62北约弹，配有下挂榴弹发射器。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1340</uiIndex>
-		<szItemName>TAR 21 Fully Armed</szItemName>
-		<szLongItemName>TAR 21全附件</szLongItemName>
-		<szItemDesc>这款无托步枪带有M203榴弹发射器和内置的MARS（多用途观瞄反射式瞄具）。</szItemDesc>
-		<szBRName>Tavor TAR 21 Fully Armed</szBRName>
-		<szBRDesc>这款无托步枪带有M203榴弹发射器和内置的MARS（多用途观瞄反射式瞄具）。</szBRDesc>
+		<szItemName>GTAR-21</szItemName>
+		<szLongItemName>Tavor GTAR-21</szLongItemName>
+		<szItemDesc>枪管下挂有M203榴弹发射器的塔沃尔TAR21步枪。</szItemDesc>
+		<szBRName>Tavor GTAR-21</szBRName>
+		<szBRDesc>枪管下挂有M203榴弹发射器的塔沃尔TAR21步枪。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1341</uiIndex>
@@ -10746,10 +10746,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1343</uiIndex>
-		<szItemName>Tavor-2 SMG</szItemName>
-		<szLongItemName>Tavor-2冲锋枪</szLongItemName>
+		<szItemName>Tavor X95-9mm</szItemName>
+		<szLongItemName>Tavor X95-9mm冲锋枪</szLongItemName>
 		<szItemDesc>TAVOR-2的冲锋枪型，作为在以色列国防军中使用了很久的乌兹冲锋枪的竞争对手，它在以色列国防军中的使用前景将比“普通型”的TAVOR-2更加广阔。</szItemDesc>
-		<szBRName>Tavor-2 SMG</szBRName>
+		<szBRName>Tavor X95-9mm SMG</szBRName>
 		<szBRDesc>TAVOR-2的冲锋枪型，作为在以色列国防军中使用了很久的乌兹冲锋枪的竞争对手，它在以色列国防军中的使用前景将比“普通型”的TAVOR-2更加广阔。</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -10786,26 +10786,26 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1348</uiIndex>
-		<szItemName>XM8 Fully Armed</szItemName>
-		<szLongItemName>XM8全附件</szLongItemName>
+		<szItemName>XM8/XM320</szItemName>
+		<szLongItemName>XM8/XM320组合</szLongItemName>
 		<szItemDesc>以XM8卡宾枪为基础装备了XM320榴弹发射器（就是HK AG36 ）和一套ISM（综合瞄准系统）。</szItemDesc>
-		<szBRName>XM8 Fully Armed</szBRName>
+		<szBRName>XM8/XM320 Combo</szBRName>
 		<szBRDesc>以XM8卡宾枪为基础装备了XM320榴弹发射器（就是HK AG36 ）和一套ISM（综合瞄准系统）。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1349</uiIndex>
-		<szItemName>G36 Fully Armed</szItemName>
-		<szLongItemName>HK G36全附件</szLongItemName>
+		<szItemName>G36/AG36</szItemName>
+		<szLongItemName>HK G36/AG36组合</szLongItemName>
 		<szItemDesc>在G36上装备了AG36 下挂榴弹发射器和LLM01激光/可见光组合瞄具，内置双光学瞄准具和点射机构。</szItemDesc>
-		<szBRName>HK G36 Fully Armed</szBRName>
+		<szBRName>HK G36/AG36 Combo</szBRName>
 		<szBRDesc>在G36上装备了AG36 下挂榴弹发射器和LLM01激光/可见光组合瞄具，内置双光学瞄准具和点射机构。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1350</uiIndex>
-		<szItemName>M16A4 Fully Armed</szItemName>
-		<szLongItemName>Colt M16A4全附件</szLongItemName>
+		<szItemName>M16A4/M203</szItemName>
+		<szLongItemName>Colt M16A4/M203组合</szLongItemName>
 		<szItemDesc>装备了M203下挂榴弹发射器和ACOG（先进战斗光学瞄准镜）。</szItemDesc>
-		<szBRName>Colt M16A4 Fully Armed</szBRName>
+		<szBRName>Colt M16A4/M203 Combo</szBRName>
 		<szBRDesc>装备了M203下挂榴弹发射器和ACOG（先进战斗光学瞄准镜）。</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -14450,11 +14450,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1806</uiIndex>
-		<szItemName>CRT Scope</szItemName>
-		<szLongItemName>1.1-4倍近距离战术镜</szLongItemName>
-		<szItemDesc>近距离战术镜是可变倍数的瞄准镜，填补了反射镜和高倍瞄准镜之间的空隙。</szItemDesc>
-		<szBRName>1.1-4x CRT Scope</szBRName>
-		<szBRDesc>1.1-4倍的放大倍数可在近战和中距离作战时助你一臂之力。适用于大部分武器，包括一些手枪在内。</szBRDesc>
+		<szItemName>S＆B Short Dot</szItemName>
+		<szLongItemName>Schmidt ＆ Bender 1.1-4x Short Dot</szLongItemName>
+		<szItemDesc>本德施密特的近战瞄准镜是可变倍数的瞄准镜，填补了反射镜和高倍瞄准镜之间的空隙。</szItemDesc>
+		<szBRName>Schmidt ＆ Bender 1.1-4x Short Dot</szBRName>
+		<szBRDesc>1.1-4倍的放大倍数可在近战和中距离作战时助你一臂之力。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1807</uiIndex>
@@ -14507,9 +14507,9 @@
 	<ITEM>
 		<uiIndex>1813</uiIndex>
 		<szItemName>Ultimate Scope</szItemName>
-		<szLongItemName>24倍终极瞄准镜</szLongItemName>
-		<szItemDesc>大功率的巨型瞄准镜，专为长程狙击步枪而设计。</szItemDesc>
-		<szBRName>24x Ultimate Scope</szBRName>
+		<szLongItemName>6.5-24倍终极瞄准镜</szLongItemName>
+		<szItemDesc>大功率的巨型瞄准镜，专为长程狙击步枪而设计。（长期设置在18倍使用）</szItemDesc>
+		<szBRName>6.5-24x Ultimate Scope</szBRName>
 		<szBRDesc>大功率的巨型瞄准镜，专为长程狙击步枪而设计。</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -14524,9 +14524,9 @@
 		<uiIndex>1815</uiIndex>
 		<szItemName>AN/PVS-10 NVS</szItemName>
 		<szLongItemName>AN/PVS-10夜视狙击镜</szLongItemName>
-		<szItemDesc>AN/PVS-10夜视狙击镜结合了昼夜两种模式。日间和夜间的放大倍率均为12.5倍，可调光亮度和瞄准线照明度。</szItemDesc>
+		<szItemDesc>AN/PVS-10夜视狙击镜结合了昼夜两种模式。日间和夜间的放大倍率均为12.2倍，可调光亮度和瞄准线照明度。</szItemDesc>
 		<szBRName>AN/PVS-10 NVS</szBRName>
-		<szBRDesc>AN/PVS-10夜视狙击镜结合了昼夜两种模式。日间和夜间的放大倍率均为12.5倍，可调光亮度和瞄准线照明度。</szBRDesc>
+		<szBRDesc>AN/PVS-10夜视狙击镜结合了昼夜两种模式。日间和夜间的放大倍率均为12.2倍，可调光亮度和瞄准线照明度。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1816</uiIndex>
@@ -14556,9 +14556,9 @@
 		<uiIndex>1819</uiIndex>
 		<szItemName>POS 13x60</szItemName>
 		<szLongItemName>POS 13x60镜</szLongItemName>
-		<szItemDesc>为俄国12.7mm长程狙击步枪所用的大功率巨型瞄准镜。</szItemDesc>
+		<szItemDesc>为俄国12.7mm长程狙击步枪所用的高倍大型瞄准镜。</szItemDesc>
 		<szBRName>POS 13x60 Scope</szBRName>
-		<szBRDesc>为俄国12.7mm长程狙击步枪所用的大功率巨型瞄准镜。</szBRDesc>
+		<szBRDesc>为俄国12.7mm长程狙击步枪所用的高倍大型瞄准镜。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1820</uiIndex>
@@ -14580,7 +14580,7 @@
 		<uiIndex>1822</uiIndex>
 		<szItemName>ZF-4 Scope</szItemName>
 		<szLongItemName>ZF-4瞄准镜</szLongItemName>
-		<szItemDesc>二战德军的FG-42和G43所用瞄准镜.</szItemDesc>
+		<szItemDesc>二战德军的FG-42和G43所用4倍瞄准镜.</szItemDesc>
 		<szBRName>ZF-4 Scope</szBRName>
 		<szBRDesc>适用于德国二战期间的自动步枪。</szBRDesc>
 	</ITEM>
@@ -14604,9 +14604,9 @@
 		<uiIndex>1825</uiIndex>
 		<szItemName>Scope 16x</szItemName>
 		<szLongItemName>SCHMIDT ＆ BENDER 4.5-16倍镜</szLongItemName>
-		<szItemDesc>4.5-16倍警用神枪手II狙击镜一直以来是狙击手们的最爱。</szItemDesc>
+		<szItemDesc>本德施密特的4.5-16倍警用神枪手II狙击镜一直以来是狙击手们的最爱。（长期设置在14倍使用）</szItemDesc>
 		<szBRName>SCHMIDT ＆ BENDER 4.5-16x Scope</szBRName>
-		<szBRDesc>4.5-16倍警用神枪手II狙击镜一直以来是狙击手们的最爱。</szBRDesc>
+		<szBRDesc>本德施密特的4.5-16倍警用神枪手II狙击镜一直以来是狙击手们的最爱。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1826</uiIndex>
@@ -14618,11 +14618,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1827</uiIndex>
-		<szItemName>ACOG TA55</szItemName>
-		<szLongItemName>Trijicon ACOG TA55</szLongItemName>
-		<szItemDesc>Trijicon ACOG TA55 5.5x50瞄准镜是为中远距离精确射击而造，400米内有效。</szItemDesc>
-		<szBRName>Trijicon ACOG TA55</szBRName>
-		<szBRDesc>Trijicon ACOG TA55 5.5x50瞄准镜是为中远距离精确射击而造，400米内有效。</szBRDesc>
+		<szItemName>ACOG TA648</szItemName>
+		<szLongItemName>Trijicon ACOG TA648</szLongItemName>
+		<szItemDesc>Trijicon ACOG TA648 6x48瞄准镜是为中远距离精确射击而造，400米内有效。</szItemDesc>
+		<szBRName>Trijicon ACOG TA648</szBRName>
+		<szBRDesc>Trijicon ACOG TA648 6x48瞄准镜是为中远距离精确射击而造，400米内有效。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1828</uiIndex>
@@ -14796,32 +14796,32 @@
 		<uiIndex>1849</uiIndex>
 		<szItemName>.223 Drum Adapter</szItemName>
 		<szLongItemName>.223 Drum Adapter for M16A1</szLongItemName>
-		<szItemDesc>给早期的M16A1能装上90发MWG弹鼓。</szItemDesc>
+		<szItemDesc>让早期的M16A1能装上90发MWG弹鼓。</szItemDesc>
 		<szBRName>.223 Drum Adapter for M16A1</szBRName>
-		<szBRDesc>给早期的M16A1能装上90发MWG弹鼓。</szBRDesc>
+		<szBRDesc>让早期的M16A1能装上90发MWG弹鼓。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1850</uiIndex>
 		<szItemName>Muzzle Brake</szItemName>
 		<szLongItemName>枪口制退器</szLongItemName>
-		<szItemDesc>枪口制退器可以引导推动弹头的气体， 降低后坐力，减少枪口上扬。</szItemDesc>
+		<szItemDesc>枪口制退器可以引导推动弹头的气体，降低后坐力，减小枪口上跳。</szItemDesc>
 		<szBRName>Muzzle Brake</szBRName>
-		<szBRDesc>枪口制退器可以引导推动弹头的气体， 降低后坐力，减少枪口上扬。</szBRDesc>
+		<szBRDesc>枪口制退器可以引导推动弹头的气体，降低后坐力，减小枪口上跳。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1851</uiIndex>
 		<szItemName>AK Muzzle Brake</szItemName>
 		<szLongItemName>AK枪口制退器</szLongItemName>
-		<szItemDesc>俄国AK步枪专用，枪口制退器可以引导推动弹头的气体， 降低后坐力，避免枪口上扬。</szItemDesc>
+		<szItemDesc>俄国AK步枪专用，枪口制退器可以引导推动弹头的气体，降低后坐力，减小枪口上跳。</szItemDesc>
 		<szBRName>AK Muzzle Brake</szBRName>
-		<szBRDesc>俄国AK步枪专用，枪口制退器可以引导推动弹头的气体， 降低后坐力，避免枪口上扬。</szBRDesc>
+		<szBRDesc>俄国AK步枪专用，枪口制退器可以引导推动弹头的气体，降低后坐力，减小枪口上跳。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1852</uiIndex>
-		<szItemName>ReadyMag</szItemName>
-		<szLongItemName>ReadyMag for AR</szLongItemName>
+		<szItemName>REDI-MAG</szItemName>
+		<szLongItemName>REDI-MAG</szLongItemName>
 		<szItemDesc>让各种AR式步枪能更快地更换弹匣。</szItemDesc>
-		<szBRName>ReadyMag for AR</szBRName>
+		<szBRName>REDI-MAG</szBRName>
 		<szBRDesc>让各种AR式步枪能更快地更换弹匣。</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -16146,11 +16146,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2018</uiIndex>
-		<szItemName>Glock 20</szItemName>
-		<szLongItemName>格洛克20</szLongItemName>
-		<szItemDesc>格洛克20型发射威力较大的10mm弹，而且重量轻、方便携带。</szItemDesc>
-		<szBRName>Glock 20</szBRName>
-		<szBRDesc>格洛克20型发射威力较大的10mm弹，而且重量轻、方便携带。</szBRDesc>
+		<szItemName>Glock 22</szItemName>
+		<szLongItemName>格洛克22</szLongItemName>
+		<szItemDesc>格洛克22型发射威力较大的10mm AUTO弹，而且重量轻、方便携带。</szItemDesc>
+		<szBRName>Glock 22</szBRName>
+		<szBRDesc>格洛克22型发射威力较大的10mm AUTO弹，而且重量轻、方便携带。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2019</uiIndex>
@@ -17226,10 +17226,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2153</uiIndex>
-		<szItemName>9A-91 Fully</szItemName>
-		<szLongItemName>9A-91全附件</szLongItemName>
+		<szItemName>9A-91/GP-25</szItemName>
+		<szLongItemName>9A-91/GP-25组合</szLongItemName>
 		<szItemDesc>这支9A-91短突击步枪加装了GP-30榴弹发射器，还有BARS红点瞄准镜。有了它，你可以成为寂静中的死神。</szItemDesc>
-		<szBRName>9A-91 Fully Armed</szBRName>
+		<szBRName>9A-91/GP-25 Combo</szBRName>
 		<szBRDesc>这支9A-91短突击步枪加装了GP-30榴弹发射器，还有BARS红点瞄准镜。有了它，你可以成为寂静中的死神。</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -19883,7 +19883,7 @@
 	<ITEM>
 		<uiIndex>2485</uiIndex>
 		<szItemName>G36 Sight</szItemName>
-		<szLongItemName>G36双瞄</szLongItemName>
+		<szLongItemName>G36瞄具</szLongItemName>
 		<szItemDesc>包括一个3倍瞄准镜和一个红点瞄准镜，兼具精确瞄准和快速瞄准双功能，每把G36附送一个。</szItemDesc>
 		<szBRName>G36 Dual-Sight</szBRName>
 		<szBRDesc>不在BR出售</szBRDesc>
@@ -21375,5 +21375,181 @@
 		<szItemDesc>这个BCS公司的SVD弹匣胸挂不但可以携带10个SVD弹匣，还有一段MOLLE织带可根据你的需要挂上其他类型的包具。</szItemDesc>
 		<szBRName>Beez Combat Systems SVD Chest Rig</szBRName>
 		<szBRDesc>这个BCS公司的SVD弹匣胸挂不但可以携带10个SVD弹匣，还有一段MOLLE织带可根据你的需要挂上其他类型的包具。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2672</uiIndex>
+		<szItemName>榴弹背心</szItemName>
+		<szLongItemName>40mm榴弹背心</szLongItemName>
+		<szItemDesc>美军越战时期装备M79或M203射手的专用背心，可以携带24枚40mm榴弹。</szItemDesc>
+		<szBRName>40mm榴弹背心</szBRName>
+		<szBRDesc>美军越战时期装备M79或M203射手的专用背心，可以携带24枚40mm榴弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2673</uiIndex>
+		<szItemName>6B43防弹衣</szItemName>
+		<szLongItemName>俄军6B43防弹衣</szLongItemName>
+		<szItemDesc>俄罗斯军队最新装备的数码迷彩防弹衣，表面有MOLLE束带，同时可作为携行背心使用。</szItemDesc>
+		<szBRName>Russian 6B43 Body Armor</szBRName>
+		<szBRDesc>俄罗斯军队最新装备的数码迷彩防弹衣，表面有MOLLE束带，同时可作为携行背心使用。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2674</uiIndex>
+		<szItemName>UMTBS Vest</szItemName>
+		<szLongItemName>6Sh112战术背心</szLongItemName>
+		<szItemDesc>俄军的模块化战术背心，其实就是俄军版的FLC。</szItemDesc>
+		<szBRName>6Sh112 UMTBS Vest</szBRName>
+		<szBRDesc>俄军的模块化战术背心，其实就是俄军版的FLC。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2675</uiIndex>
+		<szItemName>MOLLE AK Pouch</szItemName>
+		<szLongItemName>俄军MOLLE AK弹匣包</szLongItemName>
+		<szItemDesc>俄罗斯特色的MOLLE弹匣包，可携带4个AK弹匣及1支发光棒。</szItemDesc>
+		<szBRName>Russian MOLLE AK Mag Pouch</szBRName>
+		<szBRDesc>俄罗斯特色的MOLLE弹匣包，可携带4个AK弹匣及1支发光棒。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2676</uiIndex>
+		<szItemName>MOLLE RPK Pouch</szItemName>
+		<szLongItemName>俄军MOLLE RPK弹匣包</szLongItemName>
+		<szItemDesc>俄罗斯特色的MOLLE弹匣包，可携带2个RPK弹匣及1支发光棒。</szItemDesc>
+		<szBRName>Russian MOLLE RPK Mag Pouch</szBRName>
+		<szBRDesc>俄罗斯特色的MOLLE弹匣包，可携带2个RPK弹匣及1支发光棒。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2677</uiIndex>
+		<szItemName>MOLLE PKM Pouch</szItemName>
+		<szLongItemName>俄军MOLLE PKM弹链包</szLongItemName>
+		<szItemDesc>俄罗斯特色的MOLLE弹链包，可携带1条100发的PKM弹链。</szItemDesc>
+		<szBRName>Russian MOLLE PKM Mag Pouch</szBRName>
+		<szBRDesc>俄罗斯特色的MOLLE弹链包，可携带1条100发的PKM弹链。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2678</uiIndex>
+		<szItemName>MOLLE SVD Pouch</szItemName>
+		<szLongItemName>俄军MOLLE SVD弹匣包</szLongItemName>
+		<szItemDesc>俄罗斯特色的MOLLE弹匣包，可携带2个SVD弹匣。</szItemDesc>
+		<szBRName>Russian MOLLE SVD Mag Pouch</szBRName>
+		<szBRDesc>俄罗斯特色的MOLLE弹匣包，可携带2个SVD弹匣。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2679</uiIndex>
+		<szItemName>MOLLE Mag Pouch</szItemName>
+		<szLongItemName>俄军MOLLE手枪弹匣包</szLongItemName>
+		<szItemDesc>俄罗斯特色的MOLLE手枪弹匣包。</szItemDesc>
+		<szBRName>Russian MOLLE Pistol Mag Pouch</szBRName>
+		<szBRDesc>俄罗斯特色的MOLLE手枪弹匣包。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2680</uiIndex>
+		<szItemName>MOLLE VOG Bandolier</szItemName>
+		<szLongItemName>俄军MOLLE榴弹带</szLongItemName>
+		<szItemDesc>俄罗斯特色的MOLLE榴弹袋，可携带5枚VOG-25系列40mm榴弹。</szItemDesc>
+		<szBRName>MOLLE VOG Bandolier</szBRName>
+		<szBRDesc>俄罗斯特色的MOLLE榴弹袋，可携带5枚VOG-25系列40mm榴弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2681</uiIndex>
+		<szItemName>MOLLE Grenade Pouch</szItemName>
+		<szLongItemName>俄军MOLLE手榴弹袋</szLongItemName>
+		<szItemDesc>俄罗斯特色的MOLLE手榴弹袋，可携带4枚卵形手榴弹。</szItemDesc>
+		<szBRName>Russian MOLLE Grenade Pocket</szBRName>
+		<szBRDesc>俄罗斯特色的MOLLE手榴弹袋，可携带4枚卵形手榴弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2682</uiIndex>
+		<szItemName>MOLLE Holster</szItemName>
+		<szLongItemName>俄军MOLLE大枪套</szLongItemName>
+		<szItemDesc>这个俄军的MOLLE枪套可以装入带消声器的马卡洛夫PB手枪。</szItemDesc>
+		<szBRName>Russian MOLLE Universal Holster</szBRName>
+		<szBRDesc>这个俄军的MOLLE枪套可以装入带消声器的马卡洛夫PB手枪。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2683</uiIndex>
+		<szItemName>MOLLE Medic</szItemName>
+		<szLongItemName>俄军MOLLE医疗包</szLongItemName>
+		<szItemDesc>俄罗斯的MOLLE医疗包。</szItemDesc>
+		<szBRName>Russian MOLLE Medical Pouch</szBRName>
+		<szBRDesc>俄罗斯的MOLLE医疗包。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2684</uiIndex>
+		<szItemName>MOLLE Messkit</szItemName>
+		<szLongItemName>俄军MOLLE水壶套</szLongItemName>
+		<szItemDesc>俄罗斯的MOLLE水壶套。</szItemDesc>
+		<szBRName>Russian MOLLE Messkit Pouch</szBRName>
+		<szBRDesc>俄罗斯的MOLLE水壶套。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2685</uiIndex>
+		<szItemName>MWG Drum Adapter</szItemName>
+		<szLongItemName>大口径MWG90弹鼓适配器</szLongItemName>
+		<szItemDesc>这个弹鼓的适配器可以让4179标准弹匣的.50 Beowulf或.458 SOCOM口径的AR步枪使用MWG90弹鼓。</szItemDesc>
+		<szBRName>Big Calibre MWG90 Drum Adapter</szBRName>
+		<szBRDesc>这个弹鼓的适配器可以让4179标准弹匣的.50 Beowulf或.458 SOCOM口径的AR步枪使用MWG90弹鼓。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2686</uiIndex>
+		<szItemName>.50 Beowulf 31</szItemName>
+		<szLongItemName>.50 Beowulf弹鼓, 31</szLongItemName>
+		<szItemDesc>一个装有31发.50 Beowulf全被甲弹的MWG90弹鼓。</szItemDesc>
+		<szBRName>.50 Beowulf 31</szBRName>
+		<szBRDesc>一个装有31发.50 Beowulf全被甲弹的MWG90弹鼓。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2687</uiIndex>
+		<szItemName>.50 Beowulf 31 HP</szItemName>
+		<szLongItemName>.50 Bewoulf弹鼓, 31 HP</szLongItemName>
+		<szItemDesc>一个装有31发.50 Beowulf空尖弹的MWG90弹鼓。</szItemDesc>
+		<szBRName>.50 Beowulf 31 HP</szBRName>
+		<szBRDesc>一个装有31发.50 Beowulf空尖弹的MWG90弹鼓。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2688</uiIndex>
+		<szItemName>.458 SOCOM 36 FMJ</szItemName>
+		<szLongItemName>.458 SOCOM弹鼓, 36 FMJ</szLongItemName>
+		<szItemDesc>一个装有36发.458 SOCOM全被甲弹的MWG90弹鼓。</szItemDesc>
+		<szBRName>.458 SOCOM Mag 36 FMJ</szBRName>
+		<szBRDesc>一个装有36发.458 SOCOM全被甲弹的MWG90弹鼓。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2689</uiIndex>
+		<szItemName>.458 SOCOM 36 JHP</szItemName>
+		<szLongItemName>.458 SOCOM弹鼓, 36 JHP</szLongItemName>
+		<szItemDesc>一个装有36发.458 SOCOM空尖弹的MWG90弹鼓。</szItemDesc>
+		<szBRName>.458 SOCOM Mag 36 JHP</szBRName>
+		<szBRDesc>一个装有36发.458 SOCOM空尖弹的MWG90弹鼓。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2690</uiIndex>
+		<szItemName>23mm Buckshot 4</szItemName>
+		<szLongItemName>23mm鹿弹, 4</szLongItemName>
+		<szItemDesc>4发23mm鹿弹，能提供近距离内的大面积杀伤。</szItemDesc>
+		<szBRName>23mm Buckshot, 4</szBRName>
+		<szBRDesc>4发23mm鹿弹，能提供近距离内的大面积杀伤。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2691</uiIndex>
+		<szItemName>23mm Slug 4</szItemName>
+		<szLongItemName>23mm独头弹, 4</szLongItemName>
+		<szItemDesc>4发23mm“街垒”式钢制独头弹，可以穿透100米内的汽车发动机汽缸，绰号“停车弹”。</szItemDesc>
+		<szBRName>23mm Slug, 4</szBRName>
+		<szBRDesc>4发23mm“街垒”式钢制独头弹，可以穿透100米内的汽车发动机汽缸，绰号“停车弹”。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2692</uiIndex>
+		<szItemName>KS-23</szItemName>
+		<szLongItemName>KS-23</szLongItemName>
+		<szItemDesc>KS-23是由废旧航炮管作为枪管制作的23mm大口径霰弹枪。</szItemDesc>
+		<szBRName>KS-23</szBRName>
+		<szBRDesc>KS-23是由废旧航炮管作为枪管制作的23mm大口径霰弹枪。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2693</uiIndex>
+		<szItemName>KS-23M</szItemName>
+		<szLongItemName>KS-23M</szLongItemName>
+		<szItemDesc>KS-23M是KS-23的紧凑型，取消了枪管，并缩短枪管，虽然有效射程近了一些，但方便携带。</szItemDesc>
+		<szBRName>KS-23M</szBRName>
+		<szBRDesc>KS-23M是KS-23的紧凑型，取消了枪管，并缩短枪管，虽然有效射程近了一些，但方便携带。</szBRDesc>
 	</ITEM>
 </ITEMLIST>

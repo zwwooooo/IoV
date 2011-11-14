@@ -6097,7 +6097,7 @@
 		<nasAttachmentClass>8</nasAttachmentClass>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>171</ubGraphicNum>
-		<ubWeight>6</ubWeight>
+		<ubWeight>7</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>38</ItemSize>
 		<usPrice>1000</usPrice>
@@ -6114,9 +6114,9 @@
 		<MinRangeForAimBonus>70</MinRangeForAimBonus>
 		<PercentAPReduction>-9</PercentAPReduction>
 		<DamageBonus>2</DamageBonus>
-		<NightVisionRangeBonus>30</NightVisionRangeBonus>
+		<NightVisionRangeBonus>40</NightVisionRangeBonus>
 		<DayVisionRangeBonus>80</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>15</CaveVisionRangeBonus>
+		<CaveVisionRangeBonus>30</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>80</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>90</PercentTunnelVision>
 		<ScopeMagFactor>10.0</ScopeMagFactor>
@@ -7922,6 +7922,8 @@
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>5</CamoBonus>
+		<DayVisionRangeBonus>5</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -18901,9 +18903,9 @@
 		<Bipod>10</Bipod>
 		<ToHitBonus>-1</ToHitBonus>
 		<AimBonus>10</AimBonus>
-		<MinRangeForAimBonus>35</MinRangeForAimBonus>
+		<MinRangeForAimBonus>20</MinRangeForAimBonus>
 		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
-		<PercentAPReduction>15</PercentAPReduction>
+		<PercentAPReduction>20</PercentAPReduction>
 		<VisionRangeBonus>25</VisionRangeBonus>
 		<PercentTunnelVision>20</PercentTunnelVision>
 		<ScopeMagFactor>3.0</ScopeMagFactor>
@@ -23317,9 +23319,9 @@
 		<uiIndex>791</uiIndex>
 		<szItemName>C8A1/EAGLE</szItemName>
 		<szLongItemName>Diemaco C8A1/EAGLE LV Combo</szLongItemName>
-		<szItemDesc>This Colt Canada (Diemaco) C8A1 flat-top rifle is equiped with a EAGLE LV Grenade Launcher. And attach AN/PEQ-2 and Eotech 552 sight.</szItemDesc>
+		<szItemDesc>This Colt Canada (Diemaco) C8A1 flat-top rifle is equiped with a EAGLE LV Grenade Launcher, and Eotech HWS.</szItemDesc>
 		<szBRName>Diemaco C8A1/EAGLE LV Combo</szBRName>
-		<szBRDesc>This Colt Canada (Diemaco) C8A1 flat-top rifle is equiped with a EAGLE LV Grenade Launcher. And attach AN/PEQ-2 and Eotech 552 sight.</szBRDesc>
+		<szBRDesc>This Colt Canada (Diemaco) C8A1 flat-top rifle is equiped with a EAGLE LV Grenade Launcher, and Eotech HWS.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>791</ubClassIndex>
@@ -24267,6 +24269,7 @@
 		<szBRName>French CCE BDU Trousers</szBRName>
 		<szBRDesc>The standard BDU combat trouser. This Milspec item has padded and reinforced areas to make them more durable, rip stop and some of the best camouflage available for woodland.</szBRDesc>
 		<usItemClass>2048</usItemClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>71</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
@@ -24296,6 +24299,7 @@
 		<szBRName>French CCE BDU Shirt</szBRName>
 		<szBRDesc>The standard BDU shirt. It's tough like Chuck Norris and green like the Hulk. This Milspec item has padded and reinforced elbows, rip stop and some of the best camouflage available for woodland.</szBRDesc>
 		<usItemClass>2048</usItemClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>72</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
@@ -24354,6 +24358,7 @@
 		<szBRName>DPM Desert Camo Trousers</szBRName>
 		<szBRDesc>British Army type DPM desert camouflage BDU Trousers.</szBRDesc>
 		<usItemClass>2048</usItemClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>74</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
@@ -24383,6 +24388,7 @@
 		<szBRName>DPM Desert Camo Shirt</szBRName>
 		<szBRDesc>British Army type DPM desert camouflage BDU Shirt.</szBRDesc>
 		<usItemClass>2048</usItemClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>75</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
@@ -24670,118 +24676,262 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>830</uiIndex>
-		<szItemName>C. EOD Vest</szItemName>
-		<szLongItemName>Coated EOD Vest</szLongItemName>
-		<szItemDesc>0</szItemDesc>
-		<szBRName>Coated EOD Vest</szBRName>
-		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<szItemName>STRIKE Plate Carrier</szItemName>
+		<szLongItemName>BHI STRIKE Rapid Plate Carrier</szLongItemName>
+		<szItemDesc>BLACKHAWK S.T.R.I.K.E. Rapid Mobile Plate Carrier can holds ballistic plate in one of two tailored internal pockets.</szItemDesc>
+		<szBRName>BHI STRIKE Rapid Plate Carrier</szBRName>
+		<szBRDesc>BLACKHAWK S.T.R.I.K.E. Rapid Mobile Plate Carrier can holds ballistic plate in one of two tailored internal pockets.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>84</ubClassIndex>
-		<ubGraphicType>2</ubGraphicType>
-		<ubWeight>120</ubWeight>
-		<ItemSize>47</ItemSize>
-		<usPrice>4400</usPrice>
-		<bReliability>1</bReliability>
-		<bRepairEase>-3</bRepairEase>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>512</ubGraphicNum>
+		<ubWeight>4</ubWeight>
+		<ItemSize>45</ItemSize>
+		<usPrice>100</usPrice>
+		<ubCoolness>6</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
-		<NotBuyable>1</NotBuyable>
-		<BigGunList>1</BigGunList>
-		<Unaerodynamic>1</Unaerodynamic>
-		<AimBonus>-8</AimBonus>
-		<APBonus>-8</APBonus>
-		<STAND_MODIFIERS>
-			<PercentBase>-35</PercentBase>
-			<PercentCap>-12</PercentCap>
-			<PercentCounterForceAccuracy>-35</PercentCounterForceAccuracy>
-		</STAND_MODIFIERS>
-		<CROUCH_MODIFIERS>
-			<PercentBase>-70</PercentBase>
-			<PercentCap>-24</PercentCap>
-			<PercentCounterForceAccuracy>-70</PercentCounterForceAccuracy>
-		</CROUCH_MODIFIERS>
-		<PRONE_MODIFIERS>
-			<PercentBase>-45</PercentBase>
-			<PercentCap>-12</PercentCap>
-			<PercentCounterForceAccuracy>-45</PercentCounterForceAccuracy>
-		</PRONE_MODIFIERS>
-	</ITEM>
-	<ITEM>
-		<uiIndex>831</uiIndex>
-		<szItemName>C. SWAT Helmet</szItemName>
-		<szLongItemName>Coated SWAT Helmet</szLongItemName>
-		<szItemDesc>0</szItemDesc>
-		<szBRName>Coated SWAT Helmet</szBRName>
-		<szBRDesc>Not for sale through BR.</szBRDesc>
-		<usItemClass>2048</usItemClass>
-		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>85</ubClassIndex>
-		<ubGraphicType>2</ubGraphicType>
-		<ubWeight>13</ubWeight>
-		<ItemSize>40</ItemSize>
-		<usPrice>900</usPrice>
-		<bRepairEase>1</bRepairEase>
-		<Damageable>1</Damageable>
-		<Repairable>1</Repairable>
-		<Sinks>1</Sinks>
-		<ShowStatus>1</ShowStatus>
-		<NotBuyable>1</NotBuyable>
-		<BigGunList>1</BigGunList>
+		<BR_NewInventory>2</BR_NewInventory>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
+		<uiIndex>831</uiIndex>
+		<szItemName>German Fleck</szItemName>
+		<szLongItemName>German Fleck Body Armour</szLongItemName>
+		<szItemDesc>Bundeswehr kevlar flak jacket with spot camo.</szItemDesc>
+		<szBRName>German Fleck Body Armour</szBRName>
+		<szBRDesc>Bundeswehr kevlar flak jacket with spot camo.</szBRDesc>
+		<usItemClass>2048</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>85</ubClassIndex>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>481</ubGraphicNum>
+		<ubWeight>38</ubWeight>
+		<ItemSize>46</ItemSize>
+		<usPrice>1080</usPrice>
+		<ubCoolness>5</ubCoolness>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<BR_NewInventory>2</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<AimBonus>-2</AimBonus>
+		<APBonus>-2</APBonus>
+		<CamoBonus>20</CamoBonus>
+		<FlakJacket>1</FlakJacket>
+		<STAND_MODIFIERS>
+			<PercentBase>-16</PercentBase>
+			<PercentCap>-6</PercentCap>
+			<PercentCounterForceAccuracy>-16</PercentCounterForceAccuracy>
+		</STAND_MODIFIERS>
+		<CROUCH_MODIFIERS>
+			<PercentBase>-32</PercentBase>
+			<PercentCap>-12</PercentCap>
+			<PercentCounterForceAccuracy>-32</PercentCounterForceAccuracy>
+		</CROUCH_MODIFIERS>
+		<PRONE_MODIFIERS>
+			<PercentBase>-20</PercentBase>
+			<PercentCap>-7</PercentCap>
+			<PercentCounterForceAccuracy>-20</PercentCounterForceAccuracy>
+		</PRONE_MODIFIERS>
+	</ITEM>
+	<ITEM>
 		<uiIndex>832</uiIndex>
-		<szItemName>C. SWAT Pants</szItemName>
-		<szLongItemName>Coated SWAT Leggings</szLongItemName>
-		<szItemDesc>0</szItemDesc>
-		<szBRName>Coated SWAT Leggings</szBRName>
+		<szItemName>SN-42 Body Armor</szItemName>
+		<szLongItemName>SN-42 Body Armor</szLongItemName>
+		<szItemDesc>This armor was supplied to SHISBr (assault engineers) and Tankodesantniki (infantry that rode on tanks) of some tank brigades.</szItemDesc>
+		<szBRName>SN-42 Body Armor</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>86</ubClassIndex>
-		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>482</ubGraphicNum>
 		<ubWeight>35</ubWeight>
 		<ItemSize>46</ItemSize>
-		<usPrice>1300</usPrice>
-		<bRepairEase>1</bRepairEase>
+		<usPrice>600</usPrice>
+		<ubCoolness>9</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
-		<NotBuyable>1</NotBuyable>
-		<BigGunList>1</BigGunList>
-		<APBonus>-12</APBonus>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
+		<AimBonus>-3</AimBonus>
+		<APBonus>-5</APBonus>
+		<FlakJacket>1</FlakJacket>
+		<STAND_MODIFIERS>
+			<PercentBase>-20</PercentBase>
+			<PercentCap>-8</PercentCap>
+			<PercentCounterForceAccuracy>-20</PercentCounterForceAccuracy>
+		</STAND_MODIFIERS>
+		<CROUCH_MODIFIERS>
+			<PercentBase>-40</PercentBase>
+			<PercentCap>-16</PercentCap>
+			<PercentCounterForceAccuracy>-40</PercentCounterForceAccuracy>
+		</CROUCH_MODIFIERS>
+		<PRONE_MODIFIERS>
+			<PercentBase>-26</PercentBase>
+			<PercentCap>-10</PercentCap>
+			<PercentCounterForceAccuracy>-26</PercentCounterForceAccuracy>
+		</PRONE_MODIFIERS>
 	</ITEM>
 	<ITEM>
 		<uiIndex>833</uiIndex>
-		<szItemName>C. SWAT Vest</szItemName>
-		<szLongItemName>Coated SWAT Vest</szLongItemName>
-		<szItemDesc>0</szItemDesc>
-		<szBRName>Coated SWAT Vest</szBRName>
-		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<szItemName>Defender-2 Vest</szItemName>
+		<szLongItemName>FSB Defender-2 Body Armor</szLongItemName>
+		<szItemDesc>FSB VEST Дефендер-2 (Defender-2).</szItemDesc>
+		<szBRName>FSB Defender-2 Body Armor</szBRName>
+		<szBRDesc>FSB VEST Дефендер-2 (Defender-2).</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>87</ubClassIndex>
-		<ubGraphicType>2</ubGraphicType>
-		<ubWeight>30</ubWeight>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>483</ubGraphicNum>
+		<ubWeight>40</ubWeight>
 		<ItemSize>46</ItemSize>
-		<usPrice>1500</usPrice>
-		<bRepairEase>1</bRepairEase>
+		<usPrice>1100</usPrice>
+		<ubCoolness>6</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
-		<NotBuyable>1</NotBuyable>
+		<BR_NewInventory>2</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<AimBonus>-2</AimBonus>
+		<APBonus>-2</APBonus>
+		<FlakJacket>1</FlakJacket>
+		<STAND_MODIFIERS>
+			<PercentBase>-20</PercentBase>
+			<PercentCap>-8</PercentCap>
+			<PercentCounterForceAccuracy>-20</PercentCounterForceAccuracy>
+		</STAND_MODIFIERS>
+		<CROUCH_MODIFIERS>
+			<PercentBase>-40</PercentBase>
+			<PercentCap>-16</PercentCap>
+			<PercentCounterForceAccuracy>-40</PercentCounterForceAccuracy>
+		</CROUCH_MODIFIERS>
+		<PRONE_MODIFIERS>
+			<PercentBase>-26</PercentBase>
+			<PercentCap>-10</PercentCap>
+			<PercentCounterForceAccuracy>-26</PercentCounterForceAccuracy>
+		</PRONE_MODIFIERS>
+	</ITEM>
+	<ITEM>
+		<uiIndex>834</uiIndex>
+		<szItemName>6B12 Body Armor</szItemName>
+		<szLongItemName>Russian 6B12 Body Armor</szLongItemName>
+		<szItemDesc>A russian wood camo Kevlar body armor with steel plate.</szItemDesc>
+		<szBRName>Russian 6B12 Body Armor</szBRName>
+		<szBRDesc>A russian wood camo Kevlar body armor with steel plate.</szBRDesc>
+		<usItemClass>2048</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>88</ubClassIndex>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>52</ubGraphicNum>
+		<ubWeight>33</ubWeight>
+		<ItemSize>46</ItemSize>
+		<usPrice>1500</usPrice>
+		<ubCoolness>6</ubCoolness>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<BR_NewInventory>2</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<AimBonus>-2</AimBonus>
+		<APBonus>-2</APBonus>
+		<DefaultAttachment>836</DefaultAttachment>
+		<CamoBonus>20</CamoBonus>
+		<STAND_MODIFIERS>
+			<PercentBase>-16</PercentBase>
+			<PercentCap>-6</PercentCap>
+			<PercentCounterForceAccuracy>-16</PercentCounterForceAccuracy>
+		</STAND_MODIFIERS>
+		<CROUCH_MODIFIERS>
+			<PercentBase>-32</PercentBase>
+			<PercentCap>-12</PercentCap>
+			<PercentCounterForceAccuracy>-32</PercentCounterForceAccuracy>
+		</CROUCH_MODIFIERS>
+		<PRONE_MODIFIERS>
+			<PercentBase>-20</PercentBase>
+			<PercentCap>-7</PercentCap>
+			<PercentCounterForceAccuracy>-20</PercentCounterForceAccuracy>
+		</PRONE_MODIFIERS>
+	</ITEM>
+	<ITEM>
+		<uiIndex>835</uiIndex>
+		<szItemName>6B23 Body Armor</szItemName>
+		<szLongItemName>Russian 6B23 Body Armor</szLongItemName>
+		<szItemDesc>6B23 is a modular protective vest with several protective levels that can be combined.</szItemDesc>
+		<szBRName>Russian 6B23 Body Armor</szBRName>
+		<szBRDesc>6B23 is a modular protective vest with several protective levels that can be combined.</szBRDesc>
+		<usItemClass>2048</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>89</ubClassIndex>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>53</ubGraphicNum>
+		<ubWeight>38</ubWeight>
+		<ItemSize>46</ItemSize>
+		<usPrice>1600</usPrice>
+		<ubCoolness>6</ubCoolness>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<BR_NewInventory>2</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<AimBonus>-2</AimBonus>
+		<APBonus>-2</APBonus>
+		<DefaultAttachment>836</DefaultAttachment>
+		<CamoBonus>25</CamoBonus>
+		<STAND_MODIFIERS>
+			<PercentBase>-20</PercentBase>
+			<PercentCap>-8</PercentCap>
+			<PercentCounterForceAccuracy>-20</PercentCounterForceAccuracy>
+		</STAND_MODIFIERS>
+		<CROUCH_MODIFIERS>
+			<PercentBase>-40</PercentBase>
+			<PercentCap>-16</PercentCap>
+			<PercentCounterForceAccuracy>-40</PercentCounterForceAccuracy>
+		</CROUCH_MODIFIERS>
+		<PRONE_MODIFIERS>
+			<PercentBase>-26</PercentBase>
+			<PercentCap>-10</PercentCap>
+			<PercentCounterForceAccuracy>-26</PercentCounterForceAccuracy>
+		</PRONE_MODIFIERS>
+	</ITEM>
+	<ITEM>
+		<uiIndex>836</uiIndex>
+		<szItemName>Steel Plate</szItemName>
+		<szLongItemName>Russian Steel Plate Insert</szLongItemName>
+		<szItemDesc>Russian Steel Balistic Insert.</szItemDesc>
+		<szBRName>Russian Steel Plate Insert</szBRName>
+		<szBRDesc>Russian Steel Balistic Insert.</szBRDesc>
+		<usItemClass>2048</usItemClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>90</ubClassIndex>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>54</ubGraphicNum>
+		<ubWeight>36</ubWeight>
+		<ItemSize>45</ItemSize>
+		<usPrice>500</usPrice>
+		<ubCoolness>6</ubCoolness>
+		<bRepairEase>-4</bRepairEase>
+		<bReliability>1</bReliability>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
-		<AimBonus>-1</AimBonus>
+		<BR_NewInventory>2</BR_NewInventory>
+		<AimBonus>-2</AimBonus>
 		<STAND_MODIFIERS>
 			<PercentBase>-5</PercentBase>
 			<PercentCap>-2</PercentCap>
@@ -24796,100 +24946,6 @@
 			<PercentBase>-7</PercentBase>
 			<PercentCap>-3</PercentCap>
 			<PercentCounterForceAccuracy>-7</PercentCounterForceAccuracy>
-		</PRONE_MODIFIERS>
-	</ITEM>
-	<ITEM>
-		<uiIndex>834</uiIndex>
-		<szItemName>C. Tw. Helmet</szItemName>
-		<szLongItemName>Coated Twaron Helmet</szLongItemName>
-		<szItemDesc>Keep your brains inside your skull where they belong with this coated helmet.</szItemDesc>
-		<szBRName>Coated Twaron Helmet</szBRName>
-		<szBRDesc>Keep your brains inside your skull where they belong with this coated helmet.</szBRDesc>
-		<usItemClass>2048</usItemClass>
-		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>88</ubClassIndex>
-		<ubGraphicType>2</ubGraphicType>
-		<ubGraphicNum>52</ubGraphicNum>
-		<ubWeight>9</ubWeight>
-		<ItemSize>40</ItemSize>
-		<usPrice>1000</usPrice>
-		<bReliability>1</bReliability>
-		<Damageable>1</Damageable>
-		<Repairable>1</Repairable>
-		<Sinks>1</Sinks>
-		<ShowStatus>1</ShowStatus>
-		<NotBuyable>1</NotBuyable>
-		<BigGunList>1</BigGunList>
-		<CamoBonus>15</CamoBonus>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
-	</ITEM>
-	<ITEM>
-		<uiIndex>835</uiIndex>
-		<szItemName>C. Tw. Pants</szItemName>
-		<szLongItemName>Coated Twaron Leggings</szLongItemName>
-		<szItemDesc>Twaron leggings dipped in bug slime - yeah, I said it.</szItemDesc>
-		<szBRName>Coated Twaron Leggings</szBRName>
-		<szBRDesc>Coated leg protectors keep your stock body in mint condition.</szBRDesc>
-		<usItemClass>2048</usItemClass>
-		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>89</ubClassIndex>
-		<ubGraphicType>2</ubGraphicType>
-		<ubGraphicNum>53</ubGraphicNum>
-		<ubWeight>26</ubWeight>
-		<ItemSize>46</ItemSize>
-		<usPrice>1400</usPrice>
-		<bReliability>1</bReliability>
-		<Damageable>1</Damageable>
-		<Repairable>1</Repairable>
-		<Sinks>1</Sinks>
-		<ShowStatus>1</ShowStatus>
-		<NotBuyable>1</NotBuyable>
-		<BigGunList>1</BigGunList>
-		<APBonus>-16</APBonus>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
-	</ITEM>
-	<ITEM>
-		<uiIndex>836</uiIndex>
-		<szItemName>C. Tw. Vest</szItemName>
-		<szLongItemName>Coated Twaron Vest</szLongItemName>
-		<szItemDesc>A liberal application of alien goo has strenghtened the protective properties of this vest.</szItemDesc>
-		<szBRName>Coated Twaron Vest</szBRName>
-		<szBRDesc>This crepitus coated vest will keep unwanted foreign objects from entering your chest cavity at high speed.</szBRDesc>
-		<usItemClass>2048</usItemClass>
-		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>90</ubClassIndex>
-		<ubGraphicType>2</ubGraphicType>
-		<ubGraphicNum>54</ubGraphicNum>
-		<ubWeight>22</ubWeight>
-		<ItemSize>46</ItemSize>
-		<usPrice>1600</usPrice>
-		<bReliability>1</bReliability>
-		<Damageable>1</Damageable>
-		<Repairable>1</Repairable>
-		<Sinks>1</Sinks>
-		<ShowStatus>1</ShowStatus>
-		<NotBuyable>1</NotBuyable>
-		<BigGunList>1</BigGunList>
-		<AimBonus>-2</AimBonus>
-		<APBonus>-4</APBonus>
-		<STAND_MODIFIERS>
-			<PercentBase>-8</PercentBase>
-			<PercentCap>-3</PercentCap>
-			<PercentCounterForceAccuracy>-8</PercentCounterForceAccuracy>
-		</STAND_MODIFIERS>
-		<CROUCH_MODIFIERS>
-			<PercentBase>-16</PercentBase>
-			<PercentCap>-6</PercentCap>
-			<PercentCounterForceAccuracy>-16</PercentCounterForceAccuracy>
-		</CROUCH_MODIFIERS>
-		<PRONE_MODIFIERS>
-			<PercentBase>-11</PercentBase>
-			<PercentCap>-4</PercentCap>
-			<PercentCounterForceAccuracy>-11</PercentCounterForceAccuracy>
 		</PRONE_MODIFIERS>
 	</ITEM>
 	<ITEM>
@@ -25338,19 +25394,19 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<DefaultAttachment>884</DefaultAttachment>
 		<STAND_MODIFIERS>
-			<PercentBase>-8</PercentBase>
-			<PercentCap>-3</PercentCap>
-			<PercentCounterForceAccuracy>-8</PercentCounterForceAccuracy>
+			<PercentBase>-5</PercentBase>
+			<PercentCap>-2</PercentCap>
+			<PercentCounterForceAccuracy>-5</PercentCounterForceAccuracy>
 		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS>
-			<PercentBase>-16</PercentBase>
-			<PercentCap>-6</PercentCap>
-			<PercentCounterForceAccuracy>-16</PercentCounterForceAccuracy>
+			<PercentBase>-10</PercentBase>
+			<PercentCap>-4</PercentCap>
+			<PercentCounterForceAccuracy>-10</PercentCounterForceAccuracy>
 		</CROUCH_MODIFIERS>
 		<PRONE_MODIFIERS>
-			<PercentBase>-11</PercentBase>
-			<PercentCap>-4</PercentCap>
-			<PercentCounterForceAccuracy>-11</PercentCounterForceAccuracy>
+			<PercentBase>-7</PercentBase>
+			<PercentCap>-3</PercentCap>
+			<PercentCounterForceAccuracy>-7</PercentCounterForceAccuracy>
 		</PRONE_MODIFIERS>
 	</ITEM>
 	<ITEM>
@@ -26250,17 +26306,17 @@
 	<ITEM>
 		<uiIndex>884</uiIndex>
 		<szItemName>Balistic Insert</szItemName>
-		<szLongItemName>Soft Balistic Insert</szLongItemName>
-		<szItemDesc>Multi-layer ballistic resistant woven fabrics.</szItemDesc>
-		<szBRName>Soft Balistic Insert</szBRName>
-		<szBRDesc>Multi-layer ballistic resistant woven fabrics.</szBRDesc>
+		<szLongItemName>IIIA Soft Balistic Insert</szLongItemName>
+		<szItemDesc>Multi-layer IIIA class ballistic resistant woven fabrics.</szItemDesc>
+		<szBRName>IIIA Soft Balistic Insert</szBRName>
+		<szBRDesc>Multi-layer IIIA class ballistic resistant woven fabrics.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasAttachmentClass>1</nasAttachmentClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>105</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>361</ubGraphicNum>
-		<ubWeight>27</ubWeight>
+		<ubWeight>28</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
 		<ItemSize>46</ItemSize>
 		<usPrice>600</usPrice>
@@ -26272,23 +26328,23 @@
 		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<Inseparable>1</Inseparable>
 		<BR_NewInventory>1</BR_NewInventory>
-		<BR_UsedInventory>1</BR_UsedInventory>
 		<AimBonus>-2</AimBonus>
 		<STAND_MODIFIERS>
-			<PercentBase>-4</PercentBase>
-			<PercentCap>-2</PercentCap>
-			<PercentCounterForceAccuracy>-4</PercentCounterForceAccuracy>
+			<PercentBase>-8</PercentBase>
+			<PercentCap>-3</PercentCap>
+			<PercentCounterForceAccuracy>-8</PercentCounterForceAccuracy>
 		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS>
-			<PercentBase>-8</PercentBase>
-			<PercentCap>-4</PercentCap>
-			<PercentCounterForceAccuracy>-8</PercentCounterForceAccuracy>
+			<PercentBase>-16</PercentBase>
+			<PercentCap>-6</PercentCap>
+			<PercentCounterForceAccuracy>-16</PercentCounterForceAccuracy>
 		</CROUCH_MODIFIERS>
 		<PRONE_MODIFIERS>
-			<PercentBase>-6</PercentBase>
-			<PercentCap>-3</PercentCap>
-			<PercentCounterForceAccuracy>-6</PercentCounterForceAccuracy>
+			<PercentBase>-11</PercentBase>
+			<PercentCap>-4</PercentCap>
+			<PercentCounterForceAccuracy>-11</PercentCounterForceAccuracy>
 		</PRONE_MODIFIERS>
 	</ITEM>
 	<ITEM>
@@ -26623,10 +26679,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>895</uiIndex>
-		<szItemName>Soviet Flak</szItemName>
-		<szLongItemName>Zh-86 Flack Jacket</szLongItemName>
+		<szItemName>Zh-86 Flak</szItemName>
+		<szLongItemName>Soviet Zh-86 Flack Jacket</szLongItemName>
 		<szItemDesc>The Soviet Zh-86 flack jackets with titanium alloys, ceramic armor, and specialty steel on each side. 14 plates in front, 14 plates in back. Made for use in Afghanistan and also worn by Russian troops in Chechniya.</szItemDesc>
-		<szBRName>Zh-86 Flack Jacket</szBRName>
+		<szBRName>Soviet Zh-86 Flack Jacket</szBRName>
 		<szBRDesc>The Soviet Zh-86 flack jackets with titanium alloys, ceramic armor, and specialty steel on each side. 14 plates in front, 14 plates in back. Made for use in Afghanistan and also worn by Russian troops in Chechniya.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -27452,11 +27508,7 @@
 		<RocketLauncher>1</RocketLauncher>
 		<SingleShotRocketLauncher>1</SingleShotRocketLauncher>
 		<DiscardedLauncherItem>919</DiscardedLauncherItem>
-		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>20</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>50</PercentTunnelVision>
-		<ScopeMagFactor>2.7</ScopeMagFactor>
+		<DefaultAttachment>2261</DefaultAttachment>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -27834,7 +27886,6 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -27878,8 +27929,6 @@
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
 		<Inseparable>1</Inseparable>
-		<BR_NewInventory>2</BR_NewInventory>
-		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>15</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
 		<BurstToHitBonus>4</BurstToHitBonus>
@@ -28403,6 +28452,7 @@
 		<szBRDesc>A set of shorter Picatinny rail upgrade kit from UltiMAK, it allows some modern optics to be installed on classic weapons from the early and mid 20th century.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>8192</nasAttachmentClass>
+		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>863</ubGraphicNum>
 		<ubWeight>3</ubWeight>
@@ -28483,7 +28533,7 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<ToHitBonus>20</ToHitBonus>
-		<BestLaserRange>300</BestLaserRange>
+		<BestLaserRange>350</BestLaserRange>
 		<CamoBonus>-15</CamoBonus>
 		<UrbanCamoBonus>-15</UrbanCamoBonus>
 		<DesertCamoBonus>-15</DesertCamoBonus>
@@ -28491,7 +28541,7 @@
 		<StealthBonus>-15</StealthBonus>
 		<NightVisionRangeBonus>25</NightVisionRangeBonus>
 		<CaveVisionRangeBonus>30</CaveVisionRangeBonus>
-		<ProjectionFactor>4.3</ProjectionFactor>
+		<ProjectionFactor>5.0</ProjectionFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -28520,7 +28570,7 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<ToHitBonus>25</ToHitBonus>
-		<BestLaserRange>400</BestLaserRange>
+		<BestLaserRange>300</BestLaserRange>
 		<PercentAPReduction>15</PercentAPReduction>
 		<CamoBonus>-20</CamoBonus>
 		<UrbanCamoBonus>-20</UrbanCamoBonus>
@@ -28529,7 +28579,7 @@
 		<StealthBonus>-20</StealthBonus>
 		<NightVisionRangeBonus>20</NightVisionRangeBonus>
 		<CaveVisionRangeBonus>30</CaveVisionRangeBonus>
-		<ProjectionFactor>5.5</ProjectionFactor>
+		<ProjectionFactor>4.3</ProjectionFactor>
 		<STAND_MODIFIERS>
 			<AimLevels>-1</AimLevels>
 		</STAND_MODIFIERS>
@@ -28605,7 +28655,7 @@
 		<StealthBonus>-20</StealthBonus>
 		<NightVisionRangeBonus>20</NightVisionRangeBonus>
 		<CaveVisionRangeBonus>30</CaveVisionRangeBonus>
-		<ProjectionFactor>8.5</ProjectionFactor>
+		<ProjectionFactor>8.6</ProjectionFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -29180,13 +29230,18 @@
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>358</ubGraphicNum>
 		<ubWeight>4</ubWeight>
+		<ubPerPocket>3</ubPerPocket>
 		<ItemSize>25</ItemSize>
 		<usPrice>400</usPrice>
 		<ubCoolness>7</ubCoolness>
+		<bRepairEase>-4</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>2</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
 		<GLGrenade>1</GLGrenade>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -29206,13 +29261,18 @@
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>355</ubGraphicNum>
 		<ubWeight>4</ubWeight>
+		<ubPerPocket>3</ubPerPocket>
 		<ItemSize>25</ItemSize>
 		<usPrice>1200</usPrice>
 		<ubCoolness>7</ubCoolness>
+		<bRepairEase>-4</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>2</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
 		<GLGrenade>1</GLGrenade>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -29232,13 +29292,18 @@
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>359</ubGraphicNum>
 		<ubWeight>4</ubWeight>
+		<ubPerPocket>3</ubPerPocket>
 		<ItemSize>25</ItemSize>
 		<usPrice>100</usPrice>
 		<ubCoolness>7</ubCoolness>
+		<bRepairEase>-4</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>2</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
 		<GLGrenade>1</GLGrenade>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -29258,13 +29323,18 @@
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>360</ubGraphicNum>
 		<ubWeight>4</ubWeight>
+		<ubPerPocket>3</ubPerPocket>
 		<ItemSize>25</ItemSize>
 		<usPrice>200</usPrice>
 		<ubCoolness>7</ubCoolness>
+		<bRepairEase>-4</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>2</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
 		<GLGrenade>1</GLGrenade>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -29284,13 +29354,18 @@
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>356</ubGraphicNum>
 		<ubWeight>4</ubWeight>
+		<ubPerPocket>3</ubPerPocket>
 		<ItemSize>25</ItemSize>
 		<usPrice>240</usPrice>
 		<ubCoolness>7</ubCoolness>
+		<bRepairEase>-4</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>2</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
 		<GLGrenade>1</GLGrenade>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -29999,11 +30074,11 @@
 		<ToHitBonus>-5</ToHitBonus>
 		<AimBonus>11</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
-		<NightVisionRangeBonus>15</NightVisionRangeBonus>
-		<DayVisionRangeBonus>25</DayVisionRangeBonus>
+		<NightVisionRangeBonus>20</NightVisionRangeBonus>
+		<DayVisionRangeBonus>30</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>25</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>45</PercentTunnelVision>
+		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
+		<PercentTunnelVision>30</PercentTunnelVision>
 		<ScopeMagFactor>4.0</ScopeMagFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -30040,11 +30115,11 @@
 		<MinRangeForAimBonus>65</MinRangeForAimBonus>
 		<PercentAPReduction>-4</PercentAPReduction>
 		<DamageBonus>1</DamageBonus>
-		<NightVisionRangeBonus>20</NightVisionRangeBonus>
-		<DayVisionRangeBonus>40</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>15</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>40</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>65</PercentTunnelVision>
+		<NightVisionRangeBonus>30</NightVisionRangeBonus>
+		<DayVisionRangeBonus>50</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>50</BrightLightVisionRangeBonus>
+		<PercentTunnelVision>50</PercentTunnelVision>
 		<ScopeMagFactor>6.0</ScopeMagFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -30182,9 +30257,9 @@
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
 		<PercentAPReduction>15</PercentAPReduction>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>25</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>25</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>40</PercentTunnelVision>
+		<DayVisionRangeBonus>30</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
+		<PercentTunnelVision>20</PercentTunnelVision>
 		<AttachmentSystem>1</AttachmentSystem>
 		<ScopeMagFactor>4.0</ScopeMagFactor>
 		<STAND_MODIFIERS>
@@ -30295,11 +30370,11 @@
 		<MinRangeForAimBonus>65</MinRangeForAimBonus>
 		<PercentAPReduction>-5</PercentAPReduction>
 		<DamageBonus>1</DamageBonus>
-		<NightVisionRangeBonus>20</NightVisionRangeBonus>
-		<DayVisionRangeBonus>50</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>50</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>70</PercentTunnelVision>
+		<NightVisionRangeBonus>30</NightVisionRangeBonus>
+		<DayVisionRangeBonus>55</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>55</BrightLightVisionRangeBonus>
+		<PercentTunnelVision>60</PercentTunnelVision>
 		<ScopeMagFactor>7.0</ScopeMagFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -30948,7 +31023,7 @@
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
 		<DayVisionRangeBonus>15</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>15</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>20</PercentTunnelVision>
+		<PercentTunnelVision>10</PercentTunnelVision>
 		<ScopeMagFactor>2.0</ScopeMagFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -30984,9 +31059,9 @@
 		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>25</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>25</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>40</PercentTunnelVision>
+		<DayVisionRangeBonus>30</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
+		<PercentTunnelVision>20</PercentTunnelVision>
 		<ScopeMagFactor>4.0</ScopeMagFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -31350,11 +31425,11 @@
 		<ToHitBonus>-4</ToHitBonus>
 		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>65</MinRangeForAimBonus>
-		<NightVisionRangeBonus>100</NightVisionRangeBonus>
-		<DayVisionRangeBonus>50</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>90</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>50</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>70</PercentTunnelVision>
+		<NightVisionRangeBonus>250</NightVisionRangeBonus>
+		<DayVisionRangeBonus>40</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>230</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>40</BrightLightVisionRangeBonus>
+		<PercentTunnelVision>30</PercentTunnelVision>
 		<ScopeMagFactor>3.5</ScopeMagFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -32462,9 +32537,9 @@
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
 		<MinRangeForAimBonus>10</MinRangeForAimBonus>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>15</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>15</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>20</PercentTunnelVision>
+		<DayVisionRangeBonus>10</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
+		<PercentTunnelVision>10</PercentTunnelVision>
 		<ScopeMagFactor>1.5</ScopeMagFactor>
 		<STAND_MODIFIERS>
 			<PercentHandling>-10</PercentHandling>
@@ -33313,7 +33388,7 @@
 		<ubWeight>22</ubWeight>
 		<ItemSize>4</ItemSize>
 		<usPrice>1180</usPrice>
-		<ubCoolness>4</ubCoolness>
+		<ubCoolness>5</ubCoolness>
 		<bReliability>2</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -38745,9 +38820,9 @@
 		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>15</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>15</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>20</PercentTunnelVision>
+		<DayVisionRangeBonus>10</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
+		<PercentTunnelVision>10</PercentTunnelVision>
 		<ScopeMagFactor>1.5</ScopeMagFactor>
 		<ProjectionFactor>4.4</ProjectionFactor>
 		<STAND_MODIFIERS />
@@ -40714,7 +40789,7 @@
 		<BR_ROF>700</BR_ROF>
 		<ToHitBonus>15</ToHitBonus>
 		<BestLaserRange>300</BestLaserRange>
-		<ProjectionFactor>5.5</ProjectionFactor>
+		<ProjectionFactor>4.3</ProjectionFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -40751,7 +40826,7 @@
 		<BestLaserRange>300</BestLaserRange>
 		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1612</DefaultAttachment>
-		<ProjectionFactor>4.7</ProjectionFactor>
+		<ProjectionFactor>4.3</ProjectionFactor>
 		<STAND_MODIFIERS>
 			<PercentMaxCounterForce>-20</PercentMaxCounterForce>
 			<PercentCounterForceAccuracy>-20</PercentCounterForceAccuracy>
@@ -40921,9 +40996,9 @@
 		<uiIndex>1313</uiIndex>
 		<szItemName>AKS-74U/BS-1</szItemName>
 		<szLongItemName>AKS-74U/BS-1 Combo</szLongItemName>
-		<szItemDesc>Commonly used by the Russian Spetsnaz, the muzzle flash from this SMG's short barrel has singed many an eyebrow.</szItemDesc>
+		<szItemDesc>AKS-74U with BS-1 "Tishina" (Silence) grenade launching.</szItemDesc>
 		<szBRName>AKS-74U/BS-1 Combo</szBRName>
-		<szBRDesc>Russian in origin, this sub-machine gun is a shorter version of the AK-74. It's a combat intensive weapon with a bulbous muzzle attachment to compensate for firing 5.45mm Soviet rifle cartridges in a much shorter barrel.</szBRDesc>
+		<szBRDesc>AKS-74U with BS-1 "Tishina" (Silence) grenade launching.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>1313</ubClassIndex>
@@ -41726,7 +41801,7 @@
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>557</ubGraphicNum>
 		<ubWeight>35</ubWeight>
-		<ItemSize>7</ItemSize>
+		<ItemSize>6</ItemSize>
 		<usPrice>6720</usPrice>
 		<ubCoolness>9</ubCoolness>
 		<bReliability>2</bReliability>
@@ -42893,13 +42968,16 @@
 		<Electronic>1</Electronic>
 		<BR_ROF>20</BR_ROF>
 		<ToHitBonus>25</ToHitBonus>
-		<BestLaserRange>1500</BestLaserRange>
+		<BestLaserRange>600</BestLaserRange>
 		<AimBonus>20</AimBonus>
-		<MinRangeForAimBonus>120</MinRangeForAimBonus>
-		<VisionRangeBonus>100</VisionRangeBonus>
+		<MinRangeForAimBonus>100</MinRangeForAimBonus>
+		<NightVisionRangeBonus>420</NightVisionRangeBonus>
+		<DayVisionRangeBonus>100</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>400</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>100</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>90</PercentTunnelVision>
 		<ScopeMagFactor>12.0</ScopeMagFactor>
-		<ProjectionFactor>20</ProjectionFactor>
+		<ProjectionFactor>9.0</ProjectionFactor>
 		<STAND_MODIFIERS>
 			<FlatBase>-10</FlatBase>
 			<FlatAim>-10</FlatAim>
@@ -45572,7 +45650,7 @@
 		<uiIndex>1462</uiIndex>
 		<szItemName>.50 Beowulf 7</szItemName>
 		<szLongItemName>.50 Beowulf Magazine, 7</szLongItemName>
-		<szItemDesc>A 7-round FMJ clip for the .50 Beowulf Rifle</szItemDesc>
+		<szItemDesc>A 7-round FMJ clip for the .50 Beowulf Rifle.</szItemDesc>
 		<szBRName>.50 Beowulf 7</szBRName>
 		<szBRDesc>7 rounds of the highpowered .50 Beowulf ammo, just the thing for stopping vehicles.</szBRDesc>
 		<usItemClass>1024</usItemClass>
@@ -45596,7 +45674,7 @@
 		<uiIndex>1463</uiIndex>
 		<szItemName>.50 Beowulf 7 HP</szItemName>
 		<szLongItemName>.50 Bewoulf Magazine, 7 HP</szLongItemName>
-		<szItemDesc>A 7-round HP clip for the .50 Beowulf Rifle</szItemDesc>
+		<szItemDesc>A 7-round HP clip for the .50 Beowulf Rifle.</szItemDesc>
 		<szBRName>.50 Beowulf 7 HP</szBRName>
 		<szBRDesc>A clip of 7 Hollow Point rounds, perfect for harassing big pussycats.</szBRDesc>
 		<usItemClass>1024</usItemClass>
@@ -46555,7 +46633,7 @@
 		<ubClassIndex>681</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>599</ubGraphicNum>
-		<ubWeight>15</ubWeight>
+		<ubWeight>16</ubWeight>
 		<ubPerPocket>2</ubPerPocket>
 		<ItemSize>33</ItemSize>
 		<usPrice>360</usPrice>
@@ -46578,7 +46656,7 @@
 		<ubClassIndex>682</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>600</ubGraphicNum>
-		<ubWeight>15</ubWeight>
+		<ubWeight>16</ubWeight>
 		<ubPerPocket>2</ubPerPocket>
 		<ItemSize>33</ItemSize>
 		<usPrice>450</usPrice>
@@ -48148,9 +48226,9 @@
 	<ITEM>
 		<uiIndex>1567</uiIndex>
 		<szItemName>23mm Buckshot</szItemName>
-		<szLongItemName>23mm Buckshot</szLongItemName>
+		<szLongItemName>23mm Buckshot Mag, 7</szLongItemName>
 		<szItemDesc>This 23mm shell magazine holds 7 rounds of "Shrapnel" ammunition.</szItemDesc>
-		<szBRName>23mm Buckshot</szBRName>
+		<szBRName>23mm Buckshot Mag</szBRName>
 		<szBRDesc>This 23mm shell magazine holds 7 rounds of "Shrapnel" ammunition.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -48161,7 +48239,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>28</ItemSize>
 		<usPrice>35</usPrice>
-		<ubCoolness>2</ubCoolness>
+		<ubCoolness>9</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<STAND_MODIFIERS />
@@ -48171,9 +48249,9 @@
 	<ITEM>
 		<uiIndex>1568</uiIndex>
 		<szItemName>23mm Slug</szItemName>
-		<szLongItemName>23mm Slug</szLongItemName>
+		<szLongItemName>23mm Slug Mag, 7</szLongItemName>
 		<szItemDesc>This magazine holds 7 rounds of 23mm Slug ammunition, A.K.A the "Barrikada", which is capable of destroying a engine block at 100m.</szItemDesc>
-		<szBRName>23mm Slug</szBRName>
+		<szBRName>23mm Slug Mag</szBRName>
 		<szBRDesc>This magazine holds 7 rounds of 23mm Slug ammunition, A.K.A the "Barrikada", which is capable of destroying a engine block at 100m.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -49001,7 +49079,7 @@
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
 		<DayVisionRangeBonus>25</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>25</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>50</PercentTunnelVision>
+		<PercentTunnelVision>30</PercentTunnelVision>
 		<ScopeMagFactor>2.7</ScopeMagFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -49046,7 +49124,7 @@
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
 		<DayVisionRangeBonus>20</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>50</PercentTunnelVision>
+		<PercentTunnelVision>30</PercentTunnelVision>
 		<ScopeMagFactor>2.5</ScopeMagFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -49072,7 +49150,6 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -49111,7 +49188,6 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -49146,7 +49222,6 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -49232,9 +49307,9 @@
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
 		<RocketLauncher>1</RocketLauncher>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>20</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>50</PercentTunnelVision>
+		<DayVisionRangeBonus>27</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>27</BrightLightVisionRangeBonus>
+		<PercentTunnelVision>30</PercentTunnelVision>
 		<ScopeMagFactor>3.0</ScopeMagFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -49273,9 +49348,9 @@
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
 		<RocketLauncher>1</RocketLauncher>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>20</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>50</PercentTunnelVision>
+		<DayVisionRangeBonus>27</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>27</BrightLightVisionRangeBonus>
+		<PercentTunnelVision>30</PercentTunnelVision>
 		<ScopeMagFactor>3.0</ScopeMagFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -49726,17 +49801,19 @@
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>10</BR_ROF>
+		<ToHitBonus>20</ToHitBonus>
+		<BestLaserRange>400</BestLaserRange>
 		<AimBonus>7</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
 		<RocketLauncher>1</RocketLauncher>
 		<SingleShotRocketLauncher>1</SingleShotRocketLauncher>
 		<DiscardedLauncherItem>247</DiscardedLauncherItem>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>20</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>60</PercentTunnelVision>
+		<DayVisionRangeBonus>27</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>27</BrightLightVisionRangeBonus>
+		<PercentTunnelVision>30</PercentTunnelVision>
 		<ScopeMagFactor>3.0</ScopeMagFactor>
-		<ProjectionFactor>6</ProjectionFactor>
+		<ProjectionFactor>5.7</ProjectionFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -49769,19 +49846,19 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>8</BR_ROF>
 		<ToHitBonus>20</ToHitBonus>
-		<BestLaserRange>600</BestLaserRange>
+		<BestLaserRange>700</BestLaserRange>
 		<AimBonus>5</AimBonus>
 		<MinRangeForAimBonus>25</MinRangeForAimBonus>
 		<RocketLauncher>1</RocketLauncher>
 		<SingleShotRocketLauncher>1</SingleShotRocketLauncher>
 		<DiscardedLauncherItem>247</DiscardedLauncherItem>
-		<NightVisionRangeBonus>40</NightVisionRangeBonus>
-		<DayVisionRangeBonus>35</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>30</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
+		<NightVisionRangeBonus>200</NightVisionRangeBonus>
+		<DayVisionRangeBonus>27</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>200</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>27</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>50</PercentTunnelVision>
 		<ScopeMagFactor>3.0</ScopeMagFactor>
-		<ProjectionFactor>9</ProjectionFactor>
+		<ProjectionFactor>10.0</ProjectionFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -49950,16 +50027,19 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>8</BR_ROF>
 		<ToHitBonus>99</ToHitBonus>
-		<BestLaserRange>1500</BestLaserRange>
+		<BestLaserRange>700</BestLaserRange>
 		<AimBonus>15</AimBonus>
 		<MinRangeForAimBonus>65</MinRangeForAimBonus>
 		<RocketLauncher>1</RocketLauncher>
 		<SingleShotRocketLauncher>1</SingleShotRocketLauncher>
 		<DiscardedLauncherItem>247</DiscardedLauncherItem>
-		<VisionRangeBonus>90</VisionRangeBonus>
-		<PercentTunnelVision>80</PercentTunnelVision>
+		<NightVisionRangeBonus>700</NightVisionRangeBonus>
+		<DayVisionRangeBonus>100</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>700</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>100</BrightLightVisionRangeBonus>
+		<PercentTunnelVision>90</PercentTunnelVision>
 		<ScopeMagFactor>6.0</ScopeMagFactor>
-		<ProjectionFactor>20</ProjectionFactor>
+		<ProjectionFactor>10.0</ProjectionFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -50062,9 +50142,9 @@
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
 		<GrenadeLauncher>1</GrenadeLauncher>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>20</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>50</PercentTunnelVision>
+		<DayVisionRangeBonus>25</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>25</BrightLightVisionRangeBonus>
+		<PercentTunnelVision>30</PercentTunnelVision>
 		<ScopeMagFactor>2.7</ScopeMagFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -52693,7 +52773,7 @@
 		<ubClassIndex>63</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>455</ubGraphicNum>
-		<ubWeight>1</ubWeight>
+		<ubWeight>2</ubWeight>
 		<ItemSize>39</ItemSize>
 		<usPrice>70</usPrice>
 		<ubCoolness>5</ubCoolness>
@@ -54389,6 +54469,8 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
+		<BR_NewInventory>2</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
 		<AimBonus>-1</AimBonus>
 		<CamoBonus>15</CamoBonus>
 		<STAND_MODIFIERS>
@@ -54741,18 +54823,18 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1780</uiIndex>
-		<szItemName>RFVC1 Flak</szItemName>
+		<szItemName>6B5-19 Flak</szItemName>
 		<szLongItemName>RFVC1 Flak Vest</szLongItemName>
-		<szItemDesc>Russian Army flak vest covered with pockets for AK magazines and grenades.</szItemDesc>
+		<szItemDesc>Russian Army RFVC1 flak vest (a.k.a 6B5-19 body armour) covered with pockets for AK magazines and grenades.</szItemDesc>
 		<szBRName>RFVC1 Flak Vest</szBRName>
-		<szBRDesc>Russian Army flak vest covered with pockets for AK magazines and grenades.</szBRDesc>
+		<szBRDesc>Russian Army RFVC1 flak vest (a.k.a 6B5-19 body armour) covered with pockets for AK magazines and grenades.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>69</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>216</ubGraphicNum>
-		<ubWeight>25</ubWeight>
-		<ItemSize>42</ItemSize>
+		<ubWeight>14</ubWeight>
+		<ItemSize>46</ItemSize>
 		<usPrice>830</usPrice>
 		<ubCoolness>6</ubCoolness>
 		<bRepairEase>1</bRepairEase>
@@ -54764,6 +54846,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<AimBonus>-1</AimBonus>
 		<DefaultAttachment>884</DefaultAttachment>
+		<DefaultAttachment>836</DefaultAttachment>
 		<CamoBonus>20</CamoBonus>
 		<STAND_MODIFIERS>
 			<PercentBase>-5</PercentBase>
@@ -55379,14 +55462,13 @@
 		<ToHitBonus>-5</ToHitBonus>
 		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
-		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>25</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>25</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>40</PercentTunnelVision>
+		<NightVisionRangeBonus>20</NightVisionRangeBonus>
+		<DayVisionRangeBonus>30</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
+		<PercentTunnelVision>20</PercentTunnelVision>
 		<ScopeMagFactor>4.0</ScopeMagFactor>
-		<STAND_MODIFIERS>
-			<AimLevels>-1</AimLevels>
-		</STAND_MODIFIERS>
+		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
@@ -55523,12 +55605,13 @@
 		<ToHitBonus>-3</ToHitBonus>
 		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
-		<VisionRangeBonus>20</VisionRangeBonus>
-		<PercentTunnelVision>35</PercentTunnelVision>
+		<NightVisionRangeBonus>20</NightVisionRangeBonus>
+		<DayVisionRangeBonus>30</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
+		<PercentTunnelVision>10</PercentTunnelVision>
 		<ScopeMagFactor>3.4</ScopeMagFactor>
-		<STAND_MODIFIERS>
-			<AimLevels>-1</AimLevels>
-		</STAND_MODIFIERS>
+		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
@@ -55561,11 +55644,11 @@
 		<ToHitBonus>-2</ToHitBonus>
 		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>10</MinRangeForAimBonus>
-		<PercentAPReduction>10</PercentAPReduction>
+		<PercentAPReduction>15</PercentAPReduction>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>20</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>30</PercentTunnelVision>
+		<DayVisionRangeBonus>25</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>25</BrightLightVisionRangeBonus>
+		<PercentTunnelVision>10</PercentTunnelVision>
 		<ScopeMagFactor>3.0</ScopeMagFactor>
 		<STAND_MODIFIERS>
 			<AimLevels>-1</AimLevels>
@@ -55584,7 +55667,7 @@
 		<nasAttachmentClass>8</nasAttachmentClass>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>757</ubGraphicNum>
-		<ubWeight>6</ubWeight>
+		<ubWeight>5</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>27</ItemSize>
 		<usPrice>625</usPrice>
@@ -55600,11 +55683,11 @@
 		<ToHitBonus>-5</ToHitBonus>
 		<AimBonus>11</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
-		<NightVisionRangeBonus>15</NightVisionRangeBonus>
-		<DayVisionRangeBonus>30</DayVisionRangeBonus>
+		<NightVisionRangeBonus>20</NightVisionRangeBonus>
+		<DayVisionRangeBonus>35</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>45</PercentTunnelVision>
+		<BrightLightVisionRangeBonus>35</BrightLightVisionRangeBonus>
+		<PercentTunnelVision>10</PercentTunnelVision>
 		<ScopeMagFactor>4.0</ScopeMagFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -55639,15 +55722,13 @@
 		<ToHitBonus>-5</ToHitBonus>
 		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
-		<NightVisionRangeBonus>15</NightVisionRangeBonus>
+		<NightVisionRangeBonus>20</NightVisionRangeBonus>
 		<DayVisionRangeBonus>30</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>45</PercentTunnelVision>
+		<PercentTunnelVision>20</PercentTunnelVision>
 		<ScopeMagFactor>4.0</ScopeMagFactor>
-		<STAND_MODIFIERS>
-			<AimLevels>-1</AimLevels>
-		</STAND_MODIFIERS>
+		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
@@ -55678,7 +55759,7 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<ToHitBonus>20</ToHitBonus>
-		<BestLaserRange>240</BestLaserRange>
+		<BestLaserRange>280</BestLaserRange>
 		<PercentAPReduction>20</PercentAPReduction>
 		<CamoBonus>-10</CamoBonus>
 		<UrbanCamoBonus>-10</UrbanCamoBonus>
@@ -55728,7 +55809,7 @@
 		<StealthBonus>-10</StealthBonus>
 		<NightVisionRangeBonus>20</NightVisionRangeBonus>
 		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
-		<ProjectionFactor>4.4</ProjectionFactor>
+		<ProjectionFactor>4.3</ProjectionFactor>
 		<STAND_MODIFIERS>
 			<AimLevels>-1</AimLevels>
 		</STAND_MODIFIERS>
@@ -55768,13 +55849,13 @@
 		<DesertCamoBonus>-10</DesertCamoBonus>
 		<SnowCamoBonus>-10</SnowCamoBonus>
 		<StealthBonus>-10</StealthBonus>
-		<NightVisionRangeBonus>30</NightVisionRangeBonus>
-		<DayVisionRangeBonus>25</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>30</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>25</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>40</PercentTunnelVision>
+		<NightVisionRangeBonus>90</NightVisionRangeBonus>
+		<DayVisionRangeBonus>30</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>90</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
+		<PercentTunnelVision>20</PercentTunnelVision>
 		<ScopeMagFactor>4.0</ScopeMagFactor>
-		<ProjectionFactor>6.0</ProjectionFactor>
+		<ProjectionFactor>5.7</ProjectionFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -55808,10 +55889,10 @@
 		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
 		<NightVisionRangeBonus>20</NightVisionRangeBonus>
-		<DayVisionRangeBonus>30</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>15</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>45</PercentTunnelVision>
+		<DayVisionRangeBonus>35</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>35</BrightLightVisionRangeBonus>
+		<PercentTunnelVision>30</PercentTunnelVision>
 		<ScopeMagFactor>4.0</ScopeMagFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -55854,15 +55935,15 @@
 	<ITEM>
 		<uiIndex>1813</uiIndex>
 		<szItemName>Ultimate Scope</szItemName>
-		<szLongItemName>24x Ultimate Scope</szLongItemName>
-		<szItemDesc>A hi-power megascopic large scope for long range sniper rifle.</szItemDesc>
-		<szBRName>24x Ultimate Scope</szBRName>
+		<szLongItemName>6.5-24x Ultimate Scope</szLongItemName>
+		<szItemDesc>A hi-power megascopic large scope for long range sniper rifle. (Also set in 18x.)</szItemDesc>
+		<szBRName>6.5-24x Ultimate Scope</szBRName>
 		<szBRDesc>A hi-power megascopic large scope for long range sniper rifle.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>8</nasAttachmentClass>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>764</ubGraphicNum>
-		<ubWeight>10</ubWeight>
+		<ubWeight>12</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>38</ItemSize>
 		<usPrice>2000</usPrice>
@@ -55880,12 +55961,12 @@
 		<MinRangeForAimBonus>90</MinRangeForAimBonus>
 		<PercentAPReduction>-18</PercentAPReduction>
 		<DamageBonus>3</DamageBonus>
-		<NightVisionRangeBonus>45</NightVisionRangeBonus>
-		<DayVisionRangeBonus>135</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>135</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>96</PercentTunnelVision>
-		<ScopeMagFactor>24.0</ScopeMagFactor>
+		<NightVisionRangeBonus>80</NightVisionRangeBonus>
+		<DayVisionRangeBonus>160</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>60</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>160</BrightLightVisionRangeBonus>
+		<PercentTunnelVision>95</PercentTunnelVision>
+		<ScopeMagFactor>18.0</ScopeMagFactor>
 		<STAND_MODIFIERS>
 			<PercentCap>-15</PercentCap>
 		</STAND_MODIFIERS>
@@ -55933,9 +56014,9 @@
 		<uiIndex>1815</uiIndex>
 		<szItemName>AN/PVS-10 NVS</szItemName>
 		<szLongItemName>AN/PVS-10 Night Vision Sniperscope</szLongItemName>
-		<szItemDesc>This Night Vision Sniperscope is an integrated day/night 12.5x sight for the Sniper Rifle, features a day/night selector switch and adjustments for output brightness and reticle illumination.</szItemDesc>
+		<szItemDesc>This Night Vision Sniperscope is an integrated day/night 12.2x sight for the Sniper Rifle, features a day/night selector switch and adjustments for output brightness and reticle illumination.</szItemDesc>
 		<szBRName>AN/PVS-10 NVS</szBRName>
-		<szBRDesc>This Night Vision Sniperscope is an integrated day/night 12.5x sight for the Sniper Rifle, features a day/night selector switch and adjustments for output brightness and reticle illumination.</szBRDesc>
+		<szBRDesc>This Night Vision Sniperscope is an integrated day/night 12.2x sight for the Sniper Rifle, features a day/night selector switch and adjustments for output brightness and reticle illumination.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>8</nasAttachmentClass>
 		<ubGraphicType>1</ubGraphicType>
@@ -55956,17 +56037,17 @@
 		<Electronic>1</Electronic>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<ToHitBonus>-9</ToHitBonus>
+		<ToHitBonus>-5</ToHitBonus>
 		<AimBonus>20</AimBonus>
-		<MinRangeForAimBonus>85</MinRangeForAimBonus>
-		<PercentAPReduction>-10</PercentAPReduction>
-		<DamageBonus>2</DamageBonus>
-		<NightVisionRangeBonus>150</NightVisionRangeBonus>
-		<DayVisionRangeBonus>90</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>130</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>90</BrightLightVisionRangeBonus>
+		<MinRangeForAimBonus>65</MinRangeForAimBonus>
+		<PercentAPReduction>-9</PercentAPReduction>
+		<DamageBonus>1</DamageBonus>
+		<NightVisionRangeBonus>420</NightVisionRangeBonus>
+		<DayVisionRangeBonus>100</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>400</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>100</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>90</PercentTunnelVision>
-		<ScopeMagFactor>12.5</ScopeMagFactor>
+		<ScopeMagFactor>12.2</ScopeMagFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -55999,10 +56080,11 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
-		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>20</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>35</PercentTunnelVision>
+		<NightVisionRangeBonus>20</NightVisionRangeBonus>
+		<DayVisionRangeBonus>25</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>25</BrightLightVisionRangeBonus>
+		<PercentTunnelVision>20</PercentTunnelVision>
 		<ScopeMagFactor>3.5</ScopeMagFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -56036,10 +56118,10 @@
 		<MinRangeForAimBonus>65</MinRangeForAimBonus>
 		<PercentAPReduction>-5</PercentAPReduction>
 		<DamageBonus>1</DamageBonus>
-		<NightVisionRangeBonus>25</NightVisionRangeBonus>
-		<DayVisionRangeBonus>55</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>55</BrightLightVisionRangeBonus>
+		<NightVisionRangeBonus>30</NightVisionRangeBonus>
+		<DayVisionRangeBonus>60</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>15</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>60</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>70</PercentTunnelVision>
 		<ScopeMagFactor>7.0</ScopeMagFactor>
 		<STAND_MODIFIERS />
@@ -56074,11 +56156,11 @@
 		<MinRangeForAimBonus>70</MinRangeForAimBonus>
 		<PercentAPReduction>-7</PercentAPReduction>
 		<DamageBonus>2</DamageBonus>
-		<NightVisionRangeBonus>25</NightVisionRangeBonus>
-		<DayVisionRangeBonus>65</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>15</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>65</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>85</PercentTunnelVision>
+		<NightVisionRangeBonus>40</NightVisionRangeBonus>
+		<DayVisionRangeBonus>70</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>30</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>70</BrightLightVisionRangeBonus>
+		<PercentTunnelVision>80</PercentTunnelVision>
 		<ScopeMagFactor>9.0</ScopeMagFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -56095,7 +56177,7 @@
 		<nasAttachmentClass>8</nasAttachmentClass>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>769</ubGraphicNum>
-		<ubWeight>10</ubWeight>
+		<ubWeight>11</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>33</ItemSize>
 		<usPrice>2900</usPrice>
@@ -56112,10 +56194,10 @@
 		<MinRangeForAimBonus>85</MinRangeForAimBonus>
 		<PercentAPReduction>-10</PercentAPReduction>
 		<DamageBonus>2</DamageBonus>
-		<NightVisionRangeBonus>110</NightVisionRangeBonus>
-		<DayVisionRangeBonus>120</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>100</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>120</BrightLightVisionRangeBonus>
+		<NightVisionRangeBonus>420</NightVisionRangeBonus>
+		<DayVisionRangeBonus>105</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>400</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>105</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>90</PercentTunnelVision>
 		<ScopeMagFactor>13.0</ScopeMagFactor>
 		<STAND_MODIFIERS />
@@ -56133,7 +56215,7 @@
 		<nasAttachmentClass>8</nasAttachmentClass>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>770</ubGraphicNum>
-		<ubWeight>9</ubWeight>
+		<ubWeight>8</ubWeight>
 		<ubPerPocket>2</ubPerPocket>
 		<ItemSize>27</ItemSize>
 		<usPrice>6300</usPrice>
@@ -56150,9 +56232,8 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<PercentAPReduction>15</PercentAPReduction>
-		<NightVisionRangeBonus>50</NightVisionRangeBonus>
-		<CaveVisionRangeBonus>40</CaveVisionRangeBonus>
-		<PercentTunnelVision>20</PercentTunnelVision>
+		<NightVisionRangeBonus>60</NightVisionRangeBonus>
+		<CaveVisionRangeBonus>50</CaveVisionRangeBonus>
 		<STAND_MODIFIERS>
 			<AimLevels>-1</AimLevels>
 		</STAND_MODIFIERS>
@@ -56188,11 +56269,11 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
-		<NightVisionRangeBonus>70</NightVisionRangeBonus>
-		<DayVisionRangeBonus>20</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>60</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>35</PercentTunnelVision>
+		<NightVisionRangeBonus>200</NightVisionRangeBonus>
+		<DayVisionRangeBonus>25</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>190</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>25</BrightLightVisionRangeBonus>
+		<PercentTunnelVision>20</PercentTunnelVision>
 		<ScopeMagFactor>3.0</ScopeMagFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -56225,9 +56306,8 @@
 		<AimBonus>15</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>20</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>5</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
+		<DayVisionRangeBonus>35</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>35</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>30</PercentTunnelVision>
 		<ScopeMagFactor>4.0</ScopeMagFactor>
 		<STAND_MODIFIERS />
@@ -56303,14 +56383,14 @@
 		<uiIndex>1825</uiIndex>
 		<szItemName>Scope 16x</szItemName>
 		<szLongItemName>SCHMIDT &amp; BENDER 4.5-16x Scope</szLongItemName>
-		<szItemDesc>The configuration of the 4.5-16x Police Marksman II has been a long standing favorite of tactical marksmen and precision shooters for ages, and for good reason.</szItemDesc>
+		<szItemDesc>The configuration of the 4.5-16x Police Marksman II has been a long standing favorite of tactical marksmen and precision shooters for ages, and for good reason. (Also set in 14x.)</szItemDesc>
 		<szBRName>SCHMIDT &amp; BENDER 4.5-16x Scope</szBRName>
 		<szBRDesc>The configuration of the 4.5-16x Police Marksman II has been a long standing favorite of tactical marksmen and precision shooters for ages, and for good reason.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>8</nasAttachmentClass>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>798</ubGraphicNum>
-		<ubWeight>8</ubWeight>
+		<ubWeight>10</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>38</ItemSize>
 		<usPrice>2200</usPrice>
@@ -56327,12 +56407,12 @@
 		<MinRangeForAimBonus>75</MinRangeForAimBonus>
 		<PercentAPReduction>-15</PercentAPReduction>
 		<DamageBonus>2</DamageBonus>
-		<NightVisionRangeBonus>45</NightVisionRangeBonus>
+		<NightVisionRangeBonus>50</NightVisionRangeBonus>
 		<DayVisionRangeBonus>110</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>25</CaveVisionRangeBonus>
+		<CaveVisionRangeBonus>40</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>110</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>93</PercentTunnelVision>
-		<ScopeMagFactor>16.0</ScopeMagFactor>
+		<PercentTunnelVision>95</PercentTunnelVision>
+		<ScopeMagFactor>14.0</ScopeMagFactor>
 		<STAND_MODIFIERS>
 			<PercentCap>-10</PercentCap>
 		</STAND_MODIFIERS>
@@ -56368,9 +56448,8 @@
 		<AimBonus>7</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>15</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>15</BrightLightVisionRangeBonus>
+		<DayVisionRangeBonus>10</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
 		<ScopeMagFactor>1.5</ScopeMagFactor>
 		<STAND_MODIFIERS>
 			<AimLevels>-1</AimLevels>
@@ -56380,19 +56459,19 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1827</uiIndex>
-		<szItemName>ACOG TA55</szItemName>
-		<szLongItemName>Trijicon ACOG TA55</szLongItemName>
-		<szItemDesc>The powerful Trijicon ACOG TA55 5.5x50 Scopes / Sights is specifically designed for a variety of medium and long range shooting applications up to 400 meters.</szItemDesc>
-		<szBRName>Trijicon ACOG TA55</szBRName>
-		<szBRDesc>The powerful Trijicon ACOG TA55 5.5x50 Scopes / Sights is specifically designed for a variety of medium and long range shooting applications up to 400 meters.</szBRDesc>
+		<szItemName>ACOG TA648</szItemName>
+		<szLongItemName>Trijicon ACOG TA648</szLongItemName>
+		<szItemDesc>The powerful Trijicon ACOG 6x48 Scopes / Sights is specifically designed for a variety of medium and long range shooting applications up to 400 meters.</szItemDesc>
+		<szBRName>Trijicon ACOG TA648</szBRName>
+		<szBRDesc>The powerful Trijicon ACOG 6x48 Scopes / Sights is specifically designed for a variety of medium and long range shooting applications up to 400 meters.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>8</nasAttachmentClass>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>816</ubGraphicNum>
-		<ubWeight>7</ubWeight>
+		<ubWeight>10</ubWeight>
 		<ubPerPocket>2</ubPerPocket>
-		<ItemSize>27</ItemSize>
-		<usPrice>1670</usPrice>
+		<ItemSize>33</ItemSize>
+		<usPrice>1780</usPrice>
 		<ubCoolness>8</ubCoolness>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
@@ -56406,11 +56485,11 @@
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
 		<DamageBonus>1</DamageBonus>
 		<NightVisionRangeBonus>20</NightVisionRangeBonus>
-		<DayVisionRangeBonus>40</DayVisionRangeBonus>
+		<DayVisionRangeBonus>50</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>40</BrightLightVisionRangeBonus>
+		<BrightLightVisionRangeBonus>50</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>50</PercentTunnelVision>
-		<ScopeMagFactor>5.5</ScopeMagFactor>
+		<ScopeMagFactor>6.0</ScopeMagFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -56440,7 +56519,10 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<AimBonus>5</AimBonus>
-		<VisionRangeBonus>20</VisionRangeBonus>
+		<NightVisionRangeBonus>20</NightVisionRangeBonus>
+		<DayVisionRangeBonus>25</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>25</BrightLightVisionRangeBonus>
 		<ScopeMagFactor>3.0</ScopeMagFactor>
 		<STAND_MODIFIERS>
 			<AimLevels>1</AimLevels>
@@ -56474,12 +56556,12 @@
 		<Electronic>1</Electronic>
 		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
-		<NightVisionRangeBonus>60</NightVisionRangeBonus>
-		<DayVisionRangeBonus>17</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>60</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>17</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>20</PercentTunnelVision>
-		<ScopeMagFactor>2.0</ScopeMagFactor>
+		<NightVisionRangeBonus>150</NightVisionRangeBonus>
+		<DayVisionRangeBonus>20</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>140</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
+		<PercentTunnelVision>30</PercentTunnelVision>
+		<ScopeMagFactor>2.5</ScopeMagFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -56520,8 +56602,11 @@
 		<DesertCamoBonus>-5</DesertCamoBonus>
 		<SnowCamoBonus>-5</SnowCamoBonus>
 		<StealthBonus>-5</StealthBonus>
-		<VisionRangeBonus>25</VisionRangeBonus>
-		<PercentTunnelVision>25</PercentTunnelVision>
+		<NightVisionRangeBonus>270</NightVisionRangeBonus>
+		<DayVisionRangeBonus>50</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>250</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>50</BrightLightVisionRangeBonus>
+		<PercentTunnelVision>30</PercentTunnelVision>
 		<ScopeMagFactor>3.0</ScopeMagFactor>
 		<ProjectionFactor>7.2</ProjectionFactor>
 		<STAND_MODIFIERS>
@@ -57429,7 +57514,7 @@
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
 		<STAND_MODIFIERS>
 			<FlatAim>10</FlatAim>
-			<PercentCap>20</PercentCap>
+			<PercentCap>15</PercentCap>
 		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -57494,9 +57579,10 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<AimBonus>15</AimBonus>
 		<MinRangeForAimBonus>45</MinRangeForAimBonus>
-		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>28</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>28</BrightLightVisionRangeBonus>
+		<NightVisionRangeBonus>20</NightVisionRangeBonus>
+		<DayVisionRangeBonus>40</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>40</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>50</PercentTunnelVision>
 		<ScopeMagFactor>5.0</ScopeMagFactor>
 		<STAND_MODIFIERS />
@@ -57567,8 +57653,8 @@
 		<AimBonus>15</AimBonus>
 		<MinRangeForAimBonus>45</MinRangeForAimBonus>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>30</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
+		<DayVisionRangeBonus>35</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>35</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>40</PercentTunnelVision>
 		<ScopeMagFactor>4.0</ScopeMagFactor>
 		<STAND_MODIFIERS />
@@ -57604,11 +57690,11 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>20</MinRangeForAimBonus>
-		<NightVisionRangeBonus>60</NightVisionRangeBonus>
-		<DayVisionRangeBonus>15</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>60</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>15</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>20</PercentTunnelVision>
+		<NightVisionRangeBonus>180</NightVisionRangeBonus>
+		<DayVisionRangeBonus>20</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>170</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
+		<PercentTunnelVision>10</PercentTunnelVision>
 		<ScopeMagFactor>2.3</ScopeMagFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -57642,11 +57728,11 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
-		<NightVisionRangeBonus>25</NightVisionRangeBonus>
-		<DayVisionRangeBonus>28</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>28</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>40</PercentTunnelVision>
+		<NightVisionRangeBonus>20</NightVisionRangeBonus>
+		<DayVisionRangeBonus>30</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
+		<PercentTunnelVision>20</PercentTunnelVision>
 		<ScopeMagFactor>4.0</ScopeMagFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -59606,7 +59692,7 @@
 		<ubClassIndex>101</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>276</ubGraphicNum>
-		<ubWeight>4</ubWeight>
+		<ubWeight>2</ubWeight>
 		<ItemSize>32</ItemSize>
 		<usPrice>45</usPrice>
 		<ubCoolness>6</ubCoolness>
@@ -67137,8 +67223,8 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
-		<VisionRangeBonus>40</VisionRangeBonus>
-		<PercentTunnelVision>60</PercentTunnelVision>
+		<VisionRangeBonus>50</VisionRangeBonus>
+		<PercentTunnelVision>50</PercentTunnelVision>
 		<ScopeMagFactor>6.0</ScopeMagFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -67173,6 +67259,7 @@
 		<AimBonus>5</AimBonus>
 		<MinRangeForAimBonus>15</MinRangeForAimBonus>
 		<PercentAPReduction>15</PercentAPReduction>
+		<DayVisionRangeBonus>10</DayVisionRangeBonus>
 		<ScopeMagFactor>1.5</ScopeMagFactor>
 		<STAND_MODIFIERS>
 			<AimLevels>-1</AimLevels>
@@ -67209,10 +67296,10 @@
 		<MinRangeForAimBonus>75</MinRangeForAimBonus>
 		<PercentAPReduction>-9</PercentAPReduction>
 		<DamageBonus>2</DamageBonus>
-		<NightVisionRangeBonus>35</NightVisionRangeBonus>
-		<DayVisionRangeBonus>85</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>15</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>85</BrightLightVisionRangeBonus>
+		<NightVisionRangeBonus>40</NightVisionRangeBonus>
+		<DayVisionRangeBonus>80</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>30</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>80</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>90</PercentTunnelVision>
 		<ScopeMagFactor>10.0</ScopeMagFactor>
 		<STAND_MODIFIERS />
@@ -67317,8 +67404,8 @@
 		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>10</MinRangeForAimBonus>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>20</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
+		<DayVisionRangeBonus>25</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>25</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>30</PercentTunnelVision>
 		<ScopeMagFactor>3.0</ScopeMagFactor>
 		<STAND_MODIFIERS />
@@ -67351,11 +67438,11 @@
 		<MinRangeForAimBonus>70</MinRangeForAimBonus>
 		<PercentAPReduction>-7</PercentAPReduction>
 		<DamageBonus>2</DamageBonus>
-		<NightVisionRangeBonus>25</NightVisionRangeBonus>
-		<DayVisionRangeBonus>65</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>65</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>85</PercentTunnelVision>
+		<NightVisionRangeBonus>40</NightVisionRangeBonus>
+		<DayVisionRangeBonus>70</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>30</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>70</BrightLightVisionRangeBonus>
+		<PercentTunnelVision>80</PercentTunnelVision>
 		<ScopeMagFactor>9.0</ScopeMagFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -67373,7 +67460,7 @@
 		<ubClassIndex>115</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>149</ubGraphicNum>
-		<ubWeight>1</ubWeight>
+		<ubWeight>2</ubWeight>
 		<ItemSize>32</ItemSize>
 		<usPrice>80</usPrice>
 		<ubCoolness>5</ubCoolness>
@@ -67423,6 +67510,7 @@
 		<szBRName>Type07 Wood Trousers</szBRName>
 		<szBRDesc>The Chinese type07 Woodland Camo Trousers.</szBRDesc>
 		<usItemClass>2048</usItemClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>195</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
@@ -67479,6 +67567,7 @@
 		<szBRName>Type07 Desert Trousers</szBRName>
 		<szBRDesc>The Chinese Type07 Digital Desert Camo Trousers.</szBRDesc>
 		<usItemClass>2048</usItemClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>197</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
@@ -67876,6 +67965,7 @@
 		<szBRName>KLMK Trousers</szBRName>
 		<szBRDesc>The KLMK or Camouflage Summer Deceptive Coverall is an extremely effective camo oversuit used by Russian forces since 1960s. They are still seen at combat areas today Used by special forces, sappers, snipers, and sometimes regular infantry.</szBRDesc>
 		<usItemClass>2048</usItemClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>201</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
@@ -67934,6 +68024,7 @@
 		<szBRName>OMON Wood Trousers</szBRName>
 		<szBRDesc>This jungle BDU is issued to Russian SWAT for MVD (OMON).</szBRDesc>
 		<usItemClass>2048</usItemClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>203</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
@@ -67992,6 +68083,7 @@
 		<szBRName>OMON Urban Trousers</szBRName>
 		<szBRDesc>This urban camo BDU is issued to Russian SWAT for MVD (OMON).</szBRDesc>
 		<usItemClass>2048</usItemClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>205</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
@@ -68850,7 +68942,7 @@
 		<ubClassIndex>148</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>440</ubGraphicNum>
-		<ubWeight>1</ubWeight>
+		<ubWeight>2</ubWeight>
 		<ItemSize>32</ItemSize>
 		<usPrice>60</usPrice>
 		<ubCoolness>5</ubCoolness>
@@ -68876,7 +68968,7 @@
 		<ubClassIndex>149</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>441</ubGraphicNum>
-		<ubWeight>1</ubWeight>
+		<ubWeight>2</ubWeight>
 		<ItemSize>39</ItemSize>
 		<usPrice>70</usPrice>
 		<ubCoolness>5</ubCoolness>
@@ -68954,7 +69046,7 @@
 		<ubClassIndex>152</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>444</ubGraphicNum>
-		<ubWeight>1</ubWeight>
+		<ubWeight>2</ubWeight>
 		<ItemSize>32</ItemSize>
 		<usPrice>50</usPrice>
 		<ubCoolness>5</ubCoolness>
@@ -69058,7 +69150,7 @@
 		<ubClassIndex>156</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>448</ubGraphicNum>
-		<ubWeight>1</ubWeight>
+		<ubWeight>2</ubWeight>
 		<ItemSize>32</ItemSize>
 		<usPrice>80</usPrice>
 		<ubCoolness>5</ubCoolness>
@@ -69336,14 +69428,12 @@
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
 		<Electronic>1</Electronic>
-		<BR_NewInventory>1</BR_NewInventory>
-		<BR_UsedInventory>1</BR_UsedInventory>
 		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
 		<DayVisionRangeBonus>20</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>25</PercentTunnelVision>
+		<PercentTunnelVision>20</PercentTunnelVision>
 		<ScopeMagFactor>2.7</ScopeMagFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -69360,7 +69450,7 @@
 		<nasAttachmentClass>8</nasAttachmentClass>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>915</ubGraphicNum>
-		<ubWeight>22</ubWeight>
+		<ubWeight>14</ubWeight>
 		<ubPerPocket>2</ubPerPocket>
 		<ItemSize>33</ItemSize>
 		<usPrice>6400</usPrice>
@@ -69378,11 +69468,11 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
-		<NightVisionRangeBonus>120</NightVisionRangeBonus>
-		<DayVisionRangeBonus>30</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>120</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>40</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>50</PercentTunnelVision>
+		<NightVisionRangeBonus>150</NightVisionRangeBonus>
+		<DayVisionRangeBonus>10</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>150</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
+		<PercentTunnelVision>10</PercentTunnelVision>
 		<ScopeMagFactor>1.8</ScopeMagFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -69640,11 +69730,11 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<AimBonus>15</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
-		<NightVisionRangeBonus>100</NightVisionRangeBonus>
-		<DayVisionRangeBonus>50</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>90</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>50</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>70</PercentTunnelVision>
+		<NightVisionRangeBonus>250</NightVisionRangeBonus>
+		<DayVisionRangeBonus>40</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>230</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>40</BrightLightVisionRangeBonus>
+		<PercentTunnelVision>40</PercentTunnelVision>
 		<ScopeMagFactor>4.0</ScopeMagFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -73021,7 +73111,7 @@
 		<ubClassIndex>683</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>482</ubGraphicNum>
-		<ubWeight>15</ubWeight>
+		<ubWeight>16</ubWeight>
 		<ubPerPocket>2</ubPerPocket>
 		<ItemSize>33</ItemSize>
 		<usPrice>810</usPrice>
@@ -73068,9 +73158,9 @@
 		<ubClassIndex>684</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>463</ubGraphicNum>
-		<ubWeight>120</ubWeight>
-		<ItemSize>333</ItemSize>
-		<usPrice>9000</usPrice>
+		<ubWeight>12</ubWeight>
+		<ItemSize>33</ItemSize>
+		<usPrice>900</usPrice>
 		<ubCoolness>3</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
@@ -73952,7 +74042,7 @@
 		<szLongItemName>.458 SOCOM Magazine, 12 JHP</szLongItemName>
 		<szItemDesc>A 12-round JHP clip of .458 SOCOM ammunition. This manstopper is a 300grain bullet with a velocity of 1900 fps.</szItemDesc>
 		<szBRName>.458 SOCOM Mag 12 JHP</szBRName>
-		<szBRDesc>A 12-round JHP clip of .458 SOCOM ammunition. This manstopper is a 300grain bullet with a velocity of 1900 fps..</szBRDesc>
+		<szBRDesc>A 12-round JHP clip of .458 SOCOM ammunition. This manstopper is a 300grain bullet with a velocity of 1900 fps.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>836</ubClassIndex>
@@ -75438,9 +75528,9 @@
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
 		<PercentAPReduction>10</PercentAPReduction>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>25</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>25</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>40</PercentTunnelVision>
+		<DayVisionRangeBonus>30</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
+		<PercentTunnelVision>30</PercentTunnelVision>
 		<ScopeMagFactor>4.0</ScopeMagFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -75634,9 +75724,8 @@
 		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>20</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>6</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
+		<DayVisionRangeBonus>25</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>25</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>25</PercentTunnelVision>
 		<ScopeMagFactor>3.5</ScopeMagFactor>
 		<STAND_MODIFIERS />
@@ -76806,6 +76895,7 @@
 		<szBRName>DPM Trousers</szBRName>
 		<szBRDesc>The DPM trousers allows you to hide better and longer in the corresponding environment.</szBRDesc>
 		<usItemClass>2048</usItemClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>217</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
@@ -80078,7 +80168,7 @@
 		<SciFi>1</SciFi>
 		<Electronic>1</Electronic>
 		<ToHitBonus>20</ToHitBonus>
-		<BestLaserRange>800</BestLaserRange>
+		<BestLaserRange>700</BestLaserRange>
 		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>70</MinRangeForAimBonus>
 		<PercentAPReduction>-30</PercentAPReduction>
@@ -80087,7 +80177,10 @@
 		<DesertCamoBonus>-15</DesertCamoBonus>
 		<SnowCamoBonus>-15</SnowCamoBonus>
 		<StealthBonus>-15</StealthBonus>
-		<VisionRangeBonus>120</VisionRangeBonus>
+		<NightVisionRangeBonus>420</NightVisionRangeBonus>
+		<DayVisionRangeBonus>100</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>400</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>100</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>90</PercentTunnelVision>
 		<ScopeMagFactor>12.0</ScopeMagFactor>
 		<ProjectionFactor>10.0</ProjectionFactor>
@@ -80236,10 +80329,7 @@
 		<PercentReloadTimeAPReduction>-10</PercentReloadTimeAPReduction>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS>
-			<PercentBase>-10</PercentBase>
-			<PercentCap>-5</PercentCap>
-		</PRONE_MODIFIERS>
+		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2653</uiIndex>
@@ -80305,10 +80395,7 @@
 		<PercentReloadTimeAPReduction>-5</PercentReloadTimeAPReduction>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS>
-			<PercentBase>-10</PercentBase>
-			<PercentCap>-5</PercentCap>
-		</PRONE_MODIFIERS>
+		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2655</uiIndex>
@@ -80373,10 +80460,7 @@
 		<PercentReloadTimeAPReduction>-10</PercentReloadTimeAPReduction>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS>
-			<PercentBase>-10</PercentBase>
-			<PercentCap>-5</PercentCap>
-		</PRONE_MODIFIERS>
+		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2657</uiIndex>
@@ -80509,10 +80593,15 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<Bipod>-5</Bipod>
 		<MagSizeBonus>68</MagSizeBonus>
+		<PercentReadyTimeAPReduction>-3</PercentReadyTimeAPReduction>
 		<PercentReloadTimeAPReduction>-15</PercentReloadTimeAPReduction>
-		<STAND_MODIFIERS />
+		<STAND_MODIFIERS>
+			<PercentHandling>3</PercentHandling>
+			<PercentMaxCounterForce>5</PercentMaxCounterForce>
+		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS>
+			<PercentHandling>10</PercentHandling>
 			<PercentBase>-20</PercentBase>
 			<PercentCap>-10</PercentCap>
 		</PRONE_MODIFIERS>
@@ -80791,6 +80880,602 @@
 		<Repairable>1</Repairable>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2672</uiIndex>
+		<szItemName>Grenade Vest</szItemName>
+		<szLongItemName>40mm Grenade Carry Vest</szLongItemName>
+		<szItemDesc>The vest has a carrying capacity of twenty-four 40mm grenades used with M79 and M203 launchers.</szItemDesc>
+		<szBRName>40mm Grenade Carry Vest</szBRName>
+		<szBRDesc>The vest has a carrying capacity of twenty-four 40mm grenades used with M79 and M203 launchers.</szBRDesc>
+		<usItemClass>131072</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>171</ubClassIndex>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>496</ubGraphicNum>
+		<ubWeight>11</ubWeight>
+		<ItemSize>42</ItemSize>
+		<usPrice>600</usPrice>
+		<ubCoolness>6</ubCoolness>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<BR_NewInventory>3</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2673</uiIndex>
+		<szItemName>6B43 Body Armor</szItemName>
+		<szLongItemName>Russian 6B43 Body Armor</szLongItemName>
+		<szItemDesc>Russian Army newest body armor with MOLLE/PALS.</szItemDesc>
+		<szBRName>Russian 6B43 Body Armor</szBRName>
+		<szBRDesc>Russian Army newest body armor with MOLLE/PALS.</szBRDesc>
+		<usItemClass>131072</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>172</ubClassIndex>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>484</ubGraphicNum>
+		<ubWeight>9</ubWeight>
+		<ItemSize>46</ItemSize>
+		<usPrice>830</usPrice>
+		<ubCoolness>8</ubCoolness>
+		<bRepairEase>1</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<BR_NewInventory>2</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<AimBonus>-1</AimBonus>
+		<DefaultAttachment>884</DefaultAttachment>
+		<CamoBonus>25</CamoBonus>
+		<STAND_MODIFIERS>
+			<PercentBase>-5</PercentBase>
+			<PercentCap>-2</PercentCap>
+			<PercentCounterForceAccuracy>-5</PercentCounterForceAccuracy>
+		</STAND_MODIFIERS>
+		<CROUCH_MODIFIERS>
+			<PercentBase>-10</PercentBase>
+			<PercentCap>-4</PercentCap>
+			<PercentCounterForceAccuracy>-10</PercentCounterForceAccuracy>
+		</CROUCH_MODIFIERS>
+		<PRONE_MODIFIERS>
+			<PercentBase>-7</PercentBase>
+			<PercentCap>-3</PercentCap>
+			<PercentCounterForceAccuracy>-7</PercentCounterForceAccuracy>
+		</PRONE_MODIFIERS>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2674</uiIndex>
+		<szItemName>UMTBS Vest</szItemName>
+		<szLongItemName>6Sh112 UMTBS Vest</szLongItemName>
+		<szItemDesc>UMTBS (Universalnaya Modulnaya Transportno-Boevaya Sistema) (a.k.a 6Sh112)is the russian equivalent of MOLLE.</szItemDesc>
+		<szBRName>6Sh112 UMTBS Vest</szBRName>
+		<szBRDesc>UMTBS (Universalnaya Modulnaya Transportno-Boevaya Sistema) (a.k.a 6Sh112)is the russian equivalent of MOLLE.</szBRDesc>
+		<usItemClass>131072</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>173</ubClassIndex>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>485</ubGraphicNum>
+		<ubWeight>7</ubWeight>
+		<ItemSize>42</ItemSize>
+		<usPrice>90</usPrice>
+		<ubCoolness>6</ubCoolness>
+		<bRepairEase>2</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<ShowStatus>1</ShowStatus>
+		<BR_NewInventory>3</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2675</uiIndex>
+		<szItemName>MOLLE AK Pouch</szItemName>
+		<szLongItemName>Russian MOLLE AK Mag Pouch</szLongItemName>
+		<szItemDesc>Double AK Mag Pocket for MOLLE/PALS. Can carry four AK magazines and one light-stick.</szItemDesc>
+		<szBRName>Russian MOLLE AK Mag Pouch</szBRName>
+		<szBRDesc>Double AK Mag Pocket for MOLLE/PALS. Can carry four AK magazines and one light-stick.</szBRDesc>
+		<usItemClass>131072</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>174</ubClassIndex>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>486</ubGraphicNum>
+		<ubWeight>1</ubWeight>
+		<ItemSize>32</ItemSize>
+		<usPrice>50</usPrice>
+		<ubCoolness>5</ubCoolness>
+		<bRepairEase>1</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<ShowStatus>1</ShowStatus>
+		<BR_NewInventory>2</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2676</uiIndex>
+		<szItemName>MOLLE RPK Pouch</szItemName>
+		<szLongItemName>Russian MOLLE RPK Mag Pouch</szLongItemName>
+		<szItemDesc>RPK Mag Pocket for MOLLE/PALS. Can carry two RPK magazines and one light-stick.</szItemDesc>
+		<szBRName>Russian MOLLE RPK Mag Pouch</szBRName>
+		<szBRDesc>RPK Mag Pocket for MOLLE/PALS. Can carry two RPK magazines and one light-stick.</szBRDesc>
+		<usItemClass>131072</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>175</ubClassIndex>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>487</ubGraphicNum>
+		<ubWeight>1</ubWeight>
+		<ItemSize>32</ItemSize>
+		<usPrice>50</usPrice>
+		<ubCoolness>5</ubCoolness>
+		<bRepairEase>1</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<ShowStatus>1</ShowStatus>
+		<BR_NewInventory>2</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2677</uiIndex>
+		<szItemName>MOLLE PKM Pouch</szItemName>
+		<szLongItemName>Russian MOLLE PKM Mag Pouch</szLongItemName>
+		<szItemDesc>A 100-rounds PKM ammo-belt Pouche for MOLLE/PALS in russian DPM camo.</szItemDesc>
+		<szBRName>Russian MOLLE PKM Mag Pouch</szBRName>
+		<szBRDesc>A 100-rounds PKM ammo-belt Pouche for MOLLE/PALS in russian DPM camo.</szBRDesc>
+		<usItemClass>131072</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>176</ubClassIndex>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>488</ubGraphicNum>
+		<ubWeight>1</ubWeight>
+		<ItemSize>39</ItemSize>
+		<usPrice>70</usPrice>
+		<ubCoolness>5</ubCoolness>
+		<bRepairEase>1</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<ShowStatus>1</ShowStatus>
+		<BR_NewInventory>2</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2678</uiIndex>
+		<szItemName>MOLLE SVD Pouch</szItemName>
+		<szLongItemName>Russian MOLLE SVD Mag Pouch</szLongItemName>
+		<szItemDesc>SVD magazine pouches for MOLLE/PALS. Can carry two SVD magazines.</szItemDesc>
+		<szBRName>Russian MOLLE SVD Mag Pouch</szBRName>
+		<szBRDesc>SVD magazine pouches for MOLLE/PALS. Can carry two SVD magazines.</szBRDesc>
+		<usItemClass>131072</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>177</ubClassIndex>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>489</ubGraphicNum>
+		<ubWeight>2</ubWeight>
+		<ItemSize>32</ItemSize>
+		<usPrice>60</usPrice>
+		<ubCoolness>5</ubCoolness>
+		<bRepairEase>1</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<ShowStatus>1</ShowStatus>
+		<BR_NewInventory>2</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2679</uiIndex>
+		<szItemName>MOLLE Mag Pouch</szItemName>
+		<szLongItemName>Russian MOLLE Pistol Mag Pouch</szLongItemName>
+		<szItemDesc>Russian MOLLE Pistol Mag Pocket for MOLLE/PALS.</szItemDesc>
+		<szBRName>Russian MOLLE Pistol Mag Pouch</szBRName>
+		<szBRDesc>Russian MOLLE Pistol Mag Pocket for MOLLE/PALS.</szBRDesc>
+		<usItemClass>131072</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>178</ubClassIndex>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>490</ubGraphicNum>
+		<ubWeight>1</ubWeight>
+		<ItemSize>32</ItemSize>
+		<usPrice>40</usPrice>
+		<ubCoolness>5</ubCoolness>
+		<bRepairEase>1</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<ShowStatus>1</ShowStatus>
+		<BR_NewInventory>2</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2680</uiIndex>
+		<szItemName>MOLLE VOG Bandolier</szItemName>
+		<szLongItemName>MOLLE VOG Bandolier</szLongItemName>
+		<szItemDesc>Russian MOLLE 40mm grenade bandolier for MOLLE/PALS. Can carry five VOG-25 grenades.</szItemDesc>
+		<szBRName>MOLLE VOG Bandolier</szBRName>
+		<szBRDesc>Russian MOLLE 40mm grenade bandolier for MOLLE/PALS. Can carry five VOG-25 grenades.</szBRDesc>
+		<usItemClass>131072</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>179</ubClassIndex>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>491</ubGraphicNum>
+		<ubWeight>1</ubWeight>
+		<ItemSize>32</ItemSize>
+		<usPrice>40</usPrice>
+		<ubCoolness>5</ubCoolness>
+		<bRepairEase>1</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<ShowStatus>1</ShowStatus>
+		<BR_NewInventory>2</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2681</uiIndex>
+		<szItemName>MOLLE Grenade Pouch</szItemName>
+		<szLongItemName>Russian MOLLE Grenade Pouch</szLongItemName>
+		<szItemDesc>Russian frag hand-grenade pouch for MOLLE/PALS. Can carry RGO, RPN or other hand-grenades.</szItemDesc>
+		<szBRName>Russian MOLLE Grenade Pocket</szBRName>
+		<szBRDesc>Russian frag hand-grenade pouche for MOLLE/PALS. Can carry RGO, RPN or other hand-grenades.</szBRDesc>
+		<usItemClass>131072</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>180</ubClassIndex>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>492</ubGraphicNum>
+		<ubWeight>1</ubWeight>
+		<ItemSize>32</ItemSize>
+		<usPrice>45</usPrice>
+		<ubCoolness>5</ubCoolness>
+		<bRepairEase>1</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<ShowStatus>1</ShowStatus>
+		<BR_NewInventory>2</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2682</uiIndex>
+		<szItemName>MOLLE Holster</szItemName>
+		<szLongItemName>Russian MOLLE Universal Holster</szLongItemName>
+		<szItemDesc>A universal pistol holster for MOLLE/PALS in russian DPM camo, can carry one Makarov PB or other handgun.</szItemDesc>
+		<szBRName>Russian MOLLE Universal Holster</szBRName>
+		<szBRDesc>A universal pistol holster for MOLLE/PALS in russian DPM camo, can carry one Makarov PB or other handgun.</szBRDesc>
+		<usItemClass>131072</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>181</ubClassIndex>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>493</ubGraphicNum>
+		<ubWeight>2</ubWeight>
+		<ItemSize>32</ItemSize>
+		<usPrice>80</usPrice>
+		<ubCoolness>5</ubCoolness>
+		<bRepairEase>1</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<ShowStatus>1</ShowStatus>
+		<BR_NewInventory>2</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2683</uiIndex>
+		<szItemName>MOLLE Medic</szItemName>
+		<szLongItemName>Russian MOLLE Medical Pouch</szLongItemName>
+		<szItemDesc>A medical pouch for MOLLE/PALS in russian digital camo.</szItemDesc>
+		<szBRName>Russian MOLLE Medical Pouch</szBRName>
+		<szBRDesc>A medical pouch for MOLLE/PALS in russian digital camo.</szBRDesc>
+		<usItemClass>131072</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>182</ubClassIndex>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>494</ubGraphicNum>
+		<ubWeight>1</ubWeight>
+		<ItemSize>32</ItemSize>
+		<usPrice>55</usPrice>
+		<ubCoolness>5</ubCoolness>
+		<bRepairEase>1</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<ShowStatus>1</ShowStatus>
+		<BR_NewInventory>2</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2684</uiIndex>
+		<szItemName>MOLLE Messkit</szItemName>
+		<szLongItemName>Russian MOLLE Messkit Pouch</szLongItemName>
+		<szItemDesc>A canteen pouch for MOLLE/PALS in russian digital camo.</szItemDesc>
+		<szBRName>Russian MOLLE Messkit Pouch</szBRName>
+		<szBRDesc>A canteen pouch for MOLLE/PALS in russian digital camo.</szBRDesc>
+		<usItemClass>131072</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>183</ubClassIndex>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>495</ubGraphicNum>
+		<ubWeight>1</ubWeight>
+		<ItemSize>32</ItemSize>
+		<usPrice>35</usPrice>
+		<ubCoolness>5</ubCoolness>
+		<bRepairEase>1</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<ShowStatus>1</ShowStatus>
+		<BR_NewInventory>2</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2685</uiIndex>
+		<szItemName>MWG Drum Adapter</szItemName>
+		<szLongItemName>Big Calibre MWG90 Drum Adapter</szLongItemName>
+		<szItemDesc>This special adapter can be attached to certain STANAG 4179 magazine .50 Beowulf or .458 SOCOM weapons to allow for the use MWG90 drum.</szItemDesc>
+		<szBRName>Big Calibre MWG90 Drum Adapter</szBRName>
+		<szBRDesc>This special adapter can be attached to certain STANAG 4179 magazine .50 Beowulf or .458 SOCOM weapons to allow for the use MWG90 drum.</szBRDesc>
+		<usItemClass>268435456</usItemClass>
+		<nasAttachmentClass>64</nasAttachmentClass>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>161</ubGraphicNum>
+		<ubWeight>1</ubWeight>
+		<ubPerPocket>4</ubPerPocket>
+		<ItemSize>18</ItemSize>
+		<usPrice>1500</usPrice>
+		<ubCoolness>9</ubCoolness>
+		<bRepairEase>-1</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<Attachment>1</Attachment>
+		<BigGunList>1</BigGunList>
+		<BR_NewInventory>2</BR_NewInventory>
+		<MagSizeBonus>24</MagSizeBonus>
+		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
+		<PercentReloadTimeAPReduction>-30</PercentReloadTimeAPReduction>
+		<STAND_MODIFIERS>
+			<PercentHandling>5</PercentHandling>
+			<PercentMaxCounterForce>10</PercentMaxCounterForce>
+			<PercentCounterForceAccuracy>5</PercentCounterForceAccuracy>
+		</STAND_MODIFIERS>
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2686</uiIndex>
+		<szItemName>.50 Beowulf 31</szItemName>
+		<szLongItemName>.50 Beowulf Drum, 31</szLongItemName>
+		<szItemDesc>A MWG90 drum hold 31-round FMJ for the .50 Beowulf Rifle.</szItemDesc>
+		<szBRName>.50 Beowulf 31</szBRName>
+		<szBRDesc>A MWG90 drum hold 31-round FMJ for the .50 Beowulf Rifle.</szBRDesc>
+		<usItemClass>1024</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>878</ubClassIndex>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>465</ubGraphicNum>
+		<ubWeight>19</ubWeight>
+		<ubPerPocket>1</ubPerPocket>
+		<ItemSize>33</ItemSize>
+		<usPrice>558</usPrice>
+		<ubCoolness>9</ubCoolness>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<BigGunList>1</BigGunList>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2687</uiIndex>
+		<szItemName>.50 Beowulf 31 HP</szItemName>
+		<szLongItemName>.50 Bewoulf Drum, 31 HP</szLongItemName>
+		<szItemDesc>A MWG90 drum hold 31-round HP for the .50 Beowulf Rifle.</szItemDesc>
+		<szBRName>.50 Beowulf 31 HP</szBRName>
+		<szBRDesc>A MWG90 drum hold 31-round HP for the .50 Beowulf Rifle.</szBRDesc>
+		<usItemClass>1024</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>879</ubClassIndex>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>466</ubGraphicNum>
+		<ubWeight>19</ubWeight>
+		<ubPerPocket>1</ubPerPocket>
+		<ItemSize>33</ItemSize>
+		<usPrice>372</usPrice>
+		<ubCoolness>9</ubCoolness>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<BigGunList>1</BigGunList>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2688</uiIndex>
+		<szItemName>.458 SOCOM 36 FMJ</szItemName>
+		<szLongItemName>.458 SOCOM Drum, 36 FMJ</szLongItemName>
+		<szItemDesc>A MWG90 drum hold 36-round FMJ clip of .458 SOCOM ammunition. This manstopper is a 300grain bullet with a velocity of 1900 fps.</szItemDesc>
+		<szBRName>.458 SOCOM Mag 36 FMJ</szBRName>
+		<szBRDesc>A MWG90 drum hold 36-round FMJ clip of .458 SOCOM ammunition.</szBRDesc>
+		<usItemClass>1024</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>880</ubClassIndex>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>467</ubGraphicNum>
+		<ubWeight>20</ubWeight>
+		<ubPerPocket>1</ubPerPocket>
+		<ItemSize>33</ItemSize>
+		<usPrice>330</usPrice>
+		<ubCoolness>9</ubCoolness>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<BigGunList>1</BigGunList>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2689</uiIndex>
+		<szItemName>.458 SOCOM 36 JHP</szItemName>
+		<szLongItemName>.458 SOCOM Drum, 36 JHP</szLongItemName>
+		<szItemDesc>A MWG90 drum hold 36-round JHP clip of .458 SOCOM ammunition. This manstopper is a 300grain bullet with a velocity of 1900 fps.</szItemDesc>
+		<szBRName>.458 SOCOM Mag 36 JHP</szBRName>
+		<szBRDesc>A MWG90 drum hold 36-round JHP clip of .458 SOCOM ammunition.</szBRDesc>
+		<usItemClass>1024</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>881</ubClassIndex>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>468</ubGraphicNum>
+		<ubWeight>20</ubWeight>
+		<ubPerPocket>1</ubPerPocket>
+		<ItemSize>33</ItemSize>
+		<usPrice>420</usPrice>
+		<ubCoolness>9</ubCoolness>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<BigGunList>1</BigGunList>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2690</uiIndex>
+		<szItemName>23mm Buckshot 4</szItemName>
+		<szLongItemName>23mm Buckshot, 4</szLongItemName>
+		<szItemDesc>4 rounds of 23mm "Shrapnel" shot shell.</szItemDesc>
+		<szBRName>23mm Buckshot, 4</szBRName>
+		<szBRDesc>4 rounds of 23mm "Shrapnel" shot shell.</szBRDesc>
+		<usItemClass>1024</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>882</ubClassIndex>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>469</ubGraphicNum>
+		<ubWeight>3</ubWeight>
+		<ubPerPocket>7</ubPerPocket>
+		<ItemSize>21</ItemSize>
+		<usPrice>20</usPrice>
+		<ubCoolness>8</ubCoolness>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2691</uiIndex>
+		<szItemName>23mm Slug 4</szItemName>
+		<szLongItemName>23mm Slug, 4</szLongItemName>
+		<szItemDesc>4 rounds of 23mm Slug ammunition, A.K.A the "Barrikada", which is capable of destroying a engine block at 100m.</szItemDesc>
+		<szBRName>23mm Slug, 4</szBRName>
+		<szBRDesc>4 rounds of 23mm Slug ammunition, A.K.A the "Barrikada", which is capable of destroying a engine block at 100m.</szBRDesc>
+		<usItemClass>1024</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>883</ubClassIndex>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>470</ubGraphicNum>
+		<ubWeight>3</ubWeight>
+		<ubPerPocket>7</ubPerPocket>
+		<ItemSize>21</ItemSize>
+		<usPrice>80</usPrice>
+		<ubCoolness>9</ubCoolness>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<RangeBonus>30</RangeBonus>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2692</uiIndex>
+		<szItemName>KS-23</szItemName>
+		<szLongItemName>KS-23</szLongItemName>
+		<szItemDesc>Made by TSNII TochMash. KS-23 is a large caliber shotgun, firing a 23 mm round.</szItemDesc>
+		<szBRName>KS-23</szBRName>
+		<szBRDesc>Made by TSNII TochMash. KS-23 is a large caliber shotgun, firing a 23 mm round.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>2692</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicNum>908</ubGraphicNum>
+		<ubWeight>38</ubWeight>
+		<ItemSize>8</ItemSize>
+		<usPrice>1600</usPrice>
+		<ubCoolness>8</ubCoolness>
+		<bReliability>3</bReliability>
+		<bRepairEase>1</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
+		<BigGunList>1</BigGunList>
+		<BR_NewInventory>2</BR_NewInventory>
+		<BR_ROF>22</BR_ROF>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2693</uiIndex>
+		<szItemName>KS-23M</szItemName>
+		<szLongItemName>KS-23M</szLongItemName>
+		<szItemDesc>The KS-23M includes a detachable wire buttstock and shortened barrel, as opposed to the fixed wooden stock on standard KS-23s.</szItemDesc>
+		<szBRName>KS-23M</szBRName>
+		<szBRDesc>The KS-23M includes a detachable wire buttstock and shortened barrel, as opposed to the fixed wooden stock on standard KS-23s.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>2693</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicNum>909</ubGraphicNum>
+		<ubWeight>29</ubWeight>
+		<ItemSize>6</ItemSize>
+		<usPrice>1400</usPrice>
+		<ubCoolness>6</ubCoolness>
+		<bReliability>3</bReliability>
+		<bRepairEase>1</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
+		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_ROF>24</BR_ROF>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
