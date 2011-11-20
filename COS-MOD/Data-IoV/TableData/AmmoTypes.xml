@@ -848,7 +848,7 @@
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
 		<highExplosive>1</highExplosive>
 		<explosionSize>1</explosionSize>
-		<antiTank>1</antiTank>
+		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>

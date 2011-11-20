@@ -1424,7 +1424,7 @@
 		<usRange>400</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>20</ubAttackVolume>
+		<ubAttackVolume>40</ubAttackVolume>
 		<ubHitVolume>10</ubHitVolume>
 		<sSound>402</sSound>
 		<sSilencedBurstSound>111</sSilencedBurstSound>
@@ -1446,7 +1446,7 @@
 		<usRange>1800</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>20</ubAttackVolume>
+		<ubAttackVolume>60</ubAttackVolume>
 		<ubHitVolume>10</ubHitVolume>
 		<sSound>115</sSound>
 		<sSilencedBurstSound>111</sSilencedBurstSound>
@@ -1586,7 +1586,7 @@
 		<usRange>350</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>35</ubAttackVolume>
+		<ubAttackVolume>40</ubAttackVolume>
 		<ubHitVolume>10</ubHitVolume>
 		<sSound>113</sSound>
 		<sSilencedBurstSound>111</sSilencedBurstSound>
@@ -3697,7 +3697,7 @@
 		<ManualReloadSound>476</ManualReloadSound>
 		<nAccuracy>64</nAccuracy>
 		<bRecoilX>1</bRecoilX>
-		<bRecoilY>7</bRecoilY>
+		<bRecoilY>6</bRecoilY>
 		<ubAimLevels>5</ubAimLevels>
 		<ubRecoilDelay>2</ubRecoilDelay>
 		<Handling>15</Handling>
@@ -4826,7 +4826,7 @@
 		<uiIndex>648</uiIndex>
 		<szWeaponName>SA58 OSW</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
-		<ubWeaponType>6</ubWeaponType>
+		<ubWeaponType>4</ubWeaponType>
 		<ubCalibre>9</ubCalibre>
 		<ubReadyTime>12</ubReadyTime>
 		<ubShotsPer4Turns>12.51</ubShotsPer4Turns>
@@ -4848,7 +4848,6 @@
 		<sLocknLoadSound>108</sLocknLoadSound>
 		<SilencedSound>156</SilencedSound>
 		<bBurstAP>12</bBurstAP>
-		<bAutofireShotsPerFiveAP>7</bAutofireShotsPerFiveAP>
 		<APsToReload>33</APsToReload>
 		<SwapClips>1</SwapClips>
 		<MaxDistForMessyDeath>38</MaxDistForMessyDeath>
@@ -8663,7 +8662,7 @@
 		<uiIndex>752</uiIndex>
 		<szWeaponName>XM8 Sharpshooter</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
-		<ubWeaponType>6</ubWeaponType>
+		<ubWeaponType>4</ubWeaponType>
 		<ubCalibre>8</ubCalibre>
 		<ubReadyTime>15</ubReadyTime>
 		<ubShotsPer4Turns>14.43</ubShotsPer4Turns>
@@ -10421,7 +10420,7 @@
 		<usRange>1200</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>40</ubAttackVolume>
+		<ubAttackVolume>60</ubAttackVolume>
 		<ubHitVolume>10</ubHitVolume>
 		<sSound>115</sSound>
 		<sSilencedBurstSound>111</sSilencedBurstSound>
@@ -10444,7 +10443,7 @@
 		<usRange>350</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>35</ubAttackVolume>
+		<ubAttackVolume>40</ubAttackVolume>
 		<ubHitVolume>10</ubHitVolume>
 		<sSound>403</sSound>
 		<sSilencedBurstSound>111</sSilencedBurstSound>
@@ -10467,7 +10466,7 @@
 		<usRange>400</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>35</ubAttackVolume>
+		<ubAttackVolume>40</ubAttackVolume>
 		<ubHitVolume>10</ubHitVolume>
 		<sSound>408</sSound>
 		<sSilencedBurstSound>111</sSilencedBurstSound>
@@ -10491,7 +10490,7 @@
 		<usRange>350</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>35</ubAttackVolume>
+		<ubAttackVolume>40</ubAttackVolume>
 		<ubHitVolume>10</ubHitVolume>
 		<sSound>405</sSound>
 		<sSilencedBurstSound>111</sSilencedBurstSound>
@@ -10514,7 +10513,7 @@
 		<usRange>350</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>35</ubAttackVolume>
+		<ubAttackVolume>40</ubAttackVolume>
 		<ubHitVolume>10</ubHitVolume>
 		<sSound>401</sSound>
 		<sSilencedBurstSound>111</sSilencedBurstSound>
@@ -10537,7 +10536,7 @@
 		<usRange>400</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>35</ubAttackVolume>
+		<ubAttackVolume>40</ubAttackVolume>
 		<ubHitVolume>10</ubHitVolume>
 		<sSound>404</sSound>
 		<sSilencedBurstSound>111</sSilencedBurstSound>
@@ -10560,7 +10559,7 @@
 		<usRange>400</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>35</ubAttackVolume>
+		<ubAttackVolume>40</ubAttackVolume>
 		<ubHitVolume>10</ubHitVolume>
 		<sSound>406</sSound>
 		<sSilencedBurstSound>111</sSilencedBurstSound>
@@ -10609,7 +10608,7 @@
 		<usRange>300</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>50</BurstAniDelay>
-		<ubAttackVolume>35</ubAttackVolume>
+		<ubAttackVolume>40</ubAttackVolume>
 		<ubHitVolume>10</ubHitVolume>
 		<sSound>407</sSound>
 		<sBurstSound>74</sBurstSound>
@@ -10634,7 +10633,7 @@
 		<usRange>400</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>35</ubAttackVolume>
+		<ubAttackVolume>40</ubAttackVolume>
 		<ubHitVolume>10</ubHitVolume>
 		<sSound>469</sSound>
 		<sSilencedBurstSound>111</sSilencedBurstSound>
@@ -10657,7 +10656,7 @@
 		<usRange>350</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>35</ubAttackVolume>
+		<ubAttackVolume>40</ubAttackVolume>
 		<ubHitVolume>10</ubHitVolume>
 		<sSound>405</sSound>
 		<sSilencedBurstSound>111</sSilencedBurstSound>
@@ -10704,7 +10703,7 @@
 		<usRange>350</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>35</ubAttackVolume>
+		<ubAttackVolume>40</ubAttackVolume>
 		<ubHitVolume>10</ubHitVolume>
 		<sSound>403</sSound>
 		<sSilencedBurstSound>111</sSilencedBurstSound>
@@ -10844,7 +10843,7 @@
 		<usRange>400</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>35</ubAttackVolume>
+		<ubAttackVolume>40</ubAttackVolume>
 		<ubHitVolume>10</ubHitVolume>
 		<sSound>402</sSound>
 		<sSilencedBurstSound>111</sSilencedBurstSound>
@@ -10868,7 +10867,7 @@
 		<usRange>350</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>35</ubAttackVolume>
+		<ubAttackVolume>40</ubAttackVolume>
 		<ubHitVolume>10</ubHitVolume>
 		<sSound>402</sSound>
 		<sSilencedBurstSound>111</sSilencedBurstSound>
@@ -10891,7 +10890,7 @@
 		<usRange>390</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>35</ubAttackVolume>
+		<ubAttackVolume>40</ubAttackVolume>
 		<ubHitVolume>10</ubHitVolume>
 		<sSound>401</sSound>
 		<sSilencedBurstSound>111</sSilencedBurstSound>
@@ -10914,7 +10913,7 @@
 		<usRange>350</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>20</ubAttackVolume>
+		<ubAttackVolume>30</ubAttackVolume>
 		<ubHitVolume>10</ubHitVolume>
 		<sSound>405</sSound>
 		<sSilencedBurstSound>111</sSilencedBurstSound>
@@ -10939,7 +10938,7 @@
 		<usRange>390</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>50</BurstAniDelay>
-		<ubAttackVolume>35</ubAttackVolume>
+		<ubAttackVolume>40</ubAttackVolume>
 		<ubHitVolume>10</ubHitVolume>
 		<sSound>407</sSound>
 		<sBurstSound>74</sBurstSound>
@@ -10966,7 +10965,7 @@
 		<usRange>370</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>50</BurstAniDelay>
-		<ubAttackVolume>35</ubAttackVolume>
+		<ubAttackVolume>40</ubAttackVolume>
 		<ubHitVolume>10</ubHitVolume>
 		<sSound>407</sSound>
 		<sBurstSound>74</sBurstSound>
@@ -10992,7 +10991,7 @@
 		<usRange>400</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>20</ubAttackVolume>
+		<ubAttackVolume>40</ubAttackVolume>
 		<ubHitVolume>10</ubHitVolume>
 		<sSound>402</sSound>
 		<sSilencedBurstSound>111</sSilencedBurstSound>
@@ -11031,14 +11030,14 @@
 		<szWeaponName>Colt XM-148 Grenade Launcher</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubReadyTime>13</ubReadyTime>
-		<ubShotsPer4Turns>6.92</ubShotsPer4Turns>
+		<ubShotsPer4Turns>6.93</ubShotsPer4Turns>
 		<ubBulletSpeed>30</ubBulletSpeed>
 		<ubDeadliness>60</ubDeadliness>
 		<ubMagSize>1</ubMagSize>
-		<usRange>380</usRange>
+		<usRange>360</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>35</ubAttackVolume>
+		<ubAttackVolume>40</ubAttackVolume>
 		<ubHitVolume>10</ubHitVolume>
 		<sSound>403</sSound>
 		<sSilencedBurstSound>111</sSilencedBurstSound>
@@ -11061,7 +11060,7 @@
 		<usRange>390</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>35</ubAttackVolume>
+		<ubAttackVolume>40</ubAttackVolume>
 		<ubHitVolume>10</ubHitVolume>
 		<sSound>401</sSound>
 		<sSilencedBurstSound>111</sSilencedBurstSound>
@@ -14092,7 +14091,7 @@
 		<ubWeaponClass>4</ubWeaponClass>
 		<ubWeaponType>7</ubWeaponType>
 		<ubCalibre>8</ubCalibre>
-		<ubReadyTime>14</ubReadyTime>
+		<ubReadyTime>15</ubReadyTime>
 		<ubShotsPer4Turns>14.1</ubShotsPer4Turns>
 		<ubBurstPenalty>6</ubBurstPenalty>
 		<ubBulletSpeed>22</ubBulletSpeed>
@@ -14121,7 +14120,7 @@
 		<nAccuracy>69</nAccuracy>
 		<bRecoilY>6</bRecoilY>
 		<ubAimLevels>5</ubAimLevels>
-		<Handling>14</Handling>
+		<Handling>15</Handling>
 		<MalfunctionRate>225</MalfunctionRate>
 	</WEAPON>
 	<WEAPON>
@@ -14202,7 +14201,7 @@
 		<uiIndex>1135</uiIndex>
 		<szWeaponName>SEAL Recon Rifle</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
-		<ubWeaponType>6</ubWeaponType>
+		<ubWeaponType>4</ubWeaponType>
 		<ubCalibre>8</ubCalibre>
 		<ubReadyTime>13</ubReadyTime>
 		<ubShotsPer4Turns>15.07</ubShotsPer4Turns>
@@ -14277,7 +14276,7 @@
 		<uiIndex>1137</uiIndex>
 		<szWeaponName>SAM-R</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
-		<ubWeaponType>5</ubWeaponType>
+		<ubWeaponType>4</ubWeaponType>
 		<ubCalibre>8</ubCalibre>
 		<ubReadyTime>16</ubReadyTime>
 		<ubShotsPer4Turns>12.86</ubShotsPer4Turns>
@@ -14305,7 +14304,7 @@
 		<MaxDistForMessyDeath>35</MaxDistForMessyDeath>
 		<AutoPenalty>9</AutoPenalty>
 		<ManualReloadSound>476</ManualReloadSound>
-		<nAccuracy>83</nAccuracy>
+		<nAccuracy>80</nAccuracy>
 		<bRecoilY>6</bRecoilY>
 		<ubAimLevels>6</ubAimLevels>
 		<Handling>16</Handling>
@@ -14354,7 +14353,7 @@
 		<uiIndex>1139</uiIndex>
 		<szWeaponName>Barrett M468</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
-		<ubWeaponType>6</ubWeaponType>
+		<ubWeaponType>4</ubWeaponType>
 		<ubCalibre>44</ubCalibre>
 		<ubReadyTime>13</ubReadyTime>
 		<ubShotsPer4Turns>14.05</ubShotsPer4Turns>
@@ -14376,7 +14375,6 @@
 		<sLocknLoadSound>108</sLocknLoadSound>
 		<SilencedSound>156</SilencedSound>
 		<bBurstAP>8</bBurstAP>
-		<bAutofireShotsPerFiveAP>9</bAutofireShotsPerFiveAP>
 		<APsToReload>30</APsToReload>
 		<SwapClips>1</SwapClips>
 		<MaxDistForMessyDeath>20</MaxDistForMessyDeath>
@@ -14393,7 +14391,7 @@
 		<uiIndex>1140</uiIndex>
 		<szWeaponName>Mk12 MOD0B SPR</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
-		<ubWeaponType>5</ubWeaponType>
+		<ubWeaponType>4</ubWeaponType>
 		<ubCalibre>8</ubCalibre>
 		<ubReadyTime>15</ubReadyTime>
 		<ubShotsPer4Turns>13.3</ubShotsPer4Turns>
@@ -14421,7 +14419,7 @@
 		<MaxDistForMessyDeath>35</MaxDistForMessyDeath>
 		<AutoPenalty>10</AutoPenalty>
 		<ManualReloadSound>476</ManualReloadSound>
-		<nAccuracy>83</nAccuracy>
+		<nAccuracy>80</nAccuracy>
 		<bRecoilY>7</bRecoilY>
 		<ubAimLevels>6</ubAimLevels>
 		<Handling>15</Handling>
@@ -17532,11 +17530,10 @@
 		<uiIndex>1225</uiIndex>
 		<szWeaponName>SIG 556</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
-		<ubWeaponType>6</ubWeaponType>
+		<ubWeaponType>4</ubWeaponType>
 		<ubCalibre>8</ubCalibre>
 		<ubReadyTime>12</ubReadyTime>
 		<ubShotsPer4Turns>14.95</ubShotsPer4Turns>
-		<ubShotsPerBurst>3</ubShotsPerBurst>
 		<ubBurstPenalty>9</ubBurstPenalty>
 		<ubBulletSpeed>22</ubBulletSpeed>
 		<ubImpact>30</ubImpact>
@@ -17555,14 +17552,13 @@
 		<sLocknLoadSound>108</sLocknLoadSound>
 		<SilencedSound>156</SilencedSound>
 		<bBurstAP>9</bBurstAP>
-		<bAutofireShotsPerFiveAP>7</bAutofireShotsPerFiveAP>
 		<APsToReload>30</APsToReload>
 		<SwapClips>1</SwapClips>
 		<MaxDistForMessyDeath>17</MaxDistForMessyDeath>
 		<AutoPenalty>9</AutoPenalty>
 		<ManualReloadSound>476</ManualReloadSound>
 		<nAccuracy>67</nAccuracy>
-		<bRecoilX>2</bRecoilX>
+		<bRecoilX>1</bRecoilX>
 		<bRecoilY>7</bRecoilY>
 		<ubAimLevels>4</ubAimLevels>
 		<Handling>12</Handling>
@@ -19672,7 +19668,7 @@
 		<uiIndex>1281</uiIndex>
 		<szWeaponName>M2 Carbine</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
-		<ubWeaponType>6</ubWeaponType>
+		<ubWeaponType>4</ubWeaponType>
 		<ubCalibre>56</ubCalibre>
 		<ubReadyTime>9</ubReadyTime>
 		<ubShotsPer4Turns>17.27</ubShotsPer4Turns>
@@ -24132,7 +24128,7 @@
 		<usRange>350</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>35</ubAttackVolume>
+		<ubAttackVolume>40</ubAttackVolume>
 		<ubHitVolume>10</ubHitVolume>
 		<sSound>401</sSound>
 		<sSilencedBurstSound>11</sSilencedBurstSound>
@@ -24155,7 +24151,7 @@
 		<usRange>450</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>35</ubAttackVolume>
+		<ubAttackVolume>40</ubAttackVolume>
 		<ubHitVolume>10</ubHitVolume>
 		<sSound>401</sSound>
 		<sSilencedBurstSound>11</sSilencedBurstSound>
@@ -24175,10 +24171,10 @@
 		<ubBulletSpeed>30</ubBulletSpeed>
 		<ubDeadliness>60</ubDeadliness>
 		<ubMagSize>1</ubMagSize>
-		<usRange>380</usRange>
+		<usRange>360</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>35</ubAttackVolume>
+		<ubAttackVolume>40</ubAttackVolume>
 		<ubHitVolume>10</ubHitVolume>
 		<sSound>403</sSound>
 		<sSilencedBurstSound>111</sSilencedBurstSound>
@@ -24201,7 +24197,7 @@
 		<usRange>400</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>35</ubAttackVolume>
+		<ubAttackVolume>40</ubAttackVolume>
 		<ubHitVolume>10</ubHitVolume>
 		<sSound>404</sSound>
 		<sSilencedBurstSound>11</sSilencedBurstSound>
@@ -24434,7 +24430,7 @@
 		<usRange>300</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>20</ubAttackVolume>
+		<ubAttackVolume>5</ubAttackVolume>
 		<ubHitVolume>10</ubHitVolume>
 		<sSound>403</sSound>
 		<sSilencedBurstSound>111</sSilencedBurstSound>
@@ -24457,7 +24453,7 @@
 		<usRange>380</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>35</ubAttackVolume>
+		<ubAttackVolume>40</ubAttackVolume>
 		<sSound>401</sSound>
 		<sSilencedBurstSound>111</sSilencedBurstSound>
 		<SilencedSound>157</SilencedSound>
@@ -24479,7 +24475,7 @@
 		<usRange>380</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>35</ubAttackVolume>
+		<ubAttackVolume>40</ubAttackVolume>
 		<sSound>405</sSound>
 		<sSilencedBurstSound>111</sSilencedBurstSound>
 		<SilencedSound>157</SilencedSound>
@@ -24501,7 +24497,7 @@
 		<usRange>200</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>30</ubAttackVolume>
+		<ubAttackVolume>20</ubAttackVolume>
 		<ubHitVolume>10</ubHitVolume>
 		<sSound>371</sSound>
 		<sSilencedBurstSound>11</sSilencedBurstSound>
@@ -24597,7 +24593,7 @@
 		<usRange>290</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>20</ubAttackVolume>
+		<ubAttackVolume>40</ubAttackVolume>
 		<ubHitVolume>10</ubHitVolume>
 		<sSound>402</sSound>
 		<sSilencedBurstSound>111</sSilencedBurstSound>
@@ -24716,7 +24712,7 @@
 		<usRange>370</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>35</ubAttackVolume>
+		<ubAttackVolume>40</ubAttackVolume>
 		<sSound>403</sSound>
 		<sSilencedBurstSound>111</sSilencedBurstSound>
 		<SilencedSound>157</SilencedSound>
@@ -24739,7 +24735,7 @@
 		<usRange>300</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>35</ubAttackVolume>
+		<ubAttackVolume>40</ubAttackVolume>
 		<sSound>403</sSound>
 		<sSilencedBurstSound>111</sSilencedBurstSound>
 		<SilencedSound>157</SilencedSound>
@@ -24790,7 +24786,7 @@
 		<usRange>400</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>20</ubAttackVolume>
+		<ubAttackVolume>40</ubAttackVolume>
 		<ubHitVolume>10</ubHitVolume>
 		<sSound>402</sSound>
 		<sSilencedBurstSound>111</sSilencedBurstSound>
@@ -26308,7 +26304,7 @@
 		<uiIndex>1986</uiIndex>
 		<szWeaponName>Mk12 MOD0 SPR</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
-		<ubWeaponType>5</ubWeaponType>
+		<ubWeaponType>4</ubWeaponType>
 		<ubCalibre>8</ubCalibre>
 		<ubReadyTime>15</ubReadyTime>
 		<ubShotsPer4Turns>13.3</ubShotsPer4Turns>
@@ -26336,7 +26332,7 @@
 		<MaxDistForMessyDeath>35</MaxDistForMessyDeath>
 		<AutoPenalty>10</AutoPenalty>
 		<ManualReloadSound>476</ManualReloadSound>
-		<nAccuracy>83</nAccuracy>
+		<nAccuracy>80</nAccuracy>
 		<bRecoilY>7</bRecoilY>
 		<ubAimLevels>6</ubAimLevels>
 		<Handling>15</Handling>
@@ -26373,7 +26369,7 @@
 		<MaxDistForMessyDeath>45</MaxDistForMessyDeath>
 		<AutoPenalty>9</AutoPenalty>
 		<ManualReloadSound>476</ManualReloadSound>
-		<nAccuracy>80</nAccuracy>
+		<nAccuracy>78</nAccuracy>
 		<bRecoilY>8</bRecoilY>
 		<ubAimLevels>6</ubAimLevels>
 		<Handling>15</Handling>
@@ -26717,7 +26713,7 @@
 		<ubCalibre>7</ubCalibre>
 		<ubReadyTime>15</ubReadyTime>
 		<ubShotsPer4Turns>14.76</ubShotsPer4Turns>
-		<ubShotsPerBurst>1</ubShotsPerBurst>
+		<ubShotsPerBurst>2</ubShotsPerBurst>
 		<ubBulletSpeed>22</ubBulletSpeed>
 		<ubImpact>32</ubImpact>
 		<ubDeadliness>29</ubDeadliness>
@@ -26743,7 +26739,7 @@
 		<ManualReloadSound>476</ManualReloadSound>
 		<nAccuracy>64</nAccuracy>
 		<bRecoilX>1</bRecoilX>
-		<bRecoilY>7</bRecoilY>
+		<bRecoilY>6</bRecoilY>
 		<ubAimLevels>5</ubAimLevels>
 		<ubRecoilDelay>2</ubRecoilDelay>
 		<Handling>15</Handling>
@@ -27242,11 +27238,10 @@
 		<uiIndex>2011</uiIndex>
 		<szWeaponName>SIG 547</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
-		<ubWeaponType>6</ubWeaponType>
+		<ubWeaponType>4</ubWeaponType>
 		<ubCalibre>10</ubCalibre>
 		<ubReadyTime>13</ubReadyTime>
 		<ubShotsPer4Turns>13.15</ubShotsPer4Turns>
-		<ubShotsPerBurst>3</ubShotsPerBurst>
 		<ubBurstPenalty>9</ubBurstPenalty>
 		<ubBulletSpeed>22</ubBulletSpeed>
 		<ubImpact>31</ubImpact>
@@ -27265,7 +27260,6 @@
 		<sLocknLoadSound>108</sLocknLoadSound>
 		<SilencedSound>157</SilencedSound>
 		<bBurstAP>12</bBurstAP>
-		<bAutofireShotsPerFiveAP>7</bAutofireShotsPerFiveAP>
 		<APsToReload>33</APsToReload>
 		<SwapClips>1</SwapClips>
 		<MaxDistForMessyDeath>27</MaxDistForMessyDeath>
@@ -29770,7 +29764,7 @@
 		<usRange>670</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>20</ubAttackVolume>
+		<ubAttackVolume>30</ubAttackVolume>
 		<ubHitVolume>10</ubHitVolume>
 		<sSound>115</sSound>
 		<sSilencedBurstSound>111</sSilencedBurstSound>
@@ -31093,7 +31087,7 @@
 		<uiIndex>2474</uiIndex>
 		<szWeaponName>L129A1</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
-		<ubWeaponType>5</ubWeaponType>
+		<ubWeaponType>4</ubWeaponType>
 		<ubCalibre>9</ubCalibre>
 		<ubReadyTime>17</ubReadyTime>
 		<ubShotsPer4Turns>12.07</ubShotsPer4Turns>
@@ -31118,7 +31112,7 @@
 		<SwapClips>1</SwapClips>
 		<MaxDistForMessyDeath>55</MaxDistForMessyDeath>
 		<ManualReloadSound>476</ManualReloadSound>
-		<nAccuracy>84</nAccuracy>
+		<nAccuracy>81</nAccuracy>
 		<ubAimLevels>6</ubAimLevels>
 		<Handling>17</Handling>
 		<MalfunctionRate>130</MalfunctionRate>
@@ -31203,7 +31197,7 @@
 		<uiIndex>2477</uiIndex>
 		<szWeaponName>L1A1</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
-		<ubWeaponType>6</ubWeaponType>
+		<ubWeaponType>4</ubWeaponType>
 		<ubCalibre>9</ubCalibre>
 		<ubReadyTime>16</ubReadyTime>
 		<ubShotsPer4Turns>11.87</ubShotsPer4Turns>
@@ -32265,7 +32259,7 @@
 		<usRange>380</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>35</ubAttackVolume>
+		<ubAttackVolume>40</ubAttackVolume>
 		<ubHitVolume>10</ubHitVolume>
 		<sSound>401</sSound>
 		<sSilencedBurstSound>11</sSilencedBurstSound>
@@ -32288,7 +32282,7 @@
 		<usRange>350</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>35</ubAttackVolume>
+		<ubAttackVolume>40</ubAttackVolume>
 		<ubHitVolume>10</ubHitVolume>
 		<sSound>403</sSound>
 		<sSilencedBurstSound>111</sSilencedBurstSound>

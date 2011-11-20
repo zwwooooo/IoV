@@ -1675,10 +1675,10 @@
 	<ITEM>
 		<uiIndex>209</uiIndex>
 		<szItemName>Bipod</szItemName>
-		<szLongItemName>折叠两脚架</szLongItemName>
-		<szItemDesc>通用折叠两脚架，可以提高多数突击步枪，狙击步枪和轻机枪有依托射击的精确度。</szItemDesc>
+		<szLongItemName>双用途两脚架</szLongItemName>
+		<szItemDesc>通用的简易两脚架，可以直接夹在大多数步枪的枪管上，而且能剪铁丝网。</szItemDesc>
 		<szBRName>Bipod</szBRName>
-		<szBRDesc>这是一款铝合金模铸成的两脚架，可以安装在大多数突击步枪，狙击步枪和轻机枪上。在不需要使用时可以折叠，以节约空间。</szBRDesc>
+		<szBRDesc>这是一款铝合金模铸成的轻便简易两脚架，可以直接夹在大多数步枪的枪管上，而且能剪铁丝网。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>210</uiIndex>
@@ -14652,9 +14652,9 @@
 		<uiIndex>1831</uiIndex>
 		<szItemName>DBAL-A2</szItemName>
 		<szLongItemName>DBAL-A2激光瞄准</szLongItemName>
-		<szItemDesc>Dual Beam Aiming Laser Advancced 2 (先进双光线激光瞄准）比AN/PEQ2更小更强大。赢得美国国防部作为MFAL(多功能瞄准灯具)的合同。</szItemDesc>
+		<szItemDesc>Dual Beam Aiming Laser Advancced 2 (先进双光线激光瞄准）比AN/PEQ2更轻更小。赢得美国国防部作为MFAL(多功能瞄准灯具)的合同。</szItemDesc>
 		<szBRName>DBAL-A2 ITP</szBRName>
-		<szBRDesc>Dual Beam Aiming Laser Advancced 2 (先进双光线激光瞄准）比AN/PEQ2更小更强大。赢得美国国防部作为MFAL(多功能瞄准灯具)的合同。</szBRDesc>
+		<szBRDesc>Dual Beam Aiming Laser Advancced 2 (先进双光线激光瞄准）比AN/PEQ2更轻更小。赢得美国国防部作为MFAL(多功能瞄准灯具)的合同。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1832</uiIndex>
@@ -18380,9 +18380,9 @@
 		<uiIndex>2297</uiIndex>
 		<szItemName>HK IAR</szItemName>
 		<szLongItemName>HK IAR</szLongItemName>
-		<szItemDesc>HK公司参加USMC IAR竞标的产物，是HK416的16英寸重型枪管自动步枪型，标配100发弹鼓。</szItemDesc>
+		<szItemDesc>HK公司参加USMC IAR竞标的产物，是HK416的16英寸重型枪管自动步枪型。</szItemDesc>
 		<szBRName>HK IAR</szBRName>
-		<szBRDesc>HK公司参加USMC IAR竞标的产物，是HK416的16英寸重型枪管自动步枪型，标配100发弹鼓。</szBRDesc>
+		<szBRDesc>HK公司参加USMC IAR竞标的产物，是HK416的16英寸重型枪管自动步枪型。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2298</uiIndex>
@@ -20786,10 +20786,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2598</uiIndex>
-		<szItemName>SR 5.8</szItemName>
-		<szLongItemName>SR 5.8</szLongItemName>
+		<szItemName>QBU88-1</szItemName>
+		<szLongItemName>QBU88-1</szLongItemName>
 		<szItemDesc>中国最新的5.8mm口径手动狙击步枪，以外贸名义研制，实际上是自用。</szItemDesc>
-		<szBRName>SR 5.8</szBRName>
+		<szBRName>QBU88-1</szBRName>
 		<szBRDesc>中国最新的5.8mm口径手动狙击步枪，以外贸名义研制，实际上是自用。</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -21114,15 +21114,15 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2639</uiIndex>
-		<szItemName>Bipod</szItemName>
+		<szItemName>H-Bipod</szItemName>
 		<szLongItemName>哈里斯两脚架</szLongItemName>
-		<szItemDesc>哈里斯两脚架能为你的狙击步枪提供更牢固更稳定的架枪状态，但它也比较重了一些。</szItemDesc>
+		<szItemDesc>哈里斯折叠式两脚架能为你的狙击步枪提供更牢固更稳定的架枪状态，但它也比较重了一些。</szItemDesc>
 		<szBRName>Harris Bipod</szBRName>
-		<szBRDesc>哈里斯两脚架能为你的狙击步枪提供更牢固更稳定的架枪状态，但它也比较重了一些。</szBRDesc>
+		<szBRDesc>哈里斯折叠式两脚架能为你的狙击步枪提供更牢固更稳定的架枪状态，但它也比较重了一些。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2640</uiIndex>
-		<szItemName>Bipod</szItemName>
+		<szItemName>T-Bipod</szItemName>
 		<szLongItemName>TangoDown Bipod</szLongItemName>
 		<szItemDesc>可装到皮卡汀尼导轨上的轻型两脚架，这种两脚架不影响枪挂式榴弹发射器的使用。</szItemDesc>
 		<szBRName>TangoDown Bipod</szBRName>
