@@ -82,8 +82,8 @@
 	</AMMO>
 	<AMMO>
 		<uiIndex>16</uiIndex>
-		<AmmoCaliber>flame</AmmoCaliber>
-		<BRCaliber>flame</BRCaliber>
+		<AmmoCaliber>Flame</AmmoCaliber>
+		<BRCaliber>Flame</BRCaliber>
 	</AMMO>
 	<AMMO>
 		<uiIndex>17</uiIndex>
@@ -237,8 +237,8 @@
 	</AMMO>
 	<AMMO>
 		<uiIndex>47</uiIndex>
-		<AmmoCaliber>5.56mm duplex</AmmoCaliber>
-		<BRCaliber>5.56mm duplex</BRCaliber>
+		<AmmoCaliber>5.56mm Duplex</AmmoCaliber>
+		<BRCaliber>5.56mm Duplex</BRCaliber>
 	</AMMO>
 	<AMMO>
 		<uiIndex>48</uiIndex>
@@ -469,5 +469,20 @@
 		<uiIndex>93</uiIndex>
 		<AmmoCaliber>23x115mm</AmmoCaliber>
 		<BRCaliber>23x115mm</BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>94</uiIndex>
+		<AmmoCaliber>.338 Spectre</AmmoCaliber>
+		<BRCaliber>.338 Spectre</BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>95</uiIndex>
+		<AmmoCaliber>.500 Phantom</AmmoCaliber>
+		<BRCaliber>.500 Phantom</BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>96</uiIndex>
+		<AmmoCaliber>12 Gauge 60mm</AmmoCaliber>
+		<BRCaliber>12 Gauge 60mm</BRCaliber>
 	</AMMO>
 </AMMOLIST>

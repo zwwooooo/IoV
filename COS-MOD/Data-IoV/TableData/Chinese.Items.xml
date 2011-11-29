@@ -1282,11 +1282,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>160</uiIndex>
-		<szItemName>Grenade Panel</szItemName>
-		<szLongItemName>枪榴弹袋</szLongItemName>
-		<szItemDesc>此款枪榴弹袋可以装下4枚枪榴弹。</szItemDesc>
-		<szBRName>Grenade Panel</szBRName>
-		<szBRDesc>此款枪榴弹袋可以装下4枚枪榴弹。</szBRDesc>
+		<szItemName>Trigger Group</szItemName>
+		<szLongItemName>2发点射扳机组件</szLongItemName>
+		<szItemDesc>好战的伙计们，给你们最喜欢的突击步枪装上扳机组件，然后享受简单有效的两发点射吧。</szItemDesc>
+		<szBRName>Trigger Group 2x</szBRName>
+		<szBRDesc>好战的伙计们，我们荣幸的向您推荐ACME扳机组件！枪法太臭？总是扫射太多子弹？只要给您最喜欢的突击步枪装上ACME扳机组件，就能享受简单有效的两发点射模式。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>161</uiIndex>
@@ -1579,7 +1579,7 @@
 	<ITEM>
 		<uiIndex>197</uiIndex>
 		<szItemName>T. Guard Vest</szItemName>
-		<szLongItemName>硬化护神背心</szLongItemName>
+		<szLongItemName>硬化守护神背心</szLongItemName>
 		<szItemDesc>经过合成物18处理过的守护神防弹背心，现在的防护力大大增强。</szItemDesc>
 		<szBRName>Treated Guardian Vest</szBRName>
 		<szBRDesc>BR不出售！</szBRDesc>
@@ -1587,7 +1587,7 @@
 	<ITEM>
 		<uiIndex>198</uiIndex>
 		<szItemName>C. Guard Vest</szItemName>
-		<szLongItemName>虫胶护神背心</szLongItemName>
+		<szLongItemName>虫胶守护神背心</szLongItemName>
 		<szItemDesc>虫胶处理过的守护神防弹背心，现在的防护力加倍！</szItemDesc>
 		<szBRName>Coated Guardian Vest</szBRName>
 		<szBRDesc>虫胶处理过的守护神防弹背心，现在的防护力加倍！</szBRDesc>
@@ -2483,7 +2483,7 @@
 	<ITEM>
 		<uiIndex>310</uiIndex>
 		<szItemName>Extender</szItemName>
-		<szLongItemName>枪身延长管</szLongItemName>
+		<szLongItemName>延长枪管</szLongItemName>
 		<szItemDesc>把这漂亮的小家伙装到你的爱枪上，你就等着看射程飙升吧。</szItemDesc>
 		<szBRName>Gun Barrel Extender</szBRName>
 		<szBRDesc>BR不出售此物品。</szBRDesc>
@@ -6483,7 +6483,7 @@
 	<ITEM>
 		<uiIndex>810</uiIndex>
 		<szItemName>Tw. Helmet</szItemName>
-		<szLongItemName>Twaron防弹盔</szLongItemName>
+		<szLongItemName>芳纶防弹盔</szLongItemName>
 		<szItemDesc>特殊成型加工的Twaron头盔可以满足最苛刻的防弹需求。它的重量更轻，因此佩戴起来比传统的钢盔更舒适。</szItemDesc>
 		<szBRName>Twaron Helmet</szBRName>
 		<szBRDesc>市面上能买到的最好的头盔之一！如果你想要维和部队式样的蓝色头盔，请直接同我们联系。</szBRDesc>
@@ -6491,7 +6491,7 @@
 	<ITEM>
 		<uiIndex>811</uiIndex>
 		<szItemName>Tw. Pants</szItemName>
-		<szLongItemName>Twaron防弹裤</szLongItemName>
+		<szLongItemName>芳纶防弹裤</szLongItemName>
 		<szItemDesc>这种腿部护具用高强度的芳香族聚酰胺纤维制成。</szItemDesc>
 		<szBRName>Twaron Leggings</szBRName>
 		<szBRDesc>穿一条Twaron防弹裤来保护你的下半身免受轻武器和弹片的伤害吧。</szBRDesc>
@@ -8211,9 +8211,9 @@
 	<ITEM>
 		<uiIndex>1026</uiIndex>
 		<szItemName>Trigger Group</szItemName>
-		<szLongItemName>扳机组件</szLongItemName>
+		<szLongItemName>3发点射扳机组件</szLongItemName>
 		<szItemDesc>好战的伙计们，给你们最喜欢的突击步枪装上扳机组件，然后享受简单有效的三发点射吧。</szItemDesc>
-		<szBRName>Trigger Group</szBRName>
+		<szBRName>Trigger Group 3x</szBRName>
 		<szBRDesc>好战的伙计们，我们荣幸的向您推荐ACME扳机组件！枪法太臭？总是扫射太多子弹？只要给您最喜欢的突击步枪装上ACME扳机组件，就能享受简单有效的三发点射模式。</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -8562,10 +8562,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1070</uiIndex>
-		<szItemName>Gyrojet</szItemName>
-		<szLongItemName>MBA Gyrojet</szLongItemName>
+		<szItemName>Gyrojet Pistol</szItemName>
+		<szLongItemName>MB Assoc.火箭式手枪</szLongItemName>
 		<szItemDesc>Gyrojet火箭式手枪发射13mm口径的火箭弹，威力相当惊人（YY的），至于精度嘛。。。。。。</szItemDesc>
-		<szBRName>MBA Gyrojet</szBRName>
+		<szBRName>MB Assoc. Gyrojet Pistol</szBRName>
 		<szBRDesc>Gyrojet火箭式手枪发射13mm口径的火箭弹，威力相当惊人（YY的），至于精度嘛。。。。。。</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -13796,7 +13796,7 @@
 		<uiIndex>1724</uiIndex>
 		<szItemName>CIRAS Vest</szItemName>
 		<szLongItemName>泥色CIRAS背心</szLongItemName>
-		<szItemDesc>整合式战斗快脱防弹系统(C.I.R.A.S.)，采用钢缆快脱结构，比以前产品脱得更方便。泥色提供了有限的伪装。</szItemDesc>
+		<szItemDesc>整合式战斗快脱防弹系统(C.I.R.A.S.)，采用钢缆快脱结构，比以前产品脱得更方便。</szItemDesc>
 		<szBRName>CIRAS MC Vest</szBRName>
 		<szBRDesc>美国特种作战司令部为防弹携具选择了CIRAS。单绳快脱结构，比以前产品穿脱更方便。</szBRDesc>
 	</ITEM>
@@ -21490,35 +21490,35 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2686</uiIndex>
-		<szItemName>.50 Beowulf 31</szItemName>
-		<szLongItemName>.50 Beowulf弹鼓, 31</szLongItemName>
-		<szItemDesc>一个装有31发.50 Beowulf全被甲弹的MWG90弹鼓。</szItemDesc>
-		<szBRName>.50 Beowulf 31</szBRName>
-		<szBRDesc>一个装有31发.50 Beowulf全被甲弹的MWG90弹鼓。</szBRDesc>
+		<szItemName>.50 Beowulf 33</szItemName>
+		<szLongItemName>.50 Beowulf弹鼓, 33</szLongItemName>
+		<szItemDesc>一个装有33发.50 Beowulf全被甲弹的MWG90弹鼓。</szItemDesc>
+		<szBRName>.50 Beowulf 33</szBRName>
+		<szBRDesc>一个装有33发.50 Beowulf全被甲弹的MWG90弹鼓。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2687</uiIndex>
-		<szItemName>.50 Beowulf 31 HP</szItemName>
-		<szLongItemName>.50 Bewoulf弹鼓, 31 HP</szLongItemName>
-		<szItemDesc>一个装有31发.50 Beowulf空尖弹的MWG90弹鼓。</szItemDesc>
-		<szBRName>.50 Beowulf 31 HP</szBRName>
-		<szBRDesc>一个装有31发.50 Beowulf空尖弹的MWG90弹鼓。</szBRDesc>
+		<szItemName>.50 Beowulf 33 HP</szItemName>
+		<szLongItemName>.50 Bewoulf弹鼓, 33 HP</szLongItemName>
+		<szItemDesc>一个装有33发.50 Beowulf空尖弹的MWG90弹鼓。</szItemDesc>
+		<szBRName>.50 Beowulf 33 HP</szBRName>
+		<szBRDesc>一个装有33发.50 Beowulf空尖弹的MWG90弹鼓。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2688</uiIndex>
-		<szItemName>.458 SOCOM 36 FMJ</szItemName>
-		<szLongItemName>.458 SOCOM弹鼓, 36 FMJ</szLongItemName>
-		<szItemDesc>一个装有36发.458 SOCOM全被甲弹的MWG90弹鼓。</szItemDesc>
-		<szBRName>.458 SOCOM Mag 36 FMJ</szBRName>
-		<szBRDesc>一个装有36发.458 SOCOM全被甲弹的MWG90弹鼓。</szBRDesc>
+		<szItemName>.458 SOCOM 38 FMJ</szItemName>
+		<szLongItemName>.458 SOCOM弹鼓, 38 FMJ</szLongItemName>
+		<szItemDesc>一个装有38发.458 SOCOM全被甲弹的MWG90弹鼓。</szItemDesc>
+		<szBRName>.458 SOCOM Mag 38 FMJ</szBRName>
+		<szBRDesc>一个装有38发.458 SOCOM全被甲弹的MWG90弹鼓。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2689</uiIndex>
-		<szItemName>.458 SOCOM 36 JHP</szItemName>
-		<szLongItemName>.458 SOCOM弹鼓, 36 JHP</szLongItemName>
-		<szItemDesc>一个装有36发.458 SOCOM空尖弹的MWG90弹鼓。</szItemDesc>
-		<szBRName>.458 SOCOM Mag 36 JHP</szBRName>
-		<szBRDesc>一个装有36发.458 SOCOM空尖弹的MWG90弹鼓。</szBRDesc>
+		<szItemName>.458 SOCOM 38 JHP</szItemName>
+		<szLongItemName>.458 SOCOM弹鼓, 38 JHP</szLongItemName>
+		<szItemDesc>一个装有38发.458 SOCOM空尖弹的MWG90弹鼓。</szItemDesc>
+		<szBRName>.458 SOCOM Mag 38 JHP</szBRName>
+		<szBRDesc>一个装有38发.458 SOCOM空尖弹的MWG90弹鼓。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2690</uiIndex>
@@ -21551,5 +21551,221 @@
 		<szItemDesc>KS-23M是KS-23的紧凑型，取消了枪管，并缩短枪管，虽然有效射程近了一些，但方便携带。</szItemDesc>
 		<szBRName>KS-23M</szBRName>
 		<szBRDesc>KS-23M是KS-23的紧凑型，取消了枪管，并缩短枪管，虽然有效射程近了一些，但方便携带。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2694</uiIndex>
+		<szItemName>Rys-U</szItemName>
+		<szLongItemName>Rys-U</szLongItemName>
+		<szItemDesc>俄罗斯中央统计局狩猎及运动武器生产的霰弹枪，是RMB-93山猫的民用型。</szItemDesc>
+		<szBRName>RYS-U</szBRName>
+		<szBRDesc>俄罗斯中央统计局狩猎及运动武器生产的霰弹枪，是RMB-93山猫的民用型。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2695</uiIndex>
+		<szItemName>AEK-906</szItemName>
+		<szLongItemName>AEK-906</szLongItemName>
+		<szItemDesc>俄罗斯生产的9x18mm口径转轮手枪。</szItemDesc>
+		<szBRName>AEK-906</szBRName>
+		<szBRDesc>俄罗斯生产的9x18mm口径转轮手枪。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2696</uiIndex>
+		<szItemName>OTs-33</szItemName>
+		<szLongItemName>OTs-33 Pernach</szLongItemName>
+		<szItemDesc>在斯捷奇金APS基础上改进的冲锋手枪。</szItemDesc>
+		<szBRName>OTs-33 Pernach</szBRName>
+		<szBRDesc>在斯捷奇金APS基础上改进的冲锋手枪。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2697</uiIndex>
+		<szItemName>.338 Spectre PDW</szItemName>
+		<szLongItemName>Teppo Jutsu .338 Spectre PDW</szLongItemName>
+		<szItemDesc>铁炮术公司生产的.338幽灵口径的PDW步枪，这种子弹最适合装上消声器使用。</szItemDesc>
+		<szBRName>Teppo Jutsu .338 Spectre PDW</szBRName>
+		<szBRDesc>铁炮术公司生产的.338幽灵口径的PDW步枪，这种子弹最适合装上消声器使用。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2698</uiIndex>
+		<szItemName>.500 Phantom DMR</szItemName>
+		<szLongItemName>.500 Phantom DMR</szLongItemName>
+		<szItemDesc>铁炮术公司生产的.500 PHANTOM口径步枪，可用于对近距离目标进行精确的射击。</szItemDesc>
+		<szBRName>.500 Phantom DMR</szBRName>
+		<szBRDesc>铁炮术公司生产的.500 PHANTOM口径步枪，可用于对近距离目标进行精确的射击。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2699</uiIndex>
+		<szItemName>Colt SCW</szItemName>
+		<szLongItemName>Colt Sub Compact Weapon</szLongItemName>
+		<szItemDesc>由柯尔特生产的PDW型步枪，采用最新的气吹和活塞混合系统，具有比较好的可靠性。</szItemDesc>
+		<szBRName>Colt Sub Compact Weapon</szBRName>
+		<szBRDesc>由柯尔特生产的PDW型步枪，采用最新的气吹和活塞混合系统，具有比较好的可靠性。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2700</uiIndex>
+		<szItemName>STAR-21</szItemName>
+		<szLongItemName>Tavor STAR-21</szLongItemName>
+		<szItemDesc>TAVOR系列的DMR型步枪，采用更长更重的比赛级枪管，并安装有两脚架和ACOG瞄准镜。</szItemDesc>
+		<szBRName>Tavor STAR-21</szBRName>
+		<szBRDesc>TAVOR系列的DMR型步枪，采用更长更重的比赛级枪管，并安装有两脚架和ACOG瞄准镜。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2701</uiIndex>
+		<szItemName>Mag-7</szItemName>
+		<szLongItemName>TechnoArms Mag-7</szLongItemName>
+		<szItemDesc>南非生产的泵动霰弹枪，使用特制的12号短霰弹使弹匣可以插在握把内，虽然射程较近但尺寸也短小。</szItemDesc>
+		<szBRName>TechnoArms Mag-7</szBRName>
+		<szBRDesc>南非生产的泵动霰弹枪，使用特制的12号短霰弹使弹匣可以插在握把内，虽然射程较近但尺寸也短小。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2702</uiIndex>
+		<szItemName>SSW</szItemName>
+		<szLongItemName>STK Squad Support Weapon</szLongItemName>
+		<szItemDesc>新加坡STK公司为瑞典生产的40mm金属风暴榴弹发射器，下面挂有5.7mm口径的PDW用于近距离自卫。</szItemDesc>
+		<szBRName>STK Squad Support Weapon</szBRName>
+		<szBRDesc>新加坡STK公司为瑞典生产的40mm金属风暴榴弹发射器，下面挂有5.7mm口径的PDW用于近距离自卫。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2703</uiIndex>
+		<szItemName>Gyrojet Rifle</szItemName>
+		<szLongItemName>MB Assoc. Gyrojet Rifle</szLongItemName>
+		<szItemDesc>这是Gyrojet火箭式手枪的步枪型，更长的枪管和枪托，使它有较好的精度和射程。</szItemDesc>
+		<szBRName>MB Assoc. Gyrojet Carbine</szBRName>
+		<szBRDesc>不在BR出售。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2704</uiIndex>
+		<szItemName>PM-63 RAK</szItemName>
+		<szLongItemName>PM-63 RAK</szLongItemName>
+		<szItemDesc>PM-63冲锋枪是当年波兰为坦克兵研制的自卫武器，带有前握把和伸缩式枪托。</szItemDesc>
+		<szBRName>PM-63 RAK</szBRName>
+		<szBRDesc>PM-63冲锋枪是当年波兰为坦克兵研制的自卫武器，带有前握把和伸缩式枪托。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2705</uiIndex>
+		<szItemName>Skorpion EVO III</szItemName>
+		<szLongItemName>Skorpion EVO III</szLongItemName>
+		<szItemDesc>蝎式EVO III是捷克最新的冲锋枪，采用折叠伸缩式枪托，并有皮卡汀尼导轨便于安装各种附件。</szItemDesc>
+		<szBRName>Skorpion EVO III</szBRName>
+		<szBRDesc>蝎式EVO III是捷克最新的冲锋枪，采用折叠伸缩式枪托，并有皮卡汀尼导轨便于安装各种附件。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2706</uiIndex>
+		<szItemName>9x18mm CC PM</szItemName>
+		<szLongItemName>9x18mm Cartridge Clip PM</szLongItemName>
+		<szItemDesc>用月形夹装起来的6发9x18mm马卡洛夫PM手枪弹，能迅速装填进这种口径的转轮手枪中。</szItemDesc>
+		<szBRName>9x18mm  Cartridge Clip PM</szBRName>
+		<szBRDesc>用月形夹装起来的6发9x18mm马卡洛夫PM手枪弹，能迅速装填进这种口径的转轮手枪中。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2707</uiIndex>
+		<szItemName>9x18mm CC PMM</szItemName>
+		<szLongItemName>9x18mm Cartridge Clip, PMM</szLongItemName>
+		<szItemDesc>用月形夹装起来的6发9x18mm马卡洛夫PMM高速手枪弹，能迅速装填进这种口径的转轮手枪中。</szItemDesc>
+		<szBRName>9x18mm  Cartridge Clip, PMM</szBRName>
+		<szBRDesc>用月形夹装起来的6发9x18mm马卡洛夫PMM高速手枪弹，能迅速装填进这种口径的转轮手枪中。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2708</uiIndex>
+		<szItemName>9x18mm CC, SB</szItemName>
+		<szLongItemName>9x18mm Cartridge Clip, SB</szLongItemName>
+		<szItemDesc>用月形夹装起来的6发9x18mm马卡洛夫亚音速手枪弹，能迅速装填进这种口径的转轮手枪中。</szItemDesc>
+		<szBRName>9x18mm Cartridge Clip, SB</szBRName>
+		<szBRDesc>用月形夹装起来的6发9x18mm马卡洛夫亚音速手枪弹，能迅速装填进这种口径的转轮手枪中。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2709</uiIndex>
+		<szItemName>.338 Spectre Mag FMJ</szItemName>
+		<szLongItemName>.338 Spectre Magazine, 28 Light FMJ</szLongItemName>
+		<szItemDesc>这个标准AR式弹匣中装有28发.338幽灵亚音速特种弹，其弹头是160格令重的轻型尖头全被甲弹。</szItemDesc>
+		<szBRName>.338 Spectre Mag 28 Light FMJ</szBRName>
+		<szBRDesc>这个标准AR式弹匣中装有28发.338幽灵亚音速特种弹，其弹头是160格令重的轻型尖头全被甲弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2710</uiIndex>
+		<szItemName>.338 Spectre Mag JHP</szItemName>
+		<szLongItemName>.338 Spectre Magazine, 28 Heavy JHP</szLongItemName>
+		<szItemDesc>这个标准AR式弹匣中装有28发.338幽灵亚音速特种弹，其弹头是300格令重型空尖弹。</szItemDesc>
+		<szBRName>.338 Spectre Mag 28 Heavy JHP</szBRName>
+		<szBRDesc>这个标准AR式弹匣中装有28发.338幽灵亚音速特种弹，其弹头是300格令重型空尖弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2711</uiIndex>
+		<szItemName>.338 Spectre FMJ box</szItemName>
+		<szLongItemName>.338 Spectre Light FMJ ammo box</szLongItemName>
+		<szItemDesc>100发.338幽灵口径的160格令轻型尖头全被甲弹。</szItemDesc>
+		<szBRName>.338 Spectre Light FMJ ammo box</szBRName>
+		<szBRDesc>100发.338幽灵口径的160格令轻型尖头全被甲弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2712</uiIndex>
+		<szItemName>.338 Spectre JHP box</szItemName>
+		<szLongItemName>.338 Spectre Heavy JHP ammo box</szLongItemName>
+		<szItemDesc>100发.338幽灵口径的300格令重型空尖弹。</szItemDesc>
+		<szBRName>.338 Spectre Heavy JHP ammo box</szBRName>
+		<szBRDesc>100发.338幽灵口径的300格令重型空尖弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2713</uiIndex>
+		<szItemName>.500 Phantom 8 Sabot</szItemName>
+		<szLongItemName>.500 Phantom Magazine, 8 Sabot</szLongItemName>
+		<szItemDesc>这个标准AR式弹匣中装有8发.500 Phantom口径的亚音速脱壳穿甲弹，发射.308口径的168格令全被甲弹。</szItemDesc>
+		<szBRName>.500 Phantom Mag 8 Sabot</szBRName>
+		<szBRDesc>这个标准AR式弹匣中装有8发.500 Phantom口径的亚音速脱壳穿甲弹，发射.308口径的168格令全被甲弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2714</uiIndex>
+		<szItemName>.500 Phantom 8 JHP</szItemName>
+		<szLongItemName>.500 Phantom Magazine, 8 JHP</szLongItemName>
+		<szItemDesc>这个标准AR式弹匣中装有8发.500 Phantom口径的亚音速脱壳穿甲弹，发射700格令的重型空尖弹。</szItemDesc>
+		<szBRName>.500 Phantom Mag 8 JHP</szBRName>
+		<szBRDesc>这个标准AR式弹匣中装有8发.500 Phantom口径的亚音速脱壳穿甲弹，发射700格令的重型空尖弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2715</uiIndex>
+		<szItemName>.500 Phantom Sabot box</szItemName>
+		<szLongItemName>.500 Phantom Sabot ammo box</szLongItemName>
+		<szItemDesc>50发.500 Phantom口径的亚音速脱壳穿甲弹。</szItemDesc>
+		<szBRName>.500 Phantom Sabot ammo box</szBRName>
+		<szBRDesc>50发.500 Phantom口径的亚音速脱壳穿甲弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2716</uiIndex>
+		<szItemName>.500 Phantom JHP box</szItemName>
+		<szLongItemName>.500 Phantom JHP ammo box</szLongItemName>
+		<szItemDesc>50发.500 Phantom口径的亚音速重型空尖弹。</szItemDesc>
+		<szBRName>.500 Phantom JHP ammo box</szBRName>
+		<szBRDesc>50发.500 Phantom口径的亚音速重型空尖弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2717</uiIndex>
+		<szItemName>Mag-7 Mag, Slug</szItemName>
+		<szLongItemName>Mag-7 Mag, Slug</szLongItemName>
+		<szItemDesc>这个手枪型的弹匣内装有5发12号60mm独头弹。</szItemDesc>
+		<szBRName>Mag-7 Mag, Slug</szBRName>
+		<szBRDesc>这个手枪型的弹匣内装有5发12号60mm独头弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2718</uiIndex>
+		<szItemName>Mag-7 Mag, BS</szItemName>
+		<szLongItemName>Mag-7 Mag, Buckshot</szLongItemName>
+		<szItemDesc>这个手枪型的弹匣内装有5发12号60mm鹿弹。</szItemDesc>
+		<szBRName>Mag-7 Mag, Buckshot</szBRName>
+		<szBRDesc>这个手枪型的弹匣内装有5发12号60mm鹿弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2719</uiIndex>
+		<szItemName>12g 60mm, Slug crate</szItemName>
+		<szLongItemName>12 gauge 60mm Ammo Crate</szLongItemName>
+		<szItemDesc>50发12号60mm独头弹的弹药盒。</szItemDesc>
+		<szBRName>12 gauge 60mm Ammo Crate</szBRName>
+		<szBRDesc>50发12号60mm独头弹的弹药盒。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2720</uiIndex>
+		<szItemName>12g 60mm, BS Crate</szItemName>
+		<szLongItemName>12 gauge 60mm Buckshot Ammo Crate</szLongItemName>
+		<szItemDesc>50发12号60mm鹿弹的弹药盒。</szItemDesc>
+		<szBRName>12 gauge 60mm Buckshot Ammo Crate</szBRName>
+		<szBRDesc>50发12号60mm鹿弹的弹药盒。</szBRDesc>
 	</ITEM>
 </ITEMLIST>
