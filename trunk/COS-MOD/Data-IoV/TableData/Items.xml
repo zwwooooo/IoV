@@ -4971,7 +4971,7 @@
 		<ShowStatus>1</ShowStatus>
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<APBonus>-12</APBonus>
+		<APBonus>-20</APBonus>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -4998,7 +4998,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<NotBuyable>1</NotBuyable>
-		<APBonus>-12</APBonus>
+		<APBonus>-20</APBonus>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -5025,7 +5025,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<NotBuyable>1</NotBuyable>
-		<APBonus>-12</APBonus>
+		<APBonus>-20</APBonus>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -5053,7 +5053,7 @@
 		<ShowStatus>1</ShowStatus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<APBonus>-16</APBonus>
+		<APBonus>-20</APBonus>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -5080,7 +5080,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<NotBuyable>1</NotBuyable>
-		<APBonus>-16</APBonus>
+		<APBonus>-20</APBonus>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -5107,7 +5107,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<NotBuyable>1</NotBuyable>
-		<APBonus>-16</APBonus>
+		<APBonus>-20</APBonus>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -6154,12 +6154,16 @@
 		<Bipod>10</Bipod>
 		<PercentReadyTimeAPReduction>-3</PercentReadyTimeAPReduction>
 		<WireCutters>1</WireCutters>
-		<PercentAccuracyModifier>-1</PercentAccuracyModifier>
+		<PercentAccuracyModifier>-5</PercentAccuracyModifier>
 		<STAND_MODIFIERS>
-			<PercentHandling>15</PercentHandling>
+			<PercentBase>-5</PercentBase>
+			<PercentCap>-2</PercentCap>
+			<PercentHandling>20</PercentHandling>
 		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS>
+			<PercentBase>0</PercentBase>
+			<PercentCap>0</PercentCap>
 			<PercentHandling>-65</PercentHandling>
 			<PercentMaxCounterForce>100</PercentMaxCounterForce>
 			<PercentCounterForceAccuracy>35</PercentCounterForceAccuracy>
@@ -8583,7 +8587,7 @@
 		<PercentBurstFireAPReduction>80</PercentBurstFireAPReduction>
 		<PercentAutofireAPReduction>50</PercentAutofireAPReduction>
 		<RecoilModifierX>3</RecoilModifierX>
-		<RecoilModifierY>2</RecoilModifierY>
+		<RecoilModifierY>3</RecoilModifierY>
 		<PercentRecoilModifier>50</PercentRecoilModifier>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -8664,11 +8668,11 @@
 		<Inseparable>1</Inseparable>
 		<RangeBonus>30</RangeBonus>
 		<ToHitBonus>-10</ToHitBonus>
-		<PercentReadyTimeAPReduction>-10</PercentReadyTimeAPReduction>
-		<PercentRecoilModifier>-10</PercentRecoilModifier>
+		<PercentReadyTimeAPReduction>-15</PercentReadyTimeAPReduction>
+		<RecoilModifierY>-1</RecoilModifierY>
 		<PercentAccuracyModifier>-20</PercentAccuracyModifier>
 		<STAND_MODIFIERS>
-			<PercentHandling>-3</PercentHandling>
+			<PercentHandling>-5</PercentHandling>
 			<PercentMaxCounterForce>20</PercentMaxCounterForce>
 			<PercentCounterForceAccuracy>10</PercentCounterForceAccuracy>
 		</STAND_MODIFIERS>
@@ -9263,7 +9267,7 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>800</BR_ROF>
-		<PercentNoiseReduction>90</PercentNoiseReduction>
+		<PercentNoiseReduction>95</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<DefaultAttachment>1000</DefaultAttachment>
 		<STAND_MODIFIERS />
@@ -9645,7 +9649,7 @@
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>800</BR_ROF>
-		<PercentNoiseReduction>90</PercentNoiseReduction>
+		<PercentNoiseReduction>95</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -9988,7 +9992,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<PercentNoiseReduction>40</PercentNoiseReduction>
+		<PercentNoiseReduction>50</PercentNoiseReduction>
 		<RangeBonus>-15</RangeBonus>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<STAND_MODIFIERS />
@@ -10114,7 +10118,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<PercentNoiseReduction>40</PercentNoiseReduction>
+		<PercentNoiseReduction>50</PercentNoiseReduction>
 		<RangeBonus>-15</RangeBonus>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<STAND_MODIFIERS />
@@ -10168,7 +10172,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<PercentNoiseReduction>40</PercentNoiseReduction>
+		<PercentNoiseReduction>50</PercentNoiseReduction>
 		<RangeBonus>-15</RangeBonus>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<STAND_MODIFIERS />
@@ -10294,7 +10298,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<PercentNoiseReduction>40</PercentNoiseReduction>
+		<PercentNoiseReduction>50</PercentNoiseReduction>
 		<RangeBonus>-15</RangeBonus>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<STAND_MODIFIERS />
@@ -10420,7 +10424,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<PercentNoiseReduction>40</PercentNoiseReduction>
+		<PercentNoiseReduction>50</PercentNoiseReduction>
 		<RangeBonus>-15</RangeBonus>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<STAND_MODIFIERS />
@@ -10474,7 +10478,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<PercentNoiseReduction>40</PercentNoiseReduction>
+		<PercentNoiseReduction>50</PercentNoiseReduction>
 		<RangeBonus>-15</RangeBonus>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<STAND_MODIFIERS />
@@ -10600,7 +10604,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<PercentNoiseReduction>40</PercentNoiseReduction>
+		<PercentNoiseReduction>50</PercentNoiseReduction>
 		<RangeBonus>-15</RangeBonus>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<STAND_MODIFIERS />
@@ -10653,7 +10657,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<PercentNoiseReduction>40</PercentNoiseReduction>
+		<PercentNoiseReduction>50</PercentNoiseReduction>
 		<RangeBonus>-15</RangeBonus>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<STAND_MODIFIERS />
@@ -10777,7 +10781,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<PercentNoiseReduction>40</PercentNoiseReduction>
+		<PercentNoiseReduction>50</PercentNoiseReduction>
 		<RangeBonus>-15</RangeBonus>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<STAND_MODIFIERS />
@@ -11958,7 +11962,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<PercentNoiseReduction>45</PercentNoiseReduction>
+		<PercentNoiseReduction>50</PercentNoiseReduction>
 		<RangeBonus>-20</RangeBonus>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<STAND_MODIFIERS />
@@ -12029,7 +12033,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<PercentNoiseReduction>45</PercentNoiseReduction>
+		<PercentNoiseReduction>50</PercentNoiseReduction>
 		<RangeBonus>-20</RangeBonus>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<STAND_MODIFIERS />
@@ -12136,7 +12140,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<PercentNoiseReduction>45</PercentNoiseReduction>
+		<PercentNoiseReduction>50</PercentNoiseReduction>
 		<RangeBonus>-20</RangeBonus>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<STAND_MODIFIERS />
@@ -12280,7 +12284,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<PercentNoiseReduction>45</PercentNoiseReduction>
+		<PercentNoiseReduction>50</PercentNoiseReduction>
 		<RangeBonus>-20</RangeBonus>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<STAND_MODIFIERS />
@@ -12403,7 +12407,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<PercentNoiseReduction>45</PercentNoiseReduction>
+		<PercentNoiseReduction>50</PercentNoiseReduction>
 		<RangeBonus>-20</RangeBonus>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<STAND_MODIFIERS />
@@ -12536,7 +12540,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<PercentNoiseReduction>45</PercentNoiseReduction>
+		<PercentNoiseReduction>50</PercentNoiseReduction>
 		<RangeBonus>-20</RangeBonus>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<STAND_MODIFIERS />
@@ -12692,7 +12696,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<PercentNoiseReduction>45</PercentNoiseReduction>
+		<PercentNoiseReduction>50</PercentNoiseReduction>
 		<RangeBonus>-20</RangeBonus>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<STAND_MODIFIERS />
@@ -12849,7 +12853,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<PercentNoiseReduction>45</PercentNoiseReduction>
+		<PercentNoiseReduction>50</PercentNoiseReduction>
 		<RangeBonus>-20</RangeBonus>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<STAND_MODIFIERS />
@@ -13004,7 +13008,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<PercentNoiseReduction>45</PercentNoiseReduction>
+		<PercentNoiseReduction>50</PercentNoiseReduction>
 		<RangeBonus>-20</RangeBonus>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<STAND_MODIFIERS />
@@ -13131,7 +13135,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<PercentNoiseReduction>45</PercentNoiseReduction>
+		<PercentNoiseReduction>50</PercentNoiseReduction>
 		<RangeBonus>-20</RangeBonus>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<STAND_MODIFIERS />
@@ -13240,7 +13244,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<PercentNoiseReduction>45</PercentNoiseReduction>
+		<PercentNoiseReduction>50</PercentNoiseReduction>
 		<RangeBonus>-25</RangeBonus>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<STAND_MODIFIERS />
@@ -13373,7 +13377,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<PercentNoiseReduction>45</PercentNoiseReduction>
+		<PercentNoiseReduction>50</PercentNoiseReduction>
 		<RangeBonus>-25</RangeBonus>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<STAND_MODIFIERS />
@@ -13507,7 +13511,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<PercentNoiseReduction>45</PercentNoiseReduction>
+		<PercentNoiseReduction>50</PercentNoiseReduction>
 		<RangeBonus>-25</RangeBonus>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<STAND_MODIFIERS />
@@ -13639,7 +13643,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<PercentNoiseReduction>45</PercentNoiseReduction>
+		<PercentNoiseReduction>50</PercentNoiseReduction>
 		<RangeBonus>-25</RangeBonus>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<STAND_MODIFIERS />
@@ -13791,7 +13795,7 @@
 		<usPrice>225</usPrice>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
-		<PercentNoiseReduction>45</PercentNoiseReduction>
+		<PercentNoiseReduction>50</PercentNoiseReduction>
 		<RangeBonus>-25</RangeBonus>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<STAND_MODIFIERS />
@@ -13944,7 +13948,7 @@
 		<usPrice>375</usPrice>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
-		<PercentNoiseReduction>45</PercentNoiseReduction>
+		<PercentNoiseReduction>50</PercentNoiseReduction>
 		<RangeBonus>-25</RangeBonus>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<STAND_MODIFIERS />
@@ -14071,7 +14075,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<PercentNoiseReduction>45</PercentNoiseReduction>
+		<PercentNoiseReduction>50</PercentNoiseReduction>
 		<RangeBonus>-25</RangeBonus>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<STAND_MODIFIERS />
@@ -14177,7 +14181,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<PercentNoiseReduction>45</PercentNoiseReduction>
+		<PercentNoiseReduction>50</PercentNoiseReduction>
 		<RangeBonus>-20</RangeBonus>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<STAND_MODIFIERS />
@@ -14306,7 +14310,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<PercentNoiseReduction>45</PercentNoiseReduction>
+		<PercentNoiseReduction>50</PercentNoiseReduction>
 		<RangeBonus>-20</RangeBonus>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<STAND_MODIFIERS />
@@ -14436,7 +14440,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<PercentNoiseReduction>45</PercentNoiseReduction>
+		<PercentNoiseReduction>50</PercentNoiseReduction>
 		<RangeBonus>-20</RangeBonus>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<STAND_MODIFIERS />
@@ -14564,7 +14568,7 @@
 		<usPrice>450</usPrice>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
-		<PercentNoiseReduction>45</PercentNoiseReduction>
+		<PercentNoiseReduction>50</PercentNoiseReduction>
 		<RangeBonus>-20</RangeBonus>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<STAND_MODIFIERS />
@@ -14718,7 +14722,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<NotBuyable>1</NotBuyable>
-		<PercentNoiseReduction>45</PercentNoiseReduction>
+		<PercentNoiseReduction>50</PercentNoiseReduction>
 		<RangeBonus>-20</RangeBonus>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<STAND_MODIFIERS />
@@ -14822,7 +14826,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<PercentNoiseReduction>40</PercentNoiseReduction>
+		<PercentNoiseReduction>50</PercentNoiseReduction>
 		<RangeBonus>-15</RangeBonus>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<STAND_MODIFIERS />
@@ -14849,7 +14853,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<PercentNoiseReduction>40</PercentNoiseReduction>
+		<PercentNoiseReduction>50</PercentNoiseReduction>
 		<RangeBonus>-15</RangeBonus>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<STAND_MODIFIERS />
@@ -15180,7 +15184,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<PercentNoiseReduction>40</PercentNoiseReduction>
+		<PercentNoiseReduction>50</PercentNoiseReduction>
 		<RangeBonus>-15</RangeBonus>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<STAND_MODIFIERS />
@@ -15253,7 +15257,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<PercentNoiseReduction>40</PercentNoiseReduction>
+		<PercentNoiseReduction>50</PercentNoiseReduction>
 		<RangeBonus>-15</RangeBonus>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<STAND_MODIFIERS />
@@ -15280,7 +15284,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<PercentNoiseReduction>40</PercentNoiseReduction>
+		<PercentNoiseReduction>50</PercentNoiseReduction>
 		<RangeBonus>-15</RangeBonus>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<STAND_MODIFIERS />
@@ -15354,7 +15358,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<PercentNoiseReduction>40</PercentNoiseReduction>
+		<PercentNoiseReduction>50</PercentNoiseReduction>
 		<RangeBonus>-15</RangeBonus>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<STAND_MODIFIERS />
@@ -15428,7 +15432,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<PercentNoiseReduction>40</PercentNoiseReduction>
+		<PercentNoiseReduction>50</PercentNoiseReduction>
 		<RangeBonus>-15</RangeBonus>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<STAND_MODIFIERS />
@@ -15563,7 +15567,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<PercentNoiseReduction>40</PercentNoiseReduction>
+		<PercentNoiseReduction>50</PercentNoiseReduction>
 		<RangeBonus>-10</RangeBonus>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<STAND_MODIFIERS />
@@ -15643,7 +15647,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<PercentNoiseReduction>40</PercentNoiseReduction>
+		<PercentNoiseReduction>50</PercentNoiseReduction>
 		<RangeBonus>-10</RangeBonus>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<STAND_MODIFIERS />
@@ -15724,7 +15728,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<PercentNoiseReduction>40</PercentNoiseReduction>
+		<PercentNoiseReduction>50</PercentNoiseReduction>
 		<RangeBonus>-10</RangeBonus>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<STAND_MODIFIERS />
@@ -15806,7 +15810,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<PercentNoiseReduction>40</PercentNoiseReduction>
+		<PercentNoiseReduction>50</PercentNoiseReduction>
 		<RangeBonus>-10</RangeBonus>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<STAND_MODIFIERS />
@@ -15888,7 +15892,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<PercentNoiseReduction>40</PercentNoiseReduction>
+		<PercentNoiseReduction>50</PercentNoiseReduction>
 		<RangeBonus>-10</RangeBonus>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<STAND_MODIFIERS />
@@ -16520,7 +16524,6 @@
 		<BigGunList>1</BigGunList>
 		<SciFi>1</SciFi>
 		<BR_NewInventory>1</BR_NewInventory>
-		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>650</BR_ROF>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
@@ -16997,7 +17000,7 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>800</BR_ROF>
-		<PercentNoiseReduction>85</PercentNoiseReduction>
+		<PercentNoiseReduction>95</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
@@ -17044,14 +17047,14 @@
 		<DefaultAttachment>1825</DefaultAttachment>
 		<DefaultAttachment>2639</DefaultAttachment>
 		<STAND_MODIFIERS>
-			<FlatBase>-10</FlatBase>
-			<FlatAim>-10</FlatAim>
+			<FlatBase>-6</FlatBase>
+			<FlatAim>-6</FlatAim>
 			<PercentMaxCounterForce>-20</PercentMaxCounterForce>
 			<PercentCounterForceAccuracy>-20</PercentCounterForceAccuracy>
 		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS>
-			<FlatBase>-5</FlatBase>
-			<FlatAim>-5</FlatAim>
+			<FlatBase>-3</FlatBase>
+			<FlatAim>-3</FlatAim>
 		</CROUCH_MODIFIERS>
 		<PRONE_MODIFIERS>
 			<FlatBase>0</FlatBase>
@@ -17377,8 +17380,8 @@
 			<FlatAim>-10</FlatAim>
 		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS>
-			<FlatBase>-5</FlatBase>
-			<FlatAim>-5</FlatAim>
+			<FlatBase>-3</FlatBase>
+			<FlatAim>-3</FlatAim>
 		</CROUCH_MODIFIERS>
 		<PRONE_MODIFIERS>
 			<FlatBase>0</FlatBase>
@@ -17825,12 +17828,12 @@
 		<BR_ROF>22</BR_ROF>
 		<DefaultAttachment>1825</DefaultAttachment>
 		<STAND_MODIFIERS>
-			<FlatBase>-10</FlatBase>
-			<FlatAim>-10</FlatAim>
-		</STAND_MODIFIERS>
-		<CROUCH_MODIFIERS>
 			<FlatBase>-5</FlatBase>
 			<FlatAim>-5</FlatAim>
+		</STAND_MODIFIERS>
+		<CROUCH_MODIFIERS>
+			<FlatBase>-3</FlatBase>
+			<FlatAim>-3</FlatAim>
 		</CROUCH_MODIFIERS>
 		<PRONE_MODIFIERS>
 			<FlatBase>0</FlatBase>
@@ -18375,10 +18378,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>655</uiIndex>
-		<szItemName>Galil ARM 762</szItemName>
-		<szLongItemName>Galil ARM 7.62</szLongItemName>
+		<szItemName>Galil 762 ARM</szItemName>
+		<szLongItemName>Galil 7.62 ARM</szLongItemName>
 		<szItemDesc>The Galil ARM from Israel is related to Valmet M76. In fact, the first prototypes were designed from blueprints bought from Valmet.</szItemDesc>
-		<szBRName>Galil ARM 762</szBRName>
+		<szBRName>Galil 762 ARM</szBRName>
 		<szBRDesc>The Galil 7.62 assault rifle is designed for heavy combat. Reliability and lethality in one package.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -18419,10 +18422,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>656</uiIndex>
-		<szItemName>Galil SAR</szItemName>
-		<szLongItemName>Galil SAR</szLongItemName>
+		<szItemName>Galil 5.56 SAR</szItemName>
+		<szLongItemName>Galil 5.56 SAR</szLongItemName>
 		<szItemDesc>This is the shortened version of the Galil, easier to handle for paratroopers and mechanized troops.</szItemDesc>
-		<szBRName>Galil SAR</szBRName>
+		<szBRName>Galil 5.56 SAR</szBRName>
 		<szBRDesc>This is the shortened version of the Galil AR. It is easier to handle for troops that are used to work under tight conditions.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -18488,12 +18491,12 @@
 		<Bipod>10</Bipod>
 		<DefaultAttachment>1825</DefaultAttachment>
 		<STAND_MODIFIERS>
-			<FlatBase>-50</FlatBase>
-			<FlatAim>-50</FlatAim>
+			<FlatBase>-30</FlatBase>
+			<FlatAim>-30</FlatAim>
 		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS>
-			<FlatBase>-25</FlatBase>
-			<FlatAim>-25</FlatAim>
+			<FlatBase>-10</FlatBase>
+			<FlatAim>-10</FlatAim>
 		</CROUCH_MODIFIERS>
 		<PRONE_MODIFIERS>
 			<FlatBase>0</FlatBase>
@@ -19001,7 +19004,7 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>36</BR_ROF>
-		<PercentNoiseReduction>90</PercentNoiseReduction>
+		<PercentNoiseReduction>98</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<DefaultAttachment>1005</DefaultAttachment>
 		<STAND_MODIFIERS />
@@ -19441,12 +19444,12 @@
 		<Bipod>10</Bipod>
 		<DefaultAttachment>1000</DefaultAttachment>
 		<STAND_MODIFIERS>
-			<FlatBase>-30</FlatBase>
-			<FlatAim>-30</FlatAim>
+			<FlatBase>-10</FlatBase>
+			<FlatAim>-10</FlatAim>
 		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS>
-			<FlatBase>-15</FlatBase>
-			<FlatAim>-15</FlatAim>
+			<FlatBase>-5</FlatBase>
+			<FlatAim>-5</FlatAim>
 		</CROUCH_MODIFIERS>
 		<PRONE_MODIFIERS>
 			<FlatBase>0</FlatBase>
@@ -19747,9 +19750,9 @@
 	<ITEM>
 		<uiIndex>691</uiIndex>
 		<szItemName>Micro Galil</szItemName>
-		<szLongItemName>Micro Galil</szLongItemName>
+		<szLongItemName>Galil 5.56 MAR</szLongItemName>
 		<szItemDesc>Known throughout the middle east as the MAR Tactical, the Micro Galil is IMI's latest and most compact entry in the Galil family of assault weapons.</szItemDesc>
-		<szBRName>Micro Galil</szBRName>
+		<szBRName>Galil 5.56 MAR</szBRName>
 		<szBRDesc>A redesigned version of Galil MAR, with a completely new, thicker and much better protecting hand guard, a carbon-fibre folding stock instead of a steel one, and an extra standard rail.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -19979,12 +19982,12 @@
 		<Bipod>10</Bipod>
 		<DefaultAttachment>1819</DefaultAttachment>
 		<STAND_MODIFIERS>
-			<FlatBase>-50</FlatBase>
-			<FlatAim>-50</FlatAim>
+			<FlatBase>-10</FlatBase>
+			<FlatAim>-10</FlatAim>
 		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS>
-			<FlatBase>-25</FlatBase>
-			<FlatAim>-25</FlatAim>
+			<FlatBase>-5</FlatBase>
+			<FlatAim>-5</FlatAim>
 		</CROUCH_MODIFIERS>
 		<PRONE_MODIFIERS>
 			<FlatBase>0</FlatBase>
@@ -20453,12 +20456,12 @@
 		<BR_ROF>20</BR_ROF>
 		<DefaultAttachment>1825</DefaultAttachment>
 		<STAND_MODIFIERS>
-			<FlatBase>-10</FlatBase>
-			<FlatAim>-10</FlatAim>
-		</STAND_MODIFIERS>
-		<CROUCH_MODIFIERS>
 			<FlatBase>-5</FlatBase>
 			<FlatAim>-5</FlatAim>
+		</STAND_MODIFIERS>
+		<CROUCH_MODIFIERS>
+			<FlatBase>-3</FlatBase>
+			<FlatAim>-3</FlatAim>
 		</CROUCH_MODIFIERS>
 		<PRONE_MODIFIERS>
 			<FlatBase>0</FlatBase>
@@ -21382,7 +21385,7 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>650</BR_ROF>
-		<PercentNoiseReduction>40</PercentNoiseReduction>
+		<PercentNoiseReduction>50</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<Bipod>10</Bipod>
 		<DefaultAttachment>999</DefaultAttachment>
@@ -21732,7 +21735,7 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>900</BR_ROF>
-		<PercentNoiseReduction>80</PercentNoiseReduction>
+		<PercentNoiseReduction>95</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<DefaultAttachment>1817</DefaultAttachment>
 		<STAND_MODIFIERS />
@@ -22265,10 +22268,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>760</uiIndex>
-		<szItemName>.50 Beo 16</szItemName>
-		<szLongItemName>.50 Beowulf Rifle 16"</szLongItemName>
-		<szItemDesc>A rifle to fire a really oversized pistol round.</szItemDesc>
-		<szBRName>Alexander .50 Beowulf 16"</szBRName>
+		<szItemName>.50 Beowulf Rifle</szItemName>
+		<szLongItemName>Alexander Arms .50 Beowulf Rifle</szLongItemName>
+		<szItemDesc>A 16" barrel rifle to fire a really oversized pistol round.</szItemDesc>
+		<szBRName>Alexander Arms .50 Beowulf Rifle</szBRName>
 		<szBRDesc>Use what the U.S Coast Guard uses: they know what they're doing.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -22584,7 +22587,7 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>28</BR_ROF>
-		<PercentNoiseReduction>55</PercentNoiseReduction>
+		<PercentNoiseReduction>58</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<DefaultAttachment>209</DefaultAttachment>
 		<DefaultAttachment>1007</DefaultAttachment>
@@ -22748,12 +22751,12 @@
 		<Bipod>10</Bipod>
 		<DefaultAttachment>1817</DefaultAttachment>
 		<STAND_MODIFIERS>
-			<FlatBase>-10</FlatBase>
-			<FlatAim>-10</FlatAim>
+			<FlatBase>-7</FlatBase>
+			<FlatAim>-7</FlatAim>
 		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS>
-			<FlatBase>-5</FlatBase>
-			<FlatAim>-5</FlatAim>
+			<FlatBase>-3</FlatBase>
+			<FlatAim>-3</FlatAim>
 		</CROUCH_MODIFIERS>
 		<PRONE_MODIFIERS>
 			<FlatBase>0</FlatBase>
@@ -22892,12 +22895,12 @@
 		<BR_ROF>24</BR_ROF>
 		<DefaultAttachment>208</DefaultAttachment>
 		<STAND_MODIFIERS>
-			<FlatBase>-10</FlatBase>
-			<FlatAim>-10</FlatAim>
-		</STAND_MODIFIERS>
-		<CROUCH_MODIFIERS>
 			<FlatBase>-5</FlatBase>
 			<FlatAim>-5</FlatAim>
+		</STAND_MODIFIERS>
+		<CROUCH_MODIFIERS>
+			<FlatBase>-3</FlatBase>
+			<FlatAim>-3</FlatAim>
 		</CROUCH_MODIFIERS>
 		<PRONE_MODIFIERS>
 			<FlatBase>0</FlatBase>
@@ -23625,7 +23628,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>799</uiIndex>
-		<szItemName>Galatz</szItemName>
+		<szItemName>GALATz</szItemName>
 		<szLongItemName>Galil Sniper</szLongItemName>
 		<szItemDesc>A sniperized version of the Galil assault rifle. More like a DMR than a real sniper rifle.</szItemDesc>
 		<szBRName>Galil Sniper</szBRName>
@@ -28319,11 +28322,16 @@
 		<Bipod>10</Bipod>
 		<DefaultAttachment>2648</DefaultAttachment>
 		<STAND_MODIFIERS>
-			<FlatBase>-50</FlatBase>
+			<FlatBase>-10</FlatBase>
+			<FlatAim>-10</FlatAim>
 		</STAND_MODIFIERS>
-		<CROUCH_MODIFIERS />
+		<CROUCH_MODIFIERS>
+			<FlatBase>-5</FlatBase>
+			<FlatAim>-5</FlatAim>
+		</CROUCH_MODIFIERS>
 		<PRONE_MODIFIERS>
 			<FlatBase>0</FlatBase>
+			<FlatAim>0</FlatAim>
 			<PercentHandling>-75</PercentHandling>
 			<PercentMaxCounterForce>100</PercentMaxCounterForce>
 			<PercentCounterForceAccuracy>35</PercentCounterForceAccuracy>
@@ -28390,7 +28398,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<BR_ROF>40</BR_ROF>
-		<PercentNoiseReduction>90</PercentNoiseReduction>
+		<PercentNoiseReduction>98</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<DefaultAttachment>1005</DefaultAttachment>
 		<STAND_MODIFIERS />
@@ -28587,11 +28595,11 @@
 		<ToHitBonus>25</ToHitBonus>
 		<BestLaserRange>300</BestLaserRange>
 		<PercentAPReduction>15</PercentAPReduction>
-		<CamoBonus>-20</CamoBonus>
-		<UrbanCamoBonus>-20</UrbanCamoBonus>
-		<DesertCamoBonus>-20</DesertCamoBonus>
-		<SnowCamoBonus>-20</SnowCamoBonus>
-		<StealthBonus>-20</StealthBonus>
+		<CamoBonus>-10</CamoBonus>
+		<UrbanCamoBonus>-10</UrbanCamoBonus>
+		<DesertCamoBonus>-10</DesertCamoBonus>
+		<SnowCamoBonus>-10</SnowCamoBonus>
+		<StealthBonus>-10</StealthBonus>
 		<NightVisionRangeBonus>20</NightVisionRangeBonus>
 		<CaveVisionRangeBonus>30</CaveVisionRangeBonus>
 		<ProjectionFactor>4.3</ProjectionFactor>
@@ -28626,12 +28634,12 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<ToHitBonus>20</ToHitBonus>
-		<BestLaserRange>300</BestLaserRange>
-		<CamoBonus>-15</CamoBonus>
-		<UrbanCamoBonus>-15</UrbanCamoBonus>
-		<DesertCamoBonus>-15</DesertCamoBonus>
-		<SnowCamoBonus>-15</SnowCamoBonus>
-		<StealthBonus>-15</StealthBonus>
+		<BestLaserRange>280</BestLaserRange>
+		<CamoBonus>-5</CamoBonus>
+		<UrbanCamoBonus>-5</UrbanCamoBonus>
+		<DesertCamoBonus>-5</DesertCamoBonus>
+		<SnowCamoBonus>-5</SnowCamoBonus>
+		<StealthBonus>-5</StealthBonus>
 		<ProjectionFactor>4.0</ProjectionFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -28662,7 +28670,7 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<ToHitBonus>20</ToHitBonus>
-		<BestLaserRange>600</BestLaserRange>
+		<BestLaserRange>400</BestLaserRange>
 		<CamoBonus>-20</CamoBonus>
 		<UrbanCamoBonus>-20</UrbanCamoBonus>
 		<DesertCamoBonus>-20</DesertCamoBonus>
@@ -28670,7 +28678,7 @@
 		<StealthBonus>-20</StealthBonus>
 		<NightVisionRangeBonus>20</NightVisionRangeBonus>
 		<CaveVisionRangeBonus>30</CaveVisionRangeBonus>
-		<ProjectionFactor>8.6</ProjectionFactor>
+		<ProjectionFactor>5.7</ProjectionFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -30019,7 +30027,7 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<PercentNoiseReduction>17</PercentNoiseReduction>
+		<PercentNoiseReduction>20</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<PercentRecoilModifier>-10</PercentRecoilModifier>
 		<STAND_MODIFIERS />
@@ -30266,6 +30274,7 @@
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<Electronic>1</Electronic>
 		<BR_UsedInventory>2</BR_UsedInventory>
 		<ToHitBonus>-5</ToHitBonus>
 		<AimBonus>10</AimBonus>
@@ -30276,7 +30285,9 @@
 		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>20</PercentTunnelVision>
 		<ScopeMagFactor>4.0</ScopeMagFactor>
+		<PercentAccuracyModifier>-1</PercentAccuracyModifier>
 		<STAND_MODIFIERS>
+			<FlatAim>-5</FlatAim>
 			<AimLevels>-1</AimLevels>
 		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS />
@@ -30580,7 +30591,7 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<PercentNoiseReduction>55</PercentNoiseReduction>
+		<PercentNoiseReduction>57</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
 		<BurstToHitBonus>2</BurstToHitBonus>
@@ -31248,6 +31259,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
+		<HiddenAttachment>1</HiddenAttachment>
 		<BigGunList>1</BigGunList>
 		<ToHitBonus>-5</ToHitBonus>
 		<MagSizeBonus>20</MagSizeBonus>
@@ -32060,7 +32072,7 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>36</BR_ROF>
-		<PercentNoiseReduction>95</PercentNoiseReduction>
+		<PercentNoiseReduction>98</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -32342,11 +32354,16 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_ROF>18</BR_ROF>
 		<STAND_MODIFIERS>
-			<FlatBase>-20</FlatBase>
+			<FlatBase>-5</FlatBase>
+			<FlatAim>-5</FlatAim>
 		</STAND_MODIFIERS>
-		<CROUCH_MODIFIERS />
+		<CROUCH_MODIFIERS>
+			<FlatBase>-2</FlatBase>
+			<FlatAim>-2</FlatAim>
+		</CROUCH_MODIFIERS>
 		<PRONE_MODIFIERS>
 			<FlatBase>0</FlatBase>
+			<FlatAim>0</FlatAim>
 		</PRONE_MODIFIERS>
 	</ITEM>
 	<ITEM>
@@ -32415,11 +32432,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1070</uiIndex>
-		<szItemName>Gyrojet</szItemName>
-		<szLongItemName>MBA Gyrojet Mark I</szLongItemName>
-		<szItemDesc>The Gyrojet is firing small rockets rather than inert bullets, they had little recoil and didn't require a heavy barrel to resist the pressure of the combustion gases.</szItemDesc>
-		<szBRName>MBA Gyrojet Mark I</szBRName>
-		<szBRDesc>The Gyrojet is firing small rockets rather than inert bullets, they had little recoil and didn't require a heavy barrel to resist the pressure of the combustion gases.</szBRDesc>
+		<szItemName>Gyrojet Pistol</szItemName>
+		<szLongItemName>MB Assoc. Gyrojet Pistol</szLongItemName>
+		<szItemDesc>Ahead of its time, or historical small arms deadend - that is up to you.  When this weapon does fire, it is relatively silent, produces little recoil, and 50% more energy than .45ACP at optimal range.</szItemDesc>
+		<szBRName>MB Assoc. Gyrojet Pistol</szBRName>
+		<szBRDesc>Ahead of its time, or historical small arms deadend - that is up to you.  When this weapon does fire, it is relatively silent, produces little recoil, and 50% more energy than .45ACP at optimal range.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>1070</ubClassIndex>
@@ -32429,8 +32446,9 @@
 		<ubPerPocket>1</ubPerPocket>
 		<ItemSize>1</ItemSize>
 		<usPrice>1200</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>8</ubCoolness>
 		<bReliability>5</bReliability>
+		<bRepairEase>3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<WaterDamages>1</WaterDamages>
@@ -33559,7 +33577,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>750</BR_ROF>
-		<PercentNoiseReduction>80</PercentNoiseReduction>
+		<PercentNoiseReduction>90</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
@@ -34029,12 +34047,12 @@
 		<Bipod>10</Bipod>
 		<DefaultAttachment>2189</DefaultAttachment>
 		<STAND_MODIFIERS>
-			<FlatBase>-50</FlatBase>
-			<FlatAim>-50</FlatAim>
+			<FlatBase>-10</FlatBase>
+			<FlatAim>-10</FlatAim>
 		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS>
-			<FlatBase>-25</FlatBase>
-			<FlatAim>-25</FlatAim>
+			<FlatBase>-5</FlatBase>
+			<FlatAim>-5</FlatAim>
 		</CROUCH_MODIFIERS>
 		<PRONE_MODIFIERS>
 			<FlatBase>0</FlatBase>
@@ -34101,6 +34119,7 @@
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -34110,7 +34129,6 @@
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1011</DefaultAttachment>
-		<DefaultAttachment>1860</DefaultAttachment>
 		<STAND_MODIFIERS>
 			<PercentMaxCounterForce>-15</PercentMaxCounterForce>
 			<PercentCounterForceAccuracy>-15</PercentCounterForceAccuracy>
@@ -34139,6 +34157,7 @@
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -34147,6 +34166,7 @@
 		<BR_ROF>625</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<DefaultAttachment>1011</DefaultAttachment>
 		<STAND_MODIFIERS>
 			<PercentMaxCounterForce>-15</PercentMaxCounterForce>
 			<PercentCounterForceAccuracy>-15</PercentCounterForceAccuracy>
@@ -34174,6 +34194,7 @@
 		<bReliability>5</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -34211,6 +34232,7 @@
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -34247,6 +34269,7 @@
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -34255,7 +34278,6 @@
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
-		<DefaultAttachment>1011</DefaultAttachment>
 		<STAND_MODIFIERS>
 			<PercentMaxCounterForce>-15</PercentMaxCounterForce>
 			<PercentCounterForceAccuracy>-15</PercentCounterForceAccuracy>
@@ -34283,6 +34305,7 @@
 		<bReliability>5</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -34319,6 +34342,7 @@
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -34357,6 +34381,7 @@
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -34366,6 +34391,7 @@
 		<BR_ROF>650</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<DefaultAttachment>1011</DefaultAttachment>
 		<STAND_MODIFIERS>
 			<PercentMaxCounterForce>-15</PercentMaxCounterForce>
 			<PercentCounterForceAccuracy>-15</PercentCounterForceAccuracy>
@@ -34393,6 +34419,7 @@
 		<bReliability>5</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -34402,6 +34429,7 @@
 		<BR_ROF>650</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<DefaultAttachment>1011</DefaultAttachment>
 		<STAND_MODIFIERS>
 			<PercentMaxCounterForce>-15</PercentMaxCounterForce>
 			<PercentCounterForceAccuracy>-15</PercentCounterForceAccuracy>
@@ -34430,6 +34458,7 @@
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -34440,7 +34469,6 @@
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1011</DefaultAttachment>
-		<DefaultAttachment>1802</DefaultAttachment>
 		<STAND_MODIFIERS>
 			<PercentMaxCounterForce>-15</PercentMaxCounterForce>
 			<PercentCounterForceAccuracy>-15</PercentCounterForceAccuracy>
@@ -34469,6 +34497,7 @@
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -34507,6 +34536,7 @@
 		<bReliability>4</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -34518,11 +34548,7 @@
 		<DefaultAttachment>208</DefaultAttachment>
 		<DefaultAttachment>1011</DefaultAttachment>
 		<DefaultAttachment>2639</DefaultAttachment>
-		<STAND_MODIFIERS>
-			<PercentMaxCounterForce>-15</PercentMaxCounterForce>
-			<PercentCounterForceAccuracy>-15</PercentCounterForceAccuracy>
-			<AimLevels>1</AimLevels>
-		</STAND_MODIFIERS>
+		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
@@ -34546,6 +34572,7 @@
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -34583,6 +34610,7 @@
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -35902,9 +35930,9 @@
 	<ITEM>
 		<uiIndex>1171</uiIndex>
 		<szItemName>KAC PDW</szItemName>
-		<szLongItemName>KAC PDW</szLongItemName>
+		<szLongItemName>KAC 6mm CQB PDW</szLongItemName>
 		<szItemDesc>Almost as light as some heavier pistols, this is the ideal sidearm for the modern Private Military Contractor.</szItemDesc>
-		<szBRName>KAC PDW</szBRName>
+		<szBRName>KAC 6mm CQB PDW</szBRName>
 		<szBRDesc>A new PDW on the market, this little beauty was made by the Knight Armament Corporation and fires the new 6x35mm round.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -36061,7 +36089,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>28</BR_ROF>
-		<PercentNoiseReduction>55</PercentNoiseReduction>
+		<PercentNoiseReduction>57</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<DefaultAttachment>208</DefaultAttachment>
 		<STAND_MODIFIERS />
@@ -36166,12 +36194,12 @@
 		<Bipod>10</Bipod>
 		<DefaultAttachment>1813</DefaultAttachment>
 		<STAND_MODIFIERS>
-			<FlatBase>-50</FlatBase>
-			<FlatAim>-50</FlatAim>
+			<FlatBase>-10</FlatBase>
+			<FlatAim>-10</FlatAim>
 		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS>
-			<FlatBase>-25</FlatBase>
-			<FlatAim>-25</FlatAim>
+			<FlatBase>-5</FlatBase>
+			<FlatAim>-5</FlatAim>
 		</CROUCH_MODIFIERS>
 		<PRONE_MODIFIERS>
 			<FlatBase>0</FlatBase>
@@ -36211,12 +36239,12 @@
 		<Bipod>10</Bipod>
 		<DefaultAttachment>1825</DefaultAttachment>
 		<STAND_MODIFIERS>
-			<FlatBase>-30</FlatBase>
-			<FlatAim>-30</FlatAim>
+			<FlatBase>-7</FlatBase>
+			<FlatAim>-7</FlatAim>
 		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS>
-			<FlatBase>-15</FlatBase>
-			<FlatAim>-15</FlatAim>
+			<FlatBase>-3</FlatBase>
+			<FlatAim>-3</FlatAim>
 		</CROUCH_MODIFIERS>
 		<PRONE_MODIFIERS>
 			<FlatBase>0</FlatBase>
@@ -36257,12 +36285,12 @@
 		<Bipod>10</Bipod>
 		<DefaultAttachment>1813</DefaultAttachment>
 		<STAND_MODIFIERS>
-			<FlatBase>-50</FlatBase>
-			<FlatAim>-50</FlatAim>
+			<FlatBase>-10</FlatBase>
+			<FlatAim>-10</FlatAim>
 		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS>
-			<FlatBase>-25</FlatBase>
-			<FlatAim>-25</FlatAim>
+			<FlatBase>-5</FlatBase>
+			<FlatAim>-5</FlatAim>
 		</CROUCH_MODIFIERS>
 		<PRONE_MODIFIERS>
 			<FlatBase>0</FlatBase>
@@ -36304,15 +36332,14 @@
 		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1813</DefaultAttachment>
 		<STAND_MODIFIERS>
-			<FlatBase>-50</FlatBase>
-			<FlatAim>-50</FlatAim>
-			<FlatBase>-35</FlatBase>
+			<FlatBase>-10</FlatBase>
+			<FlatAim>-10</FlatAim>
 			<PercentMaxCounterForce>-20</PercentMaxCounterForce>
 			<PercentCounterForceAccuracy>-20</PercentCounterForceAccuracy>
 		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS>
-			<FlatBase>-25</FlatBase>
-			<FlatAim>-25</FlatAim>
+			<FlatBase>-5</FlatBase>
+			<FlatAim>-5</FlatAim>
 		</CROUCH_MODIFIERS>
 		<PRONE_MODIFIERS>
 			<FlatBase>0</FlatBase>
@@ -36514,17 +36541,17 @@
 	<ITEM>
 		<uiIndex>1188</uiIndex>
 		<szItemName>AA-12</szItemName>
-		<szLongItemName>AA-12 CQB</szLongItemName>
-		<szItemDesc>MPS Inc. Auto-Assault-12 model CQB. Full automatic shotgun, lighter and more reliable than the USAS-12.</szItemDesc>
-		<szBRName>AA-12 CQB</szBRName>
-		<szBRDesc>MPS Inc. Auto-Assault-12 model CQB. Full automatic shotgun, ighter and more reliable than the USAS-12.</szBRDesc>
+		<szLongItemName>MPS AA-12</szLongItemName>
+		<szItemDesc>MPS Inc. Auto-Assault-12 shotgun. Full automatic shotgun, lighter and more reliable than the USAS-12.</szItemDesc>
+		<szBRName>MPS AA-12</szBRName>
+		<szBRDesc>MPS Inc. Auto-Assault-12 shotgun. Full automatic shotgun, ighter and more reliable than the USAS-12.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>1188</ubClassIndex>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>388</ubGraphicNum>
-		<ubWeight>45</ubWeight>
-		<ItemSize>7</ItemSize>
+		<ubWeight>47</ubWeight>
+		<ItemSize>8</ItemSize>
 		<usPrice>2300</usPrice>
 		<ubCoolness>4</ubCoolness>
 		<bReliability>5</bReliability>
@@ -36598,7 +36625,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<BR_ROF>36</BR_ROF>
-		<PercentNoiseReduction>95</PercentNoiseReduction>
+		<PercentNoiseReduction>98</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<DefaultAttachment>1801</DefaultAttachment>
 		<STAND_MODIFIERS />
@@ -36823,11 +36850,16 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>12</BR_ROF>
 		<STAND_MODIFIERS>
-			<FlatBase>-20</FlatBase>
+			<FlatBase>-7</FlatBase>
+			<FlatAim>-7</FlatAim>
 		</STAND_MODIFIERS>
-		<CROUCH_MODIFIERS />
+		<CROUCH_MODIFIERS>
+			<FlatBase>-3</FlatBase>
+			<FlatAim>-3</FlatAim>
+		</CROUCH_MODIFIERS>
 		<PRONE_MODIFIERS>
 			<FlatBase>0</FlatBase>
+			<FlatAim>0</FlatAim>
 		</PRONE_MODIFIERS>
 	</ITEM>
 	<ITEM>
@@ -36900,14 +36932,14 @@
 		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1813</DefaultAttachment>
 		<STAND_MODIFIERS>
-			<FlatBase>-50</FlatBase>
-			<FlatAim>-50</FlatAim>
+			<FlatBase>-10</FlatBase>
+			<FlatAim>-10</FlatAim>
 			<PercentMaxCounterForce>-20</PercentMaxCounterForce>
 			<PercentCounterForceAccuracy>-20</PercentCounterForceAccuracy>
 		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS>
-			<FlatBase>-25</FlatBase>
-			<FlatAim>-25</FlatAim>
+			<FlatBase>-5</FlatBase>
+			<FlatAim>-5</FlatAim>
 		</CROUCH_MODIFIERS>
 		<PRONE_MODIFIERS>
 			<FlatBase>0</FlatBase>
@@ -36947,12 +36979,12 @@
 		<Bipod>10</Bipod>
 		<DefaultAttachment>1825</DefaultAttachment>
 		<STAND_MODIFIERS>
-			<FlatBase>-50</FlatBase>
-			<FlatAim>-50</FlatAim>
+			<FlatBase>-10</FlatBase>
+			<FlatAim>-10</FlatAim>
 		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS>
-			<FlatBase>-25</FlatBase>
-			<FlatAim>-25</FlatAim>
+			<FlatBase>-5</FlatBase>
+			<FlatAim>-5</FlatAim>
 		</CROUCH_MODIFIERS>
 		<PRONE_MODIFIERS>
 			<FlatBase>0</FlatBase>
@@ -37034,12 +37066,12 @@
 		<Bipod>10</Bipod>
 		<DefaultAttachment>1825</DefaultAttachment>
 		<STAND_MODIFIERS>
-			<FlatBase>-50</FlatBase>
-			<FlatAim>-50</FlatAim>
+			<FlatBase>-10</FlatBase>
+			<FlatAim>-10</FlatAim>
 		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS>
-			<FlatBase>-25</FlatBase>
-			<FlatAim>-25</FlatAim>
+			<FlatBase>-5</FlatBase>
+			<FlatAim>-5</FlatAim>
 		</CROUCH_MODIFIERS>
 		<PRONE_MODIFIERS>
 			<FlatBase>0</FlatBase>
@@ -37100,6 +37132,7 @@
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -37207,7 +37240,7 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>800</BR_ROF>
-		<PercentNoiseReduction>90</PercentNoiseReduction>
+		<PercentNoiseReduction>95</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
 		<STAND_MODIFIERS>
@@ -38846,15 +38879,20 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>650</BR_ROF>
 		<ToHitBonus>20</ToHitBonus>
-		<BestLaserRange>300</BestLaserRange>
+		<BestLaserRange>250</BestLaserRange>
 		<AimBonus>10</AimBonus>
+		<CamoBonus>-10</CamoBonus>
+		<UrbanCamoBonus>-10</UrbanCamoBonus>
+		<DesertCamoBonus>-10</DesertCamoBonus>
+		<SnowCamoBonus>-10</SnowCamoBonus>
+		<StealthBonus>-10</StealthBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
 		<DayVisionRangeBonus>10</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>10</PercentTunnelVision>
 		<ScopeMagFactor>1.5</ScopeMagFactor>
-		<ProjectionFactor>4.4</ProjectionFactor>
+		<ProjectionFactor>3.6</ProjectionFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -39098,7 +39136,7 @@
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>35</BR_ROF>
-		<PercentNoiseReduction>75</PercentNoiseReduction>
+		<PercentNoiseReduction>80</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -40088,7 +40126,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>15</BR_ROF>
-		<PercentNoiseReduction>90</PercentNoiseReduction>
+		<PercentNoiseReduction>98</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -40266,12 +40304,12 @@
 		<BR_ROF>10</BR_ROF>
 		<Bipod>10</Bipod>
 		<STAND_MODIFIERS>
-			<FlatBase>-50</FlatBase>
-			<FlatAim>-50</FlatAim>
+			<FlatBase>-20</FlatBase>
+			<FlatAim>-20</FlatAim>
 		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS>
-			<FlatBase>-25</FlatBase>
-			<FlatAim>-25</FlatAim>
+			<FlatBase>-5</FlatBase>
+			<FlatAim>-5</FlatAim>
 		</CROUCH_MODIFIERS>
 		<PRONE_MODIFIERS>
 			<FlatBase>0</FlatBase>
@@ -40597,12 +40635,12 @@
 		<BR_ROF>1200</BR_ROF>
 		<Bipod>10</Bipod>
 		<STAND_MODIFIERS>
-			<FlatBase>-10</FlatBase>
-			<FlatAim>-10</FlatAim>
+			<FlatBase>-7</FlatBase>
+			<FlatAim>-7</FlatAim>
 		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS>
-			<FlatBase>-5</FlatBase>
-			<FlatAim>-5</FlatAim>
+			<FlatBase>-3</FlatBase>
+			<FlatAim>-3</FlatAim>
 		</CROUCH_MODIFIERS>
 		<PRONE_MODIFIERS>
 			<FlatBase>0</FlatBase>
@@ -40819,6 +40857,11 @@
 		<BR_ROF>700</BR_ROF>
 		<ToHitBonus>15</ToHitBonus>
 		<BestLaserRange>300</BestLaserRange>
+		<CamoBonus>-10</CamoBonus>
+		<UrbanCamoBonus>-10</UrbanCamoBonus>
+		<DesertCamoBonus>-10</DesertCamoBonus>
+		<SnowCamoBonus>-10</SnowCamoBonus>
+		<StealthBonus>-10</StealthBonus>
 		<ProjectionFactor>4.3</ProjectionFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -40854,6 +40897,11 @@
 		<BR_ROF>900</BR_ROF>
 		<ToHitBonus>15</ToHitBonus>
 		<BestLaserRange>300</BestLaserRange>
+		<CamoBonus>-10</CamoBonus>
+		<UrbanCamoBonus>-10</UrbanCamoBonus>
+		<DesertCamoBonus>-10</DesertCamoBonus>
+		<SnowCamoBonus>-10</SnowCamoBonus>
+		<StealthBonus>-10</StealthBonus>
 		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1612</DefaultAttachment>
 		<ProjectionFactor>4.3</ProjectionFactor>
@@ -40925,6 +40973,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -40963,6 +41012,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -41001,6 +41051,7 @@
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -41555,7 +41606,7 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>1000</BR_ROF>
-		<PercentNoiseReduction>80</PercentNoiseReduction>
+		<PercentNoiseReduction>90</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
@@ -41624,7 +41675,7 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>35</BR_ROF>
-		<PercentNoiseReduction>80</PercentNoiseReduction>
+		<PercentNoiseReduction>95</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -42247,12 +42298,12 @@
 		<Bipod>10</Bipod>
 		<DefaultAttachment>1813</DefaultAttachment>
 		<STAND_MODIFIERS>
-			<FlatBase>-30</FlatBase>
-			<FlatAim>-30</FlatAim>
+			<FlatBase>-10</FlatBase>
+			<FlatAim>-10</FlatAim>
 		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS>
-			<FlatBase>-15</FlatBase>
-			<FlatAim>-15</FlatAim>
+			<FlatBase>-5</FlatBase>
+			<FlatAim>-5</FlatAim>
 		</CROUCH_MODIFIERS>
 		<PRONE_MODIFIERS>
 			<FlatBase>0</FlatBase>
@@ -42729,7 +42780,7 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>23</BR_ROF>
-		<PercentNoiseReduction>90</PercentNoiseReduction>
+		<PercentNoiseReduction>95</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<DefaultAttachment>2185</DefaultAttachment>
 		<STAND_MODIFIERS />
@@ -42964,12 +43015,12 @@
 		<BR_ROF>15</BR_ROF>
 		<Bipod>10</Bipod>
 		<STAND_MODIFIERS>
-			<FlatBase>-50</FlatBase>
-			<FlatAim>-50</FlatAim>
+			<FlatBase>-20</FlatBase>
+			<FlatAim>-20</FlatAim>
 		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS>
-			<FlatBase>-25</FlatBase>
-			<FlatAim>-25</FlatAim>
+			<FlatBase>-7</FlatBase>
+			<FlatAim>-7</FlatAim>
 		</CROUCH_MODIFIERS>
 		<PRONE_MODIFIERS>
 			<FlatBase>0</FlatBase>
@@ -43009,16 +43060,21 @@
 		<Electronic>1</Electronic>
 		<BR_ROF>20</BR_ROF>
 		<ToHitBonus>25</ToHitBonus>
-		<BestLaserRange>600</BestLaserRange>
+		<BestLaserRange>400</BestLaserRange>
 		<AimBonus>20</AimBonus>
 		<MinRangeForAimBonus>100</MinRangeForAimBonus>
+		<CamoBonus>-15</CamoBonus>
+		<UrbanCamoBonus>-15</UrbanCamoBonus>
+		<DesertCamoBonus>-15</DesertCamoBonus>
+		<SnowCamoBonus>-15</SnowCamoBonus>
+		<StealthBonus>-15</StealthBonus>
 		<NightVisionRangeBonus>420</NightVisionRangeBonus>
 		<DayVisionRangeBonus>100</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>400</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>100</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>90</PercentTunnelVision>
 		<ScopeMagFactor>12.0</ScopeMagFactor>
-		<ProjectionFactor>9.0</ProjectionFactor>
+		<ProjectionFactor>5.7</ProjectionFactor>
 		<STAND_MODIFIERS>
 			<FlatBase>-10</FlatBase>
 			<FlatAim>-10</FlatAim>
@@ -43381,14 +43437,14 @@
 		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
 		<DefaultAttachment>208</DefaultAttachment>
 		<STAND_MODIFIERS>
-			<FlatBase>-30</FlatBase>
-			<FlatAim>-30</FlatAim>
+			<FlatBase>-10</FlatBase>
+			<FlatAim>-10</FlatAim>
 			<PercentMaxCounterForce>-20</PercentMaxCounterForce>
 			<PercentCounterForceAccuracy>-20</PercentCounterForceAccuracy>
 		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS>
-			<FlatBase>-15</FlatBase>
-			<FlatAim>-15</FlatAim>
+			<FlatBase>-5</FlatBase>
+			<FlatAim>-5</FlatAim>
 		</CROUCH_MODIFIERS>
 		<PRONE_MODIFIERS>
 			<FlatBase>0</FlatBase>
@@ -43993,6 +44049,7 @@
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -44031,6 +44088,7 @@
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -44071,6 +44129,7 @@
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -44117,11 +44176,16 @@
 		<BR_ROF>10</BR_ROF>
 		<Bipod>10</Bipod>
 		<STAND_MODIFIERS>
-			<FlatBase>-50</FlatBase>
+			<FlatBase>-20</FlatBase>
+			<FlatAim>-20</FlatAim>
 		</STAND_MODIFIERS>
-		<CROUCH_MODIFIERS />
+		<CROUCH_MODIFIERS>
+			<FlatBase>-5</FlatBase>
+			<FlatAim>-5</FlatAim>
+		</CROUCH_MODIFIERS>
 		<PRONE_MODIFIERS>
 			<FlatBase>0</FlatBase>
+			<FlatAim>0</FlatAim>
 			<PercentHandling>-75</PercentHandling>
 			<PercentMaxCounterForce>100</PercentMaxCounterForce>
 			<PercentCounterForceAccuracy>30</PercentCounterForceAccuracy>
@@ -46119,7 +46183,7 @@
 		<usPrice>260</usPrice>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
-		<PercentNoiseReduction>40</PercentNoiseReduction>
+		<PercentNoiseReduction>50</PercentNoiseReduction>
 		<RangeBonus>-20</RangeBonus>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<STAND_MODIFIERS />
@@ -46167,7 +46231,7 @@
 		<ubCoolness>3</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
-		<PercentNoiseReduction>40</PercentNoiseReduction>
+		<PercentNoiseReduction>50</PercentNoiseReduction>
 		<RangeBonus>-20</RangeBonus>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<STAND_MODIFIERS />
@@ -48669,7 +48733,7 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>15</ItemSize>
 		<usPrice>60</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>8</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>1</BR_NewInventory>
@@ -49433,11 +49497,16 @@
 		<Bipod>10</Bipod>
 		<DefaultAttachment>208</DefaultAttachment>
 		<STAND_MODIFIERS>
-			<FlatBase>-50</FlatBase>
+			<FlatBase>-10</FlatBase>
+			<FlatAim>-10</FlatAim>
 		</STAND_MODIFIERS>
-		<CROUCH_MODIFIERS />
+		<CROUCH_MODIFIERS>
+			<FlatBase>-5</FlatBase>
+			<FlatAim>-5</FlatAim>
+		</CROUCH_MODIFIERS>
 		<PRONE_MODIFIERS>
 			<FlatBase>0</FlatBase>
+			<FlatAim>0</FlatAim>
 			<PercentHandling>-75</PercentHandling>
 			<PercentMaxCounterForce>100</PercentMaxCounterForce>
 			<PercentCounterForceAccuracy>30</PercentCounterForceAccuracy>
@@ -49845,9 +49914,14 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>10</BR_ROF>
 		<ToHitBonus>20</ToHitBonus>
-		<BestLaserRange>400</BestLaserRange>
+		<BestLaserRange>300</BestLaserRange>
 		<AimBonus>7</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
+		<CamoBonus>-10</CamoBonus>
+		<UrbanCamoBonus>-10</UrbanCamoBonus>
+		<DesertCamoBonus>-10</DesertCamoBonus>
+		<SnowCamoBonus>-10</SnowCamoBonus>
+		<StealthBonus>-10</StealthBonus>
 		<RocketLauncher>1</RocketLauncher>
 		<SingleShotRocketLauncher>1</SingleShotRocketLauncher>
 		<DiscardedLauncherItem>247</DiscardedLauncherItem>
@@ -49856,7 +49930,7 @@
 		<BrightLightVisionRangeBonus>27</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>30</PercentTunnelVision>
 		<ScopeMagFactor>3.0</ScopeMagFactor>
-		<ProjectionFactor>5.7</ProjectionFactor>
+		<ProjectionFactor>4.3</ProjectionFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -49889,9 +49963,14 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>8</BR_ROF>
 		<ToHitBonus>20</ToHitBonus>
-		<BestLaserRange>700</BestLaserRange>
+		<BestLaserRange>350</BestLaserRange>
 		<AimBonus>5</AimBonus>
 		<MinRangeForAimBonus>25</MinRangeForAimBonus>
+		<CamoBonus>-20</CamoBonus>
+		<UrbanCamoBonus>-20</UrbanCamoBonus>
+		<DesertCamoBonus>-20</DesertCamoBonus>
+		<SnowCamoBonus>-20</SnowCamoBonus>
+		<StealthBonus>-20</StealthBonus>
 		<RocketLauncher>1</RocketLauncher>
 		<SingleShotRocketLauncher>1</SingleShotRocketLauncher>
 		<DiscardedLauncherItem>247</DiscardedLauncherItem>
@@ -49901,7 +49980,7 @@
 		<BrightLightVisionRangeBonus>27</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>50</PercentTunnelVision>
 		<ScopeMagFactor>3.0</ScopeMagFactor>
-		<ProjectionFactor>10.0</ProjectionFactor>
+		<ProjectionFactor>5.0</ProjectionFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -50073,6 +50152,11 @@
 		<BestLaserRange>700</BestLaserRange>
 		<AimBonus>15</AimBonus>
 		<MinRangeForAimBonus>65</MinRangeForAimBonus>
+		<CamoBonus>-20</CamoBonus>
+		<UrbanCamoBonus>-20</UrbanCamoBonus>
+		<DesertCamoBonus>-20</DesertCamoBonus>
+		<SnowCamoBonus>-20</SnowCamoBonus>
+		<StealthBonus>-20</StealthBonus>
 		<RocketLauncher>1</RocketLauncher>
 		<SingleShotRocketLauncher>1</SingleShotRocketLauncher>
 		<DiscardedLauncherItem>247</DiscardedLauncherItem>
@@ -55750,7 +55834,9 @@
 		<BrightLightVisionRangeBonus>35</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>10</PercentTunnelVision>
 		<ScopeMagFactor>4.0</ScopeMagFactor>
-		<STAND_MODIFIERS />
+		<STAND_MODIFIERS>
+			<FlatAim>3</FlatAim>
+		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
@@ -55904,7 +55990,7 @@
 		<BigGunList>1</BigGunList>
 		<Electronic>1</Electronic>
 		<ToHitBonus>20</ToHitBonus>
-		<BestLaserRange>400</BestLaserRange>
+		<BestLaserRange>300</BestLaserRange>
 		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
 		<CamoBonus>-10</CamoBonus>
@@ -55918,7 +56004,7 @@
 		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>20</PercentTunnelVision>
 		<ScopeMagFactor>4.0</ScopeMagFactor>
-		<ProjectionFactor>5.7</ProjectionFactor>
+		<ProjectionFactor>4.3</ProjectionFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -56031,10 +56117,15 @@
 		<PercentTunnelVision>95</PercentTunnelVision>
 		<ScopeMagFactor>18.0</ScopeMagFactor>
 		<STAND_MODIFIERS>
-			<PercentCap>-15</PercentCap>
+			<FlatAim>-50</FlatAim>
+			<PercentCap>-50</PercentCap>
 		</STAND_MODIFIERS>
-		<CROUCH_MODIFIERS />
+		<CROUCH_MODIFIERS>
+			<FlatAim>-15</FlatAim>
+			<PercentCap>-15</PercentCap>
+		</CROUCH_MODIFIERS>
 		<PRONE_MODIFIERS>
+			<FlatAim>0</FlatAim>
 			<PercentCap>0</PercentCap>
 		</PRONE_MODIFIERS>
 	</ITEM>
@@ -56265,9 +56356,18 @@
 		<BrightLightVisionRangeBonus>105</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>90</PercentTunnelVision>
 		<ScopeMagFactor>13.0</ScopeMagFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
+		<STAND_MODIFIERS>
+			<FlatAim>-20</FlatAim>
+			<PercentCap>-20</PercentCap>
+		</STAND_MODIFIERS>
+		<CROUCH_MODIFIERS>
+			<FlatAim>-5</FlatAim>
+			<PercentCap>-5</PercentCap>
+		</CROUCH_MODIFIERS>
+		<PRONE_MODIFIERS>
+			<FlatAim>0</FlatAim>
+			<PercentCap>0</PercentCap>
+		</PRONE_MODIFIERS>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1820</uiIndex>
@@ -56481,10 +56581,15 @@
 		<PercentTunnelVision>95</PercentTunnelVision>
 		<ScopeMagFactor>14.0</ScopeMagFactor>
 		<STAND_MODIFIERS>
-			<PercentCap>-10</PercentCap>
+			<FlatAim>-20</FlatAim>
+			<PercentCap>-20</PercentCap>
 		</STAND_MODIFIERS>
-		<CROUCH_MODIFIERS />
+		<CROUCH_MODIFIERS>
+			<FlatAim>-5</FlatAim>
+			<PercentCap>-5</PercentCap>
+		</CROUCH_MODIFIERS>
 		<PRONE_MODIFIERS>
+			<FlatAim>0</FlatAim>
 			<PercentCap>0</PercentCap>
 		</PRONE_MODIFIERS>
 	</ITEM>
@@ -56660,7 +56765,7 @@
 		<Electronic>1</Electronic>
 		<BR_NewInventory>1</BR_NewInventory>
 		<ToHitBonus>20</ToHitBonus>
-		<BestLaserRange>500</BestLaserRange>
+		<BestLaserRange>400</BestLaserRange>
 		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
 		<PercentAPReduction>10</PercentAPReduction>
@@ -56675,7 +56780,7 @@
 		<BrightLightVisionRangeBonus>50</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>30</PercentTunnelVision>
 		<ScopeMagFactor>3.0</ScopeMagFactor>
-		<ProjectionFactor>7.2</ProjectionFactor>
+		<ProjectionFactor>5.7</ProjectionFactor>
 		<STAND_MODIFIERS>
 			<AimLevels>-1</AimLevels>
 		</STAND_MODIFIERS>
@@ -56710,11 +56815,11 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<ToHitBonus>20</ToHitBonus>
 		<BestLaserRange>200</BestLaserRange>
-		<CamoBonus>-10</CamoBonus>
-		<UrbanCamoBonus>-10</UrbanCamoBonus>
-		<DesertCamoBonus>-10</DesertCamoBonus>
-		<SnowCamoBonus>-10</SnowCamoBonus>
-		<StealthBonus>-10</StealthBonus>
+		<CamoBonus>-5</CamoBonus>
+		<UrbanCamoBonus>-5</UrbanCamoBonus>
+		<DesertCamoBonus>-5</DesertCamoBonus>
+		<SnowCamoBonus>-5</SnowCamoBonus>
+		<StealthBonus>-5</StealthBonus>
 		<NightVisionRangeBonus>20</NightVisionRangeBonus>
 		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
 		<ProjectionFactor>3.0</ProjectionFactor>
@@ -56748,7 +56853,7 @@
 		<Electronic>1</Electronic>
 		<BR_NewInventory>1</BR_NewInventory>
 		<ToHitBonus>15</ToHitBonus>
-		<PercentAPReduction>-50</PercentAPReduction>
+		<PercentAPReduction>-60</PercentAPReduction>
 		<PercentAccuracyModifier>50</PercentAccuracyModifier>
 		<STAND_MODIFIERS>
 			<FlatBase>50</FlatBase>
@@ -56833,11 +56938,11 @@
 		<BestLaserRange>170</BestLaserRange>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
-		<CamoBonus>-20</CamoBonus>
-		<UrbanCamoBonus>-20</UrbanCamoBonus>
-		<DesertCamoBonus>-20</DesertCamoBonus>
-		<SnowCamoBonus>-20</SnowCamoBonus>
-		<StealthBonus>-20</StealthBonus>
+		<CamoBonus>-10</CamoBonus>
+		<UrbanCamoBonus>-10</UrbanCamoBonus>
+		<DesertCamoBonus>-10</DesertCamoBonus>
+		<SnowCamoBonus>-10</SnowCamoBonus>
+		<StealthBonus>-10</StealthBonus>
 		<NightVisionRangeBonus>25</NightVisionRangeBonus>
 		<CaveVisionRangeBonus>30</CaveVisionRangeBonus>
 		<RecoilModifierY>-1</RecoilModifierY>
@@ -56985,6 +57090,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
+		<HiddenAttachment>1</HiddenAttachment>
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
@@ -57018,6 +57124,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
+		<HiddenAttachment>1</HiddenAttachment>
 		<BigGunList>1</BigGunList>
 		<MagSizeBonus>10</MagSizeBonus>
 		<PercentReloadTimeAPReduction>-90</PercentReloadTimeAPReduction>
@@ -57179,7 +57286,7 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<PercentNoiseReduction>57</PercentNoiseReduction>
+		<PercentNoiseReduction>59</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
 		<BurstToHitBonus>2</BurstToHitBonus>
@@ -57440,7 +57547,7 @@
 		<BurstToHitBonus>10</BurstToHitBonus>
 		<AutoFireToHitBonus>10</AutoFireToHitBonus>
 		<RecoilModifierX>-1</RecoilModifierX>
-		<RecoilModifierY>-4</RecoilModifierY>
+		<RecoilModifierY>-3</RecoilModifierY>
 		<PercentRecoilModifier>-30</PercentRecoilModifier>
 		<PercentAccuracyModifier>-5</PercentAccuracyModifier>
 		<STAND_MODIFIERS>
@@ -57481,7 +57588,7 @@
 		<RecoilModifierX>-1</RecoilModifierX>
 		<RecoilModifierY>-3</RecoilModifierY>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
-		<PercentAccuracyModifier>-3</PercentAccuracyModifier>
+		<PercentAccuracyModifier>-5</PercentAccuracyModifier>
 		<STAND_MODIFIERS>
 			<PercentMaxCounterForce>50</PercentMaxCounterForce>
 			<PercentCounterForceAccuracy>30</PercentCounterForceAccuracy>
@@ -57608,6 +57715,9 @@
 		<Attachment>1</Attachment>
 		<BR_NewInventory>1</BR_NewInventory>
 		<Bipod>10</Bipod>
+		<PercentReadyTimeAPReduction>-20</PercentReadyTimeAPReduction>
+		<RecoilModifierX>-3</RecoilModifierX>
+		<RecoilModifierY>-5</RecoilModifierY>
 		<STAND_MODIFIERS>
 			<PercentHandling>20</PercentHandling>
 		</STAND_MODIFIERS>
@@ -57800,7 +57910,6 @@
 		<DayVisionRangeBonus>30</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>20</PercentTunnelVision>
 		<ScopeMagFactor>4.0</ScopeMagFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -60705,7 +60814,7 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>650</BR_ROF>
-		<PercentNoiseReduction>85</PercentNoiseReduction>
+		<PercentNoiseReduction>95</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
@@ -60745,12 +60854,12 @@
 		<BR_ROF>900</BR_ROF>
 		<Bipod>10</Bipod>
 		<STAND_MODIFIERS>
-			<FlatBase>-10</FlatBase>
-			<FlatAim>-10</FlatAim>
+			<FlatBase>-7</FlatBase>
+			<FlatAim>-7</FlatAim>
 		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS>
-			<FlatBase>-5</FlatBase>
-			<FlatAim>-5</FlatAim>
+			<FlatBase>-3</FlatBase>
+			<FlatAim>-3</FlatAim>
 		</CROUCH_MODIFIERS>
 		<PRONE_MODIFIERS>
 			<FlatBase>0</FlatBase>
@@ -61779,12 +61888,12 @@
 		<Bipod>10</Bipod>
 		<DefaultAttachment>2189</DefaultAttachment>
 		<STAND_MODIFIERS>
-			<FlatBase>-50</FlatBase>
-			<FlatAim>-50</FlatAim>
+			<FlatBase>-10</FlatBase>
+			<FlatAim>-10</FlatAim>
 		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS>
-			<FlatBase>-25</FlatBase>
-			<FlatAim>-25</FlatAim>
+			<FlatBase>-5</FlatBase>
+			<FlatAim>-5</FlatAim>
 		</CROUCH_MODIFIERS>
 		<PRONE_MODIFIERS>
 			<FlatBase>0</FlatBase>
@@ -62467,11 +62576,16 @@
 		<Bipod>10</Bipod>
 		<DefaultAttachment>1825</DefaultAttachment>
 		<STAND_MODIFIERS>
-			<FlatBase>-35</FlatBase>
+			<FlatBase>-7</FlatBase>
+			<FlatAim>-7</FlatAim>
 		</STAND_MODIFIERS>
-		<CROUCH_MODIFIERS />
+		<CROUCH_MODIFIERS>
+			<FlatBase>-3</FlatBase>
+			<FlatAim>-3</FlatAim>
+		</CROUCH_MODIFIERS>
 		<PRONE_MODIFIERS>
 			<FlatBase>0</FlatBase>
+			<FlatAim>0</FlatAim>
 			<PercentHandling>-75</PercentHandling>
 			<PercentMaxCounterForce>100</PercentMaxCounterForce>
 			<PercentCounterForceAccuracy>30</PercentCounterForceAccuracy>
@@ -62609,12 +62723,12 @@
 		<Bipod>10</Bipod>
 		<DefaultAttachment>208</DefaultAttachment>
 		<STAND_MODIFIERS>
-			<FlatBase>-30</FlatBase>
-			<FlatAim>-30</FlatAim>
+			<FlatBase>-10</FlatBase>
+			<FlatAim>-10</FlatAim>
 		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS>
-			<FlatBase>-15</FlatBase>
-			<FlatAim>-15</FlatAim>
+			<FlatBase>-5</FlatBase>
+			<FlatAim>-5</FlatAim>
 		</CROUCH_MODIFIERS>
 		<PRONE_MODIFIERS>
 			<FlatBase>0</FlatBase>
@@ -65619,12 +65733,12 @@
 		<BR_ROF>35</BR_ROF>
 		<Bipod>10</Bipod>
 		<STAND_MODIFIERS>
-			<FlatBase>-30</FlatBase>
-			<FlatAim>-30</FlatAim>
+			<FlatBase>-10</FlatBase>
+			<FlatAim>-10</FlatAim>
 		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS>
-			<FlatBase>-15</FlatBase>
-			<FlatAim>-15</FlatAim>
+			<FlatBase>-5</FlatBase>
+			<FlatAim>-5</FlatAim>
 		</CROUCH_MODIFIERS>
 		<PRONE_MODIFIERS>
 			<FlatBase>0</FlatBase>
@@ -65662,12 +65776,12 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>35</BR_ROF>
 		<STAND_MODIFIERS>
-			<FlatBase>-10</FlatBase>
-			<FlatAim>-10</FlatAim>
+			<FlatBase>-7</FlatBase>
+			<FlatAim>-7</FlatAim>
 		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS>
-			<FlatBase>-5</FlatBase>
-			<FlatAim>-5</FlatAim>
+			<FlatBase>-3</FlatBase>
+			<FlatAim>-3</FlatAim>
 		</CROUCH_MODIFIERS>
 		<PRONE_MODIFIERS>
 			<FlatBase>0</FlatBase>
@@ -65704,12 +65818,12 @@
 		<BR_ROF>35</BR_ROF>
 		<Bipod>10</Bipod>
 		<STAND_MODIFIERS>
-			<FlatBase>-30</FlatBase>
-			<FlatAim>-30</FlatAim>
+			<FlatBase>-7</FlatBase>
+			<FlatAim>-7</FlatAim>
 		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS>
-			<FlatBase>-15</FlatBase>
-			<FlatAim>-15</FlatAim>
+			<FlatBase>-3</FlatBase>
+			<FlatAim>-3</FlatAim>
 		</CROUCH_MODIFIERS>
 		<PRONE_MODIFIERS>
 			<FlatBase>0</FlatBase>
@@ -65975,6 +66089,7 @@
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -66016,6 +66131,7 @@
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -66735,12 +66851,12 @@
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<Bipod>10</Bipod>
 		<STAND_MODIFIERS>
-			<FlatBase>-10</FlatBase>
-			<FlatAim>-10</FlatAim>
+			<FlatBase>-7</FlatBase>
+			<FlatAim>-7</FlatAim>
 		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS>
-			<FlatBase>-5</FlatBase>
-			<FlatAim>-5</FlatAim>
+			<FlatBase>-3</FlatBase>
+			<FlatAim>-3</FlatAim>
 		</CROUCH_MODIFIERS>
 		<PRONE_MODIFIERS>
 			<FlatBase>0</FlatBase>
@@ -67034,12 +67150,12 @@
 		<Bipod>10</Bipod>
 		<DefaultAttachment>2189</DefaultAttachment>
 		<STAND_MODIFIERS>
-			<FlatBase>-50</FlatBase>
-			<FlatAim>-50</FlatAim>
+			<FlatBase>-10</FlatBase>
+			<FlatAim>-10</FlatAim>
 		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS>
-			<FlatBase>-25</FlatBase>
-			<FlatAim>-25</FlatAim>
+			<FlatBase>-5</FlatBase>
+			<FlatAim>-5</FlatAim>
 		</CROUCH_MODIFIERS>
 		<PRONE_MODIFIERS>
 			<FlatBase>0</FlatBase>
@@ -67077,12 +67193,12 @@
 		<Bipod>10</Bipod>
 		<DefaultAttachment>2189</DefaultAttachment>
 		<STAND_MODIFIERS>
-			<FlatBase>-30</FlatBase>
-			<FlatAim>-30</FlatAim>
+			<FlatBase>-7</FlatBase>
+			<FlatAim>-7</FlatAim>
 		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS>
-			<FlatBase>-15</FlatBase>
-			<FlatAim>-15</FlatAim>
+			<FlatBase>-3</FlatBase>
+			<FlatAim>-3</FlatAim>
 		</CROUCH_MODIFIERS>
 		<PRONE_MODIFIERS>
 			<FlatBase>0</FlatBase>
@@ -70766,6 +70882,7 @@
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -72873,7 +72990,7 @@
 		<ubCoolness>7</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
-		<PercentNoiseReduction>45</PercentNoiseReduction>
+		<PercentNoiseReduction>50</PercentNoiseReduction>
 		<RangeBonus>-20</RangeBonus>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<STAND_MODIFIERS />
@@ -72898,7 +73015,7 @@
 		<usPrice>210</usPrice>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
-		<PercentNoiseReduction>45</PercentNoiseReduction>
+		<PercentNoiseReduction>50</PercentNoiseReduction>
 		<RangeBonus>-20</RangeBonus>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<STAND_MODIFIERS />
@@ -72923,7 +73040,7 @@
 		<usPrice>525</usPrice>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
-		<PercentNoiseReduction>45</PercentNoiseReduction>
+		<PercentNoiseReduction>50</PercentNoiseReduction>
 		<RangeBonus>-20</RangeBonus>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<STAND_MODIFIERS />
@@ -72947,7 +73064,7 @@
 		<usPrice>1400</usPrice>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
-		<PercentNoiseReduction>45</PercentNoiseReduction>
+		<PercentNoiseReduction>50</PercentNoiseReduction>
 		<RangeBonus>-20</RangeBonus>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<STAND_MODIFIERS />
@@ -74534,7 +74651,7 @@
 		<ubWeight>26</ubWeight>
 		<ItemSize>6</ItemSize>
 		<usPrice>1870</usPrice>
-		<ubCoolness>7</ubCoolness>
+		<ubCoolness>8</ubCoolness>
 		<bReliability>2</bReliability>
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
@@ -74610,6 +74727,7 @@
 		<ubWeight>29</ubWeight>
 		<ItemSize>5</ItemSize>
 		<usPrice>2890</usPrice>
+		<ubCoolness>8</ubCoolness>
 		<bReliability>7</bReliability>
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
@@ -75064,14 +75182,14 @@
 		<DefaultAttachment>1825</DefaultAttachment>
 		<DefaultAttachment>2639</DefaultAttachment>
 		<STAND_MODIFIERS>
-			<FlatBase>-10</FlatBase>
-			<FlatAim>-10</FlatAim>
+			<FlatBase>-7</FlatBase>
+			<FlatAim>-7</FlatAim>
 			<PercentMaxCounterForce>-20</PercentMaxCounterForce>
 			<PercentCounterForceAccuracy>-20</PercentCounterForceAccuracy>
 		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS>
-			<FlatBase>-5</FlatBase>
-			<FlatAim>-5</FlatAim>
+			<FlatBase>-3</FlatBase>
+			<FlatAim>-3</FlatAim>
 		</CROUCH_MODIFIERS>
 		<PRONE_MODIFIERS>
 			<FlatBase>0</FlatBase>
@@ -75109,14 +75227,14 @@
 		<DefaultAttachment>1825</DefaultAttachment>
 		<DefaultAttachment>2639</DefaultAttachment>
 		<STAND_MODIFIERS>
-			<FlatBase>-10</FlatBase>
-			<FlatAim>-10</FlatAim>
+			<FlatBase>-7</FlatBase>
+			<FlatAim>-7</FlatAim>
 			<PercentMaxCounterForce>-20</PercentMaxCounterForce>
 			<PercentCounterForceAccuracy>-20</PercentCounterForceAccuracy>
 		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS>
-			<FlatBase>-5</FlatBase>
-			<FlatAim>-5</FlatAim>
+			<FlatBase>-3</FlatBase>
+			<FlatAim>-3</FlatAim>
 		</CROUCH_MODIFIERS>
 		<PRONE_MODIFIERS>
 			<FlatBase>0</FlatBase>
@@ -75340,12 +75458,12 @@
 		<BR_ROF>12</BR_ROF>
 		<Bipod>10</Bipod>
 		<STAND_MODIFIERS>
-			<FlatBase>-50</FlatBase>
-			<FlatAim>-50</FlatAim>
+			<FlatBase>-10</FlatBase>
+			<FlatAim>-10</FlatAim>
 		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS>
-			<FlatBase>-25</FlatBase>
-			<FlatAim>-25</FlatAim>
+			<FlatBase>-5</FlatBase>
+			<FlatAim>-5</FlatAim>
 		</CROUCH_MODIFIERS>
 		<PRONE_MODIFIERS>
 			<FlatBase>0</FlatBase>
@@ -76158,10 +76276,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2497</uiIndex>
-		<szItemName>Galil ARM 556</szItemName>
-		<szLongItemName>Galil ARM 5.56</szLongItemName>
+		<szItemName>Galil 556 ARM</szItemName>
+		<szLongItemName>Galil 5.56 ARM</szLongItemName>
 		<szItemDesc>The ARM light machine gun variant is additionally equipped with a carrying handle, folding bipod and a larger wooden handguard.</szItemDesc>
-		<szBRName>Galil ARM 5.56</szBRName>
+		<szBRName>Galil 5.56 ARM</szBRName>
 		<szBRDesc>The ARM light machine gun variant is additionally equipped with a carrying handle, folding bipod and a larger wooden handguard.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -76202,10 +76320,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2498</uiIndex>
-		<szItemName>Galil AR 762</szItemName>
-		<szLongItemName>Galil AR 7.62</szLongItemName>
+		<szItemName>Galil 762 AR</szItemName>
+		<szLongItemName>Galil 7.62 AR</szLongItemName>
 		<szItemDesc>The standard rifle version which is fitted with a high-impact plastic handguard and pistol grip, a side-folding (folds to the right side) tubular metal skeleton stock as fitted to all variants except the Galil Sniper.</szItemDesc>
-		<szBRName>Galil AR 7.62</szBRName>
+		<szBRName>Galil 7.62 AR</szBRName>
 		<szBRDesc>The standard rifle version which is fitted with a high-impact plastic handguard and pistol grip, a side-folding (folds to the right side) tubular metal skeleton stock as fitted to all variants except the Galil Sniper.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -76625,13 +76743,18 @@
 		<TwoHanded>1</TwoHanded>
 		<Unaerodynamic>1</Unaerodynamic>
 		<BR_ROF>10000</BR_ROF>
+		<CamoBonus>-30</CamoBonus>
+		<UrbanCamoBonus>-30</UrbanCamoBonus>
+		<DesertCamoBonus>-30</DesertCamoBonus>
+		<SnowCamoBonus>-30</SnowCamoBonus>
+		<StealthBonus>-30</StealthBonus>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS>
-			<FlatBase>-50</FlatBase>
-			<FlatAim>-50</FlatAim>
-			<PercentHandling>70</PercentHandling>
-			<AimLevels>1</AimLevels>
+			<FlatBase>-90</FlatBase>
+			<FlatAim>-90</FlatAim>
+			<PercentHandling>90</PercentHandling>
+			<AimLevels>2</AimLevels>
 		</PRONE_MODIFIERS>
 	</ITEM>
 	<ITEM>
@@ -76654,6 +76777,7 @@
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -77184,7 +77308,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<PercentNoiseReduction>40</PercentNoiseReduction>
+		<PercentNoiseReduction>50</PercentNoiseReduction>
 		<RangeBonus>-15</RangeBonus>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<STAND_MODIFIERS />
@@ -77287,7 +77411,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<PercentNoiseReduction>45</PercentNoiseReduction>
+		<PercentNoiseReduction>50</PercentNoiseReduction>
 		<RangeBonus>-20</RangeBonus>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<STAND_MODIFIERS />
@@ -77433,7 +77557,7 @@
 		<usPrice>1500</usPrice>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
-		<PercentNoiseReduction>45</PercentNoiseReduction>
+		<PercentNoiseReduction>50</PercentNoiseReduction>
 		<RangeBonus>-25</RangeBonus>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<STAND_MODIFIERS />
@@ -78884,7 +79008,9 @@
 		<RangeBonus>20</RangeBonus>
 		<BurstToHitBonus>10</BurstToHitBonus>
 		<AutoFireToHitBonus>10</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>-20</PercentReadyTimeAPReduction>
+		<PercentReadyTimeAPReduction>-40</PercentReadyTimeAPReduction>
+		<RecoilModifierX>-10</RecoilModifierX>
+		<RecoilModifierY>-10</RecoilModifierY>
 		<STAND_MODIFIERS>
 			<PercentHandling>30</PercentHandling>
 		</STAND_MODIFIERS>
@@ -79509,7 +79635,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<PercentNoiseReduction>45</PercentNoiseReduction>
+		<PercentNoiseReduction>50</PercentNoiseReduction>
 		<RangeBonus>-20</RangeBonus>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<STAND_MODIFIERS />
@@ -79955,10 +80081,18 @@
 		<Bipod>15</Bipod>
 		<PercentReadyTimeAPReduction>-3</PercentReadyTimeAPReduction>
 		<STAND_MODIFIERS>
-			<PercentHandling>20</PercentHandling>
+			<PercentBase>-7</PercentBase>
+			<PercentCap>-7</PercentCap>
+			<PercentHandling>25</PercentHandling>
 		</STAND_MODIFIERS>
-		<CROUCH_MODIFIERS />
+		<CROUCH_MODIFIERS>
+			<FlatAim>-3</FlatAim>
+			<PercentCap>-3</PercentCap>
+			<PercentHandling>0</PercentHandling>
+		</CROUCH_MODIFIERS>
 		<PRONE_MODIFIERS>
+			<PercentBase>0</PercentBase>
+			<PercentCap>0</PercentCap>
 			<PercentBase>15</PercentBase>
 			<PercentHandling>-75</PercentHandling>
 			<PercentMaxCounterForce>70</PercentMaxCounterForce>
@@ -79990,10 +80124,14 @@
 		<Bipod>7</Bipod>
 		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
 		<STAND_MODIFIERS>
+			<PercentBase>-7</PercentBase>
+			<PercentCap>-3</PercentCap>
 			<PercentHandling>20</PercentHandling>
 		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS>
+			<PercentBase>0</PercentBase>
+			<PercentCap>0</PercentCap>
 			<PercentHandling>-65</PercentHandling>
 			<PercentMaxCounterForce>100</PercentMaxCounterForce>
 			<PercentCounterForceAccuracy>30</PercentCounterForceAccuracy>
@@ -80129,6 +80267,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
+		<HiddenAttachment>1</HiddenAttachment>
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
@@ -80265,7 +80404,7 @@
 		<SciFi>1</SciFi>
 		<Electronic>1</Electronic>
 		<ToHitBonus>20</ToHitBonus>
-		<BestLaserRange>700</BestLaserRange>
+		<BestLaserRange>500</BestLaserRange>
 		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>70</MinRangeForAimBonus>
 		<PercentAPReduction>-30</PercentAPReduction>
@@ -80280,15 +80419,23 @@
 		<BrightLightVisionRangeBonus>100</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>90</PercentTunnelVision>
 		<ScopeMagFactor>12.0</ScopeMagFactor>
-		<ProjectionFactor>10.0</ProjectionFactor>
+		<ProjectionFactor>7.2</ProjectionFactor>
 		<PercentAccuracyModifier>5</PercentAccuracyModifier>
 		<STAND_MODIFIERS>
+			<FlatAim>-20</FlatAim>
+			<PercentCap>-20</PercentCap>
 			<PercentTargetTrackingSpeed>30</PercentTargetTrackingSpeed>
 			<PercentDropCompensation>30</PercentDropCompensation>
 			<AimLevels>-1</AimLevels>
 		</STAND_MODIFIERS>
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
+		<CROUCH_MODIFIERS>
+			<FlatAim>-5</FlatAim>
+			<PercentCap>-5</PercentCap>
+		</CROUCH_MODIFIERS>
+		<PRONE_MODIFIERS>
+			<FlatAim>0</FlatAim>
+			<PercentCap>0</PercentCap>
+		</PRONE_MODIFIERS>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2649</uiIndex>
@@ -80550,6 +80697,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
+		<HiddenAttachment>1</HiddenAttachment>
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
@@ -80581,6 +80729,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
+		<HiddenAttachment>1</HiddenAttachment>
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
@@ -80617,6 +80766,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
+		<HiddenAttachment>1</HiddenAttachment>
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
@@ -80799,7 +80949,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<PercentNoiseReduction>45</PercentNoiseReduction>
+		<PercentNoiseReduction>50</PercentNoiseReduction>
 		<RangeBonus>-20</RangeBonus>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<STAND_MODIFIERS />
@@ -81359,7 +81509,7 @@
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>2</BR_NewInventory>
-		<MagSizeBonus>24</MagSizeBonus>
+		<MagSizeBonus>26</MagSizeBonus>
 		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
 		<PercentReloadTimeAPReduction>-30</PercentReloadTimeAPReduction>
 		<STAND_MODIFIERS>
@@ -81372,11 +81522,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2686</uiIndex>
-		<szItemName>.50 Beowulf 31</szItemName>
-		<szLongItemName>.50 Beowulf Drum, 31</szLongItemName>
-		<szItemDesc>A MWG90 drum hold 31-round FMJ for the .50 Beowulf Rifle.</szItemDesc>
+		<szItemName>.50 Beowulf 33</szItemName>
+		<szLongItemName>.50 Beowulf Drum, 33</szLongItemName>
+		<szItemDesc>A MWG90 drum hold 33-round FMJ for the .50 Beowulf Rifle.</szItemDesc>
 		<szBRName>.50 Beowulf 31</szBRName>
-		<szBRDesc>A MWG90 drum hold 31-round FMJ for the .50 Beowulf Rifle.</szBRDesc>
+		<szBRDesc>A MWG90 drum hold 33-round FMJ for the .50 Beowulf Rifle.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>878</ubClassIndex>
@@ -81385,7 +81535,7 @@
 		<ubWeight>19</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
 		<ItemSize>33</ItemSize>
-		<usPrice>558</usPrice>
+		<usPrice>594</usPrice>
 		<ubCoolness>9</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
@@ -81396,11 +81546,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2687</uiIndex>
-		<szItemName>.50 Beowulf 31 HP</szItemName>
-		<szLongItemName>.50 Bewoulf Drum, 31 HP</szLongItemName>
-		<szItemDesc>A MWG90 drum hold 31-round HP for the .50 Beowulf Rifle.</szItemDesc>
-		<szBRName>.50 Beowulf 31 HP</szBRName>
-		<szBRDesc>A MWG90 drum hold 31-round HP for the .50 Beowulf Rifle.</szBRDesc>
+		<szItemName>.50 Beowulf 33 HP</szItemName>
+		<szLongItemName>.50 Bewoulf Drum, 33 HP</szLongItemName>
+		<szItemDesc>A MWG90 drum hold 33-round HP for the .50 Beowulf Rifle.</szItemDesc>
+		<szBRName>.50 Beowulf 33 HP</szBRName>
+		<szBRDesc>A MWG90 drum hold 33-round HP for the .50 Beowulf Rifle.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>879</ubClassIndex>
@@ -81409,7 +81559,7 @@
 		<ubWeight>19</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
 		<ItemSize>33</ItemSize>
-		<usPrice>372</usPrice>
+		<usPrice>396</usPrice>
 		<ubCoolness>9</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
@@ -81420,11 +81570,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2688</uiIndex>
-		<szItemName>.458 SOCOM 36 FMJ</szItemName>
-		<szLongItemName>.458 SOCOM Drum, 36 FMJ</szLongItemName>
-		<szItemDesc>A MWG90 drum hold 36-round FMJ clip of .458 SOCOM ammunition. This manstopper is a 300grain bullet with a velocity of 1900 fps.</szItemDesc>
-		<szBRName>.458 SOCOM Mag 36 FMJ</szBRName>
-		<szBRDesc>A MWG90 drum hold 36-round FMJ clip of .458 SOCOM ammunition.</szBRDesc>
+		<szItemName>.458 SOCOM 38 FMJ</szItemName>
+		<szLongItemName>.458 SOCOM Drum, 38 FMJ</szLongItemName>
+		<szItemDesc>A MWG90 drum hold 38-round FMJ clip of .458 SOCOM ammunition. This manstopper is a 300grain bullet with a velocity of 1900 fps.</szItemDesc>
+		<szBRName>.458 SOCOM Mag 38 FMJ</szBRName>
+		<szBRDesc>A MWG90 drum hold 38-round FMJ clip of .458 SOCOM ammunition.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>880</ubClassIndex>
@@ -81433,7 +81583,7 @@
 		<ubWeight>20</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
 		<ItemSize>33</ItemSize>
-		<usPrice>330</usPrice>
+		<usPrice>338</usPrice>
 		<ubCoolness>9</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
@@ -81444,11 +81594,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2689</uiIndex>
-		<szItemName>.458 SOCOM 36 JHP</szItemName>
-		<szLongItemName>.458 SOCOM Drum, 36 JHP</szLongItemName>
-		<szItemDesc>A MWG90 drum hold 36-round JHP clip of .458 SOCOM ammunition. This manstopper is a 300grain bullet with a velocity of 1900 fps.</szItemDesc>
-		<szBRName>.458 SOCOM Mag 36 JHP</szBRName>
-		<szBRDesc>A MWG90 drum hold 36-round JHP clip of .458 SOCOM ammunition.</szBRDesc>
+		<szItemName>.458 SOCOM 38 JHP</szItemName>
+		<szLongItemName>.458 SOCOM Drum, 38 JHP</szLongItemName>
+		<szItemDesc>A MWG90 drum hold 38-round JHP clip of .458 SOCOM ammunition. This manstopper is a 300grain bullet with a velocity of 1900 fps.</szItemDesc>
+		<szBRName>.458 SOCOM Mag 38 JHP</szBRName>
+		<szBRDesc>A MWG90 drum hold 38-round JHP clip of .458 SOCOM ammunition.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>881</ubClassIndex>
@@ -81457,7 +81607,7 @@
 		<ubWeight>20</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
 		<ItemSize>33</ItemSize>
-		<usPrice>420</usPrice>
+		<usPrice>440</usPrice>
 		<ubCoolness>9</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
@@ -81573,6 +81723,808 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_ROF>24</BR_ROF>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2694</uiIndex>
+		<szItemName>Rys-U</szItemName>
+		<szLongItemName>Rys-U</szLongItemName>
+		<szItemDesc>The Rys-U manufactured by TsKIB SOO has an excellent reputation for reliability.  Rys, Russian for "Lynx," are RMB-93 12 gauge police/riot shotguns with civilian features such as a wooden thumbhole stock.</szItemDesc>
+		<szBRName>RYS-U</szBRName>
+		<szBRDesc>The Rys-U manufactured by TsKIB SOO has an excellent reputation for reliability.  Rys, Russian for "Lynx," are RMB-93 12 gauge police/riot shotguns with civilian features such as a wooden thumbhole stock.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>2694</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicNum>138</ubGraphicNum>
+		<ubWeight>32</ubWeight>
+		<ItemSize>7</ItemSize>
+		<usPrice>1870</usPrice>
+		<ubCoolness>5</ubCoolness>
+		<bReliability>3</bReliability>
+		<bRepairEase>2</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
+		<BR_NewInventory>2</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<BR_ROF>22</BR_ROF>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2695</uiIndex>
+		<szItemName>AEK-906</szItemName>
+		<szLongItemName>AEK-906</szLongItemName>
+		<szItemDesc>This Russian revolver improves balance and control by firing from the lower chamber.</szItemDesc>
+		<szBRName>AEK-906</szBRName>
+		<szBRDesc>The AEK-906 series is a new design self defence revolver.  This Russian revolver improves balance and control by firing from the lower chamber.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>2695</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicNum>910</ubGraphicNum>
+		<ubWeight>8</ubWeight>
+		<ubPerPocket>1</ubPerPocket>
+		<ItemSize>1</ItemSize>
+		<usPrice>200</usPrice>
+		<ubCoolness>3</ubCoolness>
+		<bReliability>3</bReliability>
+		<bRepairEase>1</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<BigGunList>1</BigGunList>
+		<BR_NewInventory>2</BR_NewInventory>
+		<BR_ROF>30</BR_ROF>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2696</uiIndex>
+		<szItemName>OTs-33</szItemName>
+		<szLongItemName>OTs-33 Pernach</szLongItemName>
+		<szItemDesc>A modernized Stechkin APS for Russian para-military forces.  The OTs-33 was developed from the OTs-23, with the increased stopping power of the PMM round in mind.</szItemDesc>
+		<szBRName>OTs-33 Pernach</szBRName>
+		<szBRDesc>A modernized Stechkin APS for Russian para-military forces.  The OTs-33 was developed from the OTs-23, with the increased stopping power of the PMM round in mind.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>2696</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicNum>911</ubGraphicNum>
+		<ubWeight>9</ubWeight>
+		<ubPerPocket>1</ubPerPocket>
+		<ItemSize>1</ItemSize>
+		<usPrice>1620</usPrice>
+		<ubCoolness>8</ubCoolness>
+		<bReliability>2</bReliability>
+		<bRepairEase>-2</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<BigGunList>1</BigGunList>
+		<BR_NewInventory>2</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<BR_ROF>600</BR_ROF>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2697</uiIndex>
+		<szItemName>.338 Spectre PDW</szItemName>
+		<szLongItemName>Teppo Jutsu .338 Spectre PDW</szLongItemName>
+		<szItemDesc>A .338 Spectre ultra short (8.5") PDW built by Teppo Jutsu LLC using Colt Canada's receiver.</szItemDesc>
+		<szBRName>Teppo Jutsu .338 Spectre PDW</szBRName>
+		<szBRDesc>A .338 Spectre ultra short (8.5") PDW built by Teppo Jutsu LLC using Colt Canada's receiver.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>2697</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicNum>912</ubGraphicNum>
+		<ubWeight>25</ubWeight>
+		<ItemSize>5</ItemSize>
+		<usPrice>4850</usPrice>
+		<ubCoolness>8</ubCoolness>
+		<bReliability>2</bReliability>
+		<bRepairEase>2</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
+		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_ROF>800</BR_ROF>
+		<ToHitBonus>-1</ToHitBonus>
+		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<DefaultAttachment>2266</DefaultAttachment>
+		<STAND_MODIFIERS>
+			<PercentMaxCounterForce>-20</PercentMaxCounterForce>
+			<PercentCounterForceAccuracy>-20</PercentCounterForceAccuracy>
+			<AimLevels>1</AimLevels>
+		</STAND_MODIFIERS>
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2698</uiIndex>
+		<szItemName>.500 Phantom DMR</szItemName>
+		<szLongItemName>.500 Phantom DMR</szLongItemName>
+		<szItemDesc>A custom built AR-type carbine in .500 PHANTOM, using OLYMPIC ARMS AR-15 upper. It's made by Teppo Jutsu LLC.</szItemDesc>
+		<szBRName>.500 Phantom DMR</szBRName>
+		<szBRDesc>A custom built AR-type carbine in .500 PHANTOM, using OLYMPIC ARMS AR-15 upper. It's made by Teppo Jutsu LLC.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>2698</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicNum>913</ubGraphicNum>
+		<ubWeight>37</ubWeight>
+		<ItemSize>7</ItemSize>
+		<usPrice>3600</usPrice>
+		<ubCoolness>8</ubCoolness>
+		<bReliability>2</bReliability>
+		<bRepairEase>1</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_ROF>30</BR_ROF>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2699</uiIndex>
+		<szItemName>Colt SCW</szItemName>
+		<szLongItemName>Colt Sub Compact Weapon</szLongItemName>
+		<szItemDesc>This Sub-Compact Weapon (SCW) features  Colt's Advanced Hybrid System, a combination piston and upgraded direct impingement operating system.  It also features a (partial) folding telescopic stock.</szItemDesc>
+		<szBRName>Colt Sub Compact Weapon</szBRName>
+		<szBRDesc>This Sub-Compact Weapon (SCW) features  Colt's Advanced Hybrid System, a combination piston and upgraded direct impingement operating system.  It also features a (partial) folding telescopic stock.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>2699</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicNum>914</ubGraphicNum>
+		<ubWeight>25</ubWeight>
+		<ItemSize>4</ItemSize>
+		<usPrice>2850</usPrice>
+		<ubCoolness>7</ubCoolness>
+		<bReliability>2</bReliability>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
+		<BigGunList>1</BigGunList>
+		<BR_NewInventory>2</BR_NewInventory>
+		<BR_ROF>950</BR_ROF>
+		<ToHitBonus>-1</ToHitBonus>
+		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<DefaultAttachment>1854</DefaultAttachment>
+		<STAND_MODIFIERS>
+			<PercentMaxCounterForce>-20</PercentMaxCounterForce>
+			<PercentCounterForceAccuracy>-20</PercentCounterForceAccuracy>
+			<AimLevels>1</AimLevels>
+		</STAND_MODIFIERS>
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2700</uiIndex>
+		<szItemName>STAR-21</szItemName>
+		<szLongItemName>Tavor STAR-21</szLongItemName>
+		<szItemDesc>The DMR variant of the TAVOR, complete with a longer and heavier barrel, integral bipod, and stock 4x sight.</szItemDesc>
+		<szBRName>Tavor STAR-21</szBRName>
+		<szBRDesc>The DMR variant of the TAVOR, complete with a longer and heavier barrel, integral bipod, and stock 4x sight.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>2700</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicNum>915</ubGraphicNum>
+		<ubWeight>28</ubWeight>
+		<ItemSize>6</ItemSize>
+		<usPrice>4370</usPrice>
+		<ubCoolness>9</ubCoolness>
+		<bReliability>2</bReliability>
+		<bRepairEase>-1</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
+		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_ROF>750</BR_ROF>
+		<DefaultAttachment>1030</DefaultAttachment>
+		<DefaultAttachment>2639</DefaultAttachment>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2701</uiIndex>
+		<szItemName>Mag-7</szItemName>
+		<szLongItemName>TechnoArms Mag-7</szLongItemName>
+		<szItemDesc>Firing truncated 12 gauge shells, the Mag-7M1 is the ultimate in close quarters stopping power.</szItemDesc>
+		<szBRName>TechnoArms Mag-7</szBRName>
+		<szBRDesc>Firing truncated 12 gauge shells, the Mag-7M1 is the ultimate in close quarters stopping power.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>2701</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicNum>916</ubGraphicNum>
+		<ubWeight>35</ubWeight>
+		<ItemSize>4</ItemSize>
+		<usPrice>1600</usPrice>
+		<ubCoolness>6</ubCoolness>
+		<bReliability>2</bReliability>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_ROF>1</BR_ROF>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2702</uiIndex>
+		<szItemName>SSW</szItemName>
+		<szLongItemName>STK Squad Support Weapon</szLongItemName>
+		<szItemDesc>The grenadiers new friend combines a multi-shot (four round) 40mm launcher with a 5.7mm PDW.</szItemDesc>
+		<szBRName>STK Squad Support Weapon</szBRName>
+		<szBRDesc>The grenadiers new friend combines a multi-shot (four round) 40mm launcher with a 5.7mm PDW.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>2702</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicNum>917</ubGraphicNum>
+		<ubWeight>62</ubWeight>
+		<ItemSize>6</ItemSize>
+		<usPrice>7150</usPrice>
+		<ubCoolness>9</ubCoolness>
+		<bReliability>2</bReliability>
+		<bRepairEase>-4</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
+		<BigGunList>1</BigGunList>
+		<SciFi>1</SciFi>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_ROF>900</BR_ROF>
+		<ToHitBonus>20</ToHitBonus>
+		<BestLaserRange>300</BestLaserRange>
+		<AimBonus>10</AimBonus>
+		<MinRangeForAimBonus>35</MinRangeForAimBonus>
+		<DefaultAttachment>909</DefaultAttachment>
+		<CamoBonus>-5</CamoBonus>
+		<UrbanCamoBonus>-5</UrbanCamoBonus>
+		<DesertCamoBonus>-5</DesertCamoBonus>
+		<SnowCamoBonus>-5</SnowCamoBonus>
+		<StealthBonus>-5</StealthBonus>
+		<NightVisionRangeBonus>150</NightVisionRangeBonus>
+		<DayVisionRangeBonus>10</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>130</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
+		<PercentTunnelVision>10</PercentTunnelVision>
+		<ScopeMagFactor>1.7</ScopeMagFactor>
+		<ProjectionFactor>4.2</ProjectionFactor>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2703</uiIndex>
+		<szItemName>Gyrojet Rifle</szItemName>
+		<szLongItemName>MB Assoc. Gyrojet Rifle</szLongItemName>
+		<szItemDesc>Manufacturing variances cause unguided rocket propelled rounds to be somewhat more unpredictable than purely ballistic bullets after leaving the barrel.    The Gyrojet Rifle has a longer barrel and shoulder stock to achieve greater accuracy over the (in)famous pistol it is based on.</szItemDesc>
+		<szBRName>MB Assoc. Gyrojet Carbine</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>2703</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicNum>918</ubGraphicNum>
+		<ubWeight>19</ubWeight>
+		<ItemSize>7</ItemSize>
+		<usPrice>2510</usPrice>
+		<ubCoolness>9</ubCoolness>
+		<bReliability>3</bReliability>
+		<bRepairEase>3</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
+		<BigGunList>1</BigGunList>
+		<BR_ROF>30</BR_ROF>
+		<RocketRifle>1</RocketRifle>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2704</uiIndex>
+		<szItemName>PM-63 RAK</szItemName>
+		<szLongItemName>PM-63 RAK</szLongItemName>
+		<szItemDesc>That interesting slide extension at the front of the PM-63 can be used to cock the weapon quickly, but is actually a gas deflection device to counter muzzle climb.  A rate reducing mechanism, and use of the folding stock and grip also improve controllability.</szItemDesc>
+		<szBRName>PM-63 RAK</szBRName>
+		<szBRDesc>That interesting slide extension at the front of the PM-63 can be used to cock the weapon quickly, but is actually a gas deflection device to counter muzzle climb.  A rate reducing mechanism, and use of the folding stock and grip also improve controllability.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>2704</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicNum>919</ubGraphicNum>
+		<ubWeight>16</ubWeight>
+		<ItemSize>4</ItemSize>
+		<usPrice>970</usPrice>
+		<ubCoolness>4</ubCoolness>
+		<bRepairEase>-1</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<BigGunList>1</BigGunList>
+		<BR_NewInventory>2</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<BR_ROF>650</BR_ROF>
+		<ToHitBonus>-1</ToHitBonus>
+		<BurstToHitBonus>5</BurstToHitBonus>
+		<AutoFireToHitBonus>5</AutoFireToHitBonus>
+		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<STAND_MODIFIERS>
+			<PercentCap>-5</PercentCap>
+			<PercentHandling>-10</PercentHandling>
+			<PercentMaxCounterForce>40</PercentMaxCounterForce>
+			<PercentCounterForceAccuracy>10</PercentCounterForceAccuracy>
+			<AimLevels>1</AimLevels>
+		</STAND_MODIFIERS>
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS>
+			<PercentCap>0</PercentCap>
+			<PercentHandling>0</PercentHandling>
+			<PercentMaxCounterForce>-20</PercentMaxCounterForce>
+			<PercentCounterForceAccuracy>-20</PercentCounterForceAccuracy>
+		</PRONE_MODIFIERS>
+	</ITEM>
+	<ITEM>
+		<uiIndex>2705</uiIndex>
+		<szItemName>Skorpion EVO III</szItemName>
+		<szLongItemName>Skorpion EVO III</szLongItemName>
+		<szItemDesc>The Skorpion EVO III is somewhat larger than the machine- pistol it shares brand names with.  A folding telescopic stock enhances the stability of an already accurate closed bolt firing design.</szItemDesc>
+		<szBRName>Skorpion EVO III</szBRName>
+		<szBRDesc>The Skorpion EVO III is somewhat larger than the machine- pistol it shares brand names with.  A folding telescopic stock enhances the stability of an already accurate closed bolt firing design.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>2705</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicNum>920</ubGraphicNum>
+		<ubWeight>21</ubWeight>
+		<ItemSize>4</ItemSize>
+		<usPrice>1810</usPrice>
+		<ubCoolness>5</ubCoolness>
+		<bReliability>2</bReliability>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
+		<BigGunList>1</BigGunList>
+		<BR_NewInventory>2</BR_NewInventory>
+		<BR_ROF>1100</BR_ROF>
+		<ToHitBonus>-1</ToHitBonus>
+		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<STAND_MODIFIERS>
+			<PercentMaxCounterForce>-20</PercentMaxCounterForce>
+			<PercentCounterForceAccuracy>-20</PercentCounterForceAccuracy>
+			<AimLevels>1</AimLevels>
+		</STAND_MODIFIERS>
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2706</uiIndex>
+		<szItemName>9x18mm CC PM</szItemName>
+		<szLongItemName>9x18mm Cartridge Clip PM</szLongItemName>
+		<szItemDesc>Use of the rimless 9x18mm Makarov in a revolver requires the use of a cartridge clip, which otherwise acts as a speed loader that stays with the cartridges in the cylinder.</szItemDesc>
+		<szBRName>9x18mm  Cartridge Clip PM</szBRName>
+		<szBRDesc>Use of the rimless 9x18mm Makarov in a revolver requires the use of a cartridge clip, which otherwise acts as a speed loader that stays with the cartridges in the cylinder.</szBRDesc>
+		<usItemClass>1024</usItemClass>
+		<ubClassIndex>884</ubClassIndex>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>966</ubGraphicNum>
+		<ubWeight>1</ubWeight>
+		<ubPerPocket>8</ubPerPocket>
+		<ItemSize>19</ItemSize>
+		<usPrice>5</usPrice>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<NotBuyable>1</NotBuyable>
+		<BigGunList>1</BigGunList>
+		<RangeBonus>-20</RangeBonus>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2707</uiIndex>
+		<szItemName>9x18mm CC PMM</szItemName>
+		<szLongItemName>9x18mm Cartridge Clip, PMM</szLongItemName>
+		<szItemDesc>Use of the rimless 9x18mm Makarov in a revolver requires the use of a cartridge clip, which otherwise acts as a speed loader that stays with the cartridges in the cylinder.</szItemDesc>
+		<szBRName>9x18mm  Cartridge Clip, PMM</szBRName>
+		<szBRDesc>Use of the rimless 9x18mm Makarov in a revolver requires the use of a cartridge clip, which otherwise acts as a speed loader that stays with the cartridges in the cylinder.</szBRDesc>
+		<usItemClass>1024</usItemClass>
+		<ubClassIndex>885</ubClassIndex>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>967</ubGraphicNum>
+		<ubWeight>1</ubWeight>
+		<ubPerPocket>8</ubPerPocket>
+		<ItemSize>19</ItemSize>
+		<usPrice>6</usPrice>
+		<ubCoolness>3</ubCoolness>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<NotBuyable>1</NotBuyable>
+		<BigGunList>1</BigGunList>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2708</uiIndex>
+		<szItemName>9x18mm CC, SB</szItemName>
+		<szLongItemName>9x18mm Cartridge Clip, SB</szLongItemName>
+		<szItemDesc>Use of the rimless 9x18mm Makarov in a revolver requires the use of a cartridge clip, which otherwise acts as a speed loader that stays with the cartridges in the cylinder.</szItemDesc>
+		<szBRName>9x18mm Cartridge Clip, SB</szBRName>
+		<szBRDesc>Use of the rimless 9x18mm Makarov in a revolver requires the use of a cartridge clip, which otherwise acts as a speed loader that stays with the cartridges in the cylinder.</szBRDesc>
+		<usItemClass>1024</usItemClass>
+		<ubClassIndex>886</ubClassIndex>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>968</ubGraphicNum>
+		<ubWeight>1</ubWeight>
+		<ubPerPocket>8</ubPerPocket>
+		<ItemSize>19</ItemSize>
+		<usPrice>2</usPrice>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<NotBuyable>1</NotBuyable>
+		<BigGunList>1</BigGunList>
+		<PercentNoiseReduction>50</PercentNoiseReduction>
+		<RangeBonus>-25</RangeBonus>
+		<PercentRecoilModifier>-20</PercentRecoilModifier>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2709</uiIndex>
+		<szItemName>.338 Spectre Mag FMJ</szItemName>
+		<szLongItemName>.338 Spectre Magazine, 28 Light FMJ</szLongItemName>
+		<szItemDesc>A 28-round FMJ clip of .338 Spectre ammunition. This manstopper is a 160 gr Spitzer bullet with a velocity of 1750 fps.</szItemDesc>
+		<szBRName>.338 Spectre Mag 28 Light FMJ</szBRName>
+		<szBRDesc>A 28-round FMJ clip of .338 Spectre ammunition. This manstopper is a 160 gr Spitzer bullet with a velocity of 1750 fps.</szBRDesc>
+		<usItemClass>1024</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>887</ubClassIndex>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>969</ubGraphicNum>
+		<ubWeight>7</ubWeight>
+		<ubPerPocket>4</ubPerPocket>
+		<ItemSize>27</ItemSize>
+		<usPrice>252</usPrice>
+		<ubCoolness>2</ubCoolness>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<BigGunList>1</BigGunList>
+		<PercentNoiseReduction>57</PercentNoiseReduction>
+		<RangeBonus>25</RangeBonus>
+		<BulletSpeedBonus>10</BulletSpeedBonus>
+		<DamageBonus>-8</DamageBonus>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2710</uiIndex>
+		<szItemName>.338 Spectre Mag JHP</szItemName>
+		<szLongItemName>.338 Spectre Magazine, 28 Heavy JHP</szLongItemName>
+		<szItemDesc>A 28-round JHP clip of .338 Spectre ammunition. This manstopper is a 300gr HPBT MK bullet with a velocity of 1040 fps.</szItemDesc>
+		<szBRName>.338 Spectre Mag 28 Heavy JHP</szBRName>
+		<szBRDesc>A 12-round JHP clip of .338 Spectre ammunition. This manstopper is a 300gr HPBT MK bullet with a velocity of 1040 fps.</szBRDesc>
+		<usItemClass>1024</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>888</ubClassIndex>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>970</ubGraphicNum>
+		<ubWeight>7</ubWeight>
+		<ubPerPocket>4</ubPerPocket>
+		<ItemSize>27</ItemSize>
+		<usPrice>252</usPrice>
+		<ubCoolness>8</ubCoolness>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<BigGunList>1</BigGunList>
+		<PercentNoiseReduction>57</PercentNoiseReduction>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2711</uiIndex>
+		<szItemName>.338 Spectre FMJ box</szItemName>
+		<szLongItemName>.338 Spectre Light FMJ ammo box</szLongItemName>
+		<szItemDesc>100 rounds of .338 Spectre Full Metal Jacket ammunition in a cardboard box.</szItemDesc>
+		<szBRName>.338 Spectre Light FMJ ammo box</szBRName>
+		<szBRDesc>100 rounds of .338 Spectre  Full Metal Jacket ammunition in a cardboard box.</szBRDesc>
+		<usItemClass>1024</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>889</ubClassIndex>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>677</ubGraphicNum>
+		<ubWeight>40</ubWeight>
+		<ItemSize>33</ItemSize>
+		<usPrice>900</usPrice>
+		<ubCoolness>8</ubCoolness>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<BR_NewInventory>1</BR_NewInventory>
+		<AmmoCrate>1</AmmoCrate>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2712</uiIndex>
+		<szItemName>.338 Spectre JHP box</szItemName>
+		<szLongItemName>.338 Spectre Heavy JHP ammo box</szLongItemName>
+		<szItemDesc>100 rounds of .338 Spectre Jacket Hollow Point ammunition in a cardboard box.</szItemDesc>
+		<szBRName>.338 Spectre Heavy JHP ammo box</szBRName>
+		<szBRDesc>100 rounds of .338 Spectre Jacket Hollow Point ammunition in a cardboard box.</szBRDesc>
+		<usItemClass>1024</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>890</ubClassIndex>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>678</ubGraphicNum>
+		<ubWeight>40</ubWeight>
+		<ItemSize>33</ItemSize>
+		<usPrice>900</usPrice>
+		<ubCoolness>8</ubCoolness>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<BR_NewInventory>1</BR_NewInventory>
+		<AmmoCrate>1</AmmoCrate>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2713</uiIndex>
+		<szItemName>.500 Phantom 8 Sabot</szItemName>
+		<szLongItemName>.500 Phantom Magazine, 8 Sabot</szLongItemName>
+		<szItemDesc>A standard AR-15 magazine hold 8-rounds of the .308 168 gr sabot in .500 Phantom cartridges.</szItemDesc>
+		<szBRName>.500 Phantom Mag 8 Sabot</szBRName>
+		<szBRDesc>A standard AR-15 magazine hold 8-rounds of the .308 168 gr sabot in .500 Phantom cartridges.</szBRDesc>
+		<usItemClass>1024</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>891</ubClassIndex>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>971</ubGraphicNum>
+		<ubWeight>8</ubWeight>
+		<ubPerPocket>4</ubPerPocket>
+		<ItemSize>27</ItemSize>
+		<usPrice>96</usPrice>
+		<ubCoolness>2</ubCoolness>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<BigGunList>1</BigGunList>
+		<PercentNoiseReduction>57</PercentNoiseReduction>
+		<RangeBonus>60</RangeBonus>
+		<BulletSpeedBonus>10</BulletSpeedBonus>
+		<DamageBonus>-11</DamageBonus>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2714</uiIndex>
+		<szItemName>.500 Phantom 8 JHP</szItemName>
+		<szLongItemName>.500 Phantom Magazine, 8 JHP</szLongItemName>
+		<szItemDesc>A standard AR-15 magazine hold 8-rounds of the 700 gr Hawk bullet in .500 Phantom cartridges.</szItemDesc>
+		<szBRName>.500 Phantom Mag 8 JHP</szBRName>
+		<szBRDesc>A standard AR-15 magazine hold 8-rounds of the 700 gr Hawk bullet in .500 Phantom cartridges.</szBRDesc>
+		<usItemClass>1024</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>892</ubClassIndex>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>972</ubGraphicNum>
+		<ubWeight>8</ubWeight>
+		<ubPerPocket>4</ubPerPocket>
+		<ItemSize>27</ItemSize>
+		<usPrice>96</usPrice>
+		<ubCoolness>8</ubCoolness>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<BigGunList>1</BigGunList>
+		<PercentNoiseReduction>57</PercentNoiseReduction>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2715</uiIndex>
+		<szItemName>.500 Phantom Sabot box</szItemName>
+		<szLongItemName>.500 Phantom Sabot ammo box</szLongItemName>
+		<szItemDesc>50 rounds of .500 Phantom .308 168 gr sabot ammunition in a cardboard box.</szItemDesc>
+		<szBRName>.500 Phantom Sabot ammo box</szBRName>
+		<szBRDesc>50 rounds of .500 Phantom .308 168 gr sabot ammunition in a cardboard box.</szBRDesc>
+		<usItemClass>1024</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>893</ubClassIndex>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>679</ubGraphicNum>
+		<ubWeight>40</ubWeight>
+		<ItemSize>33</ItemSize>
+		<usPrice>600</usPrice>
+		<ubCoolness>8</ubCoolness>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<BR_NewInventory>1</BR_NewInventory>
+		<AmmoCrate>1</AmmoCrate>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2716</uiIndex>
+		<szItemName>.500 Phantom JHP box</szItemName>
+		<szLongItemName>.500 Phantom JHP ammo box</szLongItemName>
+		<szItemDesc>50 rounds of .500 Phantom 700 gr Hawk Jacket Hollow Point ammunition in a cardboard box.</szItemDesc>
+		<szBRName>.500 Phantom JHP ammo box</szBRName>
+		<szBRDesc>50 rounds of .500 Phantom 700 gr Hawk Jacket Hollow Point ammunition in a cardboard box.</szBRDesc>
+		<usItemClass>1024</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>894</ubClassIndex>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>680</ubGraphicNum>
+		<ubWeight>40</ubWeight>
+		<ItemSize>33</ItemSize>
+		<usPrice>600</usPrice>
+		<ubCoolness>8</ubCoolness>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<BR_NewInventory>1</BR_NewInventory>
+		<AmmoCrate>1</AmmoCrate>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2717</uiIndex>
+		<szItemName>Mag-7 Mag, Slug</szItemName>
+		<szLongItemName>Mag-7 Mag, Slug</szLongItemName>
+		<szItemDesc>This oversized pistol magazine contains seven cut down 12 gauge shotgun shells slug.</szItemDesc>
+		<szBRName>Mag-7 Mag, Slug</szBRName>
+		<szBRDesc>This oversized pistol magazine contains seven cut down 12 gauge shotgun shells slug.</szBRDesc>
+		<usItemClass>1024</usItemClass>
+		<ubClassIndex>895</ubClassIndex>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>973</ubGraphicNum>
+		<ubWeight>5</ubWeight>
+		<ubPerPocket>4</ubPerPocket>
+		<ItemSize>16</ItemSize>
+		<usPrice>15</usPrice>
+		<ubCoolness>7</ubCoolness>
+		<Sinks>1</Sinks>
+		<NotBuyable>1</NotBuyable>
+		<BigGunList>1</BigGunList>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2718</uiIndex>
+		<szItemName>Mag-7 Mag, BS</szItemName>
+		<szLongItemName>Mag-7 Mag, Buckshot</szLongItemName>
+		<szItemDesc>This oversized pistol magazine contains seven cut down 12 gauge Buckshot shells.</szItemDesc>
+		<szBRName>Mag-7 Mag, Buckshot</szBRName>
+		<szBRDesc>This oversized pistol magazine contains seven cut down 12 gauge Buckshot shells.</szBRDesc>
+		<usItemClass>1024</usItemClass>
+		<ubClassIndex>896</ubClassIndex>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>974</ubGraphicNum>
+		<ubWeight>5</ubWeight>
+		<ubPerPocket>4</ubPerPocket>
+		<ItemSize>16</ItemSize>
+		<usPrice>15</usPrice>
+		<ubCoolness>6</ubCoolness>
+		<Sinks>1</Sinks>
+		<NotBuyable>1</NotBuyable>
+		<BigGunList>1</BigGunList>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2719</uiIndex>
+		<szItemName>12g 60mm, Slug crate</szItemName>
+		<szLongItemName>12 gauge 60mm Ammo Crate</szLongItemName>
+		<szItemDesc>These cut down 12gauge shotgun shells are meant to be used for the CQB/home defence Mag-7. - 50 round box</szItemDesc>
+		<szBRName>12 gauge 60mm Ammo Crate</szBRName>
+		<szBRDesc>These cut down 12gauge shotgun shells are meant to be used for the CQB/home defence Mag-7. - 50 round box</szBRDesc>
+		<usItemClass>1024</usItemClass>
+		<ubClassIndex>897</ubClassIndex>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>681</ubGraphicNum>
+		<ubWeight>40</ubWeight>
+		<ItemSize>33</ItemSize>
+		<usPrice>150</usPrice>
+		<ubCoolness>7</ubCoolness>
+		<Sinks>1</Sinks>
+		<BigGunList>1</BigGunList>
+		<BR_NewInventory>3</BR_NewInventory>
+		<AmmoCrate>1</AmmoCrate>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2720</uiIndex>
+		<szItemName>12g 60mm, BS Crate</szItemName>
+		<szLongItemName>12 gauge 60mm Buckshot Ammo Crate</szLongItemName>
+		<szItemDesc>These 60mm long 12gauge buck shot shells are meant to be used for the CQB/home defence Mag-7. - 50 round box</szItemDesc>
+		<szBRName>12 gauge 60mm Buckshot Ammo Crate</szBRName>
+		<szBRDesc>These 60mm long 12gauge buck shot shells are meant to be used for the CQB/home defence Mag-7. - 50 round box</szBRDesc>
+		<usItemClass>1024</usItemClass>
+		<ubClassIndex>898</ubClassIndex>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>682</ubGraphicNum>
+		<ubWeight>40</ubWeight>
+		<ItemSize>33</ItemSize>
+		<usPrice>150</usPrice>
+		<ubCoolness>6</ubCoolness>
+		<Sinks>1</Sinks>
+		<BigGunList>1</BigGunList>
+		<BR_NewInventory>5</BR_NewInventory>
+		<AmmoCrate>1</AmmoCrate>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />

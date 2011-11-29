@@ -58,7 +58,7 @@
 	<ENEMYGUNCHOICES>
 		<uiIndex>1</uiIndex> <!-- 手枪、冲锋枪 -->
 		<name>10%</name>
-		<ubChoices>31</ubChoices>
+		<ubChoices>33</ubChoices>
 		<bItemNo1>703</bItemNo1>
 		<bItemNo2>719</bItemNo2>
 		<bItemNo3>3</bItemNo3>
@@ -90,8 +90,8 @@
 		<bItemNo29>720</bItemNo29>
 		<bItemNo30>2482</bItemNo30>
 		<bItemNo31>612</bItemNo31>
-		<bItemNo32>0</bItemNo32>
-		<bItemNo33>0</bItemNo33>
+		<bItemNo32>2695</bItemNo32>
+		<bItemNo33>2704</bItemNo33>
 		<bItemNo34>0</bItemNo34>
 		<bItemNo35>0</bItemNo35>
 		<bItemNo36>0</bItemNo36>
@@ -223,7 +223,7 @@
 	<ENEMYGUNCHOICES>
 		<uiIndex>4</uiIndex> <!-- 大手枪、冲锋枪、霰弹枪、短突击步枪 -->
 		<name>40%</name>
-		<ubChoices>40</ubChoices>
+		<ubChoices>41</ubChoices>
 		<bItemNo1>641</bItemNo1>
 		<bItemNo2>707</bItemNo2>
 		<bItemNo3>701</bItemNo3>
@@ -262,9 +262,9 @@
 		<bItemNo36>1991</bItemNo36>
 		<bItemNo37>2131</bItemNo37>
 		<bItemNo38>2160</bItemNo38>
-		<bItemNo39>2447</bItemNo39>
+		<bItemNo39>2694</bItemNo39>
 		<bItemNo40>2480</bItemNo40>
-		<bItemNo41>0</bItemNo41>
+		<bItemNo41>2696</bItemNo41>
 		<bItemNo42>0</bItemNo42>
 		<bItemNo43>0</bItemNo43>
 		<bItemNo44>0</bItemNo44>
@@ -278,7 +278,7 @@
 	<ENEMYGUNCHOICES>
 		<uiIndex>5</uiIndex> <!-- 冲锋枪、霰弹枪、突击步枪、手动步枪 -->
 		<name>50%</name>
-		<ubChoices>46</ubChoices>
+		<ubChoices>47</ubChoices>
 		<bItemNo1>601</bItemNo1>
 		<bItemNo2>727</bItemNo2>
 		<bItemNo3>344</bItemNo3>
@@ -325,7 +325,7 @@
 		<bItemNo44>2294</bItemNo44>
 		<bItemNo45>2492</bItemNo45>
 		<bItemNo46>2649</bItemNo46>
-		<bItemNo47>0</bItemNo47>
+		<bItemNo47>2447</bItemNo47>
 		<bItemNo48>0</bItemNo48>
 		<bItemNo49>0</bItemNo49>
 		<bItemNo50>0</bItemNo50>
@@ -553,7 +553,7 @@
 	<ENEMYGUNCHOICES>
 		<uiIndex>10</uiIndex> <!-- 卡宾枪、突击步枪、狙击步枪、机枪 -->
 		<name>100%</name>
-		<ubChoices>24</ubChoices>
+		<ubChoices>26</ubChoices>
 		<bItemNo1>639</bItemNo1>
 		<bItemNo2>1164</bItemNo2>
 		<bItemNo3>1049</bItemNo3>
@@ -578,8 +578,8 @@
 		<bItemNo22>2471</bItemNo22>
 		<bItemNo23>2518</bItemNo23>
 		<bItemNo24>1373</bItemNo24>
-		<bItemNo25>0</bItemNo25>
-		<bItemNo26>0</bItemNo26>
+		<bItemNo25>1070</bItemNo25>
+		<bItemNo26>2703</bItemNo26>
 		<bItemNo27>0</bItemNo27>
 		<bItemNo28>0</bItemNo28>
 		<bItemNo29>0</bItemNo29>

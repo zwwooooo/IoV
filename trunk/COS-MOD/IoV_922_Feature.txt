@@ -12,10 +12,6 @@
 
 - It can plates for the LED bulletproof. Like CRIAS, MBSS, HSGI WASATCH.......
 
-== Recommended settings ==
-
-Open CTHConstants.ini, set "SCOPE_RANGE_MULTIPLIER = 0.6"
-
 
 
 --------------------------------
@@ -34,11 +30,6 @@ For Chinese fans
 其实还有需要改进的地方，连发射击时的卡壳只发生在射击前，而不是射击中途。比如要打出10发，但出了3发就卡住，或要打出6发，但出到第5发才卡住。不过这个是原版就已经有的问题，目前我们还没有得力的程序员去改进这一项。
 
 - 携具里加上防弹插板能挡子弹。我的那些人现在穿CIRAS背心的都不穿防弹衣了，只插两块SAPI板子就上场打仗了。
-
-
-== 923推荐设置 ==
-
-Open CTHConstants.ini, set "SCOPE_RANGE_MULTIPLIER = 0.6"
 
 
 == 设置中文版方法 ==
