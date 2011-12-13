@@ -4200,4 +4200,66 @@
 		<ItemCapacityPerSize53>0</ItemCapacityPerSize53>
 		<ItemCapacityPerSize54>0</ItemCapacityPerSize54>
 	</POCKET>
+	<POCKET>
+		<pIndex>68</pIndex>
+		<pName>Revolver Holster</pName>
+		<pSilhouette>64</pSilhouette>
+		<pType>2</pType>
+		<pRestriction>2</pRestriction>
+		<ItemCapacityPerSize0>0</ItemCapacityPerSize0>
+		<ItemCapacityPerSize1>1</ItemCapacityPerSize1>
+		<ItemCapacityPerSize2>1</ItemCapacityPerSize2>
+		<ItemCapacityPerSize3>0</ItemCapacityPerSize3>
+		<ItemCapacityPerSize4>0</ItemCapacityPerSize4>
+		<ItemCapacityPerSize5>0</ItemCapacityPerSize5>
+		<ItemCapacityPerSize6>0</ItemCapacityPerSize6>
+		<ItemCapacityPerSize7>0</ItemCapacityPerSize7>
+		<ItemCapacityPerSize8>0</ItemCapacityPerSize8>
+		<ItemCapacityPerSize9>0</ItemCapacityPerSize9>
+		<ItemCapacityPerSize10>0</ItemCapacityPerSize10>
+		<ItemCapacityPerSize11>0</ItemCapacityPerSize11>
+		<ItemCapacityPerSize12>0</ItemCapacityPerSize12>
+		<ItemCapacityPerSize13>0</ItemCapacityPerSize13>
+		<ItemCapacityPerSize14>0</ItemCapacityPerSize14>
+		<ItemCapacityPerSize15>0</ItemCapacityPerSize15>
+		<ItemCapacityPerSize16>0</ItemCapacityPerSize16>
+		<ItemCapacityPerSize17>0</ItemCapacityPerSize17>
+		<ItemCapacityPerSize18>0</ItemCapacityPerSize18>
+		<ItemCapacityPerSize19>0</ItemCapacityPerSize19>
+		<ItemCapacityPerSize20>0</ItemCapacityPerSize20>
+		<ItemCapacityPerSize21>0</ItemCapacityPerSize21>
+		<ItemCapacityPerSize22>0</ItemCapacityPerSize22>
+		<ItemCapacityPerSize23>0</ItemCapacityPerSize23>
+		<ItemCapacityPerSize24>0</ItemCapacityPerSize24>
+		<ItemCapacityPerSize25>0</ItemCapacityPerSize25>
+		<ItemCapacityPerSize26>0</ItemCapacityPerSize26>
+		<ItemCapacityPerSize27>0</ItemCapacityPerSize27>
+		<ItemCapacityPerSize28>0</ItemCapacityPerSize28>
+		<ItemCapacityPerSize29>0</ItemCapacityPerSize29>
+		<ItemCapacityPerSize30>0</ItemCapacityPerSize30>
+		<ItemCapacityPerSize31>0</ItemCapacityPerSize31>
+		<ItemCapacityPerSize32>0</ItemCapacityPerSize32>
+		<ItemCapacityPerSize33>0</ItemCapacityPerSize33>
+		<ItemCapacityPerSize34>0</ItemCapacityPerSize34>
+		<ItemCapacityPerSize35>0</ItemCapacityPerSize35>
+		<ItemCapacityPerSize36>0</ItemCapacityPerSize36>
+		<ItemCapacityPerSize37>0</ItemCapacityPerSize37>
+		<ItemCapacityPerSize38>0</ItemCapacityPerSize38>
+		<ItemCapacityPerSize39>0</ItemCapacityPerSize39>
+		<ItemCapacityPerSize40>0</ItemCapacityPerSize40>
+		<ItemCapacityPerSize41>0</ItemCapacityPerSize41>
+		<ItemCapacityPerSize42>0</ItemCapacityPerSize42>
+		<ItemCapacityPerSize43>0</ItemCapacityPerSize43>
+		<ItemCapacityPerSize44>0</ItemCapacityPerSize44>
+		<ItemCapacityPerSize45>0</ItemCapacityPerSize45>
+		<ItemCapacityPerSize46>0</ItemCapacityPerSize46>
+		<ItemCapacityPerSize47>0</ItemCapacityPerSize47>
+		<ItemCapacityPerSize48>0</ItemCapacityPerSize48>
+		<ItemCapacityPerSize49>0</ItemCapacityPerSize49>
+		<ItemCapacityPerSize50>0</ItemCapacityPerSize50>
+		<ItemCapacityPerSize51>0</ItemCapacityPerSize51>
+		<ItemCapacityPerSize52>0</ItemCapacityPerSize52>
+		<ItemCapacityPerSize53>0</ItemCapacityPerSize53>
+		<ItemCapacityPerSize54>0</ItemCapacityPerSize54>
+	</POCKET>
 </POCKETLIST>

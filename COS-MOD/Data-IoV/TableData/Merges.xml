@@ -1138,25 +1138,9 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>1008</firstItemIndex> <!-- Folding Stock -->
-		<secondItemIndex>25</secondItemIndex> <!-- AK74 -->
-		<firstResultingItemIndex>614</firstResultingItemIndex> <!-- AKS74 -->
-		<secondResultingItemIndex>1888</secondResultingItemIndex> <!-- Fix Stock -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1008</firstItemIndex> <!-- Folding Stock -->
 		<secondItemIndex>27</secondItemIndex> <!-- M14 -->
 		<firstResultingItemIndex>1158</firstResultingItemIndex> <!-- M14 fold-stock -->
-		<secondResultingItemIndex>1888</secondResultingItemIndex> <!-- Fix Stock -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1008</firstItemIndex> <!-- Folding Stock -->
-		<secondItemIndex>28</secondItemIndex> <!-- FAL -->
-		<firstResultingItemIndex>1231</firstResultingItemIndex> <!-- FAL Para -->
-		<secondResultingItemIndex>1888</secondResultingItemIndex> <!-- Fix Stock -->
+		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
@@ -1164,7 +1148,7 @@
 		<firstItemIndex>1008</firstItemIndex> <!-- Folding Stock -->
 		<secondItemIndex>624</secondItemIndex> <!-- AR-70/90 -->
 		<firstResultingItemIndex>1246</firstResultingItemIndex> <!-- SC-70/90 -->
-		<secondResultingItemIndex>1888</secondResultingItemIndex> <!-- Fix Stock -->
+		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
@@ -1172,7 +1156,7 @@
 		<firstItemIndex>1009</firstItemIndex> <!-- Retractable Stock -->
 		<secondItemIndex>34</secondItemIndex> <!-- FN Minimi -->
 		<firstResultingItemIndex>1236</firstResultingItemIndex> <!-- C9A2 -->
-		<secondResultingItemIndex>1888</secondResultingItemIndex> <!-- Fix Stock -->
+		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
@@ -1180,7 +1164,7 @@
 		<firstItemIndex>1009</firstItemIndex> <!-- Retractable Stock -->
 		<secondItemIndex>632</secondItemIndex> <!-- M16A4 -->
 		<firstResultingItemIndex>1136</firstResultingItemIndex> <!-- M16A4 w. R stock -->
-		<secondResultingItemIndex>1888</secondResultingItemIndex> <!-- Fix Stock -->
+		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
@@ -1529,6 +1513,22 @@
 		<APCost>20</APCost>
 	</MERGE>
 	<MERGE>
+		<firstItemIndex>1841</firstItemIndex> <!-- VP70 Stock -->
+		<secondItemIndex>1203</secondItemIndex> <!-- VP70 -->
+		<firstResultingItemIndex>2721</firstResultingItemIndex> <!-- VP70-MP -->
+		<secondResultingItemIndex>1841</secondResultingItemIndex> <!-- VP70 Stock -->
+		<mergeType>4</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>1841</firstItemIndex> <!-- VP70 Stock -->
+		<secondItemIndex>2721</secondItemIndex> <!-- VP70-MP -->
+		<firstResultingItemIndex>1203</firstResultingItemIndex> <!-- VP70-MP -->
+		<secondResultingItemIndex>1841</secondResultingItemIndex> <!-- VP70 Stock -->
+		<mergeType>4</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
 		<firstItemIndex>1861</firstItemIndex> <!-- Mk16 Mod0 STD barrel -->
 		<secondItemIndex>1123</secondItemIndex> <!-- Mk16 Mod0 CQC -->
 		<firstResultingItemIndex>1122</firstResultingItemIndex> <!-- Mk16 Mod0 STD -->
@@ -1673,140 +1673,20 @@
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1870</firstItemIndex> <!-- Mk16 Mod47 con.kits -->
-		<secondItemIndex>1122</secondItemIndex> <!-- Mk16 Mod0 STD -->
-		<firstResultingItemIndex>1131</firstResultingItemIndex> <!-- Mk16 Mod47 -->
-		<secondResultingItemIndex>2599</secondResultingItemIndex> <!-- Mk16 Mod0 STD con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
+		<firstItemIndex>1870</firstItemIndex> <!-- Takedown Pin -->
+		<secondItemIndex>2150</secondItemIndex>
+		<firstResultingItemIndex>2758</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1870</firstItemIndex> <!-- Mk16 Mod47 con.kits -->
-		<secondItemIndex>1123</secondItemIndex> <!-- Mk16 Mod0 CQC -->
-		<firstResultingItemIndex>1131</firstResultingItemIndex> <!-- Mk16 Mod47 -->
-		<secondResultingItemIndex>2600</secondResultingItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1870</firstItemIndex> <!-- Mk16 Mod47 con.kits -->
-		<secondItemIndex>1124</secondItemIndex> <!-- Mk16 Mod0 LB -->
-		<firstResultingItemIndex>1131</firstResultingItemIndex> <!-- Mk16 Mod47 -->
-		<secondResultingItemIndex>2601</secondResultingItemIndex> <!-- Mk16 Mod0 LB con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1870</firstItemIndex> <!-- Mk16 Mod47 con.kits -->
-		<secondItemIndex>1128</secondItemIndex> <!-- Mk16 Mod1 STD -->
-		<firstResultingItemIndex>1131</firstResultingItemIndex> <!-- Mk16 Mod47 -->
-		<secondResultingItemIndex>2605</secondResultingItemIndex> <!-- Mk16 Mod1 STD con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1870</firstItemIndex> <!-- Mk16 Mod47 con.kits -->
-		<secondItemIndex>1129</secondItemIndex> <!-- Mk16 Mod1 CQC -->
-		<firstResultingItemIndex>1131</firstResultingItemIndex> <!-- Mk16 Mod47 -->
-		<secondResultingItemIndex>2606</secondResultingItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1870</firstItemIndex> <!-- Mk16 Mod47 con.kits -->
-		<secondItemIndex>1130</secondItemIndex> <!-- Mk16 Mod1 LB -->
-		<firstResultingItemIndex>1131</firstResultingItemIndex> <!-- Mk16 Mod47 -->
-		<secondResultingItemIndex>2607</secondResultingItemIndex> <!-- Mk16 Mod1 LB con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1870</firstItemIndex> <!-- Mk16 Mod47 con.kits -->
-		<secondItemIndex>1132</secondItemIndex> <!-- FN IAR -->
-		<firstResultingItemIndex>1131</firstResultingItemIndex> <!-- Mk16 Mod47 -->
-		<secondResultingItemIndex>1871</secondResultingItemIndex> <!-- FN IAR con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1871</firstItemIndex> <!-- FN IAR con.kits -->
-		<secondItemIndex>1122</secondItemIndex> <!-- Mk16 Mod0 STD -->
-		<firstResultingItemIndex>1132</firstResultingItemIndex> <!-- FN IAR -->
-		<secondResultingItemIndex>2599</secondResultingItemIndex> <!-- Mk16 Mod0 STD con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1871</firstItemIndex> <!-- FN IAR con.kits -->
-		<secondItemIndex>1123</secondItemIndex> <!-- Mk16 Mod0 CQC -->
-		<firstResultingItemIndex>1132</firstResultingItemIndex> <!-- FN IAR -->
-		<secondResultingItemIndex>2600</secondResultingItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1871</firstItemIndex> <!-- FN IAR con.kits -->
-		<secondItemIndex>1124</secondItemIndex> <!-- Mk16 Mod0 LB -->
-		<firstResultingItemIndex>1132</firstResultingItemIndex> <!-- FN IAR -->
-		<secondResultingItemIndex>2601</secondResultingItemIndex> <!-- Mk16 Mod0 LB con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1871</firstItemIndex> <!-- FN IAR con.kits -->
-		<secondItemIndex>1128</secondItemIndex> <!-- Mk16 Mod1 STD -->
-		<firstResultingItemIndex>1132</firstResultingItemIndex> <!-- FN IAR -->
-		<secondResultingItemIndex>2605</secondResultingItemIndex> <!-- Mk16 Mod1 STD con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1871</firstItemIndex> <!-- FN IAR con.kits -->
-		<secondItemIndex>1129</secondItemIndex> <!-- Mk16 Mod1 CQC -->
-		<firstResultingItemIndex>1132</firstResultingItemIndex> <!-- FN IAR -->
-		<secondResultingItemIndex>2606</secondResultingItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1871</firstItemIndex> <!-- FN IAR con.kits -->
-		<secondItemIndex>1130</secondItemIndex> <!-- Mk16 Mod1 LB -->
-		<firstResultingItemIndex>1132</firstResultingItemIndex> <!-- FN IAR -->
-		<secondResultingItemIndex>2607</secondResultingItemIndex> <!-- Mk16 Mod1 LB con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1871</firstItemIndex> <!-- FN IAR con.kits -->
-		<secondItemIndex>1131</secondItemIndex> <!-- Mk16 Mod47 -->
-		<firstResultingItemIndex>1132</firstResultingItemIndex> <!-- FN IAR -->
-		<secondResultingItemIndex>1870</secondResultingItemIndex> <!-- Mk16 Mod47 con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1872</firstItemIndex> <!-- Mk17 SSR con.kits -->
-		<secondItemIndex>1125</secondItemIndex> <!-- Mk17 Mod0 STD -->
-		<firstResultingItemIndex>1133</firstResultingItemIndex> <!-- Mk17 SSR -->
-		<secondResultingItemIndex>1864</secondResultingItemIndex> <!-- Mk17 Mod0 STD con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1872</firstItemIndex> <!-- Mk17 SSR con.kits -->
-		<secondItemIndex>1126</secondItemIndex> <!-- Mk17 Mod0 CQC -->
-		<firstResultingItemIndex>1133</firstResultingItemIndex> <!-- Mk17 SSR -->
-		<secondResultingItemIndex>1865</secondResultingItemIndex> <!-- Mk17 Mod0 CQC con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1872</firstItemIndex> <!-- Mk17 SSR con.kits -->
-		<secondItemIndex>1127</secondItemIndex> <!-- Mk17 Mod0 LB -->
-		<firstResultingItemIndex>1133</firstResultingItemIndex> <!-- Mk17 SSR -->
-		<secondResultingItemIndex>1866</secondResultingItemIndex> <!-- Mk17 Mod0 LB con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
+		<firstItemIndex>1870</firstItemIndex>
+		<secondItemIndex>2758</secondItemIndex>
+		<firstResultingItemIndex>2150</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>1873</firstItemIndex> <!-- CQBR Upper -->
@@ -1908,7 +1788,7 @@
 		<firstItemIndex>1878</firstItemIndex> <!-- KSP58D upgread kit -->
 		<secondItemIndex>649</secondItemIndex> <!-- FN MAG -->
 		<firstResultingItemIndex>1237</firstResultingItemIndex> <!-- Ksp58D -->
-		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<secondResultingItemIndex>2737</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
@@ -2129,106 +2009,10 @@
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1888</firstItemIndex> <!-- Fix Stock -->
-		<secondItemIndex>612</secondItemIndex> <!-- AKMS -->
-		<firstResultingItemIndex>26</firstResultingItemIndex> <!-- AKM -->
-		<secondResultingItemIndex>1889</secondResultingItemIndex> <!-- Telescope Stock -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1888</firstItemIndex> <!-- Fix Stock -->
-		<secondItemIndex>613</secondItemIndex> <!-- AKS47 -->
-		<firstResultingItemIndex>347</firstResultingItemIndex> <!-- AK47 -->
-		<secondResultingItemIndex>1889</secondResultingItemIndex> <!-- Telescope Stock -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1888</firstItemIndex> <!-- Fix Stock -->
-		<secondItemIndex>614</secondItemIndex> <!-- AKS74 -->
-		<firstResultingItemIndex>25</firstResultingItemIndex> <!-- AK74 -->
-		<secondResultingItemIndex>1008</secondResultingItemIndex> <!-- Folding Stock -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1888</firstItemIndex> <!-- Fix Stock -->
-		<secondItemIndex>1231</secondItemIndex> <!-- FAL Para -->
-		<firstResultingItemIndex>28</firstResultingItemIndex> <!-- FAL -->
-		<secondResultingItemIndex>1008</secondResultingItemIndex> <!-- Folding Stock -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1888</firstItemIndex> <!-- Fix Stock -->
-		<secondItemIndex>1158</secondItemIndex> <!-- M14 fold-stock -->
-		<firstResultingItemIndex>27</firstResultingItemIndex> <!-- M14 -->
-		<secondResultingItemIndex>1008</secondResultingItemIndex> <!-- Folding Stock -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1888</firstItemIndex> <!-- Fix Stock -->
-		<secondItemIndex>1246</secondItemIndex> <!-- SC-70/90 -->
-		<firstResultingItemIndex>624</firstResultingItemIndex> <!-- AR-70/90 -->
-		<secondResultingItemIndex>1008</secondResultingItemIndex> <!-- Folding Stock -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1888</firstItemIndex> <!-- Fix Stock -->
-		<secondItemIndex>1136</secondItemIndex> <!-- M16A4 w. R stock -->
-		<firstResultingItemIndex>632</firstResultingItemIndex> <!-- M16A4 -->
-		<secondResultingItemIndex>1009</secondResultingItemIndex> <!-- Retractable Stock -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1888</firstItemIndex> <!-- Fix Stock -->
-		<secondItemIndex>1236</secondItemIndex> <!-- C9A2 -->
-		<firstResultingItemIndex>34</firstResultingItemIndex> <!-- FN Minimi -->
-		<secondResultingItemIndex>1009</secondResultingItemIndex> <!-- Retractable Stock -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1888</firstItemIndex> <!-- Fix Stock -->
-		<secondItemIndex>1213</secondItemIndex> <!-- G41A2 -->
-		<firstResultingItemIndex>21</firstResultingItemIndex> <!-- G41 -->
-		<secondResultingItemIndex>1889</secondResultingItemIndex> <!-- Telescope Stock -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1888</firstItemIndex> <!-- Fix Stock -->
-		<secondItemIndex>1214</secondItemIndex> <!-- G3A4 -->
-		<firstResultingItemIndex>29</firstResultingItemIndex> <!-- G3A3 -->
-		<secondResultingItemIndex>1889</secondResultingItemIndex> <!-- Telescope Stock -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1888</firstItemIndex> <!-- Fix Stock -->
-		<secondItemIndex>1994</secondItemIndex> <!-- HK33EA3 -->
-		<firstResultingItemIndex>1993</firstResultingItemIndex> <!-- HK33EA2 -->
-		<secondResultingItemIndex>1889</secondResultingItemIndex> <!-- Telescope Stock -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
 		<firstItemIndex>1889</firstItemIndex> <!-- Telescope Stock -->
 		<secondItemIndex>21</secondItemIndex> <!-- G41 -->
 		<firstResultingItemIndex>1213</firstResultingItemIndex> <!-- G41A2 -->
-		<secondResultingItemIndex>1888</secondResultingItemIndex> <!-- Fix Stock -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1889</firstItemIndex> <!-- Telescope Stock -->
-		<secondItemIndex>26</secondItemIndex> <!-- AKM -->
-		<firstResultingItemIndex>612</firstResultingItemIndex> <!-- AKMS -->
-		<secondResultingItemIndex>1888</secondResultingItemIndex> <!-- Fix Stock -->
+		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
@@ -2236,15 +2020,7 @@
 		<firstItemIndex>1889</firstItemIndex> <!-- Telescope Stock -->
 		<secondItemIndex>29</secondItemIndex> <!-- G3A3 -->
 		<firstResultingItemIndex>1214</firstResultingItemIndex> <!-- G3A4 -->
-		<secondResultingItemIndex>1888</secondResultingItemIndex> <!-- Fix Stock -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1889</firstItemIndex> <!-- Telescope Stock -->
-		<secondItemIndex>347</secondItemIndex> <!-- AK47 -->
-		<firstResultingItemIndex>613</firstResultingItemIndex> <!-- AKS47 -->
-		<secondResultingItemIndex>1888</secondResultingItemIndex> <!-- Fix Stock -->
+		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
@@ -2252,7 +2028,7 @@
 		<firstItemIndex>1889</firstItemIndex> <!-- Telescope Stock -->
 		<secondItemIndex>1993</secondItemIndex> <!-- HK33EA2 -->
 		<firstResultingItemIndex>1994</firstResultingItemIndex> <!-- HK33EA3 -->
-		<secondResultingItemIndex>1888</secondResultingItemIndex> <!-- Fix Stock -->
+		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
@@ -3241,22 +3017,6 @@
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2599</firstItemIndex> <!-- Mk16 Mod0 STD con.kits -->
-		<secondItemIndex>1131</secondItemIndex> <!-- Mk16 Mod47 -->
-		<firstResultingItemIndex>1122</firstResultingItemIndex> <!-- Mk16 Mod0 STD -->
-		<secondResultingItemIndex>1870</secondResultingItemIndex> <!-- Mk16 Mod47 con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>2599</firstItemIndex> <!-- Mk16 Mod0 STD con.kits -->
-		<secondItemIndex>1132</secondItemIndex> <!-- FN IAR -->
-		<firstResultingItemIndex>1122</firstResultingItemIndex> <!-- Mk16 Mod0 STD -->
-		<secondResultingItemIndex>1871</secondResultingItemIndex> <!-- FN IAR con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
 		<firstItemIndex>2600</firstItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
 		<secondItemIndex>1122</secondItemIndex> <!-- Mk16 Mod0 STD -->
 		<firstResultingItemIndex>1123</firstResultingItemIndex> <!-- Mk16 Mod0 CQC -->
@@ -3293,22 +3053,6 @@
 		<secondItemIndex>1130</secondItemIndex> <!-- Mk16 Mod1 LB -->
 		<firstResultingItemIndex>1123</firstResultingItemIndex> <!-- Mk16 Mod0 CQC -->
 		<secondResultingItemIndex>2607</secondResultingItemIndex> <!-- Mk16 Mod1 LB con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>2600</firstItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
-		<secondItemIndex>1131</secondItemIndex> <!-- Mk16 Mod47 -->
-		<firstResultingItemIndex>1123</firstResultingItemIndex> <!-- Mk16 Mod0 CQC -->
-		<secondResultingItemIndex>1870</secondResultingItemIndex> <!-- Mk16 Mod47 con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>2600</firstItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
-		<secondItemIndex>1132</secondItemIndex> <!-- FN IAR -->
-		<firstResultingItemIndex>1123</firstResultingItemIndex> <!-- Mk16 Mod0 CQC -->
-		<secondResultingItemIndex>1871</secondResultingItemIndex> <!-- FN IAR con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
@@ -3353,22 +3097,6 @@
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2601</firstItemIndex> <!-- Mk16 Mod0 LB con.kits -->
-		<secondItemIndex>1131</secondItemIndex> <!-- Mk16 Mod47 -->
-		<firstResultingItemIndex>1124</firstResultingItemIndex> <!-- Mk16 Mod0 LB -->
-		<secondResultingItemIndex>1870</secondResultingItemIndex> <!-- Mk16 Mod47 con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>2601</firstItemIndex> <!-- Mk16 Mod0 LB con.kits -->
-		<secondItemIndex>1132</secondItemIndex> <!-- FN IAR -->
-		<firstResultingItemIndex>1124</firstResultingItemIndex> <!-- Mk16 Mod0 LB -->
-		<secondResultingItemIndex>1871</secondResultingItemIndex> <!-- FN IAR con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
 		<firstItemIndex>2602</firstItemIndex> <!-- Mk17 Mod0 STD con.kits -->
 		<secondItemIndex>1126</secondItemIndex> <!-- Mk17 Mod0 CQC -->
 		<firstResultingItemIndex>1125</firstResultingItemIndex> <!-- Mk17 Mod0 STD -->
@@ -3381,14 +3109,6 @@
 		<secondItemIndex>1127</secondItemIndex> <!-- Mk17 Mod0 LB -->
 		<firstResultingItemIndex>1125</firstResultingItemIndex> <!-- Mk17 Mod0 STD -->
 		<secondResultingItemIndex>2604</secondResultingItemIndex> <!-- Mk17 Mod0 LB con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>2602</firstItemIndex> <!-- Mk17 Mod0 STD con.kits -->
-		<secondItemIndex>1133</secondItemIndex> <!-- Mk17 SSR -->
-		<firstResultingItemIndex>1125</firstResultingItemIndex> <!-- Mk17 Mod0 STD -->
-		<secondResultingItemIndex>1872</secondResultingItemIndex> <!-- Mk17 SSR con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
@@ -3409,14 +3129,6 @@
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2603</firstItemIndex> <!-- Mk17 Mod0 CQC con.kits -->
-		<secondItemIndex>1133</secondItemIndex> <!-- Mk17 SSR -->
-		<firstResultingItemIndex>1126</firstResultingItemIndex> <!-- Mk17 Mod0 CQC -->
-		<secondResultingItemIndex>1872</secondResultingItemIndex> <!-- Mk17 SSR con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
 		<firstItemIndex>2604</firstItemIndex> <!-- Mk17 Mod0 LB con.kits -->
 		<secondItemIndex>1125</secondItemIndex> <!-- Mk17 Mod0 STD -->
 		<firstResultingItemIndex>1127</firstResultingItemIndex> <!-- Mk17 Mod0 LB -->
@@ -3429,14 +3141,6 @@
 		<secondItemIndex>1126</secondItemIndex> <!-- Mk17 Mod0 CQC -->
 		<firstResultingItemIndex>1127</firstResultingItemIndex> <!-- Mk17 Mod0 LB -->
 		<secondResultingItemIndex>2603</secondResultingItemIndex> <!-- Mk17 Mod0 CQC con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>2604</firstItemIndex> <!-- Mk17 Mod0 LB con.kits -->
-		<secondItemIndex>1133</secondItemIndex> <!-- Mk17 SSR -->
-		<firstResultingItemIndex>1127</firstResultingItemIndex> <!-- Mk17 Mod0 LB -->
-		<secondResultingItemIndex>1872</secondResultingItemIndex> <!-- Mk17 SSR con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
@@ -3481,22 +3185,6 @@
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2605</firstItemIndex> <!-- Mk16 Mod1 STD con.kits -->
-		<secondItemIndex>1131</secondItemIndex> <!-- Mk16 Mod47 -->
-		<firstResultingItemIndex>1128</firstResultingItemIndex> <!-- Mk16 Mod1 STD -->
-		<secondResultingItemIndex>1870</secondResultingItemIndex> <!-- Mk16 Mod47 con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>2605</firstItemIndex> <!-- Mk16 Mod1 STD con.kits -->
-		<secondItemIndex>1132</secondItemIndex> <!-- FN IAR -->
-		<firstResultingItemIndex>1128</firstResultingItemIndex> <!-- Mk16 Mod1 STD -->
-		<secondResultingItemIndex>1871</secondResultingItemIndex> <!-- FN IAR con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
 		<firstItemIndex>2606</firstItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
 		<secondItemIndex>1122</secondItemIndex> <!-- Mk16 Mod0 STD -->
 		<firstResultingItemIndex>1129</firstResultingItemIndex> <!-- Mk16 Mod1 CQC -->
@@ -3533,22 +3221,6 @@
 		<secondItemIndex>1130</secondItemIndex> <!-- Mk16 Mod1 LB -->
 		<firstResultingItemIndex>1129</firstResultingItemIndex> <!-- Mk16 Mod1 CQC -->
 		<secondResultingItemIndex>2607</secondResultingItemIndex> <!-- Mk16 Mod1 LB con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>2606</firstItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
-		<secondItemIndex>1131</secondItemIndex> <!-- Mk16 Mod47 -->
-		<firstResultingItemIndex>1129</firstResultingItemIndex> <!-- Mk16 Mod1 CQC -->
-		<secondResultingItemIndex>1870</secondResultingItemIndex> <!-- Mk16 Mod47 con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>2606</firstItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
-		<secondItemIndex>1132</secondItemIndex> <!-- FN IAR -->
-		<firstResultingItemIndex>1129</firstResultingItemIndex> <!-- Mk16 Mod1 CQC -->
-		<secondResultingItemIndex>1871</secondResultingItemIndex> <!-- FN IAR con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
@@ -3593,19 +3265,771 @@
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2607</firstItemIndex> <!-- Mk16 Mod1 LB con.kits -->
-		<secondItemIndex>1131</secondItemIndex> <!-- Mk16 Mod47 -->
-		<firstResultingItemIndex>1130</firstResultingItemIndex> <!-- Mk16 Mod1 LB -->
-		<secondResultingItemIndex>1870</secondResultingItemIndex> <!-- Mk16 Mod47 con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
+		<firstItemIndex>2736</firstItemIndex> <!-- Folding Stock System -->
+		<secondItemIndex>1122</secondItemIndex>
+		<firstResultingItemIndex>2722</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2607</firstItemIndex> <!-- Mk16 Mod1 LB con.kits -->
-		<secondItemIndex>1132</secondItemIndex> <!-- FN IAR -->
-		<firstResultingItemIndex>1130</firstResultingItemIndex> <!-- Mk16 Mod1 LB -->
-		<secondResultingItemIndex>1871</secondResultingItemIndex> <!-- FN IAR con.kits -->
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
+		<firstItemIndex>2736</firstItemIndex>
+		<secondItemIndex>1123</secondItemIndex>
+		<firstResultingItemIndex>2723</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2736</firstItemIndex>
+		<secondItemIndex>1124</secondItemIndex>
+		<firstResultingItemIndex>2724</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2736</firstItemIndex>
+		<secondItemIndex>1125</secondItemIndex>
+		<firstResultingItemIndex>2725</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2736</firstItemIndex>
+		<secondItemIndex>1126</secondItemIndex>
+		<firstResultingItemIndex>2726</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2736</firstItemIndex>
+		<secondItemIndex>1127</secondItemIndex>
+		<firstResultingItemIndex>2727</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2736</firstItemIndex>
+		<secondItemIndex>1128</secondItemIndex>
+		<firstResultingItemIndex>2728</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2736</firstItemIndex>
+		<secondItemIndex>1129</secondItemIndex>
+		<firstResultingItemIndex>2729</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2736</firstItemIndex>
+		<secondItemIndex>1130</secondItemIndex>
+		<firstResultingItemIndex>2730</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2736</firstItemIndex>
+		<secondItemIndex>1131</secondItemIndex>
+		<firstResultingItemIndex>2731</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2736</firstItemIndex>
+		<secondItemIndex>1132</secondItemIndex>
+		<firstResultingItemIndex>2732</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2736</firstItemIndex>
+		<secondItemIndex>1310</secondItemIndex>
+		<firstResultingItemIndex>2733</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2736</firstItemIndex>
+		<secondItemIndex>1311</secondItemIndex>
+		<firstResultingItemIndex>2734</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2736</firstItemIndex>
+		<secondItemIndex>2722</secondItemIndex>
+		<firstResultingItemIndex>1122</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2736</firstItemIndex>
+		<secondItemIndex>2723</secondItemIndex>
+		<firstResultingItemIndex>1123</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2736</firstItemIndex>
+		<secondItemIndex>2724</secondItemIndex>
+		<firstResultingItemIndex>1124</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2736</firstItemIndex>
+		<secondItemIndex>2725</secondItemIndex>
+		<firstResultingItemIndex>1125</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2736</firstItemIndex>
+		<secondItemIndex>2726</secondItemIndex>
+		<firstResultingItemIndex>1126</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2736</firstItemIndex>
+		<secondItemIndex>2727</secondItemIndex>
+		<firstResultingItemIndex>1127</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2736</firstItemIndex>
+		<secondItemIndex>2728</secondItemIndex>
+		<firstResultingItemIndex>1128</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2736</firstItemIndex>
+		<secondItemIndex>2729</secondItemIndex>
+		<firstResultingItemIndex>1129</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2736</firstItemIndex>
+		<secondItemIndex>2730</secondItemIndex>
+		<firstResultingItemIndex>1130</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2736</firstItemIndex>
+		<secondItemIndex>2731</secondItemIndex>
+		<firstResultingItemIndex>1131</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2736</firstItemIndex>
+		<secondItemIndex>2732</secondItemIndex>
+		<firstResultingItemIndex>1132</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2736</firstItemIndex>
+		<secondItemIndex>2733</secondItemIndex>
+		<firstResultingItemIndex>1310</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2736</firstItemIndex>
+		<secondItemIndex>2734</secondItemIndex>
+		<firstResultingItemIndex>1311</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2737</firstItemIndex> <!-- Retractable Stock System -->
+		<secondItemIndex>10</secondItemIndex>
+		<firstResultingItemIndex>2745</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2737</firstItemIndex>
+		<secondItemIndex>621</secondItemIndex>
+		<firstResultingItemIndex>2754</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2737</firstItemIndex>
+		<secondItemIndex>650</secondItemIndex>
+		<firstResultingItemIndex>2772</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2737</firstItemIndex>
+		<secondItemIndex>673</secondItemIndex>
+		<firstResultingItemIndex>2751</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2737</firstItemIndex>
+		<secondItemIndex>688</secondItemIndex>
+		<firstResultingItemIndex>2746</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2737</firstItemIndex>
+		<secondItemIndex>1201</secondItemIndex>
+		<firstResultingItemIndex>2767</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2737</firstItemIndex>
+		<secondItemIndex>1209</secondItemIndex>
+		<firstResultingItemIndex>2748</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2737</firstItemIndex>
+		<secondItemIndex>1237</secondItemIndex>
+		<firstResultingItemIndex>2773</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2737</firstItemIndex>
+		<secondItemIndex>1955</secondItemIndex>
+		<firstResultingItemIndex>2735</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2737</firstItemIndex>
+		<secondItemIndex>2449</secondItemIndex>
+		<firstResultingItemIndex>2749</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2737</firstItemIndex>
+		<secondItemIndex>2470</secondItemIndex>
+		<firstResultingItemIndex>2768</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2737</firstItemIndex>
+		<secondItemIndex>2699</secondItemIndex>
+		<firstResultingItemIndex>2750</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2737</firstItemIndex>
+		<secondItemIndex>2704</secondItemIndex>
+		<firstResultingItemIndex>2747</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2737</firstItemIndex>
+		<secondItemIndex>2735</secondItemIndex>
+		<firstResultingItemIndex>1955</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2737</firstItemIndex>
+		<secondItemIndex>2745</secondItemIndex>
+		<firstResultingItemIndex>10</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2737</firstItemIndex>
+		<secondItemIndex>2746</secondItemIndex>
+		<firstResultingItemIndex>688</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2737</firstItemIndex>
+		<secondItemIndex>2747</secondItemIndex>
+		<firstResultingItemIndex>2704</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2737</firstItemIndex>
+		<secondItemIndex>2748</secondItemIndex>
+		<firstResultingItemIndex>1209</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2737</firstItemIndex>
+		<secondItemIndex>2749</secondItemIndex>
+		<firstResultingItemIndex>2449</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2737</firstItemIndex>
+		<secondItemIndex>2750</secondItemIndex>
+		<firstResultingItemIndex>2699</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2737</firstItemIndex>
+		<secondItemIndex>2751</secondItemIndex>
+		<firstResultingItemIndex>673</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2737</firstItemIndex>
+		<secondItemIndex>2754</secondItemIndex>
+		<firstResultingItemIndex>621</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2737</firstItemIndex>
+		<secondItemIndex>2767</secondItemIndex>
+		<firstResultingItemIndex>1201</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2737</firstItemIndex>
+		<secondItemIndex>2768</secondItemIndex>
+		<firstResultingItemIndex>2470</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2737</firstItemIndex>
+		<secondItemIndex>2772</secondItemIndex>
+		<firstResultingItemIndex>650</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2737</firstItemIndex>
+		<secondItemIndex>2773</secondItemIndex>
+		<firstResultingItemIndex>1237</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2738</firstItemIndex> <!-- Folding Stock System -->
+		<secondItemIndex>32</secondItemIndex>
+		<firstResultingItemIndex>2753</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2738</firstItemIndex>
+		<secondItemIndex>330</secondItemIndex>
+		<firstResultingItemIndex>2762</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2738</firstItemIndex>
+		<secondItemIndex>345</secondItemIndex>
+		<firstResultingItemIndex>2764</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2738</firstItemIndex>
+		<secondItemIndex>628</secondItemIndex>
+		<firstResultingItemIndex>2761</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2738</firstItemIndex>
+		<secondItemIndex>653</secondItemIndex>
+		<firstResultingItemIndex>2769</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2738</firstItemIndex>
+		<secondItemIndex>692</secondItemIndex>
+		<firstResultingItemIndex>2763</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2738</firstItemIndex>
+		<secondItemIndex>720</secondItemIndex>
+		<firstResultingItemIndex>2744</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2738</firstItemIndex>
+		<secondItemIndex>731</secondItemIndex>
+		<firstResultingItemIndex>2756</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2738</firstItemIndex>
+		<secondItemIndex>761</secondItemIndex>
+		<firstResultingItemIndex>2759</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2738</firstItemIndex>
+		<secondItemIndex>775</secondItemIndex>
+		<firstResultingItemIndex>2752</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2738</firstItemIndex>
+		<secondItemIndex>1171</secondItemIndex>
+		<firstResultingItemIndex>2739</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2738</firstItemIndex>
+		<secondItemIndex>1172</secondItemIndex>
+		<firstResultingItemIndex>2741</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2738</firstItemIndex>
+		<secondItemIndex>1238</secondItemIndex>
+		<firstResultingItemIndex>2771</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2738</firstItemIndex>
+		<secondItemIndex>1243</secondItemIndex>
+		<firstResultingItemIndex>2766</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2738</firstItemIndex>
+		<secondItemIndex>1248</secondItemIndex>
+		<firstResultingItemIndex>2765</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2738</firstItemIndex>
+		<secondItemIndex>1262</secondItemIndex>
+		<firstResultingItemIndex>2742</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2738</firstItemIndex>
+		<secondItemIndex>1373</secondItemIndex>
+		<firstResultingItemIndex>2740</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2738</firstItemIndex>
+		<secondItemIndex>1954</secondItemIndex>
+		<firstResultingItemIndex>2760</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2738</firstItemIndex>
+		<secondItemIndex>2014</secondItemIndex>
+		<firstResultingItemIndex>2770</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2738</firstItemIndex>
+		<secondItemIndex>2289</secondItemIndex>
+		<firstResultingItemIndex>2743</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2738</firstItemIndex>
+		<secondItemIndex>2469</secondItemIndex>
+		<firstResultingItemIndex>2757</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2738</firstItemIndex>
+		<secondItemIndex>2480</secondItemIndex>
+		<firstResultingItemIndex>2755</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2738</firstItemIndex>
+		<secondItemIndex>2739</secondItemIndex>
+		<firstResultingItemIndex>1171</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2738</firstItemIndex>
+		<secondItemIndex>2740</secondItemIndex>
+		<firstResultingItemIndex>1373</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2738</firstItemIndex>
+		<secondItemIndex>2741</secondItemIndex>
+		<firstResultingItemIndex>1172</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2738</firstItemIndex>
+		<secondItemIndex>2742</secondItemIndex>
+		<firstResultingItemIndex>1262</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2738</firstItemIndex>
+		<secondItemIndex>2743</secondItemIndex>
+		<firstResultingItemIndex>2289</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2738</firstItemIndex>
+		<secondItemIndex>2744</secondItemIndex>
+		<firstResultingItemIndex>720</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2738</firstItemIndex>
+		<secondItemIndex>2752</secondItemIndex>
+		<firstResultingItemIndex>775</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2738</firstItemIndex>
+		<secondItemIndex>2753</secondItemIndex>
+		<firstResultingItemIndex>32</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2738</firstItemIndex>
+		<secondItemIndex>2755</secondItemIndex>
+		<firstResultingItemIndex>2480</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2738</firstItemIndex>
+		<secondItemIndex>2756</secondItemIndex>
+		<firstResultingItemIndex>731</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2738</firstItemIndex>
+		<secondItemIndex>2757</secondItemIndex>
+		<firstResultingItemIndex>2469</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2738</firstItemIndex>
+		<secondItemIndex>2759</secondItemIndex>
+		<firstResultingItemIndex>761</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2738</firstItemIndex>
+		<secondItemIndex>2760</secondItemIndex>
+		<firstResultingItemIndex>1954</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2738</firstItemIndex>
+		<secondItemIndex>2761</secondItemIndex>
+		<firstResultingItemIndex>628</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2738</firstItemIndex>
+		<secondItemIndex>2762</secondItemIndex>
+		<firstResultingItemIndex>330</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2738</firstItemIndex>
+		<secondItemIndex>2763</secondItemIndex>
+		<firstResultingItemIndex>692</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2738</firstItemIndex>
+		<secondItemIndex>2764</secondItemIndex>
+		<firstResultingItemIndex>345</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2738</firstItemIndex>
+		<secondItemIndex>2765</secondItemIndex>
+		<firstResultingItemIndex>1248</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2738</firstItemIndex>
+		<secondItemIndex>2766</secondItemIndex>
+		<firstResultingItemIndex>1243</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2738</firstItemIndex>
+		<secondItemIndex>2769</secondItemIndex>
+		<firstResultingItemIndex>653</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2738</firstItemIndex>
+		<secondItemIndex>2770</secondItemIndex>
+		<firstResultingItemIndex>2014</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2738</firstItemIndex>
+		<secondItemIndex>2771</secondItemIndex>
+		<firstResultingItemIndex>1238</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>5</APCost>
 	</MERGE>
 </MERGELIST>

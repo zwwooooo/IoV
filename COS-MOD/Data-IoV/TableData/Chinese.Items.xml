@@ -5202,11 +5202,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>650</uiIndex>
-		<szItemName>Minimi SPW</szItemName>
-		<szLongItemName>FN Minimi SPW</szLongItemName>
-		<szItemDesc>FN米尼米SPW(Special Purpose Weapon/特殊用途武器）比标准的米尼米机枪更轻，外加伞兵式枪托和导轨适配系统。</szItemDesc>
-		<szBRName>FN Minimi SPW</szBRName>
-		<szBRDesc>特种部队所用的米尼米机枪更小，更轻也更容易操作， 但在任何场合下都可以独当一面。</szBRDesc>
+		<szItemName>Minimi Para</szItemName>
+		<szLongItemName>FN Minimi Para</szLongItemName>
+		<szItemDesc>米尼米机枪伞兵型比标准的米尼米更轻更短，并使用伸缩式枪托。</szItemDesc>
+		<szBRName>FN Minimi Para</szBRName>
+		<szBRDesc>米尼米机枪伞兵型比标准的米尼米更轻更短，并使用伸缩式枪托。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>651</uiIndex>
@@ -9252,16 +9252,16 @@
 		<uiIndex>1156</uiIndex>
 		<szItemName>M1A Scout</szItemName>
 		<szLongItemName>M1A Scout</szLongItemName>
-		<szItemDesc>这款春田侦察步枪使用了军用机匣，因此保留了选射功能。缩短的枪管和高性能的枪口制退器将帮助你搞定所有的近距离战斗。</szItemDesc>
+		<szItemDesc>这款春田公司的斥侯步枪使用短枪管和高效枪口制退器，能帮助你搞定所有的近距离战斗。</szItemDesc>
 		<szBRName>M1A Scout</szBRName>
-		<szBRDesc>这款春田侦察步枪使用了军用机匣，因此保留了选射功能。缩短的枪管和高性能的枪口制退器将帮助你搞定所有的近距离战斗。</szBRDesc>
+		<szBRDesc>这款春田公司的斥侯步枪使用短枪管和高效枪口制退器，能帮助你搞定所有的近距离战斗。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1157</uiIndex>
-		<szItemName>M14 EBR</szItemName>
-		<szLongItemName>M14 EBR</szLongItemName>
-		<szItemDesc>这是标准的M14枪管，采用了塞奇公司的EBR(增强型战斗步枪)成套配件。</szItemDesc>
-		<szBRName>M14 EBR</szBRName>
+		<szItemName>M39 EMR</szItemName>
+		<szLongItemName>USMC M39 EMR</szLongItemName>
+		<szItemDesc>美国海军陆战队用塞奇公司的EBR(增强型战斗步枪)配件把M14改装出来的精确射击步枪。</szItemDesc>
+		<szBRName>USMC M39 EMR</szBRName>
 		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -14962,11 +14962,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1870</uiIndex>
-		<szItemName>SCAR-WP M43 con.kit</szItemName>
-		<szLongItemName>Mk16 Mod47转换套件</szLongItemName>
-		<szItemDesc>将任何型号的SCAR-L转换成7.62x39mm口径的Mk16 Mod47型。</szItemDesc>
-		<szBRName>con.kits of SCAR-WP M43</szBRName>
-		<szBRDesc>将任何型号的SCAR-L转换成7.62x39mm口径的Mk16 Mod47型。</szBRDesc>
+		<szItemName>Pin</szItemName>
+		<szLongItemName>固定销</szLongItemName>
+		<szItemDesc>Upper Slot = Higher Chance-to-Hit(CtH) vs. Higher Action Point (AP) costs  //  Lower Slot = Less AP vs. Less CtH  //  No Stock Item = Broken</szItemDesc>
+		<szBRName>Takedown Pin</szBRName>
+		<szBRDesc>--- Not available from BR's. Please report this bug. ---</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1871</uiIndex>
@@ -15604,9 +15604,9 @@
 		<uiIndex>1950</uiIndex>
 		<szItemName>Mortar Panel</szItemName>
 		<szLongItemName>60mm迫击炮弹袋</szLongItemName>
-		<szItemDesc>可携带4枚60mm迫击炮弹。</szItemDesc>
+		<szItemDesc>可携带3枚60mm迫击炮弹。</szItemDesc>
 		<szBRName>60mm Mortar Bomb Panel</szBRName>
-		<szBRDesc>可携带4枚60mm迫击炮弹。</szBRDesc>
+		<szBRDesc>可携带3枚60mm迫击炮弹。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1951</uiIndex>
