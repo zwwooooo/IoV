@@ -733,10 +733,10 @@
 		<grayed>8</grayed>
 		<offNormal>5</offNormal>
 		<onNormal>7</onNormal>
-		<structureImpactReductionMultiplier>1</structureImpactReductionMultiplier>
-		<structureImpactReductionDivisor>2</structureImpactReductionDivisor>
+		<structureImpactReductionMultiplier>2</structureImpactReductionMultiplier>
+		<structureImpactReductionDivisor>3</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>2</armourImpactReductionMultiplier>
-		<armourImpactReductionDivisor>5</armourImpactReductionDivisor>
+		<armourImpactReductionDivisor>3</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
 		<afterArmourDamageMultiplier>1</afterArmourDamageMultiplier>
