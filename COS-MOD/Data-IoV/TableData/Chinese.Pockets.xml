@@ -272,4 +272,16 @@
 		<pIndex>67</pIndex>
 		<pName>短步枪扎带</pName>
 	</POCKET>
+	<POCKET>
+		<pIndex>68</pIndex>
+		<pName>转轮手枪套</pName>
+	</POCKET>
+	<POCKET>
+		<pIndex>69</pIndex>
+		<pName>锁扣</pName>
+	</POCKET>
+	<POCKET>
+		<pIndex>70</pIndex>
+		<pName>枪管袋</pName>
+	</POCKET>
 </POCKETLIST>

@@ -284,7 +284,7 @@
 		<lbePocketIndex7>29</lbePocketIndex7>
 		<lbePocketIndex8>18</lbePocketIndex8>
 		<lbePocketIndex9>65</lbePocketIndex9>
-		<lbePocketIndex10>17</lbePocketIndex10>
+		<lbePocketIndex10>70</lbePocketIndex10>
 		<lbePocketIndex11>22</lbePocketIndex11>
 		<lbePocketIndex12>22</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
@@ -608,7 +608,7 @@
 		<lbePocketIndex7>14</lbePocketIndex7>
 		<lbePocketIndex8>14</lbePocketIndex8>
 		<lbePocketIndex9>14</lbePocketIndex9>
-		<lbePocketIndex10>0</lbePocketIndex10>
+		<lbePocketIndex10>70</lbePocketIndex10>
 		<lbePocketIndex11>22</lbePocketIndex11>
 		<lbePocketIndex12>22</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
@@ -2336,7 +2336,7 @@
 		<lbePocketIndex7>14</lbePocketIndex7>
 		<lbePocketIndex8>14</lbePocketIndex8>
 		<lbePocketIndex9>14</lbePocketIndex9>
-		<lbePocketIndex10>0</lbePocketIndex10>
+		<lbePocketIndex10>70</lbePocketIndex10>
 		<lbePocketIndex11>8</lbePocketIndex11>
 		<lbePocketIndex12>8</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
@@ -3311,5 +3311,239 @@
 		<lbePocketIndex10>0</lbePocketIndex10>
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
+	</LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>
+		<lbeIndex>184</lbeIndex> <!-- BAE Eclipse RBAV-SF -->
+		<lbeClass>2</lbeClass>
+		<lbeCombo>0</lbeCombo>
+		<lbeFilledSize>46</lbeFilledSize>
+		<lbePocketIndex1>51</lbePocketIndex1>
+		<lbePocketIndex2>51</lbePocketIndex2>
+		<lbePocketIndex3>51</lbePocketIndex3>
+		<lbePocketIndex4>51</lbePocketIndex4>
+		<lbePocketIndex5>51</lbePocketIndex5>
+		<lbePocketIndex6>35</lbePocketIndex6>
+		<lbePocketIndex7>35</lbePocketIndex7>
+		<lbePocketIndex8>35</lbePocketIndex8>
+		<lbePocketIndex9>51</lbePocketIndex9>
+		<lbePocketIndex10>51</lbePocketIndex10>
+		<lbePocketIndex11>52</lbePocketIndex11>
+		<lbePocketIndex12>52</lbePocketIndex12>
+	</LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>
+		<lbeIndex>185</lbeIndex> <!-- C2 FDP Backpack -->
+		<lbeClass>3</lbeClass>
+		<lbeCombo>0</lbeCombo>
+		<lbeFilledSize>46</lbeFilledSize>
+		<lbePocketIndex1>17</lbePocketIndex1>
+		<lbePocketIndex2>17</lbePocketIndex2>
+		<lbePocketIndex3>44</lbePocketIndex3>
+		<lbePocketIndex4>44</lbePocketIndex4>
+		<lbePocketIndex5>5</lbePocketIndex5>
+		<lbePocketIndex6>67</lbePocketIndex6>
+		<lbePocketIndex7>67</lbePocketIndex7>
+		<lbePocketIndex8>0</lbePocketIndex8>
+		<lbePocketIndex9>0</lbePocketIndex9>
+		<lbePocketIndex10>0</lbePocketIndex10>
+		<lbePocketIndex11>0</lbePocketIndex11>
+		<lbePocketIndex12>0</lbePocketIndex12>
+	</LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>
+		<lbeIndex>186</lbeIndex> <!-- Eagle YOTE Water Bag -->
+		<lbeClass>3</lbeClass>
+		<lbeCombo>1</lbeCombo>
+		<lbeFilledSize>46</lbeFilledSize>
+		<lbePocketIndex1>18</lbePocketIndex1>
+		<lbePocketIndex2>18</lbePocketIndex2>
+		<lbePocketIndex3>44</lbePocketIndex3>
+		<lbePocketIndex4>44</lbePocketIndex4>
+		<lbePocketIndex5>5</lbePocketIndex5>
+		<lbePocketIndex6>67</lbePocketIndex6>
+		<lbePocketIndex7>0</lbePocketIndex7>
+		<lbePocketIndex8>0</lbePocketIndex8>
+		<lbePocketIndex9>0</lbePocketIndex9>
+		<lbePocketIndex10>0</lbePocketIndex10>
+		<lbePocketIndex11>0</lbePocketIndex11>
+		<lbePocketIndex12>0</lbePocketIndex12>
+	</LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>
+		<lbeIndex>187</lbeIndex> <!-- CP StKSS -->
+		<lbeClass>2</lbeClass>
+		<lbeCombo>0</lbeCombo>
+		<lbeFilledSize>46</lbeFilledSize>
+		<lbePocketIndex1>51</lbePocketIndex1>
+		<lbePocketIndex2>51</lbePocketIndex2>
+		<lbePocketIndex3>51</lbePocketIndex3>
+		<lbePocketIndex4>51</lbePocketIndex4>
+		<lbePocketIndex5>51</lbePocketIndex5>
+		<lbePocketIndex6>33</lbePocketIndex6>
+		<lbePocketIndex7>33</lbePocketIndex7>
+		<lbePocketIndex8>51</lbePocketIndex8>
+		<lbePocketIndex9>51</lbePocketIndex9>
+		<lbePocketIndex10>51</lbePocketIndex10>
+		<lbePocketIndex11>52</lbePocketIndex11>
+		<lbePocketIndex12>52</lbePocketIndex12>
+	</LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>
+		<lbeIndex>188</lbeIndex> <!-- Type06 Body Armor -->
+		<lbeClass>2</lbeClass>
+		<lbeCombo>0</lbeCombo>
+		<lbeFilledSize>46</lbeFilledSize>
+		<lbePocketIndex1>51</lbePocketIndex1>
+		<lbePocketIndex2>51</lbePocketIndex2>
+		<lbePocketIndex3>51</lbePocketIndex3>
+		<lbePocketIndex4>51</lbePocketIndex4>
+		<lbePocketIndex5>51</lbePocketIndex5>
+		<lbePocketIndex6>51</lbePocketIndex6>
+		<lbePocketIndex7>51</lbePocketIndex7>
+		<lbePocketIndex8>51</lbePocketIndex8>
+		<lbePocketIndex9>51</lbePocketIndex9>
+		<lbePocketIndex10>51</lbePocketIndex10>
+		<lbePocketIndex11>52</lbePocketIndex11>
+		<lbePocketIndex12>52</lbePocketIndex12>
+	</LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>
+		<lbeIndex>189</lbeIndex> <!-- MOLLE 95AR Pouch -->
+		<lbeClass>1</lbeClass>
+		<lbeCombo>0</lbeCombo>
+		<lbeFilledSize>33</lbeFilledSize>
+		<lbePocketIndex1>30</lbePocketIndex1>
+		<lbePocketIndex2>30</lbePocketIndex2>
+		<lbePocketIndex3>0</lbePocketIndex3>
+		<lbePocketIndex4>0</lbePocketIndex4>
+		<lbePocketIndex5>0</lbePocketIndex5>
+		<lbePocketIndex6>0</lbePocketIndex6>
+		<lbePocketIndex7>0</lbePocketIndex7>
+		<lbePocketIndex8>0</lbePocketIndex8>
+		<lbePocketIndex9>0</lbePocketIndex9>
+		<lbePocketIndex10>0</lbePocketIndex10>
+		<lbePocketIndex11>0</lbePocketIndex11>
+		<lbePocketIndex12>0</lbePocketIndex12>
+	</LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>
+		<lbeIndex>190</lbeIndex> <!-- MOLLE 88SR Pouch -->
+		<lbeClass>1</lbeClass>
+		<lbeCombo>0</lbeCombo>
+		<lbeFilledSize>33</lbeFilledSize>
+		<lbePocketIndex1>32</lbePocketIndex1>
+		<lbePocketIndex2>32</lbePocketIndex2>
+		<lbePocketIndex3>0</lbePocketIndex3>
+		<lbePocketIndex4>0</lbePocketIndex4>
+		<lbePocketIndex5>0</lbePocketIndex5>
+		<lbePocketIndex6>0</lbePocketIndex6>
+		<lbePocketIndex7>0</lbePocketIndex7>
+		<lbePocketIndex8>0</lbePocketIndex8>
+		<lbePocketIndex9>0</lbePocketIndex9>
+		<lbePocketIndex10>0</lbePocketIndex10>
+		<lbePocketIndex11>0</lbePocketIndex11>
+		<lbePocketIndex12>0</lbePocketIndex12>
+	</LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>
+		<lbeIndex>191</lbeIndex> <!-- MOLLE 95LMG Pouch -->
+		<lbeClass>1</lbeClass>
+		<lbeCombo>0</lbeCombo>
+		<lbeFilledSize>33</lbeFilledSize>
+		<lbePocketIndex1>44</lbePocketIndex1>
+		<lbePocketIndex2>0</lbePocketIndex2>
+		<lbePocketIndex3>0</lbePocketIndex3>
+		<lbePocketIndex4>0</lbePocketIndex4>
+		<lbePocketIndex5>0</lbePocketIndex5>
+		<lbePocketIndex6>0</lbePocketIndex6>
+		<lbePocketIndex7>0</lbePocketIndex7>
+		<lbePocketIndex8>0</lbePocketIndex8>
+		<lbePocketIndex9>0</lbePocketIndex9>
+		<lbePocketIndex10>0</lbePocketIndex10>
+		<lbePocketIndex11>0</lbePocketIndex11>
+		<lbePocketIndex12>0</lbePocketIndex12>
+	</LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>
+		<lbeIndex>192</lbeIndex> <!-- MOLLE 92 Pouch -->
+		<lbeClass>1</lbeClass>
+		<lbeCombo>0</lbeCombo>
+		<lbeFilledSize>33</lbeFilledSize>
+		<lbePocketIndex1>15</lbePocketIndex1>
+		<lbePocketIndex2>15</lbePocketIndex2>
+		<lbePocketIndex3>0</lbePocketIndex3>
+		<lbePocketIndex4>0</lbePocketIndex4>
+		<lbePocketIndex5>0</lbePocketIndex5>
+		<lbePocketIndex6>0</lbePocketIndex6>
+		<lbePocketIndex7>0</lbePocketIndex7>
+		<lbePocketIndex8>0</lbePocketIndex8>
+		<lbePocketIndex9>0</lbePocketIndex9>
+		<lbePocketIndex10>0</lbePocketIndex10>
+		<lbePocketIndex11>0</lbePocketIndex11>
+		<lbePocketIndex12>0</lbePocketIndex12>
+	</LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>
+		<lbeIndex>193</lbeIndex> <!-- MOLLE QSZ92 Holster -->
+		<lbeClass>1</lbeClass>
+		<lbeCombo>0</lbeCombo>
+		<lbeFilledSize>33</lbeFilledSize>
+		<lbePocketIndex1>15</lbePocketIndex1>
+		<lbePocketIndex2>0</lbePocketIndex2>
+		<lbePocketIndex3>0</lbePocketIndex3>
+		<lbePocketIndex4>0</lbePocketIndex4>
+		<lbePocketIndex5>11</lbePocketIndex5>
+		<lbePocketIndex6>0</lbePocketIndex6>
+		<lbePocketIndex7>0</lbePocketIndex7>
+		<lbePocketIndex8>0</lbePocketIndex8>
+		<lbePocketIndex9>0</lbePocketIndex9>
+		<lbePocketIndex10>0</lbePocketIndex10>
+		<lbePocketIndex11>0</lbePocketIndex11>
+		<lbePocketIndex12>0</lbePocketIndex12>
+	</LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>
+		<lbeIndex>194</lbeIndex> <!-- MOLLE GP Pouch -->
+		<lbeClass>1</lbeClass>
+		<lbeCombo>0</lbeCombo>
+		<lbeFilledSize>40</lbeFilledSize>
+		<lbePocketIndex1>0</lbePocketIndex1>
+		<lbePocketIndex2>0</lbePocketIndex2>
+		<lbePocketIndex3>0</lbePocketIndex3>
+		<lbePocketIndex4>0</lbePocketIndex4>
+		<lbePocketIndex5>8</lbePocketIndex5>
+		<lbePocketIndex6>0</lbePocketIndex6>
+		<lbePocketIndex7>0</lbePocketIndex7>
+		<lbePocketIndex8>0</lbePocketIndex8>
+		<lbePocketIndex9>0</lbePocketIndex9>
+		<lbePocketIndex10>0</lbePocketIndex10>
+		<lbePocketIndex11>0</lbePocketIndex11>
+		<lbePocketIndex12>0</lbePocketIndex12>
+	</LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>
+		<lbeIndex>195</lbeIndex> <!-- MOLLE Canteen Pouch -->
+		<lbeClass>1</lbeClass>
+		<lbeCombo>0</lbeCombo>
+		<lbeFilledSize>33</lbeFilledSize>
+		<lbePocketIndex1>18</lbePocketIndex1>
+		<lbePocketIndex2>16</lbePocketIndex2>
+		<lbePocketIndex3>0</lbePocketIndex3>
+		<lbePocketIndex4>0</lbePocketIndex4>
+		<lbePocketIndex5>0</lbePocketIndex5>
+		<lbePocketIndex6>0</lbePocketIndex6>
+		<lbePocketIndex7>0</lbePocketIndex7>
+		<lbePocketIndex8>0</lbePocketIndex8>
+		<lbePocketIndex9>0</lbePocketIndex9>
+		<lbePocketIndex10>0</lbePocketIndex10>
+		<lbePocketIndex11>0</lbePocketIndex11>
+		<lbePocketIndex12>0</lbePocketIndex12>
+	</LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>
+		<lbeIndex>196</lbeIndex> <!-- PLA QBZ95-1 Shotgun Vest -->
+		<lbeClass>2</lbeClass>
+		<lbeCombo>0</lbeCombo>
+		<lbeFilledSize>46</lbeFilledSize>
+		<lbePocketIndex1>30</lbePocketIndex1>
+		<lbePocketIndex2>30</lbePocketIndex2>
+		<lbePocketIndex3>36</lbePocketIndex3>
+		<lbePocketIndex4>14</lbePocketIndex4>
+		<lbePocketIndex5>14</lbePocketIndex5>
+		<lbePocketIndex6>30</lbePocketIndex6>
+		<lbePocketIndex7>30</lbePocketIndex7>
+		<lbePocketIndex8>36</lbePocketIndex8>
+		<lbePocketIndex9>14</lbePocketIndex9>
+		<lbePocketIndex10>14</lbePocketIndex10>
+		<lbePocketIndex11>52</lbePocketIndex11>
+		<lbePocketIndex12>52</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 </LOADBEARINGEQUIPMENTLIST>
