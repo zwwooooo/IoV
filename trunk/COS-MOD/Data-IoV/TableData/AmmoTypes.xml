@@ -32,6 +32,8 @@
 		<lockBustingPower>0</lockBustingPower>
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
+		<temperatureModificator>0.0</temperatureModificator>
+		<PoisonPercentage>0</PoisonPercentage>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>1</uiIndex>
@@ -65,10 +67,11 @@
 		<lockBustingPower>0</lockBustingPower>
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
+		<temperatureModificator>-0.17</temperatureModificator>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>2</uiIndex>
-		<name>FMJ</name> <!-- Rifle Lead/Steel Core FMJ, Pistol Steel Core FMJ -->
+		<name>AP/FMJ</name> <!-- Rifle Lead/Steel Core FMJ, Pistol Steel Core FMJ -->
 		<fontColour>218</fontColour>
 		<grayed>8</grayed>
 		<offNormal>5</offNormal>
@@ -98,10 +101,11 @@
 		<lockBustingPower>0</lockBustingPower>
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
+		<temperatureModificator>0.13</temperatureModificator>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>3</uiIndex>
-		<name>EP</name> <!-- Rifle Extra Piercing, Pistol Armor Piercing -->
+		<name>SAP</name> <!-- Rifle Extra Piercing, Pistol Armor Piercing -->
 		<fontColour>163</fontColour>
 		<grayed>8</grayed>
 		<offNormal>5</offNormal>
@@ -131,6 +135,7 @@
 		<lockBustingPower>0</lockBustingPower>
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
+		<temperatureModificator>0.3</temperatureModificator>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>4</uiIndex>
@@ -164,6 +169,7 @@
 		<lockBustingPower>0</lockBustingPower>
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern>BuckshotSpread</spreadPattern>
+		<temperatureModificator>0.0</temperatureModificator>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>5</uiIndex>
@@ -197,6 +203,7 @@
 		<lockBustingPower>0</lockBustingPower>
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern>BuckshotSpread</spreadPattern>
+		<temperatureModificator>0.03</temperatureModificator>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>6</uiIndex>
@@ -230,6 +237,7 @@
 		<lockBustingPower>0</lockBustingPower>
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
+		<temperatureModificator>0.0</temperatureModificator>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>7</uiIndex>
@@ -263,6 +271,7 @@
 		<lockBustingPower>0</lockBustingPower>
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
+		<temperatureModificator>0.0</temperatureModificator>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>8</uiIndex>
@@ -296,6 +305,7 @@
 		<lockBustingPower>0</lockBustingPower>
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
+		<temperatureModificator>0.0</temperatureModificator>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>9</uiIndex>
@@ -329,6 +339,7 @@
 		<lockBustingPower>0</lockBustingPower>
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
+		<temperatureModificator>0.15</temperatureModificator>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>10</uiIndex>
@@ -362,6 +373,7 @@
 		<lockBustingPower>0</lockBustingPower>
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
+		<temperatureModificator>0.3</temperatureModificator>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>11</uiIndex>
@@ -395,6 +407,7 @@
 		<lockBustingPower>0</lockBustingPower>
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
+		<temperatureModificator>0.04</temperatureModificator>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>12</uiIndex>
@@ -428,6 +441,7 @@
 		<lockBustingPower>0</lockBustingPower>
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
+		<temperatureModificator>0.5</temperatureModificator>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>13</uiIndex>
@@ -461,6 +475,7 @@
 		<lockBustingPower>0</lockBustingPower>
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
+		<temperatureModificator>-0.04</temperatureModificator>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>14</uiIndex>
@@ -494,6 +509,7 @@
 		<lockBustingPower>0</lockBustingPower>
 		<tracerEffect>1</tracerEffect>
 		<spreadPattern />
+		<temperatureModificator>0.35</temperatureModificator>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>15</uiIndex>
@@ -527,6 +543,7 @@
 		<lockBustingPower>0</lockBustingPower>
 		<tracerEffect>1</tracerEffect>
 		<spreadPattern />
+		<temperatureModificator>0.05</temperatureModificator>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>16</uiIndex>
@@ -560,6 +577,7 @@
 		<lockBustingPower>0</lockBustingPower>
 		<tracerEffect>1</tracerEffect>
 		<spreadPattern />
+		<temperatureModificator>0.07</temperatureModificator>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>17</uiIndex>
@@ -593,6 +611,7 @@
 		<lockBustingPower>0</lockBustingPower>
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
+		<temperatureModificator>0.09</temperatureModificator>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>18</uiIndex>
@@ -626,6 +645,7 @@
 		<lockBustingPower>0</lockBustingPower>
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
+		<temperatureModificator>0.18</temperatureModificator>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>19</uiIndex>
@@ -659,6 +679,7 @@
 		<lockBustingPower>0</lockBustingPower>
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
+		<temperatureModificator>0.2</temperatureModificator>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>20</uiIndex>
@@ -692,6 +713,7 @@
 		<lockBustingPower>0</lockBustingPower>
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
+		<temperatureModificator>-0.1</temperatureModificator>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>21</uiIndex>
@@ -725,6 +747,7 @@
 		<lockBustingPower>0</lockBustingPower>
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
+		<temperatureModificator>0.04</temperatureModificator>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>22</uiIndex>
@@ -758,6 +781,7 @@
 		<lockBustingPower>0</lockBustingPower>
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
+		<temperatureModificator>0.01</temperatureModificator>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>23</uiIndex>
@@ -791,6 +815,7 @@
 		<lockBustingPower>0</lockBustingPower>
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
+		<temperatureModificator>0.05</temperatureModificator>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>24</uiIndex>
@@ -824,6 +849,7 @@
 		<lockBustingPower>0</lockBustingPower>
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
+		<temperatureModificator>0.13</temperatureModificator>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>25</uiIndex>
@@ -857,6 +883,7 @@
 		<lockBustingPower>0</lockBustingPower>
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
+		<temperatureModificator>0.16</temperatureModificator>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>26</uiIndex>
@@ -890,6 +917,7 @@
 		<lockBustingPower>0</lockBustingPower>
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
+		<temperatureModificator>0.35</temperatureModificator>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>27</uiIndex>
@@ -923,6 +951,7 @@
 		<lockBustingPower>0</lockBustingPower>
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern>DuplexSpread</spreadPattern>
+		<temperatureModificator>0.2</temperatureModificator>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>28</uiIndex>
@@ -956,6 +985,7 @@
 		<lockBustingPower>0</lockBustingPower>
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
+		<temperatureModificator>0.1</temperatureModificator>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>29</uiIndex>
@@ -989,6 +1019,7 @@
 		<lockBustingPower>0</lockBustingPower>
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern>FlechetteSpread</spreadPattern>
+		<temperatureModificator>0.03</temperatureModificator>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>30</uiIndex>
@@ -1022,6 +1053,7 @@
 		<lockBustingPower>0</lockBustingPower>
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
+		<temperatureModificator>0.08</temperatureModificator>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>31</uiIndex>
@@ -1055,6 +1087,7 @@
 		<lockBustingPower>100</lockBustingPower>
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
+		<temperatureModificator>0.06</temperatureModificator>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>32</uiIndex>
@@ -1088,6 +1121,7 @@
 		<lockBustingPower>0</lockBustingPower>
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
+		<temperatureModificator>-0.03</temperatureModificator>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>33</uiIndex>
@@ -1121,6 +1155,7 @@
 		<lockBustingPower>0</lockBustingPower>
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
+		<temperatureModificator>0.3</temperatureModificator>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>34</uiIndex>
@@ -1154,6 +1189,7 @@
 		<lockBustingPower>0</lockBustingPower>
 		<tracerEffect>1</tracerEffect>
 		<spreadPattern />
+		<temperatureModificator>0.0</temperatureModificator>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>35</uiIndex>
@@ -1187,6 +1223,7 @@
 		<lockBustingPower>0</lockBustingPower>
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
+		<temperatureModificator>0.1</temperatureModificator>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>36</uiIndex>
@@ -1220,6 +1257,7 @@
 		<lockBustingPower>0</lockBustingPower>
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern>FlechetteSpread</spreadPattern>
+		<temperatureModificator>0.03</temperatureModificator>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>37</uiIndex>
@@ -1253,6 +1291,7 @@
 		<lockBustingPower>0</lockBustingPower>
 		<tracerEffect>1</tracerEffect>
 		<spreadPattern>DuplexSpread</spreadPattern>
+		<temperatureModificator>0.13</temperatureModificator>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>38</uiIndex>
@@ -1286,6 +1325,7 @@
 		<lockBustingPower>0</lockBustingPower>
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
+		<temperatureModificator>-0.3</temperatureModificator>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>39</uiIndex>
@@ -1319,6 +1359,7 @@
 		<lockBustingPower>0</lockBustingPower>
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
+		<temperatureModificator>0.15</temperatureModificator>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>40</uiIndex>
@@ -1352,6 +1393,7 @@
 		<lockBustingPower>0</lockBustingPower>
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
+		<temperatureModificator>0.0</temperatureModificator>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>41</uiIndex>
@@ -1385,5 +1427,6 @@
 		<lockBustingPower>0</lockBustingPower>
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
+		<temperatureModificator>0.06</temperatureModificator>
 	</AMMOTYPE>
 </AMMOTYPELIST>

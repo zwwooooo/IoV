@@ -264,4 +264,8 @@
 		<id>65</id>
 		<name>Carabiner</name>
 	</Silhouette>
+	<Silhouette>
+		<id>66</id>
+		<name>Barrel</name>
+	</Silhouette>
 </JA2Data>

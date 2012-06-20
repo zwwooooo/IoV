@@ -340,4 +340,14 @@
 		<fMultiShot>1</fMultiShot>
 		<fBigSlot>1</fBigSlot>
 	</ATTACHMENTSLOT>
+	<ATTACHMENTSLOT>
+		<uiSlotIndex>34</uiSlotIndex>
+		<szSlotName>Muzzle Device</szSlotName>
+		<nasAttachmentClass>16384</nasAttachmentClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<usDescPanelPosX>10</usDescPanelPosX>
+		<usDescPanelPosY>50</usDescPanelPosY>
+		<fMultiShot>0</fMultiShot>
+		<fBigSlot>0</fBigSlot>
+	</ATTACHMENTSLOT>
 </ATTACHMENTSLOTLIST>

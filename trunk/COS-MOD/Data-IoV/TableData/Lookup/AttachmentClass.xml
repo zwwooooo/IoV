@@ -60,4 +60,8 @@
 		<id>8192</id>
 		<name>Rail</name>
 	</AttachmentClass>
+	<AttachmentClass>
+		<id>16384</id>
+		<name>Muzzle Device</name>
+	</AttachmentClass>
 </JA2Data>
