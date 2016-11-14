@@ -59,6 +59,10 @@ PercentRangeBonus 是 IoV92x 时期源码实现“按百分比加成”的 IoV �
 ; Changelog：
 ;==============================================================================================================================
 
+= Continue Version =
+
+* https://github.com/zwwooooo/IoV-Revised/commits/master
+
 = 929v000 =
 
 * IoV Revised 初版

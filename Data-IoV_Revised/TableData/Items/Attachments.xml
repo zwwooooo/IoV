@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ATTACHMENTLIST>
 	<ATTACHMENT>
-		<attachmentIndex>50</attachmentIndex> <!-- M203 -->
+		<attachmentIndex>50</attachmentIndex>
 		<itemIndex>1072</itemIndex>
 		<APCost>50</APCost>
 		<NASOnly>0</NASOnly>
@@ -52,7 +52,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>128</attachmentIndex> <!-- TangoDown Vertical Grip -->
+		<attachmentIndex>128</attachmentIndex>
 		<itemIndex>619</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -1049,7 +1049,7 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>160</attachmentIndex> <!-- Tactical Handguard Long -->
+		<attachmentIndex>160</attachmentIndex>
 		<itemIndex>21</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -1144,7 +1144,7 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>183</attachmentIndex> <!-- SAPI III Plates -->
+		<attachmentIndex>183</attachmentIndex>
 		<itemIndex>161</itemIndex>
 		<APCost>35</APCost>
 	</ATTACHMENT>
@@ -1389,7 +1389,7 @@
 		<APCost>35</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>207</attachmentIndex> <!-- Pistol Supp. -->
+		<attachmentIndex>207</attachmentIndex>
 		<itemIndex>1</itemIndex>
 		<APCost>30</APCost>
 	</ATTACHMENT>
@@ -2564,7 +2564,7 @@
 		<APCost>30</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>208</attachmentIndex> <!-- 3-10x Scope (10x) -->
+		<attachmentIndex>208</attachmentIndex>
 		<itemIndex>19</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -2890,7 +2890,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>209</attachmentIndex> <!-- Bipod -->
+		<attachmentIndex>209</attachmentIndex>
 		<itemIndex>20</itemIndex>
 		<APCost>25</APCost>
 	</ATTACHMENT>
@@ -3945,7 +3945,7 @@
 		<APCost>25</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>211</attachmentIndex> <!-- NVG I -->
+		<attachmentIndex>211</attachmentIndex>
 		<itemIndex>176</itemIndex>
 		<APCost>16</APCost>
 	</ATTACHMENT>
@@ -4095,7 +4095,7 @@
 		<APCost>16</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>212</attachmentIndex> <!-- Sun Goggles -->
+		<attachmentIndex>212</attachmentIndex>
 		<itemIndex>176</itemIndex>
 		<APCost>16</APCost>
 	</ATTACHMENT>
@@ -4245,7 +4245,7 @@
 		<APCost>16</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>223</attachmentIndex> <!-- Detonator -->
+		<attachmentIndex>223</attachmentIndex>
 		<itemIndex>137</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -4270,7 +4270,7 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>224</attachmentIndex> <!-- Remote Detonator -->
+		<attachmentIndex>224</attachmentIndex>
 		<itemIndex>137</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -4295,7 +4295,7 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>241</attachmentIndex> <!-- Laser Sight -->
+		<attachmentIndex>241</attachmentIndex>
 		<itemIndex>1</itemIndex>
 		<APCost>35</APCost>
 	</ATTACHMENT>
@@ -7760,7 +7760,7 @@
 		<APCost>35</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>244</attachmentIndex> <!-- Duckbill -->
+		<attachmentIndex>244</attachmentIndex>
 		<itemIndex>31</itemIndex>
 		<APCost>30</APCost>
 	</ATTACHMENT>
@@ -7975,7 +7975,7 @@
 		<APCost>30</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>246</attachmentIndex> <!-- NVG II -->
+		<attachmentIndex>246</attachmentIndex>
 		<itemIndex>176</itemIndex>
 		<APCost>16</APCost>
 	</ATTACHMENT>
@@ -8135,7 +8135,7 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>307</attachmentIndex> <!-- Rod & Spring -->
+		<attachmentIndex>307</attachmentIndex>
 		<itemIndex>14</itemIndex>
 		<APCost>85</APCost>
 	</ATTACHMENT>
@@ -8695,7 +8695,7 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>310</attachmentIndex> <!-- Gun Barrel Extender -->
+		<attachmentIndex>310</attachmentIndex>
 		<itemIndex>9</itemIndex>
 		<APCost>95</APCost>
 	</ATTACHMENT>
@@ -9380,7 +9380,7 @@
 		<APCost>95</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>316</attachmentIndex> <!-- Copper Wire -->
+		<attachmentIndex>316</attachmentIndex>
 		<itemIndex>264</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -9405,7 +9405,7 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>592</attachmentIndex> <!-- AK FlashHide -->
+		<attachmentIndex>592</attachmentIndex>
 		<itemIndex>26</itemIndex>
 		<APCost>30</APCost>
 	</ATTACHMENT>
@@ -9565,7 +9565,7 @@
 		<APCost>30</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>594</attachmentIndex> <!-- KCB Knife -->
+		<attachmentIndex>594</attachmentIndex>
 		<itemIndex>20</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -9705,7 +9705,12 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>801</attachmentIndex> <!-- 3-10x Scope (3x) -->
+		<attachmentIndex>594</attachmentIndex>
+		<itemIndex>653</itemIndex>
+		<APCost>20</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>801</attachmentIndex>
 		<itemIndex>19</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -10031,7 +10036,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>802</attachmentIndex> <!-- 4.5-16x Scope  -->
+		<attachmentIndex>802</attachmentIndex>
 		<itemIndex>618</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -10206,7 +10211,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>803</attachmentIndex> <!-- China AMR Sight (7x) -->
+		<attachmentIndex>803</attachmentIndex>
 		<itemIndex>940</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -10231,7 +10236,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>804</attachmentIndex> <!-- POS 13x Scope (7x) -->
+		<attachmentIndex>804</attachmentIndex>
 		<itemIndex>697</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -10246,7 +10251,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>805</attachmentIndex> <!-- China 9x (3x) -->
+		<attachmentIndex>805</attachmentIndex>
 		<itemIndex>1118</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -10276,7 +10281,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>806</attachmentIndex> <!-- 1P21 Minuta (3x) -->
+		<attachmentIndex>806</attachmentIndex>
 		<itemIndex>18</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -10351,7 +10356,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>807</attachmentIndex> <!-- 1P70 (3x) -->
+		<attachmentIndex>807</attachmentIndex>
 		<itemIndex>682</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -10381,7 +10386,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>818</attachmentIndex> <!-- French CCE Camo Shirt -->
+		<attachmentIndex>818</attachmentIndex>
 		<itemIndex>161</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -10461,7 +10466,7 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>821</attachmentIndex> <!-- DPM Desert Camo Shirt -->
+		<attachmentIndex>821</attachmentIndex>
 		<itemIndex>161</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -10551,7 +10556,7 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>836</attachmentIndex> <!-- Russian Steel Plate -->
+		<attachmentIndex>836</attachmentIndex>
 		<itemIndex>834</itemIndex>
 		<APCost>60</APCost>
 	</ATTACHMENT>
@@ -10571,7 +10576,7 @@
 		<APCost>60</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>837</attachmentIndex> <!-- Titanium Plating -->
+		<attachmentIndex>837</attachmentIndex>
 		<itemIndex>164</itemIndex>
 		<APCost>35</APCost>
 	</ATTACHMENT>
@@ -10651,7 +10656,7 @@
 		<APCost>35</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>838</attachmentIndex> <!-- Leg Protectors -->
+		<attachmentIndex>838</attachmentIndex>
 		<itemIndex>825</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -10786,7 +10791,7 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>884</attachmentIndex> <!-- Soft Balistic Insert -->
+		<attachmentIndex>884</attachmentIndex>
 		<itemIndex>852</itemIndex>
 		<APCost>80</APCost>
 	</ATTACHMENT>
@@ -10806,7 +10811,7 @@
 		<APCost>80</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>885</attachmentIndex> <!-- Camo Helmet Cover Mk.I -->
+		<attachmentIndex>885</attachmentIndex>
 		<itemIndex>176</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -10866,7 +10871,7 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>886</attachmentIndex> <!-- Camo Helmet Cover Mk.II -->
+		<attachmentIndex>886</attachmentIndex>
 		<itemIndex>176</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -10926,7 +10931,7 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>891</attachmentIndex> <!-- Ghillie Jacket -->
+		<attachmentIndex>891</attachmentIndex>
 		<itemIndex>161</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -11036,7 +11041,7 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>897</attachmentIndex> <!-- BEKAS Jacket -->
+		<attachmentIndex>897</attachmentIndex>
 		<itemIndex>161</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -11136,12 +11141,12 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>900</attachmentIndex> <!-- MRD -->
+		<attachmentIndex>900</attachmentIndex>
 		<itemIndex>1004</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>902</attachmentIndex> <!-- M203PI -->
+		<attachmentIndex>902</attachmentIndex>
 		<itemIndex>12</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -11466,7 +11471,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>904</attachmentIndex> <!-- GP-30 -->
+		<attachmentIndex>904</attachmentIndex>
 		<itemIndex>25</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -11681,7 +11686,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>905</attachmentIndex> <!-- AG-C -->
+		<attachmentIndex>905</attachmentIndex>
 		<itemIndex>23</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -11956,7 +11961,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>909</attachmentIndex> <!-- AICW Launcher -->
+		<attachmentIndex>909</attachmentIndex>
 		<itemIndex>605</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -11966,12 +11971,12 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>910</attachmentIndex> <!-- F2000 Launcher -->
+		<attachmentIndex>910</attachmentIndex>
 		<itemIndex>646</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>911</attachmentIndex> <!-- GP-30 Launcher -->
+		<attachmentIndex>911</attachmentIndex>
 		<itemIndex>659</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -12001,7 +12006,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>912</attachmentIndex> <!-- OICW Launcher -->
+		<attachmentIndex>912</attachmentIndex>
 		<itemIndex>748</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -12011,7 +12016,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>913</attachmentIndex> <!-- HK 79 Launcher -->
+		<attachmentIndex>913</attachmentIndex>
 		<itemIndex>21</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -12091,7 +12096,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>921</attachmentIndex> <!-- FN EGLM Grenade Launcher -->
+		<attachmentIndex>921</attachmentIndex>
 		<itemIndex>1122</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -12191,7 +12196,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>922</attachmentIndex> <!-- AG-C Grenade Launcher -->
+		<attachmentIndex>922</attachmentIndex>
 		<itemIndex>1064</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -12216,7 +12221,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>923</attachmentIndex> <!-- VG-70 GL -->
+		<attachmentIndex>923</attachmentIndex>
 		<itemIndex>708</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -12231,7 +12236,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>925</attachmentIndex> <!-- MS UGL -->
+		<attachmentIndex>925</attachmentIndex>
 		<itemIndex>632</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -12476,7 +12481,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>927</attachmentIndex> <!-- MPM-RAW -->
+		<attachmentIndex>927</attachmentIndex>
 		<itemIndex>23</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -12511,7 +12516,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>928</attachmentIndex> <!-- BS-1 Grenade Launcher -->
+		<attachmentIndex>928</attachmentIndex>
 		<itemIndex>1313</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -12531,12 +12536,12 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>929</attachmentIndex> <!-- XM148 -->
+		<attachmentIndex>929</attachmentIndex>
 		<itemIndex>2477</itemIndex>
 		<APCost>35</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>930</attachmentIndex> <!-- XM148 Built-in -->
+		<attachmentIndex>930</attachmentIndex>
 		<itemIndex>1233</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -12556,12 +12561,12 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>932</attachmentIndex> <!-- LG1-I Launcher -->
+		<attachmentIndex>932</attachmentIndex>
 		<itemIndex>1342</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>945</attachmentIndex> <!-- UltiMAK Rail Short Kit -->
+		<attachmentIndex>945</attachmentIndex>
 		<itemIndex>347</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -12856,7 +12861,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>946</attachmentIndex> <!-- Magpul AFG -->
+		<attachmentIndex>946</attachmentIndex>
 		<itemIndex>632</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -13461,7 +13466,7 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>947</attachmentIndex> <!-- AN/PEQ-16A -->
+		<attachmentIndex>947</attachmentIndex>
 		<itemIndex>619</itemIndex>
 		<APCost>35</APCost>
 	</ATTACHMENT>
@@ -14663,7 +14668,7 @@
 		<APCost>35</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>948</attachmentIndex> <!-- HK Aimpoint Projector -->
+		<attachmentIndex>948</attachmentIndex>
 		<itemIndex>9</itemIndex>
 		<APCost>35</APCost>
 	</ATTACHMENT>
@@ -14913,7 +14918,7 @@
 		<APCost>35</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>949</attachmentIndex> <!-- CORSAK Laser PRO AP -->
+		<attachmentIndex>949</attachmentIndex>
 		<itemIndex>14</itemIndex>
 		<APCost>35</APCost>
 	</ATTACHMENT>
@@ -16108,7 +16113,7 @@
 		<APCost>35</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>950</attachmentIndex> <!-- AN/PEQ-2 ITP -->
+		<attachmentIndex>950</attachmentIndex>
 		<itemIndex>12</itemIndex>
 		<APCost>35</APCost>
 	</ATTACHMENT>
@@ -17428,7 +17433,7 @@
 		<APCost>35</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>966</attachmentIndex> <!-- Rail for Sniper Rifle -->
+		<attachmentIndex>966</attachmentIndex>
 		<itemIndex>19</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -17543,7 +17548,7 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>967</attachmentIndex> <!-- QD FlashHide -->
+		<attachmentIndex>967</attachmentIndex>
 		<itemIndex>619</itemIndex>
 		<APCost>30</APCost>
 	</ATTACHMENT>
@@ -18193,7 +18198,7 @@
 		<APCost>30</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>968</attachmentIndex> <!-- QD MuzzleBrake -->
+		<attachmentIndex>968</attachmentIndex>
 		<itemIndex>619</itemIndex>
 		<APCost>30</APCost>
 	</ATTACHMENT>
@@ -18443,7 +18448,7 @@
 		<APCost>30</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>969</attachmentIndex> <!-- Q.D. Suppressor -->
+		<attachmentIndex>969</attachmentIndex>
 		<itemIndex>967</itemIndex>
 		<APCost>5</APCost>
 		<NASOnly>1</NASOnly>
@@ -18455,7 +18460,7 @@
 		<NASOnly>1</NASOnly>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>993</attachmentIndex> <!-- M14 Scope Mount -->
+		<attachmentIndex>993</attachmentIndex>
 		<itemIndex>22</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -18505,7 +18510,7 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>994</attachmentIndex> <!-- Picatinny Rail for Dovetail -->
+		<attachmentIndex>994</attachmentIndex>
 		<itemIndex>24</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -18735,7 +18740,7 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>995</attachmentIndex> <!-- Mini Scope Mount -->
+		<attachmentIndex>995</attachmentIndex>
 		<itemIndex>10</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -19020,7 +19025,7 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>996</attachmentIndex> <!-- Russian Dual Sight -->
+		<attachmentIndex>996</attachmentIndex>
 		<itemIndex>601</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -19277,7 +19282,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>997</attachmentIndex> <!-- KX3 FlashHide -->
+		<attachmentIndex>997</attachmentIndex>
 		<itemIndex>648</itemIndex>
 		<APCost>30</APCost>
 	</ATTACHMENT>
@@ -19777,7 +19782,7 @@
 		<APCost>30</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>998</attachmentIndex> <!-- Kobra -->
+		<attachmentIndex>998</attachmentIndex>
 		<itemIndex>14</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -20352,7 +20357,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>999</attachmentIndex> <!-- PSO-1 -->
+		<attachmentIndex>999</attachmentIndex>
 		<itemIndex>14</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -20847,7 +20852,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1000</attachmentIndex> <!-- PSO-P -->
+		<attachmentIndex>1000</attachmentIndex>
 		<itemIndex>18</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -20917,7 +20922,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1001</attachmentIndex> <!-- 5.56mm C-Mag Adapter -->
+		<attachmentIndex>1001</attachmentIndex>
 		<itemIndex>12</itemIndex>
 		<APCost>10</APCost>
 	</ATTACHMENT>
@@ -21597,7 +21602,7 @@
 		<APCost>10</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1002</attachmentIndex> <!-- 9mm C-Mag Adapter -->
+		<attachmentIndex>1002</attachmentIndex>
 		<itemIndex>9</itemIndex>
 		<APCost>10</APCost>
 	</ATTACHMENT>
@@ -21747,7 +21752,7 @@
 		<APCost>10</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1003</attachmentIndex> <!-- FlashHide -->
+		<attachmentIndex>1003</attachmentIndex>
 		<itemIndex>10</itemIndex>
 		<APCost>30</APCost>
 	</ATTACHMENT>
@@ -25322,7 +25327,7 @@
 		<APCost>30</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1004</attachmentIndex> <!-- ACOG-ECOS -->
+		<attachmentIndex>1004</attachmentIndex>
 		<itemIndex>20</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -26646,7 +26651,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1005</attachmentIndex> <!-- LAM-200 -->
+		<attachmentIndex>1005</attachmentIndex>
 		<itemIndex>1</itemIndex>
 		<APCost>35</APCost>
 	</ATTACHMENT>
@@ -29059,7 +29064,7 @@
 		<APCost>35</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1006</attachmentIndex> <!-- RMR Reflex Sight -->
+		<attachmentIndex>1006</attachmentIndex>
 		<itemIndex>1</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -30624,7 +30629,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1007</attachmentIndex> <!-- Battle Scope -->
+		<attachmentIndex>1007</attachmentIndex>
 		<itemIndex>20</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -31555,7 +31560,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1008</attachmentIndex> <!-- Folding Stock -->
+		<attachmentIndex>1008</attachmentIndex>
 		<itemIndex>765</itemIndex>
 		<APCost>85</APCost>
 	</ATTACHMENT>
@@ -31565,7 +31570,7 @@
 		<APCost>85</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1009</attachmentIndex> <!-- Retractable Stock -->
+		<attachmentIndex>1009</attachmentIndex>
 		<itemIndex>764</itemIndex>
 		<APCost>85</APCost>
 	</ATTACHMENT>
@@ -31580,7 +31585,7 @@
 		<APCost>85</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1010</attachmentIndex> <!-- Wood Foregrip -->
+		<attachmentIndex>1010</attachmentIndex>
 		<itemIndex>11</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -31805,7 +31810,7 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1011</attachmentIndex> <!-- Vertical Foregrip -->
+		<attachmentIndex>1011</attachmentIndex>
 		<itemIndex>23</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -33192,7 +33197,7 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1012</attachmentIndex> <!-- AR Supp. -->
+		<attachmentIndex>1012</attachmentIndex>
 		<itemIndex>12</itemIndex>
 		<APCost>30</APCost>
 	</ATTACHMENT>
@@ -35117,7 +35122,7 @@
 		<APCost>30</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1024</attachmentIndex> <!-- NVG III -->
+		<attachmentIndex>1024</attachmentIndex>
 		<itemIndex>176</itemIndex>
 		<APCost>16</APCost>
 	</ATTACHMENT>
@@ -35267,7 +35272,7 @@
 		<APCost>16</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1025</attachmentIndex> <!-- NVG IV -->
+		<attachmentIndex>1025</attachmentIndex>
 		<itemIndex>839</itemIndex>
 		<APCost>16</APCost>
 	</ATTACHMENT>
@@ -35322,7 +35327,7 @@
 		<APCost>16</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1026</attachmentIndex> <!-- Trigger Group -->
+		<attachmentIndex>1026</attachmentIndex>
 		<itemIndex>14</itemIndex>
 		<APCost>85</APCost>
 	</ATTACHMENT>
@@ -36582,7 +36587,7 @@
 		<APCost>85</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1029</attachmentIndex> <!-- Small Scope, 2x -->
+		<attachmentIndex>1029</attachmentIndex>
 		<itemIndex>6</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -37542,7 +37547,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1030</attachmentIndex> <!-- ACOG TA11 -->
+		<attachmentIndex>1030</attachmentIndex>
 		<itemIndex>20</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -38828,7 +38833,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1031</attachmentIndex> <!-- 556 35 C-Mag Adapter -->
+		<attachmentIndex>1031</attachmentIndex>
 		<itemIndex>13</itemIndex>
 		<APCost>10</APCost>
 	</ATTACHMENT>
@@ -38883,7 +38888,7 @@
 		<APCost>10</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1032</attachmentIndex> <!-- 762 20 XS DRUM Adapter -->
+		<attachmentIndex>1032</attachmentIndex>
 		<itemIndex>27</itemIndex>
 		<APCost>10</APCost>
 	</ATTACHMENT>
@@ -39148,7 +39153,7 @@
 		<APCost>10</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1033</attachmentIndex> <!-- 762 25 XS DRUM Adapter -->
+		<attachmentIndex>1033</attachmentIndex>
 		<itemIndex>655</itemIndex>
 		<APCost>10</APCost>
 	</ATTACHMENT>
@@ -39188,7 +39193,7 @@
 		<APCost>10</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1034</attachmentIndex> <!-- 762 30 XS DRUM Adapter -->
+		<attachmentIndex>1034</attachmentIndex>
 		<itemIndex>1212</itemIndex>
 		<APCost>10</APCost>
 	</ATTACHMENT>
@@ -39208,7 +39213,7 @@
 		<APCost>10</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1035</attachmentIndex> <!-- Mauser Trench Magazine -->
+		<attachmentIndex>1035</attachmentIndex>
 		<itemIndex>776</itemIndex>
 		<APCost>80</APCost>
 	</ATTACHMENT>
@@ -39218,7 +39223,7 @@
 		<APCost>80</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1036</attachmentIndex> <!-- 12Ga Drum Adapter -->
+		<attachmentIndex>1036</attachmentIndex>
 		<itemIndex>340</itemIndex>
 		<APCost>10</APCost>
 	</ATTACHMENT>
@@ -39238,7 +39243,7 @@
 		<APCost>10</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1037</attachmentIndex> <!-- 9mm C-Mag Adapter, 32 -->
+		<attachmentIndex>1037</attachmentIndex>
 		<itemIndex>330</itemIndex>
 		<APCost>10</APCost>
 	</ATTACHMENT>
@@ -39348,7 +39353,7 @@
 		<APCost>10</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1038</attachmentIndex> <!-- .223 Drum 30rds Adapter -->
+		<attachmentIndex>1038</attachmentIndex>
 		<itemIndex>22</itemIndex>
 		<APCost>10</APCost>
 	</ATTACHMENT>
@@ -39443,7 +39448,7 @@
 		<APCost>10</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1039</attachmentIndex> <!-- Big Calibre MWG90 Drum Adapter -->
+		<attachmentIndex>1039</attachmentIndex>
 		<itemIndex>760</itemIndex>
 		<APCost>10</APCost>
 	</ATTACHMENT>
@@ -39458,7 +39463,7 @@
 		<APCost>10</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1040</attachmentIndex> <!-- DIY Foregrip -->
+		<attachmentIndex>1040</attachmentIndex>
 		<itemIndex>12</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -39638,12 +39643,12 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1052</attachmentIndex> <!-- SPAS-12 Underbarrel -->
+		<attachmentIndex>1052</attachmentIndex>
 		<itemIndex>2165</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1195</attachmentIndex> <!-- FN EX13 EGLM -->
+		<attachmentIndex>1195</attachmentIndex>
 		<itemIndex>1310</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -39663,7 +39668,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1328</attachmentIndex> <!-- KAC Masterkey -->
+		<attachmentIndex>1328</attachmentIndex>
 		<itemIndex>23</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -39713,7 +39718,7 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1581</attachmentIndex> <!-- Rifle Grenade Device -->
+		<attachmentIndex>1581</attachmentIndex>
 		<itemIndex>17</itemIndex>
 		<APCost>30</APCost>
 	</ATTACHMENT>
@@ -39798,12 +39803,12 @@
 		<APCost>30</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1641</attachmentIndex> <!-- PN 30mm GL -->
+		<attachmentIndex>1641</attachmentIndex>
 		<itemIndex>1308</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1684</attachmentIndex> <!-- AK Bayonet -->
+		<attachmentIndex>1684</attachmentIndex>
 		<itemIndex>18</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -39933,7 +39938,7 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1685</attachmentIndex> <!-- M9 Bayonet -->
+		<attachmentIndex>1685</attachmentIndex>
 		<itemIndex>23</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -40038,18 +40043,13 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1686</attachmentIndex> <!-- British Bayonet -->
+		<attachmentIndex>1686</attachmentIndex>
 		<itemIndex>28</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
 		<attachmentIndex>1686</attachmentIndex>
 		<itemIndex>331</itemIndex>
-		<APCost>20</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>594</attachmentIndex>
-		<itemIndex>653</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
@@ -40068,7 +40068,7 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1694</attachmentIndex> <!-- Bayonet -->
+		<attachmentIndex>1694</attachmentIndex>
 		<itemIndex>17</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -40258,7 +40258,7 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1700</attachmentIndex> <!-- Underarmor Shirt -->
+		<attachmentIndex>1700</attachmentIndex>
 		<itemIndex>161</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -40393,7 +40393,7 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1701</attachmentIndex> <!-- Wood Camo Helmet Cover -->
+		<attachmentIndex>1701</attachmentIndex>
 		<itemIndex>176</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -40453,7 +40453,12 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1702</attachmentIndex> <!-- Wood Camo Uniform -->
+		<attachmentIndex>1701</attachmentIndex>
+		<itemIndex>2521</itemIndex>
+		<APCost>20</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1702</attachmentIndex>
 		<itemIndex>161</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -40583,7 +40588,7 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1703</attachmentIndex> <!-- Wood Camo Pants -->
+		<attachmentIndex>1703</attachmentIndex>
 		<itemIndex>170</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -40623,7 +40628,7 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1704</attachmentIndex> <!-- Desert Camo Helmet Cover -->
+		<attachmentIndex>1704</attachmentIndex>
 		<itemIndex>176</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -40683,7 +40688,7 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1705</attachmentIndex> <!-- Desert Camo Uniform -->
+		<attachmentIndex>1705</attachmentIndex>
 		<itemIndex>161</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -40813,7 +40818,7 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1706</attachmentIndex> <!-- Desert Camo Pants -->
+		<attachmentIndex>1706</attachmentIndex>
 		<itemIndex>170</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -40853,7 +40858,7 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1707</attachmentIndex> <!-- Urban Camo Helmet Cover -->
+		<attachmentIndex>1707</attachmentIndex>
 		<itemIndex>176</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -40913,7 +40918,7 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1708</attachmentIndex> <!-- Urban Camo Uniform -->
+		<attachmentIndex>1708</attachmentIndex>
 		<itemIndex>161</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -41043,7 +41048,7 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1709</attachmentIndex> <!-- Urban Camo Pants -->
+		<attachmentIndex>1709</attachmentIndex>
 		<itemIndex>170</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -41083,7 +41088,7 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1710</attachmentIndex> <!-- Snow Camo Helmet Cover -->
+		<attachmentIndex>1710</attachmentIndex>
 		<itemIndex>176</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -41143,7 +41148,7 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1711</attachmentIndex> <!-- Snow Camo Uniform -->
+		<attachmentIndex>1711</attachmentIndex>
 		<itemIndex>161</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -41273,7 +41278,7 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1712</attachmentIndex> <!-- Snow Camo Pants -->
+		<attachmentIndex>1712</attachmentIndex>
 		<itemIndex>170</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -41313,7 +41318,7 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1713</attachmentIndex> <!-- Night Camo Helmet Cover -->
+		<attachmentIndex>1713</attachmentIndex>
 		<itemIndex>176</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -41373,7 +41378,7 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1714</attachmentIndex> <!-- Night Camo Uniform -->
+		<attachmentIndex>1714</attachmentIndex>
 		<itemIndex>161</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -41503,7 +41508,7 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1715</attachmentIndex> <!-- Night Camo Pants -->
+		<attachmentIndex>1715</attachmentIndex>
 		<itemIndex>170</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -41543,7 +41548,7 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1749</attachmentIndex> <!-- Ballistic Goggles -->
+		<attachmentIndex>1749</attachmentIndex>
 		<itemIndex>176</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -41758,7 +41763,7 @@
 		<APCost>16</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1752</attachmentIndex> <!-- SAPI IV Plates -->
+		<attachmentIndex>1752</attachmentIndex>
 		<itemIndex>161</itemIndex>
 		<APCost>35</APCost>
 	</ATTACHMENT>
@@ -42003,7 +42008,7 @@
 		<APCost>35</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1753</attachmentIndex> <!-- Pair SAPI IV -->
+		<attachmentIndex>1753</attachmentIndex>
 		<itemIndex>161</itemIndex>
 		<APCost>60</APCost>
 	</ATTACHMENT>
@@ -42228,7 +42233,7 @@
 		<APCost>60</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1763</attachmentIndex> <!-- Pair SAPI III -->
+		<attachmentIndex>1763</attachmentIndex>
 		<itemIndex>161</itemIndex>
 		<APCost>60</APCost>
 	</ATTACHMENT>
@@ -42453,7 +42458,7 @@
 		<APCost>60</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1764</attachmentIndex> <!-- Pair SAPI -->
+		<attachmentIndex>1764</attachmentIndex>
 		<itemIndex>161</itemIndex>
 		<APCost>60</APCost>
 	</ATTACHMENT>
@@ -42678,7 +42683,7 @@
 		<APCost>60</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1783</attachmentIndex> <!-- ACU BDU -->
+		<attachmentIndex>1783</attachmentIndex>
 		<itemIndex>161</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -42788,12 +42793,7 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1701</attachmentIndex>
-		<itemIndex>2521</itemIndex>
-		<APCost>20</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>1784</attachmentIndex> <!-- ACU Trousers -->
+		<attachmentIndex>1784</attachmentIndex>
 		<itemIndex>170</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -42833,7 +42833,7 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1800</attachmentIndex> <!-- HK Scope Mount -->
+		<attachmentIndex>1800</attachmentIndex>
 		<itemIndex>13</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -42993,7 +42993,7 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1801</attachmentIndex> <!-- Pistol Match Sight -->
+		<attachmentIndex>1801</attachmentIndex>
 		<itemIndex>1</itemIndex>
 		<APCost>35</APCost>
 	</ATTACHMENT>
@@ -43533,7 +43533,7 @@
 		<APCost>35</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1802</attachmentIndex> <!-- Aimpoint Comp M2 -->
+		<attachmentIndex>1802</attachmentIndex>
 		<itemIndex>6</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -45500,7 +45500,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1803</attachmentIndex> <!-- EoTech HDS -->
+		<attachmentIndex>1803</attachmentIndex>
 		<itemIndex>15</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -46931,7 +46931,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1804</attachmentIndex> <!-- Elcan OS34X -->
+		<attachmentIndex>1804</attachmentIndex>
 		<itemIndex>20</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -47191,7 +47191,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1805</attachmentIndex> <!-- Leupold Mark 4 CQ/T -->
+		<attachmentIndex>1805</attachmentIndex>
 		<itemIndex>20</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -48122,7 +48122,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1806</attachmentIndex> <!-- S&B 1.1-8x Short Dot (8x) -->
+		<attachmentIndex>1806</attachmentIndex>
 		<itemIndex>348</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -48778,7 +48778,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1807</attachmentIndex> <!-- SUSAT -->
+		<attachmentIndex>1807</attachmentIndex>
 		<itemIndex>20</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -48908,7 +48908,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1808</attachmentIndex> <!-- MARS -->
+		<attachmentIndex>1808</attachmentIndex>
 		<itemIndex>15</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -50056,7 +50056,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1809</attachmentIndex> <!-- ISM-V-IR -->
+		<attachmentIndex>1809</attachmentIndex>
 		<itemIndex>619</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -50977,7 +50977,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1810</attachmentIndex> <!-- ISM-4X-IR -->
+		<attachmentIndex>1810</attachmentIndex>
 		<itemIndex>749</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -51012,7 +51012,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1811</attachmentIndex> <!-- Barska 4x20 -->
+		<attachmentIndex>1811</attachmentIndex>
 		<itemIndex>12</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -51197,7 +51197,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1812</attachmentIndex> <!-- Armson O.E.G. Sight -->
+		<attachmentIndex>1812</attachmentIndex>
 		<itemIndex>10</itemIndex>
 		<APCost>30</APCost>
 	</ATTACHMENT>
@@ -51637,7 +51637,7 @@
 		<APCost>30</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1813</attachmentIndex> <!-- 4.5-16x Scope  -->
+		<attachmentIndex>1813</attachmentIndex>
 		<itemIndex>618</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -51812,7 +51812,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1814</attachmentIndex> <!-- AN/PVS-24 NVD -->
+		<attachmentIndex>1814</attachmentIndex>
 		<itemIndex>1802</itemIndex>
 		<APCost>35</APCost>
 		<NASOnly>1</NASOnly>
@@ -51848,7 +51848,7 @@
 		<NASOnly>1</NASOnly>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1815</attachmentIndex> <!-- AN/PVS-10 NVS (12.2x) -->
+		<attachmentIndex>1815</attachmentIndex>
 		<itemIndex>19</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -52108,7 +52108,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1816</attachmentIndex> <!-- 1P29 4x -->
+		<attachmentIndex>1816</attachmentIndex>
 		<itemIndex>14</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -52473,7 +52473,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1817</attachmentIndex> <!-- PKS-07 -->
+		<attachmentIndex>1817</attachmentIndex>
 		<itemIndex>333</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -52523,7 +52523,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1818</attachmentIndex> <!-- 1P21 Minuta (9x) -->
+		<attachmentIndex>1818</attachmentIndex>
 		<itemIndex>18</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -52598,7 +52598,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1819</attachmentIndex> <!-- POS 13x Scope (13x) -->
+		<attachmentIndex>1819</attachmentIndex>
 		<itemIndex>697</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -52613,7 +52613,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1820</attachmentIndex> <!-- PKN-032 NVS -->
+		<attachmentIndex>1820</attachmentIndex>
 		<itemIndex>14</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -53113,7 +53113,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1821</attachmentIndex> <!-- 1PN51 -->
+		<attachmentIndex>1821</attachmentIndex>
 		<itemIndex>14</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -53553,7 +53553,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1822</attachmentIndex> <!-- ZF-4 Scope -->
+		<attachmentIndex>1822</attachmentIndex>
 		<itemIndex>776</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -53578,7 +53578,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1823</attachmentIndex> <!-- Red-dot for GL -->
+		<attachmentIndex>1823</attachmentIndex>
 		<itemIndex>906</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -53623,7 +53623,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1824</attachmentIndex> <!-- MEPRO 21 -->
+		<attachmentIndex>1824</attachmentIndex>
 		<itemIndex>20</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -54949,7 +54949,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1825</attachmentIndex> <!-- China NVS -->
+		<attachmentIndex>1825</attachmentIndex>
 		<itemIndex>704</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -55009,7 +55009,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1826</attachmentIndex> <!-- ACOG TA-26 -->
+		<attachmentIndex>1826</attachmentIndex>
 		<itemIndex>12</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -55427,7 +55427,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1827</attachmentIndex> <!-- ACOG TA648 -->
+		<attachmentIndex>1827</attachmentIndex>
 		<itemIndex>348</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -55598,7 +55598,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1828</attachmentIndex> <!-- 3X MAG for Red-dot (Un-use) -->
+		<attachmentIndex>1828</attachmentIndex>
 		<itemIndex>1802</itemIndex>
 		<APCost>15</APCost>
 		<NASOnly>1</NASOnly>
@@ -55634,7 +55634,7 @@
 		<NASOnly>1</NASOnly>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1829</attachmentIndex> <!-- Snooperscope -->
+		<attachmentIndex>1829</attachmentIndex>
 		<itemIndex>1280</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -55664,7 +55664,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1830</attachmentIndex> <!-- TA/FCS Module -->
+		<attachmentIndex>1830</attachmentIndex>
 		<itemIndex>748</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -55689,7 +55689,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1831</attachmentIndex> <!-- DBAL-A2 -->
+		<attachmentIndex>1831</attachmentIndex>
 		<itemIndex>15</itemIndex>
 		<APCost>35</APCost>
 	</ATTACHMENT>
@@ -56863,7 +56863,7 @@
 		<APCost>35</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1832</attachmentIndex> <!-- BTC -->
+		<attachmentIndex>1832</attachmentIndex>
 		<itemIndex>208</itemIndex>
 		<APCost>20</APCost>
 		<NASOnly>1</NASOnly>
@@ -56905,7 +56905,7 @@
 		<NASOnly>1</NASOnly>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1833</attachmentIndex> <!-- GPS GripPod -->
+		<attachmentIndex>1833</attachmentIndex>
 		<itemIndex>160</itemIndex>
 		<APCost>20</APCost>
 		<NASOnly>1</NASOnly>
@@ -57752,7 +57752,7 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1834</attachmentIndex> <!-- SURE-FIRE M900 -->
+		<attachmentIndex>1834</attachmentIndex>
 		<itemIndex>160</itemIndex>
 		<APCost>20</APCost>
 		<NASOnly>1</NASOnly>
@@ -58775,7 +58775,7 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1835</attachmentIndex> <!-- 762NATO Belt Adapter -->
+		<attachmentIndex>1835</attachmentIndex>
 		<itemIndex>29</itemIndex>
 		<APCost>85</APCost>
 	</ATTACHMENT>
@@ -58815,7 +58815,7 @@
 		<APCost>85</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1836</attachmentIndex> <!-- AK Durm Adapter -->
+		<attachmentIndex>1836</attachmentIndex>
 		<itemIndex>26</itemIndex>
 		<APCost>10</APCost>
 	</ATTACHMENT>
@@ -59220,7 +59220,7 @@
 		<APCost>10</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1837</attachmentIndex> <!-- Flashlight Handguard -->
+		<attachmentIndex>1837</attachmentIndex>
 		<itemIndex>13</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -59340,7 +59340,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1838</attachmentIndex> <!-- Pistol +5 Floorplate -->
+		<attachmentIndex>1838</attachmentIndex>
 		<itemIndex>3</itemIndex>
 		<APCost>10</APCost>
 	</ATTACHMENT>
@@ -59470,7 +59470,7 @@
 		<APCost>10</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1839</attachmentIndex> <!-- .303 Trench Magazine -->
+		<attachmentIndex>1839</attachmentIndex>
 		<itemIndex>1287</itemIndex>
 		<APCost>80</APCost>
 	</ATTACHMENT>
@@ -59480,7 +59480,7 @@
 		<APCost>80</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1842</attachmentIndex> <!-- Sniper Supp. -->
+		<attachmentIndex>1842</attachmentIndex>
 		<itemIndex>335</itemIndex>
 		<APCost>30</APCost>
 	</ATTACHMENT>
@@ -59660,7 +59660,7 @@
 		<APCost>30</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1843</attachmentIndex> <!-- AK Supp. -->
+		<attachmentIndex>1843</attachmentIndex>
 		<itemIndex>14</itemIndex>
 		<APCost>30</APCost>
 	</ATTACHMENT>
@@ -60065,7 +60065,7 @@
 		<APCost>30</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1844</attachmentIndex> <!-- Shotgun Supp. -->
+		<attachmentIndex>1844</attachmentIndex>
 		<itemIndex>31</itemIndex>
 		<APCost>30</APCost>
 	</ATTACHMENT>
@@ -60210,7 +60210,7 @@
 		<APCost>30</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1849</attachmentIndex> <!-- .223 Drum 20rds Adapter -->
+		<attachmentIndex>1849</attachmentIndex>
 		<itemIndex>762</itemIndex>
 		<APCost>10</APCost>
 	</ATTACHMENT>
@@ -60240,7 +60240,7 @@
 		<APCost>10</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1850</attachmentIndex> <!-- Muzzle Brake -->
+		<attachmentIndex>1850</attachmentIndex>
 		<itemIndex>27</itemIndex>
 		<APCost>30</APCost>
 	</ATTACHMENT>
@@ -60585,7 +60585,7 @@
 		<APCost>30</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1851</attachmentIndex> <!-- AK Muzzle Brake -->
+		<attachmentIndex>1851</attachmentIndex>
 		<itemIndex>26</itemIndex>
 		<APCost>30</APCost>
 	</ATTACHMENT>
@@ -60685,7 +60685,7 @@
 		<APCost>30</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1852</attachmentIndex> <!-- REDI-MAG -->
+		<attachmentIndex>1852</attachmentIndex>
 		<itemIndex>12</itemIndex>
 		<APCost>45</APCost>
 	</ATTACHMENT>
@@ -61080,7 +61080,7 @@
 		<APCost>45</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1853</attachmentIndex> <!-- Simple LAM -->
+		<attachmentIndex>1853</attachmentIndex>
 		<itemIndex>12</itemIndex>
 		<APCost>35</APCost>
 	</ATTACHMENT>
@@ -62295,7 +62295,7 @@
 		<APCost>35</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1854</attachmentIndex> <!-- Flip-up BUIS -->
+		<attachmentIndex>1854</attachmentIndex>
 		<itemIndex>2144</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -62310,7 +62310,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1855</attachmentIndex> <!-- HMG Bipod -->
+		<attachmentIndex>1855</attachmentIndex>
 		<itemIndex>1075</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -62320,7 +62320,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1856</attachmentIndex> <!-- Unertl 8x Scope -->
+		<attachmentIndex>1856</attachmentIndex>
 		<itemIndex>683</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -62345,7 +62345,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1857</attachmentIndex> <!-- No.32 Scope -->
+		<attachmentIndex>1857</attachmentIndex>
 		<itemIndex>1286</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -62365,7 +62365,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1858</attachmentIndex> <!-- PEM Scope -->
+		<attachmentIndex>1858</attachmentIndex>
 		<itemIndex>693</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -62385,7 +62385,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1859</attachmentIndex> <!-- AN/PVS-17 -->
+		<attachmentIndex>1859</attachmentIndex>
 		<itemIndex>20</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -63177,7 +63177,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1860</attachmentIndex> <!-- Elcan DR (4x) -->
+		<attachmentIndex>1860</attachmentIndex>
 		<itemIndex>23</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -63817,7 +63817,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1888</attachmentIndex> <!-- Fix Stock -->
+		<attachmentIndex>1888</attachmentIndex>
 		<itemIndex>61</itemIndex>
 		<APCost>85</APCost>
 	</ATTACHMENT>
@@ -63837,7 +63837,7 @@
 		<APCost>85</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1895</attachmentIndex> <!-- Tactical Handguard Short -->
+		<attachmentIndex>1895</attachmentIndex>
 		<itemIndex>13</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -63967,7 +63967,7 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1909</attachmentIndex> <!-- UltiMAK Rail Long Kit -->
+		<attachmentIndex>1909</attachmentIndex>
 		<itemIndex>683</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -64057,7 +64057,7 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>2159</attachmentIndex> <!-- XM26 LSS -->
+		<attachmentIndex>2159</attachmentIndex>
 		<itemIndex>633</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -64147,7 +64147,7 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>2181</attachmentIndex> <!-- Red Dot Sight -->
+		<attachmentIndex>2181</attachmentIndex>
 		<itemIndex>601</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -64420,7 +64420,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>2182</attachmentIndex> <!-- ATN Red-Dot -->
+		<attachmentIndex>2182</attachmentIndex>
 		<itemIndex>601</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -64661,7 +64661,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>2183</attachmentIndex> <!-- SPP 10P50 (3X) -->
+		<attachmentIndex>2183</attachmentIndex>
 		<itemIndex>699</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -64701,7 +64701,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>2184</attachmentIndex> <!-- BARS -->
+		<attachmentIndex>2184</attachmentIndex>
 		<itemIndex>14</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -65201,7 +65201,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>2185</attachmentIndex> <!-- 1P70 (10x) -->
+		<attachmentIndex>2185</attachmentIndex>
 		<itemIndex>682</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -65231,7 +65231,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>2186</attachmentIndex> <!-- S&B 1.1-8x Short Dot (1x) -->
+		<attachmentIndex>2186</attachmentIndex>
 		<itemIndex>348</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -65887,7 +65887,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>2187</attachmentIndex> <!-- China Red-Dot/Laser Point -->
+		<attachmentIndex>2187</attachmentIndex>
 		<itemIndex>704</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -65947,7 +65947,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>2188</attachmentIndex> <!-- China 3x -->
+		<attachmentIndex>2188</attachmentIndex>
 		<itemIndex>704</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -65997,7 +65997,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>2189</attachmentIndex> <!-- China 9x (9x) -->
+		<attachmentIndex>2189</attachmentIndex>
 		<itemIndex>1118</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -66027,7 +66027,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>2191</attachmentIndex> <!-- 07 Wood Shirt -->
+		<attachmentIndex>2191</attachmentIndex>
 		<itemIndex>161</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -66107,7 +66107,7 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>2192</attachmentIndex> <!-- 07 Wood Pants -->
+		<attachmentIndex>2192</attachmentIndex>
 		<itemIndex>170</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -66147,7 +66147,7 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>2193</attachmentIndex> <!-- 07 Desert Shirt -->
+		<attachmentIndex>2193</attachmentIndex>
 		<itemIndex>161</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -66227,7 +66227,7 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>2194</attachmentIndex> <!-- 07 Desert Pants -->
+		<attachmentIndex>2194</attachmentIndex>
 		<itemIndex>170</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -66267,7 +66267,7 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>2208</attachmentIndex> <!-- KLMK Shirt -->
+		<attachmentIndex>2208</attachmentIndex>
 		<itemIndex>161</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -66352,7 +66352,7 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>2209</attachmentIndex> <!-- KLMK Pants -->
+		<attachmentIndex>2209</attachmentIndex>
 		<itemIndex>170</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -66392,7 +66392,7 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>2210</attachmentIndex> <!-- OMON Wood Shirt -->
+		<attachmentIndex>2210</attachmentIndex>
 		<itemIndex>161</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -66477,7 +66477,7 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>2211</attachmentIndex> <!-- OMON Wood Pants -->
+		<attachmentIndex>2211</attachmentIndex>
 		<itemIndex>170</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -66517,7 +66517,7 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>2212</attachmentIndex> <!-- OMON City Shirt -->
+		<attachmentIndex>2212</attachmentIndex>
 		<itemIndex>161</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -66602,7 +66602,7 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>2213</attachmentIndex> <!-- OMON City Pants -->
+		<attachmentIndex>2213</attachmentIndex>
 		<itemIndex>170</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -66642,7 +66642,7 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>2220</attachmentIndex> <!-- Multicam BDU -->
+		<attachmentIndex>2220</attachmentIndex>
 		<itemIndex>161</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -66787,7 +66787,7 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>2221</attachmentIndex> <!-- Multicam Parka -->
+		<attachmentIndex>2221</attachmentIndex>
 		<itemIndex>161</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -66927,7 +66927,7 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>2261</attachmentIndex> <!-- PGO-7B -->
+		<attachmentIndex>2261</attachmentIndex>
 		<itemIndex>25</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -66987,7 +66987,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>2262</attachmentIndex> <!-- M16 Scope Mount -->
+		<attachmentIndex>2262</attachmentIndex>
 		<itemIndex>12</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -67102,7 +67102,7 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>2263</attachmentIndex> <!-- LaserMax -->
+		<attachmentIndex>2263</attachmentIndex>
 		<itemIndex>1</itemIndex>
 		<APCost>35</APCost>
 	</ATTACHMENT>
@@ -67267,7 +67267,7 @@
 		<APCost>35</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>2264</attachmentIndex> <!-- AN/PEQ-15 -->
+		<attachmentIndex>2264</attachmentIndex>
 		<itemIndex>619</itemIndex>
 		<APCost>35</APCost>
 	</ATTACHMENT>
@@ -68481,7 +68481,7 @@
 		<APCost>35</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>2265</attachmentIndex> <!-- Aimpoint Comp M4 -->
+		<attachmentIndex>2265</attachmentIndex>
 		<itemIndex>23</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -69719,7 +69719,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>2266</attachmentIndex> <!-- Aimpoint Macro T1 -->
+		<attachmentIndex>2266</attachmentIndex>
 		<itemIndex>7</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -71418,7 +71418,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>2267</attachmentIndex> <!-- Imp. Mod. Choke -->
+		<attachmentIndex>2267</attachmentIndex>
 		<itemIndex>32</itemIndex>
 		<APCost>35</APCost>
 	</ATTACHMENT>
@@ -71593,7 +71593,7 @@
 		<APCost>35</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>2268</attachmentIndex> <!-- Full Choke -->
+		<attachmentIndex>2268</attachmentIndex>
 		<itemIndex>32</itemIndex>
 		<APCost>35</APCost>
 	</ATTACHMENT>
@@ -71768,7 +71768,7 @@
 		<APCost>35</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>2269</attachmentIndex> <!-- Rifled Choke -->
+		<attachmentIndex>2269</attachmentIndex>
 		<itemIndex>32</itemIndex>
 		<APCost>35</APCost>
 	</ATTACHMENT>
@@ -71923,7 +71923,7 @@
 		<APCost>35</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>2270</attachmentIndex> <!-- AN/PVS-2 -->
+		<attachmentIndex>2270</attachmentIndex>
 		<itemIndex>12</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -72118,7 +72118,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>2485</attachmentIndex> <!-- G36 Carry/Optics -->
+		<attachmentIndex>2485</attachmentIndex>
 		<itemIndex>668</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -72158,7 +72158,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>2523</attachmentIndex> <!-- DPM Uniform -->
+		<attachmentIndex>2523</attachmentIndex>
 		<itemIndex>161</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -72243,7 +72243,7 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>2593</attachmentIndex> <!-- 5.56mm CL-Mag Adapter -->
+		<attachmentIndex>2593</attachmentIndex>
 		<itemIndex>12</itemIndex>
 		<APCost>10</APCost>
 	</ATTACHMENT>
@@ -72603,7 +72603,7 @@
 		<APCost>10</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>2594</attachmentIndex> <!-- MAG Tripod -->
+		<attachmentIndex>2594</attachmentIndex>
 		<itemIndex>36</itemIndex>
 		<APCost>35</APCost>
 	</ATTACHMENT>
@@ -72668,7 +72668,7 @@
 		<APCost>35</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>2595</attachmentIndex> <!-- PKM Tripod -->
+		<attachmentIndex>2595</attachmentIndex>
 		<itemIndex>699</itemIndex>
 		<APCost>35</APCost>
 	</ATTACHMENT>
@@ -72693,7 +72693,7 @@
 		<APCost>35</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>2596</attachmentIndex> <!-- MG42 Tripod -->
+		<attachmentIndex>2596</attachmentIndex>
 		<itemIndex>1301</itemIndex>
 		<APCost>35</APCost>
 	</ATTACHMENT>
@@ -72708,7 +72708,7 @@
 		<APCost>35</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>2597</attachmentIndex> <!-- HMG Tripod -->
+		<attachmentIndex>2597</attachmentIndex>
 		<itemIndex>1075</itemIndex>
 		<APCost>35</APCost>
 	</ATTACHMENT>
@@ -72723,7 +72723,7 @@
 		<APCost>35</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>2607</attachmentIndex> <!-- G.P. Tripod -->
+		<attachmentIndex>2607</attachmentIndex>
 		<itemIndex>627</itemIndex>
 		<APCost>35</APCost>
 	</ATTACHMENT>
@@ -72758,7 +72758,7 @@
 		<APCost>35</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>2639</attachmentIndex> <!-- Harris Bipod -->
+		<attachmentIndex>2639</attachmentIndex>
 		<itemIndex>18</itemIndex>
 		<APCost>25</APCost>
 	</ATTACHMENT>
@@ -73389,7 +73389,7 @@
 		<APCost>25</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>2640</attachmentIndex> <!-- TangoDown Bipod -->
+		<attachmentIndex>2640</attachmentIndex>
 		<itemIndex>619</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -74034,7 +74034,7 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>2641</attachmentIndex> <!-- 5.56mm Hi-MAG Adapter -->
+		<attachmentIndex>2641</attachmentIndex>
 		<itemIndex>20</itemIndex>
 		<APCost>10</APCost>
 	</ATTACHMENT>
@@ -74174,12 +74174,12 @@
 		<APCost>10</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>2642</attachmentIndex> <!-- 556 42 C-Mag Adapter -->
+		<attachmentIndex>2642</attachmentIndex>
 		<itemIndex>726</itemIndex>
 		<APCost>10</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>2643</attachmentIndex> <!-- M203/Grip -->
+		<attachmentIndex>2643</attachmentIndex>
 		<itemIndex>902</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -74189,7 +74189,7 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>2644</attachmentIndex> <!-- Pistol +3 Floorplate -->
+		<attachmentIndex>2644</attachmentIndex>
 		<itemIndex>8</itemIndex>
 		<APCost>10</APCost>
 	</ATTACHMENT>
@@ -74279,7 +74279,7 @@
 		<APCost>10</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>2645</attachmentIndex> <!-- .45 50 DRUM Adapter -->
+		<attachmentIndex>2645</attachmentIndex>
 		<itemIndex>11</itemIndex>
 		<APCost>10</APCost>
 	</ATTACHMENT>
@@ -74289,7 +74289,7 @@
 		<APCost>10</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>2647</attachmentIndex> <!-- Handgun Scope Mount -->
+		<attachmentIndex>2647</attachmentIndex>
 		<itemIndex>3</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -74544,7 +74544,7 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>2648</attachmentIndex> <!-- China AMR Sight (14x) -->
+		<attachmentIndex>2648</attachmentIndex>
 		<itemIndex>940</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -74569,7 +74569,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>2651</attachmentIndex> <!-- Flashlight Handguard -->
+		<attachmentIndex>2651</attachmentIndex>
 		<itemIndex>13</itemIndex>
 		<APCost>50</APCost>
 	</ATTACHMENT>
@@ -74689,7 +74689,7 @@
 		<APCost>50</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>2652</attachmentIndex> <!-- AN/PEQ-16A -->
+		<attachmentIndex>2652</attachmentIndex>
 		<itemIndex>619</itemIndex>
 		<APCost>35</APCost>
 	</ATTACHMENT>
@@ -75891,7 +75891,7 @@
 		<APCost>35</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>2653</attachmentIndex> <!-- LAM-200 -->
+		<attachmentIndex>2653</attachmentIndex>
 		<itemIndex>1</itemIndex>
 		<APCost>35</APCost>
 	</ATTACHMENT>
@@ -78304,7 +78304,7 @@
 		<APCost>35</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>2654</attachmentIndex> <!-- SURE-FIRE M900 -->
+		<attachmentIndex>2654</attachmentIndex>
 		<itemIndex>160</itemIndex>
 		<APCost>20</APCost>
 		<NASOnly>1</NASOnly>
@@ -79327,7 +79327,7 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>2655</attachmentIndex> <!-- Simple LAM -->
+		<attachmentIndex>2655</attachmentIndex>
 		<itemIndex>12</itemIndex>
 		<APCost>35</APCost>
 	</ATTACHMENT>
@@ -80542,7 +80542,7 @@
 		<APCost>35</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>2656</attachmentIndex> <!-- 5.45 RPK-MAG Adapter -->
+		<attachmentIndex>2656</attachmentIndex>
 		<itemIndex>14</itemIndex>
 		<APCost>10</APCost>
 	</ATTACHMENT>
@@ -80632,7 +80632,7 @@
 		<APCost>10</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>2657</attachmentIndex> <!-- 5.45 Hi-MAG Adapter -->
+		<attachmentIndex>2657</attachmentIndex>
 		<itemIndex>14</itemIndex>
 		<APCost>10</APCost>
 	</ATTACHMENT>
@@ -80722,7 +80722,7 @@
 		<APCost>10</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>2659</attachmentIndex> <!-- Glock +Floorplate -->
+		<attachmentIndex>2659</attachmentIndex>
 		<itemIndex>1</itemIndex>
 		<APCost>10</APCost>
 	</ATTACHMENT>
@@ -80737,7 +80737,7 @@
 		<APCost>10</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>2660</attachmentIndex> <!-- 5.56mm SF-Mag Adapter -->
+		<attachmentIndex>2660</attachmentIndex>
 		<itemIndex>12</itemIndex>
 		<APCost>10</APCost>
 	</ATTACHMENT>
@@ -81187,7 +81187,7 @@
 		<APCost>10</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>2737</attachmentIndex> <!-- SMG Front Loop -->
+		<attachmentIndex>2737</attachmentIndex>
 		<itemIndex>10</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -81217,7 +81217,7 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>2738</attachmentIndex> <!-- MRD Sight -->
+		<attachmentIndex>2738</attachmentIndex>
 		<itemIndex>208</itemIndex>
 		<APCost>20</APCost>
 		<NASOnly>1</NASOnly>
@@ -81288,7 +81288,7 @@
 		<NASOnly>1</NASOnly>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>2974</attachmentIndex> <!-- Gun Sling -->
+		<attachmentIndex>2974</attachmentIndex>
 		<itemIndex>11</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
@@ -84888,7 +84888,7 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>3001</attachmentIndex> <!-- Remote Defuse -->
+		<attachmentIndex>3001</attachmentIndex>
 		<itemIndex>137</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>

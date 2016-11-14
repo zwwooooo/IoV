@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <MERCGEARLIST>
 	<MERCGEAR>
 		<mIndex>0</mIndex>
@@ -546,7 +546,6 @@
 			<mBig0>97</mBig0>
 			<mBig0Status>100</mBig0Status>
 			<mBig0Quantity>1</mBig0Quantity>
-			<mBig1Quantity>2</mBig1Quantity>
 			<mBig1>147</mBig1>
 			<mBig1Quantity>2</mBig1Quantity>
 			<mBig2>37</mBig2>
@@ -1435,7 +1434,6 @@
 			<mHelmet>1731</mHelmet>
 			<mHelmetStatus>98</mHelmetStatus>
 			<mVest>1732</mVest>
-			<mVestDrop>90</mVestDrop>
 			<mWeapon>609</mWeapon>
 			<mWeaponStatus>94</mWeaponStatus>
 			<mBig0>92</mBig0>
@@ -20174,6 +20172,12 @@
 			<mSmall5>0</mSmall5>
 			<mSmall5Status>0</mSmall5Status>
 			<mSmall5Quantity>0</mSmall5Quantity>
+			<mSmall6>0</mSmall6>
+			<mSmall6Status>0</mSmall6Status>
+			<mSmall6Quantity>0</mSmall6Quantity>
+			<mSmall7>0</mSmall7>
+			<mSmall7Status>0</mSmall7Status>
+			<mSmall7Quantity>0</mSmall7Quantity>
 			<lVest>1089</lVest>
 			<lVestStatus>86</lVestStatus>
 			<lLeftThigh>0</lLeftThigh>
