@@ -6202,4 +6202,9 @@
 		<uiIndex>1365</uiIndex>
 		<sItemIndex>2444</sItemIndex>
 	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>1366</uiIndex>
+		<sItemIndex>3106</sItemIndex>
+		<ubOptimalNumber>1</ubOptimalNumber>
+	</INVENTORY>
 </INVENTORYLIST>

@@ -25514,7 +25514,7 @@
 		<szBRDesc>A MWG90 drum hold 33-round FMJ for the .50 Beowulf Rifle.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>585</ubClassIndex>
+		<ubClassIndex>587</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>465</ubGraphicNum>
 		<ubWeight>19</ubWeight>
@@ -25539,7 +25539,7 @@
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>610</ubClassIndex>
+		<ubClassIndex>612</ubClassIndex>
 		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>625</ubGraphicNum>
@@ -25564,7 +25564,7 @@
 		<szBRDesc>This 20-round M16 magazine contains .223 Remington ball (5.56mm M193).</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>659</ubClassIndex>
+		<ubClassIndex>661</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>473</ubGraphicNum>
 		<ubWeight>4</ubWeight>
@@ -25588,7 +25588,7 @@
 		<szBRDesc>5-rounds for .303 British Mk.VII ammo.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>727</ubClassIndex>
+		<ubClassIndex>729</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>618</ubGraphicNum>
 		<ubWeight>2</ubWeight>
@@ -25612,7 +25612,7 @@
 		<szBRDesc>5 rounds .55 inch anti-tank ammos for Boys Anti-Tank Rifle.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>745</ubClassIndex>
+		<ubClassIndex>747</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>625</ubGraphicNum>
 		<ubWeight>5</ubWeight>
@@ -25637,7 +25637,7 @@
 		<szBRDesc>30 rounds of 7.92kurz ammo for the StG44.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>747</ubClassIndex>
+		<ubClassIndex>749</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>626</ubGraphicNum>
 		<ubWeight>8</ubWeight>
@@ -25662,7 +25662,7 @@
 		<szBRDesc>A 5 round clip of 6.5x50mm SR Arisaka ammo.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>749</ubClassIndex>
+		<ubClassIndex>751</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>627</ubGraphicNum>
 		<ubWeight>1</ubWeight>
@@ -25686,7 +25686,7 @@
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>750</ubClassIndex>
+		<ubClassIndex>752</ubClassIndex>
 		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>628</ubGraphicNum>
@@ -25711,7 +25711,7 @@
 		<szBRDesc>A straight, thin shaft with a pointed head at one end and flight-stabilizing vanes at the other, meant to be shot from a crossbow.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>752</ubClassIndex>
+		<ubClassIndex>754</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>629</ubGraphicNum>
 		<ubWeight>6</ubWeight>
@@ -25735,7 +25735,7 @@
 		<szBRDesc>30 rounds of .300 AAC BLACKOUT 125 match in a magazine, it fire 125gr OTM supersonic bullet.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>755</ubClassIndex>
+		<ubClassIndex>757</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>410</ubGraphicNum>
 		<ubWeight>6</ubWeight>
@@ -25764,7 +25764,7 @@
 		<szBRDesc>A belt with 150 rounds of .300 AAC BLACKOUT 125 match, it fire 125gr OTM supersonic bullet.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>757</ubClassIndex>
+		<ubClassIndex>759</ubClassIndex>
 		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>411</ubGraphicNum>
@@ -25794,7 +25794,7 @@
 		<szBRDesc>4 rounds of 25x59mm B Hi-Explosive ammo for the XM109 Payload.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>761</ubClassIndex>
+		<ubClassIndex>763</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>735</ubGraphicNum>
 		<ubWeight>8</ubWeight>
@@ -25819,7 +25819,7 @@
 		<szBRDesc>7 rounds of 20x42mm Hi-Explosive ammo for PAW-20.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>762</ubClassIndex>
+		<ubClassIndex>765</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>737</ubGraphicNum>
 		<ubWeight>9</ubWeight>
@@ -25844,7 +25844,7 @@
 		<szBRDesc>This piece of metallic needle is perhaps the hardest projectile ever produced for combat. The 2mm EC is a tungsten-steel alloy built to be superconductive in order to propell along the gauss barrel. When fired, it is virtually unstoppable by any type of armor.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>763</ubClassIndex>
+		<ubClassIndex>767</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>632</ubGraphicNum>
 		<ubWeight>5</ubWeight>
@@ -25870,7 +25870,7 @@
 		<szBRDesc>Ten rounds of 12.7mm lightweight, supersonic bullet with an aluminum core cartridges in a polymer magzine.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>764</ubClassIndex>
+		<ubClassIndex>768</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>250</ubGraphicNum>
 		<ubWeight>5</ubWeight>
@@ -25894,7 +25894,7 @@
 		<szBRDesc>The M41A fires the standard US M309 10x24mm round. This ammunition comprises a 210 grain (13.6 gram) projectile embedded within a rectangular caseless propellant block of Nitramine 50.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>770</ubClassIndex>
+		<ubClassIndex>774</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>634</ubGraphicNum>
 		<ubWeight>13</ubWeight>
@@ -25920,7 +25920,7 @@
 		<szBRDesc>Winchester .458 Magnum was designed to drive a 500 grain projectile at a MV of about 2100 fps with ME of 4895 ft. lbs.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>773</ubClassIndex>
+		<ubClassIndex>777</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>790</ubGraphicNum>
 		<ubWeight>3</ubWeight>
@@ -25944,7 +25944,7 @@
 		<szBRDesc>This .22 magnum 30 grain loads produces muzzle velocity over 2400 fps from a pistol barrel. It can shoot clean holes through 3/16 inch thick steel.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>777</ubClassIndex>
+		<ubClassIndex>781</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>791</ubGraphicNum>
 		<ubWeight>2</ubWeight>
@@ -25968,7 +25968,7 @@
 		<szBRDesc>10 rounds of match class 6.5 Grendel 120grain Nosler Ballistic Tip ammunition.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>779</ubClassIndex>
+		<ubClassIndex>783</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>800</ubGraphicNum>
 		<ubWeight>4</ubWeight>
@@ -25992,7 +25992,7 @@
 		<szBRDesc>26 rounds of match class 6.5 Grendel 120grain Nosler Ballistic Tip ammunition.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>781</ubClassIndex>
+		<ubClassIndex>785</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>801</ubGraphicNum>
 		<ubWeight>9</ubWeight>
@@ -26016,7 +26016,7 @@
 		<szBRDesc>The .22 Long Rifle is an old cartridge that first appeared in the Marlin Model 1891 lever action rifle. It is by far the most popular and useful of all the .22 rimfire cartridges.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>785</ubClassIndex>
+		<ubClassIndex>789</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>802</ubGraphicNum>
 		<ubWeight>1</ubWeight>
@@ -26040,7 +26040,7 @@
 		<szBRDesc>220 rounds of .22 ILARCO ammo for American 180 submachine guns.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>787</ubClassIndex>
+		<ubClassIndex>791</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>815</ubGraphicNum>
 		<ubWeight>23</ubWeight>
@@ -26065,7 +26065,7 @@
 		<szBRDesc>4 rounds of 23mm "Shrapnel" shot shell.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>792</ubClassIndex>
+		<ubClassIndex>796</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>469</ubGraphicNum>
 		<ubWeight>3</ubWeight>
@@ -26089,7 +26089,7 @@
 		<szBRDesc>This 23mm shell magazine holds 7 rounds of "Shrapnel" ammunition.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>794</ubClassIndex>
+		<ubClassIndex>798</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>803</ubGraphicNum>
 		<ubWeight>11</ubWeight>
@@ -26113,7 +26113,7 @@
 		<szBRDesc>5 rounds of 7.5x54mm Fr. Jacket Soft Point ammunition.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>798</ubClassIndex>
+		<ubClassIndex>802</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>617</ubGraphicNum>
 		<ubWeight>1</ubWeight>
@@ -26137,7 +26137,7 @@
 		<szBRDesc>10 rounds of 7.5x54mm Fr. Jacket Soft Point ammunition.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>800</ubClassIndex>
+		<ubClassIndex>804</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>618</ubGraphicNum>
 		<ubWeight>3</ubWeight>
@@ -26161,7 +26161,7 @@
 		<szBRDesc>25 rounds of 7.5x54mm Fr. Jacket Soft Point ammunition.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>802</ubClassIndex>
+		<ubClassIndex>806</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>619</ubGraphicNum>
 		<ubWeight>9</ubWeight>
@@ -26185,7 +26185,7 @@
 		<szBRDesc>100 rounds belt of 7.5x54mm Fr. Jacket Soft Point ammunition.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>804</ubClassIndex>
+		<ubClassIndex>808</ubClassIndex>
 		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>620</ubGraphicNum>
@@ -26210,7 +26210,7 @@
 		<szBRDesc>20 rounds of 71 gr FMJ .32 ACP ammo.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>811</ubClassIndex>
+		<ubClassIndex>815</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>920</ubGraphicNum>
 		<ubWeight>2</ubWeight>
@@ -26235,7 +26235,7 @@
 		<szBRDesc>8 rounds of 71 gr FMJ .32 ACP ammo.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>807</ubClassIndex>
+		<ubClassIndex>811</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>260</ubGraphicNum>
 		<ubWeight>1</ubWeight>
@@ -26260,7 +26260,7 @@
 		<szBRDesc>15 rounds of 71 gr FMJ .32 ACP ammo.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>809</ubClassIndex>
+		<ubClassIndex>813</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>856</ubGraphicNum>
 		<ubWeight>2</ubWeight>
@@ -26285,7 +26285,7 @@
 		<szBRDesc>This magazine contains 16 rounds of .224 VOB (5.56x23.5mm) ammunition. This AP cartridge is based on the 7.62x25mm Tokarev case.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>815</ubClassIndex>
+		<ubClassIndex>819</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>426</ubGraphicNum>
 		<ubWeight>2</ubWeight>
@@ -26310,7 +26310,7 @@
 		<szBRDesc>The .22 Scamp round was developed as a low recoil round for the Colt SCAMP. the weight of the round was cut down but the lethality was kept equal or better than the 9x19mm round by using a small bullet fired at a high velocity.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>817</ubClassIndex>
+		<ubClassIndex>821</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>436</ubGraphicNum>
 		<ubWeight>5</ubWeight>
@@ -26335,7 +26335,7 @@
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>819</ubClassIndex>
+		<ubClassIndex>823</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>836</ubGraphicNum>
 		<ubWeight>1</ubWeight>
@@ -26359,7 +26359,7 @@
 		<szBRDesc>This large magazine contains 22 rounds of match class .38 Super ammunition.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>824</ubClassIndex>
+		<ubClassIndex>828</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>923</ubGraphicNum>
 		<ubWeight>5</ubWeight>
@@ -26383,7 +26383,7 @@
 		<szBRDesc>This magazine contains 9 rounds of match class .38 Super ammunition.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>821</ubClassIndex>
+		<ubClassIndex>825</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>851</ubGraphicNum>
 		<ubWeight>2</ubWeight>
@@ -26406,7 +26406,7 @@
 		<szBRName>Mag-7 Mag, Slug</szBRName>
 		<szBRDesc>This oversized pistol magazine contains seven cut down 12 gauge shotgun shells slug.</szBRDesc>
 		<usItemClass>1024</usItemClass>
-		<ubClassIndex>830</ubClassIndex>
+		<ubClassIndex>834</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>973</ubGraphicNum>
 		<ubWeight>5</ubWeight>
@@ -26431,7 +26431,7 @@
 		<szBRDesc>A 12-round FMJ clip of .458 SOCOM ammunition. This manstopper is a 300grain bullet with a velocity of 1900 fps.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>834</ubClassIndex>
+		<ubClassIndex>838</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>476</ubGraphicNum>
 		<ubWeight>7</ubWeight>
@@ -26456,7 +26456,7 @@
 		<szBRDesc>A 14-round FMJ clip of .458 SOCOM ammunition, This manstopper is a 300grain bullet with a velocity of 1900 fps.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>836</ubClassIndex>
+		<ubClassIndex>840</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>873</ubGraphicNum>
 		<ubWeight>9</ubWeight>
@@ -26481,7 +26481,7 @@
 		<szBRDesc>A MWG90 drum hold 38-round FMJ clip of .458 SOCOM ammunition.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>838</ubClassIndex>
+		<ubClassIndex>842</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>467</ubGraphicNum>
 		<ubWeight>20</ubWeight>
@@ -26506,7 +26506,7 @@
 		<szBRDesc>The full metal jacket GP11 bullet offered good aerodynamic efficiency and ballistic performance even by todays standards, can retain supersonic velocity up to 800m.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>842</ubClassIndex>
+		<ubClassIndex>846</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>895</ubGraphicNum>
 		<ubWeight>4</ubWeight>
@@ -26531,7 +26531,7 @@
 		<szBRDesc>24 rounds of 7.5x55mm GP11 Swiss greeting in a steel magazine.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>844</ubClassIndex>
+		<ubClassIndex>848</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>896</ubGraphicNum>
 		<ubWeight>8</ubWeight>
@@ -26556,7 +26556,7 @@
 		<szBRDesc>Those five buckshot shells are the special stacked ammunition for the Metal Storm MAUL shotgun.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>851</ubClassIndex>
+		<ubClassIndex>855</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>570</ubGraphicNum>
 		<ubWeight>9</ubWeight>
@@ -26583,7 +26583,7 @@
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>852</ubClassIndex>
+		<ubClassIndex>858</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>926</ubGraphicNum>
 		<ubWeight>5</ubWeight>
@@ -26607,7 +26607,7 @@
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>854</ubClassIndex>
+		<ubClassIndex>860</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>927</ubGraphicNum>
 		<ubWeight>8</ubWeight>
@@ -26632,7 +26632,7 @@
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>856</ubClassIndex>
+		<ubClassIndex>862</ubClassIndex>
 		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>928</ubGraphicNum>
@@ -26659,7 +26659,7 @@
 		<szBRDesc>Very effective against flesh above or under the surface, it will send your foe straight down to Davy Jones' Locker.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>857</ubClassIndex>
+		<ubClassIndex>863</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>574</ubGraphicNum>
 		<ubWeight>6</ubWeight>
@@ -26683,7 +26683,7 @@
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>858</ubClassIndex>
+		<ubClassIndex>864</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>576</ubGraphicNum>
 		<ubWeight>2</ubWeight>
@@ -26709,7 +26709,7 @@
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>860</ubClassIndex>
+		<ubClassIndex>866</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>578</ubGraphicNum>
 		<ubWeight>7</ubWeight>
@@ -26735,7 +26735,7 @@
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>864</ubClassIndex>
+		<ubClassIndex>870</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>930</ubGraphicNum>
 		<ubWeight>2</ubWeight>
@@ -26759,7 +26759,7 @@
 		<szBRDesc>Though one might think so, putting this on your food is not the best idea you could have.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>868</ubClassIndex>
+		<ubClassIndex>874</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>582</ubGraphicNum>
 		<ubWeight>1</ubWeight>
@@ -26782,7 +26782,7 @@
 		<szBRDesc>A 28-round FMJ clip of .338 Spectre ammunition. This manstopper is a 160 gr Spitzer bullet with a velocity of 1750 fps.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>869</ubClassIndex>
+		<ubClassIndex>875</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>969</ubGraphicNum>
 		<ubWeight>7</ubWeight>
@@ -26811,7 +26811,7 @@
 		<szBRDesc>A standard AR-15 magazine hold 8-rounds of the .308 168 gr sabot in .500 Phantom cartridges.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>873</ubClassIndex>
+		<ubClassIndex>879</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>971</ubGraphicNum>
 		<ubWeight>8</ubWeight>
@@ -26840,7 +26840,7 @@
 		<szBRDesc>5 rounds of .338 Norma Magnum sniper ammo for sniper rifle.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>877</ubClassIndex>
+		<ubClassIndex>883</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>530</ubGraphicNum>
 		<ubWeight>5</ubWeight>
@@ -26865,7 +26865,7 @@
 		<szBRDesc>50 rounds of .338 Norma Magnum sniper ammo for machinegun.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>878</ubClassIndex>
+		<ubClassIndex>884</ubClassIndex>
 		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>531</ubGraphicNum>
@@ -45138,7 +45138,7 @@
 		<szBRDesc>A battery for Taser X26.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>754</ubClassIndex>
+		<ubClassIndex>756</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>631</ubGraphicNum>
 		<ubWeight>1</ubWeight>
@@ -46424,7 +46424,7 @@
 		<szBRDesc>8 round magazine of 7N7 / 5.45mm MPTs ammo.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>566</ubClassIndex>
+		<ubClassIndex>567</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>293</ubGraphicNum>
 		<ubWeight>1</ubWeight>
@@ -46449,7 +46449,7 @@
 		<szBRDesc>Dispensing with mechanical loading and firing, Metal Storm's stacked electronically fired ammunition promises reliable mass firepower at low weight. This bundle is configured for 32 rounds across 6 barrels, in 9mm.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>568</ubClassIndex>
+		<ubClassIndex>569</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>437</ubGraphicNum>
 		<ubWeight>9</ubWeight>
@@ -46476,7 +46476,7 @@
 		<szBRDesc>Dispensing with mechanical loading and firing, Metal Storm's stacked electronically fired ammunition promises reliable mass firepower at low weight. This bundle is configured for 72 rounds across 6 barrels, in 9mm.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>569</ubClassIndex>
+		<ubClassIndex>570</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>463</ubGraphicNum>
 		<ubWeight>19</ubWeight>
@@ -46503,7 +46503,7 @@
 		<szBRDesc>Hollowpoint bullets for your .50 AE handcannon. Probably better used for target-practice, if you shoot anything living with these, there will not be much left of it.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>570</ubClassIndex>
+		<ubClassIndex>572</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>557</ubGraphicNum>
 		<ubWeight>2</ubWeight>
@@ -46528,7 +46528,7 @@
 		<szBRDesc>This magazine hold 7 round match grade of .50 AE JSP bullet.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>571</ubClassIndex>
+		<ubClassIndex>573</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>175</ubGraphicNum>
 		<ubWeight>2</ubWeight>
@@ -46555,7 +46555,7 @@
 		<szBRDesc>.454 Casull Hollow Point ammunition, for hunting game large enough not to be splattered by it.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>574</ubClassIndex>
+		<ubClassIndex>576</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>535</ubGraphicNum>
 		<ubWeight>1</ubWeight>
@@ -46579,7 +46579,7 @@
 		<szBRDesc>.454 Casull Hollow Point ammunition, if you use your revolver for hunting.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>575</ubClassIndex>
+		<ubClassIndex>577</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>532</ubGraphicNum>
 		<ubWeight>2</ubWeight>
@@ -46603,7 +46603,7 @@
 		<szBRDesc>Standard ammo for some of the big-bore pistols.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>577</ubClassIndex>
+		<ubClassIndex>579</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>528</ubGraphicNum>
 		<ubWeight>2</ubWeight>
@@ -46627,7 +46627,7 @@
 		<szBRDesc>If you're a hunter, then you'll need this for your sidearm if your prey is not as dead as you believed on first sight...</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>578</ubClassIndex>
+		<ubClassIndex>580</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>529</ubGraphicNum>
 		<ubWeight>2</ubWeight>
@@ -46651,7 +46651,7 @@
 		<szBRDesc>Two clip, 10 rounds of .30-06 ammo for M1941 Johnson.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>712</ubClassIndex>
+		<ubClassIndex>714</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>877</ubGraphicNum>
 		<ubWeight>1</ubWeight>
@@ -46675,7 +46675,7 @@
 		<szBRDesc>Two clip, 10 rounds of .30-06 match class ammo.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>714</ubClassIndex>
+		<ubClassIndex>716</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>878</ubGraphicNum>
 		<ubWeight>1</ubWeight>
@@ -46702,7 +46702,7 @@
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>581</ubClassIndex>
+		<ubClassIndex>583</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>517</ubGraphicNum>
 		<ubWeight>1</ubWeight>
@@ -46727,7 +46727,7 @@
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>582</ubClassIndex>
+		<ubClassIndex>584</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>518</ubGraphicNum>
 		<ubWeight>1</ubWeight>
@@ -46752,7 +46752,7 @@
 		<szBRDesc>7 rounds of the highpowered .50 Beowulf ammo, just the thing for stopping vehicles.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>583</ubClassIndex>
+		<ubClassIndex>585</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>515</ubGraphicNum>
 		<ubWeight>3</ubWeight>
@@ -46777,7 +46777,7 @@
 		<szBRDesc>A clip of 7 Hollow Point rounds, perfect for harassing big pussycats.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>584</ubClassIndex>
+		<ubClassIndex>586</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>516</ubGraphicNum>
 		<ubWeight>3</ubWeight>
@@ -46802,7 +46802,7 @@
 		<szBRDesc>The .300 Winchester Magnum can be considered a standard hunting round.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>589</ubClassIndex>
+		<ubClassIndex>591</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>541</ubGraphicNum>
 		<ubWeight>1</ubWeight>
@@ -46826,7 +46826,7 @@
 		<szBRDesc>The .300 Winchester Magnum can be considered a standard hunting round, though these bullets are for the deer with Kevlar vest.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>591</ubClassIndex>
+		<ubClassIndex>593</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>540</ubGraphicNum>
 		<ubWeight>1</ubWeight>
@@ -46852,7 +46852,7 @@
 		<szBRDesc>Own a vintage Mauser Gewehr 98 or Karabiner 98k? We have the ammo for your old pal!</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>595</ubClassIndex>
+		<ubClassIndex>597</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>543</ubGraphicNum>
 		<ubWeight>1</ubWeight>
@@ -46877,7 +46877,7 @@
 		<szBRDesc>5 rounds of S.m.K.L. Armor Piercing Tracer ammo. Many German snipers used it for it's improved accuracy.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>596</ubClassIndex>
+		<ubClassIndex>598</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>542</ubGraphicNum>
 		<ubWeight>1</ubWeight>
@@ -46908,7 +46908,7 @@
 		<szBRDesc>10 rounds of 8mm s.S. ammo for G43.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>598</ubClassIndex>
+		<ubClassIndex>600</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>818</ubGraphicNum>
 		<ubWeight>4</ubWeight>
@@ -46933,7 +46933,7 @@
 		<szBRDesc>The 10 rounds of S.m.K.L. Armor Piercing Tracer ammo for Zastava M76.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>599</ubClassIndex>
+		<ubClassIndex>601</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>817</ubGraphicNum>
 		<ubWeight>4</ubWeight>
@@ -46964,7 +46964,7 @@
 		<szBRDesc>Back in WW-II, this was the German Army's rifle ammunition. Today it is still considered on par with the .308 Winchester.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>601</ubClassIndex>
+		<ubClassIndex>603</ubClassIndex>
 		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>724</ubGraphicNum>
@@ -46990,7 +46990,7 @@
 		<szBRDesc>The German Army's S.m.K.L. Armor Piercing Tracer rifle ammunition in WW-II.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>602</ubClassIndex>
+		<ubClassIndex>604</ubClassIndex>
 		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>723</ubGraphicNum>
@@ -47024,7 +47024,7 @@
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>604</ubClassIndex>
+		<ubClassIndex>606</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>534</ubGraphicNum>
 		<ubWeight>10</ubWeight>
@@ -47048,7 +47048,7 @@
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>605</ubClassIndex>
+		<ubClassIndex>607</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>533</ubGraphicNum>
 		<ubWeight>10</ubWeight>
@@ -47078,7 +47078,7 @@
 		<szBRDesc>Back in WW-II, this was the German Army's rifle ammunition. Today it is still considered on par with the .308 Winchester.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>607</ubClassIndex>
+		<ubClassIndex>609</ubClassIndex>
 		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>726</ubGraphicNum>
@@ -47104,7 +47104,7 @@
 		<szBRDesc>The German Army's S.m.K.L. Armor Piercing Tracer machinegun ammunition belt in an assault drum.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>608</ubClassIndex>
+		<ubClassIndex>610</ubClassIndex>
 		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>725</ubGraphicNum>
@@ -47136,7 +47136,7 @@
 		<szBRDesc>Want to fire a .50 cal round without making noise? These babies are cutdown 12.7mm rounds to fit the Russian VKS.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>616</ubClassIndex>
+		<ubClassIndex>618</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>544</ubGraphicNum>
 		<ubWeight>3</ubWeight>
@@ -47161,7 +47161,7 @@
 		<szBRDesc>5.8x20mm is Chinese military's armor piercing cartridge designed for QSZ92 pistol and QCW05 SMG.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>620</ubClassIndex>
+		<ubClassIndex>622</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>576</ubGraphicNum>
 		<ubWeight>4</ubWeight>
@@ -47185,7 +47185,7 @@
 		<szBRDesc>5.8x20mm SB is Chinese military's armor piercing subsonic cartridge designed for QSZ92 pistol and QCW05 SMG.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>621</ubClassIndex>
+		<ubClassIndex>623</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>577</ubGraphicNum>
 		<ubWeight>4</ubWeight>
@@ -47211,7 +47211,7 @@
 		<szBRDesc>This Chinese SMG magazine contains 50 rounds of 5.8mm armor piercing ammunition.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>622</ubClassIndex>
+		<ubClassIndex>624</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>578</ubGraphicNum>
 		<ubWeight>9</ubWeight>
@@ -47234,7 +47234,7 @@
 		<szBRDesc>This Chinese SMG magazine contains 50 rounds of 5.8mm armor piercing subsonic ammunition.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>623</ubClassIndex>
+		<ubClassIndex>625</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>579</ubGraphicNum>
 		<ubWeight>9</ubWeight>
@@ -47261,7 +47261,7 @@
 		<szBRDesc>10 rounds of Chinese 5.8x42mm rifle ammunition. It's performance is on par with its NATO counterparts.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>626</ubClassIndex>
+		<ubClassIndex>628</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>580</ubGraphicNum>
 		<ubWeight>2</ubWeight>
@@ -47285,7 +47285,7 @@
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>627</ubClassIndex>
+		<ubClassIndex>629</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>581</ubGraphicNum>
 		<ubWeight>2</ubWeight>
@@ -47310,7 +47310,7 @@
 		<szBRDesc>30 rounds of Chinese 5.8x42mm rifle ammunition. It's performance is on par with its NATO counterparts.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>630</ubClassIndex>
+		<ubClassIndex>632</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>582</ubGraphicNum>
 		<ubWeight>6</ubWeight>
@@ -47334,7 +47334,7 @@
 		<szBRDesc>30 rounds of 5.8x42mm tracer projectile.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>631</ubClassIndex>
+		<ubClassIndex>633</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>583</ubGraphicNum>
 		<ubWeight>6</ubWeight>
@@ -47363,7 +47363,7 @@
 		<szBRDesc>This magazine has 75 rounds of 5.8x42mm standard SAP ammunition.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>634</ubClassIndex>
+		<ubClassIndex>636</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>584</ubGraphicNum>
 		<ubWeight>15</ubWeight>
@@ -47387,7 +47387,7 @@
 		<szBRDesc>75 rounds of 5.8x42mm tracer ammunition in a drum magazine.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>635</ubClassIndex>
+		<ubClassIndex>637</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>585</ubGraphicNum>
 		<ubWeight>15</ubWeight>
@@ -47416,7 +47416,7 @@
 		<szBRDesc>200 rounds of 5.8x42mm standard SAP ammo belt. Note: incompatible with the Chinese QJY88 GPMG.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>640</ubClassIndex>
+		<ubClassIndex>642</ubClassIndex>
 		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>586</ubGraphicNum>
@@ -47440,7 +47440,7 @@
 		<szBRDesc>200 rounds of 5.8x42mm linked tracer ammo for the QJY88 LMG</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>641</ubClassIndex>
+		<ubClassIndex>643</ubClassIndex>
 		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>587</ubGraphicNum>
@@ -47469,7 +47469,7 @@
 		<szBRDesc>This magazine just can hold 15-rounds 6.8mm SPC ammunition. This round's steel penetrator makes it possible to beat all but the best in today's body armor.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>646</ubClassIndex>
+		<ubClassIndex>648</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>588</ubGraphicNum>
 		<ubWeight>4</ubWeight>
@@ -47493,7 +47493,7 @@
 		<szBRDesc>6.8mm SPC Match King (MK) is the commercial match cartridge with better range and accuracy.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>647</ubClassIndex>
+		<ubClassIndex>649</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>591</ubGraphicNum>
 		<ubWeight>4</ubWeight>
@@ -47522,7 +47522,7 @@
 		<szBRDesc>This magazine can hold 15-rounds 6.8mm SPC ammunition. This BTHP is the economical choice for target shooting, hunting, or stopping potential long-range muggings.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>648</ubClassIndex>
+		<ubClassIndex>650</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>589</ubGraphicNum>
 		<ubWeight>4</ubWeight>
@@ -47547,7 +47547,7 @@
 		<szBRDesc>This 5.56mm magazine can hold 25-rounds 6.8mm SPC ammunition. This round's steel penetrator makes it possible to beat all but the best in today's body armor.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>649</ubClassIndex>
+		<ubClassIndex>651</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>592</ubGraphicNum>
 		<ubWeight>7</ubWeight>
@@ -47571,7 +47571,7 @@
 		<szBRDesc>6.8mm SPC Match King (MK) is the commercial match cartridge with better range and accuracy.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>650</ubClassIndex>
+		<ubClassIndex>652</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>595</ubGraphicNum>
 		<ubWeight>7</ubWeight>
@@ -47600,7 +47600,7 @@
 		<szBRDesc>This magazine can hold 25-rounds 6.8mm SPC ammunition. This BTHP is the economical choice for target shooting, hunting, or stopping potential long-range muggings.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>651</ubClassIndex>
+		<ubClassIndex>653</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>593</ubGraphicNum>
 		<ubWeight>7</ubWeight>
@@ -47625,7 +47625,7 @@
 		<szBRDesc>.300 Winchester Short Magnum is a short cartridge with identical performance as the .300 mag. It is a devastating round on medium to heavy games.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>655</ubClassIndex>
+		<ubClassIndex>657</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>596</ubGraphicNum>
 		<ubWeight>9</ubWeight>
@@ -47650,7 +47650,7 @@
 		<szBRDesc>.300 Winchester Short Magnum is a longer version of the  .308 cartridge, packing more powder.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>656</ubClassIndex>
+		<ubClassIndex>658</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>485</ubGraphicNum>
 		<ubWeight>9</ubWeight>
@@ -47675,7 +47675,7 @@
 		<szBRDesc>This FAMAS magazine contains 25-round .223 Remington ball (5.56mm M193).</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>662</ubClassIndex>
+		<ubClassIndex>664</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>597</ubGraphicNum>
 		<ubWeight>4</ubWeight>
@@ -47699,7 +47699,7 @@
 		<szBRDesc>This FAMAS magazine contains 25-round .223 Remington tracer (5.56mm M196).</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>663</ubClassIndex>
+		<ubClassIndex>665</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>598</ubGraphicNum>
 		<ubWeight>4</ubWeight>
@@ -47728,7 +47728,7 @@
 		<szBRDesc>This 30-round magazine contains .223 Remington ball (5.56mm M193).</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>665</ubClassIndex>
+		<ubClassIndex>667</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>567</ubGraphicNum>
 		<ubWeight>5</ubWeight>
@@ -47752,7 +47752,7 @@
 		<szBRDesc>This 30-round magazine contains .223 Remington tracer (5.56mm M196).</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>666</ubClassIndex>
+		<ubClassIndex>668</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>569</ubGraphicNum>
 		<ubWeight>5</ubWeight>
@@ -47781,7 +47781,7 @@
 		<szBRDesc>This 90-round MWG Drum contains 5.56mm M193 ball.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>668</ubClassIndex>
+		<ubClassIndex>670</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>599</ubGraphicNum>
 		<ubWeight>16</ubWeight>
@@ -47805,7 +47805,7 @@
 		<szBRDesc>This 90-round MWG Drum contains 5.56mm M196 tracer.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>669</ubClassIndex>
+		<ubClassIndex>671</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>600</ubGraphicNum>
 		<ubWeight>16</ubWeight>
@@ -47833,7 +47833,7 @@
 		<szBRDesc>This 150-round belt contains 5.56mm M193 ball.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>672</ubClassIndex>
+		<ubClassIndex>674</ubClassIndex>
 		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>601</ubGraphicNum>
@@ -47857,7 +47857,7 @@
 		<szBRDesc>This 150-round belt contains 5.56mm M196 tracer.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>673</ubClassIndex>
+		<ubClassIndex>675</ubClassIndex>
 		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>602</ubGraphicNum>
@@ -47886,7 +47886,7 @@
 		<szBRDesc>30 rounds of special cartridges for the Colt ACR.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>677</ubClassIndex>
+		<ubClassIndex>679</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>603</ubGraphicNum>
 		<ubWeight>7</ubWeight>
@@ -47911,7 +47911,7 @@
 		<szBRDesc>This PDW ammunition yields higher muzzle energy than the common 5.56mm M855 and generates 40% less recoil, when fired from a 10-inch barrel.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>679</ubClassIndex>
+		<ubClassIndex>681</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>604</ubGraphicNum>
 		<ubWeight>4</ubWeight>
@@ -47935,7 +47935,7 @@
 		<szBRDesc>Being mid-way in size between the mighty .50BMG and already established long-range favorite .338Lapua, the .408 features a streamlined bullet with advanced patented design.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>681</ubClassIndex>
+		<ubClassIndex>683</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>605</ubGraphicNum>
 		<ubWeight>2</ubWeight>
@@ -47959,7 +47959,7 @@
 		<szBRDesc>This 50-round magazine contains 5.56mm caseless ammunition.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>683</ubClassIndex>
+		<ubClassIndex>685</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>606</ubGraphicNum>
 		<ubWeight>4</ubWeight>
@@ -47984,7 +47984,7 @@
 		<szBRDesc>This 150-round belt holds 5.56mm caseless ammunition.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>684</ubClassIndex>
+		<ubClassIndex>686</ubClassIndex>
 		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>607</ubGraphicNum>
@@ -48010,7 +48010,7 @@
 		<szBRDesc>7 rounds of .357 SIG caliber Full Metal Jacket bullets.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>686</ubClassIndex>
+		<ubClassIndex>688</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>608</ubGraphicNum>
 		<ubWeight>2</ubWeight>
@@ -48034,7 +48034,7 @@
 		<szBRDesc>7 rounds of .357 SIG caliber Bonded Hollow Point bullets.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>687</ubClassIndex>
+		<ubClassIndex>689</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>609</ubGraphicNum>
 		<ubWeight>2</ubWeight>
@@ -48058,7 +48058,7 @@
 		<szBRDesc>7 rounds of .357 SIG caliber hand-loaded match grade FMJ bullets.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>688</ubClassIndex>
+		<ubClassIndex>690</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>658</ubGraphicNum>
 		<ubWeight>2</ubWeight>
@@ -48084,7 +48084,7 @@
 		<szBRDesc>12 rounds of .357 SIG caliber Full Metal Jacket bullets.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>689</ubClassIndex>
+		<ubClassIndex>691</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>610</ubGraphicNum>
 		<ubWeight>2</ubWeight>
@@ -48108,7 +48108,7 @@
 		<szBRDesc>12 rounds of .357 SIG caliber Bonded Hollow Point bullets.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>690</ubClassIndex>
+		<ubClassIndex>692</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>611</ubGraphicNum>
 		<ubWeight>2</ubWeight>
@@ -48132,7 +48132,7 @@
 		<szBRDesc>This is 12 rounds of .357 SIG caliber hand-loaded match grade FMJ bullets.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>691</ubClassIndex>
+		<ubClassIndex>693</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>661</ubGraphicNum>
 		<ubWeight>2</ubWeight>
@@ -48158,7 +48158,7 @@
 		<szBRDesc>24 rounds of 5.6mm Fleschette for the Steyr ACR.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>695</ubClassIndex>
+		<ubClassIndex>697</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>612</ubGraphicNum>
 		<ubWeight>3</ubWeight>
@@ -48184,7 +48184,7 @@
 		<szBRDesc>This single stack magazine holds six rounds of SP-4 special purpose noiseless ammunition.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>697</ubClassIndex>
+		<ubClassIndex>699</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>613</ubGraphicNum>
 		<ubWeight>1</ubWeight>
@@ -48210,7 +48210,7 @@
 		<szBRDesc>This magazine hold 26-rounds 5.6mm MPS underwater-cartridge for APS rifle.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>699</ubClassIndex>
+		<ubClassIndex>701</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>614</ubGraphicNum>
 		<ubWeight>10</ubWeight>
@@ -48234,7 +48234,7 @@
 		<szBRDesc>10 rounds of 9.3mm 9o.SN anti-material bullets for the SVDK.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>701</ubClassIndex>
+		<ubClassIndex>703</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>615</ubGraphicNum>
 		<ubWeight>4</ubWeight>
@@ -48259,7 +48259,7 @@
 		<szBRDesc>15 rounds of .30 carbine for the famous M1 carbine.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>703</ubClassIndex>
+		<ubClassIndex>705</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>616</ubGraphicNum>
 		<ubWeight>2</ubWeight>
@@ -48284,7 +48284,7 @@
 		<szBRDesc>30 rounds of .30 carbine for the selective-fire M2 Carbine.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>704</ubClassIndex>
+		<ubClassIndex>706</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>617</ubGraphicNum>
 		<ubWeight>4</ubWeight>
@@ -48309,7 +48309,7 @@
 		<szBRDesc>5-round clip of .30-06 ammo for the Springfield M1903.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>706</ubClassIndex>
+		<ubClassIndex>708</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>618</ubGraphicNum>
 		<ubWeight>1</ubWeight>
@@ -48333,7 +48333,7 @@
 		<szBRDesc>5-round clip of match grade .30-06 ammo.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>708</ubClassIndex>
+		<ubClassIndex>710</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>638</ubGraphicNum>
 		<ubWeight>1</ubWeight>
@@ -48360,7 +48360,7 @@
 		<szBRDesc>The famous 8 round clip of .30-06 ammo for M1 Garand. The ejection of the empty clip produces a metallic "ping" noise and is often used by the enemy as an indication of an empty gun.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>709</ubClassIndex>
+		<ubClassIndex>711</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>619</ubGraphicNum>
 		<ubWeight>1</ubWeight>
@@ -48384,7 +48384,7 @@
 		<szBRDesc>The famous 8 round clip of .30-06 ammo for M1 Garand. The ejection produces a metallic "ping" noise and is often used by the enemy as an indication of an empty gun. This is the match grade cartridge produced for commercial use.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>711</ubClassIndex>
+		<ubClassIndex>713</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>639</ubGraphicNum>
 		<ubWeight>1</ubWeight>
@@ -48411,7 +48411,7 @@
 		<szBRDesc>20 rounds of .30-06 ammo for M1918 BAR.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>715</ubClassIndex>
+		<ubClassIndex>717</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>620</ubGraphicNum>
 		<ubWeight>5</ubWeight>
@@ -48435,7 +48435,7 @@
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>717</ubClassIndex>
+		<ubClassIndex>719</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>640</ubGraphicNum>
 		<ubWeight>5</ubWeight>
@@ -48462,7 +48462,7 @@
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>718</ubClassIndex>
+		<ubClassIndex>720</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>643</ubGraphicNum>
 		<ubWeight>5</ubWeight>
@@ -48485,7 +48485,7 @@
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>720</ubClassIndex>
+		<ubClassIndex>722</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>644</ubGraphicNum>
 		<ubWeight>5</ubWeight>
@@ -48511,7 +48511,7 @@
 		<szBRDesc>250 rounds of .30-06 ammo for M1919A6 Browning Machinegun.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>722</ubClassIndex>
+		<ubClassIndex>724</ubClassIndex>
 		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>621</ubGraphicNum>
@@ -48535,7 +48535,7 @@
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>724</ubClassIndex>
+		<ubClassIndex>726</ubClassIndex>
 		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>645</ubGraphicNum>
@@ -48562,7 +48562,7 @@
 		<szBRDesc>2 clips, a total of 10-rounds of .303 British Mk.VII ammo.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>730</ubClassIndex>
+		<ubClassIndex>732</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>622</ubGraphicNum>
 		<ubWeight>2</ubWeight>
@@ -48586,7 +48586,7 @@
 		<szBRDesc>2 clips, a total 10-rounds of .303 W Mark 1z ammo. This armor piercing tracer cartridge has superior accuracy.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>731</ubClassIndex>
+		<ubClassIndex>733</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>649</ubGraphicNum>
 		<ubWeight>2</ubWeight>
@@ -48616,7 +48616,7 @@
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>733</ubClassIndex>
+		<ubClassIndex>735</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>650</ubGraphicNum>
 		<ubWeight>4</ubWeight>
@@ -48639,7 +48639,7 @@
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>734</ubClassIndex>
+		<ubClassIndex>736</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>651</ubGraphicNum>
 		<ubWeight>4</ubWeight>
@@ -48668,7 +48668,7 @@
 		<szBRDesc>30 rounds of .303 Mk.VII ammo for the Bren gun.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>736</ubClassIndex>
+		<ubClassIndex>738</ubClassIndex>
 		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>623</ubGraphicNum>
@@ -48693,7 +48693,7 @@
 		<szBRDesc>These 30 rounds of .303 W Mark 1z Armor Piercing Tracer ammo.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>737</ubClassIndex>
+		<ubClassIndex>739</ubClassIndex>
 		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>654</ubGraphicNum>
@@ -48725,7 +48725,7 @@
 		<szBRDesc>97 rounds of .303 Mk.VII ammo for the Lewis machinegun.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>739</ubClassIndex>
+		<ubClassIndex>741</ubClassIndex>
 		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>624</ubGraphicNum>
@@ -48750,7 +48750,7 @@
 		<szBRDesc>97 rounds of .303 W Mark 1z Armor Piercing Tracer ammo for the Lewis machinegun.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>740</ubClassIndex>
+		<ubClassIndex>742</ubClassIndex>
 		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>655</ubGraphicNum>
@@ -63915,7 +63915,7 @@
 		<szBRDesc>500 rounds of 7.5x55mm GP11 Swiss ammunition in ammo crate.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>846</ubClassIndex>
+		<ubClassIndex>850</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>347</ubGraphicNum>
 		<ubWeight>150</ubWeight>
@@ -63940,7 +63940,7 @@
 		<szBRDesc>500 rounds of 7.5x54mm Fr. ammunition in ammo crate.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>805</ubClassIndex>
+		<ubClassIndex>809</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>542</ubGraphicNum>
 		<ubWeight>150</ubWeight>
@@ -64995,7 +64995,7 @@
 		<szBRDesc>Two rounds of .41 Rimmed ammunition for Deringer Pocket Gun.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>771</ubClassIndex>
+		<ubClassIndex>775</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>789</ubGraphicNum>
 		<ubWeight>2</ubWeight>
@@ -65439,7 +65439,7 @@
 		<szBRDesc>50 rounds of .300 Winchester Magnum match ball ammo in paper box.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>592</ubClassIndex>
+		<ubClassIndex>594</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>344</ubGraphicNum>
 		<ubWeight>32</ubWeight>
@@ -65463,7 +65463,7 @@
 		<szBRDesc>50 rounds of .300 Winchester Magnum armor-piercing ammo in paper box.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>594</ubClassIndex>
+		<ubClassIndex>596</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>345</ubGraphicNum>
 		<ubWeight>32</ubWeight>
@@ -65487,7 +65487,7 @@
 		<szBRDesc>750 rounds of 5.8x42mm ball in ammo crate.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>644</ubClassIndex>
+		<ubClassIndex>646</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>548</ubGraphicNum>
 		<ubWeight>98</ubWeight>
@@ -65512,7 +65512,7 @@
 		<szBRDesc>750 rounds of 5.8x42mm tracer in ammo crate.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>645</ubClassIndex>
+		<ubClassIndex>647</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>549</ubGraphicNum>
 		<ubWeight>98</ubWeight>
@@ -65537,7 +65537,7 @@
 		<szBRDesc>150 rounds of 5.8x42mm match ammo in paper box.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>638</ubClassIndex>
+		<ubClassIndex>640</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>460</ubGraphicNum>
 		<ubWeight>21</ubWeight>
@@ -65561,7 +65561,7 @@
 		<szBRDesc>100 rounds of 6.8mm Remington SPC standard FMJ ammunition in paper box.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>652</ubClassIndex>
+		<ubClassIndex>654</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>321</ubGraphicNum>
 		<ubWeight>20</ubWeight>
@@ -65585,7 +65585,7 @@
 		<szBRDesc>100 rounds of 6.8mm SPC MK ammunition in paper box.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>653</ubClassIndex>
+		<ubClassIndex>655</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>322</ubGraphicNum>
 		<ubWeight>20</ubWeight>
@@ -65609,7 +65609,7 @@
 		<szBRDesc>100 rounds of 6.8mm Remington SPC Boat Tail Hollow Point (BTHP) in paper box.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>654</ubClassIndex>
+		<ubClassIndex>656</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>320</ubGraphicNum>
 		<ubWeight>20</ubWeight>
@@ -65633,7 +65633,7 @@
 		<szBRDesc>1000 rounds of 5.56mm M193 ball in ammo crate.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>675</ubClassIndex>
+		<ubClassIndex>677</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>338</ubGraphicNum>
 		<ubWeight>120</ubWeight>
@@ -65658,7 +65658,7 @@
 		<szBRDesc>1000 rounds of 5.56mm M196 tracer in ammo crate.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>676</ubClassIndex>
+		<ubClassIndex>678</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>342</ubGraphicNum>
 		<ubWeight>120</ubWeight>
@@ -65709,7 +65709,7 @@
 		<szBRDesc>1500 rounds of 5.56mm caseless ammunition in ammo crate.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>685</ubClassIndex>
+		<ubClassIndex>687</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>341</ubGraphicNum>
 		<ubWeight>90</ubWeight>
@@ -65987,7 +65987,7 @@
 		<szBRDesc>200 rounds of .357 SIG FMJ ammunition in paper box.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>692</ubClassIndex>
+		<ubClassIndex>694</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>319</ubGraphicNum>
 		<ubWeight>29</ubWeight>
@@ -66011,7 +66011,7 @@
 		<szBRDesc>200 rounds of .357 SIG Bonded Hollow Point bullets in paper box.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>693</ubClassIndex>
+		<ubClassIndex>695</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>320</ubGraphicNum>
 		<ubWeight>29</ubWeight>
@@ -66035,7 +66035,7 @@
 		<szBRDesc>200 rounds of .357 SIG match ball in paper box.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>694</ubClassIndex>
+		<ubClassIndex>696</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>322</ubGraphicNum>
 		<ubWeight>29</ubWeight>
@@ -66083,7 +66083,7 @@
 		<szBRDesc>50 rounds of Alexander Arms .50 Beowulf FMJ in paper box.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>587</ubClassIndex>
+		<ubClassIndex>589</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>327</ubGraphicNum>
 		<ubWeight>13</ubWeight>
@@ -66107,7 +66107,7 @@
 		<szBRDesc>50 rounds of Alexander Arms .50 Beowulf JHP in paper box.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>588</ubClassIndex>
+		<ubClassIndex>590</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>328</ubGraphicNum>
 		<ubWeight>13</ubWeight>
@@ -66131,7 +66131,7 @@
 		<szBRDesc>100 rounds of Alexander Arms 6.5 Grendel FMJ in paper box.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>783</ubClassIndex>
+		<ubClassIndex>787</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>327</ubGraphicNum>
 		<ubWeight>20</ubWeight>
@@ -66155,7 +66155,7 @@
 		<szBRDesc>100 rounds of Alexander Arms 6.5 Grendel jacketed hollow point ammunition in paper box.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>784</ubClassIndex>
+		<ubClassIndex>788</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>328</ubGraphicNum>
 		<ubWeight>20</ubWeight>
@@ -66179,7 +66179,7 @@
 		<szBRDesc>3000 rounds of .22 LR lead hollow-point in ammo crate.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>789</ubClassIndex>
+		<ubClassIndex>793</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>312</ubGraphicNum>
 		<ubWeight>135</ubWeight>
@@ -66204,7 +66204,7 @@
 		<szBRDesc>3000 rounds of .22 LR High Velocity ball in ammo crate.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>790</ubClassIndex>
+		<ubClassIndex>794</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>318</ubGraphicNum>
 		<ubWeight>135</ubWeight>
@@ -66229,7 +66229,7 @@
 		<szBRDesc>200 rounds of .224 VOB (5.56x23.5mm) armor piercing cartridge in paper box.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>816</ubClassIndex>
+		<ubClassIndex>820</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>329</ubGraphicNum>
 		<ubWeight>24</ubWeight>
@@ -66253,7 +66253,7 @@
 		<szBRDesc>500 rounds of 7.92x57mm Mauser WWII rifle ammunition in ammo crate.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>613</ubClassIndex>
+		<ubClassIndex>615</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>557</ubGraphicNum>
 		<ubWeight>150</ubWeight>
@@ -66278,7 +66278,7 @@
 		<szBRDesc>500 rounds of 7.92x57mm WWII S.m.K.L. Armor Piercing Tracer ammunition in ammo crate.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>614</ubClassIndex>
+		<ubClassIndex>616</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>558</ubGraphicNum>
 		<ubWeight>150</ubWeight>
@@ -66303,7 +66303,7 @@
 		<szBRDesc>1000 rounds of U.S. .30 M1/M2/M3 Carbine ammunition in ammo crate.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>705</ubClassIndex>
+		<ubClassIndex>707</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>544</ubGraphicNum>
 		<ubWeight>120</ubWeight>
@@ -66328,7 +66328,7 @@
 		<szBRDesc>500 rounds of .30-06 WWII rifle ammunition in ammo crate.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>725</ubClassIndex>
+		<ubClassIndex>727</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>545</ubGraphicNum>
 		<ubWeight>150</ubWeight>
@@ -66353,7 +66353,7 @@
 		<szBRDesc>100 rounds of .30-06 modern match class ammunition in ammo box.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>721</ubClassIndex>
+		<ubClassIndex>723</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>547</ubGraphicNum>
 		<ubWeight>30</ubWeight>
@@ -66377,7 +66377,7 @@
 		<szBRDesc>500 rounds of .303 British rifle ammunition in ammo crate.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>742</ubClassIndex>
+		<ubClassIndex>744</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>542</ubGraphicNum>
 		<ubWeight>150</ubWeight>
@@ -66402,7 +66402,7 @@
 		<szBRDesc>500 rounds of .303 W Mark 1z Armor Piercing Tracer ammunition in ammo crate.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>743</ubClassIndex>
+		<ubClassIndex>745</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>543</ubGraphicNum>
 		<ubWeight>150</ubWeight>
@@ -73881,7 +73881,7 @@
 		<szBRDesc>250 rounds of Russian 5.45x18mm Jacketd Hollow Point ammunition in a cardboard box.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>567</ubClassIndex>
+		<ubClassIndex>568</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>461</ubGraphicNum>
 		<ubWeight>21</ubWeight>
@@ -73905,7 +73905,7 @@
 		<szBRDesc>100 rounds of .50 Action Express Jacket Hollow Point ammunition in a cardboard box.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>572</ubClassIndex>
+		<ubClassIndex>574</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>328</ubGraphicNum>
 		<ubWeight>28</ubWeight>
@@ -73929,7 +73929,7 @@
 		<szBRDesc>100 rounds of .50 Action Express Match Softpoint ammunition in a cardboard box.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>573</ubClassIndex>
+		<ubClassIndex>575</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>462</ubGraphicNum>
 		<ubWeight>28</ubWeight>
@@ -73953,7 +73953,7 @@
 		<szBRDesc>100 rounds of .454 Casull Jacket Hollow Point ammunition in a cardboard box.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>576</ubClassIndex>
+		<ubClassIndex>578</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>550</ubGraphicNum>
 		<ubWeight>18</ubWeight>
@@ -73977,7 +73977,7 @@
 		<szBRDesc>100 rounds of .45 Winchester Magnum ammunition in a cardboard box.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>579</ubClassIndex>
+		<ubClassIndex>581</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>462</ubGraphicNum>
 		<ubWeight>22</ubWeight>
@@ -74001,7 +74001,7 @@
 		<szBRDesc>100 rounds of .45 WinMag Jacket Hollow Point ammunition in a cardboard box.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>580</ubClassIndex>
+		<ubClassIndex>582</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>328</ubGraphicNum>
 		<ubWeight>24</ubWeight>
@@ -74025,7 +74025,7 @@
 		<szBRDesc>The .300 Winchester Magnum can be considered a standard hunting round.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>590</ubClassIndex>
+		<ubClassIndex>592</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>490</ubGraphicNum>
 		<ubWeight>1</ubWeight>
@@ -74050,7 +74050,7 @@
 		<szBRDesc>50 rounds of .300 Winchester Magnum Hunting Softpoint ammunition in a cardboard box.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>593</ubClassIndex>
+		<ubClassIndex>595</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>463</ubGraphicNum>
 		<ubWeight>16</ubWeight>
@@ -74074,7 +74074,7 @@
 		<szBRDesc>250 rounds of Soviet/Russian 12.7x54mm Subsonic sniper ammunition in a metal ammo crate.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>618</ubClassIndex>
+		<ubClassIndex>620</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>536</ubGraphicNum>
 		<ubWeight>150</ubWeight>
@@ -74099,7 +74099,7 @@
 		<szBRDesc>200 rounds of 5.8x21mm military ball ammunition in a cardboard box.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>624</ubClassIndex>
+		<ubClassIndex>626</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>329</ubGraphicNum>
 		<ubWeight>28</ubWeight>
@@ -74124,7 +74124,7 @@
 		<szBRDesc>200 rounds of 5.8x21mm subsonic ball ammunition in a cardboard box.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>625</ubClassIndex>
+		<ubClassIndex>627</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>541</ubGraphicNum>
 		<ubWeight>28</ubWeight>
@@ -74149,7 +74149,7 @@
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>629</ubClassIndex>
+		<ubClassIndex>631</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>486</ubGraphicNum>
 		<ubWeight>2</ubWeight>
@@ -74176,7 +74176,7 @@
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>633</ubClassIndex>
+		<ubClassIndex>635</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>487</ubGraphicNum>
 		<ubWeight>6</ubWeight>
@@ -74202,7 +74202,7 @@
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>637</ubClassIndex>
+		<ubClassIndex>639</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>488</ubGraphicNum>
 		<ubWeight>15</ubWeight>
@@ -74228,7 +74228,7 @@
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>643</ubClassIndex>
+		<ubClassIndex>645</ubClassIndex>
 		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>489</ubGraphicNum>
@@ -74254,7 +74254,7 @@
 		<szBRDesc>100 rounds of 5.8x42mm Subsonic Ball ammo in paper box.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>639</ubClassIndex>
+		<ubClassIndex>641</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>541</ubGraphicNum>
 		<ubWeight>21</ubWeight>
@@ -74289,7 +74289,7 @@
 		<szBRDesc>A specially designed Hi-explosive crossbolt bolt that arms in mid-air and detonates on impact.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>753</ubClassIndex>
+		<ubClassIndex>755</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>630</ubGraphicNum>
 		<ubWeight>18</ubWeight>
@@ -74314,7 +74314,7 @@
 		<szBRDesc>50 rounds of .300 Winchester Short Magnum Match grade FMJ ammunition in a cardboard box.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>657</ubClassIndex>
+		<ubClassIndex>659</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>344</ubGraphicNum>
 		<ubWeight>13</ubWeight>
@@ -74338,7 +74338,7 @@
 		<szBRDesc>50 rounds of .300 Winchester Short Magnum softpoint ammunition in a cardboard box.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>658</ubClassIndex>
+		<ubClassIndex>660</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>345</ubGraphicNum>
 		<ubWeight>13</ubWeight>
@@ -74373,7 +74373,7 @@
 		<szBRDesc>This 20-round M16 magazine contains .223 Remington tracer (5.56mm M196).</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>660</ubClassIndex>
+		<ubClassIndex>662</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>474</ubGraphicNum>
 		<ubWeight>4</ubWeight>
@@ -74402,7 +74402,7 @@
 		<szBRDesc>This 20-round M16 magazine contains .223 Remington match class Softpoint (5.56mm Stag King).</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>661</ubClassIndex>
+		<ubClassIndex>663</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>475</ubGraphicNum>
 		<ubWeight>3</ubWeight>
@@ -74427,7 +74427,7 @@
 		<szBRDesc>This FAMAS magazine contains 25-rounds of .223 Remington match class Softpoint (5.56mm Stag King).</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>664</ubClassIndex>
+		<ubClassIndex>666</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>480</ubGraphicNum>
 		<ubWeight>3</ubWeight>
@@ -74452,7 +74452,7 @@
 		<szBRDesc>This 30-round magazine contains .223 Remington match class Softpoint (5.56mm Stag King).</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>667</ubClassIndex>
+		<ubClassIndex>669</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>481</ubGraphicNum>
 		<ubWeight>3</ubWeight>
@@ -74477,7 +74477,7 @@
 		<szBRDesc>This 90-round MWG Drum contains 5.56mm Stag King Softpoint Hunting rounds.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>670</ubClassIndex>
+		<ubClassIndex>672</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>482</ubGraphicNum>
 		<ubWeight>16</ubWeight>
@@ -74502,7 +74502,7 @@
 		<szBRDesc>This 150-round belt contains 5.56mm Stag King Softpoint Hunting sounds.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>674</ubClassIndex>
+		<ubClassIndex>676</ubClassIndex>
 		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>483</ubGraphicNum>
@@ -74526,7 +74526,7 @@
 		<szBRDesc>100 rounds of 5.56mm Stag King Softpoint ammunition in a metal ammo box.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>671</ubClassIndex>
+		<ubClassIndex>673</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>463</ubGraphicNum>
 		<ubWeight>12</ubWeight>
@@ -74551,7 +74551,7 @@
 		<szBRDesc>1000 rounds of 5.56mm Duplex ammunition in a metal ammo crate.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>678</ubClassIndex>
+		<ubClassIndex>680</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>340</ubGraphicNum>
 		<ubWeight>120</ubWeight>
@@ -74577,7 +74577,7 @@
 		<szBRDesc>250 rounds of 6x35mm KAC FMJ ammunition in a cardboard box.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>680</ubClassIndex>
+		<ubClassIndex>682</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>321</ubGraphicNum>
 		<ubWeight>20</ubWeight>
@@ -74601,7 +74601,7 @@
 		<szBRDesc>50 rounds of .408 CheyTac ammunition in a cardboard box.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>682</ubClassIndex>
+		<ubClassIndex>684</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>327</ubGraphicNum>
 		<ubWeight>20</ubWeight>
@@ -74625,7 +74625,7 @@
 		<szBRDesc>1000 rounds of 5.6mm Flechette ammunition in a cardboard crate.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>696</ubClassIndex>
+		<ubClassIndex>698</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>343</ubGraphicNum>
 		<ubWeight>150</ubWeight>
@@ -74650,7 +74650,7 @@
 		<szBRDesc>100 rounds of 7.62x41mm SP-4 (FMJ) ammunition in a cardboard box.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>698</ubClassIndex>
+		<ubClassIndex>700</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>345</ubGraphicNum>
 		<ubWeight>12</ubWeight>
@@ -74674,7 +74674,7 @@
 		<szBRDesc>300 rounds of 5.6x39mm MPS underwater ammunition in a crate.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>700</ubClassIndex>
+		<ubClassIndex>702</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>536</ubGraphicNum>
 		<ubWeight>39</ubWeight>
@@ -74698,7 +74698,7 @@
 		<szBRDesc>100 rounds of 9.3x64mm 9o.SN anti-material ammunition in a cardboard box.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>702</ubClassIndex>
+		<ubClassIndex>704</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>331</ubGraphicNum>
 		<ubWeight>24</ubWeight>
@@ -74722,7 +74722,7 @@
 		<szBRDesc>5 rounds of .30-06 Tracer ammo for M1903.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>707</ubClassIndex>
+		<ubClassIndex>709</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>467</ubGraphicNum>
 		<ubWeight>1</ubWeight>
@@ -74750,7 +74750,7 @@
 		<szBRDesc>8 rounds of .30-06 Tracer ammo for M1 Garand.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>710</ubClassIndex>
+		<ubClassIndex>712</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>468</ubGraphicNum>
 		<ubWeight>1</ubWeight>
@@ -74779,7 +74779,7 @@
 		<szBRDesc>Two clip, 10 rounds of .30-06 ammo for M1914 Johnson.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>713</ubClassIndex>
+		<ubClassIndex>715</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>469</ubGraphicNum>
 		<ubWeight>1</ubWeight>
@@ -74808,7 +74808,7 @@
 		<szBRDesc>20 rounds of .30-06 ammo for M1918 BAR.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>716</ubClassIndex>
+		<ubClassIndex>718</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>470</ubGraphicNum>
 		<ubWeight>5</ubWeight>
@@ -74837,7 +74837,7 @@
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>719</ubClassIndex>
+		<ubClassIndex>721</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>471</ubGraphicNum>
 		<ubWeight>5</ubWeight>
@@ -74865,7 +74865,7 @@
 		<szBRDesc>250 rounds of .30-06 ammo for M1919A6 BMG.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>723</ubClassIndex>
+		<ubClassIndex>725</ubClassIndex>
 		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>472</ubGraphicNum>
@@ -74894,7 +74894,7 @@
 		<szBRDesc>500 rounds of .30-06 WWII rifle ammunition in ammo crate.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>726</ubClassIndex>
+		<ubClassIndex>728</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>546</ubGraphicNum>
 		<ubWeight>150</ubWeight>
@@ -74930,7 +74930,7 @@
 		<szBRDesc>5 rounds clip of .303 W Mark 1z ammo. Being armor piercing tracer ammo doesn't affect its good accuracy at all.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>728</ubClassIndex>
+		<ubClassIndex>730</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>467</ubGraphicNum>
 		<ubWeight>2</ubWeight>
@@ -74960,7 +74960,7 @@
 		<szBRDesc>150 rounds of .55 Boys ATR ammunition in a metal ammo crate.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>746</ubClassIndex>
+		<ubClassIndex>748</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>562</ubGraphicNum>
 		<ubWeight>290</ubWeight>
@@ -74985,7 +74985,7 @@
 		<szBRDesc>750 rounds of German 7.92 Kurz WWII FMJ ammunition in a metal ammo crate.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>748</ubClassIndex>
+		<ubClassIndex>750</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>556</ubGraphicNum>
 		<ubWeight>150</ubWeight>
@@ -75010,7 +75010,7 @@
 		<szBRDesc>500 rounds of Japanese Arisaka 6.5mm Ball ammunition in a metal ammo crate.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>751</ubClassIndex>
+		<ubClassIndex>753</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>562</ubGraphicNum>
 		<ubWeight>122</ubWeight>
@@ -75035,7 +75035,7 @@
 		<szBRDesc>500 rounds of .300 AAC BLACKOUT (7.62x35mm) 220 subsonic ammunition in a metal ammo crate.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>760</ubClassIndex>
+		<ubClassIndex>762</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>338</ubGraphicNum>
 		<ubWeight>100</ubWeight>
@@ -75060,7 +75060,7 @@
 		<szBRDesc>50 rounds of .41 Rimmed ammunition in a cardboard box.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>772</ubClassIndex>
+		<ubClassIndex>776</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>464</ubGraphicNum>
 		<ubWeight>3</ubWeight>
@@ -75085,7 +75085,7 @@
 		<szBRDesc>50 rounds of Winchester .458 WinMag FMJ ammunition in a cardboard box.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>775</ubClassIndex>
+		<ubClassIndex>779</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>561</ubGraphicNum>
 		<ubWeight>13</ubWeight>
@@ -75109,7 +75109,7 @@
 		<szBRDesc>50 rounds of Winchester .458 WinMag Jacketed Hollow Point ammunition in a cardboard box.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>776</ubClassIndex>
+		<ubClassIndex>780</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>550</ubGraphicNum>
 		<ubWeight>13</ubWeight>
@@ -75133,7 +75133,7 @@
 		<szBRDesc>100 rounds of the Custom Loaded PK.221S HVAP ammunition in a cardboard box.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>778</ubClassIndex>
+		<ubClassIndex>782</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>321</ubGraphicNum>
 		<ubWeight>13</ubWeight>
@@ -75157,7 +75157,7 @@
 		<szBRDesc>50 rounds of 23mm Buckshot SSG ammunition in a box.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>796</ubClassIndex>
+		<ubClassIndex>800</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>564</ubGraphicNum>
 		<ubWeight>10</ubWeight>
@@ -75182,7 +75182,7 @@
 		<szBRDesc>50 rounds of 23mm slug SSG ammunition in a box.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>795</ubClassIndex>
+		<ubClassIndex>799</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>563</ubGraphicNum>
 		<ubWeight>10</ubWeight>
@@ -75218,7 +75218,7 @@
 		<szBRDesc>20 rounds of 65 gr JHP .32 ACP ammo.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>812</ubClassIndex>
+		<ubClassIndex>816</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>921</ubGraphicNum>
 		<ubWeight>2</ubWeight>
@@ -75243,7 +75243,7 @@
 		<szBRDesc>200 rounds of .32 ACP ball ammunition in a cardboard box.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>813</ubClassIndex>
+		<ubClassIndex>817</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>319</ubGraphicNum>
 		<ubWeight>22</ubWeight>
@@ -75267,7 +75267,7 @@
 		<szBRDesc>200 rounds of .32 ACP Jacketed Hollow Point ammunition in a cardboard box.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>814</ubClassIndex>
+		<ubClassIndex>818</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>320</ubGraphicNum>
 		<ubWeight>22</ubWeight>
@@ -75291,7 +75291,7 @@
 		<szBRDesc>200 rounds of .22 Scamp armor piercing ammunition in a cardboard box.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>818</ubClassIndex>
+		<ubClassIndex>822</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>321</ubGraphicNum>
 		<ubWeight>24</ubWeight>
@@ -75315,7 +75315,7 @@
 		<szBRDesc>100 rounds of .38 Super ball ammunition in a cardboard box.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>827</ubClassIndex>
+		<ubClassIndex>831</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>319</ubGraphicNum>
 		<ubWeight>22</ubWeight>
@@ -75339,7 +75339,7 @@
 		<szBRDesc>100 rounds of .38 Super Jacket Hollow Point ammunitiont in a cardboard box.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>828</ubClassIndex>
+		<ubClassIndex>832</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>320</ubGraphicNum>
 		<ubWeight>22</ubWeight>
@@ -75363,7 +75363,7 @@
 		<szBRDesc>100 rounds of .38 Super KTW Steel Penetrator ammunition in a cardboard box.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>829</ubClassIndex>
+		<ubClassIndex>833</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>324</ubGraphicNum>
 		<ubWeight>22</ubWeight>
@@ -75398,7 +75398,7 @@
 		<szBRDesc>A 12-round JHP clip of .458 SOCOM ammunition. This manstopper is a 300grain bullet with a velocity of 1900 fps.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>835</ubClassIndex>
+		<ubClassIndex>839</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>477</ubGraphicNum>
 		<ubWeight>7</ubWeight>
@@ -75434,7 +75434,7 @@
 		<szBRDesc>A 14-round JHP clip of .458 SOCOM ammunition, This manstopper is a 300grain bullet with a velocity of 1900 fps.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>837</ubClassIndex>
+		<ubClassIndex>841</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>479</ubGraphicNum>
 		<ubWeight>9</ubWeight>
@@ -75459,7 +75459,7 @@
 		<szBRDesc>50 rounds of .458 SOCOM  Full Metal Jacket ammunition in a cardboard box.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>840</ubClassIndex>
+		<ubClassIndex>844</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>465</ubGraphicNum>
 		<ubWeight>22</ubWeight>
@@ -75483,7 +75483,7 @@
 		<szBRDesc>50 rounds of .458 SOCOM Jacket Hollow Point ammunition in a cardboard box.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>841</ubClassIndex>
+		<ubClassIndex>845</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>466</ubGraphicNum>
 		<ubWeight>22</ubWeight>
@@ -75507,7 +75507,7 @@
 		<szBRDesc>This magazine hold 26-rounds 5.45x39mm MGTS underwater cartridge.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>848</ubClassIndex>
+		<ubClassIndex>852</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>478</ubGraphicNum>
 		<ubWeight>10</ubWeight>
@@ -75531,7 +75531,7 @@
 		<szBRDesc>500 rounds of 5.45x39mm MGTS underwater ammunition in a crate.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>849</ubClassIndex>
+		<ubClassIndex>853</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>318</ubGraphicNum>
 		<ubWeight>49</ubWeight>
@@ -75970,7 +75970,7 @@
 		<szBRDesc>This large magazine contains 22 rounds of match class .38 Super JHP ammunition.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>825</ubClassIndex>
+		<ubClassIndex>829</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>924</ubGraphicNum>
 		<ubWeight>5</ubWeight>
@@ -75994,7 +75994,7 @@
 		<szBRDesc>This large magazine contains 22 rounds of match class .38 Super KTW ammunition.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>826</ubClassIndex>
+		<ubClassIndex>830</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>925</ubGraphicNum>
 		<ubWeight>5</ubWeight>
@@ -76032,7 +76032,7 @@
 		<szBRDesc>Those five solid slug shells are the special stacked ammunition for the Metal Storm MAUL shotgun.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>850</ubClassIndex>
+		<ubClassIndex>854</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>569</ubGraphicNum>
 		<ubWeight>9</ubWeight>
@@ -76071,7 +76071,7 @@
 		<szBRDesc>The cartridge for the Indian MSMC submachinegun is simply 5.56 NATO with shortened casing and reduced powder, well-suited for PDWs and varmint guns.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>853</ubClassIndex>
+		<ubClassIndex>859</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>321</ubGraphicNum>
 		<ubWeight>14</ubWeight>
@@ -76106,7 +76106,7 @@
 		<szBRDesc>100 rounds of Soviet/Russian 14.5x114mm Armor Piercing / Tracer ammunition in a metal ammo crate.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>855</ubClassIndex>
+		<ubClassIndex>861</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>330</ubGraphicNum>
 		<ubWeight>160</ubWeight>
@@ -77570,7 +77570,7 @@
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>859</ubClassIndex>
+		<ubClassIndex>865</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>577</ubGraphicNum>
 		<ubWeight>2</ubWeight>
@@ -77606,7 +77606,7 @@
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>861</ubClassIndex>
+		<ubClassIndex>867</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>579</ubGraphicNum>
 		<ubWeight>7</ubWeight>
@@ -77631,7 +77631,7 @@
 		<szBRDesc>The .410 Slug are normally for kids to shoot at squirrels, but .410 Slug has comparable power to most magnum handgun cartridges.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>862</ubClassIndex>
+		<ubClassIndex>868</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>344</ubGraphicNum>
 		<ubWeight>38</ubWeight>
@@ -77655,7 +77655,7 @@
 		<szBRDesc>The .410 Buckshot just normally for kids to shoot at squirrels.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>863</ubClassIndex>
+		<ubClassIndex>869</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>345</ubGraphicNum>
 		<ubWeight>38</ubWeight>
@@ -77690,7 +77690,7 @@
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>865</ubClassIndex>
+		<ubClassIndex>871</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>931</ubGraphicNum>
 		<ubWeight>2</ubWeight>
@@ -77719,7 +77719,7 @@
 		<szBRDesc>The .22 Winchester Magnum Rimfire (known as the .22 MAG) is slightly more powerful than the common .22 LR.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>866</ubClassIndex>
+		<ubClassIndex>872</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>466</ubGraphicNum>
 		<ubWeight>13</ubWeight>
@@ -77743,7 +77743,7 @@
 		<szBRDesc>.22 WMR V-Max made by Remington, the spitzer bullet that weighs 33 grains. This bullet weight is the reason this load shoots so well.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>867</ubClassIndex>
+		<ubClassIndex>873</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>465</ubGraphicNum>
 		<ubWeight>15</ubWeight>
@@ -79203,7 +79203,7 @@
 		<szBRDesc>5 rounds of 7.92x57mm Mauser soft-point ammo for hunting.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>597</ubClassIndex>
+		<ubClassIndex>599</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>950</ubGraphicNum>
 		<ubWeight>1</ubWeight>
@@ -79229,7 +79229,7 @@
 		<szBRDesc>10 rounds of 7.92x57mm Mauser soft-point ammo for hunting.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>600</ubClassIndex>
+		<ubClassIndex>602</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>951</ubGraphicNum>
 		<ubWeight>4</ubWeight>
@@ -79255,7 +79255,7 @@
 		<szBRDesc>20 rounds of 7.92x57mm Mauser soft-point ammo for hunting.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>603</ubClassIndex>
+		<ubClassIndex>605</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>952</ubGraphicNum>
 		<ubWeight>8</ubWeight>
@@ -79281,7 +79281,7 @@
 		<szBRDesc>25 rounds of 7.92x57mm Mauser soft-point ammo for hunting.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>606</ubClassIndex>
+		<ubClassIndex>608</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>953</ubGraphicNum>
 		<ubWeight>10</ubWeight>
@@ -79307,7 +79307,7 @@
 		<szBRDesc>50 rounds of 7.92x57mm Mauser soft-point ammo for hunting.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>609</ubClassIndex>
+		<ubClassIndex>611</ubClassIndex>
 		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>954</ubGraphicNum>
@@ -79332,7 +79332,7 @@
 		<szBRDesc>500 rounds of 7.92x57mm Mauser soft-point ammunition in ammo crate.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>615</ubClassIndex>
+		<ubClassIndex>617</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>610</ubGraphicNum>
 		<ubWeight>150</ubWeight>
@@ -79357,7 +79357,7 @@
 		<szBRDesc>5-rounds for .303 British match class ammo.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>729</ubClassIndex>
+		<ubClassIndex>731</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>611</ubGraphicNum>
 		<ubWeight>2</ubWeight>
@@ -79384,7 +79384,7 @@
 		<szBRDesc>2 clips, a total of 10-rounds of .303 British match class ammo.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>732</ubClassIndex>
+		<ubClassIndex>734</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>612</ubGraphicNum>
 		<ubWeight>2</ubWeight>
@@ -79411,7 +79411,7 @@
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>735</ubClassIndex>
+		<ubClassIndex>737</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>613</ubGraphicNum>
 		<ubWeight>4</ubWeight>
@@ -79438,7 +79438,7 @@
 		<szBRDesc>30 rounds of .303 match class ammo for the Bren gun.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>738</ubClassIndex>
+		<ubClassIndex>740</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>614</ubGraphicNum>
 		<ubWeight>12</ubWeight>
@@ -79461,7 +79461,7 @@
 		<szBRDesc>97 rounds of .303 match class ammo for the Lewis machinegun.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>741</ubClassIndex>
+		<ubClassIndex>743</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>615</ubGraphicNum>
 		<ubWeight>37</ubWeight>
@@ -79484,7 +79484,7 @@
 		<szBRDesc>500 rounds of .303 British rifle ammunition in ammo crate.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>744</ubClassIndex>
+		<ubClassIndex>746</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>616</ubGraphicNum>
 		<ubWeight>150</ubWeight>
@@ -79553,7 +79553,7 @@
 		<szBRDesc>500 rounds of 7.5x54mm Fr. Jacket Soft Point ammunition in ammo crate.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>806</ubClassIndex>
+		<ubClassIndex>810</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>621</ubGraphicNum>
 		<ubWeight>150</ubWeight>
@@ -79578,7 +79578,7 @@
 		<szBRDesc>6 rounds of 7.5x55mm GP11 Swiss Jacket Soft Point ammunition.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>843</ubClassIndex>
+		<ubClassIndex>847</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>622</ubGraphicNum>
 		<ubWeight>4</ubWeight>
@@ -79602,7 +79602,7 @@
 		<szBRDesc>24 rounds of 7.5x55mm GP11 Swiss Jacket Soft Point ammunition in a steel magazine.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>845</ubClassIndex>
+		<ubClassIndex>849</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>623</ubGraphicNum>
 		<ubWeight>8</ubWeight>
@@ -79626,7 +79626,7 @@
 		<szBRDesc>500 rounds of 7.5x55mm GP11 Swiss Jacket Soft Point ammunition in ammo crate.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>847</ubClassIndex>
+		<ubClassIndex>851</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>624</ubGraphicNum>
 		<ubWeight>150</ubWeight>
@@ -79662,7 +79662,7 @@
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>611</ubClassIndex>
+		<ubClassIndex>613</ubClassIndex>
 		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>626</ubGraphicNum>
@@ -79694,7 +79694,7 @@
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>612</ubClassIndex>
+		<ubClassIndex>614</ubClassIndex>
 		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>627</ubGraphicNum>
@@ -80591,7 +80591,7 @@
 		<szBRDesc>10 rounds of match class 6.5 Grendel 120grain jacketed hollow point ammunition.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>780</ubClassIndex>
+		<ubClassIndex>784</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>550</ubGraphicNum>
 		<ubWeight>4</ubWeight>
@@ -80626,7 +80626,7 @@
 		<szBRDesc>26 rounds of match class 6.5 Grendel 120grain jacketed hollow point ammunition.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>782</ubClassIndex>
+		<ubClassIndex>786</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>551</ubGraphicNum>
 		<ubWeight>9</ubWeight>
@@ -82490,7 +82490,7 @@
 		<szBRDesc>A MWG90 drum hold 33-round HP for the .50 Beowulf Rifle.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>586</ubClassIndex>
+		<ubClassIndex>588</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>466</ubGraphicNum>
 		<ubWeight>19</ubWeight>
@@ -82526,7 +82526,7 @@
 		<szBRDesc>A MWG90 drum hold 38-round JHP clip of .458 SOCOM ammunition.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>839</ubClassIndex>
+		<ubClassIndex>843</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>468</ubGraphicNum>
 		<ubWeight>20</ubWeight>
@@ -82562,7 +82562,7 @@
 		<szBRDesc>4 rounds of 23mm Slug ammunition, A.K.A the "Barrikada", which is capable of destroying a engine block at 100m.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>791</ubClassIndex>
+		<ubClassIndex>795</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>470</ubGraphicNum>
 		<ubWeight>3</ubWeight>
@@ -83179,7 +83179,7 @@
 		<szBRDesc>A 12-round JHP clip of .338 Spectre ammunition. This manstopper is a 300gr HPBT MK bullet with a velocity of 1040 fps.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>870</ubClassIndex>
+		<ubClassIndex>876</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>970</ubGraphicNum>
 		<ubWeight>7</ubWeight>
@@ -83205,7 +83205,7 @@
 		<szBRDesc>100 rounds of .338 Spectre  Full Metal Jacket ammunition in a cardboard box.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>871</ubClassIndex>
+		<ubClassIndex>877</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>677</ubGraphicNum>
 		<ubWeight>40</ubWeight>
@@ -83229,7 +83229,7 @@
 		<szBRDesc>100 rounds of .338 Spectre Jacket Hollow Point ammunition in a cardboard box.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>872</ubClassIndex>
+		<ubClassIndex>878</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>678</ubGraphicNum>
 		<ubWeight>40</ubWeight>
@@ -83264,7 +83264,7 @@
 		<szBRDesc>A standard AR-15 magazine hold 8-rounds of the 700 gr Hawk bullet in .500 Phantom cartridges.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>874</ubClassIndex>
+		<ubClassIndex>880</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>972</ubGraphicNum>
 		<ubWeight>8</ubWeight>
@@ -83290,7 +83290,7 @@
 		<szBRDesc>50 rounds of .500 Phantom .308 168 gr sabot ammunition in a cardboard box.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>875</ubClassIndex>
+		<ubClassIndex>881</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>679</ubGraphicNum>
 		<ubWeight>40</ubWeight>
@@ -83314,7 +83314,7 @@
 		<szBRDesc>50 rounds of .500 Phantom 700 gr Hawk Jacket Hollow Point ammunition in a cardboard box.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>876</ubClassIndex>
+		<ubClassIndex>882</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>680</ubGraphicNum>
 		<ubWeight>40</ubWeight>
@@ -83348,7 +83348,7 @@
 		<szBRName>Mag-7 Mag, Buckshot</szBRName>
 		<szBRDesc>This oversized pistol magazine contains seven cut down 12 gauge Buckshot shells.</szBRDesc>
 		<usItemClass>1024</usItemClass>
-		<ubClassIndex>831</ubClassIndex>
+		<ubClassIndex>835</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>974</ubGraphicNum>
 		<ubWeight>5</ubWeight>
@@ -83372,7 +83372,7 @@
 		<szBRName>12 gauge 60mm Ammo box</szBRName>
 		<szBRDesc>These cut down 12gauge shotgun shells are meant to be used for the CQB/home defence Mag-7. - 50 round box</szBRDesc>
 		<usItemClass>1024</usItemClass>
-		<ubClassIndex>832</ubClassIndex>
+		<ubClassIndex>836</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>681</ubGraphicNum>
 		<ubWeight>40</ubWeight>
@@ -83395,7 +83395,7 @@
 		<szBRName>12 gauge 60mm Buckshot Ammo box</szBRName>
 		<szBRDesc>These 60mm long 12gauge buck shot shells are meant to be used for the CQB/home defence Mag-7. - 50 round box</szBRDesc>
 		<usItemClass>1024</usItemClass>
-		<ubClassIndex>833</ubClassIndex>
+		<ubClassIndex>837</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>682</ubGraphicNum>
 		<ubWeight>40</ubWeight>
@@ -95093,7 +95093,7 @@
 		<szBRDesc>Five rounds of .458 Winchester Magnum JHP ammo.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>774</ubClassIndex>
+		<ubClassIndex>778</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>656</ubGraphicNum>
 		<ubWeight>3</ubWeight>
@@ -95128,7 +95128,7 @@
 		<szBRDesc>The .22 Super Colibri is a round for those wishing to have more power while still being able to discharge their firearms without bothering to wear ear protection.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>786</ubClassIndex>
+		<ubClassIndex>790</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>667</ubGraphicNum>
 		<ubWeight>1</ubWeight>
@@ -95167,7 +95167,7 @@
 		<szBRDesc>220 rounds of .22 ILARCO ammo for American 180 submachine guns.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>788</ubClassIndex>
+		<ubClassIndex>792</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>669</ubGraphicNum>
 		<ubWeight>23</ubWeight>
@@ -95208,7 +95208,7 @@
 		<szBRDesc>This magazine holds 7 rounds of 23mm Slug ammunition, A.K.A the "Barrikada", which is capable of destroying a engine block at 100m.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>793</ubClassIndex>
+		<ubClassIndex>797</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>804</ubGraphicNum>
 		<ubWeight>11</ubWeight>
@@ -95233,7 +95233,7 @@
 		<szBRDesc>5 rounds of 7.5x54mm Fr. full metal jacket.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>797</ubClassIndex>
+		<ubClassIndex>801</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>422</ubGraphicNum>
 		<ubWeight>1</ubWeight>
@@ -95258,7 +95258,7 @@
 		<szBRDesc>10 rounds of 7.5x54mm Fr. full metal jacket.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>799</ubClassIndex>
+		<ubClassIndex>803</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>811</ubGraphicNum>
 		<ubWeight>3</ubWeight>
@@ -95283,7 +95283,7 @@
 		<szBRDesc>25 rounds of 7.5x54mm Fr. full metal jacket.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>801</ubClassIndex>
+		<ubClassIndex>805</ubClassIndex>
 		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>424</ubGraphicNum>
@@ -95309,7 +95309,7 @@
 		<szBRDesc>100 rounds belt of 7.5x54mm Fr. full metal jacket.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>803</ubClassIndex>
+		<ubClassIndex>807</ubClassIndex>
 		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>812</ubGraphicNum>
@@ -95345,7 +95345,7 @@
 		<szBRDesc>8 rounds of 65 gr JHP .32 ACP ammo.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>808</ubClassIndex>
+		<ubClassIndex>812</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>262</ubGraphicNum>
 		<ubWeight>1</ubWeight>
@@ -95381,7 +95381,7 @@
 		<szBRDesc>15 rounds of 65 gr JHP .32 ACP ammo.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>810</ubClassIndex>
+		<ubClassIndex>814</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>857</ubGraphicNum>
 		<ubWeight>2</ubWeight>
@@ -95406,7 +95406,7 @@
 		<szBRDesc>100 rounds of 13mm Gyrojet projectilesb in a cardboard box.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>820</ubClassIndex>
+		<ubClassIndex>824</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>677</ubGraphicNum>
 		<ubWeight>25</ubWeight>
@@ -95430,7 +95430,7 @@
 		<szBRDesc>10 rounds of 5.8x42mm sniper rifle ammunition.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>628</ubClassIndex>
+		<ubClassIndex>630</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>832</ubGraphicNum>
 		<ubWeight>2</ubWeight>
@@ -95458,7 +95458,7 @@
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>632</ubClassIndex>
+		<ubClassIndex>634</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>833</ubGraphicNum>
 		<ubWeight>6</ubWeight>
@@ -95485,7 +95485,7 @@
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>636</ubClassIndex>
+		<ubClassIndex>638</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>834</ubGraphicNum>
 		<ubWeight>15</ubWeight>
@@ -95512,7 +95512,7 @@
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>642</ubClassIndex>
+		<ubClassIndex>644</ubClassIndex>
 		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>835</ubGraphicNum>
@@ -95549,7 +95549,7 @@
 		<szBRDesc>This magazine contains 9 rounds of match class .38 Super JHP ammunition.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>822</ubClassIndex>
+		<ubClassIndex>826</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>852</ubGraphicNum>
 		<ubWeight>2</ubWeight>
@@ -95573,7 +95573,7 @@
 		<szBRDesc>This magazine contains 9 rounds of match class .38 Super KTW ammunition.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>823</ubClassIndex>
+		<ubClassIndex>827</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>853</ubGraphicNum>
 		<ubWeight>2</ubWeight>
@@ -95600,7 +95600,7 @@
 		<szBRDesc>Want to fire a .50 cal round without making noise? These babies are cutdown 12.7mm rounds to fit the Russian VKS.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>617</ubClassIndex>
+		<ubClassIndex>619</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>633</ubGraphicNum>
 		<ubWeight>3</ubWeight>
@@ -95625,7 +95625,7 @@
 		<szBRDesc>250 rounds of Soviet/Russian 12.7x54mm subsonic AP ammunition in a metal ammo crate.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>619</ubClassIndex>
+		<ubClassIndex>621</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>548</ubGraphicNum>
 		<ubWeight>150</ubWeight>
@@ -95661,7 +95661,7 @@
 		<szBRDesc>Ten rounds of 12.7mm heavy bullet (subsonic) cartridges in a polymer magzine.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>765</ubClassIndex>
+		<ubClassIndex>769</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>251</ubGraphicNum>
 		<ubWeight>5</ubWeight>
@@ -95685,7 +95685,7 @@
 		<szBRDesc>Ten rounds of 12.7mm duplex bullet cartridges in a polymer magzine.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>766</ubClassIndex>
+		<ubClassIndex>770</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>373</ubGraphicNum>
 		<ubWeight>5</ubWeight>
@@ -95709,7 +95709,7 @@
 		<szBRDesc>500 rounds of Russian 12.7x55mm aluminum core ammunition in a metal ammo crate.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>767</ubClassIndex>
+		<ubClassIndex>771</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>548</ubGraphicNum>
 		<ubWeight>250</ubWeight>
@@ -95734,7 +95734,7 @@
 		<szBRDesc>500 rounds of Russian 12.7x55mm subsonic heavy ammunition in a metal ammo crate.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>768</ubClassIndex>
+		<ubClassIndex>772</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>536</ubGraphicNum>
 		<ubWeight>250</ubWeight>
@@ -95759,7 +95759,7 @@
 		<szBRDesc>500 rounds of Russian 12.7x55mm duplex bullet ammunition in a metal ammo crate.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>769</ubClassIndex>
+		<ubClassIndex>773</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>555</ubGraphicNum>
 		<ubWeight>250</ubWeight>
@@ -95795,7 +95795,7 @@
 		<szBRDesc>Designed to punch through helmets, not the sound barrier.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>756</ubClassIndex>
+		<ubClassIndex>758</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>408</ubGraphicNum>
 		<ubWeight>6</ubWeight>
@@ -95832,7 +95832,7 @@
 		<szBRDesc>Designed to punch through helmets, not the sound barrier.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>758</ubClassIndex>
+		<ubClassIndex>760</ubClassIndex>
 		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>409</ubGraphicNum>
@@ -95859,7 +95859,7 @@
 		<szBRDesc>500 rounds of .300 AAC BLACKOUT (7.62x35mm) 125 match ammunition in a metal ammo crate.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>759</ubClassIndex>
+		<ubClassIndex>761</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>341</ubGraphicNum>
 		<ubWeight>100</ubWeight>
@@ -95906,7 +95906,7 @@
 		<szBRDesc>400 rounds of .338 Norma Magnum sniper bullet in ammo crate.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>879</ubClassIndex>
+		<ubClassIndex>885</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>322</ubGraphicNum>
 		<ubWeight>87</ubWeight>
@@ -95924,66 +95924,152 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>3105</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 3105</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<szItemName>9x90mm MEN box</szItemName>
+		<szLongItemName>9x90mm MEN, box</szLongItemName>
+		<szItemDesc>100 rounds of 9x90mm MEN box.</szItemDesc>
+		<szBRName>9x90mm MEN Box</szBRName>
+		<szBRDesc>100 rounds of 9x90mm MEN box.</szBRDesc>
+		<usItemClass>1024</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>566</ubClassIndex>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>321</ubGraphicNum>
+		<ubWeight>50</ubWeight>
+		<ItemSize>47</ItemSize>
+		<usPrice>10000</usPrice>
+		<ubCoolness>10</ubCoolness>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<TwoHanded>1</TwoHanded>
+		<BR_NewInventory>1</BR_NewInventory>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>3106</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 3106</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<szItemName>9mm MS crate</szItemName>
+		<szLongItemName>9mm Metal Storm crate</szLongItemName>
+		<szItemDesc>1800 rounds of 9mm Metal Storm crate.</szItemDesc>
+		<szBRName>9mm MS crate</szBRName>
+		<szBRDesc>1800 rounds of 9mm Metal Storm crate.</szBRDesc>
+		<usItemClass>1024</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>571</ubClassIndex>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>312</ubGraphicNum>
+		<ubWeight>125</ubWeight>
+		<ItemSize>67</ItemSize>
+		<usPrice>5400</usPrice>
+		<ubCoolness>2</ubCoolness>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<TwoHanded>1</TwoHanded>
+		<BR_NewInventory>1</BR_NewInventory>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>3107</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 3107</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<szItemName>25x59mm B crate</szItemName>
+		<szLongItemName>25x59mm, B crate</szLongItemName>
+		<szItemDesc>100 rounds of 25x59mm B crate.</szItemDesc>
+		<szBRName>25x59mm B crate</szBRName>
+		<szBRDesc>100 rounds of 25x59mm B crate.</szBRDesc>
+		<usItemClass>1024</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>764</ubClassIndex>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>332</ubGraphicNum>
+		<ubWeight>100</ubWeight>
+		<ItemSize>67</ItemSize>
+		<usPrice>20000</usPrice>
+		<ubCoolness>10</ubCoolness>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<TwoHanded>1</TwoHanded>
+		<BR_NewInventory>1</BR_NewInventory>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>3108</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 3108</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<szItemName>20x42mm HE crate</szItemName>
+		<szLongItemName>20x42mm, HE crate</szLongItemName>
+		<szItemDesc>100 rounds of 20x42mm HE crate.</szItemDesc>
+		<szBRName>20x42mm HE crate</szBRName>
+		<szBRDesc>100 rounds of 20x42mm HE crate.</szBRDesc>
+		<usItemClass>1024</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>766</ubClassIndex>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>334</ubGraphicNum>
+		<ubWeight>80</ubWeight>
+		<ItemSize>67</ItemSize>
+		<usPrice>17500</usPrice>
+		<ubCoolness>10</ubCoolness>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<TwoHanded>1</TwoHanded>
+		<BR_NewInventory>1</BR_NewInventory>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>3109</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 3109</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<szItemName>12Ga M BS crate</szItemName>
+		<szLongItemName>12Ga MAUL Buckshot crate</szLongItemName>
+		<szItemDesc>250 rounds of 12Ga MAUL Buckshot in a crate.</szItemDesc>
+		<szBRName>12Ga MAUL BS crate</szBRName>
+		<szBRDesc>250 rounds of 12Ga MAUL Buckshot in a crate.</szBRDesc>
+		<usItemClass>1024</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>857</ubClassIndex>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>333</ubGraphicNum>
+		<ubWeight>95</ubWeight>
+		<ItemSize>67</ItemSize>
+		<usPrice>5000</usPrice>
+		<ubCoolness>9</ubCoolness>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<BigGunList>1</BigGunList>
+		<SciFi>1</SciFi>
+		<BR_NewInventory>2</BR_NewInventory>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>3110</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 3110</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<szItemName>12Ga M Slug crate</szItemName>
+		<szLongItemName>12Ga MAUL Slug crate</szLongItemName>
+		<szItemDesc>250 rounds of 12Ga MAUL Slug in a crate.</szItemDesc>
+		<szBRName>12Ga M Slug crate</szBRName>
+		<szBRDesc>250 rounds of 12Ga MAUL Slug in a crate.</szBRDesc>
+		<usItemClass>1024</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>856</ubClassIndex>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>334</ubGraphicNum>
+		<ubWeight>95</ubWeight>
+		<ItemSize>67</ItemSize>
+		<usPrice>5000</usPrice>
+		<ubCoolness>9</ubCoolness>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<BigGunList>1</BigGunList>
+		<SciFi>1</SciFi>
+		<BR_NewInventory>2</BR_NewInventory>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />

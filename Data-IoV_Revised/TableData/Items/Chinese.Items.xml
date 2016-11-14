@@ -24138,6 +24138,54 @@
 		<szBRDesc>400发装在弹药箱里的.338 NM(8.6×64mm) 比赛弹。</szBRDesc>
 	</ITEM>
 	<ITEM>
+		<uiIndex>3105</uiIndex>
+		<szItemName>Minirockets AP crate</szItemName>
+		<szLongItemName>9x90mm MEN，纸盒</szLongItemName>
+		<szItemDesc>一个装着100发9x90mm MEN弹的硬纸盒。</szItemDesc>
+		<szBRName>Minirockets AP crate</szBRName>
+		<szBRDesc>一个装着100发9x90mm MEN弹的硬纸盒。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>3106</uiIndex>
+		<szItemName>9mm MS crate</szItemName>
+		<szLongItemName>9mm金属风暴，弹箱</szLongItemName>
+		<szItemDesc>这个铁皮弹药箱里有1800发9mm金属风暴弹。</szItemDesc>
+		<szBRName>9mm MS crate</szBRName>
+		<szBRDesc>这个铁皮弹药箱里有1800发9mm金属风暴弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>3107</uiIndex>
+		<szItemName>25x59mm B crate</szItemName>
+		<szLongItemName>25x59mm，高爆弹弹箱</szLongItemName>
+		<szItemDesc>这个铁皮弹药箱里有100发25x59mm高爆弹，用于XM107“负荷”步枪。</szItemDesc>
+		<szBRName>25x59mm B crate</szBRName>
+		<szBRDesc>这个铁皮弹药箱里有100发25x59mm高爆弹，用于XM107“负荷”步枪。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>3108</uiIndex>
+		<szItemName>20x42mm HE crate</szItemName>
+		<szLongItemName>20x42mm，高爆弹弹箱</szLongItemName>
+		<szItemDesc>这个铁皮弹药箱里有100发20x42mm高爆弹。</szItemDesc>
+		<szBRName>20x42mm HE crate</szBRName>
+		<szBRDesc>这个铁皮弹药箱里有100发20x42mm高爆弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>3109</uiIndex>
+		<szItemName>12Ga M BS crate</szItemName>
+		<szLongItemName>12Ga M BS，250发弹箱</szLongItemName>
+		<szItemDesc>250发MAUL金属风暴霰弹枪所用的鹿弹的弹药箱。</szItemDesc>
+		<szBRName>12Ga M BS crate</szBRName>
+		<szBRDesc>250发MAUL金属风暴霰弹枪所用的鹿弹的弹药箱。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>3110</uiIndex>
+		<szItemName>12Ga M Slug crate</szItemName>
+		<szLongItemName>12Ga MAUL Slug，250发弹箱</szLongItemName>
+		<szItemDesc>250发MAUL金属风暴霰弹枪所用的独头弹弹药箱。</szItemDesc>
+		<szBRName>12Ga M Slug crate</szBRName>
+		<szBRDesc>250发MAUL金属风暴霰弹枪所用的独头弹弹药箱。</szBRDesc>
+	</ITEM>
+	<ITEM>
 		<uiIndex>4001</uiIndex>
 		<szItemName>Dyn. Helmet</szItemName>
 		<szLongItemName>迪尼玛防弹盔</szLongItemName>
