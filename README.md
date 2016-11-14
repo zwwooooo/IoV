@@ -11,3 +11,4 @@
 
  * IoV 原作者：daboboye，又名 D boy、“叫兽”，929beta 后已弃坑。
  * IoV 原名 Cosplay/DBB
+ * 928 早期版本备份 https://github.com/zwwooooo/cos-mod ，daboboye 开发及最终弃坑贴 http://tbsgame.net/bbs/index.php?showtopic=67355
