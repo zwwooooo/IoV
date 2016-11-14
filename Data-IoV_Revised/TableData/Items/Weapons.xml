@@ -11070,32 +11070,6 @@
 		<usOverheatingSingleShotTemperature>53</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>875</uiIndex>
-		<szWeaponName>Flashlight</szWeaponName>
-		<ubWeaponClass>6</ubWeaponClass>
-		<ubShotsPer4Turns>15</ubShotsPer4Turns>
-		<ubImpact>14</ubImpact>
-		<ubDeadliness>1</ubDeadliness>
-		<usReloadDelay>200</usReloadDelay>
-		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
-	</WEAPON>
-	<WEAPON>
-		<uiIndex>876</uiIndex>
-		<szWeaponName>Flashlight (light on)</szWeaponName>
-		<ubWeaponClass>6</ubWeaponClass>
-		<ubShotsPer4Turns>15</ubShotsPer4Turns>
-		<ubImpact>14</ubImpact>
-		<ubDeadliness>1</ubDeadliness>
-		<usReloadDelay>200</usReloadDelay>
-		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
-	</WEAPON>
-	<WEAPON>
 		<uiIndex>901</uiIndex>
 		<szWeaponName>Commando Mortar</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
@@ -44670,6 +44644,32 @@
 		<Handling>15</Handling>
 		<usOverheatingJamThreshold>5900</usOverheatingJamThreshold>
 		<usOverheatingDamageThreshold>4800</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
+		<uiIndex>4061</uiIndex>
+		<szWeaponName>Flashlight</szWeaponName>
+		<ubWeaponClass>6</ubWeaponClass>
+		<ubShotsPer4Turns>15</ubShotsPer4Turns>
+		<ubImpact>14</ubImpact>
+		<ubDeadliness>1</ubDeadliness>
+		<usReloadDelay>200</usReloadDelay>
+		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
+		<uiIndex>4062</uiIndex>
+		<szWeaponName>Flashlight (light on)</szWeaponName>
+		<ubWeaponClass>6</ubWeaponClass>
+		<ubShotsPer4Turns>15</ubShotsPer4Turns>
+		<ubImpact>14</ubImpact>
+		<ubDeadliness>1</ubDeadliness>
+		<usReloadDelay>200</usReloadDelay>
+		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
 		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 </WEAPONLIST>

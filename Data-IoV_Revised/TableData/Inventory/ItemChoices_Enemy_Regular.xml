@@ -7,10 +7,10 @@
 		<bItemNo1>176</bItemNo1>
 		<bItemNo2>177</bItemNo2>
 		<bItemNo3>180</bItemNo3>
-		<bItemNo4>810</bItemNo4>
+		<bItemNo4>0</bItemNo4>
 		<bItemNo5>801</bItemNo5>
 		<bItemNo6>302</bItemNo6>
-		<bItemNo7>818</bItemNo7>
+		<bItemNo7>4004</bItemNo7>
 		<bItemNo8>1768</bItemNo8>
 		<bItemNo9>290</bItemNo9>
 		<bItemNo10>0</bItemNo10>
@@ -63,8 +63,8 @@
 		<bItemNo2>164</bItemNo2>
 		<bItemNo3>167</bItemNo3>
 		<bItemNo4>196</bItemNo4>
-		<bItemNo5>823</bItemNo5>
-		<bItemNo6>817</bItemNo6>
+		<bItemNo5>4009</bItemNo5>
+		<bItemNo6>4003</bItemNo6>
 		<bItemNo7>283</bItemNo7>
 		<bItemNo8>284</bItemNo8>
 		<bItemNo9>1777</bItemNo9>
@@ -116,8 +116,8 @@
 		<ubChoices>5</ubChoices>
 		<bItemNo1>170</bItemNo1>
 		<bItemNo2>173</bItemNo2>
-		<bItemNo3>822</bItemNo3>
-		<bItemNo4>816</bItemNo4>
+		<bItemNo3>4008</bItemNo3>
+		<bItemNo4>4002</bItemNo4>
 		<bItemNo5>282</bItemNo5>
 		<bItemNo6>2213</bItemNo6>
 		<bItemNo7>0</bItemNo7>
@@ -610,8 +610,8 @@
 		<name>Armour Attachments</name>
 		<ubChoices>3</ubChoices>
 		<bItemNo1>183</bItemNo1>
-		<bItemNo2>837</bItemNo2>
-		<bItemNo3>838</bItemNo3>
+		<bItemNo2>4023</bItemNo2>
+		<bItemNo3>4024</bItemNo3>
 		<bItemNo4>1749</bItemNo4>
 		<bItemNo5>0</bItemNo5>
 		<bItemNo6>0</bItemNo6>
@@ -1126,11 +1126,11 @@
 		<bItemNo20>1949</bItemNo20>
 		<bItemNo21>1948</bItemNo21>
 		<bItemNo22>1947</bItemNo22>
-		<bItemNo23>842</bItemNo23>
-		<bItemNo24>843</bItemNo24>
-		<bItemNo25>844</bItemNo25>
-		<bItemNo26>845</bItemNo26>
-		<bItemNo27>862</bItemNo27>
+		<bItemNo23>4028</bItemNo23>
+		<bItemNo24>4029</bItemNo24>
+		<bItemNo25>4030</bItemNo25>
+		<bItemNo26>4031</bItemNo26>
+		<bItemNo27>4048</bItemNo27>
 		<bItemNo28>2229</bItemNo28>
 		<bItemNo29>2236</bItemNo29>
 		<bItemNo30>1947</bItemNo30>

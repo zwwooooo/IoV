@@ -6466,739 +6466,587 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>808</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>看到这玩意儿之时即是游戏崩溃之时……</szLongItemName>
-		<szItemDesc>看到这玩意儿之时即是游戏崩溃之时……</szItemDesc>
-		<szBRName>Using this slot will cause the game to crash.</szBRName>
-		<szBRDesc>看到这玩意儿之时即是游戏崩溃之时……</szBRDesc>
+		<szItemName>无线电设备</szItemName>
+		<szLongItemName>无线电设备</szLongItemName>
+		<szItemDesc>作战用标准配置的短程通讯无线电设备。</szItemDesc>
+		<szBRName>无线电设备</szBRName>
+		<szBRDesc>可以用来和位于其他战区的小队进行通讯。可以背负，包含电池。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>809</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>看到这玩意儿之时即是游戏崩溃之时……</szLongItemName>
-		<szItemDesc>看到这玩意儿之时即是游戏崩溃之时……</szItemDesc>
-		<szBRName>Using this slot will cause the game to crash.</szBRName>
-		<szBRDesc>看到这玩意儿之时即是游戏崩溃之时……</szBRDesc>
+		<szItemName>无线电设备用电池</szItemName>
+		<szLongItemName>无线电设备专用电池</szLongItemName>
+		<szItemDesc>标准战地无线电设备使用的电池。非常重，不过如果节约点用，可以坚持好几周。</szItemDesc>
+		<szBRName>无线电设备用电池</szBRName>
+		<szBRDesc>无线电设备使用的标准配置战地电池。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>810</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>看到这玩意儿之时即是游戏崩溃之时……</szLongItemName>
-		<szItemDesc>看到这玩意儿之时即是游戏崩溃之时……</szItemDesc>
-		<szBRName>Using this slot will cause the game to crash.</szBRName>
-		<szBRDesc>看到这玩意儿之时即是游戏崩溃之时……</szBRDesc>
+		<szItemName>内置照明</szItemName>
+		<szLongItemName>内置照明</szLongItemName>
+		<szItemDesc>内部物品，不要使用！！！</szItemDesc>
+		<szBRName>内置照明</szBRName>
+		<szBRDesc>BR不卖这个,如果你看到了说明这物品来自于黑市。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>811</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>看到这玩意儿之时即是游戏崩溃之时……</szLongItemName>
-		<szItemDesc>看到这玩意儿之时即是游戏崩溃之时……</szItemDesc>
-		<szBRName>Using this slot will cause the game to crash.</szBRName>
-		<szBRDesc>看到这玩意儿之时即是游戏崩溃之时……</szBRDesc>
+		<szItemName>60mm迫击炮信号弹</szItemName>
+		<szLongItemName>60mm迫击炮信号弹</szLongItemName>
+		<szItemDesc>这种迫击炮弹专门用来标记需要进行轰炸的区域。</szItemDesc>
+		<szBRName>60mm迫击炮信号弹</szBRName>
+		<szBRDesc>信号弹发出的红烟即便在漆黑的夜晚也清晰可见。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>812</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>看到这玩意儿之时即是游戏崩溃之时……</szLongItemName>
-		<szItemDesc>看到这玩意儿之时即是游戏崩溃之时……</szItemDesc>
-		<szBRName>Using this slot will cause the game to crash.</szBRName>
-		<szBRDesc>看到这玩意儿之时即是游戏崩溃之时……</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>813</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>看到这玩意儿之时即是游戏崩溃之时……</szLongItemName>
-		<szItemDesc>看到这玩意儿之时即是游戏崩溃之时……</szItemDesc>
-		<szBRName>Using this slot will cause the game to crash.</szBRName>
-		<szBRDesc>看到这玩意儿之时即是游戏崩溃之时……</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>814</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>看到这玩意儿之时即是游戏崩溃之时……</szLongItemName>
-		<szItemDesc>看到这玩意儿之时即是游戏崩溃之时……</szItemDesc>
-		<szBRName>Using this slot will cause the game to crash.</szBRName>
-		<szBRDesc>看到这玩意儿之时即是游戏崩溃之时……</szBRDesc>
+		<szItemName>红色信号弹</szItemName>
+		<szLongItemName>红色信号弹</szLongItemName>
+		<szItemDesc>用红烟清楚地标记靶子。</szItemDesc>
+		<szBRName>红色信号弹</szBRName>
+		<szBRDesc>没有什么比一柱红烟还能更好地指示进攻地点。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>815</uiIndex>
-		<szItemName>Dyn. Helmet</szItemName>
-		<szLongItemName>迪尼玛防弹盔</szLongItemName>
-		<szItemDesc>迪尼玛UD聚合物头盔对弹片和子弹提供最大的防护面积，同时又比其它材料制成的头盔更轻巧。</szItemDesc>
-		<szBRName>Dyneema Helmet</szBRName>
-		<szBRDesc>“砰！爆头！”谁怕这个？这种头盔不但能让你免受子弹伤害，而且还帅气十足！</szBRDesc>
+		<szItemName>9x19mm Mag 32</szItemName>
+		<szLongItemName>9x19mm Mag, 32</szLongItemName>
+		<szItemDesc>装32发9x19mm的冲锋枪直弹匣。</szItemDesc>
+		<szBRName>9x19mm Mag, 32</szBRName>
+		<szBRDesc>装32发9x19mm的冲锋枪直弹匣。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>816</uiIndex>
-		<szItemName>Dyn. Pants</szItemName>
-		<szLongItemName>迪尼玛防弹裤</szLongItemName>
-		<szItemDesc>有数家公司按照许可证制造，迪尼玛纤维比凯夫拉的强度高出40％。</szItemDesc>
-		<szBRName>Dyneema Leggings</szBRName>
-		<szBRDesc>有些使用者抱怨迪尼玛防弹裤穿着不舒服；不过，用毫无防护的蛋蛋来拦截子弹显然更不舒服。</szBRDesc>
+		<szItemName>.45 Mag 10 T</szItemName>
+		<szLongItemName>.45，10发曳光弹</szLongItemName>
+		<szItemDesc>.45 ACP/Auto口径，225格令弹头的M-26曳光弹。</szItemDesc>
+		<szBRName>.45 Ten Mag Tracer</szBRName>
+		<szBRDesc>.45 ACP/Auto口径，225格令弹头的M-26曳光弹。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>817</uiIndex>
-		<szItemName>Dyn. Vest</szItemName>
-		<szLongItemName>迪尼玛防弹背心</szLongItemName>
-		<szItemDesc>使用迪尼玛UD材质的防弹背心以最轻的重量提供最佳的防护。通过与富有弹性的迪尼玛单向片材结合，提供给使用者极好的穿着舒适性，让佣兵们在出勤时可以一直穿在身上。</szItemDesc>
-		<szBRName>Dyneema Vest</szBRName>
-		<szBRDesc>非～常～轻的防弹背心，但是防护效果与那些更重的同类产品相当。出门前一定要穿上它！</szBRDesc>
+		<szItemName>.45 Mag 12</szItemName>
+		<szLongItemName>.45，12发普通弹</szLongItemName>
+		<szItemDesc>一匣给你的12发.45手枪使用的双排弹匣，弹容量多多益善。</szItemDesc>
+		<szBRName>.45 12 Mag</szBRName>
+		<szBRDesc>不会有人拒绝额外的几发子弹的，除了你的目标。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>818</uiIndex>
-		<szItemName>EOD Helmet</szItemName>
-		<szLongItemName>EOD头盔</szLongItemName>
-		<szItemDesc>EOD排爆服是一种堪称艺术品的防护外衣，特殊的设计使它在提供最高等级防护的同时，给予使用者最大限度的舒适性和灵活度，在全世界的排爆小组中使用广泛。</szItemDesc>
-		<szBRName>EOD Helmet</szBRName>
-		<szBRDesc>EOD头盔是一种堪称艺术品的防护装备，特殊的设计使它在提供最高等级防护的同时，给予使用者最大限度的舒适性和灵活度。</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>819</uiIndex>
-		<szItemName>EOD Pants</szItemName>
-		<szLongItemName>EOD防弹裤</szLongItemName>
-		<szItemDesc>EOD排爆服是一种堪称艺术品的防护外衣，特殊的设计使它在提供最高等级防护的同时，给予使用者最大限度的舒适性和灵活度，在全世界的排爆小组中使用广泛。</szItemDesc>
-		<szBRName>EOD Leggings</szBRName>
-		<szBRDesc>除非你是小队中技术高超的爆炸物专家，或者持有轮椅公司的股票，否则这件装备就是每个懂得自我保护的佣兵必备的东西。</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>820</uiIndex>
-		<szItemName>EOD Jacket</szItemName>
-		<szLongItemName>EOD外套</szLongItemName>
-		<szItemDesc>EOD排爆服是一种堪称艺术品的防护外衣，特殊的设计使它在提供最高等级防护的同时，给予使用者最大限度的舒适性和灵活度，在全世界的排爆小组中使用广泛。</szItemDesc>
-		<szBRName>EOD Jacket</szBRName>
-		<szBRDesc>除非你是小队中技术高超的爆炸物专家，或者经营裹尸袋生意，否则这件装备就是每个懂得自我保护的佣兵必备的东西。</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>821</uiIndex>
-		<szItemName>Tw. Helmet</szItemName>
-		<szLongItemName>芳纶防弹盔</szLongItemName>
-		<szItemDesc>特殊成型加工的Twaron头盔可以满足最苛刻的防弹需求。它的重量更轻，因此佩戴起来比传统的钢盔更舒适。</szItemDesc>
-		<szBRName>Twaron Helmet</szBRName>
-		<szBRDesc>市面上能买到的最好的头盔之一！如果你想要维和部队式样的蓝色头盔，请直接同我们联系。</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>822</uiIndex>
-		<szItemName>Tw. Pants</szItemName>
-		<szLongItemName>芳纶防弹裤</szLongItemName>
-		<szItemDesc>这种腿部护具用高强度的芳香族聚酰胺纤维制成。</szItemDesc>
-		<szBRName>Twaron Leggings</szBRName>
-		<szBRDesc>穿一条Twaron防弹裤来保护你的下半身免受轻武器和弹片的伤害吧。</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>823</uiIndex>
-		<szItemName>Tw. Vest</szItemName>
-		<szLongItemName>芳纶防弹背心</szLongItemName>
-		<szItemDesc>将芳纶纤维用在防弹背心上使得防弹衣更轻巧，更灵便，而且易于穿着。</szItemDesc>
-		<szBRName>Twaron Vest</szBRName>
-		<szBRDesc>将芳纶高强度纤维用在防弹背心上使得防弹衣更轻巧，更灵便，而且易于穿着。一句话，这是市面上最有效的防护系统。</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>824</uiIndex>
-		<szItemName>CCE Boonie</szItemName>
-		<szLongItemName>法军CCE迷彩奔尼帽</szLongItemName>
-		<szItemDesc>法国军队的丛林迷彩式丛林软帽。</szItemDesc>
-		<szBRName>French CCE Boonie Hat</szBRName>
-		<szBRDesc>法国军队的丛林迷彩式丛林软帽。</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>825</uiIndex>
-		<szItemName>CCE Trousers</szItemName>
-		<szLongItemName>法军CCE丛林迷彩长裤</szLongItemName>
-		<szItemDesc>法国军队的丛林迷彩制服的长裤。</szItemDesc>
-		<szBRName>French CCE BDU Trousers</szBRName>
-		<szBRDesc>法国军队的丛林迷彩制服的长裤。</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>826</uiIndex>
-		<szItemName>CCE Shirt</szItemName>
-		<szLongItemName>渤CCE丛林迷彩上衣</szLongItemName>
-		<szItemDesc>法国军队的丛林迷彩制服的上衣。</szItemDesc>
-		<szBRName>French CCE BDU Shirt</szBRName>
-		<szBRDesc>法国军队的丛林迷彩制服的上衣。</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>827</uiIndex>
-		<szItemName>DPM Boonie</szItemName>
-		<szLongItemName>DPM沙漠迷彩奔尼帽</szLongItemName>
-		<szItemDesc>英军的DPM沙漠迷彩款丛林软帽。</szItemDesc>
-		<szBRName>DPM Desert Camo Boonie</szBRName>
-		<szBRDesc>英军的DPM沙漠迷彩款丛林软帽。</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>828</uiIndex>
-		<szItemName>DPM Trousers</szItemName>
-		<szLongItemName>DPM沙漠迷彩长裤</szLongItemName>
-		<szItemDesc>英军的DPM沙漠迷彩色制服的长裤。</szItemDesc>
-		<szBRName>DPM Desert Camo Trousers</szBRName>
-		<szBRDesc>英军的DPM沙漠迷彩色制服的长裤。</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>829</uiIndex>
-		<szItemName>DPM Shirt</szItemName>
-		<szLongItemName>DPM沙漠迷彩上衣</szLongItemName>
-		<szItemDesc>英军的DPM沙漠迷彩色制服的上衣。</szItemDesc>
-		<szBRName>DPM Desert Camo Shirt</szBRName>
-		<szBRDesc>英军的DPM沙漠迷彩色制服的上衣。</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>830</uiIndex>
-		<szItemName>STRIKE Plate Carrier</szItemName>
-		<szLongItemName>BHI STRIKE Rapid Plate Carrier</szLongItemName>
-		<szItemDesc>黑鹰公司的STRIKE防弹插板护胸套，这仅仅是一个可以挂在胸前的方形袋子，可以装入防弹插板，提供简易轻便的防护功能。</szItemDesc>
-		<szBRName>BHI STRIKE Rapid Plate Carrier</szBRName>
-		<szBRDesc>黑鹰公司的STRIKE防弹插板护胸套，这仅仅是一个可以挂在胸前的方形袋子，可以装入防弹插板，提供简易轻便的防护功能。</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>831</uiIndex>
-		<szItemName>German Fleck</szItemName>
-		<szLongItemName>德军防弹背心</szLongItemName>
-		<szItemDesc>外表有丛林迷彩的德军凯夫拉防弹背心。</szItemDesc>
-		<szBRName>German Fleck Body Armour</szBRName>
-		<szBRDesc>外表有丛林迷彩的德军凯夫拉防弹背心。</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>832</uiIndex>
-		<szItemName>SN-42 Body Armor</szItemName>
-		<szLongItemName>SN-42防弹钢甲</szLongItemName>
-		<szItemDesc>苏联军队在二战时使用过的防弹衣，其实是两片可以抵挡手枪弹的钢制板甲。</szItemDesc>
-		<szBRName>SN-42 Body Armor</szBRName>
+		<szItemName>12Ga Mag 6 Slug</szItemName>
+		<szLongItemName>12号弹匣，6发独头弹</szLongItemName>
+		<szItemDesc>装6发12号独头弹的弹匣。</szItemDesc>
+		<szBRName>12Ga Mag, 6 Slug</szBRName>
 		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
+		<uiIndex>819</uiIndex>
+		<szItemName>5.56mm SF-MAG</szItemName>
+		<szLongItemName>5.56x45mm四排弹匣</szLongItemName>
+		<szItemDesc>这个SureFire四排弹匣装有60发5.56 M855普通弹。</szItemDesc>
+		<szBRName>5.56x45mm SF-MAG</szBRName>
+		<szBRDesc>这个SureFire四排弹匣装有60发5.56 M855普通弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>820</uiIndex>
+		<szItemName>7.62x51 Hi-Belt</szItemName>
+		<szLongItemName>7.62x51mm Hi-Belt</szLongItemName>
+		<szItemDesc>一条200发7.62mm北约标准弹弹链。</szItemDesc>
+		<szBRName>7.62x51mm Hi-Belt</szBRName>
+		<szBRDesc>一条200发7.62mm北约标准弹弹链。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>821</uiIndex>
+		<szItemName>.50BMG API-T crate</szItemName>
+		<szLongItemName>.50 BMG，200发穿甲曳光弹弹箱</szLongItemName>
+		<szItemDesc>这个铁皮弹药箱里有供重机枪使用的200发散装.50 BMG（勃朗宁机枪）穿甲曳光弹。</szItemDesc>
+		<szBRName>50BMG APT crate</szBRName>
+		<szBRDesc>这个铁皮弹药箱里有供重机枪使用的200发散装.50 BMG（勃朗宁机枪）穿甲曳光弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>822</uiIndex>
+		<szItemName>.50BMG Belt</szItemName>
+		<szLongItemName>.50 BMG，50发普通弹(M2)</szLongItemName>
+		<szItemDesc>重机枪使用的50发.50 BMG M2普通弹弹链。</szItemDesc>
+		<szBRName>.50BMG Belt, 50</szBRName>
+		<szBRDesc>重机枪使用的50发.50 BMG M2普通弹弹链。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>823</uiIndex>
+		<szItemName>9mm SP-5 30</szItemName>
+		<szLongItemName>9x39mm，30发亚音速狙击弹(SP-5)</szLongItemName>
+		<szItemDesc>这弹匣内装30发9x39mm SP-5特种亚音速狙击弹是专门为俄罗斯特种武器设计的，弹头比9mm手枪弹要重，确保穿甲和杀伤力。</szItemDesc>
+		<szBRName>9x39mm SP-5 Mag, 30</szBRName>
+		<szBRDesc>这弹匣内装30发9x39mm SP-5特种亚音速狙击弹是专门为俄罗斯特种武器设计的，弹头比9mm手枪弹要重，确保穿甲和杀伤力。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>824</uiIndex>
+		<szItemName>12.7mm BZT Hi-Mag</szItemName>
+		<szLongItemName>12.7x108mm，14发穿甲曳光弹</szLongItemName>
+		<szItemDesc>苏联/俄罗斯制造的专为大口径机枪和反器材步枪使用的12.7mm口径穿甲曳光弹。</szItemDesc>
+		<szBRName>12.7x108mm，14发穿甲曳光弹</szBRName>
+		<szBRDesc>14发12.7x108mm穿甲曳光弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>825</uiIndex>
+		<szItemName>12.7mm BZT Belt</szItemName>
+		<szLongItemName>12.7x108mm，50发穿甲/曳光弹</szLongItemName>
+		<szItemDesc>苏联/俄罗斯制造的专为大口径机枪和反器材步枪使用的12.7mm口径穿甲/曳光弹。</szItemDesc>
+		<szBRName>12.7x108mm BZT Belt</szBRName>
+		<szBRDesc>一条装有50发12.7mm穿甲/曳光弹的弹链，这种子弹可以在相当远的距离上贯穿轻装甲车辆。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>826</uiIndex>
+		<szItemName>9x18mm CC PM</szItemName>
+		<szLongItemName>9x18mm Cartridge Clip PM</szLongItemName>
+		<szItemDesc>用月形夹装起来的6发9x18mm马卡洛夫PM手枪弹，能迅速装填进这种口径的转轮手枪中。</szItemDesc>
+		<szBRName>9x18mm  Cartridge Clip PM</szBRName>
+		<szBRDesc>用月形夹装起来的6发9x18mm马卡洛夫PM手枪弹，能迅速装填进这种口径的转轮手枪中。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>827</uiIndex>
+		<szItemName>7.62x54R Hi-Belt</szItemName>
+		<szLongItemName>7.62x54R Hi-Belt</szLongItemName>
+		<szItemDesc>250发7.62x54R普通弹长弹链。</szItemDesc>
+		<szBRName>7.62x54R Hi-Belt</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>828</uiIndex>
+		<szItemName>.50 Beowulf 33</szItemName>
+		<szLongItemName>.50 Beowulf弹鼓, 33</szLongItemName>
+		<szItemDesc>一个装有33发.50 Beowulf全被甲弹的MWG90弹鼓。</szItemDesc>
+		<szBRName>.50 Beowulf 33</szBRName>
+		<szBRDesc>一个装有33发.50 Beowulf全被甲弹的MWG90弹鼓。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>829</uiIndex>
+		<szItemName>7.92x57mm Hi-Belt</szItemName>
+		<szLongItemName>7.92x57mm毛瑟弹长弹链</szLongItemName>
+		<szItemDesc>250发7.92x57mm毛瑟弹，用于固定射击的MG42。</szItemDesc>
+		<szBRName>7.92x57mm Hi-Belt</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>830</uiIndex>
+		<szItemName>.223-Rem 20</szItemName>
+		<szLongItemName>.223雷明顿，20发普通弹(M193)</szLongItemName>
+		<szItemDesc>这个20发的M16弹匣里装的是.223 Remington普通弹(5.56mm M193)。</szItemDesc>
+		<szBRName>.223-Rem Mag 20</szBRName>
+		<szBRDesc>这个20发的M16弹匣里装的是.223 Remington普通弹(5.56mm M193)。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>831</uiIndex>
+		<szItemName>.303 Clip 5</szItemName>
+		<szLongItemName>.303 British，5发普通弹</szLongItemName>
+		<szItemDesc>5发.303 British Mk.VII弹药。</szItemDesc>
+		<szBRName>.303 British Clip, 5</szBRName>
+		<szBRDesc>5发.303 British Mk.VII弹药。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>832</uiIndex>
+		<szItemName>.55 Boys Mag</szItemName>
+		<szLongItemName>.55 Boys，5发反坦克弹</szLongItemName>
+		<szItemDesc>5发Boys反坦克步枪使用的.55英寸反坦克弹。</szItemDesc>
+		<szBRName>.55 Boys Mag</szBRName>
+		<szBRDesc>5发Boys反坦克步枪使用的.55英寸反坦克弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
 		<uiIndex>833</uiIndex>
-		<szItemName>Defender-2 Vest</szItemName>
-		<szLongItemName>俄罗斯内务部后卫2型防弹衣</szLongItemName>
-		<szItemDesc>俄罗斯内务部特种部队装备的后卫2型防弹衣。</szItemDesc>
-		<szBRName>FSB Defender-2 Body Armor</szBRName>
-		<szBRDesc>俄罗斯内务部特种部队装备的后卫2型防弹衣。</szBRDesc>
+		<szItemName>Stg.44 Mag</szItemName>
+		<szLongItemName>7.92mm Kurz，30发普通弹</szLongItemName>
+		<szItemDesc>30发7.92kurz弹药。</szItemDesc>
+		<szBRName>Stg.44 Magazine</szBRName>
+		<szBRDesc>30发7.92kurz弹药。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>834</uiIndex>
-		<szItemName>6B12 Body Armor</szItemName>
-		<szLongItemName>俄军6B12防弹衣</szLongItemName>
-		<szItemDesc>俄罗斯装备的丛林迷彩式凯夫拉防弹衣，里面还有防弹钢板。</szItemDesc>
-		<szBRName>Russian 6B12 Body Armor</szBRName>
-		<szBRDesc>俄罗斯装备的丛林迷彩式凯夫拉防弹衣，里面还有防弹钢板。</szBRDesc>
+		<szItemName>Arisaka Clip 5</szItemName>
+		<szLongItemName>有坂6.5mm，5发普通弹</szLongItemName>
+		<szItemDesc>一夹5发6.5x50mm SR有坂步枪弹。</szItemDesc>
+		<szBRName>Arisaka 6.5mm Clip, 5</szBRName>
+		<szBRDesc>一夹5发6.5x50mm SR有坂步枪弹。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>835</uiIndex>
-		<szItemName>6B23 Body Armor</szItemName>
-		<szLongItemName>俄军6B23防弹衣</szLongItemName>
-		<szItemDesc>6B23是6B12的改进型，外表有DPM丛林迷彩，里面可以同时插入防弹钢板和陶瓷板。</szItemDesc>
-		<szBRName>Russian 6B23 Body Armor</szBRName>
-		<szBRDesc>6B23是6B12的改进型，外表有DPM丛林迷彩，里面可以同时插入防弹钢板和陶瓷板。</szBRDesc>
+		<szItemName>Arisaka Clip 30</szItemName>
+		<szLongItemName>有坂6.5mm，30发普通弹</szLongItemName>
+		<szItemDesc>6夹5发6.5x50mm SR有坂步枪弹。</szItemDesc>
+		<szBRName>Arisaka 6.5mm Clip x6</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>836</uiIndex>
-		<szItemName>Steel Plate</szItemName>
-		<szLongItemName>俄军防弹钢板</szLongItemName>
-		<szItemDesc>俄罗斯防弹衣专用的钢内衬，虽然不如陶瓷板的防护效果好，但胜在耐用。</szItemDesc>
-		<szBRName>Russian Steel Plate Insert</szBRName>
-		<szBRDesc>俄罗斯防弹衣专用的钢内衬，虽然不如陶瓷板的防护效果好，但胜在耐用。</szBRDesc>
+		<szItemName>Bolt</szItemName>
+		<szLongItemName>箭，5支</szLongItemName>
+		<szItemDesc>在笔直的细长箭杆的一端是锐利的箭头，另一端是利于飞行稳定的尾翼。你需要一张弓来发射它，就象《第一滴血》里那样杀人于无形。</szItemDesc>
+		<szBRName>Arrow, 5</szBRName>
+		<szBRDesc>在笔直的细长箭杆的一端是锐利的箭头，另一端是利于飞行稳定的尾翼。你需要一张弓来发射它，就象《第一滴血》里那样杀人于无形。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>837</uiIndex>
-		<szItemName>Titanium Plating</szItemName>
-		<szLongItemName>钛合金插板</szLongItemName>
-		<szItemDesc>一种比陶瓷防弹插板更轻更廉价的选择，但效果也稍微差一点。</szItemDesc>
-		<szBRName>Titanium Plating</szBRName>
-		<szBRDesc>买不起陶瓷插板？那么你可能会对这种性价比更高的选择感兴趣：T-15钛合金插板有各种不同的形状和尺寸来配合不同的防弹衣插袋。</szBRDesc>
+		<szItemName>.300 BLK Mag M</szItemName>
+		<szLongItemName>.300 BLK弹匣, 30发比赛弹</szLongItemName>
+		<szItemDesc>30发.300 AAC BLACKOUT的125格令OTM比赛弹。</szItemDesc>
+		<szBRName>.300 BLK Mag 30 Match</szBRName>
+		<szBRDesc>30 rounds of .300 AAC BLACKOUT 125 match in a magazine, it fire 125gr OTM supersonic bullet.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>838</uiIndex>
-		<szItemName>Leg Protectors</szItemName>
-		<szLongItemName>护膝</szLongItemName>
-		<szItemDesc>并不只是玩滑板的野小子才需要它，这种护膝可以让你的膝盖免受意外伤害。</szItemDesc>
-		<szBRName>Leg Protectors</szBRName>
-		<szBRDesc>并不只是玩滑板的野小子才需要它，这种护膝可以让你的膝盖免受意外伤害。</szBRDesc>
+		<szItemName>.300 BLK Belt M</szItemName>
+		<szLongItemName>.300 BLK弹链, 150发比赛弹</szLongItemName>
+		<szItemDesc>150发.300 AAC BLACKOUT的125格令OTM比赛弹。</szItemDesc>
+		<szBRName>.300 BLK 150 Belt Match</szBRName>
+		<szBRDesc>A belt with 150 rounds of .300 AAC BLACKOUT 125 match, it fire 125gr OTM supersonic bullet.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>839</uiIndex>
-		<szItemName>Protec Helmet</szItemName>
-		<szLongItemName>Protec VBSS头盔</szLongItemName>
-		<szItemDesc>Rro-Tec的轻型防撞头盔，VBBS常用。</szItemDesc>
-		<szBRName>Protec VBSS Helmet</szBRName>
-		<szBRDesc>Rro-Tec的轻型防撞头盔，VBBS常用。</szBRDesc>
+		<szItemName>25x59mm B Mag</szItemName>
+		<szLongItemName>25x59mm高爆弹弹匣</szLongItemName>
+		<szItemDesc>4发25x59mm高爆弹弹匣，用于XM107“负荷”步枪。</szItemDesc>
+		<szBRName>25x59mm B Mag</szBRName>
+		<szBRDesc>4发25x59mm高爆弹弹匣，用于XM107“负荷”步枪。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>840</uiIndex>
-		<szItemName>SO Vest</szItemName>
-		<szLongItemName>隐秘行动防弹背心</szLongItemName>
-		<szItemDesc>这种防弹背心让特工在大部分情况下不需找掩体，但易受大口径武器的伤害。</szItemDesc>
-		<szBRName>Stealth Ops Vest</szBRName>
-		<szBRDesc>None</szBRDesc>
+		<szItemName>20x42mm HE Mag</szItemName>
+		<szLongItemName>20x42mm高爆弹弹匣</szLongItemName>
+		<szItemDesc>7发20x42mm高爆弹弹匣，用于PAW-20武器系统。</szItemDesc>
+		<szBRName>20x42mm HE Mag</szBRName>
+		<szBRDesc>7发20x42mm高爆弹弹匣，用于PAW-20武器系统。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>841</uiIndex>
-		<szItemName>SO Leggings</szItemName>
-		<szLongItemName>隐秘行动防弹裤</szLongItemName>
-		<szItemDesc>无需学习忍术。穿上这种护腿的特工可以立即获得忍者般的身手。</szItemDesc>
-		<szBRName>Stealth Ops Leggings</szBRName>
-		<szBRDesc>None</szBRDesc>
+		<szItemName>2mm EC</szItemName>
+		<szLongItemName>2mm EC，20发高斯步枪弹</szLongItemName>
+		<szItemDesc>这种金属针或许是有史以来最坚硬的射弹。2mm EC子弹是一枚加工成超导体的钨合金钢，用高斯步枪发射。一旦射出，就没有任何盔甲能抵挡它的贯穿。</szItemDesc>
+		<szBRName>2mm EC, 20rds</szBRName>
+		<szBRDesc>这种金属针或许是有史以来最坚硬的射弹。2mm EC子弹是一枚加工成超导体的钨合金钢，用高斯步枪发射。一旦射出，就没有任何盔甲能抵挡它的贯穿。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>842</uiIndex>
-		<szItemName>Russian Holster</szItemName>
-		<szLongItemName>俄式战术手枪套</szLongItemName>
-		<szItemDesc>这种中型手枪套可以携带马卡洛夫手枪或其它手枪，以及一个备用弹匣。</szItemDesc>
-		<szBRName>Russian Tactical Holster</szBRName>
-		<szBRDesc>这种中型手枪套可以携带马卡洛夫手枪或其它手枪，以及一个备用弹匣。</szBRDesc>
+		<szItemName>12.7x55mm Mag</szItemName>
+		<szLongItemName>12.7x55mm弹匣, 10发普通弹</szLongItemName>
+		<szItemDesc>俄罗斯12.7mm突击步枪使用的大口径、铝合金弹芯的超音速弹。</szItemDesc>
+		<szBRName>12.7x55mm Mag, 10</szBRName>
+		<szBRDesc>Ten rounds of 12.7mm lightweight, supersonic bullet with an aluminum core cartridges in a polymer magzine.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>843</uiIndex>
-		<szItemName>AK Magazine Pouch</szItemName>
-		<szLongItemName>AK弹匣挎包</szLongItemName>
-		<szItemDesc>用肩带和腰带固定在腰侧，这个老式的苏军Ak弹匣挎包能携带4个AK弹匣。</szItemDesc>
-		<szBRName>Kalashnikov Magazine Pouch</szBRName>
-		<szBRDesc>用肩带和腰带固定在腰侧，这个老式的苏军Ak弹匣挎包能携带4个AK弹匣。</szBRDesc>
+		<szItemName>M309 10x24mm</szItemName>
+		<szLongItemName>M309 10x24mm，99发普通弹</szLongItemName>
+		<szItemDesc>Armat M41A脉冲步枪使用的99发M309 10x24mm普通弹。</szItemDesc>
+		<szBRName>M309 10x24mm Mag</szBRName>
+		<szBRDesc>M41A脉冲步枪发射的美军M309 10x24mm普通弹。这种弹药包含一个210格令（13.6克）重的弹头，它被植入到一个矩形无壳弹的硝胺50发射药内。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>844</uiIndex>
-		<szItemName>SVD Magazine Pouch</szItemName>
-		<szLongItemName>SVD弹匣挎包</szLongItemName>
-		<szItemDesc>用来在腰侧携带四个SVD弹匣的挎包。</szItemDesc>
-		<szBRName>SVD Magazine Pouch</szBRName>
-		<szBRDesc>用来在腰侧携带四个SVD弹匣的挎包。</szBRDesc>
+		<szItemName>.458 Magnum</szItemName>
+		<szLongItemName>.458温彻斯特马格努姆，5发普通弹</szLongItemName>
+		<szItemDesc>.458温彻斯特马格努姆弹被设计能使一个重500格令的弹头初速达到2100 fps，动能达到4895 ft. lbs。</szItemDesc>
+		<szBRName>.458 Winchester Magnum</szBRName>
+		<szBRDesc>.458温彻斯特马格努姆弹被设计能使一个重500格令的弹头初速达到2100 fps，动能达到4895 ft. lbs。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>845</uiIndex>
-		<szItemName>Lifchik</szItemName>
-		<szLongItemName>苏军第二型胸挂</szLongItemName>
-		<szItemDesc>苏联生产的"lifchick"是用于AK步枪的第二代胸挂。它可以携带6个AK弹匣，4枚破片杀伤手榴弹，以及2个手持信号弹。</szItemDesc>
-		<szBRName>Soviet 2nd Pattern Chestrig</szBRName>
-		<szBRDesc>苏联生产的"lifchick"是用于AK步枪的第二代胸挂。它可以携带6个AK弹匣，4枚破片杀伤手榴弹，以及2个手持信号弹。</szBRDesc>
+		<szItemName>PK224S Mag</szItemName>
+		<szLongItemName>PK224S，15发普通弹</szLongItemName>
+		<szItemDesc>这种装有30格令重弹头的.22马格努姆弹从手枪枪管内发射出去产生的初速大约为2400 fps。它可以在一块3/16英寸的厚钢板上开出个洞来。</szItemDesc>
+		<szBRName>PK224S Mag 15</szBRName>
+		<szBRDesc>这种装有30格令重弹头的.22马格努姆弹从手枪枪管内发射出去产生的初速大约为2400 fps。它可以在一块3/16英寸的厚钢板上开出个洞来。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>846</uiIndex>
-		<szItemName>OMON Vest</szItemName>
-		<szLongItemName>OMON战术背心</szLongItemName>
-		<szItemDesc>这种多用途装具背心是为MVD的特种部队OMON所生产的，用弹性束带携带步枪弹匣或者霰弹枪弹药。上面还整合了一个手枪套，可以携带马卡洛夫手枪及其弹匣。</szItemDesc>
-		<szBRName>OMON Utility Vest</szBRName>
-		<szBRDesc>这种多用途装具背心是为MVD的特种部队OMON所生产的，用弹性束带携带步枪弹匣或者霰弹枪弹药。上面还整合了一个手枪套，可以携带马卡洛夫手枪及其弹匣。</szBRDesc>
+		<szItemName>6.5 Grendel 10</szItemName>
+		<szLongItemName>6.5 Grendel，10发普通弹</szLongItemName>
+		<szItemDesc>使用在6.5 Grendel口径武器系统上的10发弹匣。</szItemDesc>
+		<szBRName>6.5 Grendel 10</szBRName>
+		<szBRDesc>10发Nosler公司120格令比赛级6.5 Grendel弹。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>847</uiIndex>
-		<szItemName>Russian Combined Pouch</szItemName>
-		<szLongItemName>俄罗斯后腰包</szLongItemName>
-		<szItemDesc>这个后腰包可以挂在任何俄军士兵的腰带上，或者TARZAN突击背心和狙击手装具背心上，也能同美国和英国的装具背心兼容。</szItemDesc>
-		<szBRName>Russian Combined Pouch</szBRName>
-		<szBRDesc>这个后腰包可以挂在任何俄军士兵的腰带上，或者TARZAN突击背心和狙击手装具背心上，也能同美国和英国的装具背心兼容。</szBRDesc>
+		<szItemName>6.5 Grendel 26</szItemName>
+		<szLongItemName>6.5格伦德尔，26发普通弹</szLongItemName>
+		<szItemDesc>使用在6.5格伦德尔口径武器系统上的26发弹匣。</szItemDesc>
+		<szBRName>6.5 Grendel 26</szBRName>
+		<szBRDesc>26发Nosler公司120格令比赛级6.5格伦德尔步枪弹。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>848</uiIndex>
-		<szItemName>RD-54 Backpack</szItemName>
-		<szLongItemName>RD-54背包</szLongItemName>
-		<szItemDesc>RD-54是为苏军空降兵——或者称为VDV——设计的。RD-54在20世纪80年代的阿富汗战争中投入使用，而在最近的车臣冲突中还能见到它。</szItemDesc>
-		<szBRName>RD-54 Backpack</szBRName>
-		<szBRDesc>RD-54是为苏军空降兵——或者称为VDV——设计的。RD-54在20世纪80年代的阿富汗战争中投入使用，而在最近的车臣冲突中还能见到它。</szBRDesc>
+		<szItemName>.22 LR Mag</szItemName>
+		<szLongItemName>.22 LR，10发普通弹</szLongItemName>
+		<szItemDesc>.22 LR是世界上最好销售的步枪及手枪弹。按标准速度、高速度、超高速装药，或是选择装上40格令的实心铅弹还是32-40格令的铅芯空尖弹，它可以满足你打靶的各种要求。</szItemDesc>
+		<szBRName>.22 LR Mag 10</szBRName>
+		<szBRDesc>.22 LR是一种老式的弹药，它第一次出现是使用在马林1891型杠杆步枪上。 它是到目前为止最流行而且最实用的.22口径有缘弹药。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>849</uiIndex>
-		<szItemName>TAD Pack</szItemName>
-		<szLongItemName>TAD F.I.S.T.背包</szLongItemName>
-		<szItemDesc>一种外部有一个附加口袋的战斗巡逻背包。你还可以在包的外面捆绑携带一支长枪。</szItemDesc>
-		<szBRName>TAD F.I.S.T. Pack</szBRName>
-		<szBRDesc>一种外部有一个附加口袋的战斗巡逻背包。你还可以在包的外面捆绑携带一支长枪。</szBRDesc>
+		<szItemName>.22 LR Plate</szItemName>
+		<szLongItemName>.22 LR，220发普通弹</szLongItemName>
+		<szItemDesc>American 180使用的220发.22 ILARCO弹药弹盘。</szItemDesc>
+		<szBRName>.22 LR Mag 220</szBRName>
+		<szBRDesc>American 180使用的220发.22 ILARCO普通弹弹盘。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>850</uiIndex>
-		<szItemName>SAS Vest</szItemName>
-		<szLongItemName>SAS CRW突击背心</szLongItemName>
-		<szItemDesc>这种正宗的SAS反恐作战用的羔羊皮突击背心从20世纪80年代一直用到差不多2005年。它们由SAS中那些一身黑衣的人质营救/反恐怖小组穿着。</szItemDesc>
-		<szBRName>SAS CRW Assault Vest</szBRName>
-		<szBRDesc>这种正宗的SAS反恐作战用的羔羊皮突击背心从20世纪80年代一直用到差不多2005年。它们由SAS中那些一身黑衣的人质营救/反恐怖小组穿着。</szBRDesc>
+		<szItemName>23mm Buckshot 4</szItemName>
+		<szLongItemName>23mm鹿弹, 4</szLongItemName>
+		<szItemDesc>4发23mm鹿弹，能提供近距离内的大面积杀伤。</szItemDesc>
+		<szBRName>23mm Buckshot, 4</szBRName>
+		<szBRDesc>4发23mm鹿弹，能提供近距离内的大面积杀伤。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>851</uiIndex>
-		<szItemName>SAS Magazine Pouch</szItemName>
-		<szLongItemName>SAS弹匣腿袋</szLongItemName>
-		<szItemDesc>可以携带三个MP5弹匣的腿袋。</szItemDesc>
-		<szBRName>SAS Magazine Leg Pouch</szBRName>
-		<szBRDesc>可以携带三个MP5弹匣的腿袋。</szBRDesc>
+		<szItemName>23mm Buckshot</szItemName>
+		<szLongItemName>23mm霰弹，6发鹿弹</szLongItemName>
+		<szItemDesc>装有6发23mm口径超级霰弹枪鹿弹的弹匣。</szItemDesc>
+		<szBRName>23mm Buckshot</szBRName>
+		<szBRDesc>装有6发23mm口径超级霰弹枪鹿弹的弹匣。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>852</uiIndex>
-		<szItemName>SWAT Vest</szItemName>
-		<szLongItemName>SWAT突击背心</szLongItemName>
-		<szItemDesc>一种SWAT小队常用的战术背心，本应有防弹功能，草泥马的113现在还没有把防弹和携具整合在一起。目前你别忘了在它里面多加一件防弹衣。</szItemDesc>
-		<szBRName>SWAT Assault Vest</szBRName>
-		<szBRDesc>一种SWAT小队常用的战术背心，本应有防弹功能，草泥马的113现在还没有把防弹和携具整合在一起。目前你别忘了在它里面多加一件防弹衣。</szBRDesc>
+		<szItemName>7.5x54mm 5 SP</szItemName>
+		<szLongItemName>7.5x54mm桥夹, 5发软尖弹</szLongItemName>
+		<szItemDesc>5发7.5x54mm口径比赛级软尖弹。</szItemDesc>
+		<szBRName>7.5x54mm 5 SP</szBRName>
+		<szBRDesc>5发7.5x54mm口径比赛级软尖弹。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>853</uiIndex>
-		<szItemName>LRAK</szItemName>
-		<szLongItemName>LRAK机枪手背心</szLongItemName>
-		<szItemDesc>这种战术背心可以让你的机枪手携带4条弹链，或者数个弹鼓。</szItemDesc>
-		<szBRName>LRAK SAW-Vest</szBRName>
-		<szBRDesc>你的机枪手会爱上这种背心的，只要他能承受背心装满以后的重量。</szBRDesc>
+		<szItemName>7.5x54mm 10 SP</szItemName>
+		<szLongItemName>7.5x54mm弹匣, 10发软尖弹</szLongItemName>
+		<szItemDesc>10发7.5x54mm口径比赛级软尖弹。</szItemDesc>
+		<szBRName>7.5x54mm 10 SP</szBRName>
+		<szBRDesc>10发7.5x54mm口径比赛级软尖弹。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>854</uiIndex>
-		<szItemName>1st Aid</szItemName>
-		<szLongItemName>急救腿袋</szLongItemName>
-		<szItemDesc>这种腿部装具有一个急救包和数条小束带，可以井然有序的携带许多注射针剂。</szItemDesc>
-		<szBRName>First Aid Rig</szBRName>
-		<szBRDesc>用来携带急救包和额外的兴奋针剂再合适不过了。</szBRDesc>
+		<szItemName>7.5x54mm 25 SP</szItemName>
+		<szLongItemName>7.5x54mm弹匣, 25发软尖弹</szLongItemName>
+		<szItemDesc>25发7.5x54mm口径软尖弹。</szItemDesc>
+		<szBRName>7.5x54mm 25 SP</szBRName>
+		<szBRDesc>25发7.5x54mm口径软尖弹。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>855</uiIndex>
-		<szItemName>Med. Pouch</szItemName>
-		<szLongItemName>医疗腿袋</szLongItemName>
-		<szItemDesc>这种腿部装具有一个急救包和数条小束带，可以整齐的携带许多注射针剂，还能装一个水壶。</szItemDesc>
-		<szBRName>Medical Pouch</szBRName>
-		<szBRDesc>用来携带急救包和额外的兴奋针剂再合适不过了。还有一个水壶放在随手可及的位置。</szBRDesc>
+		<szItemName>7.5x54mm 100 SP</szItemName>
+		<szLongItemName>7.5x54mm弹链, 100发软尖弹</szLongItemName>
+		<szItemDesc>100发7.5x54mm口径软尖弹。</szItemDesc>
+		<szBRName>7.5x54mm 100 SP</szBRName>
+		<szBRDesc>100发7.5x54mm口径软尖弹。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>856</uiIndex>
-		<szItemName>Cant.-Gren.</szItemName>
-		<szLongItemName>水壶/榴弹包</szLongItemName>
-		<szItemDesc>有一个水壶袋和三个手榴弹袋的腿部装具。</szItemDesc>
-		<szBRName>Canteen / Grenade Pouch</szBRName>
-		<szBRDesc>这种腿袋上有一个水壶袋和三个手榴弹袋。</szBRDesc>
+		<szItemName>.32ACP Mag 20</szItemName>
+		<szLongItemName>.32 ACP，20发普通弹</szLongItemName>
+		<szItemDesc>装有20发.32 ACP (7.65x17mm Browning)全被甲弹的弹匣。</szItemDesc>
+		<szBRName>.32 ACP Mag 20</szBRName>
+		<szBRDesc>20发71格令.32 ACP普通弹。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>857</uiIndex>
-		<szItemName>AR-Ca.-Gr.</szItemName>
-		<szLongItemName>突击步枪弹匣/水壶/榴弹包</szLongItemName>
-		<szItemDesc>带有一个突击步枪弹匣袋，一个水壶袋和两个手榴弹袋的标准腿袋。</szItemDesc>
-		<szBRName>AR-Mag. / Canteen / Grenade Panel</szBRName>
-		<szBRDesc>这是其它腿部装具袋的一个衍生型，用一个水壶袋代替了一个手榴弹袋。</szBRDesc>
+		<szItemName>.32ACP Mag 8</szItemName>
+		<szLongItemName>.32 ACP，8发普通弹</szLongItemName>
+		<szItemDesc>装有8发.32 ACP（7.65x17mm勃朗宁弹）全被甲弹。</szItemDesc>
+		<szBRName>.32 ACP Mag 8</szBRName>
+		<szBRDesc>8发71格令.32 ACP（Automatic Colt Pistol柯尔特自动手枪）全被甲弹。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>858</uiIndex>
-		<szItemName>L.Mag.-Ca.-Gr.</szItemName>
-		<szLongItemName>大弹匣/水壶/榴弹包</szLongItemName>
-		<szItemDesc>这种腿部装具上有一个水壶袋，一个手榴弹袋和两个加长弹匣的口袋。</szItemDesc>
-		<szBRName>Large Mag. / Canteen / Grenade Panel</szBRName>
-		<szBRDesc>这种装具用一个水壶袋代替了其它大弹匣包组合上的第二个手榴弹袋。</szBRDesc>
+		<szItemName>.32ACP Mag 15</szItemName>
+		<szLongItemName>.32 ACP，15发普通弹</szLongItemName>
+		<szItemDesc>装有15发.32 ACP（7.65x17mm勃朗宁短弹）全被甲弹。</szItemDesc>
+		<szBRName>.32 ACP Mag 15</szBRName>
+		<szBRDesc>15发71格令.32 ACP（柯尔特自动手枪弹）全被甲弹。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>859</uiIndex>
-		<szItemName>Satchel</szItemName>
-		<szLongItemName>革命挎包</szLongItemName>
-		<szItemDesc>正货！上书毛主席“为人民服务”字样的挎包。</szItemDesc>
-		<szBRName>Revolutionary Satchel</szBRName>
-		<szBRDesc>正货！上书毛主席“为人民服务”字样的挎包。</szBRDesc>
+		<szItemName>.224VOB Mag</szItemName>
+		<szLongItemName>.224 VOB，16发穿甲弹</szLongItemName>
+		<szItemDesc>这个弹匣内装有16发.224 VOB（5.56x23.5mm）弹药。这种穿甲弹以7.62x25mm托卡列夫弹壳为基础开发的，枪口初速可达720 m/s（能量为 750焦耳）。</szItemDesc>
+		<szBRName>.224 VOB Magazine</szBRName>
+		<szBRDesc>这个弹匣内装有16发.224 VOB（5.56x23.5mm）弹药。这种穿甲弹以7.62x25mm托卡列夫弹壳为基础开发的。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>860</uiIndex>
-		<szItemName>Smersh</szItemName>
-		<szLongItemName>Smersh装具背心</szLongItemName>
-		<szItemDesc>俄罗斯的步枪手单兵携具。</szItemDesc>
-		<szBRName>Smersh Vest</szBRName>
-		<szBRDesc>俄罗斯的步枪手单兵携具。</szBRDesc>
+		<szItemName>.22 Scamp Mag</szItemName>
+		<szLongItemName>.22 Scamp，27发普通弹</szLongItemName>
+		<szItemDesc>.22 Scamp弹是被研发出来使用在Colt SCAMP上的低后座力弹药。这种小口径高速弹虽然压力被降低了，但杀伤力仍能保持在等于或略高于9x19mm弹药。</szItemDesc>
+		<szBRName>.22 Scamp Mag</szBRName>
+		<szBRDesc>.22 Scamp弹是被研发出来使用在Colt SCAMP上的低后座力弹药。这种小口径高速弹虽然压力被降低了，但杀伤力仍能保持在等于或略高于9x19mm弹药。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>861</uiIndex>
-		<szItemName>Smersh Pack</szItemName>
-		<szLongItemName>Smersh战斗包</szLongItemName>
-		<szItemDesc>与Smersh装具背心搭配使用的小型背包。</szItemDesc>
-		<szBRName>Smersh Combat Pack</szBRName>
-		<szBRDesc>与Smersh装具背心搭配使用的小型背包。</szBRDesc>
+		<szItemName>Gyrojet Projectiles</szItemName>
+		<szLongItemName>Gyrojet火箭弹</szLongItemName>
+		<szItemDesc>六枚13mm口径的小型火箭弹，这是Gyrojet火箭式手枪专用的。</szItemDesc>
+		<szBRName>Gyrojet Projectiles</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>862</uiIndex>
-		<szItemName>PKM Satchel</szItemName>
-		<szLongItemName>PKM弹药包</szLongItemName>
-		<szItemDesc>用来携带PKM机枪弹链的俄制大腰包。</szItemDesc>
-		<szBRName>PKM Ammo Satchel</szBRName>
-		<szBRDesc>用来携带PKM机枪弹链的俄制大腰包。</szBRDesc>
+		<szItemName>.38 Super Lrg Mag</szItemName>
+		<szLongItemName>.38 Super Large Mag</szLongItemName>
+		<szItemDesc>装有22发比赛级.38 Super全被甲弹的大弹匣。</szItemDesc>
+		<szBRName>.38 Super Large Mag</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>863</uiIndex>
-		<szItemName>Scabbard</szItemName>
-		<szLongItemName>刀鞘</szLongItemName>
-		<szItemDesc>用来容纳长刀或砍刀的大型刀鞘。</szItemDesc>
-		<szBRName>Scabbard</szBRName>
-		<szBRDesc>用来容纳长刀或砍刀的大型刀鞘。</szBRDesc>
+		<szItemName>.38 Super Mag</szItemName>
+		<szLongItemName>.38 Super，9发普通弹</szLongItemName>
+		<szItemDesc>这个弹匣装有9发比赛级的.38 Super普通弹。</szItemDesc>
+		<szBRName>.38 Super Mag</szBRName>
+		<szBRDesc>这个弹匣装有9发比赛级的.38 Super普通弹。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>864</uiIndex>
-		<szItemName>M9 Sheath</szItemName>
-		<szLongItemName>M9刺刀刀鞘</szLongItemName>
-		<szItemDesc>军用刺刀的多功能刀鞘。</szItemDesc>
-		<szBRName>M9 Bayonet Sheath</szBRName>
-		<szBRDesc>军用刺刀的多功能刀鞘。</szBRDesc>
+		<szItemName>Mag-7 Mag, Slug</szItemName>
+		<szLongItemName>Mag-7 Mag, Slug</szLongItemName>
+		<szItemDesc>这个手枪型的弹匣内装有5发12号60mm独头弹。</szItemDesc>
+		<szBRName>Mag-7 Mag, Slug</szBRName>
+		<szBRDesc>这个手枪型的弹匣内装有5发12号60mm独头弹。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>865</uiIndex>
-		<szItemName>KSK Desert Vest</szItemName>
-		<szLongItemName>KSK沙漠装具背心</szLongItemName>
-		<szItemDesc>德国KSK特种部队使用的沙漠迷彩SOF突击背心。</szItemDesc>
-		<szBRName>KSK Desert Vest</szBRName>
-		<szBRDesc>德国KSK特种部队使用的沙漠迷彩SOF突击背心。</szBRDesc>
+		<szItemName>.458 SOCOM 12 FMJ</szItemName>
+		<szLongItemName>.458 SOCOM，10发全被甲弹</szLongItemName>
+		<szItemDesc>这个M16弹匣装着10发.458 SOCOM全被甲弹，该弹由德克萨斯州的Marty ter Weeme设计，在发射这枚300格令重的弹头时枪口动居然能超过2100 fps。</szItemDesc>
+		<szBRName>.458 SOCOM Mag 10 FMJ</szBRName>
+		<szBRDesc>这个M16弹匣装着10发.458 SOCOM全被甲弹，该弹由德克萨斯州的Marty ter Weeme设计，在发射这枚300格令重的弹头时枪口动居然能超过2100 fps。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>866</uiIndex>
-		<szItemName>Type95 Vest</szItemName>
-		<szLongItemName>中国95式步兵装具背心</szLongItemName>
-		<szItemDesc>中国为使用QBZ95式步枪的步枪手设计的突击背心。</szItemDesc>
-		<szBRName>Chinese Type95 Vest</szBRName>
-		<szBRDesc>中国为使用QBZ95式步枪的步枪手设计的突击背心。</szBRDesc>
+		<szItemName>.458 SOCOM 14 FMJ</szItemName>
+		<szLongItemName>.458 SOCOM，14发全被甲弹</szLongItemName>
+		<szItemDesc>这个AK弹匣装着14发.458 SOCOM全被甲弹，该弹由德克萨斯州的Marty ter Weeme设计，在发射这枚300格令重的弹头时枪口动居然能超过2100 fps。</szItemDesc>
+		<szBRName>.458 SOCOM Mag 14 FMJ</szBRName>
+		<szBRDesc>这个AK弹匣装着14发.458 SOCOM全被甲弹，该弹由德克萨斯州的Marty ter Weeme设计，在发射这枚300格令重的弹头时枪口动居然能超过2100 fps。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>867</uiIndex>
-		<szItemName>Type02 Vest</szItemName>
-		<szLongItemName>中国02式空降兵装具背心</szLongItemName>
-		<szItemDesc>中国空降兵用的02式突击背心。附加了一个02式弹匣包。</szItemDesc>
-		<szBRName>CHN Type02 Airborne Vest</szBRName>
-		<szBRDesc>中国空降兵用的02式突击背心。</szBRDesc>
+		<szItemName>.458 SOCOM 38 FMJ</szItemName>
+		<szLongItemName>.458 SOCOM弹鼓, 38 FMJ</szLongItemName>
+		<szItemDesc>一个装有38发.458 SOCOM全被甲弹的MWG90弹鼓。</szItemDesc>
+		<szBRName>.458 SOCOM Mag 38 FMJ</szBRName>
+		<szBRDesc>一个装有38发.458 SOCOM全被甲弹的MWG90弹鼓。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>868</uiIndex>
-		<szItemName>Type02 Backpack</szItemName>
-		<szLongItemName>02式空降兵背包</szLongItemName>
-		<szItemDesc>这是中国的空降兵用02式背包，外部有若干口袋，而且从顶部或底部都可以打开。</szItemDesc>
-		<szBRName>CHN Type02 Backpack</szBRName>
-		<szBRDesc>中国02式空降兵背包。</szBRDesc>
+		<szItemName>7.5mm GP11 Clip</szItemName>
+		<szLongItemName>7.5x55mm GP11，6发标准弹</szLongItemName>
+		<szItemDesc>全金属被甲的GP11子弹就算以现在的标准看来，它仍可以提供良好的空气动力学效率和弹道性能，甚至可以保持超音速飞行达800米以上。</szItemDesc>
+		<szBRName>7.5mm GP11 Clip</szBRName>
+		<szBRDesc>全金属被甲的GP11子弹就算以现在的标准看来，它仍可以提供良好的空气动力学效率和弹道性能，甚至可以保持超音速飞行达800米以上。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>869</uiIndex>
-		<szItemName>Type02 Mag Pouch</szItemName>
-		<szLongItemName>中国02式弹匣包</szLongItemName>
-		<szItemDesc>用来容纳5.8mm弹匣的弹匣包。也能附加在中国02式空降兵装具背心上。</szItemDesc>
-		<szBRName>Type-02 Magazine Pouch</szBRName>
-		<szBRDesc>用来容纳5.8mm弹匣的弹匣包。</szBRDesc>
+		<szItemName>7.5mm GP11 Mag</szItemName>
+		<szLongItemName>7.5x55mm GP11，24发标准弹</szLongItemName>
+		<szItemDesc>24发7.5x55mm GP11标准弹弹匣。给敌人一份来自瑞士的问候。</szItemDesc>
+		<szBRName>7.5mm GP11 Mag</szBRName>
+		<szBRDesc>24发7.5x55mm GP11标准弹弹匣。给敌人一份来自瑞士的问候。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>870</uiIndex>
-		<szItemName>Type07 AS. Vest</szItemName>
-		<szLongItemName>中国07式步兵装具背心</szLongItemName>
-		<szItemDesc>中国最新式的07式步兵装具背心，带有数码迷彩。这是中国第一种模块化装具背心。</szItemDesc>
-		<szBRName>Type07 Rifleman Vest</szBRName>
-		<szBRDesc>全新的中国07式模块化步兵装具背心。即使在中国军队中也还很少见。</szBRDesc>
+		<szItemName>12Ga M BS</szItemName>
+		<szLongItemName>12Ga MAUL Buckshot</szLongItemName>
+		<szItemDesc>5发MAUL金属风暴霰弹枪所用的鹿弹。</szItemDesc>
+		<szBRName>12Ga MAUL BS</szBRName>
+		<szBRDesc>5发MAUL金属风暴霰弹枪所用的鹿弹。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>871</uiIndex>
-		<szItemName>Type07 MG. Vest</szItemName>
-		<szLongItemName>中国07式机枪手背心</szLongItemName>
-		<szItemDesc>中国07式机枪手背心，是中国班用轻机枪射手的装备。</szItemDesc>
-		<szBRName>Type07 Gunner Vest</szBRName>
-		<szBRDesc>中国07式模块化机枪手背心。</szBRDesc>
+		<szItemName>5.56 MSMC Mag</szItemName>
+		<szLongItemName>5.56x30mm MSMC Mag</szLongItemName>
+		<szItemDesc>印度MSMC冲锋枪配的弹药，为了省功夫，他们只是把5.56 NATO弹直接缩短弹壳、减少发射药。</szItemDesc>
+		<szBRName>5.56x30mm MSMC Mag</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>872</uiIndex>
-		<szItemName>Type07 Combat Pack</szItemName>
-		<szLongItemName>中国07式战斗包</szLongItemName>
-		<szItemDesc>中国最新的军用背包，看起来像是3-Day背包的仿制品，但它拥有更大的内部空间。</szItemDesc>
-		<szBRName>Type07 Combat Pack</szBRName>
-		<szBRDesc>中国07式战斗包，外面有一个大型口袋。</szBRDesc>
+		<szItemName>14.5mm Mag 5</szItemName>
+		<szLongItemName>14.5x114mm Mag, 5</szLongItemName>
+		<szItemDesc>比12.7x108个儿大，威力也更大，虽然是用来对付轻型装甲车的，也许打不了坦克，但用来打人保证一枪几命。</szItemDesc>
+		<szBRName>14.5x114mm Mag, 5</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>873</uiIndex>
-		<szItemName>3P Backpack</szItemName>
-		<szLongItemName>马盖先3P背包</szLongItemName>
-		<szItemDesc>马盖先公司的3P多用途背包，受到军迷欢迎的城市生存一族的日常用小背包。</szItemDesc>
-		<szBRName>Magforce 3P Backpack</szBRName>
-		<szBRDesc>马盖先公司的3P多用途背包，受到军迷欢迎的城市生存一族的日常用小背包。</szBRDesc>
+		<szItemName>7.92x57mm Z Belt</szItemName>
+		<szLongItemName>7.92x57mm Zwilling Belt</szLongItemName>
+		<szItemDesc>一对弹链袋，各装一条100发7.92x57mm穿甲曳光弹，专门挂在MG81 Z双联航空机枪上使用。</szItemDesc>
+		<szBRName>7.92x57mm Zwilling Belt</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>874</uiIndex>
-		<szItemName>AIII Med Bag</szItemName>
-		<szLongItemName>Eagle A-III医疗包</szLongItemName>
-		<szItemDesc>有多个分隔，让你的医疗兵能整齐有序地存放多种医疗用品的战斗背包。</szItemDesc>
-		<szBRName>Eagle A-III Med Bag</szBRName>
-		<szBRDesc>有多个分隔，让你的医疗兵能整齐有序地存放多种医疗用品的战斗背包。</szBRDesc>
+		<szItemName>渔叉</szItemName>
+		<szLongItemName>渔叉</szLongItemName>
+		<szItemDesc>杀伤力挺强的，可就是太长了。</szItemDesc>
+		<szBRName>渔叉</szBRName>
+		<szBRDesc>杀伤力挺强的，可就是太长了。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>875</uiIndex>
-		<szItemName>Flashlight</szItemName>
-		<szLongItemName>手电筒</szLongItemName>
-		<szItemDesc>带攻击头的手电筒，航空铝材制作，坚固耐用，除了照明，还可以打人。</szItemDesc>
-		<szBRName>Flashlight</szBRName>
-		<szBRDesc>带攻击头的手电筒，航空铝材制作，坚固耐用，除了照明，还可以打人。</szBRDesc>
+		<szItemName>410 Slug 5</szItemName>
+		<szLongItemName>.410 Shells, 5 Slug</szLongItemName>
+		<szItemDesc>5发散装的410号独头弹。</szItemDesc>
+		<szBRName>.410 Shells 5 Slug</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>876</uiIndex>
-		<szItemName>Flashlight</szItemName>
-		<szLongItemName>手电筒 (开灯)</szLongItemName>
-		<szItemDesc>带攻击头的手电筒，航空铝材制作，坚固耐用，除了照明，还可以打人。这是点亮状态。</szItemDesc>
-		<szBRName>Flashlight</szBRName>
+		<szItemName>410 Slug Mag</szItemName>
+		<szLongItemName>.410 Slug, 10 Mag</szLongItemName>
+		<szItemDesc>装有10发410号独头弹的弹匣。</szItemDesc>
+		<szBRName>.410 Slug 10 Mag</szBRName>
 		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>877</uiIndex>
-		<szItemName>ZSh-1 Helmet</szItemName>
-		<szLongItemName>ZSh-1头盔</szLongItemName>
-		<szItemDesc>ZSh-1是俄罗斯特种部队最喜欢的头盔之一。它足以抵挡大部分的手枪弹和破片。</szItemDesc>
-		<szBRName>ZSh-1 Helmet</szBRName>
-		<szBRDesc>ZSh-1是俄罗斯特种部队最喜欢的头盔之一。它足以抵挡大部分的手枪弹和破片。</szBRDesc>
+		<szItemName>.22 WMR Mag</szItemName>
+		<szLongItemName>.22 WMR Mag, 30</szLongItemName>
+		<szItemDesc>一个装有30发.22 WMR突缘弹的手枪弹匣。</szItemDesc>
+		<szBRName>.22 WMR Mag 30</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>878</uiIndex>
-		<szItemName>MASKA-1Sch Helmet</szItemName>
-		<szLongItemName>MASKA-1Sch头盔</szLongItemName>
-		<szItemDesc>MASKA是一种著名的防弹头盔，专门为俄罗斯特种部队制造，使用者包括MVD的SOBR和OMON特警队。由于重量问题，MASKA头盔不是用来长时间佩戴的，而是用于短时间的战斗。</szItemDesc>
-		<szBRName>MASKA-1Sch Helmet</szBRName>
-		<szBRDesc>MASKA是一种著名的防弹头盔，专门为俄罗斯特种部队制造，使用者包括MVD的SOBR和OMON特警队。由于重量问题，MASKA头盔不是用来长时间佩戴的，而是适用于短时间的战斗。</szBRDesc>
+		<szItemName>胡椒喷雾瓶</szItemName>
+		<szLongItemName>胡椒喷雾瓶</szLongItemName>
+		<szItemDesc>给胡椒喷雾器补充喷剂。</szItemDesc>
+		<szBRName>Pepper Spray Canister</szBRName>
+		<szBRDesc>给胡椒喷雾器补充喷剂。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>879</uiIndex>
-		<szItemName>Heavy SWAT Helmet</szItemName>
-		<szLongItemName>K6-3头盔</szLongItemName>
-		<szItemDesc>K6-3重型防弹头盔足以抵挡大部分手枪弹和破片，被俄罗斯Spetsnaz特种部队广泛使用。带有透明的强化玻璃面罩，还整合有对讲机和天线。</szItemDesc>
-		<szBRName>K6-3 Helmet</szBRName>
-		<szBRDesc>K6-3重型防弹头盔足以抵挡大部分手枪弹和破片，被俄罗斯Spetsnaz特种部队广泛使用。带有透明的强化玻璃面罩，还整合有对讲机和天线。</szBRDesc>
+		<szItemName>.338 Spectre Mag FMJ</szItemName>
+		<szLongItemName>.338 Spectre Magazine, 28 Light FMJ</szLongItemName>
+		<szItemDesc>这个标准AR式弹匣中装有28发.338幽灵亚音速特种弹，其弹头是160格令重的轻型尖头全被甲弹。</szItemDesc>
+		<szBRName>.338 Spectre Mag 28 Light FMJ</szBRName>
+		<szBRDesc>这个标准AR式弹匣中装有28发.338幽灵亚音速特种弹，其弹头是160格令重的轻型尖头全被甲弹。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>880</uiIndex>
-		<szItemName>SOF Helmet</szItemName>
-		<szLongItemName>特种部队半盔</szLongItemName>
-		<szItemDesc>这是著名的美国陆军特种部队用的轻型防弹战斗盔，两侧没有护耳的半盔式设计是为了方便戴耳机。</szItemDesc>
-		<szBRName>SOF Half Head Helmet</szBRName>
-		<szBRDesc>这是著名的美国陆军特种部队用的轻型防弹战斗盔，两侧没有护耳的半盔式设计是为了方便戴耳机。</szBRDesc>
+		<szItemName>.500 Phantom 8 Sabot</szItemName>
+		<szLongItemName>.500 Phantom Magazine, 8 Sabot</szLongItemName>
+		<szItemDesc>这个标准AR式弹匣中装有8发.500 Phantom口径的亚音速脱壳穿甲弹，发射.308口径的168格令全被甲弹。</szItemDesc>
+		<szBRName>.500 Phantom Mag 8 Sabot</szBRName>
+		<szBRDesc>这个标准AR式弹匣中装有8发.500 Phantom口径的亚音速脱壳穿甲弹，发射.308口径的168格令全被甲弹。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>881</uiIndex>
-		<szItemName>6B7-1L Helmet</szItemName>
-		<szLongItemName>6B7-1L凯夫拉头盔</szLongItemName>
-		<szItemDesc>俄军6B7-1L型凯夫拉头盔。</szItemDesc>
-		<szBRName>6B7-1L Kavlar Helmet</szBRName>
-		<szBRDesc>俄军6B7-1L型凯夫拉头盔。</szBRDesc>
+		<szItemName>.338 NM 5</szItemName>
+		<szLongItemName>.338 Norma Magnum弹匣, 5发</szLongItemName>
+		<szItemDesc>5发装在弹匣内的.338 Norma Magnum比赛弹。</szItemDesc>
+		<szBRName>.338 Norma Mag, 5</szBRName>
+		<szBRDesc>5发装在弹匣内的.338 Norma Magnum比赛弹。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>882</uiIndex>
-		<szItemName>STSH-81 Helmet</szItemName>
-		<szLongItemName>STSH-81钛合金头盔</szLongItemName>
-		<szItemDesc>俄罗斯STSH-81 "SPHERA"钛合金头盔被俄军伞兵和特种部队在车臣和其它热点地区广泛使用。</szItemDesc>
-		<szBRName>STSH-81 Titanium Helmet</szBRName>
-		<szBRDesc>俄罗斯STSH-81 "SPHERA"钛合金头盔被俄军伞兵和特种部队在车臣和其它热点地区广泛使用。</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>883</uiIndex>
-		<szItemName>OTV</szItemName>
-		<szLongItemName>拦截者OTV</szLongItemName>
-		<szItemDesc>Point Blank公司的拦截者防弹系统的背心部分，该型号已大量供应美国军队使用。</szItemDesc>
-		<szBRName>Interceptor OTV</szBRName>
-		<szBRDesc>Point Blank公司的拦截者防弹系统的背心部分，该型号已大量供应美国军队使用。</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>884</uiIndex>
-		<szItemName>Balistic Insert</szItemName>
-		<szLongItemName>软防弹内衬</szLongItemName>
-		<szItemDesc>防弹衣的软质凯夫拉纤维内衬。</szItemDesc>
-		<szBRName>Soft Balistic Insert</szBRName>
-		<szBRDesc>防弹衣的软质凯夫拉纤维内衬。</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>885</uiIndex>
-		<szItemName>Helmet Cover Mk.I</szItemName>
-		<szLongItemName>迷彩盔罩Mk.I</szLongItemName>
-		<szItemDesc>这种外罩让你的头盔更不显眼。</szItemDesc>
-		<szBRName>Camo Helmet Cover Mk.I</szBRName>
-		<szBRDesc>明晃晃亮闪闪的头盔已经过时了！这种迷彩盔罩是升级头盔的绝好方式。</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>886</uiIndex>
-		<szItemName>Helmet Cover Mk.II</szItemName>
-		<szLongItemName>迷彩盔罩Mk.II</szLongItemName>
-		<szItemDesc>这种盔罩可以让你的头盔更加不起眼。它上面的带子可以插上树枝或其它绿色植物，提供更好的伪装效果。</szItemDesc>
-		<szBRName>Camo Helmet Cover Mk.II</szBRName>
-		<szBRDesc>让你的头上长草吧！头盔上的这些带子是固定大地母亲制造的各种伪装材料的绝好位置。</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>887</uiIndex>
-		<szItemName>Kazak-4</szItemName>
-		<szLongItemName>Kazak-4防弹背心</szLongItemName>
-		<szItemDesc>Kazak-4防弹背心由织物外套和内部填充的软质防弹材料组成。填充的防弹材料可以是经过防水处理的芳纶纤维，也可以是俄罗斯产的SVM纤维。</szItemDesc>
-		<szBRName>Kazak-4 Vest</szBRName>
-		<szBRDesc>Kazak-4防弹背心由织物外套和内部填充的软质防弹材料组成。填充的防弹材料可以是经过防水处理的芳纶纤维，也可以是俄罗斯产的SVM纤维。</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>888</uiIndex>
-		<szItemName>Kazak-6</szItemName>
-		<szLongItemName>Kazak-6防弹背心</szLongItemName>
-		<szItemDesc>达到俄罗斯标准5级(AK-47/AKM/SVD)或美国NIJ III级的防弹衣。前后两面的防护等级相同。</szItemDesc>
-		<szBRName>Kazak-6 Vest</szBRName>
-		<szBRDesc>达到俄罗斯标准5级(AK-47/AKM/SVD)或美国NIJ III级的防弹衣。前后两面的防护等级相同。</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>889</uiIndex>
-		<szItemName>Ghillie Hood</szItemName>
-		<szLongItemName>吉利伪装兜帽</szLongItemName>
-		<szItemDesc>不管是单独使用还是与吉利伪装服一起使用，吉利伪装兜帽都能为你全身最重要的部分——脑袋——提供伪装。</szItemDesc>
-		<szBRName>Ghillie Hood</szBRName>
-		<szBRDesc>全套吉利伪装服的最后一个部件。它也能避免阳光刺眼，还可以起蚊帐的作用。</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>890</uiIndex>
-		<szItemName>Ghillie Pants</szItemName>
-		<szLongItemName>吉利伪装裤</szLongItemName>
-		<szItemDesc>优质的黄麻絮直接缝在军用战斗服的长裤上。这些缝上去的麻絮覆盖了正反两面。</szItemDesc>
-		<szBRName>Ghillie Leggings</szBRName>
-		<szBRDesc>除非你打算用吉利伪装服配牛仔裤穿，否则这种长裤就是你想偷偷摸近敌人时的必备品。</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>891</uiIndex>
-		<szItemName>Ghillie Jacket</szItemName>
-		<szLongItemName>吉利伪装服</szLongItemName>
-		<szItemDesc>优质的黄麻絮直接缝在有四个口袋的军用战斗服外套上。这些麻絮完全覆盖了外套的正反两面，而且附有一个兜帽。</szItemDesc>
-		<szBRName>Ghillie Jacket</szBRName>
-		<szBRDesc>在你偷窥可爱的邻家女孩，或者朝能俯瞰敌人基地的绝好位置潜行的过程中，这件外套可以保证没人发现你。</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>892</uiIndex>
-		<szItemName>Protec Para</szItemName>
-		<szLongItemName>Pro-Tec伞兵头盔</szLongItemName>
-		<szItemDesc>Pro-Tec制造的轻型防撞伞兵头盔。</szItemDesc>
-		<szBRName>Pro-Tec Para Helmet</szBRName>
-		<szBRDesc>Pro-Tec制造的轻型防撞伞兵头盔。</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>893</uiIndex>
-		<szItemName>Camo Trousers</szItemName>
-		<szLongItemName>伪装裤</szLongItemName>
-		<szItemDesc>这种森林迷彩的伪装裤只提供有限的保护，但可以让你在适当的地形中更好的隐蔽更长时间。</szItemDesc>
-		<szBRName>Camo Pants</szBRName>
-		<szBRDesc>这种森林迷彩的伪装裤只提供有限的保护，但可以让你在适当的地形中更好的隐蔽更长时间。</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>894</uiIndex>
-		<szItemName>Panamka</szItemName>
-		<szLongItemName>苏军热带帽</szLongItemName>
-		<szItemDesc>这种帽子在冷战期间一直使用，从1960年代起装备数量逐渐减少。在苏军入侵阿富汗的战争期间这种帽子又重新装备，但这个款式的帽沿更短，而且有金属帽孔圈。</szItemDesc>
-		<szBRName>Soviet Tropical Cap</szBRName>
-		<szBRDesc>这种帽子在冷战期间一直使用，从1960年代起装备数量逐渐减少。在苏军入侵阿富汗的战争期间这种帽子又重新装备，但这个款式的帽沿更短，而且有金属帽孔圈。</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>895</uiIndex>
-		<szItemName>Zh-86 Flak</szItemName>
-		<szLongItemName>Zh-86防破片夹克</szLongItemName>
-		<szItemDesc>苏军的Zh-86型防破片夹克，两面都装有钛合金、陶瓷装甲和特种钢。正面和背面各有14层防弹板。在阿富汗战争期间设计制造，而在车臣的俄军部队也有使用。</szItemDesc>
-		<szBRName>Zh-86 Flack Jacket</szBRName>
-		<szBRDesc>苏军的Zh-86型防破片夹克，两面都装有钛合金、陶瓷装甲和特种钢。正面和背面各有14层防弹板。在阿富汗战争期间设计制造，而在车臣的俄军部队也有使用。</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>896</uiIndex>
-		<szItemName>VDV Trousers</szItemName>
-		<szLongItemName>VDV伞兵裤</szLongItemName>
-		<szItemDesc>这种俄制伞兵型伪装裤穿着舒适。宽松的剪裁使活动更自由。腹股沟部分的网状结构有利空气流通。由俄罗斯空降军所属的部队穿着。</szItemDesc>
-		<szBRName>VDV Paratrooper Pants</szBRName>
-		<szBRDesc>这种俄制伞兵型伪装裤穿着舒适。宽松的剪裁使活动更自由。腹股沟部分的网状结构有利空气流通。由俄罗斯空降军所属的部队穿着。</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>897</uiIndex>
-		<szItemName>BEKAS Jacket</szItemName>
-		<szLongItemName>BEKAS迷彩战斗外套</szLongItemName>
-		<szItemDesc>BEKAS迷彩战斗外套是一种供俄罗斯特种部队使用的新型设计，也被其它前苏联加盟共和国的精锐反恐怖部队采用。</szItemDesc>
-		<szBRName>BEKAS Camo BDU Jacket</szBRName>
-		<szBRDesc>BEKAS迷彩战斗外套是一种供俄罗斯特种部队使用的新型设计，也被其它前苏联加盟共和国的精锐反恐怖部队采用。</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>898</uiIndex>
-		<szItemName>BEKAS Trousers</szItemName>
-		<szLongItemName>BEKAS迷彩战斗裤</szLongItemName>
-		<szItemDesc>BEKAS迷彩战斗裤是一种供俄罗斯特种部队使用的新型设计，也被其它前苏联加盟共和国的精锐反恐怖部队采用。</szItemDesc>
-		<szBRName>BEKAS Camo BDU Pants</szBRName>
-		<szBRDesc>BEKAS迷彩战斗裤是一种供俄罗斯特种部队使用的新型设计，也被其它前苏联加盟共和国的精锐反恐怖部队采用。</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>899</uiIndex>
-		<szItemName>British Bush Hat</szItemName>
-		<szLongItemName>英军丛林帽</szLongItemName>
-		<szItemDesc>英军DPM迷彩“渔夫帽”，是英国正规军及SAS等特种部队的丛林战装备。</szItemDesc>
-		<szBRName>British Army Bush Hat</szBRName>
-		<szBRDesc>英军DPM迷彩“渔夫帽”，是英国正规军及SAS等特种部队的丛林战装备。</szBRDesc>
+		<szItemName>.338 NM Belt</szItemName>
+		<szLongItemName>.338 Norma Magnum弹链, 50发</szLongItemName>
+		<szItemDesc>50发.338 NM比赛弹的弹链。</szItemDesc>
+		<szBRName>.338 Norma Magnum Belt</szBRName>
+		<szBRDesc>50发.338 NM比赛弹的弹链。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>900</uiIndex>
@@ -13025,14 +12873,6 @@
 		<szBRDesc>虽然没什么杀伤力，至少看起来也没什么威胁性。</szBRDesc>
 	</ITEM>
 	<ITEM>
-		<uiIndex>1628</uiIndex>
-		<szItemName>胡椒喷雾瓶</szItemName>
-		<szLongItemName>胡椒喷雾瓶</szLongItemName>
-		<szItemDesc>给胡椒喷雾器补充喷剂。</szItemDesc>
-		<szBRName>Pepper Spray Canister</szBRName>
-		<szBRDesc>给胡椒喷雾器补充喷剂。</szBRDesc>
-	</ITEM>
-	<ITEM>
 		<uiIndex>1629</uiIndex>
 		<szItemName>潜水面镜</szItemName>
 		<szLongItemName>潜水面镜</szLongItemName>
@@ -16203,30 +16043,6 @@
 		<szBRDesc>对于那些向你“挑衅”的挂锁，这些子弹会给你雪中送炭的。</szBRDesc>
 	</ITEM>
 	<ITEM>
-		<uiIndex>2026</uiIndex>
-		<szItemName>Stg.44 Mag</szItemName>
-		<szLongItemName>7.92mm Kurz，30发普通弹</szLongItemName>
-		<szItemDesc>30发7.92kurz弹药。</szItemDesc>
-		<szBRName>Stg.44 Magazine</szBRName>
-		<szBRDesc>30发7.92kurz弹药。</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>2027</uiIndex>
-		<szItemName>7.5mm GP11 Clip</szItemName>
-		<szLongItemName>7.5x55mm GP11，6发标准弹</szLongItemName>
-		<szItemDesc>全金属被甲的GP11子弹就算以现在的标准看来，它仍可以提供良好的空气动力学效率和弹道性能，甚至可以保持超音速飞行达800米以上。</szItemDesc>
-		<szBRName>7.5mm GP11 Clip</szBRName>
-		<szBRDesc>全金属被甲的GP11子弹就算以现在的标准看来，它仍可以提供良好的空气动力学效率和弹道性能，甚至可以保持超音速飞行达800米以上。</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>2028</uiIndex>
-		<szItemName>7.5mm GP11 Mag</szItemName>
-		<szLongItemName>7.5x55mm GP11，24发标准弹</szLongItemName>
-		<szItemDesc>24发7.5x55mm GP11标准弹弹匣。给敌人一份来自瑞士的问候。</szItemDesc>
-		<szBRName>7.5mm GP11 Mag</szBRName>
-		<szBRDesc>24发7.5x55mm GP11标准弹弹匣。给敌人一份来自瑞士的问候。</szBRDesc>
-	</ITEM>
-	<ITEM>
 		<uiIndex>2029</uiIndex>
 		<szItemName>7.5mm GP11 crate</szItemName>
 		<szLongItemName>7.5x55mm GP11，500发标准弹箱</szLongItemName>
@@ -16809,14 +16625,6 @@
 		<szItemDesc>这个铁皮弹药箱里有1500发散装的5.56mm无壳弹。</szItemDesc>
 		<szBRName>5.56mm Caseless crate</szBRName>
 		<szBRDesc>这个铁皮弹药箱里有1500发散装的5.56mm无壳弹。</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>2102</uiIndex>
-		<szItemName>.50BMG API-T crate</szItemName>
-		<szLongItemName>.50 BMG，200发穿甲曳光弹弹箱</szLongItemName>
-		<szItemDesc>这个铁皮弹药箱里有供重机枪使用的200发散装.50 BMG（勃朗宁机枪）穿甲曳光弹。</szItemDesc>
-		<szBRName>50BMG APT crate</szBRName>
-		<szBRDesc>这个铁皮弹药箱里有供重机枪使用的200发散装.50 BMG（勃朗宁机枪）穿甲曳光弹。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2103</uiIndex>
@@ -17425,14 +17233,6 @@
 		<szItemDesc>60mm迫击炮的白色烟雾弹。</szItemDesc>
 		<szBRName>60mm Smoke Shell</szBRName>
 		<szBRDesc>把M722烟雾弹打到敌人跟前吧，让他们迷芒一片，让你更容易迂回......或逃跑。</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>2179</uiIndex>
-		<szItemName>12.7mm BZT Hi-Mag</szItemName>
-		<szLongItemName>12.7x108mm，14发穿甲曳光弹</szLongItemName>
-		<szItemDesc>苏联/俄罗斯制造的专为大口径机枪和反器材步枪使用的12.7mm口径穿甲曳光弹。</szItemDesc>
-		<szBRName>12.7x108mm，14发穿甲曳光弹</szBRName>
-		<szBRDesc>14发12.7x108mm穿甲曳光弹。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2180</uiIndex>
@@ -18514,22 +18314,6 @@
 		<szBRDesc>.45 ACP/Auto口径，225格令弹头的M-26曳光弹。</szBRDesc>
 	</ITEM>
 	<ITEM>
-		<uiIndex>2315</uiIndex>
-		<szItemName>.45 Mag 10 T</szItemName>
-		<szLongItemName>.45，10发曳光弹</szLongItemName>
-		<szItemDesc>.45 ACP/Auto口径，225格令弹头的M-26曳光弹。</szItemDesc>
-		<szBRName>.45 Ten Mag Tracer</szBRName>
-		<szBRDesc>.45 ACP/Auto口径，225格令弹头的M-26曳光弹。</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>2316</uiIndex>
-		<szItemName>.45 Mag 12</szItemName>
-		<szLongItemName>.45，12发普通弹</szLongItemName>
-		<szItemDesc>一匣给你的12发.45手枪使用的双排弹匣，弹容量多多益善。</szItemDesc>
-		<szBRName>.45 12 Mag</szBRName>
-		<szBRDesc>不会有人拒绝额外的几发子弹的，除了你的目标。</szBRDesc>
-	</ITEM>
-	<ITEM>
 		<uiIndex>2317</uiIndex>
 		<szItemName>.45 Mag 12 HP</szItemName>
 		<szLongItemName>.45，12发空尖弹</szLongItemName>
@@ -18690,14 +18474,6 @@
 		<szBRDesc>10发.50 BMG（勃朗宁机枪） M2普通弹弹匣。</szBRDesc>
 	</ITEM>
 	<ITEM>
-		<uiIndex>2337</uiIndex>
-		<szItemName>.50BMG Belt</szItemName>
-		<szLongItemName>.50 BMG，50发普通弹(M2)</szLongItemName>
-		<szItemDesc>重机枪使用的50发.50 BMG M2普通弹弹链。</szItemDesc>
-		<szBRName>.50BMG Belt, 50</szBRName>
-		<szBRDesc>重机枪使用的50发.50 BMG M2普通弹弹链。</szBRDesc>
-	</ITEM>
-	<ITEM>
 		<uiIndex>2338</uiIndex>
 		<szItemName>.50BMG crate</szItemName>
 		<szLongItemName>.50 BMG，200发普通弹弹箱(M2)</szLongItemName>
@@ -18720,14 +18496,6 @@
 		<szItemDesc>这弹匣内装20发9x39mm SP-5特种亚音速狙击弹是专门为俄罗斯特种武器设计的，弹头比9mm手枪弹要重，确保穿甲和杀伤力。</szItemDesc>
 		<szBRName>9x39mm SP-5 Mag, 20</szBRName>
 		<szBRDesc>这弹匣内装20发9x39mm SP-5特种亚音速狙击弹是专门为俄罗斯特种武器设计的，弹头比9mm手枪弹要重，确保穿甲和杀伤力。</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>2341</uiIndex>
-		<szItemName>9mm SP-5 30</szItemName>
-		<szLongItemName>9x39mm，30发亚音速狙击弹(SP-5)</szLongItemName>
-		<szItemDesc>这弹匣内装30发9x39mm SP-5特种亚音速狙击弹是专门为俄罗斯特种武器设计的，弹头比9mm手枪弹要重，确保穿甲和杀伤力。</szItemDesc>
-		<szBRName>9x39mm SP-5 Mag, 30</szBRName>
-		<szBRDesc>这弹匣内装30发9x39mm SP-5特种亚音速狙击弹是专门为俄罗斯特种武器设计的，弹头比9mm手枪弹要重，确保穿甲和杀伤力。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2342</uiIndex>
@@ -19082,14 +18850,6 @@
 		<szBRDesc>一个装着100发5.8x42mm狙击弹的硬纸盒。</szBRDesc>
 	</ITEM>
 	<ITEM>
-		<uiIndex>2386</uiIndex>
-		<szItemName>Bolt</szItemName>
-		<szLongItemName>箭，5支</szLongItemName>
-		<szItemDesc>在笔直的细长箭杆的一端是锐利的箭头，另一端是利于飞行稳定的尾翼。你需要一张弓来发射它，就象《第一滴血》里那样杀人于无形。</szItemDesc>
-		<szBRName>Arrow, 5</szBRName>
-		<szBRDesc>在笔直的细长箭杆的一端是锐利的箭头，另一端是利于飞行稳定的尾翼。你需要一张弓来发射它，就象《第一滴血》里那样杀人于无形。</szBRDesc>
-	</ITEM>
-	<ITEM>
 		<uiIndex>2387</uiIndex>
 		<szItemName>Bolt HE</szItemName>
 		<szLongItemName>高爆箭，5支</szLongItemName>
@@ -19112,14 +18872,6 @@
 		<szItemDesc>一个装着50发.300 Winchester Short Magnum（温彻斯特 马格努姆短弹）软尖弹的硬纸盒。</szItemDesc>
 		<szBRName>.300 WSM SP ammo box</szBRName>
 		<szBRDesc>一个装着50发.300 Winchester Short Magnum（温彻斯特 马格努姆短弹）软尖弹的硬纸盒。</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>2390</uiIndex>
-		<szItemName>.223-Rem 20</szItemName>
-		<szLongItemName>.223雷明顿，20发普通弹(M193)</szLongItemName>
-		<szItemDesc>这个20发的M16弹匣里装的是.223 Remington普通弹(5.56mm M193)。</szItemDesc>
-		<szBRName>.223-Rem Mag 20</szBRName>
-		<szBRDesc>这个20发的M16弹匣里装的是.223 Remington普通弹(5.56mm M193)。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2391</uiIndex>
@@ -19290,14 +19042,6 @@
 		<szBRDesc>这个铁皮弹药箱里有500发二战步枪用的散装.30-06曳光弹。</szBRDesc>
 	</ITEM>
 	<ITEM>
-		<uiIndex>2412</uiIndex>
-		<szItemName>.303 Clip 5</szItemName>
-		<szLongItemName>.303 British，5发普通弹</szLongItemName>
-		<szItemDesc>5发.303 British Mk.VII弹药。</szItemDesc>
-		<szBRName>.303 British Clip, 5</szBRName>
-		<szBRDesc>5发.303 British Mk.VII弹药。</szBRDesc>
-	</ITEM>
-	<ITEM>
 		<uiIndex>2413</uiIndex>
 		<szItemName>.303 Clip 5 APT</szItemName>
 		<szLongItemName>.303 British，5发穿甲曳光弹</szLongItemName>
@@ -19386,14 +19130,6 @@
 		<szBRDesc>50发23mm 口径独头弹弹匣。</szBRDesc>
 	</ITEM>
 	<ITEM>
-		<uiIndex>2424</uiIndex>
-		<szItemName>.32ACP Mag 20</szItemName>
-		<szLongItemName>.32 ACP，20发普通弹</szLongItemName>
-		<szItemDesc>装有20发.32 ACP (7.65x17mm Browning)全被甲弹的弹匣。</szItemDesc>
-		<szBRName>.32 ACP Mag 20</szBRName>
-		<szBRDesc>20发71格令.32 ACP普通弹。</szBRDesc>
-	</ITEM>
-	<ITEM>
 		<uiIndex>2425</uiIndex>
 		<szItemName>.32ACP Mag 20 JHP</szItemName>
 		<szLongItemName>.32 ACP，20发空尖弹</szLongItemName>
@@ -19450,28 +19186,12 @@
 		<szBRDesc>一个装着100发.38 Super KTW钢侵彻弹芯的硬纸盒。</szBRDesc>
 	</ITEM>
 	<ITEM>
-		<uiIndex>2432</uiIndex>
-		<szItemName>.458 SOCOM 12 FMJ</szItemName>
-		<szLongItemName>.458 SOCOM，10发全被甲弹</szLongItemName>
-		<szItemDesc>这个M16弹匣装着10发.458 SOCOM全被甲弹，该弹由德克萨斯州的Marty ter Weeme设计，在发射这枚300格令重的弹头时枪口动居然能超过2100 fps。</szItemDesc>
-		<szBRName>.458 SOCOM Mag 10 FMJ</szBRName>
-		<szBRDesc>这个M16弹匣装着10发.458 SOCOM全被甲弹，该弹由德克萨斯州的Marty ter Weeme设计，在发射这枚300格令重的弹头时枪口动居然能超过2100 fps。</szBRDesc>
-	</ITEM>
-	<ITEM>
 		<uiIndex>2433</uiIndex>
 		<szItemName>.458 SOCOM 12 JHP</szItemName>
 		<szLongItemName>.458 SOCOM，10发空尖弹</szLongItemName>
 		<szItemDesc>这个M16弹匣装着10发.458 SOCOM空尖弹，该弹由德克萨斯州的Marty ter Weeme设计，在发射这枚300格令重的弹头时枪口动居然能超过2100 fps。</szItemDesc>
 		<szBRName>.458 SOCOM Mag 10 JHP</szBRName>
 		<szBRDesc>这个M16弹匣装着10发.458 SOCOM空尖弹，该弹由德克萨斯州的Marty ter Weeme设计，在发射这枚300格令重的弹头时枪口动居然能超过2100 fps。</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>2434</uiIndex>
-		<szItemName>.458 SOCOM 14 FMJ</szItemName>
-		<szLongItemName>.458 SOCOM，14发全被甲弹</szLongItemName>
-		<szItemDesc>这个AK弹匣装着14发.458 SOCOM全被甲弹，该弹由德克萨斯州的Marty ter Weeme设计，在发射这枚300格令重的弹头时枪口动居然能超过2100 fps。</szItemDesc>
-		<szBRName>.458 SOCOM Mag 14 FMJ</szBRName>
-		<szBRDesc>这个AK弹匣装着14发.458 SOCOM全被甲弹，该弹由德克萨斯州的Marty ter Weeme设计，在发射这枚300格令重的弹头时枪口动居然能超过2100 fps。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2435</uiIndex>
@@ -19602,14 +19322,6 @@
 		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
-		<uiIndex>2451</uiIndex>
-		<szItemName>.38 Super Lrg Mag</szItemName>
-		<szLongItemName>.38 Super Large Mag</szLongItemName>
-		<szItemDesc>装有22发比赛级.38 Super全被甲弹的大弹匣。</szItemDesc>
-		<szBRName>.38 Super Large Mag</szBRName>
-		<szBRDesc>不在BR出售</szBRDesc>
-	</ITEM>
-	<ITEM>
 		<uiIndex>2452</uiIndex>
 		<szItemName>.38 Super Lrg Mag HP</szItemName>
 		<szLongItemName>.38 Super Large Mag HP</szLongItemName>
@@ -19626,28 +19338,12 @@
 		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
-		<uiIndex>2454</uiIndex>
-		<szItemName>12Ga M BS</szItemName>
-		<szLongItemName>12Ga MAUL Buckshot</szLongItemName>
-		<szItemDesc>5发MAUL金属风暴霰弹枪所用的鹿弹。</szItemDesc>
-		<szBRName>12Ga MAUL BS</szBRName>
-		<szBRDesc>5发MAUL金属风暴霰弹枪所用的鹿弹。</szBRDesc>
-	</ITEM>
-	<ITEM>
 		<uiIndex>2455</uiIndex>
 		<szItemName>12Ga M Slug</szItemName>
 		<szLongItemName>12Ga MAUL Slug</szLongItemName>
 		<szItemDesc>5发MAUL金属风暴霰弹枪所用的独头弹。</szItemDesc>
 		<szBRName>12Ga MAUL Slug</szBRName>
 		<szBRDesc>5发MAUL金属风暴霰弹枪所用的独头弹。</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>2456</uiIndex>
-		<szItemName>5.56 MSMC Mag</szItemName>
-		<szLongItemName>5.56x30mm MSMC Mag</szLongItemName>
-		<szItemDesc>印度MSMC冲锋枪配的弹药，为了省功夫，他们只是把5.56 NATO弹直接缩短弹壳、减少发射药。</szItemDesc>
-		<szBRName>5.56x30mm MSMC Mag</szBRName>
-		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2457</uiIndex>
@@ -19658,28 +19354,12 @@
 		<szBRDesc>纸盒包装的250发印度5.56x30mmm全被甲弹。</szBRDesc>
 	</ITEM>
 	<ITEM>
-		<uiIndex>2458</uiIndex>
-		<szItemName>14.5mm Mag 5</szItemName>
-		<szLongItemName>14.5x114mm Mag, 5</szLongItemName>
-		<szItemDesc>比12.7x108个儿大，威力也更大，虽然是用来对付轻型装甲车的，也许打不了坦克，但用来打人保证一枪几命。</szItemDesc>
-		<szBRName>14.5x114mm Mag, 5</szBRName>
-		<szBRDesc>不在BR出售</szBRDesc>
-	</ITEM>
-	<ITEM>
 		<uiIndex>2459</uiIndex>
 		<szItemName>14.5mm crate</szItemName>
 		<szLongItemName>14.5x114mm ammo crate</szLongItemName>
 		<szItemDesc>装有100发苏联生产的14.5x114mm穿甲曳光弹的弹药箱。</szItemDesc>
 		<szBRName>14.5x114mm ammo crate</szBRName>
 		<szBRDesc>装有100发苏联生产的14.5x114mm穿甲曳光弹的弹药箱。</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>2460</uiIndex>
-		<szItemName>7.92x57mm Z Belt</szItemName>
-		<szLongItemName>7.92x57mm Zwilling Belt</szLongItemName>
-		<szItemDesc>一对弹链袋，各装一条100发7.92x57mm穿甲曳光弹，专门挂在MG81 Z双联航空机枪上使用。</szItemDesc>
-		<szBRName>7.92x57mm Zwilling Belt</szBRName>
-		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2461</uiIndex>
@@ -19866,14 +19546,6 @@
 		<szBRDesc>打鲨鱼和打人一样好用，还很安静，可就是太长了。</szBRDesc>
 	</ITEM>
 	<ITEM>
-		<uiIndex>2484</uiIndex>
-		<szItemName>渔叉</szItemName>
-		<szLongItemName>渔叉</szLongItemName>
-		<szItemDesc>杀伤力挺强的，可就是太长了。</szItemDesc>
-		<szBRName>渔叉</szBRName>
-		<szBRDesc>杀伤力挺强的，可就是太长了。</szBRDesc>
-	</ITEM>
-	<ITEM>
 		<uiIndex>2485</uiIndex>
 		<szItemName>G36 Optics</szItemName>
 		<szLongItemName>G36一体化双瞄</szLongItemName>
@@ -20010,27 +19682,11 @@
 		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
-		<uiIndex>2502</uiIndex>
-		<szItemName>410 Slug 5</szItemName>
-		<szLongItemName>.410 Shells, 5 Slug</szLongItemName>
-		<szItemDesc>5发散装的410号独头弹。</szItemDesc>
-		<szBRName>.410 Shells 5 Slug</szBRName>
-		<szBRDesc>不在BR出售</szBRDesc>
-	</ITEM>
-	<ITEM>
 		<uiIndex>2503</uiIndex>
 		<szItemName>410 Shells 5 BS</szItemName>
 		<szLongItemName>.410 Gauge Shells, 5 Buckshot</szLongItemName>
 		<szItemDesc>5发散装的410号霰弹。</szItemDesc>
 		<szBRName>.410 Shells 5 Buckshot</szBRName>
-		<szBRDesc>不在BR出售</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>2504</uiIndex>
-		<szItemName>410 Slug Mag</szItemName>
-		<szLongItemName>.410 Slug, 10 Mag</szLongItemName>
-		<szItemDesc>装有10发410号独头弹的弹匣。</szItemDesc>
-		<szBRName>.410 Slug 10 Mag</szBRName>
 		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -20058,14 +19714,6 @@
 		<szBRDesc>410号霰弹可以用来打鸟，不管是谁的鸟儿。</szBRDesc>
 	</ITEM>
 	<ITEM>
-		<uiIndex>2508</uiIndex>
-		<szItemName>.22 WMR Mag</szItemName>
-		<szLongItemName>.22 WMR Mag, 30</szLongItemName>
-		<szItemDesc>一个装有30发.22 WMR突缘弹的手枪弹匣。</szItemDesc>
-		<szBRName>.22 WMR Mag 30</szBRName>
-		<szBRDesc>不在BR出售</szBRDesc>
-	</ITEM>
-	<ITEM>
 		<uiIndex>2509</uiIndex>
 		<szItemName>.22 V-Max Mag</szItemName>
 		<szLongItemName>.22 WMR V-Max Mag, 30</szLongItemName>
@@ -20088,22 +19736,6 @@
 		<szItemDesc>这个纸盒装着150发散装的.22 WMR口径的雷明顿V-Max高速弹。</szItemDesc>
 		<szBRName>.22 V-Max box</szBRName>
 		<szBRDesc>.22 WMR口径的V-Max弹由雷明顿生产，这是一种尖头、高速弹，穿透力比普通裸铅弹更强。</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>2512</uiIndex>
-		<szItemName>25x59mm B Mag</szItemName>
-		<szLongItemName>25x59mm高爆弹弹匣</szLongItemName>
-		<szItemDesc>4发25x59mm高爆弹弹匣，用于XM107“负荷”步枪。</szItemDesc>
-		<szBRName>25x59mm B Mag</szBRName>
-		<szBRDesc>4发25x59mm高爆弹弹匣，用于XM107“负荷”步枪。</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>2513</uiIndex>
-		<szItemName>20x42mm HE Mag</szItemName>
-		<szLongItemName>20x42mm高爆弹弹匣</szLongItemName>
-		<szItemDesc>7发20x42mm高爆弹弹匣，用于PAW-20武器系统。</szItemDesc>
-		<szBRName>20x42mm HE Mag</szBRName>
-		<szBRDesc>7发20x42mm高爆弹弹匣，用于PAW-20武器系统。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2514</uiIndex>
@@ -20202,14 +19834,6 @@
 		<szBRDesc>一个专门用来携带150发CL-Mag奶鼓的弹匣包。</szBRDesc>
 	</ITEM>
 	<ITEM>
-		<uiIndex>2526</uiIndex>
-		<szItemName>9x19mm Mag 32</szItemName>
-		<szLongItemName>9x19mm Mag, 32</szLongItemName>
-		<szItemDesc>装32发9x19mm的冲锋枪直弹匣。</szItemDesc>
-		<szBRName>9x19mm Mag, 32</szBRName>
-		<szBRDesc>装32发9x19mm的冲锋枪直弹匣。</szBRDesc>
-	</ITEM>
-	<ITEM>
 		<uiIndex>2527</uiIndex>
 		<szItemName>9x19mm Mag 32 JHP</szItemName>
 		<szLongItemName>9x19mm Mag, 32 JHP</szLongItemName>
@@ -20296,14 +19920,6 @@
 		<szItemDesc>这个Armatac Industries公司的CL-Mag双弹鼓能容纳150发5.56口径M995穿甲弹。</szItemDesc>
 		<szBRName>5.56x45mm CL-MAG, AP</szBRName>
 		<szBRDesc>这个Armatac Industries公司的CL-Mag双弹鼓能容纳150发5.56口径M995穿甲弹。</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>2538</uiIndex>
-		<szItemName>7.62x51 Hi-Belt</szItemName>
-		<szLongItemName>7.62x51mm Hi-Belt</szLongItemName>
-		<szItemDesc>一条200发7.62mm北约标准弹弹链。</szItemDesc>
-		<szBRName>7.62x51mm Hi-Belt</szBRName>
-		<szBRDesc>一条200发7.62mm北约标准弹弹链。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2539</uiIndex>
@@ -20610,38 +20226,6 @@
 		<szBRDesc>500发装在弹药箱里的.303口径低阻比赛弹。</szBRDesc>
 	</ITEM>
 	<ITEM>
-		<uiIndex>2577</uiIndex>
-		<szItemName>7.5x54mm 5 SP</szItemName>
-		<szLongItemName>7.5x54mm桥夹, 5发软尖弹</szLongItemName>
-		<szItemDesc>5发7.5x54mm口径比赛级软尖弹。</szItemDesc>
-		<szBRName>7.5x54mm 5 SP</szBRName>
-		<szBRDesc>5发7.5x54mm口径比赛级软尖弹。</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>2578</uiIndex>
-		<szItemName>7.5x54mm 10 SP</szItemName>
-		<szLongItemName>7.5x54mm弹匣, 10发软尖弹</szLongItemName>
-		<szItemDesc>10发7.5x54mm口径比赛级软尖弹。</szItemDesc>
-		<szBRName>7.5x54mm 10 SP</szBRName>
-		<szBRDesc>10发7.5x54mm口径比赛级软尖弹。</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>2579</uiIndex>
-		<szItemName>7.5x54mm 25 SP</szItemName>
-		<szLongItemName>7.5x54mm弹匣, 25发软尖弹</szLongItemName>
-		<szItemDesc>25发7.5x54mm口径软尖弹。</szItemDesc>
-		<szBRName>7.5x54mm 25 SP</szBRName>
-		<szBRDesc>25发7.5x54mm口径软尖弹。</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>2580</uiIndex>
-		<szItemName>7.5x54mm 100 SP</szItemName>
-		<szLongItemName>7.5x54mm弹链, 100发软尖弹</szLongItemName>
-		<szItemDesc>100发7.5x54mm口径软尖弹。</szItemDesc>
-		<szBRName>7.5x54mm 100 SP</szBRName>
-		<szBRDesc>100发7.5x54mm口径软尖弹。</szBRDesc>
-	</ITEM>
-	<ITEM>
 		<uiIndex>2581</uiIndex>
 		<szItemName>7.5x54mm SP crate</szItemName>
 		<szLongItemName>7.5x54mm软尖弹, 弹药箱</szLongItemName>
@@ -20674,14 +20258,6 @@
 		<szBRDesc>500发装在弹药箱里的7.5x55mm GP11软尖比赛弹。</szBRDesc>
 	</ITEM>
 	<ITEM>
-		<uiIndex>2585</uiIndex>
-		<szItemName>7.92x57mm Hi-Belt</szItemName>
-		<szLongItemName>7.92x57mm毛瑟弹长弹链</szLongItemName>
-		<szItemDesc>250发7.92x57mm毛瑟弹，用于固定射击的MG42。</szItemDesc>
-		<szBRName>7.92x57mm Hi-Belt</szBRName>
-		<szBRDesc>不在BR出售</szBRDesc>
-	</ITEM>
-	<ITEM>
 		<uiIndex>2586</uiIndex>
 		<szItemName>7.92x57mm Hi-Belt APT</szItemName>
 		<szLongItemName>7.92x57mm毛瑟, 穿甲曳光弹长弹链</szLongItemName>
@@ -20695,14 +20271,6 @@
 		<szLongItemName>7.92x57mm毛瑟, 狩猎弹长弹链</szLongItemName>
 		<szItemDesc>250发7.92x57mm软尖弹。</szItemDesc>
 		<szBRName>7.92x57mm Hi-Belt Hunting</szBRName>
-		<szBRDesc>不在BR出售</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>2588</uiIndex>
-		<szItemName>7.62x54R Hi-Belt</szItemName>
-		<szLongItemName>7.62x54R Hi-Belt</szLongItemName>
-		<szItemDesc>250发7.62x54R普通弹长弹链。</szItemDesc>
-		<szBRName>7.62x54R Hi-Belt</szBRName>
 		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -20882,38 +20450,6 @@
 		<szBRDesc>装有8发.44马格南口径的VBR高速穿甲弹的弹匣。</szBRDesc>
 	</ITEM>
 	<ITEM>
-		<uiIndex>2611</uiIndex>
-		<szItemName>2mm EC</szItemName>
-		<szLongItemName>2mm EC，20发高斯步枪弹</szLongItemName>
-		<szItemDesc>这种金属针或许是有史以来最坚硬的射弹。2mm EC子弹是一枚加工成超导体的钨合金钢，用高斯步枪发射。一旦射出，就没有任何盔甲能抵挡它的贯穿。</szItemDesc>
-		<szBRName>2mm EC, 20rds</szBRName>
-		<szBRDesc>这种金属针或许是有史以来最坚硬的射弹。2mm EC子弹是一枚加工成超导体的钨合金钢，用高斯步枪发射。一旦射出，就没有任何盔甲能抵挡它的贯穿。</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>2612</uiIndex>
-		<szItemName>.22 Scamp Mag</szItemName>
-		<szLongItemName>.22 Scamp，27发普通弹</szLongItemName>
-		<szItemDesc>.22 Scamp弹是被研发出来使用在Colt SCAMP上的低后座力弹药。这种小口径高速弹虽然压力被降低了，但杀伤力仍能保持在等于或略高于9x19mm弹药。</szItemDesc>
-		<szBRName>.22 Scamp Mag</szBRName>
-		<szBRDesc>.22 Scamp弹是被研发出来使用在Colt SCAMP上的低后座力弹药。这种小口径高速弹虽然压力被降低了，但杀伤力仍能保持在等于或略高于9x19mm弹药。</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>2613</uiIndex>
-		<szItemName>M309 10x24mm</szItemName>
-		<szLongItemName>M309 10x24mm，99发普通弹</szLongItemName>
-		<szItemDesc>Armat M41A脉冲步枪使用的99发M309 10x24mm普通弹。</szItemDesc>
-		<szBRName>M309 10x24mm Mag</szBRName>
-		<szBRDesc>M41A脉冲步枪发射的美军M309 10x24mm普通弹。这种弹药包含一个210格令（13.6克）重的弹头，它被植入到一个矩形无壳弹的硝胺50发射药内。</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>2614</uiIndex>
-		<szItemName>12Ga Mag 6 Slug</szItemName>
-		<szLongItemName>12号弹匣，6发独头弹</szLongItemName>
-		<szItemDesc>装6发12号独头弹的弹匣。</szItemDesc>
-		<szBRName>12Ga Mag, 6 Slug</szBRName>
-		<szBRDesc>不在BR出售</szBRDesc>
-	</ITEM>
-	<ITEM>
 		<uiIndex>2615</uiIndex>
 		<szItemName>12Ga Mag, 6 BS</szItemName>
 		<szLongItemName>12号弹匣，6发鹿弹</szLongItemName>
@@ -20946,44 +20482,12 @@
 		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
-		<uiIndex>2619</uiIndex>
-		<szItemName>.55 Boys Mag</szItemName>
-		<szLongItemName>.55 Boys，5发反坦克弹</szLongItemName>
-		<szItemDesc>5发Boys反坦克步枪使用的.55英寸反坦克弹。</szItemDesc>
-		<szBRName>.55 Boys Mag</szBRName>
-		<szBRDesc>5发Boys反坦克步枪使用的.55英寸反坦克弹。</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>2620</uiIndex>
-		<szItemName>PK224S Mag</szItemName>
-		<szLongItemName>PK224S，15发普通弹</szLongItemName>
-		<szItemDesc>这种装有30格令重弹头的.22马格努姆弹从手枪枪管内发射出去产生的初速大约为2400 fps。它可以在一块3/16英寸的厚钢板上开出个洞来。</szItemDesc>
-		<szBRName>PK224S Mag 15</szBRName>
-		<szBRDesc>这种装有30格令重弹头的.22马格努姆弹从手枪枪管内发射出去产生的初速大约为2400 fps。它可以在一块3/16英寸的厚钢板上开出个洞来。</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>2621</uiIndex>
-		<szItemName>6.5 Grendel 10</szItemName>
-		<szLongItemName>6.5 Grendel，10发普通弹</szLongItemName>
-		<szItemDesc>使用在6.5 Grendel口径武器系统上的10发弹匣。</szItemDesc>
-		<szBRName>6.5 Grendel 10</szBRName>
-		<szBRDesc>10发Nosler公司120格令比赛级6.5 Grendel弹。</szBRDesc>
-	</ITEM>
-	<ITEM>
 		<uiIndex>2622</uiIndex>
 		<szItemName>6.5 Grendel 10 HP</szItemName>
 		<szLongItemName>6.5格伦德尔，10发空尖弹</szLongItemName>
 		<szItemDesc>使用在6.5格伦德尔口径武器系统上的10发空尖弹弹匣。</szItemDesc>
 		<szBRName>6.5 Grendel 10 HP</szBRName>
 		<szBRDesc>10发Nosler公司120格令比赛级6.5格伦德尔空尖弹。</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>2623</uiIndex>
-		<szItemName>6.5 Grendel 26</szItemName>
-		<szLongItemName>6.5格伦德尔，26发普通弹</szLongItemName>
-		<szItemDesc>使用在6.5格伦德尔口径武器系统上的26发弹匣。</szItemDesc>
-		<szBRName>6.5 Grendel 26</szBRName>
-		<szBRDesc>26发Nosler公司120格令比赛级6.5格伦德尔步枪弹。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2624</uiIndex>
@@ -21026,14 +20530,6 @@
 		<szBRDesc>这个弹匣同时给予你额外的弹药和额外的射程。</szBRDesc>
 	</ITEM>
 	<ITEM>
-		<uiIndex>2629</uiIndex>
-		<szItemName>Gyrojet Projectiles</szItemName>
-		<szLongItemName>Gyrojet火箭弹</szLongItemName>
-		<szItemDesc>六枚13mm口径的小型火箭弹，这是Gyrojet火箭式手枪专用的。</szItemDesc>
-		<szBRName>Gyrojet Projectiles</szBRName>
-		<szBRDesc>不在BR出售</szBRDesc>
-	</ITEM>
-	<ITEM>
 		<uiIndex>2630</uiIndex>
 		<szItemName>.50BMG Belt T</szItemName>
 		<szLongItemName>.50，50发勃朗宁机枪弹</szLongItemName>
@@ -21048,14 +20544,6 @@
 		<szItemDesc>一箱50发.50 BMG口径的Raufoss狙击弹弹链。</szItemDesc>
 		<szBRName>.50BMG Belt, 10 Match</szBRName>
 		<szBRDesc>不在BR出售</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>2632</uiIndex>
-		<szItemName>12.7mm BZT Belt</szItemName>
-		<szLongItemName>12.7x108mm，50发穿甲/曳光弹</szLongItemName>
-		<szItemDesc>苏联/俄罗斯制造的专为大口径机枪和反器材步枪使用的12.7mm口径穿甲/曳光弹。</szItemDesc>
-		<szBRName>12.7x108mm BZT Belt</szBRName>
-		<szBRDesc>一条装有50发12.7mm穿甲/曳光弹的弹链，这种子弹可以在相当远的距离上贯穿轻装甲车辆。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2633</uiIndex>
@@ -21080,14 +20568,6 @@
 		<szItemDesc>9x39mm特种亚音速步枪弹是专门为俄罗斯特种武器设计的，弹头很重，确保穿甲和杀伤力。</szItemDesc>
 		<szBRName>9x39mm Mag, SP-6 30</szBRName>
 		<szBRDesc>9x39mm特种亚音速步枪弹是专门为俄罗斯特种武器设计的（包括很流行的AK-9微声突击步枪），弹头很重，确保穿甲和杀伤力。</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>2636</uiIndex>
-		<szItemName>.224VOB Mag</szItemName>
-		<szLongItemName>.224 VOB，16发穿甲弹</szLongItemName>
-		<szItemDesc>这个弹匣内装有16发.224 VOB（5.56x23.5mm）弹药。这种穿甲弹以7.62x25mm托卡列夫弹壳为基础开发的，枪口初速可达720 m/s（能量为 750焦耳）。</szItemDesc>
-		<szBRName>.224 VOB Magazine</szBRName>
-		<szBRDesc>这个弹匣内装有16发.224 VOB（5.56x23.5mm）弹药。这种穿甲弹以7.62x25mm托卡列夫弹壳为基础开发的。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2637</uiIndex>
@@ -21282,14 +20762,6 @@
 		<szBRDesc>这种特殊的适配器可以安装在那些使用4179标准弹匣的5.56x45mm武器上，使它们可以使用SureFIre公司的60发四排弹匣。</szBRDesc>
 	</ITEM>
 	<ITEM>
-		<uiIndex>2661</uiIndex>
-		<szItemName>5.56mm SF-MAG</szItemName>
-		<szLongItemName>5.56x45mm四排弹匣</szLongItemName>
-		<szItemDesc>这个SureFire四排弹匣装有60发5.56 M855普通弹。</szItemDesc>
-		<szBRName>5.56x45mm SF-MAG</szBRName>
-		<szBRDesc>这个SureFire四排弹匣装有60发5.56 M855普通弹。</szBRDesc>
-	</ITEM>
-	<ITEM>
 		<uiIndex>2662</uiIndex>
 		<szItemName>5.56mm SF-MAG T</szItemName>
 		<szLongItemName>5.56x45mm四排弹匣, 曳光弹</szLongItemName>
@@ -21482,14 +20954,6 @@
 		<szBRDesc>。</szBRDesc>
 	</ITEM>
 	<ITEM>
-		<uiIndex>2686</uiIndex>
-		<szItemName>.50 Beowulf 33</szItemName>
-		<szLongItemName>.50 Beowulf弹鼓, 33</szLongItemName>
-		<szItemDesc>一个装有33发.50 Beowulf全被甲弹的MWG90弹鼓。</szItemDesc>
-		<szBRName>.50 Beowulf 33</szBRName>
-		<szBRDesc>一个装有33发.50 Beowulf全被甲弹的MWG90弹鼓。</szBRDesc>
-	</ITEM>
-	<ITEM>
 		<uiIndex>2687</uiIndex>
 		<szItemName>.50 Beowulf 33 HP</szItemName>
 		<szLongItemName>.50 Bewoulf弹鼓, 33 HP</szLongItemName>
@@ -21498,28 +20962,12 @@
 		<szBRDesc>一个装有33发.50 Beowulf空尖弹的MWG90弹鼓。</szBRDesc>
 	</ITEM>
 	<ITEM>
-		<uiIndex>2688</uiIndex>
-		<szItemName>.458 SOCOM 38 FMJ</szItemName>
-		<szLongItemName>.458 SOCOM弹鼓, 38 FMJ</szLongItemName>
-		<szItemDesc>一个装有38发.458 SOCOM全被甲弹的MWG90弹鼓。</szItemDesc>
-		<szBRName>.458 SOCOM Mag 38 FMJ</szBRName>
-		<szBRDesc>一个装有38发.458 SOCOM全被甲弹的MWG90弹鼓。</szBRDesc>
-	</ITEM>
-	<ITEM>
 		<uiIndex>2689</uiIndex>
 		<szItemName>.458 SOCOM 38 JHP</szItemName>
 		<szLongItemName>.458 SOCOM弹鼓, 38 JHP</szLongItemName>
 		<szItemDesc>一个装有38发.458 SOCOM空尖弹的MWG90弹鼓。</szItemDesc>
 		<szBRName>.458 SOCOM Mag 38 JHP</szBRName>
 		<szBRDesc>一个装有38发.458 SOCOM空尖弹的MWG90弹鼓。</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>2690</uiIndex>
-		<szItemName>23mm Buckshot 4</szItemName>
-		<szLongItemName>23mm鹿弹, 4</szLongItemName>
-		<szItemDesc>4发23mm鹿弹，能提供近距离内的大面积杀伤。</szItemDesc>
-		<szBRName>23mm Buckshot, 4</szBRName>
-		<szBRDesc>4发23mm鹿弹，能提供近距离内的大面积杀伤。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2691</uiIndex>
@@ -21642,14 +21090,6 @@
 		<szBRDesc>蝎式EVO III是捷克最新的冲锋枪，采用折叠伸缩式枪托，并有皮卡汀尼导轨便于安装各种附件。</szBRDesc>
 	</ITEM>
 	<ITEM>
-		<uiIndex>2706</uiIndex>
-		<szItemName>9x18mm CC PM</szItemName>
-		<szLongItemName>9x18mm Cartridge Clip PM</szLongItemName>
-		<szItemDesc>用月形夹装起来的6发9x18mm马卡洛夫PM手枪弹，能迅速装填进这种口径的转轮手枪中。</szItemDesc>
-		<szBRName>9x18mm  Cartridge Clip PM</szBRName>
-		<szBRDesc>用月形夹装起来的6发9x18mm马卡洛夫PM手枪弹，能迅速装填进这种口径的转轮手枪中。</szBRDesc>
-	</ITEM>
-	<ITEM>
 		<uiIndex>2707</uiIndex>
 		<szItemName>9x18mm CC PMM</szItemName>
 		<szLongItemName>9x18mm Cartridge Clip, PMM</szLongItemName>
@@ -21664,14 +21104,6 @@
 		<szItemDesc>用月形夹装起来的6发9x18mm马卡洛夫亚音速手枪弹，能迅速装填进这种口径的转轮手枪中。</szItemDesc>
 		<szBRName>9x18mm Cartridge Clip, SB</szBRName>
 		<szBRDesc>用月形夹装起来的6发9x18mm马卡洛夫亚音速手枪弹，能迅速装填进这种口径的转轮手枪中。</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>2709</uiIndex>
-		<szItemName>.338 Spectre Mag FMJ</szItemName>
-		<szLongItemName>.338 Spectre Magazine, 28 Light FMJ</szLongItemName>
-		<szItemDesc>这个标准AR式弹匣中装有28发.338幽灵亚音速特种弹，其弹头是160格令重的轻型尖头全被甲弹。</szItemDesc>
-		<szBRName>.338 Spectre Mag 28 Light FMJ</szBRName>
-		<szBRDesc>这个标准AR式弹匣中装有28发.338幽灵亚音速特种弹，其弹头是160格令重的轻型尖头全被甲弹。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2710</uiIndex>
@@ -21698,14 +21130,6 @@
 		<szBRDesc>100发.338幽灵口径的300格令重型空尖弹。</szBRDesc>
 	</ITEM>
 	<ITEM>
-		<uiIndex>2713</uiIndex>
-		<szItemName>.500 Phantom 8 Sabot</szItemName>
-		<szLongItemName>.500 Phantom Magazine, 8 Sabot</szLongItemName>
-		<szItemDesc>这个标准AR式弹匣中装有8发.500 Phantom口径的亚音速脱壳穿甲弹，发射.308口径的168格令全被甲弹。</szItemDesc>
-		<szBRName>.500 Phantom Mag 8 Sabot</szBRName>
-		<szBRDesc>这个标准AR式弹匣中装有8发.500 Phantom口径的亚音速脱壳穿甲弹，发射.308口径的168格令全被甲弹。</szBRDesc>
-	</ITEM>
-	<ITEM>
 		<uiIndex>2714</uiIndex>
 		<szItemName>.500 Phantom 8 JHP</szItemName>
 		<szLongItemName>.500 Phantom Magazine, 8 JHP</szLongItemName>
@@ -21728,14 +21152,6 @@
 		<szItemDesc>50发.500 Phantom口径的亚音速重型空尖弹。</szItemDesc>
 		<szBRName>.500 Phantom JHP ammo box</szBRName>
 		<szBRDesc>50发.500 Phantom口径的亚音速重型空尖弹。</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>2717</uiIndex>
-		<szItemName>Mag-7 Mag, Slug</szItemName>
-		<szLongItemName>Mag-7 Mag, Slug</szLongItemName>
-		<szItemDesc>这个手枪型的弹匣内装有5发12号60mm独头弹。</szItemDesc>
-		<szBRName>Mag-7 Mag, Slug</szBRName>
-		<szBRDesc>这个手枪型的弹匣内装有5发12号60mm独头弹。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2718</uiIndex>
@@ -24498,44 +23914,12 @@
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 	</ITEM>
 	<ITEM>
-		<uiIndex>3063</uiIndex>
-		<szItemName>Arisaka Clip 5</szItemName>
-		<szLongItemName>有坂6.5mm，5发普通弹</szLongItemName>
-		<szItemDesc>一夹5发6.5x50mm SR有坂步枪弹。</szItemDesc>
-		<szBRName>Arisaka 6.5mm Clip, 5</szBRName>
-		<szBRDesc>一夹5发6.5x50mm SR有坂步枪弹。</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>3064</uiIndex>
-		<szItemName>Arisaka Clip 30</szItemName>
-		<szLongItemName>有坂6.5mm，30发普通弹</szLongItemName>
-		<szItemDesc>6夹5发6.5x50mm SR有坂步枪弹。</szItemDesc>
-		<szBRName>Arisaka 6.5mm Clip x6</szBRName>
-		<szBRDesc>不在BR出售</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>3065</uiIndex>
-		<szItemName>.458 Magnum</szItemName>
-		<szLongItemName>.458温彻斯特马格努姆，5发普通弹</szLongItemName>
-		<szItemDesc>.458温彻斯特马格努姆弹被设计能使一个重500格令的弹头初速达到2100 fps，动能达到4895 ft. lbs。</szItemDesc>
-		<szBRName>.458 Winchester Magnum</szBRName>
-		<szBRDesc>.458温彻斯特马格努姆弹被设计能使一个重500格令的弹头初速达到2100 fps，动能达到4895 ft. lbs。</szBRDesc>
-	</ITEM>
-	<ITEM>
 		<uiIndex>3066</uiIndex>
 		<szItemName>.458 Magnum HP</szItemName>
 		<szLongItemName>.458温彻斯特马格努姆，5发空尖弹</szLongItemName>
 		<szItemDesc>5发.458温彻斯特马格努姆空尖弹。</szItemDesc>
 		<szBRName>.458 Winchester Magnum HP</szBRName>
 		<szBRDesc>5发.458温彻斯特马格努姆空尖弹。</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>3067</uiIndex>
-		<szItemName>.22 LR Mag</szItemName>
-		<szLongItemName>.22 LR，10发普通弹</szLongItemName>
-		<szItemDesc>.22 LR是世界上最好销售的步枪及手枪弹。按标准速度、高速度、超高速装药，或是选择装上40格令的实心铅弹还是32-40格令的铅芯空尖弹，它可以满足你打靶的各种要求。</szItemDesc>
-		<szBRName>.22 LR Mag 10</szBRName>
-		<szBRDesc>.22 LR是一种老式的弹药，它第一次出现是使用在马林1891型杠杆步枪上。 它是到目前为止最流行而且最实用的.22口径有缘弹药。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>3068</uiIndex>
@@ -24546,28 +23930,12 @@
 		<szBRDesc>人们希望在他们射击时免去戴上耳罩的麻烦过程，就能享受到用动能更加强大的弹药射击带来的快感时，.22超级Colibri是一个好的选择。</szBRDesc>
 	</ITEM>
 	<ITEM>
-		<uiIndex>3069</uiIndex>
-		<szItemName>.22 LR Plate</szItemName>
-		<szLongItemName>.22 LR，220发普通弹</szLongItemName>
-		<szItemDesc>American 180使用的220发.22 ILARCO弹药弹盘。</szItemDesc>
-		<szBRName>.22 LR Mag 220</szBRName>
-		<szBRDesc>American 180使用的220发.22 ILARCO普通弹弹盘。</szBRDesc>
-	</ITEM>
-	<ITEM>
 		<uiIndex>3070</uiIndex>
 		<szItemName>.22 LR Plate HV</szItemName>
 		<szLongItemName>.22 LR，220发高速弹</szLongItemName>
 		<szItemDesc>American 180使用的220发.22 ILARCO高速弹弹盘。</szItemDesc>
 		<szBRName>.22 LR Mag 220 HV</szBRName>
 		<szBRDesc>American 180使用的220发.22 ILARCO高速弹弹盘。</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>3071</uiIndex>
-		<szItemName>23mm Buckshot</szItemName>
-		<szLongItemName>23mm霰弹，6发鹿弹</szLongItemName>
-		<szItemDesc>装有6发23mm口径超级霰弹枪鹿弹的弹匣。</szItemDesc>
-		<szBRName>23mm Buckshot</szBRName>
-		<szBRDesc>装有6发23mm口径超级霰弹枪鹿弹的弹匣。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>3072</uiIndex>
@@ -24610,28 +23978,12 @@
 		<szBRDesc>100发法国7.5x54mm全金属被甲普通弹弹链。</szBRDesc>
 	</ITEM>
 	<ITEM>
-		<uiIndex>3077</uiIndex>
-		<szItemName>.32ACP Mag 8</szItemName>
-		<szLongItemName>.32 ACP，8发普通弹</szLongItemName>
-		<szItemDesc>装有8发.32 ACP（7.65x17mm勃朗宁弹）全被甲弹。</szItemDesc>
-		<szBRName>.32 ACP Mag 8</szBRName>
-		<szBRDesc>8发71格令.32 ACP（Automatic Colt Pistol柯尔特自动手枪）全被甲弹。</szBRDesc>
-	</ITEM>
-	<ITEM>
 		<uiIndex>3078</uiIndex>
 		<szItemName>.32ACP Mag 8 JHP</szItemName>
 		<szLongItemName>.32 ACP，8发空尖弹</szLongItemName>
 		<szItemDesc>装有8发.32 ACP（7.65x17mm勃朗宁短弹）空尖弹。</szItemDesc>
 		<szBRName>.32 ACP Mag 8 JHP</szBRName>
 		<szBRDesc>8发65格令.32 ACP（柯尔特自动手枪弹）空尖弹。</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>3079</uiIndex>
-		<szItemName>.32ACP Mag 15</szItemName>
-		<szLongItemName>.32 ACP，15发普通弹</szLongItemName>
-		<szItemDesc>装有15发.32 ACP（7.65x17mm勃朗宁短弹）全被甲弹。</szItemDesc>
-		<szBRName>.32 ACP Mag 15</szBRName>
-		<szBRDesc>15发71格令.32 ACP（柯尔特自动手枪弹）全被甲弹。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>3080</uiIndex>
@@ -24682,14 +24034,6 @@
 		<szBRDesc>不在BR出售</szBRDesc>
 	</ITEM>
 	<ITEM>
-		<uiIndex>3086</uiIndex>
-		<szItemName>.38 Super Mag</szItemName>
-		<szLongItemName>.38 Super，9发普通弹</szLongItemName>
-		<szItemDesc>这个弹匣装有9发比赛级的.38 Super普通弹。</szItemDesc>
-		<szBRName>.38 Super Mag</szBRName>
-		<szBRDesc>这个弹匣装有9发比赛级的.38 Super普通弹。</szBRDesc>
-	</ITEM>
-	<ITEM>
 		<uiIndex>3087</uiIndex>
 		<szItemName>.38 Super Mag HP</szItemName>
 		<szLongItemName>.38 Super，9发空尖弹</szLongItemName>
@@ -24720,14 +24064,6 @@
 		<szItemDesc>这个铁皮弹药箱里有200发散装的苏联/俄罗斯12.7x55mm亚音速穿甲弹。</szItemDesc>
 		<szBRName>12.7x54mm 200发亚音速穿甲弹弹箱</szBRName>
 		<szBRDesc>这个铁皮弹药箱里有200发散装的苏联/俄罗斯12.7x55mm亚音速穿甲弹。</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>3091</uiIndex>
-		<szItemName>12.7x55mm Mag</szItemName>
-		<szLongItemName>12.7x55mm弹匣, 10发普通弹</szLongItemName>
-		<szItemDesc>俄罗斯12.7mm突击步枪使用的大口径、铝合金弹芯的超音速弹。</szItemDesc>
-		<szBRName>12.7x55mm Mag, 10</szBRName>
-		<szBRDesc>Ten rounds of 12.7mm lightweight, supersonic bullet with an aluminum core cartridges in a polymer magzine.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>3092</uiIndex>
@@ -24770,28 +24106,12 @@
 		<szBRDesc>这个铁箱里装着500发12.7x55mm双头弹。</szBRDesc>
 	</ITEM>
 	<ITEM>
-		<uiIndex>3097</uiIndex>
-		<szItemName>.300 BLK Mag M</szItemName>
-		<szLongItemName>.300 BLK弹匣, 30发比赛弹</szLongItemName>
-		<szItemDesc>30发.300 AAC BLACKOUT的125格令OTM比赛弹。</szItemDesc>
-		<szBRName>.300 BLK Mag 30 Match</szBRName>
-		<szBRDesc>30 rounds of .300 AAC BLACKOUT 125 match in a magazine, it fire 125gr OTM supersonic bullet.</szBRDesc>
-	</ITEM>
-	<ITEM>
 		<uiIndex>3098</uiIndex>
 		<szItemName>.300 BLK Mag SB</szItemName>
 		<szLongItemName>.300 BLK，30发亚音速弹</szLongItemName>
 		<szItemDesc>30发.300 AAC BLACKOUT的220格令亚音速步枪，这种7.62x34mm亚音速重弹头被设计专门用在微声步枪上。</szItemDesc>
 		<szBRName>.300 BLK Mag 30</szBRName>
 		<szBRDesc>这种弹药是被设计用来让狙击手击穿敌人的头盔，而不是音障。</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>3099</uiIndex>
-		<szItemName>.300 BLK Belt M</szItemName>
-		<szLongItemName>.300 BLK弹链, 150发比赛弹</szLongItemName>
-		<szItemDesc>150发.300 AAC BLACKOUT的125格令OTM比赛弹。</szItemDesc>
-		<szBRName>.300 BLK 150 Belt Match</szBRName>
-		<szBRDesc>A belt with 150 rounds of .300 AAC BLACKOUT 125 match, it fire 125gr OTM supersonic bullet.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>3100</uiIndex>
@@ -24810,22 +24130,6 @@
 		<szBRDesc>这个弹药箱里装着500发.300 AAC BLACKOUT口径 (7.62x35mm)的125格令OTM比赛弹。</szBRDesc>
 	</ITEM>
 	<ITEM>
-		<uiIndex>3102</uiIndex>
-		<szItemName>.338 NM 5</szItemName>
-		<szLongItemName>.338 Norma Magnum弹匣, 5发</szLongItemName>
-		<szItemDesc>5发装在弹匣内的.338 Norma Magnum比赛弹。</szItemDesc>
-		<szBRName>.338 Norma Mag, 5</szBRName>
-		<szBRDesc>5发装在弹匣内的.338 Norma Magnum比赛弹。</szBRDesc>
-	</ITEM>
-	<ITEM>
-		<uiIndex>3103</uiIndex>
-		<szItemName>.338 NM Belt</szItemName>
-		<szLongItemName>.338 Norma Magnum弹链, 50发</szLongItemName>
-		<szItemDesc>50发.338 NM比赛弹的弹链。</szItemDesc>
-		<szBRName>.338 Norma Magnum Belt</szBRName>
-		<szBRDesc>50发.338 NM比赛弹的弹链。</szBRDesc>
-	</ITEM>
-	<ITEM>
 		<uiIndex>3104</uiIndex>
 		<szItemName>.338 NM crate</szItemName>
 		<szLongItemName>.338 Norma Magnum弹药箱</szLongItemName>
@@ -24834,43 +24138,683 @@
 		<szBRDesc>400发装在弹药箱里的.338 NM(8.6×64mm) 比赛弹。</szBRDesc>
 	</ITEM>
 	<ITEM>
-		<uiIndex>3105</uiIndex>
-		<szItemName>无线电设备</szItemName>
-		<szLongItemName>无线电设备</szLongItemName>
-		<szItemDesc>作战用标准配置的短程通讯无线电设备。</szItemDesc>
-		<szBRName>无线电设备</szBRName>
-		<szBRDesc>可以用来和位于其他战区的小队进行通讯。可以背负，包含电池。</szBRDesc>
+		<uiIndex>4001</uiIndex>
+		<szItemName>Dyn. Helmet</szItemName>
+		<szLongItemName>迪尼玛防弹盔</szLongItemName>
+		<szItemDesc>迪尼玛UD聚合物头盔对弹片和子弹提供最大的防护面积，同时又比其它材料制成的头盔更轻巧。</szItemDesc>
+		<szBRName>Dyneema Helmet</szBRName>
+		<szBRDesc>“砰！爆头！”谁怕这个？这种头盔不但能让你免受子弹伤害，而且还帅气十足！</szBRDesc>
 	</ITEM>
 	<ITEM>
-		<uiIndex>3106</uiIndex>
-		<szItemName>无线电设备用电池</szItemName>
-		<szLongItemName>无线电设备专用电池</szLongItemName>
-		<szItemDesc>标准战地无线电设备使用的电池。非常重，不过如果节约点用，可以坚持好几周。</szItemDesc>
-		<szBRName>无线电设备用电池</szBRName>
-		<szBRDesc>无线电设备使用的标准配置战地电池。</szBRDesc>
+		<uiIndex>4002</uiIndex>
+		<szItemName>Dyn. Pants</szItemName>
+		<szLongItemName>迪尼玛防弹裤</szLongItemName>
+		<szItemDesc>有数家公司按照许可证制造，迪尼玛纤维比凯夫拉的强度高出40％。</szItemDesc>
+		<szBRName>Dyneema Leggings</szBRName>
+		<szBRDesc>有些使用者抱怨迪尼玛防弹裤穿着不舒服；不过，用毫无防护的蛋蛋来拦截子弹显然更不舒服。</szBRDesc>
 	</ITEM>
 	<ITEM>
-		<uiIndex>3107</uiIndex>
-		<szItemName>内置照明</szItemName>
-		<szLongItemName>内置照明</szLongItemName>
-		<szItemDesc>内部物品，不要使用！！！</szItemDesc>
-		<szBRName>内置照明</szBRName>
-		<szBRDesc>BR不卖这个,如果你看到了说明这物品来自于黑市。</szBRDesc>
+		<uiIndex>4003</uiIndex>
+		<szItemName>Dyn. Vest</szItemName>
+		<szLongItemName>迪尼玛防弹背心</szLongItemName>
+		<szItemDesc>使用迪尼玛UD材质的防弹背心以最轻的重量提供最佳的防护。通过与富有弹性的迪尼玛单向片材结合，提供给使用者极好的穿着舒适性，让佣兵们在出勤时可以一直穿在身上。</szItemDesc>
+		<szBRName>Dyneema Vest</szBRName>
+		<szBRDesc>非～常～轻的防弹背心，但是防护效果与那些更重的同类产品相当。出门前一定要穿上它！</szBRDesc>
 	</ITEM>
 	<ITEM>
-		<uiIndex>3108</uiIndex>
-		<szItemName>60mm迫击炮信号弹</szItemName>
-		<szLongItemName>60mm迫击炮信号弹</szLongItemName>
-		<szItemDesc>这种迫击炮弹专门用来标记需要进行轰炸的区域。</szItemDesc>
-		<szBRName>60mm迫击炮信号弹</szBRName>
-		<szBRDesc>信号弹发出的红烟即便在漆黑的夜晚也清晰可见。</szBRDesc>
+		<uiIndex>4004</uiIndex>
+		<szItemName>EOD Helmet</szItemName>
+		<szLongItemName>EOD头盔</szLongItemName>
+		<szItemDesc>EOD排爆服是一种堪称艺术品的防护外衣，特殊的设计使它在提供最高等级防护的同时，给予使用者最大限度的舒适性和灵活度，在全世界的排爆小组中使用广泛。</szItemDesc>
+		<szBRName>EOD Helmet</szBRName>
+		<szBRDesc>EOD头盔是一种堪称艺术品的防护装备，特殊的设计使它在提供最高等级防护的同时，给予使用者最大限度的舒适性和灵活度。</szBRDesc>
 	</ITEM>
 	<ITEM>
-		<uiIndex>3109</uiIndex>
-		<szItemName>红色信号弹</szItemName>
-		<szLongItemName>红色信号弹</szLongItemName>
-		<szItemDesc>用红烟清楚地标记靶子。</szItemDesc>
-		<szBRName>红色信号弹</szBRName>
-		<szBRDesc>没有什么比一柱红烟还能更好地指示进攻地点。</szBRDesc>
+		<uiIndex>4005</uiIndex>
+		<szItemName>EOD Pants</szItemName>
+		<szLongItemName>EOD防弹裤</szLongItemName>
+		<szItemDesc>EOD排爆服是一种堪称艺术品的防护外衣，特殊的设计使它在提供最高等级防护的同时，给予使用者最大限度的舒适性和灵活度，在全世界的排爆小组中使用广泛。</szItemDesc>
+		<szBRName>EOD Leggings</szBRName>
+		<szBRDesc>除非你是小队中技术高超的爆炸物专家，或者持有轮椅公司的股票，否则这件装备就是每个懂得自我保护的佣兵必备的东西。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4006</uiIndex>
+		<szItemName>EOD Jacket</szItemName>
+		<szLongItemName>EOD外套</szLongItemName>
+		<szItemDesc>EOD排爆服是一种堪称艺术品的防护外衣，特殊的设计使它在提供最高等级防护的同时，给予使用者最大限度的舒适性和灵活度，在全世界的排爆小组中使用广泛。</szItemDesc>
+		<szBRName>EOD Jacket</szBRName>
+		<szBRDesc>除非你是小队中技术高超的爆炸物专家，或者经营裹尸袋生意，否则这件装备就是每个懂得自我保护的佣兵必备的东西。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4007</uiIndex>
+		<szItemName>Tw. Helmet</szItemName>
+		<szLongItemName>芳纶防弹盔</szLongItemName>
+		<szItemDesc>特殊成型加工的Twaron头盔可以满足最苛刻的防弹需求。它的重量更轻，因此佩戴起来比传统的钢盔更舒适。</szItemDesc>
+		<szBRName>Twaron Helmet</szBRName>
+		<szBRDesc>市面上能买到的最好的头盔之一！如果你想要维和部队式样的蓝色头盔，请直接同我们联系。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4008</uiIndex>
+		<szItemName>Tw. Pants</szItemName>
+		<szLongItemName>芳纶防弹裤</szLongItemName>
+		<szItemDesc>这种腿部护具用高强度的芳香族聚酰胺纤维制成。</szItemDesc>
+		<szBRName>Twaron Leggings</szBRName>
+		<szBRDesc>穿一条Twaron防弹裤来保护你的下半身免受轻武器和弹片的伤害吧。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4009</uiIndex>
+		<szItemName>Tw. Vest</szItemName>
+		<szLongItemName>芳纶防弹背心</szLongItemName>
+		<szItemDesc>将芳纶纤维用在防弹背心上使得防弹衣更轻巧，更灵便，而且易于穿着。</szItemDesc>
+		<szBRName>Twaron Vest</szBRName>
+		<szBRDesc>将芳纶高强度纤维用在防弹背心上使得防弹衣更轻巧，更灵便，而且易于穿着。一句话，这是市面上最有效的防护系统。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4010</uiIndex>
+		<szItemName>CCE Boonie</szItemName>
+		<szLongItemName>法军CCE迷彩奔尼帽</szLongItemName>
+		<szItemDesc>法国军队的丛林迷彩式丛林软帽。</szItemDesc>
+		<szBRName>French CCE Boonie Hat</szBRName>
+		<szBRDesc>法国军队的丛林迷彩式丛林软帽。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4011</uiIndex>
+		<szItemName>CCE Trousers</szItemName>
+		<szLongItemName>法军CCE丛林迷彩长裤</szLongItemName>
+		<szItemDesc>法国军队的丛林迷彩制服的长裤。</szItemDesc>
+		<szBRName>French CCE BDU Trousers</szBRName>
+		<szBRDesc>法国军队的丛林迷彩制服的长裤。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4012</uiIndex>
+		<szItemName>CCE Shirt</szItemName>
+		<szLongItemName>渤CCE丛林迷彩上衣</szLongItemName>
+		<szItemDesc>法国军队的丛林迷彩制服的上衣。</szItemDesc>
+		<szBRName>French CCE BDU Shirt</szBRName>
+		<szBRDesc>法国军队的丛林迷彩制服的上衣。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4013</uiIndex>
+		<szItemName>DPM Boonie</szItemName>
+		<szLongItemName>DPM沙漠迷彩奔尼帽</szLongItemName>
+		<szItemDesc>英军的DPM沙漠迷彩款丛林软帽。</szItemDesc>
+		<szBRName>DPM Desert Camo Boonie</szBRName>
+		<szBRDesc>英军的DPM沙漠迷彩款丛林软帽。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4014</uiIndex>
+		<szItemName>DPM Trousers</szItemName>
+		<szLongItemName>DPM沙漠迷彩长裤</szLongItemName>
+		<szItemDesc>英军的DPM沙漠迷彩色制服的长裤。</szItemDesc>
+		<szBRName>DPM Desert Camo Trousers</szBRName>
+		<szBRDesc>英军的DPM沙漠迷彩色制服的长裤。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4015</uiIndex>
+		<szItemName>DPM Shirt</szItemName>
+		<szLongItemName>DPM沙漠迷彩上衣</szLongItemName>
+		<szItemDesc>英军的DPM沙漠迷彩色制服的上衣。</szItemDesc>
+		<szBRName>DPM Desert Camo Shirt</szBRName>
+		<szBRDesc>英军的DPM沙漠迷彩色制服的上衣。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4016</uiIndex>
+		<szItemName>STRIKE Plate Carrier</szItemName>
+		<szLongItemName>BHI STRIKE Rapid Plate Carrier</szLongItemName>
+		<szItemDesc>黑鹰公司的STRIKE防弹插板护胸套，这仅仅是一个可以挂在胸前的方形袋子，可以装入防弹插板，提供简易轻便的防护功能。</szItemDesc>
+		<szBRName>BHI STRIKE Rapid Plate Carrier</szBRName>
+		<szBRDesc>黑鹰公司的STRIKE防弹插板护胸套，这仅仅是一个可以挂在胸前的方形袋子，可以装入防弹插板，提供简易轻便的防护功能。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4017</uiIndex>
+		<szItemName>German Fleck</szItemName>
+		<szLongItemName>德军防弹背心</szLongItemName>
+		<szItemDesc>外表有丛林迷彩的德军凯夫拉防弹背心。</szItemDesc>
+		<szBRName>German Fleck Body Armour</szBRName>
+		<szBRDesc>外表有丛林迷彩的德军凯夫拉防弹背心。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4018</uiIndex>
+		<szItemName>SN-42 Body Armor</szItemName>
+		<szLongItemName>SN-42防弹钢甲</szLongItemName>
+		<szItemDesc>苏联军队在二战时使用过的防弹衣，其实是两片可以抵挡手枪弹的钢制板甲。</szItemDesc>
+		<szBRName>SN-42 Body Armor</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4019</uiIndex>
+		<szItemName>Defender-2 Vest</szItemName>
+		<szLongItemName>俄罗斯内务部后卫2型防弹衣</szLongItemName>
+		<szItemDesc>俄罗斯内务部特种部队装备的后卫2型防弹衣。</szItemDesc>
+		<szBRName>FSB Defender-2 Body Armor</szBRName>
+		<szBRDesc>俄罗斯内务部特种部队装备的后卫2型防弹衣。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4020</uiIndex>
+		<szItemName>6B12 Body Armor</szItemName>
+		<szLongItemName>俄军6B12防弹衣</szLongItemName>
+		<szItemDesc>俄罗斯装备的丛林迷彩式凯夫拉防弹衣，里面还有防弹钢板。</szItemDesc>
+		<szBRName>Russian 6B12 Body Armor</szBRName>
+		<szBRDesc>俄罗斯装备的丛林迷彩式凯夫拉防弹衣，里面还有防弹钢板。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4021</uiIndex>
+		<szItemName>6B23 Body Armor</szItemName>
+		<szLongItemName>俄军6B23防弹衣</szLongItemName>
+		<szItemDesc>6B23是6B12的改进型，外表有DPM丛林迷彩，里面可以同时插入防弹钢板和陶瓷板。</szItemDesc>
+		<szBRName>Russian 6B23 Body Armor</szBRName>
+		<szBRDesc>6B23是6B12的改进型，外表有DPM丛林迷彩，里面可以同时插入防弹钢板和陶瓷板。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4022</uiIndex>
+		<szItemName>Steel Plate</szItemName>
+		<szLongItemName>俄军防弹钢板</szLongItemName>
+		<szItemDesc>俄罗斯防弹衣专用的钢内衬，虽然不如陶瓷板的防护效果好，但胜在耐用。</szItemDesc>
+		<szBRName>Russian Steel Plate Insert</szBRName>
+		<szBRDesc>俄罗斯防弹衣专用的钢内衬，虽然不如陶瓷板的防护效果好，但胜在耐用。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4023</uiIndex>
+		<szItemName>Titanium Plating</szItemName>
+		<szLongItemName>钛合金插板</szLongItemName>
+		<szItemDesc>一种比陶瓷防弹插板更轻更廉价的选择，但效果也稍微差一点。</szItemDesc>
+		<szBRName>Titanium Plating</szBRName>
+		<szBRDesc>买不起陶瓷插板？那么你可能会对这种性价比更高的选择感兴趣：T-15钛合金插板有各种不同的形状和尺寸来配合不同的防弹衣插袋。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4024</uiIndex>
+		<szItemName>Leg Protectors</szItemName>
+		<szLongItemName>护膝</szLongItemName>
+		<szItemDesc>并不只是玩滑板的野小子才需要它，这种护膝可以让你的膝盖免受意外伤害。</szItemDesc>
+		<szBRName>Leg Protectors</szBRName>
+		<szBRDesc>并不只是玩滑板的野小子才需要它，这种护膝可以让你的膝盖免受意外伤害。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4025</uiIndex>
+		<szItemName>Protec Helmet</szItemName>
+		<szLongItemName>Protec VBSS头盔</szLongItemName>
+		<szItemDesc>Rro-Tec的轻型防撞头盔，VBBS常用。</szItemDesc>
+		<szBRName>Protec VBSS Helmet</szBRName>
+		<szBRDesc>Rro-Tec的轻型防撞头盔，VBBS常用。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4026</uiIndex>
+		<szItemName>SO Vest</szItemName>
+		<szLongItemName>隐秘行动防弹背心</szLongItemName>
+		<szItemDesc>这种防弹背心让特工在大部分情况下不需找掩体，但易受大口径武器的伤害。</szItemDesc>
+		<szBRName>Stealth Ops Vest</szBRName>
+		<szBRDesc>None</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4027</uiIndex>
+		<szItemName>SO Leggings</szItemName>
+		<szLongItemName>隐秘行动防弹裤</szLongItemName>
+		<szItemDesc>无需学习忍术。穿上这种护腿的特工可以立即获得忍者般的身手。</szItemDesc>
+		<szBRName>Stealth Ops Leggings</szBRName>
+		<szBRDesc>None</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4028</uiIndex>
+		<szItemName>Russian Holster</szItemName>
+		<szLongItemName>俄式战术手枪套</szLongItemName>
+		<szItemDesc>这种中型手枪套可以携带马卡洛夫手枪或其它手枪，以及一个备用弹匣。</szItemDesc>
+		<szBRName>Russian Tactical Holster</szBRName>
+		<szBRDesc>这种中型手枪套可以携带马卡洛夫手枪或其它手枪，以及一个备用弹匣。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4029</uiIndex>
+		<szItemName>AK Magazine Pouch</szItemName>
+		<szLongItemName>AK弹匣挎包</szLongItemName>
+		<szItemDesc>用肩带和腰带固定在腰侧，这个老式的苏军Ak弹匣挎包能携带4个AK弹匣。</szItemDesc>
+		<szBRName>Kalashnikov Magazine Pouch</szBRName>
+		<szBRDesc>用肩带和腰带固定在腰侧，这个老式的苏军Ak弹匣挎包能携带4个AK弹匣。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4030</uiIndex>
+		<szItemName>SVD Magazine Pouch</szItemName>
+		<szLongItemName>SVD弹匣挎包</szLongItemName>
+		<szItemDesc>用来在腰侧携带四个SVD弹匣的挎包。</szItemDesc>
+		<szBRName>SVD Magazine Pouch</szBRName>
+		<szBRDesc>用来在腰侧携带四个SVD弹匣的挎包。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4031</uiIndex>
+		<szItemName>Lifchik</szItemName>
+		<szLongItemName>苏军第二型胸挂</szLongItemName>
+		<szItemDesc>苏联生产的"lifchick"是用于AK步枪的第二代胸挂。它可以携带6个AK弹匣，4枚破片杀伤手榴弹，以及2个手持信号弹。</szItemDesc>
+		<szBRName>Soviet 2nd Pattern Chestrig</szBRName>
+		<szBRDesc>苏联生产的"lifchick"是用于AK步枪的第二代胸挂。它可以携带6个AK弹匣，4枚破片杀伤手榴弹，以及2个手持信号弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4032</uiIndex>
+		<szItemName>OMON Vest</szItemName>
+		<szLongItemName>OMON战术背心</szLongItemName>
+		<szItemDesc>这种多用途装具背心是为MVD的特种部队OMON所生产的，用弹性束带携带步枪弹匣或者霰弹枪弹药。上面还整合了一个手枪套，可以携带马卡洛夫手枪及其弹匣。</szItemDesc>
+		<szBRName>OMON Utility Vest</szBRName>
+		<szBRDesc>这种多用途装具背心是为MVD的特种部队OMON所生产的，用弹性束带携带步枪弹匣或者霰弹枪弹药。上面还整合了一个手枪套，可以携带马卡洛夫手枪及其弹匣。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4033</uiIndex>
+		<szItemName>Russian Combined Pouch</szItemName>
+		<szLongItemName>俄罗斯后腰包</szLongItemName>
+		<szItemDesc>这个后腰包可以挂在任何俄军士兵的腰带上，或者TARZAN突击背心和狙击手装具背心上，也能同美国和英国的装具背心兼容。</szItemDesc>
+		<szBRName>Russian Combined Pouch</szBRName>
+		<szBRDesc>这个后腰包可以挂在任何俄军士兵的腰带上，或者TARZAN突击背心和狙击手装具背心上，也能同美国和英国的装具背心兼容。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4034</uiIndex>
+		<szItemName>RD-54 Backpack</szItemName>
+		<szLongItemName>RD-54背包</szLongItemName>
+		<szItemDesc>RD-54是为苏军空降兵——或者称为VDV——设计的。RD-54在20世纪80年代的阿富汗战争中投入使用，而在最近的车臣冲突中还能见到它。</szItemDesc>
+		<szBRName>RD-54 Backpack</szBRName>
+		<szBRDesc>RD-54是为苏军空降兵——或者称为VDV——设计的。RD-54在20世纪80年代的阿富汗战争中投入使用，而在最近的车臣冲突中还能见到它。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4035</uiIndex>
+		<szItemName>TAD Pack</szItemName>
+		<szLongItemName>TAD F.I.S.T.背包</szLongItemName>
+		<szItemDesc>一种外部有一个附加口袋的战斗巡逻背包。你还可以在包的外面捆绑携带一支长枪。</szItemDesc>
+		<szBRName>TAD F.I.S.T. Pack</szBRName>
+		<szBRDesc>一种外部有一个附加口袋的战斗巡逻背包。你还可以在包的外面捆绑携带一支长枪。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4036</uiIndex>
+		<szItemName>SAS Vest</szItemName>
+		<szLongItemName>SAS CRW突击背心</szLongItemName>
+		<szItemDesc>这种正宗的SAS反恐作战用的羔羊皮突击背心从20世纪80年代一直用到差不多2005年。它们由SAS中那些一身黑衣的人质营救/反恐怖小组穿着。</szItemDesc>
+		<szBRName>SAS CRW Assault Vest</szBRName>
+		<szBRDesc>这种正宗的SAS反恐作战用的羔羊皮突击背心从20世纪80年代一直用到差不多2005年。它们由SAS中那些一身黑衣的人质营救/反恐怖小组穿着。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4037</uiIndex>
+		<szItemName>SAS Magazine Pouch</szItemName>
+		<szLongItemName>SAS弹匣腿袋</szLongItemName>
+		<szItemDesc>可以携带三个MP5弹匣的腿袋。</szItemDesc>
+		<szBRName>SAS Magazine Leg Pouch</szBRName>
+		<szBRDesc>可以携带三个MP5弹匣的腿袋。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4038</uiIndex>
+		<szItemName>SWAT Vest</szItemName>
+		<szLongItemName>SWAT突击背心</szLongItemName>
+		<szItemDesc>一种SWAT小队常用的战术背心，本应有防弹功能，草泥马的113现在还没有把防弹和携具整合在一起。目前你别忘了在它里面多加一件防弹衣。</szItemDesc>
+		<szBRName>SWAT Assault Vest</szBRName>
+		<szBRDesc>一种SWAT小队常用的战术背心，本应有防弹功能，草泥马的113现在还没有把防弹和携具整合在一起。目前你别忘了在它里面多加一件防弹衣。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4039</uiIndex>
+		<szItemName>LRAK</szItemName>
+		<szLongItemName>LRAK机枪手背心</szLongItemName>
+		<szItemDesc>这种战术背心可以让你的机枪手携带4条弹链，或者数个弹鼓。</szItemDesc>
+		<szBRName>LRAK SAW-Vest</szBRName>
+		<szBRDesc>你的机枪手会爱上这种背心的，只要他能承受背心装满以后的重量。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4040</uiIndex>
+		<szItemName>1st Aid</szItemName>
+		<szLongItemName>急救腿袋</szLongItemName>
+		<szItemDesc>这种腿部装具有一个急救包和数条小束带，可以井然有序的携带许多注射针剂。</szItemDesc>
+		<szBRName>First Aid Rig</szBRName>
+		<szBRDesc>用来携带急救包和额外的兴奋针剂再合适不过了。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4041</uiIndex>
+		<szItemName>Med. Pouch</szItemName>
+		<szLongItemName>医疗腿袋</szLongItemName>
+		<szItemDesc>这种腿部装具有一个急救包和数条小束带，可以整齐的携带许多注射针剂，还能装一个水壶。</szItemDesc>
+		<szBRName>Medical Pouch</szBRName>
+		<szBRDesc>用来携带急救包和额外的兴奋针剂再合适不过了。还有一个水壶放在随手可及的位置。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4042</uiIndex>
+		<szItemName>Cant.-Gren.</szItemName>
+		<szLongItemName>水壶/榴弹包</szLongItemName>
+		<szItemDesc>有一个水壶袋和三个手榴弹袋的腿部装具。</szItemDesc>
+		<szBRName>Canteen / Grenade Pouch</szBRName>
+		<szBRDesc>这种腿袋上有一个水壶袋和三个手榴弹袋。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4043</uiIndex>
+		<szItemName>AR-Ca.-Gr.</szItemName>
+		<szLongItemName>突击步枪弹匣/水壶/榴弹包</szLongItemName>
+		<szItemDesc>带有一个突击步枪弹匣袋，一个水壶袋和两个手榴弹袋的标准腿袋。</szItemDesc>
+		<szBRName>AR-Mag. / Canteen / Grenade Panel</szBRName>
+		<szBRDesc>这是其它腿部装具袋的一个衍生型，用一个水壶袋代替了一个手榴弹袋。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4044</uiIndex>
+		<szItemName>L.Mag.-Ca.-Gr.</szItemName>
+		<szLongItemName>大弹匣/水壶/榴弹包</szLongItemName>
+		<szItemDesc>这种腿部装具上有一个水壶袋，一个手榴弹袋和两个加长弹匣的口袋。</szItemDesc>
+		<szBRName>Large Mag. / Canteen / Grenade Panel</szBRName>
+		<szBRDesc>这种装具用一个水壶袋代替了其它大弹匣包组合上的第二个手榴弹袋。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4045</uiIndex>
+		<szItemName>Satchel</szItemName>
+		<szLongItemName>革命挎包</szLongItemName>
+		<szItemDesc>正货！上书毛主席“为人民服务”字样的挎包。</szItemDesc>
+		<szBRName>Revolutionary Satchel</szBRName>
+		<szBRDesc>正货！上书毛主席“为人民服务”字样的挎包。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4046</uiIndex>
+		<szItemName>Smersh</szItemName>
+		<szLongItemName>Smersh装具背心</szLongItemName>
+		<szItemDesc>俄罗斯的步枪手单兵携具。</szItemDesc>
+		<szBRName>Smersh Vest</szBRName>
+		<szBRDesc>俄罗斯的步枪手单兵携具。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4047</uiIndex>
+		<szItemName>Smersh Pack</szItemName>
+		<szLongItemName>Smersh战斗包</szLongItemName>
+		<szItemDesc>与Smersh装具背心搭配使用的小型背包。</szItemDesc>
+		<szBRName>Smersh Combat Pack</szBRName>
+		<szBRDesc>与Smersh装具背心搭配使用的小型背包。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4048</uiIndex>
+		<szItemName>PKM Satchel</szItemName>
+		<szLongItemName>PKM弹药包</szLongItemName>
+		<szItemDesc>用来携带PKM机枪弹链的俄制大腰包。</szItemDesc>
+		<szBRName>PKM Ammo Satchel</szBRName>
+		<szBRDesc>用来携带PKM机枪弹链的俄制大腰包。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4049</uiIndex>
+		<szItemName>Scabbard</szItemName>
+		<szLongItemName>刀鞘</szLongItemName>
+		<szItemDesc>用来容纳长刀或砍刀的大型刀鞘。</szItemDesc>
+		<szBRName>Scabbard</szBRName>
+		<szBRDesc>用来容纳长刀或砍刀的大型刀鞘。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4050</uiIndex>
+		<szItemName>M9 Sheath</szItemName>
+		<szLongItemName>M9刺刀刀鞘</szLongItemName>
+		<szItemDesc>军用刺刀的多功能刀鞘。</szItemDesc>
+		<szBRName>M9 Bayonet Sheath</szBRName>
+		<szBRDesc>军用刺刀的多功能刀鞘。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4051</uiIndex>
+		<szItemName>KSK Desert Vest</szItemName>
+		<szLongItemName>KSK沙漠装具背心</szLongItemName>
+		<szItemDesc>德国KSK特种部队使用的沙漠迷彩SOF突击背心。</szItemDesc>
+		<szBRName>KSK Desert Vest</szBRName>
+		<szBRDesc>德国KSK特种部队使用的沙漠迷彩SOF突击背心。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4052</uiIndex>
+		<szItemName>Type95 Vest</szItemName>
+		<szLongItemName>中国95式步兵装具背心</szLongItemName>
+		<szItemDesc>中国为使用QBZ95式步枪的步枪手设计的突击背心。</szItemDesc>
+		<szBRName>Chinese Type95 Vest</szBRName>
+		<szBRDesc>中国为使用QBZ95式步枪的步枪手设计的突击背心。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4053</uiIndex>
+		<szItemName>Type02 Vest</szItemName>
+		<szLongItemName>中国02式空降兵装具背心</szLongItemName>
+		<szItemDesc>中国空降兵用的02式突击背心。附加了一个02式弹匣包。</szItemDesc>
+		<szBRName>CHN Type02 Airborne Vest</szBRName>
+		<szBRDesc>中国空降兵用的02式突击背心。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4054</uiIndex>
+		<szItemName>Type02 Backpack</szItemName>
+		<szLongItemName>02式空降兵背包</szLongItemName>
+		<szItemDesc>这是中国的空降兵用02式背包，外部有若干口袋，而且从顶部或底部都可以打开。</szItemDesc>
+		<szBRName>CHN Type02 Backpack</szBRName>
+		<szBRDesc>中国02式空降兵背包。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4055</uiIndex>
+		<szItemName>Type02 Mag Pouch</szItemName>
+		<szLongItemName>中国02式弹匣包</szLongItemName>
+		<szItemDesc>用来容纳5.8mm弹匣的弹匣包。也能附加在中国02式空降兵装具背心上。</szItemDesc>
+		<szBRName>Type-02 Magazine Pouch</szBRName>
+		<szBRDesc>用来容纳5.8mm弹匣的弹匣包。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4056</uiIndex>
+		<szItemName>Type07 AS. Vest</szItemName>
+		<szLongItemName>中国07式步兵装具背心</szLongItemName>
+		<szItemDesc>中国最新式的07式步兵装具背心，带有数码迷彩。这是中国第一种模块化装具背心。</szItemDesc>
+		<szBRName>Type07 Rifleman Vest</szBRName>
+		<szBRDesc>全新的中国07式模块化步兵装具背心。即使在中国军队中也还很少见。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4057</uiIndex>
+		<szItemName>Type07 MG. Vest</szItemName>
+		<szLongItemName>中国07式机枪手背心</szLongItemName>
+		<szItemDesc>中国07式机枪手背心，是中国班用轻机枪射手的装备。</szItemDesc>
+		<szBRName>Type07 Gunner Vest</szBRName>
+		<szBRDesc>中国07式模块化机枪手背心。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4058</uiIndex>
+		<szItemName>Type07 Combat Pack</szItemName>
+		<szLongItemName>中国07式战斗包</szLongItemName>
+		<szItemDesc>中国最新的军用背包，看起来像是3-Day背包的仿制品，但它拥有更大的内部空间。</szItemDesc>
+		<szBRName>Type07 Combat Pack</szBRName>
+		<szBRDesc>中国07式战斗包，外面有一个大型口袋。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4059</uiIndex>
+		<szItemName>3P Backpack</szItemName>
+		<szLongItemName>马盖先3P背包</szLongItemName>
+		<szItemDesc>马盖先公司的3P多用途背包，受到军迷欢迎的城市生存一族的日常用小背包。</szItemDesc>
+		<szBRName>Magforce 3P Backpack</szBRName>
+		<szBRDesc>马盖先公司的3P多用途背包，受到军迷欢迎的城市生存一族的日常用小背包。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4060</uiIndex>
+		<szItemName>AIII Med Bag</szItemName>
+		<szLongItemName>Eagle A-III医疗包</szLongItemName>
+		<szItemDesc>有多个分隔，让你的医疗兵能整齐有序地存放多种医疗用品的战斗背包。</szItemDesc>
+		<szBRName>Eagle A-III Med Bag</szBRName>
+		<szBRDesc>有多个分隔，让你的医疗兵能整齐有序地存放多种医疗用品的战斗背包。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4061</uiIndex>
+		<szItemName>Flashlight</szItemName>
+		<szLongItemName>手电筒</szLongItemName>
+		<szItemDesc>带攻击头的手电筒，航空铝材制作，坚固耐用，除了照明，还可以打人。</szItemDesc>
+		<szBRName>Flashlight</szBRName>
+		<szBRDesc>带攻击头的手电筒，航空铝材制作，坚固耐用，除了照明，还可以打人。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4062</uiIndex>
+		<szItemName>Flashlight</szItemName>
+		<szLongItemName>手电筒 (开灯)</szLongItemName>
+		<szItemDesc>带攻击头的手电筒，航空铝材制作，坚固耐用，除了照明，还可以打人。这是点亮状态。</szItemDesc>
+		<szBRName>Flashlight</szBRName>
+		<szBRDesc>不在BR出售</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4063</uiIndex>
+		<szItemName>ZSh-1 Helmet</szItemName>
+		<szLongItemName>ZSh-1头盔</szLongItemName>
+		<szItemDesc>ZSh-1是俄罗斯特种部队最喜欢的头盔之一。它足以抵挡大部分的手枪弹和破片。</szItemDesc>
+		<szBRName>ZSh-1 Helmet</szBRName>
+		<szBRDesc>ZSh-1是俄罗斯特种部队最喜欢的头盔之一。它足以抵挡大部分的手枪弹和破片。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4064</uiIndex>
+		<szItemName>MASKA-1Sch Helmet</szItemName>
+		<szLongItemName>MASKA-1Sch头盔</szLongItemName>
+		<szItemDesc>MASKA是一种著名的防弹头盔，专门为俄罗斯特种部队制造，使用者包括MVD的SOBR和OMON特警队。由于重量问题，MASKA头盔不是用来长时间佩戴的，而是用于短时间的战斗。</szItemDesc>
+		<szBRName>MASKA-1Sch Helmet</szBRName>
+		<szBRDesc>MASKA是一种著名的防弹头盔，专门为俄罗斯特种部队制造，使用者包括MVD的SOBR和OMON特警队。由于重量问题，MASKA头盔不是用来长时间佩戴的，而是适用于短时间的战斗。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4065</uiIndex>
+		<szItemName>Heavy SWAT Helmet</szItemName>
+		<szLongItemName>K6-3头盔</szLongItemName>
+		<szItemDesc>K6-3重型防弹头盔足以抵挡大部分手枪弹和破片，被俄罗斯Spetsnaz特种部队广泛使用。带有透明的强化玻璃面罩，还整合有对讲机和天线。</szItemDesc>
+		<szBRName>K6-3 Helmet</szBRName>
+		<szBRDesc>K6-3重型防弹头盔足以抵挡大部分手枪弹和破片，被俄罗斯Spetsnaz特种部队广泛使用。带有透明的强化玻璃面罩，还整合有对讲机和天线。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4066</uiIndex>
+		<szItemName>SOF Helmet</szItemName>
+		<szLongItemName>特种部队半盔</szLongItemName>
+		<szItemDesc>这是著名的美国陆军特种部队用的轻型防弹战斗盔，两侧没有护耳的半盔式设计是为了方便戴耳机。</szItemDesc>
+		<szBRName>SOF Half Head Helmet</szBRName>
+		<szBRDesc>这是著名的美国陆军特种部队用的轻型防弹战斗盔，两侧没有护耳的半盔式设计是为了方便戴耳机。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4067</uiIndex>
+		<szItemName>6B7-1L Helmet</szItemName>
+		<szLongItemName>6B7-1L凯夫拉头盔</szLongItemName>
+		<szItemDesc>俄军6B7-1L型凯夫拉头盔。</szItemDesc>
+		<szBRName>6B7-1L Kavlar Helmet</szBRName>
+		<szBRDesc>俄军6B7-1L型凯夫拉头盔。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4068</uiIndex>
+		<szItemName>STSH-81 Helmet</szItemName>
+		<szLongItemName>STSH-81钛合金头盔</szLongItemName>
+		<szItemDesc>俄罗斯STSH-81 "SPHERA"钛合金头盔被俄军伞兵和特种部队在车臣和其它热点地区广泛使用。</szItemDesc>
+		<szBRName>STSH-81 Titanium Helmet</szBRName>
+		<szBRDesc>俄罗斯STSH-81 "SPHERA"钛合金头盔被俄军伞兵和特种部队在车臣和其它热点地区广泛使用。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4069</uiIndex>
+		<szItemName>OTV</szItemName>
+		<szLongItemName>拦截者OTV</szLongItemName>
+		<szItemDesc>Point Blank公司的拦截者防弹系统的背心部分，该型号已大量供应美国军队使用。</szItemDesc>
+		<szBRName>Interceptor OTV</szBRName>
+		<szBRDesc>Point Blank公司的拦截者防弹系统的背心部分，该型号已大量供应美国军队使用。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4070</uiIndex>
+		<szItemName>Balistic Insert</szItemName>
+		<szLongItemName>软防弹内衬</szLongItemName>
+		<szItemDesc>防弹衣的软质凯夫拉纤维内衬。</szItemDesc>
+		<szBRName>Soft Balistic Insert</szBRName>
+		<szBRDesc>防弹衣的软质凯夫拉纤维内衬。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4071</uiIndex>
+		<szItemName>Helmet Cover Mk.I</szItemName>
+		<szLongItemName>迷彩盔罩Mk.I</szLongItemName>
+		<szItemDesc>这种外罩让你的头盔更不显眼。</szItemDesc>
+		<szBRName>Camo Helmet Cover Mk.I</szBRName>
+		<szBRDesc>明晃晃亮闪闪的头盔已经过时了！这种迷彩盔罩是升级头盔的绝好方式。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4072</uiIndex>
+		<szItemName>Helmet Cover Mk.II</szItemName>
+		<szLongItemName>迷彩盔罩Mk.II</szLongItemName>
+		<szItemDesc>这种盔罩可以让你的头盔更加不起眼。它上面的带子可以插上树枝或其它绿色植物，提供更好的伪装效果。</szItemDesc>
+		<szBRName>Camo Helmet Cover Mk.II</szBRName>
+		<szBRDesc>让你的头上长草吧！头盔上的这些带子是固定大地母亲制造的各种伪装材料的绝好位置。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4073</uiIndex>
+		<szItemName>Kazak-4</szItemName>
+		<szLongItemName>Kazak-4防弹背心</szLongItemName>
+		<szItemDesc>Kazak-4防弹背心由织物外套和内部填充的软质防弹材料组成。填充的防弹材料可以是经过防水处理的芳纶纤维，也可以是俄罗斯产的SVM纤维。</szItemDesc>
+		<szBRName>Kazak-4 Vest</szBRName>
+		<szBRDesc>Kazak-4防弹背心由织物外套和内部填充的软质防弹材料组成。填充的防弹材料可以是经过防水处理的芳纶纤维，也可以是俄罗斯产的SVM纤维。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4074</uiIndex>
+		<szItemName>Kazak-6</szItemName>
+		<szLongItemName>Kazak-6防弹背心</szLongItemName>
+		<szItemDesc>达到俄罗斯标准5级(AK-47/AKM/SVD)或美国NIJ III级的防弹衣。前后两面的防护等级相同。</szItemDesc>
+		<szBRName>Kazak-6 Vest</szBRName>
+		<szBRDesc>达到俄罗斯标准5级(AK-47/AKM/SVD)或美国NIJ III级的防弹衣。前后两面的防护等级相同。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4075</uiIndex>
+		<szItemName>Ghillie Hood</szItemName>
+		<szLongItemName>吉利伪装兜帽</szLongItemName>
+		<szItemDesc>不管是单独使用还是与吉利伪装服一起使用，吉利伪装兜帽都能为你全身最重要的部分——脑袋——提供伪装。</szItemDesc>
+		<szBRName>Ghillie Hood</szBRName>
+		<szBRDesc>全套吉利伪装服的最后一个部件。它也能避免阳光刺眼，还可以起蚊帐的作用。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4076</uiIndex>
+		<szItemName>Ghillie Pants</szItemName>
+		<szLongItemName>吉利伪装裤</szLongItemName>
+		<szItemDesc>优质的黄麻絮直接缝在军用战斗服的长裤上。这些缝上去的麻絮覆盖了正反两面。</szItemDesc>
+		<szBRName>Ghillie Leggings</szBRName>
+		<szBRDesc>除非你打算用吉利伪装服配牛仔裤穿，否则这种长裤就是你想偷偷摸近敌人时的必备品。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4077</uiIndex>
+		<szItemName>Ghillie Jacket</szItemName>
+		<szLongItemName>吉利伪装服</szLongItemName>
+		<szItemDesc>优质的黄麻絮直接缝在有四个口袋的军用战斗服外套上。这些麻絮完全覆盖了外套的正反两面，而且附有一个兜帽。</szItemDesc>
+		<szBRName>Ghillie Jacket</szBRName>
+		<szBRDesc>在你偷窥可爱的邻家女孩，或者朝能俯瞰敌人基地的绝好位置潜行的过程中，这件外套可以保证没人发现你。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4078</uiIndex>
+		<szItemName>Protec Para</szItemName>
+		<szLongItemName>Pro-Tec伞兵头盔</szLongItemName>
+		<szItemDesc>Pro-Tec制造的轻型防撞伞兵头盔。</szItemDesc>
+		<szBRName>Pro-Tec Para Helmet</szBRName>
+		<szBRDesc>Pro-Tec制造的轻型防撞伞兵头盔。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4079</uiIndex>
+		<szItemName>Camo Trousers</szItemName>
+		<szLongItemName>伪装裤</szLongItemName>
+		<szItemDesc>这种森林迷彩的伪装裤只提供有限的保护，但可以让你在适当的地形中更好的隐蔽更长时间。</szItemDesc>
+		<szBRName>Camo Pants</szBRName>
+		<szBRDesc>这种森林迷彩的伪装裤只提供有限的保护，但可以让你在适当的地形中更好的隐蔽更长时间。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4080</uiIndex>
+		<szItemName>Panamka</szItemName>
+		<szLongItemName>苏军热带帽</szLongItemName>
+		<szItemDesc>这种帽子在冷战期间一直使用，从1960年代起装备数量逐渐减少。在苏军入侵阿富汗的战争期间这种帽子又重新装备，但这个款式的帽沿更短，而且有金属帽孔圈。</szItemDesc>
+		<szBRName>Soviet Tropical Cap</szBRName>
+		<szBRDesc>这种帽子在冷战期间一直使用，从1960年代起装备数量逐渐减少。在苏军入侵阿富汗的战争期间这种帽子又重新装备，但这个款式的帽沿更短，而且有金属帽孔圈。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4081</uiIndex>
+		<szItemName>Zh-86 Flak</szItemName>
+		<szLongItemName>Zh-86防破片夹克</szLongItemName>
+		<szItemDesc>苏军的Zh-86型防破片夹克，两面都装有钛合金、陶瓷装甲和特种钢。正面和背面各有14层防弹板。在阿富汗战争期间设计制造，而在车臣的俄军部队也有使用。</szItemDesc>
+		<szBRName>Zh-86 Flack Jacket</szBRName>
+		<szBRDesc>苏军的Zh-86型防破片夹克，两面都装有钛合金、陶瓷装甲和特种钢。正面和背面各有14层防弹板。在阿富汗战争期间设计制造，而在车臣的俄军部队也有使用。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4082</uiIndex>
+		<szItemName>VDV Trousers</szItemName>
+		<szLongItemName>VDV伞兵裤</szLongItemName>
+		<szItemDesc>这种俄制伞兵型伪装裤穿着舒适。宽松的剪裁使活动更自由。腹股沟部分的网状结构有利空气流通。由俄罗斯空降军所属的部队穿着。</szItemDesc>
+		<szBRName>VDV Paratrooper Pants</szBRName>
+		<szBRDesc>这种俄制伞兵型伪装裤穿着舒适。宽松的剪裁使活动更自由。腹股沟部分的网状结构有利空气流通。由俄罗斯空降军所属的部队穿着。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4083</uiIndex>
+		<szItemName>BEKAS Jacket</szItemName>
+		<szLongItemName>BEKAS迷彩战斗外套</szLongItemName>
+		<szItemDesc>BEKAS迷彩战斗外套是一种供俄罗斯特种部队使用的新型设计，也被其它前苏联加盟共和国的精锐反恐怖部队采用。</szItemDesc>
+		<szBRName>BEKAS Camo BDU Jacket</szBRName>
+		<szBRDesc>BEKAS迷彩战斗外套是一种供俄罗斯特种部队使用的新型设计，也被其它前苏联加盟共和国的精锐反恐怖部队采用。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4084</uiIndex>
+		<szItemName>BEKAS Trousers</szItemName>
+		<szLongItemName>BEKAS迷彩战斗裤</szLongItemName>
+		<szItemDesc>BEKAS迷彩战斗裤是一种供俄罗斯特种部队使用的新型设计，也被其它前苏联加盟共和国的精锐反恐怖部队采用。</szItemDesc>
+		<szBRName>BEKAS Camo BDU Pants</szBRName>
+		<szBRDesc>BEKAS迷彩战斗裤是一种供俄罗斯特种部队使用的新型设计，也被其它前苏联加盟共和国的精锐反恐怖部队采用。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>4085</uiIndex>
+		<szItemName>British Bush Hat</szItemName>
+		<szLongItemName>英军丛林帽</szLongItemName>
+		<szItemDesc>英军DPM迷彩“渔夫帽”，是英国正规军及SAS等特种部队的丛林战装备。</szItemDesc>
+		<szBRName>British Army Bush Hat</szBRName>
+		<szBRDesc>英军DPM迷彩“渔夫帽”，是英国正规军及SAS等特种部队的丛林战装备。</szBRDesc>
 	</ITEM>
 </ITEMLIST>
