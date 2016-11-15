@@ -5352,7 +5352,7 @@
 		<uiIndex>764</uiIndex>
 		<ubCalibre>65</ubCalibre>
 		<ubMagSize>100</ubMagSize>
-		<ubAmmoType>10</ubAmmoType>
+		<ubAmmoType>35</ubAmmoType>
 		<ubMagType>3</ubMagType>
 	</MAGAZINE>
 	<MAGAZINE>
@@ -5366,7 +5366,7 @@
 		<uiIndex>766</uiIndex>
 		<ubCalibre>66</ubCalibre>
 		<ubMagSize>100</ubMagSize>
-		<ubAmmoType>10</ubAmmoType>
+		<ubAmmoType>35</ubAmmoType>
 		<ubMagType>3</ubMagType>
 	</MAGAZINE>
 	<MAGAZINE>
