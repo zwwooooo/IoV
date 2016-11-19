@@ -1,5 +1,6 @@
+2016.11.19：daboboye 在 IoV929beta 后弃坑，后续可以关注 zwwooooo's IoV Revised (https://github.com/zwwooooo/IoV/tree/IoV-Revised)
+
 # 铁血联盟2 v1.13 MOD：IoV (Instruments of Violence)
-Automatically exported from code.google.com/p/cos-mod
 
 ### ( MOD for JA2 v1.13：IoV [原名DBB Cosplay MOD] )
 
