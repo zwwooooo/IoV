@@ -738,7 +738,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>92</uiIndex>
-		<szItemName>5.45x39mm Mag</szItemName>
+		<szItemName>5.45x39 Mag</szItemName>
 		<szLongItemName>5.45x39mm，30发标准弹(7N6)</szLongItemName>
 		<szItemDesc>30发5.45mm口径的俄罗斯7N6标准弹，有一定穿甲能力，弹头巧妙的设计使其可以在人体内翻滚增加损伤。</szItemDesc>
 		<szBRName>5.45x39mm，30发标准弹(7N6)</szBRName>
@@ -746,7 +746,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>93</uiIndex>
-		<szItemName>5.45x39mm Mag HP</szItemName>
+		<szItemName>5.45x39 Mag HP</szItemName>
 		<szLongItemName>5.45x39mm，30发空尖弹</szLongItemName>
 		<szItemDesc>30发Wolf牌5.45x39mm狩猎用空尖弹结合了弹头翻滚和扩张伤害，非常致命。</szItemDesc>
 		<szBRName>5.45x39mm，30发空尖弹</szBRName>
@@ -930,7 +930,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>116</uiIndex>
-		<szItemName>.50BMG Mag</szItemName>
+		<szItemName>.50BMG Mag T</szItemName>
 		<szLongItemName>.50 BMG，10发穿甲曳光弹</szLongItemName>
 		<szItemDesc>10发.50 BMG（勃朗宁机枪）穿甲曳光弹，可以用来射击训练、杀伤人员及破坏轻装甲目标。</szItemDesc>
 		<szBRName>.50 BMG，10发穿甲曳光弹</szBRName>
@@ -2458,7 +2458,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>307</uiIndex>
-		<szItemName>Rod ＆ Spring</szItemName>
+		<szItemName>Rod &amp; Spring</szItemName>
 		<szLongItemName>弹簧铝管</szLongItemName>
 		<szItemDesc>把这个小玩意儿装到枪里面，缩短枪机的复进行程，提高武器的射速。</szItemDesc>
 		<szBRName>Rod ＆ Spring</szBRName>
@@ -2634,7 +2634,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>329</uiIndex>
-		<szItemName>S＆W M1076</szItemName>
+		<szItemName>S&amp;W M1076</szItemName>
 		<szLongItemName>S＆W Model 1076</szLongItemName>
 		<szItemDesc>Smith ＆ Wesson公司研制的新型手枪，所谓的”第三代“自动手枪，型号为1076，使用10mm口径子弹。在1990年FBI选定Model1076列装。</szItemDesc>
 		<szBRName>S＆W Model 1076</szBRName>
@@ -2658,7 +2658,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>332</uiIndex>
-		<szItemName>TAR 21</szItemName>
+		<szItemName>TAR-21</szItemName>
 		<szLongItemName>Tavor TAR 21</szLongItemName>
 		<szItemDesc>这只以色列产新型机枪绝对能把你雷得里焦外嫩。空重仅5.5磅，每分钟能发射900发5.56mm弹，哇哦~~~</szItemDesc>
 		<szBRName>Tavor TAR 21</szBRName>
@@ -2690,7 +2690,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>336</uiIndex>
-		<szItemName>SIG P226</szItemName>
+		<szItemName>SIG P226R</szItemName>
 		<szLongItemName>SIG P226</szLongItemName>
 		<szItemDesc>柯尔特1911的接班人，在美国军队中有着不错的口碑，深受士兵欢迎。</szItemDesc>
 		<szBRName>SIG P226</szBRName>
@@ -2778,7 +2778,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>347</uiIndex>
-		<szItemName>AK-47</szItemName>
+		<szItemName>AK47</szItemName>
 		<szLongItemName>AK-47</szLongItemName>
 		<szItemDesc>一直在被模仿，从来未被超越。卡拉什尼科夫突击步枪自从半个世纪前面世以来，一直都是世界上各种武装冲突中的主角。</szItemDesc>
 		<szBRName>AK-47</szBRName>
@@ -2794,7 +2794,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>349</uiIndex>
-		<szItemName>Vikhr</szItemName>
+		<szItemName>SR3 Vikhr</szItemName>
 		<szLongItemName>Vikhr SR-3 Compact</szLongItemName>
 		<szItemDesc>俄国安全及反恐部队所使用的可折式枪托突击卡宾枪。</szItemDesc>
 		<szBRName>Vikhr SR-3 Compact</szBRName>
@@ -2946,7 +2946,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>368</uiIndex>
-		<szItemName>9x19mm Mag, 20</szItemName>
+		<szItemName>9x19mm Mag 20</szItemName>
 		<szLongItemName>9x19mm，20发普通弹</szLongItemName>
 		<szItemDesc>20发全被甲弹，使你的枪管不会像使用空尖弹那样很快铺上一层铅。</szItemDesc>
 		<szBRName>9x19mm Mag, 20</szBRName>
@@ -2954,7 +2954,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>369</uiIndex>
-		<szItemName>9x19mm Mag, 20 HP</szItemName>
+		<szItemName>9x19mm Mag 20 HP</szItemName>
 		<szLongItemName>9x19mm，20发空尖弹</szLongItemName>
 		<szItemDesc>20发Federal牌空尖弹。它结合了空尖弹创伤特性和普通弹的贯穿性能。</szItemDesc>
 		<szBRName>9x19mm Mag, 20 HP</szBRName>
@@ -2962,7 +2962,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>370</uiIndex>
-		<szItemName>9x19mm Mag, 20 AP</szItemName>
+		<szItemName>9x19mm Mag 20 AP</szItemName>
 		<szLongItemName>9x19mm，20发穿甲弹</szLongItemName>
 		<szItemDesc>这20发俄罗斯7N31穿甲弹是提供给冲锋枪使用的效果最好的破甲弹药。</szItemDesc>
 		<szBRName>9x19mm Mag, 20 AP</szBRName>
@@ -2970,7 +2970,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>371</uiIndex>
-		<szItemName>9x19mm Mag, 20 M</szItemName>
+		<szItemName>9x19mm Mag 20 M</szItemName>
 		<szLongItemName>9x19mm，20发比赛弹</szLongItemName>
 		<szItemDesc>高精准的比赛级弹，能极大的提高你的命中率和射程。</szItemDesc>
 		<szBRName>9x19mm Mag, 20 Match</szBRName>
@@ -2978,7 +2978,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>372</uiIndex>
-		<szItemName>9x19mm Mag, 20 SB</szItemName>
+		<szItemName>9x19mm Mag 20 SB</szItemName>
 		<szLongItemName>9x19mm，20发亚音速弹</szLongItemName>
 		<szItemDesc>这种子弹以牺牲对目标停止力为代价，降低了子弹的击发噪音。</szItemDesc>
 		<szBRName>9x19mm Mag, 20 SB</szBRName>
@@ -3418,7 +3418,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>427</uiIndex>
-		<szItemName>12Ga Slug 20</szItemName>
+		<szItemName>12Ga Drum Slug</szItemName>
 		<szLongItemName>12号，20发独头弹</szLongItemName>
 		<szItemDesc>一个装有20发12号独头弹的弹鼓，用来当作下一次“霰弹枪式”（shotgun wedding奉子成婚）婚礼或者家族团聚的礼物再合适不过了。</szItemDesc>
 		<szBRName>12Ga Slug 20</szBRName>
@@ -3482,7 +3482,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>435</uiIndex>
-		<szItemName>5.45x39mm Mag T</szItemName>
+		<szItemName>5.45x39 RPK-Mag T</szItemName>
 		<szLongItemName>5.45x39mm，45发曳光弹(7T3M)</szLongItemName>
 		<szItemDesc>5.45mm口径的俄罗斯7T3M曳光弹。附带光亮效果，帮助你在点射或者扫射时更准确的击中目标。</szItemDesc>
 		<szBRName>5.45x39mm RPK-Mag, Tracer</szBRName>
@@ -3994,7 +3994,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>499</uiIndex>
-		<szItemName>7.62x51 25 HP</szItemName>
+		<szItemName>7.62x51 25 Z</szItemName>
 		<szLongItemName>7.62x51mm，25发丧尸弹</szLongItemName>
 		<szItemDesc>使用丧尸弹可以在解决掉敌人的同时避免过度穿透的风险。</szItemDesc>
 		<szBRName>7.62x51mm 25发丧尸弹</szBRName>
@@ -4106,7 +4106,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>513</uiIndex>
-		<szItemName>7.62x51mm Belt T</szItemName>
+		<szItemName>7.62x51 Belt T</szItemName>
 		<szLongItemName>7.62x51mm，10发曳光弹(M62)</szLongItemName>
 		<szItemDesc>这种7.62mm口径北约曳光弹能提高你班用机枪的精度。</szItemDesc>
 		<szBRName>7.62x51mm Belt Tracer</szBRName>
@@ -4114,7 +4114,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>514</uiIndex>
-		<szItemName>7.62x51mm Belt M</szItemName>
+		<szItemName>7.62x51 Belt M</szItemName>
 		<szLongItemName>7.62x51mm，100发比赛弹(M118L)</szLongItemName>
 		<szItemDesc>因为机枪枪管内膛线缠距与狙击步枪的不同，所以这种M118L狙击弹并不太适合用在机枪上面。</szItemDesc>
 		<szBRName>7.62x51mm Belt M118L</szBRName>
@@ -4122,7 +4122,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>515</uiIndex>
-		<szItemName>7.62x51mm Belt SB</szItemName>
+		<szItemName>7.62x51 Belt SB</szItemName>
 		<szLongItemName>7.62x51mm，100发亚音速弹</szLongItemName>
 		<szItemDesc>一条弹链，里面装有100发非常安静的7.62x51mm亚音速弹。</szItemDesc>
 		<szBRName>7.62x51mm Belt SB</szBRName>
@@ -4130,7 +4130,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>516</uiIndex>
-		<szItemName>7.62x51mm Belt AP</szItemName>
+		<szItemName>7.62x51 Belt AP</szItemName>
 		<szLongItemName>7.62x51mm，100发穿甲弹(M993)</szLongItemName>
 		<szItemDesc>M993是7.62x51mm穿甲弹的美军弹药编号，它能提供不错的穿甲性能。</szItemDesc>
 		<szBRName>7.62x51mm Belt AP</szBRName>
@@ -4370,7 +4370,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>546</uiIndex>
-		<szItemName>.50BMG</szItemName>
+		<szItemName>.50BMG T</szItemName>
 		<szLongItemName>.50 MBG，1发穿甲曳光弹</szLongItemName>
 		<szItemDesc>1发.50 BMG（勃朗宁机枪）穿甲曳光弹，可以用来射击训练、杀伤人员及破坏轻装甲目标。</szItemDesc>
 		<szBRName>.50BMG Snigle</szBRName>
@@ -4386,7 +4386,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>548</uiIndex>
-		<szItemName>.50BMG Mag 5</szItemName>
+		<szItemName>.50BMG Mag 5 T</szItemName>
 		<szLongItemName>.50 MBG，5发穿甲曳光弹</szLongItemName>
 		<szItemDesc>5发.50 BMG（勃朗宁机枪）穿甲曳光弹，可以用来射击训练、杀伤人员及破坏轻装甲目标。</szItemDesc>
 		<szBRName>.50BMG Mag, 5</szBRName>
@@ -4554,7 +4554,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>569</uiIndex>
-		<szItemName>12.7x108mm</szItemName>
+		<szItemName>12.7mm BZT mag 5</szItemName>
 		<szLongItemName>12.7x108mm，5发穿甲曳光弹</szLongItemName>
 		<szItemDesc>苏联/俄罗斯制造的专为大口径机枪和反器材步枪使用的12.7mm口径穿甲曳光弹。</szItemDesc>
 		<szBRName>12.7x108mm BZT Mag, 5</szBRName>
@@ -4562,7 +4562,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>570</uiIndex>
-		<szItemName>12.7x108mm M</szItemName>
+		<szItemName>12.7mm B.30 mag 5</szItemName>
 		<szLongItemName>12.7x108mm，5发B.30狙击弹</szLongItemName>
 		<szItemDesc>5发专门用来进行远距离射击用的12.7x108mm B.30狙击弹。</szItemDesc>
 		<szBRName>12.7x108mm B30 Mag, 5</szBRName>
@@ -4722,7 +4722,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>590</uiIndex>
-		<szItemName>12.3mm Loader</szItemName>
+		<szItemName>12.3mm BS Loader</szItemName>
 		<szLongItemName>12.3x50mm，5发霰弹</szLongItemName>
 		<szItemDesc>这个5发的12.3x50mm霰弹快速装弹器适用于U-94S UDAR大型转轮手枪。</szItemDesc>
 		<szBRName>12.3x50mm BS Loader</szBRName>
@@ -5154,7 +5154,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>644</uiIndex>
-		<szItemName>HP-35</szItemName>
+		<szItemName>HP-35 .40</szItemName>
 		<szLongItemName>Browning HP-35</szLongItemName>
 		<szItemDesc>大名鼎鼎的勃朗宁大威力手枪，在二战中同时为盟军和法西斯两边采用。</szItemDesc>
 		<szBRName>FN Browning HP-35</szBRName>
@@ -5218,7 +5218,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>652</uiIndex>
-		<szItemName>Type 86s</szItemName>
+		<szItemName>Type86s</szItemName>
 		<szLongItemName>86s式半自动步枪</szLongItemName>
 		<szItemDesc>86s半自动步枪是由中国国家武器工厂的一个专用来商业出口的项目，通过中国北方工业公司在20世纪80年代末和90年代面向全球销售。</szItemDesc>
 		<szBRName>NORINCO Type 86s</szBRName>
@@ -5266,7 +5266,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>658</uiIndex>
-		<szItemName>Glock 19</szItemName>
+		<szItemName>Glock19</szItemName>
 		<szLongItemName>格洛克19</szLongItemName>
 		<szItemDesc>比17型更紧凑，19型象所有格洛克9mm手枪一样可靠。</szItemDesc>
 		<szBRName>Glock 19</szBRName>
@@ -5290,7 +5290,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>661</uiIndex>
-		<szItemName>HK 23E</szItemName>
+		<szItemName>HK23E</szItemName>
 		<szLongItemName>HK 23E</szLongItemName>
 		<szItemDesc>HK 23E是5.56mm NATO口径的轻机枪。枪的质量就象黑克勒-科赫被人所期待的那样。</szItemDesc>
 		<szBRName>HK 23E</szBRName>
@@ -5298,7 +5298,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>662</uiIndex>
-		<szItemName>HK416 14"</szItemName>
+		<szItemName>HK416 D14.5RS</szItemName>
 		<szLongItemName>HK416 14" Carbine</szLongItemName>
 		<szItemDesc>HK416结合了G36和M4的所有优点。（14英寸枪管）。</szItemDesc>
 		<szBRName>HK416 14" Carbine</szBRName>
@@ -5362,7 +5362,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>670</uiIndex>
-		<szItemName>MK23 SOCOM</szItemName>
+		<szItemName>MK23 MOD0</szItemName>
 		<szLongItemName>HK Mark 23 SOCOM</szLongItemName>
 		<szItemDesc>这把大手枪满足了美国SOCOM(Special Operations Command/特种作战司令部)的需求。</szItemDesc>
 		<szBRName>HK MK23 SOCOM</szBRName>
@@ -5738,7 +5738,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>717</uiIndex>
-		<szItemName>P226 .40</szItemName>
+		<szItemName>P226R .40</szItemName>
 		<szLongItemName>SIG P226 .40</szLongItemName>
 		<szItemDesc>P226首次出现在1983年，作为美国海豹突击队的标准手枪，这个是P226使用.40 S＆W弹的型号，同时带有战术导轨。</szItemDesc>
 		<szBRName>SIG P226 .40</szBRName>
@@ -5970,7 +5970,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>746</uiIndex>
-		<szItemName>WA 2000</szItemName>
+		<szItemName>WA2000 .300</szItemName>
 		<szLongItemName>Walther WA 2000</szLongItemName>
 		<szItemDesc>有时被叫做狙击步枪里的法拉利，沃尔特WA2000有极好的准确度和威力，可惜的是目前已经停产。</szItemDesc>
 		<szBRName>Walther WA 2000</szBRName>
@@ -6082,7 +6082,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>760</uiIndex>
-		<szItemName>.50 Beo 16</szItemName>
+		<szItemName>.50 Beowulf Rifle</szItemName>
 		<szLongItemName>.50 Beowulf Rifle 16"</szLongItemName>
 		<szItemDesc>亚历山大武器公司出品的.50贝奥武夫步枪令人不禁怀疑这种威力级别的武器是不是拿来对付变种怪物的。</szItemDesc>
 		<szBRName>Alexander .50 Beowulf 16"</szBRName>
@@ -6234,7 +6234,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>779</uiIndex>
-		<szItemName>S＆O Shorty</szItemName>
+		<szItemName>S&amp;O Shorty</szItemName>
 		<szLongItemName>S＆O Shorty</szLongItemName>
 		<szItemDesc>一把看起来充满未来感的直拉枪栓步枪，每次射击都需要手动装弹，不过要注意你扣扳机的手指：把它放在扳机护圈外移动，不要放在扳机上。</szItemDesc>
 		<szBRName>S＆O Shorty</szBRName>
@@ -6322,7 +6322,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>790</uiIndex>
-		<szItemName>DSA58 SPR</szItemName>
+		<szItemName>SA58 SPR</szItemName>
 		<szLongItemName>DSA58 SPR</szLongItemName>
 		<szItemDesc>这种步枪被设计用来参加美国军方的半自动狙击手系统（SASS）选型的。使用21英寸表面刻槽枪管，装备SPR折叠式可调枪托和两脚架。</szItemDesc>
 		<szBRName>DSA58 SPR</szBRName>
@@ -6378,7 +6378,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>797</uiIndex>
-		<szItemName>M1A Vitor</szItemName>
+		<szItemName>M1A Vltor</szItemName>
 		<szLongItemName>M1A in Vitor Stock</szLongItemName>
 		<szItemDesc>换装了Vitor Modstock枪托和高分子材料机匣的M1A Scout步枪。可进行全自动射击。</szItemDesc>
 		<szBRName>M1A in Vitor Stock</szBRName>
@@ -6394,7 +6394,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>799</uiIndex>
-		<szItemName>Galatz</szItemName>
+		<szItemName>GALATz</szItemName>
 		<szLongItemName>加利尔狙击型</szLongItemName>
 		<szItemDesc>加利尔突击步枪的狙击型。比起真正的狙击步枪它更象是精确射击步枪。</szItemDesc>
 		<szBRName>Galil Sniper</szBRName>
@@ -6450,7 +6450,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>806</uiIndex>
-		<szItemName>1P21 Minuta Scope</szItemName>
+		<szItemName>1P21 Minuta</szItemName>
 		<szLongItemName>1P21 Minuta变倍瞄准镜 (3倍)</szLongItemName>
 		<szItemDesc>1P21 (PO 3-9x42M)镜有可变的3-9倍放大功能。1P21基本上是PSO的变倍型。</szItemDesc>
 		<szBRName>1P21 Minuta Scope</szBRName>
@@ -6762,7 +6762,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>845</uiIndex>
-		<szItemName>Lifchick</szItemName>
+		<szItemName>Lifchik</szItemName>
 		<szLongItemName>苏军第二型胸挂</szLongItemName>
 		<szItemDesc>苏联生产的"lifchick"是用于AK步枪的第二代胸挂。它可以携带6个AK弹匣，4枚破片杀伤手榴弹，以及2个手持信号弹。</szItemDesc>
 		<szBRName>Soviet 2nd Pattern Chestrig</szBRName>
@@ -6922,7 +6922,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>865</uiIndex>
-		<szItemName>KSK Vest</szItemName>
+		<szItemName>KSK Desert Vest</szItemName>
 		<szLongItemName>KSK沙漠装具背心</szLongItemName>
 		<szItemDesc>德国KSK特种部队使用的沙漠迷彩SOF突击背心。</szItemDesc>
 		<szBRName>KSK Desert Vest</szBRName>
@@ -7034,7 +7034,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>879</uiIndex>
-		<szItemName>K6-3 Helmet</szItemName>
+		<szItemName>Heavy SWAT Helmet</szItemName>
 		<szLongItemName>K6-3头盔</szLongItemName>
 		<szItemDesc>K6-3重型防弹头盔足以抵挡大部分手枪弹和破片，被俄罗斯Spetsnaz特种部队广泛使用。带有透明的强化玻璃面罩，还整合有对讲机和天线。</szItemDesc>
 		<szBRName>K6-3 Helmet</szBRName>
@@ -7138,7 +7138,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>892</uiIndex>
-		<szItemName>Para Helmet</szItemName>
+		<szItemName>Protec Para</szItemName>
 		<szLongItemName>Pro-Tec伞兵头盔</szLongItemName>
 		<szItemDesc>Pro-Tec制造的轻型防撞伞兵头盔。</szItemDesc>
 		<szBRName>Pro-Tec Para Helmet</szBRName>
@@ -7146,7 +7146,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>893</uiIndex>
-		<szItemName>Camo Pants</szItemName>
+		<szItemName>Camo Trousers</szItemName>
 		<szLongItemName>伪装裤</szLongItemName>
 		<szItemDesc>这种森林迷彩的伪装裤只提供有限的保护，但可以让你在适当的地形中更好的隐蔽更长时间。</szItemDesc>
 		<szBRName>Camo Pants</szBRName>
@@ -7162,7 +7162,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>895</uiIndex>
-		<szItemName>Soviet Flak</szItemName>
+		<szItemName>Zh-86 Flak</szItemName>
 		<szLongItemName>Zh-86防破片夹克</szLongItemName>
 		<szItemDesc>苏军的Zh-86型防破片夹克，两面都装有钛合金、陶瓷装甲和特种钢。正面和背面各有14层防弹板。在阿富汗战争期间设计制造，而在车臣的俄军部队也有使用。</szItemDesc>
 		<szBRName>Zh-86 Flack Jacket</szBRName>
@@ -7170,7 +7170,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>896</uiIndex>
-		<szItemName>VDV Pants</szItemName>
+		<szItemName>VDV Trousers</szItemName>
 		<szLongItemName>VDV伞兵裤</szLongItemName>
 		<szItemDesc>这种俄制伞兵型伪装裤穿着舒适。宽松的剪裁使活动更自由。腹股沟部分的网状结构有利空气流通。由俄罗斯空降军所属的部队穿着。</szItemDesc>
 		<szBRName>VDV Paratrooper Pants</szBRName>
@@ -7186,7 +7186,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>898</uiIndex>
-		<szItemName>BEKAS Pants</szItemName>
+		<szItemName>BEKAS Trousers</szItemName>
 		<szLongItemName>BEKAS迷彩战斗裤</szLongItemName>
 		<szItemDesc>BEKAS迷彩战斗裤是一种供俄罗斯特种部队使用的新型设计，也被其它前苏联加盟共和国的精锐反恐怖部队采用。</szItemDesc>
 		<szBRName>BEKAS Camo BDU Pants</szBRName>
@@ -7242,7 +7242,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>905</uiIndex>
-		<szItemName>AG-C</szItemName>
+		<szItemName>M320 UGLM</szItemName>
 		<szLongItemName>HK AG-C榴弹发射器</szLongItemName>
 		<szItemDesc>AG-C榴弹发射器是用于安装在较现代HK系列步枪上的下挂式榴弹发射器。但是它不适用于短小的G36C。</szItemDesc>
 		<szBRName>HK AG-C Grenade Launcher</szBRName>
@@ -7290,7 +7290,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>911</uiIndex>
-		<szItemName>GP-30 Launcher</szItemName>
+		<szItemName>GP-25 Launcher</szItemName>
 		<szLongItemName>GP-30榴弹发射器（内置）</szLongItemName>
 		<szItemDesc>在Groza（雷电）上集成的40mm GP-30发射器。GP - 30可发射40mmVOG - 25和VOG - 25P榴弹。</szItemDesc>
 		<szBRName>GP-30 Grenade Launcher (Built-in)</szBRName>
@@ -7346,7 +7346,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>918</uiIndex>
-		<szItemName>RPO-A</szItemName>
+		<szItemName>RPO-M</szItemName>
 		<szLongItemName>RPO-A</szLongItemName>
 		<szItemDesc>毫不加夸张地说，这个宝贝可以瞬间让一个泳池派对变成烧烤派对。</szItemDesc>
 		<szBRName>RPO-A</szBRName>
@@ -7586,7 +7586,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>948</uiIndex>
-		<szItemName>Aimpoint</szItemName>
+		<szItemName>HK AimPoint</szItemName>
 		<szLongItemName>老式激光瞄具</szLongItemName>
 		<szItemDesc>这个老式的激光瞄准仪器重得足以直接当武器用(棍子). 适用于老式HK步枪.</szItemDesc>
 		<szBRName>Aimpoint Projector</szBRName>
@@ -7650,7 +7650,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>956</uiIndex>
-		<szItemName>35mm QLZ87 HE Drum</szItemName>
+		<szItemName>QLZ87 HE Drum</szItemName>
 		<szLongItemName>QLZ87 35mm 15发，高爆弹</szLongItemName>
 		<szItemDesc>中国制造的QLZ87榴弹发射器的弹药。15发榴弹弹鼓装满了高爆破片榴弹。发射后有短暂的延迟。</szItemDesc>
 		<szBRName>QLZ87 35mm HE Drum</szBRName>
@@ -7706,7 +7706,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>963</uiIndex>
-		<szItemName>40mm Illuminant</szItemName>
+		<szItemName>40mm ILL</szItemName>
 		<szLongItemName>40mm照明弹</szLongItemName>
 		<szItemDesc>40mm榴弹发射器的照明弹，照明时间和效果高于普通的发光棒。</szItemDesc>
 		<szBRName>40mm Illuminant</szBRName>
@@ -7770,7 +7770,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>971</uiIndex>
-		<szItemName>43mm HE</szItemName>
+		<szItemName>VGM93.100</szItemName>
 		<szLongItemName>43mm，4发高爆榴弹</szLongItemName>
 		<szItemDesc>GM-94榴弹发射器用高爆榴弹。</szItemDesc>
 		<szBRName>43mm，4发高爆榴弹</szBRName>
@@ -7786,7 +7786,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>973</uiIndex>
-		<szItemName>43mm Smoke</szItemName>
+		<szItemName>VGM93.300</szItemName>
 		<szLongItemName>43mm，4发烟雾榴弹</szLongItemName>
 		<szItemDesc>GM-94榴弹发射器用烟幕弹。当你在交火时需要掩护的时候会用到它的。</szItemDesc>
 		<szBRName>43mm，4发烟雾榴弹</szBRName>
@@ -7794,7 +7794,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>974</uiIndex>
-		<szItemName>43mm Stun</szItemName>
+		<szItemName>VGM93.600</szItemName>
 		<szLongItemName>43mm，4发眩晕榴弹</szLongItemName>
 		<szItemDesc>4发GM-94榴弹发射器用眩晕弹。</szItemDesc>
 		<szBRName>43mm，4发眩晕榴弹</szBRName>
@@ -7802,7 +7802,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>975</uiIndex>
-		<szItemName>43mm Tear Gas</szItemName>
+		<szItemName>VGM93.200</szItemName>
 		<szLongItemName>43mm，4发催泪榴弹</szLongItemName>
 		<szItemDesc>对准你的目标丢过去，让它们涕泪横流四肢无力。</szItemDesc>
 		<szBRName>43mm，4发催泪榴弹</szBRName>
@@ -7810,7 +7810,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>976</uiIndex>
-		<szItemName>Frag Rocket</szItemName>
+		<szItemName>OG-7V Rocket</szItemName>
 		<szLongItemName>OG-7V杀伤火箭弹</szLongItemName>
 		<szItemDesc>扫清一大片敌人的最佳选择。</szItemDesc>
 		<szBRName>Fragmentation Rocket</szBRName>
@@ -7818,7 +7818,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>977</uiIndex>
-		<szItemName>HEAT Rocket</szItemName>
+		<szItemName>PG-7VM Rocket</szItemName>
 		<szLongItemName>PG-7VM高爆破甲火箭弹</szLongItemName>
 		<szItemDesc>用它对付坦克就像用开罐器开罐头一样轻松。</szItemDesc>
 		<szBRName>HEAT Rocket</szBRName>
@@ -7826,7 +7826,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>978</uiIndex>
-		<szItemName>Thermo Rocket</szItemName>
+		<szItemName>TBG-7V Rocket</szItemName>
 		<szLongItemName>TBG-7V温压火箭弹</szLongItemName>
 		<szItemDesc>令你的敌人毫无疑问的消失。</szItemDesc>
 		<szBRName>Thermobaric Rocket</szBRName>
@@ -8482,7 +8482,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1060</uiIndex>
-		<szItemName>SIG MP41</szItemName>
+		<szItemName>SIG MP41/44</szItemName>
 		<szLongItemName>SIG MP41</szLongItemName>
 		<szItemDesc>老式但是坚固耐用的瑞士产品。</szItemDesc>
 		<szBRName>SIG MP41</szBRName>
@@ -8546,7 +8546,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1068</uiIndex>
-		<szItemName>S＆W M＆P 45</szItemName>
+		<szItemName>S&amp;W M&amp;P 45</szItemName>
 		<szLongItemName>S＆W M＆P 45</szLongItemName>
 		<szItemDesc>史密斯-韦森公司"Military and Police"系列手枪的最新型号，是M＆P 40的一个优秀的改进型。</szItemDesc>
 		<szBRName>S＆W M＆P 45</szBRName>
@@ -8618,7 +8618,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1077</uiIndex>
-		<szItemName>L96A1</szItemName>
+		<szItemName>L118A1</szItemName>
 		<szLongItemName>L96A1 (AI AW)</szLongItemName>
 		<szItemDesc>精密国际公司的Arctic Warfare (AI AW 7.62) 7.62x51mm狙击步枪。英国军队采用了这种武器的改进型，并命名为L96A1。</szItemDesc>
 		<szBRName>L96A1</szBRName>
@@ -8642,7 +8642,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1080</uiIndex>
-		<szItemName>Gren.P.</szItemName>
+		<szItemName>Grenade Panel</szItemName>
 		<szLongItemName>手榴弹腿袋</szLongItemName>
 		<szItemDesc>带有4个独立的口袋，可以携带4枚无柄手榴弹。</szItemDesc>
 		<szBRName>Grenade Panel</szBRName>
@@ -8858,7 +8858,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1107</uiIndex>
-		<szItemName>Type85 Silencer</szItemName>
+		<szItemName>Type85 Silenced</szItemName>
 		<szLongItemName>85式微声冲锋枪</szLongItemName>
 		<szItemDesc>中国85式冲锋枪的消声型，简称85式微冲，具有整体式消声器和可折叠枪托。</szItemDesc>
 		<szBRName>Type 85 Silencer SMG</szBRName>
@@ -8882,7 +8882,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1110</uiIndex>
-		<szItemName>Type 81-1</szItemName>
+		<szItemName>Type81-1</szItemName>
 		<szLongItemName>81-1式自动步枪</szLongItemName>
 		<szItemDesc>中国突击步枪，56式和63式的结合体。火力强大，可靠性高。</szItemDesc>
 		<szBRName>Type 81-1</szBRName>
@@ -8890,7 +8890,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1111</uiIndex>
-		<szItemName>Type 81 LMG</szItemName>
+		<szItemName>Type81 LMG</szItemName>
 		<szLongItemName>81式班用轻机枪</szLongItemName>
 		<szItemDesc>简称“81班机”，这款机枪是中国81式枪族的组成之一。81式轻机枪延长了后坐距离，使它比RPK更容易控制。</szItemDesc>
 		<szBRName>Type 81 LMG</szBRName>
@@ -8962,7 +8962,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1120</uiIndex>
-		<szItemName>Norinco M99</szItemName>
+		<szItemName>M99 AMR</szItemName>
 		<szLongItemName>Norinco M99</szLongItemName>
 		<szItemDesc>M99是一款北方工业制造的12.7mm口径狙击步枪。它的高精准性是由于采用了Stoner设计的直吹式系统。</szItemDesc>
 		<szBRName>Norinco M99</szBRName>
@@ -9298,7 +9298,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1162</uiIndex>
-		<szItemName>AC-556 EBR</szItemName>
+		<szItemName>AC-556K EBR</szItemName>
 		<szLongItemName>AC-556 EBR</szLongItemName>
 		<szItemDesc>配备塞奇公司EBR枪托的AC-556。</szItemDesc>
 		<szBRName>AC-556 EBR</szBRName>
@@ -9538,7 +9538,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1192</uiIndex>
-		<szItemName>S＆W M29</szItemName>
+		<szItemName>S&amp;W M29</szItemName>
 		<szLongItemName>S＆W Model 29 6-1/2 inch</szLongItemName>
 		<szItemDesc>辣手神探之枪! Smith and Wesson 型29是一款6发转轮手枪，使用.44 Magnum子弹。</szItemDesc>
 		<szBRName>S＆W Model 29 6-1/2 inch</szBRName>
@@ -9562,7 +9562,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1195</uiIndex>
-		<szItemName>Mk13 EGLM</szItemName>
+		<szItemName>FN EGLM</szItemName>
 		<szLongItemName>FNH Mk13增强榴弹模块 (内置)</szLongItemName>
 		<szItemDesc>Mk13 EGLM(Enhanced Grenade Launcher Module/增强榴弹发射器模组)由FNH美国分公司制造， 可装于SCAR系列步枪。</szItemDesc>
 		<szBRName>FNH Mk13 E.G.L.M.</szBRName>
@@ -9570,7 +9570,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1196</uiIndex>
-		<szItemName>Mk13 EGLM Alone</szItemName>
+		<szItemName>Mk13 Stand-alone</szItemName>
 		<szLongItemName>FNH Mk13独立榴弹模块</szLongItemName>
 		<szItemDesc>单独使用的Mk13增强榴弹发射器。 这款武器结合了红外激光测距/瞄准的火控系统，可发射至600米。</szItemDesc>
 		<szBRName>FNH Mk13 E.G.L.M. Alone</szBRName>
@@ -9730,7 +9730,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1216</uiIndex>
-		<szItemName>HK416 10"</szItemName>
+		<szItemName>HK416 D10RS</szItemName>
 		<szLongItemName>HK416 10"短枪管步枪</szLongItemName>
 		<szItemDesc>HK416的缩短型，安装了10.4英寸的枪管。</szItemDesc>
 		<szBRName>HK416 10" SBR</szBRName>
@@ -9738,7 +9738,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1217</uiIndex>
-		<szItemName>HK417 Carbine</szItemName>
+		<szItemName>HK417 SBR</szItemName>
 		<szLongItemName>HK417 12"卡宾枪</szLongItemName>
 		<szItemDesc>HK公司发射7.62x51mm北约弹的新式步枪，设计基于HK416，使用G3步枪的20发轻型铝制或钢制弹匣。这个型号安装了12英寸的卡宾枪型枪管。</szItemDesc>
 		<szBRName>HK417 12" Carbine</szBRName>
@@ -9762,7 +9762,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1220</uiIndex>
-		<szItemName>SIG P226 NAVY</szItemName>
+		<szItemName>Mk25 MOD0</szItemName>
 		<szLongItemName>SIG SAUER P226 海军型</szLongItemName>
 		<szItemDesc>一款专门为海豹定制的手枪，加强了防腐处理，通常使用20发加长弹匣。</szItemDesc>
 		<szBRName>SIG SAUER P226 海军</szBRName>
@@ -9866,7 +9866,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1233</uiIndex>
-		<szItemName>Bitch</szItemName>
+		<szItemName>the Bitch</szItemName>
 		<szLongItemName>L2A1 "Bitch"</szLongItemName>
 		<szItemDesc>在越战中许多澳大利亚的SASR特战队员使用这款步枪。它是用L2A1步枪自行改造的，绰号“泼妇”，短小精悍，能全自动射击，通常还会安装一具XM148 40mm榴弹发射器。</szItemDesc>
 		<szBRName>FAL L2A1 "Bitch"</szBRName>
@@ -9882,7 +9882,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1235</uiIndex>
-		<szItemName>Mk48 Mod0</szItemName>
+		<szItemName>Mk48 Mod1</szItemName>
 		<szLongItemName>Mk.48 Mod 0</szLongItemName>
 		<szItemDesc>这款特种部队的火力支援武器是种分量不怎么轻的轻机枪，但可以让你轻易的撂倒敌人。附带一个两脚架。</szItemDesc>
 		<szBRName>Mk.48 Mod 0</szBRName>
@@ -9914,7 +9914,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1239</uiIndex>
-		<szItemName>Glock 33</szItemName>
+		<szItemName>Glock33</szItemName>
 		<szLongItemName>格洛克33</szLongItemName>
 		<szItemDesc>使用.357 SIG弹的袖珍手枪。带加量底座的弹匣使得它的容弹量和同口径的全尺寸手枪相当。</szItemDesc>
 		<szBRName>Glock 33</szBRName>
@@ -9994,7 +9994,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1249</uiIndex>
-		<szItemName>CTAR</szItemName>
+		<szItemName>CTAR-21</szItemName>
 		<szLongItemName>Tavor CTAR</szLongItemName>
 		<szItemDesc>这款新型的以色列高技术突击步枪会让你吃惊的眼珠子都瞪出来。它是枪族中的突击队员型，空枪重量仅2.5公斤，装备了ITL的多用途反射式瞄准镜。</szItemDesc>
 		<szBRName>Tavor CTAR</szBRName>
@@ -10370,7 +10370,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1296</uiIndex>
-		<szItemName>Luger P08</szItemName>
+		<szItemName>Luger P-08</szItemName>
 		<szLongItemName>卢格P08</szLongItemName>
 		<szItemDesc>二战中的德国经典手枪，它是如此的迷人，以至于美国大兵们甘愿冒生命危险来得到它。这支枪的人体工程学设计和准确性都堪称完美。</szItemDesc>
 		<szBRName>Luger P08</szBRName>
@@ -10426,7 +10426,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1303</uiIndex>
-		<szItemName>Nen Shiki Kikanju</szItemName>
+		<szItemName>11-Shiki</szItemName>
 		<szLongItemName>大正11年式机枪</szLongItemName>
 		<szItemDesc>大正11年式机枪被日本军队在二战期间广泛使用。它采用了固定漏斗漏斗式供弹具，可容纳6个38式步枪的5发桥夹。理论上很可靠很方便迅速。</szItemDesc>
 		<szBRName>Type11 Nen Shiki Kikanju</szBRName>
@@ -10522,7 +10522,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1315</uiIndex>
-		<szItemName>S＆W M627</szItemName>
+		<szItemName>S&amp;W M627</szItemName>
 		<szLongItemName>S＆W M627</szLongItemName>
 		<szItemDesc>S＆W M627手枪装8发.357马格南弹。</szItemDesc>
 		<szBRName>S＆W Model 627</szBRName>
@@ -10666,7 +10666,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1333</uiIndex>
-		<szItemName>Glock 18</szItemName>
+		<szItemName>Glock18</szItemName>
 		<szLongItemName>格洛克18突击型</szLongItemName>
 		<szItemDesc>这把格洛克18安装了枪托，提高全自动射击和瞄准时的的准确性，配用加大容量的弹匣以保证长时间射击。</szItemDesc>
 		<szBRName>Glock 18 Assault Pistol</szBRName>
@@ -10898,7 +10898,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1362</uiIndex>
-		<szItemName>S＆W M＆P40</szItemName>
+		<szItemName>S&amp;W M&amp;P40</szItemName>
 		<szLongItemName>S＆W P40</szLongItemName>
 		<szItemDesc>美国著名的史密斯-威森公司推出的最新款军警手枪。</szItemDesc>
 		<szBRName>S＆W M＆P40</szBRName>
@@ -11034,7 +11034,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1379</uiIndex>
-		<szItemName>HK416 16"</szItemName>
+		<szItemName>HK416 D16.5RS</szItemName>
 		<szLongItemName>HK416 16"卡宾枪</szLongItemName>
 		<szItemDesc>。</szItemDesc>
 		<szBRName>HK416 16" Carbine</szBRName>
@@ -11042,7 +11042,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1380</uiIndex>
-		<szItemName>HK416 20"</szItemName>
+		<szItemName>HK416 D20RS</szItemName>
 		<szLongItemName>HK416 20"神枪手步枪</szLongItemName>
 		<szItemDesc>为HK416步枪换装了20英寸比赛级枪管并配上了两脚架提供给神枪手使用。</szItemDesc>
 		<szBRName>HK416 20" Sharpshooter</szBRName>
@@ -11130,7 +11130,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1391</uiIndex>
-		<szItemName>M14 JAE-100</szItemName>
+		<szItemName>M14 JAE</szItemName>
 		<szLongItemName>M14 JAE-100</szLongItemName>
 		<szItemDesc>为24英寸枪管的M14配装了JAE-100战术枪托。</szItemDesc>
 		<szBRName>M14 JAE-100</szBRName>
@@ -11138,7 +11138,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1392</uiIndex>
-		<szItemName>M1A JAE-100</szItemName>
+		<szItemName>M1A JAE</szItemName>
 		<szLongItemName>M1A JAE-100</szLongItemName>
 		<szItemDesc>为16英寸枪管的M14配装了JAE-100战术枪托。</szItemDesc>
 		<szBRName>M1A Scout JAE-100</szBRName>
@@ -11146,7 +11146,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1393</uiIndex>
-		<szItemName>PDR 6mm</szItemName>
+		<szItemName>Magpul PDR-D</szItemName>
 		<szLongItemName>Magpul PDR 6mm</szLongItemName>
 		<szItemDesc>猫扑公司（Magpul）个人防卫步枪“PDR”是提供给战斗人员的尺寸紧凑，重量很轻的6mm口径的个人防卫武器。</szItemDesc>
 		<szBRName>Magpul PDR 6mm</szBRName>
@@ -11378,7 +11378,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1422</uiIndex>
-		<szItemName>7.62x54R Mag 25</szItemName>
+		<szItemName>7.62x54R Mag 15</szItemName>
 		<szLongItemName>7.62x54mmR，25发普通弹</szLongItemName>
 		<szItemDesc>这25发7.62x54mmR普通弹在远距离上也能提供很好的穿透力，可以使用在你收集的7.62x54R口径的武器上面。</szItemDesc>
 		<szBRName>7.62x54R Hi-Mag 25</szBRName>
@@ -11386,7 +11386,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1423</uiIndex>
-		<szItemName>7.62x54R Mag 25 M</szItemName>
+		<szItemName>7.62x54R Mag 15 M</szItemName>
 		<szLongItemName>7.62x54mmR，25发比赛弹(7N13)</szLongItemName>
 		<szItemDesc>虽然7N13狙击弹是一种专门注重狙击时精度的弹药，但它13克重的弹头却能够击穿大多数的防弹衣。</szItemDesc>
 		<szBRName>7.62x54R Mag 25 Match</szBRName>
@@ -11394,7 +11394,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1424</uiIndex>
-		<szItemName>7.62x54R Mag 25 T</szItemName>
+		<szItemName>7.62x54R Mag 15 T</szItemName>
 		<szLongItemName>7.62x54mmR，25发曳光弹</szLongItemName>
 		<szItemDesc>测距或是指示目标，25发装7.62x54mmR曳光弹弹匣帮你轻松搞定。还能帮助你在点射或者扫射时更准确的击中目标。</szItemDesc>
 		<szBRName>7.62x54R 25 Tracer</szBRName>
@@ -11426,7 +11426,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1428</uiIndex>
-		<szItemName>7.62x54R Box</szItemName>
+		<szItemName>7.62x54R Belt</szItemName>
 		<szLongItemName>7.62x54mmR，100发普通弹</szLongItemName>
 		<szItemDesc>装在铁皮弹箱内的一条100发7.62x54mmR全被甲弹弹链。</szItemDesc>
 		<szBRName>7.62x54R Belt</szBRName>
@@ -11434,7 +11434,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1429</uiIndex>
-		<szItemName>7.62x54R Box M</szItemName>
+		<szItemName>7.62x54R Belt M</szItemName>
 		<szLongItemName>7.62x54mmR，100发比赛弹(7N13)</szLongItemName>
 		<szItemDesc>虽然7N13狙击弹是一种专门注重狙击时精度的弹药，但它13克重的弹头却能够击穿大多数的防弹衣。</szItemDesc>
 		<szBRName>7.62x54R Belt Match</szBRName>
@@ -11442,7 +11442,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1430</uiIndex>
-		<szItemName>7.62x54R Box T</szItemName>
+		<szItemName>7.62x54R Belt T</szItemName>
 		<szLongItemName>7.62x54mmR，100发曳光弹</szLongItemName>
 		<szItemDesc>7.62x54mmR曳光弹能帮助你提高点射精度。</szItemDesc>
 		<szBRName>7.62x54R Belt Tracer</szBRName>
@@ -11458,7 +11458,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1432</uiIndex>
-		<szItemName>.44 S-Load M</szItemName>
+		<szItemName>.44 S-Load</szItemName>
 		<szLongItemName>.44，6发比赛弹</szLongItemName>
 		<szItemDesc>6发比赛级.44马格努姆半被甲软头弹。</szItemDesc>
 		<szBRName>.44 S-Load Match</szBRName>
@@ -11474,7 +11474,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1434</uiIndex>
-		<szItemName>.44 Mag M</szItemName>
+		<szItemName>.44 Mag</szItemName>
 		<szLongItemName>.44，8发比赛弹</szLongItemName>
 		<szItemDesc>这个装有8发比赛级.44马格努姆半被甲软头弹的弹匣是专门为你的沙漠之鹰准备的。</szItemDesc>
 		<szBRName>.44 Mag Match</szBRName>
@@ -11602,7 +11602,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1450</uiIndex>
-		<szItemName>9mm MS Mag</szItemName>
+		<szItemName>9mm MS P</szItemName>
 		<szLongItemName>9mm金属风暴，32发</szLongItemName>
 		<szItemDesc>将6根9mm口径的枪管堆叠成一捆，36发子弹均匀分布在里面。Metal Storm以最轻的重量实现了非常可靠的电子方式击发众多弹药。此弹药由机器装填并发射。</szItemDesc>
 		<szBRName>9mm Metal Storm Pistol Mag</szBRName>
@@ -12130,7 +12130,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1516</uiIndex>
-		<szItemName>5.6mm Flechette</szItemName>
+		<szItemName>5.6mm SCF Mag</szItemName>
 		<szLongItemName>5.6x45mm，24发箭形弹</szLongItemName>
 		<szItemDesc>Styer ACR使用的24发5.6x45mm箭形弹。</szItemDesc>
 		<szBRName>5.6mm Fleschette</szBRName>
@@ -12226,7 +12226,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1528</uiIndex>
-		<szItemName>.30-06 Mag 25</szItemName>
+		<szItemName>.30-06 Clip 25</szItemName>
 		<szLongItemName>.30-06，25发普通弹</szLongItemName>
 		<szItemDesc>M1918 BAR使用的25发.30-06普通弹。</szItemDesc>
 		<szBRName>M1918 BAR Magazine</szBRName>
@@ -12234,7 +12234,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1529</uiIndex>
-		<szItemName>.30-06 Mag 25 M</szItemName>
+		<szItemName>.30-06 Clip 25 M</szItemName>
 		<szLongItemName>.30-06，25发比赛弹</szLongItemName>
 		<szItemDesc>25发.30-06比赛弹。</szItemDesc>
 		<szBRName>M1918 BAR Magazine Match</szBRName>
@@ -12337,20 +12337,20 @@
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 	</ITEM>
 	<ITEM>
-		<uiIndex>1543</uiIndex>
-		<szItemName>工兵铲</szItemName>
-		<szLongItemName>工兵铲</szLongItemName>
-		<szItemDesc>完美的自掘坟墓工具、拍人头（然后挖自己的坟墓），或者建设临时防御工事。</szItemDesc>
-		<szBRName>Shovel</szBRName>
-		<szBRDesc>Not for sale through BR.</szBRDesc>
-	</ITEM>
-	<ITEM>
 		<uiIndex>1542</uiIndex>
 		<szItemName>铁丝网</szItemName>
 		<szLongItemName>铁丝网</szLongItemName>
 		<szItemDesc>拉网时小心别划伤手脚或割烂蛋蛋了。</szItemDesc>
 		<szBRName>铁丝网</szBRName>
 		<szBRDesc>巩固你的防线，但小心割烂你的迷彩服。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>1543</uiIndex>
+		<szItemName>工兵铲</szItemName>
+		<szLongItemName>工兵铲</szLongItemName>
+		<szItemDesc>完美的自掘坟墓工具、拍人头（然后挖自己的坟墓），或者建设临时防御工事。</szItemDesc>
+		<szBRName>Shovel</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1544</uiIndex>
@@ -12496,7 +12496,7 @@
 		<szBRName>French toast</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 	</ITEM>
-  <ITEM>
+	<ITEM>
 		<uiIndex>1562</uiIndex>
 		<szItemName>薄饼</szItemName>
 		<szLongItemName>薄饼</szLongItemName>
@@ -12535,7 +12535,7 @@
 		<szItemDesc>是中国人都来吃啊</szItemDesc>
 		<szBRName>Bloodcat meat</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
-	</ITEM>	
+	</ITEM>
 	<ITEM>
 		<uiIndex>1567</uiIndex>
 		<szItemName>面包</szItemName>
@@ -12672,9 +12672,8 @@
 		<szBRName>Bag of rice</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 	</ITEM>
-	<!-- 编辑地图时用的定向雷-->
 	<ITEM>
-		<uiIndex>1584</uiIndex><!-->NORTHEAST DIRECTION (map editor only)-->
+		<uiIndex>1584</uiIndex>
 		<szItemName>M18 Claymore</szItemName>
 		<szLongItemName>M18 Claymore</szLongItemName>
 		<szItemDesc>The M18 Claymore directional mine can be triggered by a remote detonator, by a tripwire or simply be used as a mine. 700 steel balls will be fired in a 60 degree arc, maximum height of 2 m. Tip: Front towards enemy.</szItemDesc>
@@ -12682,7 +12681,7 @@
 		<szBRDesc>Lay ambushes with networks of tripwire and these babies. Can also be activated remotely. We accept no responsibility for casulties due to setting it up in the wrong way.</szBRDesc>
 	</ITEM>
 	<ITEM>
-		<uiIndex>1585</uiIndex><!-->EAST DIRECTION (map editor only)-->
+		<uiIndex>1585</uiIndex>
 		<szItemName>M18 Claymore</szItemName>
 		<szLongItemName>M18 Claymore</szLongItemName>
 		<szItemDesc>The M18 Claymore directional mine can be triggered by a remote detonator, by a tripwire or simply be used as a mine. 700 steel balls will be fired in a 60 degree arc, maximum height of 2 m. Tip: Front towards enemy.</szItemDesc>
@@ -12690,7 +12689,7 @@
 		<szBRDesc>Lay ambushes with networks of tripwire and these babies. Can also be activated remotely. We accept no responsibility for casulties due to setting it up in the wrong way.</szBRDesc>
 	</ITEM>
 	<ITEM>
-		<uiIndex>1586</uiIndex><!-->SOUTHEAST DIRECTION (map editor only)-->
+		<uiIndex>1586</uiIndex>
 		<szItemName>M18 Claymore</szItemName>
 		<szLongItemName>M18 Claymore</szLongItemName>
 		<szItemDesc>The M18 Claymore directional mine can be triggered by a remote detonator, by a tripwire or simply be used as a mine. 700 steel balls will be fired in a 60 degree arc, maximum height of 2 m. Tip: Front towards enemy.</szItemDesc>
@@ -12698,7 +12697,7 @@
 		<szBRDesc>Lay ambushes with networks of tripwire and these babies. Can also be activated remotely. We accept no responsibility for casulties due to setting it up in the wrong way.</szBRDesc>
 	</ITEM>
 	<ITEM>
-		<uiIndex>1587</uiIndex><!-->SOUTH DIRECTION (map editor only)-->
+		<uiIndex>1587</uiIndex>
 		<szItemName>M18 Claymore</szItemName>
 		<szLongItemName>M18 Claymore</szLongItemName>
 		<szItemDesc>The M18 Claymore directional mine can be triggered by a remote detonator, by a tripwire or simply be used as a mine. 700 steel balls will be fired in a 60 degree arc, maximum height of 2 m. Tip: Front towards enemy.</szItemDesc>
@@ -12706,7 +12705,7 @@
 		<szBRDesc>Lay ambushes with networks of tripwire and these babies. Can also be activated remotely. We accept no responsibility for casulties due to setting it up in the wrong way.</szBRDesc>
 	</ITEM>
 	<ITEM>
-		<uiIndex>1588</uiIndex><!-->SOUTHWEST DIRECTION (map editor only)-->
+		<uiIndex>1588</uiIndex>
 		<szItemName>M18 Claymore</szItemName>
 		<szLongItemName>M18 Claymore</szLongItemName>
 		<szItemDesc>The M18 Claymore directional mine can be triggered by a remote detonator, by a tripwire or simply be used as a mine. 700 steel balls will be fired in a 60 degree arc, maximum height of 2 m. Tip: Front towards enemy.</szItemDesc>
@@ -12714,7 +12713,7 @@
 		<szBRDesc>Lay ambushes with networks of tripwire and these babies. Can also be activated remotely. We accept no responsibility for casulties due to setting it up in the wrong way.</szBRDesc>
 	</ITEM>
 	<ITEM>
-		<uiIndex>1589</uiIndex><!-->WEST DIRECTION (map editor only)-->
+		<uiIndex>1589</uiIndex>
 		<szItemName>M18 Claymore</szItemName>
 		<szLongItemName>M18 Claymore</szLongItemName>
 		<szItemDesc>The M18 Claymore directional mine can be triggered by a remote detonator, by a tripwire or simply be used as a mine. 700 steel balls will be fired in a 60 degree arc, maximum height of 2 m. Tip: Front towards enemy.</szItemDesc>
@@ -12722,14 +12721,13 @@
 		<szBRDesc>Lay ambushes with networks of tripwire and these babies. Can also be activated remotely. We accept no responsibility for casulties due to setting it up in the wrong way.</szBRDesc>
 	</ITEM>
 	<ITEM>
-		<uiIndex>1590</uiIndex><!-->NORTHWEST DIRECTION (map editor only)-->
+		<uiIndex>1590</uiIndex>
 		<szItemName>M18 Claymore</szItemName>
 		<szLongItemName>M18 Claymore</szLongItemName>
 		<szItemDesc>The M18 Claymore directional mine can be triggered by a remote detonator, by a tripwire or simply be used as a mine. 700 steel balls will be fired in a 60 degree arc, maximum height of 2 m. Tip: Front towards enemy.</szItemDesc>
 		<szBRName>M18 Claymore</szBRName>
 		<szBRDesc>Lay ambushes with networks of tripwire and these babies. Can also be activated remotely. We accept no responsibility for casulties due to setting it up in the wrong way.</szBRDesc>
 	</ITEM>
-	<!-- 编辑地图时用的绊索-->
 	<ITEM>
 		<uiIndex>1591</uiIndex>
 		<szItemName>Tripwire</szItemName>
@@ -13068,7 +13066,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1633</uiIndex>
-		<szItemName>Nada</szItemName>
+		<szItemName>Hedge Trimmer</szItemName>
 		<szLongItemName>看到这玩意儿之时即是游戏崩溃之时……</szLongItemName>
 		<szItemDesc>看到这玩意儿之时即是游戏崩溃之时……</szItemDesc>
 		<szBRName>Using this slot will cause the game to crash.</szBRName>
@@ -13140,7 +13138,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1642</uiIndex>
-		<szItemName>PN 30mm HE</szItemName>
+		<szItemName>M40 30mm HE</szItemName>
 		<szLongItemName>PN 30mm M40高爆弹</szLongItemName>
 		<szItemDesc>PN 30mm榴弹发射器最常见的弹药是这种红色塑料标识的M40高爆破片弹。</szItemDesc>
 		<szBRName>PN 30mm M40 HE</szBRName>
@@ -13268,26 +13266,23 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1658</uiIndex>
-		<szItemName>3rds 40mm HE</szItemName>
+		<szItemName>Nada</szItemName>
 		<szLongItemName>40mm高爆榴弹，3发</szLongItemName>
 		<szItemDesc>。</szItemDesc>
-		<szBRName></szBRName>
 		<szBRDesc>。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1659</uiIndex>
-		<szItemName>QLB-06 HE Drum</szItemName>
+		<szItemName>Nada</szItemName>
 		<szLongItemName>QLB-06 35mm高爆榴弹弹鼓</szLongItemName>
 		<szItemDesc>。</szItemDesc>
-		<szBRName></szBRName>
 		<szBRDesc>。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1660</uiIndex>
-		<szItemName>Foregrip</szItemName>
+		<szItemName>Nada</szItemName>
 		<szLongItemName>DIY前握把</szLongItemName>
 		<szItemDesc>。</szItemDesc>
-		<szBRName></szBRName>
 		<szBRDesc>。</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -13468,7 +13463,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1683</uiIndex>
-		<szItemName>DogLegs</szItemName>
+		<szItemName>Kukri</szItemName>
 		<szLongItemName>库尔喀弯刀</szLongItemName>
 		<szItemDesc>冷钢公司的喀尔克弯刀，也常被称做库尔喀刀，是尼泊尔国喀尔克战士手中无坚不摧的军刀。</szItemDesc>
 		<szBRName>DogLegs</szBRName>
@@ -13780,7 +13775,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1722</uiIndex>
-		<szItemName>IBCH Helmet</szItemName>
+		<szItemName>IBH Helmet</szItemName>
 		<szLongItemName>综合通信头盔</szLongItemName>
 		<szItemDesc>可配带通讯装置的头盔，沙漠迷彩表面。配有ANVIS公司的夜视仪和通讯耳机，USAF CCT（美国空军战斗管制队）和海豹部队经常使用。</szItemDesc>
 		<szBRName>Integrated Ballistic Com Helmet</szBRName>
@@ -13788,7 +13783,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1723</uiIndex>
-		<szItemName>IBCH ＆ Extended Ear</szItemName>
+		<szItemName>IBH &amp; Extended Ear</szItemName>
 		<szLongItemName>带耳机的IBCH头盔</szLongItemName>
 		<szItemDesc>轻便的综合通讯头盔，表面涂有迷彩。已经集成了战术助听器和通讯耳机。</szItemDesc>
 		<szBRName>Integrated Ballistic Com Helmet</szBRName>
@@ -13828,7 +13823,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1728</uiIndex>
-		<szItemName>Tiger Bonnie</szItemName>
+		<szItemName>Tiger Boonie</szItemName>
 		<szLongItemName>虎斑奔尼帽</szLongItemName>
 		<szItemDesc>美军越南军事援助司令部-研究及观察组(MACV-SOG)在越战中使用的著名的虎斑奔尼帽。</szItemDesc>
 		<szBRName>Tiger Stripe Bonnie</szBRName>
@@ -13852,7 +13847,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1731</uiIndex>
-		<szItemName>VITYAZ-S Helmet</szItemName>
+		<szItemName>K6-3 Helmet</szItemName>
 		<szLongItemName>VITYAZ-S头盔</szLongItemName>
 		<szItemDesc>俄罗斯特种部队SPETSNAZ所使用的VITYAZ-S钢制头盔，可以提供几乎全方位的保护，但是对视线有些影响。</szItemDesc>
 		<szBRName>VITYAZ-S Helmet</szBRName>
@@ -14052,7 +14047,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1756</uiIndex>
-		<szItemName>SS Cuishs</szItemName>
+		<szItemName>SS Leggings</szItemName>
 		<szLongItemName>风暴战士腿甲</szLongItemName>
 		<szItemDesc>白兵三件套？不，这只是一个玩笑。这件白兵三件套只是一套铁制的体能训练装，戴上头盔，穿上盔甲，多跑几圈，看看是不是强壮了许多。</szItemDesc>
 		<szBRName>Storm Soldier Cuishs</szBRName>
@@ -14148,7 +14143,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1768</uiIndex>
-		<szItemName>France Helmet</szItemName>
+		<szItemName>CGF Gallet</szItemName>
 		<szLongItemName>弗朗西斯科头盔</szLongItemName>
 		<szItemDesc>法国兵用的家伙。</szItemDesc>
 		<szBRName>Franzoesischer Helmet</szBRName>
@@ -14244,7 +14239,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1780</uiIndex>
-		<szItemName>RFVC1 Flak</szItemName>
+		<szItemName>6B5-19 Flak</szItemName>
 		<szLongItemName>RFVC1防弹背心</szLongItemName>
 		<szItemDesc>带有AK弹袋和手榴弹袋的俄罗斯防弹背心。</szItemDesc>
 		<szBRName>RFVC1 Flak Vest</szBRName>
@@ -14452,7 +14447,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1806</uiIndex>
-		<szItemName>S＆B Short Dot</szItemName>
+		<szItemName>S&amp;B Short Dot</szItemName>
 		<szLongItemName>S＆B 1-8x Short Dot (8x)</szLongItemName>
 		<szItemDesc>本德施密特的近战瞄准镜是可变倍数的瞄准镜，填补了反射镜和高倍瞄准镜之间的空隙。</szItemDesc>
 		<szBRName>S＆B 1-8x Short Dot</szBRName>
@@ -14492,7 +14487,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1811</uiIndex>
-		<szItemName>Marksman 4x20</szItemName>
+		<szItemName>Barska 4x20</szItemName>
 		<szLongItemName>射手4倍镜</szLongItemName>
 		<szItemDesc>Combat Military Optics公司的射手系列紧凑型步枪瞄准镜，是为专业的射手开发的精确，可靠，耐久的瞄准镜。</szItemDesc>
 		<szBRName>Marksman 4x Battle Scope</szBRName>
@@ -14548,7 +14543,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1818</uiIndex>
-		<szItemName>1P21 Minuta Scope</szItemName>
+		<szItemName>1P21 Minuta</szItemName>
 		<szLongItemName>1P21 Minuta变倍瞄准镜 (9倍)</szLongItemName>
 		<szItemDesc>1P21 (PO 3-9x42M)镜有可变的3-9倍放大功能。1P21基本上是PSO的变倍型。</szItemDesc>
 		<szBRName>1P21 Minuta Scope</szBRName>
@@ -14612,7 +14607,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1826</uiIndex>
-		<szItemName>ACOG TA-26</szItemName>
+		<szItemName>ACOG TA26</szItemName>
 		<szLongItemName>Trijicon Compact ACOG TA-26</szLongItemName>
 		<szItemDesc>1.5倍的小型瞄准镜，很适合在冲锋枪和短步枪上使用。</szItemDesc>
 		<szBRName>Trijicon ACOG Compact TA-26</szBRName>
@@ -14628,7 +14623,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1828</uiIndex>
-		<szItemName>3X MAG for Red-dot</szItemName>
+		<szItemName>3X MAG</szItemName>
 		<szLongItemName>红点用3倍镜 (不使用)</szLongItemName>
 		<szItemDesc>3倍放大模组是为兼容各种红点镜而设计（Aimpoint, EoTech等）。</szItemDesc>
 		<szBRName>3X MAG for Red-dot</szBRName>
@@ -14660,7 +14655,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1832</uiIndex>
-		<szItemName>Ballistic Computer</szItemName>
+		<szItemName>BTC</szItemName>
 		<szLongItemName>战术弹道计算机</szLongItemName>
 		<szItemDesc>战术弹道计算机包括了激光测距装置， 风、温度和气压感应装置，和内置弹道信息库提供了长程狙击所需任何信息。</szItemDesc>
 		<szBRName>Ballistic Tactical Computer</szBRName>
@@ -14668,7 +14663,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1833</uiIndex>
-		<szItemName>GPS Grip</szItemName>
+		<szItemName>GripPod</szItemName>
 		<szLongItemName>支架握把系统</szLongItemName>
 		<szItemDesc>支架握把可安装现代步枪的皮卡汀尼导轨底部，方便但不如专门的两角架稳定。</szItemDesc>
 		<szBRName>Grip Pod System</szBRName>
@@ -14740,7 +14735,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1842</uiIndex>
-		<szItemName>Huge Silencer</szItemName>
+		<szItemName>Sniper Supp.</szItemName>
 		<szLongItemName>巨型消声器</szLongItemName>
 		<szItemDesc>超大口径的消声器。 消声的代价很沉重，降低杀伤力和精确度，同时增加全枪长度。</szItemDesc>
 		<szBRName>Huge Silencer</szBRName>
@@ -14748,7 +14743,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1843</uiIndex>
-		<szItemName>PBS Silencer</szItemName>
+		<szItemName>AK Supp.</szItemName>
 		<szLongItemName>俄国PBS消声器</szLongItemName>
 		<szItemDesc>PBS用于AK和其他俄国步枪。这款封闭式消声器不需要配亚音速弹， 但前面的橡胶帽会影响射击精度。</szItemDesc>
 		<szBRName>Russian PBS Silencer</szBRName>
@@ -14756,7 +14751,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1844</uiIndex>
-		<szItemName>SG Silencer</szItemName>
+		<szItemName>Shotgun Supp.</szItemName>
 		<szLongItemName>霰弹枪消声器</szLongItemName>
 		<szItemDesc>霰弹枪所用消声器。</szItemDesc>
 		<szBRName>Shotgun Silencer</szBRName>
@@ -14764,7 +14759,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1845</uiIndex>
-		<szItemName>Thermal Optics</szItemName>
+		<szItemName>Thermal Imager</szItemName>
 		<szLongItemName>Raytheon X1热成像系统</szLongItemName>
 		<szItemDesc>手提热成像系统，可看到墙壁后的热源。</szItemDesc>
 		<szBRName>Raytheon X1 Thermal Optics</szBRName>
@@ -14836,7 +14831,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1854</uiIndex>
-		<szItemName>Flip-up BUIS</szItemName>
+		<szItemName>BUIS</szItemName>
 		<szLongItemName>折叠式机械瞄具（使用）</szLongItemName>
 		<szItemDesc>使用红点镜的时候，你可以同时装上这个备用机械瞄具，用红点镜打近，用机械瞄打远。</szItemDesc>
 		<szBRName>Flip-up BUIS</szBRName>
@@ -15190,9 +15185,7 @@
 		<uiIndex>1898</uiIndex>
 		<szItemName>HK416 Barrel</szItemName>
 		<szLongItemName>HK416 16英寸枪管</szLongItemName>
-		<szItemDesc></szItemDesc>
 		<szBRName>HK416 16" Kit</szBRName>
-		<szBRDesc></szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1899</uiIndex>
@@ -15268,7 +15261,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1908</uiIndex>
-		<szItemName>Colt 9mm Upgread Kit</szItemName>
+		<szItemName>Colt 9mm Upgrade Kit</szItemName>
 		<szLongItemName>Colt 9mm升级套件</szLongItemName>
 		<szItemDesc>Colt 9mm冲锋枪的升级套件，将它转换成发射10mm AUTO子弹的冲锋枪。</szItemDesc>
 		<szBRName>Colt 9mm Upgread Kit</szBRName>
@@ -15436,7 +15429,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1929</uiIndex>
-		<szItemName>GO-BAG Pack</szItemName>
+		<szItemName>GO-BAG</szItemName>
 		<szLongItemName>变形金刚走难包</szLongItemName>
 		<szItemDesc>这原本只是个担架包，用于背负美军的折叠式担架用的，但是它在《变形金刚》电影里的表现酷毙了！</szItemDesc>
 		<szBRName>Transformer GO-BAG Pack</szBRName>
@@ -15500,7 +15493,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1937</uiIndex>
-		<szItemName>Multi Purpose Pouch</szItemName>
+		<szItemName>MOLLE SPEAR Pouch</szItemName>
 		<szLongItemName>SPEAR多用途腿袋</szLongItemName>
 		<szItemDesc>一款Spear系统的多用途步枪弹匣包，可以携带3个突击步枪弹匣、1枚手榴弹和1枚大型手榴弹。</szItemDesc>
 		<szBRName>SPEAR Multi Purpose Pouch</szBRName>
@@ -15516,7 +15509,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1939</uiIndex>
-		<szItemName>SPEAR SAW</szItemName>
+		<szItemName>Spear SAW</szItemName>
 		<szLongItemName>SPEAR机枪手背心</szLongItemName>
 		<szItemDesc>这种ELCS装有两个弹链口袋、四个榴弹口袋和一个通用口袋。</szItemDesc>
 		<szBRName>SPEAR ELCS MACHINEGUNNER</szBRName>
@@ -15524,7 +15517,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1940</uiIndex>
-		<szItemName>SPEAR GR</szItemName>
+		<szItemName>Spear Grndr</szItemName>
 		<szLongItemName>SPEAR榴弹手背心</szLongItemName>
 		<szItemDesc>这种ELCS可以携带超过24枚的40mm榴弹，并装有两个三联装步枪弹匣包（每个外表有一个手榴弹口袋和一个多用途榴弹口袋）。</szItemDesc>
 		<szBRName>SPEAR ELCS GRENADER</szBRName>
@@ -15644,7 +15637,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1955</uiIndex>
-		<szItemName>SCAR PDW</szItemName>
+		<szItemName>SCAR-PDW</szItemName>
 		<szLongItemName>FN SCAR PDW</szLongItemName>
 		<szItemDesc>最短的SCAR。</szItemDesc>
 		<szBRName>FN SCAR PDW</szBRName>
@@ -15684,7 +15677,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1960</uiIndex>
-		<szItemName>S＆W 1911 .45 Hi-Cap</szItemName>
+		<szItemName>S&amp;W 1911 .45</szItemName>
 		<szLongItemName>S＆W 1911大弹匣型</szLongItemName>
 		<szItemDesc>使用10发大容量弹匣的史密斯韦森1911手枪。</szItemDesc>
 		<szBRName>Colt High Capacity M1911A1</szBRName>
@@ -15703,7 +15696,6 @@
 		<szItemName>QLB-06</szItemName>
 		<szLongItemName>QLB-06自动榴弹发射器</szLongItemName>
 		<szItemDesc>。</szItemDesc>
-		<szBRName></szBRName>
 		<szBRDesc>。</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -15772,7 +15764,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1971</uiIndex>
-		<szItemName>XCR-H 68 CQC</szItemName>
+		<szItemName>XCR-L 68 CQC</szItemName>
 		<szLongItemName>罗宾逊XCR-H 6.8 CQC</szLongItemName>
 		<szItemDesc>罗宾逊武器公司开发的XCR模块化武器系统(MWS)，是专门设计和开发用来参加USSOCOM SCAR/SOFCAR竞争的。</szItemDesc>
 		<szBRName>Robarms XCR-H 6.8 CQC</szBRName>
@@ -15900,7 +15892,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1987</uiIndex>
-		<szItemName>Mk12 Clone</szItemName>
+		<szItemName>Mk12 SPC</szItemName>
 		<szLongItemName>Mk12 6.8SPC Clone</szLongItemName>
 		<szItemDesc>。</szItemDesc>
 		<szBRName>Mk12 6.8SPC Clone</szBRName>
@@ -15980,7 +15972,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1997</uiIndex>
-		<szItemName>AN-94/GP-30</szItemName>
+		<szItemName>AN-94/GP-25</szItemName>
 		<szLongItemName>AN-94/GP-30组合</szLongItemName>
 		<szItemDesc>在AN-94 Abakan突击步枪上安装了GP-30枪挂榴弹发射器。</szItemDesc>
 		<szBRName>AN-94/GP-30 Combo</szBRName>
@@ -16084,7 +16076,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2010</uiIndex>
-		<szItemName>MTAR</szItemName>
+		<szItemName>MTAR-21</szItemName>
 		<szLongItemName>Tavor MTAR</szLongItemName>
 		<szItemDesc>这支迷你型的TAR就是TAR-21的个人防卫型（PDW），适用于车载人员、炮兵或者保镖。</szItemDesc>
 		<szBRName>Tavor MTAR</szBRName>
@@ -16148,7 +16140,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2018</uiIndex>
-		<szItemName>Glock 22</szItemName>
+		<szItemName>Glock22</szItemName>
 		<szLongItemName>格洛克22</szLongItemName>
 		<szItemDesc>格洛克22型发射威力较大的10mm AUTO弹，而且重量轻、方便携带。</szItemDesc>
 		<szBRName>Glock 22</szBRName>
@@ -16252,7 +16244,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2031</uiIndex>
-		<szItemName>12Ga Drum 20 BS</szItemName>
+		<szItemName>12Ga Drum BS</szItemName>
 		<szLongItemName>12号，20发鹿弹</szLongItemName>
 		<szItemDesc>不论是居家自卫还是做战场先锋，这种弹药都很理想的。</szItemDesc>
 		<szBRName>12Ga Drum 20 Buckshot</szBRName>
@@ -16260,7 +16252,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2032</uiIndex>
-		<szItemName>5.45x39mm Mag AP</szItemName>
+		<szItemName>5.45x39 Mag AP</szItemName>
 		<szLongItemName>5.45x39mm，30发穿甲弹(7N22)</szLongItemName>
 		<szItemDesc>30发7N22穿甲弹，使用U12A型高碳特种钢做为弹芯。锋利的弹芯顶部由机器加工而成，这种几何形状的弹芯确保它能更准确和更有力。</szItemDesc>
 		<szBRName>5.45x39mm Mag, AP</szBRName>
@@ -16284,7 +16276,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2035</uiIndex>
-		<szItemName>5.45mm crate</szItemName>
+		<szItemName>5.45x39 crate</szItemName>
 		<szLongItemName>5.45x39mm，1000发标准弹弹箱(7N6)</szLongItemName>
 		<szItemDesc>这个铁皮弹药箱里有1000发散装的俄罗斯5.45x39mm 7N6（57-N-231S）人员杀伤弹。</szItemDesc>
 		<szBRName>5.45x39 ammo crate</szBRName>
@@ -16292,7 +16284,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2036</uiIndex>
-		<szItemName>5.45mm T crate</szItemName>
+		<szItemName>5.45x39 T crate</szItemName>
 		<szLongItemName>5.45x39mm，1000发曳光弹弹箱(7T3M)</szLongItemName>
 		<szItemDesc>这个铁皮弹药箱里有1000发散装的俄罗斯5.45x39mm 7T3M曳光弹。</szItemDesc>
 		<szBRName>5.45x39 T ammo crate</szBRName>
@@ -16300,7 +16292,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2037</uiIndex>
-		<szItemName>5.45mm SB crate</szItemName>
+		<szItemName>5.45x39 SB crate</szItemName>
 		<szLongItemName>5.45x39mm，1000发亚音速弹弹箱(7U1)</szLongItemName>
 		<szItemDesc>这个铁皮弹药箱里有1000发散装的俄罗斯5.45x39mm 7U1（57-N-231U）亚音速弹。</szItemDesc>
 		<szBRName>5.45x39 SB ammo crate</szBRName>
@@ -16308,7 +16300,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2038</uiIndex>
-		<szItemName>5.45mm HP crate</szItemName>
+		<szItemName>5.45x39 HP crate</szItemName>
 		<szLongItemName>5.45x39mm，1000发空尖弹弹箱</szLongItemName>
 		<szItemDesc>这个铁皮弹药箱里有1000发散装的俄罗斯5.45x39mm空尖弹。</szItemDesc>
 		<szBRName>5.45x39 JHP ammo crate</szBRName>
@@ -16316,7 +16308,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2039</uiIndex>
-		<szItemName>5.45mm AP crate</szItemName>
+		<szItemName>5.45x39 AP crate</szItemName>
 		<szLongItemName>5.45x39mm，1000发穿甲弹弹箱(7N22)</szLongItemName>
 		<szItemDesc>这个铁皮弹药箱里有1000发散装的俄罗斯5.45x39mm 7N22穿甲弹。</szItemDesc>
 		<szBRName>5.45x39 AP ammo crate</szBRName>
@@ -16356,7 +16348,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2044</uiIndex>
-		<szItemName>5.56mm Z crate</szItemName>
+		<szItemName>5.56mm Z box</szItemName>
 		<szLongItemName>5.56x45mm，1000发丧尸弹弹箱</szLongItemName>
 		<szItemDesc>这个铁皮弹药箱里有1000发散装的Hornady公司55格令5.56x45mm Z-Max丧尸弹。</szItemDesc>
 		<szBRName>5.56x45 丧尸弹弹箱</szBRName>
@@ -16404,7 +16396,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2050</uiIndex>
-		<szItemName>7.62NATO Z crate</szItemName>
+		<szItemName>7.62NATO Z box</szItemName>
 		<szLongItemName>7.62x51mm，500发丧尸弹弹箱</szLongItemName>
 		<szItemDesc>这个铁皮弹药箱里有500发散装的7.62x51mm丧尸弹。</szItemDesc>
 		<szBRName>7.62x51丧尸弹弹箱</szBRName>
@@ -16452,7 +16444,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2056</uiIndex>
-		<szItemName>7.62WP Z crate</szItemName>
+		<szItemName>7.62WP Z box</szItemName>
 		<szLongItemName>7.62x39mm，750发丧尸弹弹箱</szLongItemName>
 		<szItemDesc>这个铁皮弹药箱里有750发散装的俄罗斯7.62x39mm丧尸弹。</szItemDesc>
 		<szBRName>7.62x39 JHP丧尸弹弹箱</szBRName>
@@ -16516,7 +16508,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2064</uiIndex>
-		<szItemName>.45 HP crate</szItemName>
+		<szItemName>.45 HP box</szItemName>
 		<szLongItemName>.45，100发空尖弹弹箱</szLongItemName>
 		<szItemDesc>这个纸盒里装有100发.45 ACP口径的空尖弹。</szItemDesc>
 		<szBRName>.45ACP JHP crate</szBRName>
@@ -16612,7 +16604,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2076</uiIndex>
-		<szItemName>9x39mm crate</szItemName>
+		<szItemName>9mm SP-6 crate</szItemName>
 		<szLongItemName>9x39mm，500发亚音速穿甲弹弹箱(SP-6)</szLongItemName>
 		<szItemDesc>这个铁皮弹药箱里有500发散装的9x39mm SP-6亚音速穿甲重弹。</szItemDesc>
 		<szBRName>9x39mm SP-6 crate</szBRName>
@@ -16820,7 +16812,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2102</uiIndex>
-		<szItemName>.50BMG APT crate</szItemName>
+		<szItemName>.50BMG API-T crate</szItemName>
 		<szLongItemName>.50 BMG，200发穿甲曳光弹弹箱</szLongItemName>
 		<szItemDesc>这个铁皮弹药箱里有供重机枪使用的200发散装.50 BMG（勃朗宁机枪）穿甲曳光弹。</szItemDesc>
 		<szBRName>50BMG APT crate</szBRName>
@@ -16836,7 +16828,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2104</uiIndex>
-		<szItemName>12.7mm crate</szItemName>
+		<szItemName>12.7mm BZT crate</szItemName>
 		<szLongItemName>12.7x108mm，200发穿甲曳光弹弹箱</szLongItemName>
 		<szItemDesc>这个铁皮弹药箱里有供重机枪使用的200发散装苏联/俄罗斯12.7x108mm穿甲曳光弹。</szItemDesc>
 		<szBRName>12.7x108mm APT crate</szBRName>
@@ -16844,7 +16836,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2105</uiIndex>
-		<szItemName>12.7mm M box</szItemName>
+		<szItemName>12.7mm B.30 box</szItemName>
 		<szLongItemName>12.7x108mm，25发B.30弹纸盒</szLongItemName>
 		<szItemDesc>这个纸盒包装内装的是专供远距离射击目标使用的25发散装苏联/俄罗斯12.7x108mm B.30狙击弹。</szItemDesc>
 		<szBRName>12.7x108mm M box</szBRName>
@@ -16852,7 +16844,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2106</uiIndex>
-		<szItemName>.40 S＆W box</szItemName>
+		<szItemName>.40 S&amp;W box</szItemName>
 		<szLongItemName>.40 S＆W，200发标准弹纸盒</szLongItemName>
 		<szItemDesc>这个纸盒包装里有200发散装.40 S＆W全被甲弹。</szItemDesc>
 		<szBRName>.40 S＆W FMJ box</szBRName>
@@ -16860,7 +16852,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2107</uiIndex>
-		<szItemName>.40 S＆W JHP box</szItemName>
+		<szItemName>.40 S&amp;W JHP box</szItemName>
 		<szLongItemName>.40 S＆W，200发空尖弹纸盒</szLongItemName>
 		<szItemDesc>这个纸盒包装里有200发散装.40 S＆W空尖弹。</szItemDesc>
 		<szBRName>.40 S＆W JHP box</szBRName>
@@ -16868,7 +16860,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2108</uiIndex>
-		<szItemName>.40 S＆W KTW box</szItemName>
+		<szItemName>.40 S&amp;W KTW box</szItemName>
 		<szLongItemName>.40 S＆W，200发特氟隆涂层弹纸盒</szLongItemName>
 		<szItemDesc>这个纸盒包装里有200发散装.40 S＆W特氟隆涂层穿甲弹。</szItemDesc>
 		<szBRName>.40 S＆W KTW box</szBRName>
@@ -16876,7 +16868,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2109</uiIndex>
-		<szItemName>.40 S＆W M box</szItemName>
+		<szItemName>.40 S&amp;W M box</szItemName>
 		<szLongItemName>.40 S＆W，200发比赛弹纸盒</szLongItemName>
 		<szItemDesc>这个纸盒包装里有200发散装.40 S＆W比赛弹。</szItemDesc>
 		<szBRName>.40 S＆W M box</szBRName>
@@ -17028,7 +17020,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2128</uiIndex>
-		<szItemName>.30-06 M crate</szItemName>
+		<szItemName>.30-06 M box</szItemName>
 		<szLongItemName>.30-06，500发比赛弹弹箱</szLongItemName>
 		<szItemDesc>这个铁皮弹药箱里有500发散装的比赛级.30-06比赛弹。</szItemDesc>
 		<szBRName>.30-06 Match crate</szBRName>
@@ -17436,7 +17428,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2179</uiIndex>
-		<szItemName>12.7x108mm Hi-Mag</szItemName>
+		<szItemName>12.7mm BZT Hi-Mag</szItemName>
 		<szLongItemName>12.7x108mm，14发穿甲曳光弹</szLongItemName>
 		<szItemDesc>苏联/俄罗斯制造的专为大口径机枪和反器材步枪使用的12.7mm口径穿甲曳光弹。</szItemDesc>
 		<szBRName>12.7x108mm，14发穿甲曳光弹</szBRName>
@@ -17444,7 +17436,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2180</uiIndex>
-		<szItemName>12.7x108mm Hi-Mag M</szItemName>
+		<szItemName>12.7mm B.30 Hi-Mag</szItemName>
 		<szLongItemName>12.7x108mm，14发B.30狙击弹</szLongItemName>
 		<szItemDesc>14发专门用来进行远距离射击用的12.7x108mm B.30狙击弹。</szItemDesc>
 		<szBRName>12.7x108mm，14发B.30狙击弹</szBRName>
@@ -17476,7 +17468,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2184</uiIndex>
-		<szItemName>BARS Scope</szItemName>
+		<szItemName>PK-AS-S Scope</szItemName>
 		<szLongItemName>BARS Close Combat Scope</szLongItemName>
 		<szItemDesc>用专业的眼光来看，军用型的PK-AS-S“猛犬”瞄准镜是卡拉什尼科夫步枪所能使用的最好的光学瞄准装置。</szItemDesc>
 		<szBRName>BARS Close Combat Scope</szBRName>
@@ -17492,7 +17484,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2186</uiIndex>
-		<szItemName>S＆B Short Dot</szItemName>
+		<szItemName>S&amp;B Short Dot</szItemName>
 		<szLongItemName>S＆B 1-8x Short Dot (1x)</szLongItemName>
 		<szItemDesc>本德施密特的近战瞄准镜是可变倍数的瞄准镜，填补了反射镜和高倍瞄准镜之间的空隙。</szItemDesc>
 		<szBRName>S＆B 1-8x Short Dot</szBRName>
@@ -17700,7 +17692,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2212</uiIndex>
-		<szItemName>OMON City Shirt</szItemName>
+		<szItemName>OMON Urban Shirt</szItemName>
 		<szLongItemName>OMON城市迷彩上衣</szLongItemName>
 		<szItemDesc>俄罗斯内务部特种部队OMON所装备的城市迷彩BDU上衣。</szItemDesc>
 		<szBRName>OMON城市迷彩上衣</szBRName>
@@ -17708,7 +17700,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2213</uiIndex>
-		<szItemName>OMON City Trousers</szItemName>
+		<szItemName>OMON Urban Trousers</szItemName>
 		<szLongItemName>OMON城市迷彩长裤</szLongItemName>
 		<szItemDesc>俄罗斯内务部特种部队OMON所装备的城市迷彩BDU长裤。</szItemDesc>
 		<szBRName>OMON城市迷彩长裤</szBRName>
@@ -17756,7 +17748,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2219</uiIndex>
-		<szItemName>Multicam Bonnie</szItemName>
+		<szItemName>Multicam Boonie</szItemName>
 		<szLongItemName>MC迷彩奔尼帽</szLongItemName>
 		<szItemDesc>一顶MC全地形迷彩的奔尼帽。</szItemDesc>
 		<szBRName>MC迷彩奔尼帽</szBRName>
@@ -17764,7 +17756,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2220</uiIndex>
-		<szItemName>Multicam Parka</szItemName>
+		<szItemName>Multicam BDU</szItemName>
 		<szLongItemName>MC迷彩派克大衣</szLongItemName>
 		<szItemDesc>这是ECWCS第2代的派克大衣(Parka)，防寒防风防雪，而且表面是MC迷彩。</szItemDesc>
 		<szBRName>MC迷彩派克大衣</szBRName>
@@ -17772,7 +17764,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2221</uiIndex>
-		<szItemName>Multicam BDU</szItemName>
+		<szItemName>Multicam Parka</szItemName>
 		<szLongItemName>MC迷彩BDU上衣</szLongItemName>
 		<szItemDesc>这件BDU上衣是山寨CP公司的著名产品的。</szItemDesc>
 		<szBRName>MC迷彩BDU上衣</szBRName>
@@ -17892,7 +17884,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2236</uiIndex>
-		<szItemName>RPG Backpack</szItemName>
+		<szItemName>Rocket Backpack</szItemName>
 		<szLongItemName>RPG背包</szLongItemName>
 		<szItemDesc>RPG-7射手的弹药背包，可以携带4支RPG火箭弹。</szItemDesc>
 		<szBRName>RPG背包</szBRName>
@@ -17980,7 +17972,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2247</uiIndex>
-		<szItemName>MOLLE Bandoleer</szItemName>
+		<szItemName>MOLLE Bandolier</szItemName>
 		<szLongItemName>MOLLE霰弹包</szLongItemName>
 		<szItemDesc>折叠式的霰弹包。</szItemDesc>
 		<szBRName>MOLLE Shotgun Bandoleer</szBRName>
@@ -17988,7 +17980,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2248</uiIndex>
-		<szItemName>MOLLE 40mm Pocket</szItemName>
+		<szItemName>MOLLE 40mm Bandolier</szItemName>
 		<szLongItemName>MOLLE 40mm榴弹包</szLongItemName>
 		<szItemDesc>MOLLE系统的四联40mm榴弹袋。</szItemDesc>
 		<szBRName>MOLLE 40mm Pocket</szBRName>
@@ -17996,7 +17988,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2249</uiIndex>
-		<szItemName>MOLLE Frag Pocket</szItemName>
+		<szItemName>MOLLE Frag Pouch</szItemName>
 		<szLongItemName>MOLLE手榴弹包</szLongItemName>
 		<szItemDesc>三联手榴弹MOLLE包。</szItemDesc>
 		<szBRName>MOLLE Frag Pocket</szBRName>
@@ -18004,7 +17996,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2250</uiIndex>
-		<szItemName>MOLLE Flash Pocket</szItemName>
+		<szItemName>MOLLE Flash Pouch</szItemName>
 		<szLongItemName>MOLLE闪光弹包</szLongItemName>
 		<szItemDesc>三联闪光弹MOLLE包。</szItemDesc>
 		<szBRName>MOLLE Flashbang Pocket</szBRName>
@@ -18076,7 +18068,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2259</uiIndex>
-		<szItemName>MOLLE II 40mm Pocket</szItemName>
+		<szItemName>MOLLE II 40mm Bandolier</szItemName>
 		<szLongItemName>MOLLE II 40mm榴弹包</szLongItemName>
 		<szItemDesc>MOLLE II系统的四联40mm榴弹袋。</szItemDesc>
 		<szBRName>MOLLE II 40mm Pocket</szBRName>
@@ -18220,7 +18212,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2277</uiIndex>
-		<szItemName>Auto-9</szItemName>
+		<szItemName>AUTO-9</szItemName>
 		<szLongItemName>Auto-9</szLongItemName>
 		<szItemDesc>O.C.P.公司出品，铁甲威龙的配枪。如果你的枪法足够好的话，就能和电影一样准确地把3发子弹送到敌人脑门上。</szItemDesc>
 		<szBRName>Auto-9</szBRName>
@@ -18380,7 +18372,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2297</uiIndex>
-		<szItemName>HK IAR</szItemName>
+		<szItemName>M27 IAR</szItemName>
 		<szLongItemName>HK IAR</szLongItemName>
 		<szItemDesc>HK公司参加USMC IAR竞标的产物，是HK416的16英寸重型枪管自动步枪型。</szItemDesc>
 		<szBRName>HK IAR</szBRName>
@@ -18388,7 +18380,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2298</uiIndex>
-		<szItemName>MK18 Custom</szItemName>
+		<szItemName>CQBR Mk18</szItemName>
 		<szLongItemName>Custom MK18 CQBR</szLongItemName>
 		<szItemDesc>海豹突击队定制的MK18，安装有ACOG、QD消声器、AN/PEQ-15和前握把。</szItemDesc>
 		<szBRName>Custom MK18 CQBR</szBRName>
@@ -18399,7 +18391,6 @@
 		<szItemName>BS-1 GL</szItemName>
 		<szLongItemName>BS-1无声榴弹发射器</szLongItemName>
 		<szItemDesc>。</szItemDesc>
-		<szBRName></szBRName>
 		<szBRDesc>。</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -18804,7 +18795,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2350</uiIndex>
-		<szItemName>7.62x54R Mag 25 H</szItemName>
+		<szItemName>7.62x54R Mag 15 H</szItemName>
 		<szLongItemName>7.62x54mmR，25发狩猎弹</szLongItemName>
 		<szItemDesc>这种弹药有一颗15g重的软芯弹头，非常适合用在大型狩猎中，它能够让你更精准的干倒一只西伯利亚虎。</szItemDesc>
 		<szBRName>7.62x54R Mag 25 Hunting</szBRName>
@@ -18812,7 +18803,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2351</uiIndex>
-		<szItemName>7.62x54R Mag 25 AP</szItemName>
+		<szItemName>7.62x54R Mag 15 AP</szItemName>
 		<szLongItemName>7.62x54mmR，25发穿甲弹(7N13)</szLongItemName>
 		<szItemDesc>虽然精度差强人意，但是7N13那13g重的弹头却能穿透绝大多数防弹衣。 </szItemDesc>
 		<szBRName>7.62x54R Mag 25 AP</szBRName>
@@ -18876,7 +18867,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2359</uiIndex>
-		<szItemName>.44 Mag M box</szItemName>
+		<szItemName>.44 Mag box</szItemName>
 		<szLongItemName>.44，100发比赛弹纸盒</szLongItemName>
 		<szItemDesc>一个装着100发.44 Magnum比赛级软尖弹的硬纸盒。</szItemDesc>
 		<szBRName>.44 Magnum Match ammo box</szBRName>
@@ -19092,7 +19083,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2386</uiIndex>
-		<szItemName>Arrow</szItemName>
+		<szItemName>Bolt</szItemName>
 		<szLongItemName>箭，5支</szLongItemName>
 		<szItemDesc>在笔直的细长箭杆的一端是锐利的箭头，另一端是利于飞行稳定的尾翼。你需要一张弓来发射它，就象《第一滴血》里那样杀人于无形。</szItemDesc>
 		<szBRName>Arrow, 5</szBRName>
@@ -19100,7 +19091,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2387</uiIndex>
-		<szItemName>Arrow HE</szItemName>
+		<szItemName>Bolt HE</szItemName>
 		<szLongItemName>高爆箭，5支</szLongItemName>
 		<szItemDesc>将爆炸物用胶带绑在箭头上，这种无声的榴弹要靠十字弓来当榴弹发射器。使用这东西的人一定是《第一滴血》看太多了想模仿一下。</szItemDesc>
 		<szBRName>Arrow HE, 5</szBRName>
@@ -19188,7 +19179,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2398</uiIndex>
-		<szItemName>5.56mm duplex box</szItemName>
+		<szItemName>5.56mm duplex crate</szItemName>
 		<szLongItemName>5.56x45mm，100发双头弹弹盒</szLongItemName>
 		<szItemDesc>这个铁皮弹药箱里有100发散装的5.56x45mm双头弹。</szItemDesc>
 		<szBRName>5.56x45mm Duplex ammo box</szBRName>
@@ -19204,7 +19195,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2400</uiIndex>
-		<szItemName>.406 CheyTac box</szItemName>
+		<szItemName>.408 CheyTac box</szItemName>
 		<szLongItemName>.406 CheyTac，50发普通弹纸盒</szLongItemName>
 		<szItemDesc>纸盒装50发.406 CheyTac狙击弹。</szItemDesc>
 		<szBRName>.406 CheyTac ammo box</szBRName>
@@ -19212,7 +19203,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2401</uiIndex>
-		<szItemName>5.6mm SCF box</szItemName>
+		<szItemName>5.6mm SCF crate</szItemName>
 		<szLongItemName>5.6mm，100发箭形弹纸盒</szLongItemName>
 		<szItemDesc>一个装着100发5.6mm Flechette（箭形弹）的硬纸盒。</szItemDesc>
 		<szBRName>5.6mm Fleschette ammo box</szBRName>
@@ -19228,7 +19219,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2403</uiIndex>
-		<szItemName>5.6mm MPS box</szItemName>
+		<szItemName>5.6mm MPS crate</szItemName>
 		<szLongItemName>5.6x39mm MPS，300发弹箱</szLongItemName>
 		<szItemDesc>一个装着300发5.6x39mm MPS AP水下步枪弹的弹药箱。</szItemDesc>
 		<szBRName>5.6x39mm MPS ammo crate</szBRName>
@@ -19292,7 +19283,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2411</uiIndex>
-		<szItemName>.30-06 crate T</szItemName>
+		<szItemName>.30-06 T crate</szItemName>
 		<szLongItemName>.30-06，500发曳光弹弹箱</szLongItemName>
 		<szItemDesc>这个铁皮弹药箱里有500发二战步枪用的散装.30-06曳光弹。</szItemDesc>
 		<szBRName>.30-06 ammo crate Tracer</szBRName>
@@ -19460,7 +19451,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2432</uiIndex>
-		<szItemName>.458 SOCOM 10 FMJ</szItemName>
+		<szItemName>.458 SOCOM 12 FMJ</szItemName>
 		<szLongItemName>.458 SOCOM，10发全被甲弹</szLongItemName>
 		<szItemDesc>这个M16弹匣装着10发.458 SOCOM全被甲弹，该弹由德克萨斯州的Marty ter Weeme设计，在发射这枚300格令重的弹头时枪口动居然能超过2100 fps。</szItemDesc>
 		<szBRName>.458 SOCOM Mag 10 FMJ</szBRName>
@@ -19468,7 +19459,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2433</uiIndex>
-		<szItemName>.458 SOCOM 10 JHP</szItemName>
+		<szItemName>.458 SOCOM 12 JHP</szItemName>
 		<szLongItemName>.458 SOCOM，10发空尖弹</szLongItemName>
 		<szItemDesc>这个M16弹匣装着10发.458 SOCOM空尖弹，该弹由德克萨斯州的Marty ter Weeme设计，在发射这枚300格令重的弹头时枪口动居然能超过2100 fps。</szItemDesc>
 		<szBRName>.458 SOCOM Mag 10 JHP</szBRName>
@@ -19516,7 +19507,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2439</uiIndex>
-		<szItemName>5.45mm MGTS box</szItemName>
+		<szItemName>5.45 MGTS crate</szItemName>
 		<szLongItemName>5.45x39mm，500发MGTS水下步枪弹箱</szLongItemName>
 		<szItemDesc>500发5.45x39mm MGTS水下步枪弹的弹药箱。</szItemDesc>
 		<szBRName>5.45x39mm MGTS ammo crate</szBRName>
@@ -19732,7 +19723,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2466</uiIndex>
-		<szItemName>SR3M</szItemName>
+		<szItemName>SR3M Vikhr</szItemName>
 		<szLongItemName>Vikhr SR-3M</szLongItemName>
 		<szItemDesc>把AS VAL的设计与SR-3结合在一起，带有折叠式前握把。</szItemDesc>
 		<szBRName>Vikhr SR-3M</szBRName>
@@ -19788,7 +19779,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2473</uiIndex>
-		<szItemName>WA-2000 7.5</szItemName>
+		<szItemName>WA2000 7.5</szItemName>
 		<szLongItemName>Walther WA-2000 7.5mm</szLongItemName>
 		<szItemDesc>罕见的WA 2000瑞士口径型，比.300WM型更罕见。</szItemDesc>
 		<szBRName>Walther WA-2000 7.5mm</szBRName>
@@ -19996,7 +19987,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2499</uiIndex>
-		<szItemName>92F Professional</szItemName>
+		<szItemName>92F Custom</szItemName>
 		<szLongItemName>Beretta 92F Professional</szLongItemName>
 		<szItemDesc>李昂挂掉后流失的手枪，这是经过改装的92F型，高精度枪管让你打得更准，枪口防跳器让你打得更快。</szItemDesc>
 		<szBRName>Beretta 92F Professional</szBRName>
@@ -20308,7 +20299,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2538</uiIndex>
-		<szItemName>7.62x51mm Hi-Belt</szItemName>
+		<szItemName>7.62x51 Hi-Belt</szItemName>
 		<szLongItemName>7.62x51mm Hi-Belt</szLongItemName>
 		<szItemDesc>一条200发7.62mm北约标准弹弹链。</szItemDesc>
 		<szBRName>7.62x51mm Hi-Belt</szBRName>
@@ -20316,7 +20307,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2539</uiIndex>
-		<szItemName>7.62x51mm Hi-Belt T</szItemName>
+		<szItemName>7.62x51 Hi-Belt T</szItemName>
 		<szLongItemName>7.62x51mm Hi-Belt, Tracer</szLongItemName>
 		<szItemDesc>一条200发7.62mm北约标准口径曳光弹弹链。</szItemDesc>
 		<szBRName>7.62x51mm Hi-Belt Tracer</szBRName>
@@ -20324,7 +20315,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2540</uiIndex>
-		<szItemName>7.62x51mm Hi-Belt M</szItemName>
+		<szItemName>7.62x51 Hi-Belt M</szItemName>
 		<szLongItemName>7.62x51mm Hi-Belt, M118L</szLongItemName>
 		<szItemDesc>一条200发7.62mm M118L狙击弹弹链。</szItemDesc>
 		<szBRName>7.62x51mm Hi-Belt M118L</szBRName>
@@ -20332,7 +20323,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2541</uiIndex>
-		<szItemName>7.62x51mm Hi-Belt SB</szItemName>
+		<szItemName>7.62x51 Hi-Belt SB</szItemName>
 		<szLongItemName>7.62x51mm Hi-Belt, SB</szLongItemName>
 		<szItemDesc>一条200发7.62mm北约标准口径亚音弹弹链。</szItemDesc>
 		<szBRName>7.62x51mm Hi-Belt SB</szBRName>
@@ -20340,7 +20331,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2542</uiIndex>
-		<szItemName>7.62x51mm Hi-Belt Z</szItemName>
+		<szItemName>7.62x51 Hi-Belt Z</szItemName>
 		<szLongItemName>7.62x51mm Hi-Belt, 丧尸弹</szLongItemName>
 		<szItemDesc>一条200发7.62mm北约标准口径丧尸弹弹链。</szItemDesc>
 		<szBRName>7.62x51mm Hi-Belt 丧尸弹</szBRName>
@@ -20348,7 +20339,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2543</uiIndex>
-		<szItemName>7.62x51mm Hi-Belt AP</szItemName>
+		<szItemName>7.62x51 Hi-Belt AP</szItemName>
 		<szLongItemName>7.62x51mm Hi-Belt AP</szLongItemName>
 		<szItemDesc>一条200发7.62mm北约标准口径M955穿甲弹弹链。</szItemDesc>
 		<szBRName>7.62x51mm Hi-Belt AP</szBRName>
@@ -20396,7 +20387,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2549</uiIndex>
-		<szItemName>5.56mm CL-MAG SOST</szItemName>
+		<szItemName>5.56mm C-Mag SOST</szItemName>
 		<szLongItemName>5.56x45mm CL-MAG, SOST</szLongItemName>
 		<szItemDesc>这个 Armatac Industries公司的CL-MAG双弹鼓装着150发5.56mm口径Mk318 MOD SOST特种近程弹。</szItemDesc>
 		<szBRName>5.56x45mm CL-Mag SOST</szBRName>
@@ -20428,7 +20419,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2553</uiIndex>
-		<szItemName>7.62x51mm 5 SOST</szItemName>
+		<szItemName>7.62x51 5 SOST</szItemName>
 		<szLongItemName>7.62x51mm Mag, 5 SOST</szLongItemName>
 		<szItemDesc>5发7.62x51mm口径Mk319 MOD 0特种近程弹。</szItemDesc>
 		<szBRName>7.62x51mm 5 SOST</szBRName>
@@ -20436,7 +20427,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2554</uiIndex>
-		<szItemName>7.62x51mm 10 SOST</szItemName>
+		<szItemName>7.62x51 10 SOST</szItemName>
 		<szLongItemName>7.62x51mm Mag, 10 SOST</szLongItemName>
 		<szItemDesc>10发7.62x51mm口径Mk319 MOD 0特种近程弹。</szItemDesc>
 		<szBRName>7.62x51mm 10 SOST</szBRName>
@@ -20444,7 +20435,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2555</uiIndex>
-		<szItemName>7.62x51mm 20 SOST</szItemName>
+		<szItemName>7.62x51 20 SOST</szItemName>
 		<szLongItemName>7.62x51mm Mag, 20 SOST</szLongItemName>
 		<szItemDesc>20发7.62x51mm口径Mk319 MOD 0特种近程弹。</szItemDesc>
 		<szBRName>7.62x51mm 20 SOST</szBRName>
@@ -20452,7 +20443,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2556</uiIndex>
-		<szItemName>7.62x51mm 25 SOST</szItemName>
+		<szItemName>7.62x51 25 SOST</szItemName>
 		<szLongItemName>7.62x51mm Mag, 25 SOST</szLongItemName>
 		<szItemDesc>25发7.62x51mm口径Mk319 MOD 0特种近程弹。</szItemDesc>
 		<szBRName>7.62x51mm 25 SOST</szBRName>
@@ -20460,7 +20451,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2557</uiIndex>
-		<szItemName>7.62x51mm Hi-Mag SOST</szItemName>
+		<szItemName>7.62x51 Hi-Mag SOST</szItemName>
 		<szLongItemName>7.62x51mm Hi-Mag, 30 SOST</szLongItemName>
 		<szItemDesc>30发7.62x51mm口径Mk319 MOD 0特种近程弹。</szItemDesc>
 		<szBRName>7.62x51mm Hi-Mag SOST</szBRName>
@@ -20476,7 +20467,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2559</uiIndex>
-		<szItemName>7.62x51mm Belt SOST</szItemName>
+		<szItemName>7.62x51 Belt SOST</szItemName>
 		<szLongItemName>7.62x51mm弹链, SOST</szLongItemName>
 		<szItemDesc>100发7.62x51mm口径Mk319 MOD 0特种近程弹。</szItemDesc>
 		<szBRName>7.62x51mm Belt SOST</szBRName>
@@ -20484,7 +20475,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2560</uiIndex>
-		<szItemName>7.62x51mm Hi-Belt SOST</szItemName>
+		<szItemName>7.62x51 Hi-Belt SOST</szItemName>
 		<szLongItemName>7.62x51mm长弹链, SOST</szLongItemName>
 		<szItemDesc>200发7.62x51mm口径Mk319 MOD 0特种近程弹。</szItemDesc>
 		<szBRName>7.62x51mm Hi-Belt SOST</szBRName>
@@ -20843,7 +20834,7 @@
 		<szBRDesc>将任何型号SCAR转换成16英寸枪管的6.8 SPC口径Mk16 Mod1标准型。</szBRDesc>
 	</ITEM>
 	<ITEM>
-		<uiIndex>2606</uiIndex>
+		<uiIndex>2605</uiIndex>
 		<szItemName>SCAR-WP con. kit</szItemName>
 		<szLongItemName>SCAR-WP CQC转换套件</szLongItemName>
 		<szItemDesc>将任何型号SCAR转换成10英寸枪管的7.62x39mm口径SCAR-WP近战型。</szItemDesc>
@@ -20854,9 +20845,9 @@
 		<uiIndex>2606</uiIndex>
 		<szItemName>SCAR-WP con. kit</szItemName>
 		<szLongItemName>SCAR-WP STD转换套件</szLongItemName>
-		<szItemDesc>将任何型号SCAR转换成16英寸枪管的7.62x39mm口径SCAR-WP标准型。</szItemDesc>
+		<szItemDesc>将任何型号SCAR转换成10英寸枪管的6.8mm口径SCAR-WP近战型。</szItemDesc>
 		<szBRName>SCAR-WP STD con.kit</szBRName>
-		<szBRDesc>将任何型号SCAR转换成16英寸枪管的7.62x39mm口径SCAR-WP标准型。</szBRDesc>
+		<szBRDesc>T将任何型号SCAR转换成10英寸枪管的6.8mm口径SCAR-WP近战型。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2607</uiIndex>
@@ -21004,7 +20995,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2625</uiIndex>
-		<szItemName>.45 Ten Mag</szItemName>
+		<szItemName>.45 Mag 10</szItemName>
 		<szLongItemName>.45，10发普通弹</szLongItemName>
 		<szItemDesc>一个给你的.45手枪使用的10发双排弹匣，弹容量多多益善。</szItemDesc>
 		<szBRName>.45 Ten Mag</szBRName>
@@ -21012,7 +21003,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2626</uiIndex>
-		<szItemName>.45 Ten Mag HP</szItemName>
+		<szItemName>.45 Mag 10 HP</szItemName>
 		<szLongItemName>.45，10发空尖弹</szLongItemName>
 		<szItemDesc>装有.45空尖弹的增容弹匣。</szItemDesc>
 		<szBRName>.45 10 Mag HP</szBRName>
@@ -21020,7 +21011,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2627</uiIndex>
-		<szItemName>.45 Ten Mag KTW</szItemName>
+		<szItemName>.45 Mag 10 KTW</szItemName>
 		<szLongItemName>.45，10发特氟隆涂层弹</szLongItemName>
 		<szItemDesc>装有.45特氟隆涂层弹的增容弹匣。</szItemDesc>
 		<szBRName>.45 10 Mag KTW</szBRName>
@@ -21028,7 +21019,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2628</uiIndex>
-		<szItemName>.45 Ten Mag M</szItemName>
+		<szItemName>.45 Mag 10 M</szItemName>
 		<szLongItemName>.45，10发比赛弹</szLongItemName>
 		<szItemDesc>用这个增容的弹匣来增加你.45手枪的射程吧。</szItemDesc>
 		<szBRName>.45 10 Mag Match</szBRName>
@@ -21044,7 +21035,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2630</uiIndex>
-		<szItemName>.50BMG Belt</szItemName>
+		<szItemName>.50BMG Belt T</szItemName>
 		<szLongItemName>.50，50发勃朗宁机枪弹</szLongItemName>
 		<szItemDesc>重机枪使用的50发.50 BMG穿甲/曳光弹弹链。</szItemDesc>
 		<szBRName>.50BMG Belt, 10</szBRName>
@@ -21060,7 +21051,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2632</uiIndex>
-		<szItemName>12.7x108mm Belt</szItemName>
+		<szItemName>12.7mm BZT Belt</szItemName>
 		<szLongItemName>12.7x108mm，50发穿甲/曳光弹</szLongItemName>
 		<szItemDesc>苏联/俄罗斯制造的专为大口径机枪和反器材步枪使用的12.7mm口径穿甲/曳光弹。</szItemDesc>
 		<szBRName>12.7x108mm BZT Belt</szBRName>
@@ -21068,7 +21059,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2633</uiIndex>
-		<szItemName>12.7x108mm Belt M</szItemName>
+		<szItemName>12.7mm B.30 Belt</szItemName>
 		<szLongItemName>12.7x108mm，50发比赛弹</szLongItemName>
 		<szItemDesc>50发专门用来进行远距离射击用的12.7x108mm比赛弹。</szItemDesc>
 		<szBRName>12.7x108mm B.30 Belt</szBRName>
@@ -21212,7 +21203,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2651</uiIndex>
-		<szItemName>TL Handguard</szItemName>
+		<szItemName>TL Handguard ON</szItemName>
 		<szLongItemName>战术灯护木 (开灯)</szLongItemName>
 		<szItemDesc>SureFire公司生产的战术灯护木，可装在某些冲锋枪或霰弹枪上使用。这是开灯状态。</szItemDesc>
 		<szBRName>Tactical Light Handguard</szBRName>
@@ -21348,7 +21339,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2668</uiIndex>
-		<szItemName>SF-MAG Pocket</szItemName>
+		<szItemName>SF-MAG Pouch</szItemName>
 		<szLongItemName>MOLLE四排SF弹匣包</szLongItemName>
 		<szItemDesc>这个SureFire四排弹匣包可以挂在MOLLE织带上使用。</szItemDesc>
 		<szBRName>MOLLE SureFire Hi-MAG Pocket</szBRName>
@@ -21620,7 +21611,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2702</uiIndex>
-		<szItemName>SSW</szItemName>
+		<szItemName>STK SSW</szItemName>
 		<szLongItemName>STK Squad Support Weapon</szLongItemName>
 		<szItemDesc>新加坡STK公司为瑞典生产的40mm金属风暴榴弹发射器，下面挂有5.7mm口径的PDW用于近距离自卫。</szItemDesc>
 		<szBRName>STK Squad Support Weapon</szBRName>
@@ -21811,7 +21802,7 @@
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 	</ITEM>
 	<ITEM>
-		<uiIndex>2729</uiIndex>
+		<uiIndex>2726</uiIndex>
 		<szItemName>Mk16 Mod1 CQC</szItemName>
 		<szLongItemName>Mk16 Mod 1 CQC (&lt;)</szLongItemName>
 		<szItemDesc>FNH SCAR-L近战型(10英寸枪管)。这种型号发射6.8mm特种用途弹。</szItemDesc>
@@ -21819,7 +21810,7 @@
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 	</ITEM>
 	<ITEM>
-		<uiIndex>2728</uiIndex>
+		<uiIndex>2727</uiIndex>
 		<szItemName>Mk16 Mod1 STD</szItemName>
 		<szLongItemName>Mk16 Mod 1 STD (&lt;)</szLongItemName>
 		<szItemDesc>FNH SCAR-L 标准型(16英寸)。这种型号发射6.8mm特种用途弹。</szItemDesc>
@@ -21884,7 +21875,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2735</uiIndex>
-		<szItemName>SCAR PDW</szItemName>
+		<szItemName>SCAR-PDW</szItemName>
 		<szLongItemName>FN SCAR PDW (&lt;)</szLongItemName>
 		<szItemDesc>最短的SCAR。</szItemDesc>
 		<szBRName>FN SCAR PDW (&lt;)</szBRName>
@@ -22828,7 +22819,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2853</uiIndex>
-		<szItemName>HK 53A3</szItemName>
+		<szItemName>HK53A3</szItemName>
 		<szLongItemName>HK 53A3 (&gt;)</szLongItemName>
 		<szItemDesc>仅比MP5长两英寸，冲锋枪般短小精悍的HK53却能提供5.56mm步枪的强大火力。</szItemDesc>
 		<szBRName>HK 53A3 (&gt;)</szBRName>
@@ -23716,7 +23707,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2964</uiIndex>
-		<szItemName>Ultimax Mk3</szItemName>
+		<szItemName>Ultimax Para</szItemName>
 		<szLongItemName>无敌100 Mk3 伞兵型</szLongItemName>
 		<szItemDesc>短枪管、无枪托的无敌100 Mk3。</szItemDesc>
 		<szBRName>Ultimax 100 Mk3 伞兵型</szBRName>
@@ -24017,7 +24008,6 @@
 		<szItemDesc>把这个东西装在你的炸弹上，你可以安全地解除炸弹——如果你还记得设定的频率的话。</szItemDesc>
 		<szBRName>遥控引信拆解</szBRName>
 		<szBRDesc>把这个东西装在你的炸弹上，你可以安全地解除炸弹——如果你还记得设定的频率的话。</szBRDesc>
-		<usItemClass>268435456</usItemClass>
 	</ITEM>
 	<ITEM>
 		<uiIndex>3002</uiIndex>
@@ -24026,7 +24016,6 @@
 		<szItemDesc>要做成庞大的炸弹陷阱，这套东西必不可少。</szItemDesc>
 		<szBRName>遥控引信组合</szBRName>
 		<szBRDesc>要做成庞大的炸弹陷阱，这套东西必不可少。</szBRDesc>
-		<usItemClass>268435456</usItemClass>
 	</ITEM>
 	<ITEM>
 		<uiIndex>3003</uiIndex>
@@ -24582,7 +24571,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>3072</uiIndex>
-		<szItemName>23mm slug</szItemName>
+		<szItemName>23mm Slug</szItemName>
 		<szLongItemName>23mm霰弹，6发独头弹</szLongItemName>
 		<szItemDesc>装有6发23mm独头弹弹匣。</szItemDesc>
 		<szBRName>23mm slug</szBRName>
@@ -24790,7 +24779,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>3098</uiIndex>
-		<szItemName>.300 BLK Mag</szItemName>
+		<szItemName>.300 BLK Mag SB</szItemName>
 		<szLongItemName>.300 BLK，30发亚音速弹</szLongItemName>
 		<szItemDesc>30发.300 AAC BLACKOUT的220格令亚音速步枪，这种7.62x34mm亚音速重弹头被设计专门用在微声步枪上。</szItemDesc>
 		<szBRName>.300 BLK Mag 30</szBRName>
@@ -24843,5 +24832,45 @@
 		<szItemDesc>400发装在弹药箱里的.338 NM(8.6×64mm) 比赛弹。</szItemDesc>
 		<szBRName>.338 Norma Magnum crate</szBRName>
 		<szBRDesc>400发装在弹药箱里的.338 NM(8.6×64mm) 比赛弹。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>3105</uiIndex>
+		<szItemName>无线电设备</szItemName>
+		<szLongItemName>无线电设备</szLongItemName>
+		<szItemDesc>作战用标准配置的短程通讯无线电设备。</szItemDesc>
+		<szBRName>无线电设备</szBRName>
+		<szBRDesc>可以用来和位于其他战区的小队进行通讯。可以背负，包含电池。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>3106</uiIndex>
+		<szItemName>无线电设备用电池</szItemName>
+		<szLongItemName>无线电设备专用电池</szLongItemName>
+		<szItemDesc>标准战地无线电设备使用的电池。非常重，不过如果节约点用，可以坚持好几周。</szItemDesc>
+		<szBRName>无线电设备用电池</szBRName>
+		<szBRDesc>无线电设备使用的标准配置战地电池。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>3107</uiIndex>
+		<szItemName>内置照明</szItemName>
+		<szLongItemName>内置照明</szLongItemName>
+		<szItemDesc>内部物品，不要使用！！！</szItemDesc>
+		<szBRName>内置照明</szBRName>
+		<szBRDesc>BR不卖这个,如果你看到了说明这物品来自于黑市。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>3108</uiIndex>
+		<szItemName>60mm迫击炮信号弹</szItemName>
+		<szLongItemName>60mm迫击炮信号弹</szLongItemName>
+		<szItemDesc>这种迫击炮弹专门用来标记需要进行轰炸的区域。</szItemDesc>
+		<szBRName>60mm迫击炮信号弹</szBRName>
+		<szBRDesc>信号弹发出的红烟即便在漆黑的夜晚也清晰可见。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>3109</uiIndex>
+		<szItemName>红色信号弹</szItemName>
+		<szLongItemName>红色信号弹</szLongItemName>
+		<szItemDesc>用红烟清楚地标记靶子。</szItemDesc>
+		<szBRName>红色信号弹</szBRName>
+		<szBRDesc>没有什么比一柱红烟还能更好地指示进攻地点。</szBRDesc>
 	</ITEM>
 </ITEMLIST>

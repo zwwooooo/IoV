@@ -31,7 +31,7 @@
 			<mBig2Status>100</mBig2Status>
 			<mBig2Quantity>1</mBig2Quantity>
 			<mBig2Drop>0</mBig2Drop>
-			<mBig3>204</mBig3>
+			<mBig3>3105</mBig3>
 			<mBig3Status>100</mBig3Status>
 			<mBig3Quantity>1</mBig3Quantity>
 			<mBig3Drop>0</mBig3Drop>
@@ -250,12 +250,12 @@
 			<mHelmet>176</mHelmet>
 			<mHelmetStatus>100</mHelmetStatus>
 			<mVest>161</mVest>
-			<mWeapon>1</mWeapon>
+			<mWeapon>3</mWeapon>
 			<mWeaponStatus>92</mWeaponStatus>
 			<mBig0>363</mBig0>
 			<mBig0Status>100</mBig0Status>
 			<mBig0Quantity>3</mBig0Quantity>
-			<mBig1>37</mBig1>
+			<mBig1>3</mBig1>
 			<mBig1Quantity>1</mBig1Quantity>
 			<mBig2>38</mBig2>
 			<mBig2Quantity>2</mBig2Quantity>
@@ -546,7 +546,6 @@
 			<mBig0>97</mBig0>
 			<mBig0Status>100</mBig0Status>
 			<mBig0Quantity>1</mBig0Quantity>
-			<mBig1Quantity>2</mBig1Quantity>
 			<mBig1>147</mBig1>
 			<mBig1Quantity>2</mBig1Quantity>
 			<mBig2>37</mBig2>
@@ -1435,7 +1434,6 @@
 			<mHelmet>1731</mHelmet>
 			<mHelmetStatus>98</mHelmetStatus>
 			<mVest>1732</mVest>
-			<mVestDrop>90</mVestDrop>
 			<mWeapon>609</mWeapon>
 			<mWeaponStatus>94</mWeaponStatus>
 			<mBig0>92</mBig0>
@@ -1912,7 +1910,7 @@
 			<mVestStatus>93</mVestStatus>
 			<mWeapon>1316</mWeapon>
 			<mWeaponStatus>89</mWeaponStatus>
-			<mBig0>94</mBig0>
+			<mBig0>2390</mBig0>
 			<mBig0Quantity>2</mBig0Quantity>
 			<mBig1>147</mBig1>
 			<mBig1Status>94</mBig1Status>
@@ -20174,6 +20172,12 @@
 			<mSmall5>0</mSmall5>
 			<mSmall5Status>0</mSmall5Status>
 			<mSmall5Quantity>0</mSmall5Quantity>
+			<mSmall6>0</mSmall6>
+			<mSmall6Status>0</mSmall6Status>
+			<mSmall6Quantity>0</mSmall6Quantity>
+			<mSmall7>0</mSmall7>
+			<mSmall7Status>0</mSmall7Status>
+			<mSmall7Quantity>0</mSmall7Quantity>
 			<lVest>1089</lVest>
 			<lVestStatus>86</lVestStatus>
 			<lLeftThigh>0</lLeftThigh>
@@ -23808,12 +23812,13 @@
 		</GEARKIT>
 		<GEARKIT>
 			<mPriceMod>50</mPriceMod>
+			<mGearKitName>Premium</mGearKitName>
 			<mAbsolutePrice>-1</mAbsolutePrice>
 			<mHelmet>177</mHelmet>
 			<mHelmetStatus>93</mHelmetStatus>
 			<mVest>164</mVest>
 			<mVestStatus>97</mVestStatus>
-			<mWeapon>346</mWeapon>
+			<mWeapon>342</mWeapon>
 			<mWeaponStatus>94</mWeaponStatus>
 			<mBig0>2528</mBig0>
 			<mBig0Status>100</mBig0Status>

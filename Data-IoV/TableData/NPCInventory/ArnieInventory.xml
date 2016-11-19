@@ -98,7 +98,6 @@
 	<INVENTORY>
 		<uiIndex>19</uiIndex>
 		<sItemIndex>598</sItemIndex>
-		<ubOptimalNumber>0</ubOptimalNumber>
 	</INVENTORY>
 	<INVENTORY>
 		<uiIndex>20</uiIndex>
@@ -113,6 +112,5 @@
 	<INVENTORY>
 		<uiIndex>22</uiIndex>
 		<sItemIndex>1694</sItemIndex>
-		<ubOptimalNumber>0</ubOptimalNumber>
 	</INVENTORY>
 </INVENTORYLIST>
