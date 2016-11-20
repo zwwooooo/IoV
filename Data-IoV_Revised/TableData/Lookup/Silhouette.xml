@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<JA2Data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Silhouette>
+		<id>0</id>
+		<name>Vest</name>
+	</Silhouette>
+	<Silhouette>
+		<id>1</id>
+		<name>Right Thigh</name>
+	</Silhouette>
+	<Silhouette>
+		<id>2</id>
+		<name>Left Thigh</name>
+	</Silhouette>
+	<Silhouette>
+		<id>3</id>
+		<name>Backpack</name>
+	</Silhouette>
+	<Silhouette>
+		<id>4</id>
+		<name>Combat Pack</name>
+	</Silhouette>
+	<Silhouette>
+		<id>5</id>
+		<name>Gun</name>
+	</Silhouette>
+	<Silhouette>
+		<id>6</id>
+		<name>Rocket Launcher</name>
+	</Silhouette>
+	<Silhouette>
+		<id>7</id>
+		<name>Huge General</name>
+	</Silhouette>
+	<Silhouette>
+		<id>8</id>
+		<name>Large General</name>
+	</Silhouette>
+	<Silhouette>
+		<id>9</id>
+		<name>SMG</name>
+	</Silhouette>
+	<Silhouette>
+		<id>10</id>
+		<name>Explosive</name>
+	</Silhouette>
+	<Silhouette>
+		<id>11</id>
+		<name>Knife</name>
+	</Silhouette>
+	<Silhouette>
+		<id>12</id>
+		<name>Small Bag</name>
+	</Silhouette>
+	<Silhouette>
+		<id>13</id>
+		<name>Pistol</name>
+	</Silhouette>
+	<Silhouette>
+		<id>14</id>
+		<name>1x 40mm Grenade</name>
+	</Silhouette>
+	<Silhouette>
+		<id>15</id>
+		<name>Hand Grenade</name>
+	</Silhouette>
+	<Silhouette>
+		<id>16</id>
+		<name>Pistol Ammo</name>
+	</Silhouette>
+	<Silhouette>
+		<id>17</id>
+		<name>SMG Mag 1x</name>
+	</Silhouette>
+	<Silhouette>
+		<id>18</id>
+		<name>AR Mag 2x</name>
+	</Silhouette>
+	<Silhouette>
+		<id>19</id>
+		<name>Large Ammo</name>
+	</Silhouette>
+	<Silhouette>
+		<id>20</id>
+		<name>Shirt Pocket</name>
+	</Silhouette>
+	<Silhouette>
+		<id>21</id>
+		<name>Belt Clip</name>
+	</Silhouette>
+	<Silhouette>
+		<id>22</id>
+		<name>Huge/Belt Ammo</name>
+	</Silhouette>
+	<Silhouette>
+		<id>23</id>
+		<name>Revolver Ammo</name>
+	</Silhouette>
+	<Silhouette>
+		<id>24</id>
+		<name>Large Medical Cross</name>
+	</Silhouette>
+	<Silhouette>
+		<id>25</id>
+		<name>Small Medical Cross</name>
+	</Silhouette>
+	<Silhouette>
+		<id>26</id>
+		<name>Stick or Combat Knife</name>
+	</Silhouette>
+	<Silhouette>
+		<id>27</id>
+		<name>Pistol Mag 2x</name>
+	</Silhouette>
+	<Silhouette>
+		<id>28</id>
+		<name>Pistol Mag 3x</name>
+	</Silhouette>
+	<Silhouette>
+		<id>29</id>
+		<name>SMG Mag 2x</name>
+	</Silhouette>
+	<Silhouette>
+		<id>30</id>
+		<name>SMG Mag 3x</name>
+	</Silhouette>
+	<Silhouette>
+		<id>31</id>
+		<name>AR Mag 1x</name>
+	</Silhouette>
+	<Silhouette>
+		<id>32</id>
+		<name>AR Mag 3x</name>
+	</Silhouette>
+	<Silhouette>
+		<id>33</id>
+		<name>AK 1x Mag</name>
+	</Silhouette>
+	<Silhouette>
+		<id>34</id>
+		<name>AK 2x Mag</name>
+	</Silhouette>
+	<Silhouette>
+		<id>35</id>
+		<name>Sniper Mag Pocket</name>
+	</Silhouette>
+	<Silhouette>
+		<id>36</id>
+		<name>Open-Top SR Magazine</name>
+	</Silhouette>
+	<Silhouette>
+		<id>37</id>
+		<name>M14 Mag 2x</name>
+	</Silhouette>
+	<Silhouette>
+		<id>38</id>
+		<name>Open-Top AR Mag</name>
+	</Silhouette>
+	<Silhouette>
+		<id>39</id>
+		<name>Shot Shell</name>
+	</Silhouette>
+	<Silhouette>
+		<id>40</id>
+		<name>2x 40mm Grenade/Pistol Magazine</name>
+	</Silhouette>
+	<Silhouette>
+		<id>41</id>
+		<name>3x 40mm Grenade</name>
+	</Silhouette>
+	<Silhouette>
+		<id>42</id>
+		<name>6x 40mm Grenade</name>
+	</Silhouette>
+	<Silhouette>
+		<id>43</id>
+		<name>12x 40mm Grenade</name>
+	</Silhouette>
+	<Silhouette>
+		<id>44</id>
+		<name>Single Big Grenade Pocket</name>
+	</Silhouette>
+	<Silhouette>
+		<id>45</id>
+		<name>Quaternion Stick-Grenade Pocket</name>
+	</Silhouette>
+	<Silhouette>
+		<id>46</id>
+		<name>Small Document</name>
+	</Silhouette>
+	<Silhouette>
+		<id>47</id>
+		<name>Medium General</name>
+	</Silhouette>
+	<Silhouette>
+		<id>48</id>
+		<name>Large Pistol Holster</name>
+	</Silhouette>
+	<Silhouette>
+		<id>49</id>
+		<name>Combat Pack</name>
+	</Silhouette>
+	<Silhouette>
+		<id>50</id>
+		<name>Loose Rounds</name>
+	</Silhouette>
+	<Silhouette>
+		<id>51</id>
+		<name>Big Mag</name>
+	</Silhouette>
+	<Silhouette>
+		<id>52</id>
+		<name>PAL Webbing (short)</name>
+	</Silhouette>
+	<Silhouette>
+		<id>53</id>
+		<name>PAL Webbing (wide)</name>
+	</Silhouette>
+	<Silhouette>
+		<id>54</id>
+		<name>Mortar Shell</name>
+	</Silhouette>
+	<Silhouette>
+		<id>55</id>
+		<name>Scope</name>
+	</Silhouette>
+	<Silhouette>
+		<id>56</id>
+		<name>Sword</name>
+	</Silhouette>
+	<Silhouette>
+		<id>57</id>
+		<name>Quiver</name>
+	</Silhouette>
+	<Silhouette>
+		<id>58</id>
+		<name>Vehicle</name>
+	</Silhouette>
+	<Silhouette>
+		<id>59</id>
+		<name>Med. Document Pouch</name>
+	</Silhouette>
+	<Silhouette>
+		<id>60</id>
+		<name>Single M16A1 Mag Pocket</name>
+	</Silhouette>
+	<Silhouette>
+		<id>61</id>
+		<name>Double M16A1 Pocket</name>
+	</Silhouette>
+	<Silhouette>
+		<id>62</id>
+		<name>SureFire Hi-Mag Pocket</name>
+	</Silhouette>
+	<Silhouette>
+		<id>63</id>
+		<name>Short Barrel Rifle</name>
+	</Silhouette>
+	<Silhouette>
+		<id>64</id>
+		<name>Revolver</name>
+	</Silhouette>
+	<Silhouette>
+		<id>65</id>
+		<name>Carabiner</name>
+	</Silhouette>
+	<Silhouette>
+		<id>66</id>
+		<name>Barrel</name>
+	</Silhouette>
+</JA2Data>
