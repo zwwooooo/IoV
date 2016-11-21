@@ -1,4 +1,6 @@
-# IoV Revised (IoV 修正版)
+2016.11.21 已弃，仅此记录折腾，最新的到分支 IoV_Revised
+
+# IoV Revised (IoV 修正版) plan2 
 
 基于 IoV(Instruments of Violence) 929beta
 
@@ -11,4 +13,4 @@
 
  * IoV 原作者：daboboye，又名 D boy、“叫兽”，929beta 后已弃坑。
  * IoV 原名 Cosplay/DBB
- * 928 早期版本备份 https://github.com/zwwooooo/cos-mod ，daboboye 开发及最终弃坑贴 http://tbsgame.net/bbs/index.php?showtopic=67355
+ * 928 早期版本备份 https://github.com/zwwooooo/IoV ，daboboye 开发及最终弃坑贴 http://tbsgame.net/bbs/index.php?showtopic=67355

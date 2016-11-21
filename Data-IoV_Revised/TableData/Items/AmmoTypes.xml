@@ -409,7 +409,7 @@
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>11</uiIndex>
-		<name>FMJ</name>
+		<name>FMJ!</name>
 		<fontColour>218</fontColour>
 		<grayed>8</grayed>
 		<offNormal>5</offNormal>
@@ -594,7 +594,7 @@
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>16</uiIndex>
-		<name>Tracer</name>
+		<name>Tracer!</name>
 		<fontColour>144</fontColour>
 		<grayed>4</grayed>
 		<offNormal>17</offNormal>
@@ -668,7 +668,7 @@
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>18</uiIndex>
-		<name>Match</name>
+		<name>Match!</name>
 		<fontColour>133</fontColour>
 		<grayed>4</grayed>
 		<offNormal>13</offNormal>
@@ -779,7 +779,7 @@
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>21</uiIndex>
-		<name>SB</name>
+		<name>SB!</name>
 		<fontColour>161</fontColour>
 		<grayed>8</grayed>
 		<offNormal>5</offNormal>
@@ -1297,7 +1297,7 @@
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>35</uiIndex>
-		<name>HEAT</name>
+		<name>HEAT!</name>
 		<fontColour>76</fontColour>
 		<grayed>4</grayed>
 		<offNormal>1</offNormal>
@@ -1482,7 +1482,7 @@
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>40</uiIndex>
-		<name>JSP</name>
+		<name>JSP!</name>
 		<fontColour>71</fontColour>
 		<grayed>12</grayed>
 		<offNormal>9</offNormal>
