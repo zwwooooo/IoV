@@ -10622,7 +10622,7 @@
 		<szLongItemName>64式微声冲锋枪</szLongItemName>
 		<szItemDesc>这款微声冲锋枪在对越自卫还击战中使用过。</szItemDesc>
 		<szBRName>Type 64 Silencer SMG</szBRName>
-		<szBRDesc>不在BR出售</szBRDesc>
+		<szBRDesc>这款微声冲锋枪在对越自卫还击战中使用过。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1328</uiIndex>
