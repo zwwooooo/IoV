@@ -2,7 +2,8 @@
 
 基于 IoV(Instruments of Violence) 929beta
 
-关于日志中的 929v003 直接跳至 929v006：第一次发布的 929v005 其实是方案1的版本（https://github.com/zwwooooo/IoV/tree/IoV_Revised_plan1），为了衔接，这里直接从 v003 跳到 v006。
+1. 关于日志中的 929v003 直接跳至 929v006：第一次发布的 929v005 其实是方案1的版本（https://github.com/zwwooooo/IoV/tree/IoV_Revised_plan1），为了衔接，这里直接从 v003 跳到 v006。
+2. 929v007 恢复原来的弹匣排序，因为我解决了“佣兵初始装备枪械消失、BR枪械没子弹”的 Bug
 
 [ 由来，再入坑 ]
 
