@@ -73,9 +73,9 @@
 		<APCost>20</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>64</firstItemIndex>
-		<secondItemIndex>260</secondItemIndex>
-		<firstResultingItemIndex>1699</firstResultingItemIndex>
+		<firstItemIndex>64</firstItemIndex> <!-- Crowbar -->
+		<secondItemIndex>260</secondItemIndex> <!-- Creature Claw -->
+		<firstResultingItemIndex>1699</firstResultingItemIndex> <!-- Azrael Sickle -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>2</mergeType>
 		<APCost>75</APCost>
@@ -113,17 +113,17 @@
 		<APCost>32</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>183</firstItemIndex>
-		<secondItemIndex>183</secondItemIndex>
-		<firstResultingItemIndex>1763</firstResultingItemIndex>
+		<firstItemIndex>183</firstItemIndex> <!-- SAPI III -->
+		<secondItemIndex>183</secondItemIndex> <!-- SAPI III -->
+		<firstResultingItemIndex>1763</firstResultingItemIndex> <!-- Pair SAPI III -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>2</mergeType>
 		<APCost>20</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>183</firstItemIndex>
-		<secondItemIndex>1752</secondItemIndex>
-		<firstResultingItemIndex>1764</firstResultingItemIndex>
+		<firstItemIndex>183</firstItemIndex> <!-- SAPI III -->
+		<secondItemIndex>1752</secondItemIndex> <!-- SAPI IV -->
+		<firstResultingItemIndex>1764</firstResultingItemIndex> <!-- Pair SAPI -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>2</mergeType>
 		<APCost>20</APCost>
@@ -177,97 +177,97 @@
 		<APCost>32</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>207</firstItemIndex>
-		<secondItemIndex>16</secondItemIndex>
-		<firstResultingItemIndex>1107</firstResultingItemIndex>
+		<firstItemIndex>207</firstItemIndex> <!-- Silencer -->
+		<secondItemIndex>16</secondItemIndex> <!-- Type85 -->
+		<firstResultingItemIndex>1107</firstResultingItemIndex> <!-- Type85 SD -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>207</firstItemIndex>
-		<secondItemIndex>622</secondItemIndex>
-		<firstResultingItemIndex>1059</firstResultingItemIndex>
+		<firstItemIndex>207</firstItemIndex> <!-- Silencer -->
+		<secondItemIndex>622</secondItemIndex> <!-- Beretta 92FS -->
+		<firstResultingItemIndex>1059</firstResultingItemIndex> <!-- M9 Silencer -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>15</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>207</firstItemIndex>
-		<secondItemIndex>628</secondItemIndex>
-		<firstResultingItemIndex>795</firstResultingItemIndex>
+		<firstItemIndex>207</firstItemIndex> <!-- Silencer -->
+		<secondItemIndex>628</secondItemIndex> <!-- Carl Gustaf M/45B -->
+		<firstResultingItemIndex>795</firstResultingItemIndex> <!-- SEALs Swedish-K -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>207</firstItemIndex>
-		<secondItemIndex>670</secondItemIndex>
-		<firstResultingItemIndex>1062</firstResultingItemIndex>
+		<firstItemIndex>207</firstItemIndex> <!-- Silencer -->
+		<secondItemIndex>670</secondItemIndex> <!-- Mk23 -->
+		<firstResultingItemIndex>1062</firstResultingItemIndex> <!-- Mk23 SOCOM -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>15</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>207</firstItemIndex>
-		<secondItemIndex>725</secondItemIndex>
-		<firstResultingItemIndex>793</firstResultingItemIndex>
+		<firstItemIndex>207</firstItemIndex> <!-- Silencer -->
+		<secondItemIndex>725</secondItemIndex> <!-- L2A3 -->
+		<firstResultingItemIndex>793</firstResultingItemIndex> <!-- L34A1 -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>207</firstItemIndex>
-		<secondItemIndex>1220</secondItemIndex>
-		<firstResultingItemIndex>942</firstResultingItemIndex>
+		<firstItemIndex>207</firstItemIndex> <!-- Silencer -->
+		<secondItemIndex>1220</secondItemIndex> <!-- P226 NAVY -->
+		<firstResultingItemIndex>942</firstResultingItemIndex> <!-- Mk25 SOCOM -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>15</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>207</firstItemIndex>
-		<secondItemIndex>1279</secondItemIndex>
-		<firstResultingItemIndex>2151</firstResultingItemIndex>
+		<firstItemIndex>207</firstItemIndex> <!-- Silencer -->
+		<secondItemIndex>1279</secondItemIndex> <!-- M3A1 -->
+		<firstResultingItemIndex>2151</firstResultingItemIndex> <!-- M3A1 OSS -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>207</firstItemIndex>
-		<secondItemIndex>2761</secondItemIndex>
-		<firstResultingItemIndex>2834</firstResultingItemIndex>
+		<firstItemIndex>207</firstItemIndex> <!-- Silencer -->
+		<secondItemIndex>2761</secondItemIndex> <!-- Carl Gustaf M/45B -->
+		<firstResultingItemIndex>2834</firstResultingItemIndex> <!-- SEALs Swedish-K -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>207</firstItemIndex>
-		<secondItemIndex>2826</secondItemIndex>
-		<firstResultingItemIndex>2827</firstResultingItemIndex>
+		<firstItemIndex>207</firstItemIndex> <!-- Silencer -->
+		<secondItemIndex>2826</secondItemIndex> <!-- Type85 -->
+		<firstResultingItemIndex>2827</firstResultingItemIndex> <!-- Type85 SD -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>207</firstItemIndex>
-		<secondItemIndex>2844</secondItemIndex>
-		<firstResultingItemIndex>2845</firstResultingItemIndex>
+		<firstItemIndex>207</firstItemIndex> <!-- Silencer -->
+		<secondItemIndex>2844</secondItemIndex> <!-- L2A3 -->
+		<firstResultingItemIndex>2845</firstResultingItemIndex> <!-- L34A1 -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>207</firstItemIndex>
-		<secondItemIndex>2899</secondItemIndex>
-		<firstResultingItemIndex>2900</firstResultingItemIndex>
+		<firstItemIndex>207</firstItemIndex> <!-- Silencer -->
+		<secondItemIndex>2899</secondItemIndex> <!-- M3A1 -->
+		<firstResultingItemIndex>2900</firstResultingItemIndex> <!-- M3A1 OSS -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>210</firstItemIndex>
-		<secondItemIndex>1722</secondItemIndex>
-		<firstResultingItemIndex>1723</firstResultingItemIndex>
+		<firstItemIndex>210</firstItemIndex> <!-- Extended Ear -->
+		<secondItemIndex>1722</secondItemIndex> <!-- IBCH -->
+		<firstResultingItemIndex>1723</firstResultingItemIndex> <!-- IBCH -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>2</mergeType>
 		<APCost>75</APCost>
@@ -601,9 +601,9 @@
 		<APCost>32</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>260</firstItemIndex>
-		<secondItemIndex>64</secondItemIndex>
-		<firstResultingItemIndex>1699</firstResultingItemIndex>
+		<firstItemIndex>260</firstItemIndex> <!-- Creature Claw -->
+		<secondItemIndex>64</secondItemIndex> <!-- Crowbar -->
+		<firstResultingItemIndex>1699</firstResultingItemIndex> <!-- Azrael Sickle -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
@@ -705,17 +705,17 @@
 		<APCost>20</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>310</firstItemIndex>
-		<secondItemIndex>638</secondItemIndex>
-		<firstResultingItemIndex>1361</firstResultingItemIndex>
+		<firstItemIndex>310</firstItemIndex> <!-- Extender -->
+		<secondItemIndex>638</secondItemIndex> <!-- Desert Eagle .50 AE -->
+		<firstResultingItemIndex>1361</firstResultingItemIndex> <!-- Desert Eagle 10" -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>310</firstItemIndex>
-		<secondItemIndex>648</secondItemIndex>
-		<firstResultingItemIndex>1359</firstResultingItemIndex>
+		<firstItemIndex>310</firstItemIndex> <!-- Extender -->
+		<secondItemIndex>648</secondItemIndex> <!-- SA58 OSW -->
+		<firstResultingItemIndex>1359</firstResultingItemIndex> <!-- SA58 Para Elite -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
@@ -963,7 +963,7 @@
 	<MERGE>
 		<firstItemIndex>864</firstItemIndex>
 		<secondItemIndex>1685</secondItemIndex>
-		<firstResultingItemIndex>3049</firstResultingItemIndex>
+		<firstResultingItemIndex>3049</firstResultingItemIndex> <!-- M9 Cutters -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>20</APCost>
@@ -977,82 +977,82 @@
 		<APCost>32</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>875</firstItemIndex>
+		<firstItemIndex>875</firstItemIndex> <!-- Dyneema -->
 		<secondItemIndex>875</secondItemIndex>
-		<firstResultingItemIndex>876</firstResultingItemIndex>
+		<firstResultingItemIndex>876</firstResultingItemIndex> <!-- Pair Dyneema -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>2</mergeType>
 		<APCost>20</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>902</firstItemIndex>
-		<secondItemIndex>332</secondItemIndex>
-		<firstResultingItemIndex>1340</firstResultingItemIndex>
-		<secondResultingItemIndex>50</secondResultingItemIndex>
+		<firstItemIndex>902</firstItemIndex> <!-- M203PI -->
+		<secondItemIndex>332</secondItemIndex> <!-- TAR 21 -->
+		<firstResultingItemIndex>1340</firstResultingItemIndex> <!-- GTAR-21 -->
+		<secondResultingItemIndex>50</secondResultingItemIndex> <!-- M203 Talon -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>902</firstItemIndex>
-		<secondItemIndex>632</secondItemIndex>
-		<firstResultingItemIndex>1350</firstResultingItemIndex>
-		<secondResultingItemIndex>50</secondResultingItemIndex>
+		<firstItemIndex>902</firstItemIndex> <!-- M203PI -->
+		<secondItemIndex>632</secondItemIndex> <!-- M16A4 -->
+		<firstResultingItemIndex>1350</firstResultingItemIndex> <!-- M16A4/M203 -->
+		<secondResultingItemIndex>50</secondResultingItemIndex> <!-- M203 Talon -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>902</firstItemIndex>
-		<secondItemIndex>1351</secondItemIndex>
-		<firstResultingItemIndex>1317</firstResultingItemIndex>
-		<secondResultingItemIndex>50</secondResultingItemIndex>
+		<firstItemIndex>902</firstItemIndex> <!-- M203PI -->
+		<secondItemIndex>1351</secondItemIndex> <!-- M16A2 -->
+		<firstResultingItemIndex>1317</firstResultingItemIndex> <!-- M16A2/M203 -->
+		<secondResultingItemIndex>50</secondResultingItemIndex> <!-- M203 Talon -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>904</firstItemIndex>
-		<secondItemIndex>616</secondItemIndex>
-		<firstResultingItemIndex>1997</firstResultingItemIndex>
-		<secondResultingItemIndex>911</secondResultingItemIndex>
+		<firstItemIndex>904</firstItemIndex> <!-- GP-30 -->
+		<secondItemIndex>616</secondItemIndex> <!-- AN94 -->
+		<firstResultingItemIndex>1997</firstResultingItemIndex> <!-- AN94/GP30 -->
+		<secondResultingItemIndex>911</secondResultingItemIndex> <!-- GP-30 -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>904</firstItemIndex>
-		<secondItemIndex>2799</secondItemIndex>
-		<firstResultingItemIndex>2800</firstResultingItemIndex>
-		<secondResultingItemIndex>911</secondResultingItemIndex>
+		<firstItemIndex>904</firstItemIndex> <!-- GP-30 -->
+		<secondItemIndex>2799</secondItemIndex> <!-- AN94 -->
+		<firstResultingItemIndex>2800</firstResultingItemIndex> <!-- AN94/GP30 -->
+		<secondResultingItemIndex>911</secondResultingItemIndex> <!-- GP-30 -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>905</firstItemIndex>
-		<secondItemIndex>750</secondItemIndex>
-		<firstResultingItemIndex>1348</firstResultingItemIndex>
-		<secondResultingItemIndex>1616</secondResultingItemIndex>
+		<firstItemIndex>905</firstItemIndex> <!-- AG-C -->
+		<secondItemIndex>750</secondItemIndex> <!-- XM8 -->
+		<firstResultingItemIndex>1348</firstResultingItemIndex> <!-- XM8/XM320 -->
+		<secondResultingItemIndex>1616</secondResultingItemIndex> <!-- AG-C -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>905</firstItemIndex>
-		<secondItemIndex>755</secondItemIndex>
-		<firstResultingItemIndex>1349</firstResultingItemIndex>
-		<secondResultingItemIndex>1616</secondResultingItemIndex>
+		<firstItemIndex>905</firstItemIndex> <!-- AG-C -->
+		<secondItemIndex>755</secondItemIndex> <!-- G36 -->
+		<firstResultingItemIndex>1349</firstResultingItemIndex> <!-- G36/AG36 -->
+		<secondResultingItemIndex>1616</secondResultingItemIndex> <!-- AG-C -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>905</firstItemIndex>
-		<secondItemIndex>2863</secondItemIndex>
-		<firstResultingItemIndex>2869</firstResultingItemIndex>
-		<secondResultingItemIndex>1616</secondResultingItemIndex>
+		<firstItemIndex>905</firstItemIndex> <!-- AG-C -->
+		<secondItemIndex>2863</secondItemIndex> <!-- G36 -->
+		<firstResultingItemIndex>2869</firstResultingItemIndex> <!-- G36/AG36 -->
+		<secondResultingItemIndex>1616</secondResultingItemIndex> <!-- AG-C -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>929</firstItemIndex>
-		<secondItemIndex>762</secondItemIndex>
-		<firstResultingItemIndex>1352</firstResultingItemIndex>
-		<secondResultingItemIndex>930</secondResultingItemIndex>
+		<firstItemIndex>929</firstItemIndex> <!-- XM148 -->
+		<secondItemIndex>762</secondItemIndex> <!-- M16A1 -->
+		<firstResultingItemIndex>1352</firstResultingItemIndex> <!-- M16A1/XM148 -->
+		<secondResultingItemIndex>930</secondResultingItemIndex> <!-- XM148 -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
@@ -1273,88 +1273,88 @@
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1008</firstItemIndex>
-		<secondItemIndex>9</secondItemIndex>
-		<firstResultingItemIndex>939</firstResultingItemIndex>
+		<firstItemIndex>1008</firstItemIndex> <!-- Folding Stock -->
+		<secondItemIndex>9</secondItemIndex> <!-- MP5K -->
+		<firstResultingItemIndex>939</firstResultingItemIndex> <!-- MP5K-PDW -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1008</firstItemIndex>
-		<secondItemIndex>27</secondItemIndex>
-		<firstResultingItemIndex>1158</firstResultingItemIndex>
+		<firstItemIndex>1008</firstItemIndex> <!-- Folding Stock -->
+		<secondItemIndex>27</secondItemIndex> <!-- M14 -->
+		<firstResultingItemIndex>1158</firstResultingItemIndex> <!-- M14 fold-stock -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1008</firstItemIndex>
-		<secondItemIndex>28</secondItemIndex>
-		<firstResultingItemIndex>1231</firstResultingItemIndex>
+		<firstItemIndex>1008</firstItemIndex> <!-- Folding Stock -->
+		<secondItemIndex>28</secondItemIndex> <!-- FAL -->
+		<firstResultingItemIndex>1231</firstResultingItemIndex> <!-- FAL Para -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1008</firstItemIndex>
-		<secondItemIndex>349</secondItemIndex>
-		<firstResultingItemIndex>2466</firstResultingItemIndex>
+		<firstItemIndex>1008</firstItemIndex> <!-- Folding Stock -->
+		<secondItemIndex>349</secondItemIndex> <!-- SR-3 -->
+		<firstResultingItemIndex>2466</firstResultingItemIndex> <!-- SR-3M -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1008</firstItemIndex>
-		<secondItemIndex>624</secondItemIndex>
-		<firstResultingItemIndex>1246</firstResultingItemIndex>
+		<firstItemIndex>1008</firstItemIndex> <!-- Folding Stock -->
+		<secondItemIndex>624</secondItemIndex> <!-- AR-70/90 -->
+		<firstResultingItemIndex>1246</firstResultingItemIndex> <!-- SC-70/90 -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1008</firstItemIndex>
-		<secondItemIndex>730</secondItemIndex>
-		<firstResultingItemIndex>2279</firstResultingItemIndex>
+		<firstItemIndex>1008</firstItemIndex> <!-- Folding Stock -->
+		<secondItemIndex>730</secondItemIndex> <!-- TMP -->
+		<firstResultingItemIndex>2279</firstResultingItemIndex> <!-- MP9 -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1008</firstItemIndex>
-		<secondItemIndex>1163</secondItemIndex>
+		<firstItemIndex>1008</firstItemIndex> <!-- Folding Stock -->
+		<secondItemIndex>1163</secondItemIndex> <!-- Stoner 63A Commando -->
 		<firstResultingItemIndex>1041</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1009</firstItemIndex>
-		<secondItemIndex>34</secondItemIndex>
-		<firstResultingItemIndex>1236</firstResultingItemIndex>
+		<firstItemIndex>1009</firstItemIndex> <!-- Retractable Stock -->
+		<secondItemIndex>34</secondItemIndex> <!-- FN Minimi -->
+		<firstResultingItemIndex>1236</firstResultingItemIndex> <!-- C9A2 -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1009</firstItemIndex>
-		<secondItemIndex>632</secondItemIndex>
-		<firstResultingItemIndex>1136</firstResultingItemIndex>
+		<firstItemIndex>1009</firstItemIndex> <!-- Retractable Stock -->
+		<secondItemIndex>632</secondItemIndex> <!-- M16A4 -->
+		<firstResultingItemIndex>1136</firstResultingItemIndex> <!-- M16A4 w. R stock -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1009</firstItemIndex>
-		<secondItemIndex>1160</secondItemIndex>
-		<firstResultingItemIndex>619</firstResultingItemIndex>
+		<firstItemIndex>1009</firstItemIndex> <!-- Retractable Stock -->
+		<secondItemIndex>1160</secondItemIndex> <!-- Mk14 MOD0 -->
+		<firstResultingItemIndex>619</firstResultingItemIndex> <!-- Mk14 MOD1 -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1009</firstItemIndex>
-		<secondItemIndex>2159</secondItemIndex>
+		<firstItemIndex>1009</firstItemIndex> <!-- Retractable Stock -->
+		<secondItemIndex>2159</secondItemIndex> <!-- XM26 LSS -->
 		<firstResultingItemIndex>2133</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
@@ -1369,17 +1369,17 @@
 		<APCost>32</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1026</firstItemIndex>
-		<secondItemIndex>788</secondItemIndex>
-		<firstResultingItemIndex>1351</firstResultingItemIndex>
+		<firstItemIndex>1026</firstItemIndex> <!-- Trigger Group -->
+		<secondItemIndex>788</secondItemIndex> <!-- M16A3 -->
+		<firstResultingItemIndex>1351</firstResultingItemIndex> <!-- M16A2 -->
 		<secondResultingItemIndex>1026</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1026</firstItemIndex>
-		<secondItemIndex>1351</secondItemIndex>
-		<firstResultingItemIndex>788</firstResultingItemIndex>
+		<firstItemIndex>1026</firstItemIndex> <!-- Trigger Group -->
+		<secondItemIndex>1351</secondItemIndex> <!-- M16A2 -->
+		<firstResultingItemIndex>788</firstResultingItemIndex> <!-- M16A3 -->
 		<secondResultingItemIndex>1026</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
@@ -1451,7 +1451,7 @@
 	<MERGE>
 		<firstItemIndex>1684</firstItemIndex>
 		<secondItemIndex>2204</secondItemIndex>
-		<firstResultingItemIndex>3049</firstResultingItemIndex>
+		<firstResultingItemIndex>3049</firstResultingItemIndex> <!-- AK Cutters -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>20</APCost>
@@ -1459,7 +1459,7 @@
 	<MERGE>
 		<firstItemIndex>1685</firstItemIndex>
 		<secondItemIndex>864</secondItemIndex>
-		<firstResultingItemIndex>3049</firstResultingItemIndex>
+		<firstResultingItemIndex>3049</firstResultingItemIndex> <!-- M9 Cutters -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>20</APCost>
@@ -1697,31 +1697,31 @@
 		<APCost>20</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1750</firstItemIndex>
-		<secondItemIndex>293</secondItemIndex>
-		<firstResultingItemIndex>879</firstResultingItemIndex>
+		<firstItemIndex>1750</firstItemIndex> <!-- Ballistic Face Shield -->
+		<secondItemIndex>293</secondItemIndex> <!-- SWAT Helmet -->
+		<firstResultingItemIndex>879</firstResultingItemIndex> <!-- Heavy SWAT Helmet -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>2</mergeType>
 		<APCost>30</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1752</firstItemIndex>
-		<secondItemIndex>183</secondItemIndex>
-		<firstResultingItemIndex>1764</firstResultingItemIndex>
+		<firstItemIndex>1752</firstItemIndex> <!-- SAPI IV -->
+		<secondItemIndex>183</secondItemIndex> <!-- SAPI III -->
+		<firstResultingItemIndex>1764</firstResultingItemIndex> <!-- Pair SAPI -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>2</mergeType>
 		<APCost>20</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1752</firstItemIndex>
-		<secondItemIndex>1752</secondItemIndex>
-		<firstResultingItemIndex>1753</firstResultingItemIndex>
+		<firstItemIndex>1752</firstItemIndex> <!-- SAPI IV -->
+		<secondItemIndex>1752</secondItemIndex> <!-- SAPI IV -->
+		<firstResultingItemIndex>1753</firstResultingItemIndex> <!-- Pair SAPI IV -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>2</mergeType>
 		<APCost>20</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1840</firstItemIndex>
+		<firstItemIndex>1840</firstItemIndex> <!-- Pistol Stock -->
 		<secondItemIndex>724</secondItemIndex>
 		<firstResultingItemIndex>3037</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
@@ -1745,143 +1745,143 @@
 		<APCost>15</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1841</firstItemIndex>
-		<secondItemIndex>1203</secondItemIndex>
-		<firstResultingItemIndex>2721</firstResultingItemIndex>
+		<firstItemIndex>1841</firstItemIndex> <!-- VP70 Stock -->
+		<secondItemIndex>1203</secondItemIndex> <!-- VP70 -->
+		<firstResultingItemIndex>2721</firstResultingItemIndex> <!-- VP70-MP -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>10</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1861</firstItemIndex>
-		<secondItemIndex>1123</secondItemIndex>
-		<firstResultingItemIndex>1122</firstResultingItemIndex>
-		<secondResultingItemIndex>1862</secondResultingItemIndex>
+		<firstItemIndex>1861</firstItemIndex> <!-- Mk16 Mod0 CQC barrel -->
+		<secondItemIndex>1123</secondItemIndex> <!-- Mk16 Mod0 STD -->
+		<firstResultingItemIndex>1122</firstResultingItemIndex> <!-- Mk16 Mod0 CQC -->
+		<secondResultingItemIndex>1862</secondResultingItemIndex> <!-- Mk16 Mod0 STD barrel -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1861</firstItemIndex>
-		<secondItemIndex>2723</secondItemIndex>
-		<firstResultingItemIndex>2722</firstResultingItemIndex>
-		<secondResultingItemIndex>1862</secondResultingItemIndex>
+		<firstItemIndex>1861</firstItemIndex> <!-- Mk16 Mod0 CQC barrel -->
+		<secondItemIndex>2723</secondItemIndex> <!-- Mk16 Mod0 STD -->
+		<firstResultingItemIndex>2722</firstResultingItemIndex> <!-- Mk16 Mod0 CQC -->
+		<secondResultingItemIndex>1862</secondResultingItemIndex> <!-- Mk16 Mod0 STD barrel -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1862</firstItemIndex>
-		<secondItemIndex>1122</secondItemIndex>
-		<firstResultingItemIndex>1123</firstResultingItemIndex>
-		<secondResultingItemIndex>1861</secondResultingItemIndex>
+		<firstItemIndex>1862</firstItemIndex> <!-- Mk16 Mod0 STD barrel -->
+		<secondItemIndex>1122</secondItemIndex> <!-- Mk16 Mod0 CQC -->
+		<firstResultingItemIndex>1123</firstResultingItemIndex> <!-- Mk16 Mod0 STD -->
+		<secondResultingItemIndex>1861</secondResultingItemIndex> <!-- Mk16 Mod0 CQC barrel -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1862</firstItemIndex>
-		<secondItemIndex>2722</secondItemIndex>
-		<firstResultingItemIndex>2723</firstResultingItemIndex>
-		<secondResultingItemIndex>1861</secondResultingItemIndex>
+		<firstItemIndex>1862</firstItemIndex> <!-- Mk16 Mod0 STD barrel -->
+		<secondItemIndex>2722</secondItemIndex> <!-- Mk16 Mod0 CQC -->
+		<firstResultingItemIndex>2723</firstResultingItemIndex> <!-- Mk16 Mod0 STD -->
+		<secondResultingItemIndex>1861</secondResultingItemIndex> <!-- Mk16 Mod0 CQC barrel -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1863</firstItemIndex>
-		<secondItemIndex>1125</secondItemIndex>
-		<firstResultingItemIndex>1124</firstResultingItemIndex>
-		<secondResultingItemIndex>1864</secondResultingItemIndex>
+		<firstItemIndex>1863</firstItemIndex> <!-- Mk17 Mod0 CQC barrel -->
+		<secondItemIndex>1125</secondItemIndex> <!-- Mk17 Mod0 STD -->
+		<firstResultingItemIndex>1124</firstResultingItemIndex> <!-- Mk17 Mod0 CQC -->
+		<secondResultingItemIndex>1864</secondResultingItemIndex> <!-- Mk17 Mod0 STD barrel -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1863</firstItemIndex>
-		<secondItemIndex>2725</secondItemIndex>
-		<firstResultingItemIndex>2724</firstResultingItemIndex>
-		<secondResultingItemIndex>1864</secondResultingItemIndex>
+		<firstItemIndex>1863</firstItemIndex> <!-- Mk17 Mod0 CQC barrel -->
+		<secondItemIndex>2725</secondItemIndex> <!-- Mk17 Mod0 STD -->
+		<firstResultingItemIndex>2724</firstResultingItemIndex> <!-- Mk17 Mod0 CQC -->
+		<secondResultingItemIndex>1864</secondResultingItemIndex> <!-- Mk17 Mod0 STD barrel -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1864</firstItemIndex>
-		<secondItemIndex>1124</secondItemIndex>
-		<firstResultingItemIndex>1125</firstResultingItemIndex>
-		<secondResultingItemIndex>1863</secondResultingItemIndex>
+		<firstItemIndex>1864</firstItemIndex> <!-- Mk17 Mod0 STD barrel -->
+		<secondItemIndex>1124</secondItemIndex> <!-- Mk17 CQC STD -->
+		<firstResultingItemIndex>1125</firstResultingItemIndex> <!-- Mk17 Mod0 STD -->
+		<secondResultingItemIndex>1863</secondResultingItemIndex> <!-- Mk17 Mod0 CQC barrel -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1864</firstItemIndex>
-		<secondItemIndex>2724</secondItemIndex>
-		<firstResultingItemIndex>2725</firstResultingItemIndex>
-		<secondResultingItemIndex>1863</secondResultingItemIndex>
+		<firstItemIndex>1864</firstItemIndex> <!-- Mk17 Mod0 STD barrel -->
+		<secondItemIndex>2724</secondItemIndex> <!-- Mk17 CQC STD -->
+		<firstResultingItemIndex>2725</firstResultingItemIndex> <!-- Mk17 Mod0 STD -->
+		<secondResultingItemIndex>1863</secondResultingItemIndex> <!-- Mk17 Mod0 CQC barrel -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1865</firstItemIndex>
-		<secondItemIndex>1127</secondItemIndex>
-		<firstResultingItemIndex>1126</firstResultingItemIndex>
-		<secondResultingItemIndex>1866</secondResultingItemIndex>
+		<firstItemIndex>1865</firstItemIndex> <!-- Mk16 Mod1 CQC barrel -->
+		<secondItemIndex>1127</secondItemIndex> <!-- Mk16 Mod1 STD -->
+		<firstResultingItemIndex>1126</firstResultingItemIndex> <!-- Mk16 Mod1 CQC -->
+		<secondResultingItemIndex>1866</secondResultingItemIndex> <!-- Mk16 Mod1 STD barrel -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1865</firstItemIndex>
-		<secondItemIndex>2727</secondItemIndex>
-		<firstResultingItemIndex>2726</firstResultingItemIndex>
-		<secondResultingItemIndex>1866</secondResultingItemIndex>
+		<firstItemIndex>1865</firstItemIndex> <!-- Mk16 Mod1 CQC barrel -->
+		<secondItemIndex>2727</secondItemIndex> <!-- Mk16 Mod1 STD -->
+		<firstResultingItemIndex>2726</firstResultingItemIndex> <!-- Mk16 Mod1 CQC -->
+		<secondResultingItemIndex>1866</secondResultingItemIndex> <!-- Mk16 Mod1 STD barrel -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1866</firstItemIndex>
-		<secondItemIndex>1126</secondItemIndex>
-		<firstResultingItemIndex>1127</firstResultingItemIndex>
-		<secondResultingItemIndex>1865</secondResultingItemIndex>
+		<firstItemIndex>1866</firstItemIndex> <!-- Mk16 Mod1 STD barrel -->
+		<secondItemIndex>1126</secondItemIndex> <!-- Mk16 Mod1 CQC -->
+		<firstResultingItemIndex>1127</firstResultingItemIndex> <!-- Mk16 Mod1 STD -->
+		<secondResultingItemIndex>1865</secondResultingItemIndex> <!-- Mk16 Mod1 CQC barrel -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1866</firstItemIndex>
-		<secondItemIndex>2726</secondItemIndex>
-		<firstResultingItemIndex>2727</firstResultingItemIndex>
-		<secondResultingItemIndex>1865</secondResultingItemIndex>
+		<firstItemIndex>1866</firstItemIndex> <!-- Mk16 Mod1 STD barrel -->
+		<secondItemIndex>2726</secondItemIndex> <!-- Mk16 Mod1 CQC -->
+		<firstResultingItemIndex>2727</firstResultingItemIndex> <!-- Mk16 Mod1 STD -->
+		<secondResultingItemIndex>1865</secondResultingItemIndex> <!-- Mk16 Mod1 CQC barrel -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1867</firstItemIndex>
-		<secondItemIndex>1129</secondItemIndex>
-		<firstResultingItemIndex>1128</firstResultingItemIndex>
-		<secondResultingItemIndex>1868</secondResultingItemIndex>
+		<firstItemIndex>1867</firstItemIndex> <!-- SCAR-WP CQC barrel -->
+		<secondItemIndex>1129</secondItemIndex> <!-- SCAR-WP STD -->
+		<firstResultingItemIndex>1128</firstResultingItemIndex> <!-- SCAR-WP CQC -->
+		<secondResultingItemIndex>1868</secondResultingItemIndex> <!-- SCAR-WP STD barrel -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1867</firstItemIndex>
-		<secondItemIndex>2729</secondItemIndex>
-		<firstResultingItemIndex>2728</firstResultingItemIndex>
-		<secondResultingItemIndex>1868</secondResultingItemIndex>
+		<firstItemIndex>1867</firstItemIndex> <!-- SCAR-WP CQC barrel -->
+		<secondItemIndex>2729</secondItemIndex> <!-- SCAR-WP STD -->
+		<firstResultingItemIndex>2728</firstResultingItemIndex> <!-- SCAR-WP CQC -->
+		<secondResultingItemIndex>1868</secondResultingItemIndex> <!-- SCAR-WP STD barrel -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1868</firstItemIndex>
-		<secondItemIndex>1128</secondItemIndex>
-		<firstResultingItemIndex>1129</firstResultingItemIndex>
-		<secondResultingItemIndex>1867</secondResultingItemIndex>
+		<firstItemIndex>1868</firstItemIndex> <!-- SCAR-WP STD barrel -->
+		<secondItemIndex>1128</secondItemIndex> <!-- SCAR-WP CQC STD -->
+		<firstResultingItemIndex>1129</firstResultingItemIndex> <!-- SCAR-WP STD -->
+		<secondResultingItemIndex>1867</secondResultingItemIndex> <!-- SCAR-WP CQC barrel -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1868</firstItemIndex>
-		<secondItemIndex>2728</secondItemIndex>
-		<firstResultingItemIndex>2729</firstResultingItemIndex>
-		<secondResultingItemIndex>1867</secondResultingItemIndex>
+		<firstItemIndex>1868</firstItemIndex> <!-- SCAR-WP STD barrel -->
+		<secondItemIndex>2728</secondItemIndex> <!-- SCAR-WP CQC STD -->
+		<firstResultingItemIndex>2729</firstResultingItemIndex> <!-- SCAR-WP STD -->
+		<secondResultingItemIndex>1867</secondResultingItemIndex> <!-- SCAR-WP CQC barrel -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1872</firstItemIndex>
+		<firstItemIndex>1872</firstItemIndex> <!-- CQBR Upper -->
 		<secondItemIndex>633</secondItemIndex>
 		<firstResultingItemIndex>1134</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
@@ -1905,7 +1905,7 @@
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1873</firstItemIndex>
+		<firstItemIndex>1873</firstItemIndex> <!-- SEAL Recon Upper -->
 		<secondItemIndex>633</secondItemIndex>
 		<firstResultingItemIndex>1135</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
@@ -1929,7 +1929,7 @@
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1874</firstItemIndex>
+		<firstItemIndex>1874</firstItemIndex> <!-- Ares Shrike Upper -->
 		<secondItemIndex>633</secondItemIndex>
 		<firstResultingItemIndex>1138</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
@@ -1937,7 +1937,7 @@
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1875</firstItemIndex>
+		<firstItemIndex>1875</firstItemIndex> <!-- M468 Upper -->
 		<secondItemIndex>633</secondItemIndex>
 		<firstResultingItemIndex>1139</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
@@ -1945,375 +1945,375 @@
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1876</firstItemIndex>
-		<secondItemIndex>27</secondItemIndex>
-		<firstResultingItemIndex>1157</firstResultingItemIndex>
+		<firstItemIndex>1876</firstItemIndex> <!-- EBR Stock -->
+		<secondItemIndex>27</secondItemIndex> <!-- M14 -->
+		<firstResultingItemIndex>1157</firstResultingItemIndex> <!-- M14 EBR -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1876</firstItemIndex>
-		<secondItemIndex>1155</secondItemIndex>
-		<firstResultingItemIndex>1157</firstResultingItemIndex>
+		<firstItemIndex>1876</firstItemIndex> <!-- EBR Stock -->
+		<secondItemIndex>1155</secondItemIndex> <!-- M14E2 -->
+		<firstResultingItemIndex>1157</firstResultingItemIndex> <!-- M14 EBR -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1876</firstItemIndex>
-		<secondItemIndex>1156</secondItemIndex>
-		<firstResultingItemIndex>1160</firstResultingItemIndex>
+		<firstItemIndex>1876</firstItemIndex> <!-- EBR Stock -->
+		<secondItemIndex>1156</secondItemIndex> <!-- M1A Scout -->
+		<firstResultingItemIndex>1160</firstResultingItemIndex> <!-- Mk14 Mod0 -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1876</firstItemIndex>
-		<secondItemIndex>1158</secondItemIndex>
-		<firstResultingItemIndex>1157</firstResultingItemIndex>
+		<firstItemIndex>1876</firstItemIndex> <!-- EBR Stock -->
+		<secondItemIndex>1158</secondItemIndex> <!-- M14 -->
+		<firstResultingItemIndex>1157</firstResultingItemIndex> <!-- M14 EBR -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1876</firstItemIndex>
-		<secondItemIndex>1161</secondItemIndex>
-		<firstResultingItemIndex>1162</firstResultingItemIndex>
+		<firstItemIndex>1876</firstItemIndex> <!-- EBR Stock -->
+		<secondItemIndex>1161</secondItemIndex> <!-- AC-556K -->
+		<firstResultingItemIndex>1162</firstResultingItemIndex> <!-- AC-556 EBR -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1877</firstItemIndex>
-		<secondItemIndex>687</secondItemIndex>
-		<firstResultingItemIndex>1165</firstResultingItemIndex>
+		<firstItemIndex>1877</firstItemIndex> <!-- M60E4 upgread kit -->
+		<secondItemIndex>687</secondItemIndex> <!-- M60E3 -->
+		<firstResultingItemIndex>1165</firstResultingItemIndex> <!-- MK43 -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1877</firstItemIndex>
-		<secondItemIndex>1164</secondItemIndex>
-		<firstResultingItemIndex>1165</firstResultingItemIndex>
+		<firstItemIndex>1877</firstItemIndex> <!-- M60E4 upgread kit -->
+		<secondItemIndex>1164</secondItemIndex> <!-- M60 -->
+		<firstResultingItemIndex>1165</firstResultingItemIndex> <!-- Mk43 -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1878</firstItemIndex>
-		<secondItemIndex>649</secondItemIndex>
-		<firstResultingItemIndex>1237</firstResultingItemIndex>
+		<firstItemIndex>1878</firstItemIndex> <!-- KSP58D upgread kit -->
+		<secondItemIndex>649</secondItemIndex> <!-- FN MAG -->
+		<firstResultingItemIndex>1237</firstResultingItemIndex> <!-- Ksp58D -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1879</firstItemIndex>
-		<secondItemIndex>740</secondItemIndex>
-		<firstResultingItemIndex>2964</firstResultingItemIndex>
-		<secondResultingItemIndex>2489</secondResultingItemIndex>
+		<firstItemIndex>1879</firstItemIndex> <!-- Ultimax Para Kit -->
+		<secondItemIndex>740</secondItemIndex> <!-- Ultimax 100 Inf. -->
+		<firstResultingItemIndex>2964</firstResultingItemIndex> <!-- Ultimax 100 Para -->
+		<secondResultingItemIndex>2489</secondResultingItemIndex> <!-- Ultimax Inf. Kit -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1880</firstItemIndex>
-		<secondItemIndex>19</secondItemIndex>
-		<firstResultingItemIndex>1175</firstResultingItemIndex>
+		<firstItemIndex>1880</firstItemIndex> <!-- M24 Upgrade Kit -->
+		<secondItemIndex>19</secondItemIndex> <!-- M24 -->
+		<firstResultingItemIndex>1175</firstResultingItemIndex> <!-- M24A2 -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1881</firstItemIndex>
-		<secondItemIndex>20</secondItemIndex>
-		<firstResultingItemIndex>1240</firstResultingItemIndex>
-		<secondResultingItemIndex>1882</secondResultingItemIndex>
+		<firstItemIndex>1881</firstItemIndex> <!-- AUG Short Barrel -->
+		<secondItemIndex>20</secondItemIndex> <!-- AUG-A2 -->
+		<firstResultingItemIndex>1240</firstResultingItemIndex> <!-- AUG-SMG -->
+		<secondResultingItemIndex>1882</secondResultingItemIndex> <!-- AUG Middle Barrel -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1881</firstItemIndex>
-		<secondItemIndex>726</secondItemIndex>
-		<firstResultingItemIndex>1240</firstResultingItemIndex>
-		<secondResultingItemIndex>1883</secondResultingItemIndex>
+		<firstItemIndex>1881</firstItemIndex> <!-- AUG Short Barrel -->
+		<secondItemIndex>726</secondItemIndex> <!-- AUG HBAR -->
+		<firstResultingItemIndex>1240</firstResultingItemIndex> <!-- AUG-SMG -->
+		<secondResultingItemIndex>1883</secondResultingItemIndex> <!-- AUG Long Barrel -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1882</firstItemIndex>
-		<secondItemIndex>726</secondItemIndex>
-		<firstResultingItemIndex>20</firstResultingItemIndex>
-		<secondResultingItemIndex>1883</secondResultingItemIndex>
+		<firstItemIndex>1882</firstItemIndex> <!-- AUG Middle Barrel -->
+		<secondItemIndex>726</secondItemIndex> <!-- AUG HBAR -->
+		<firstResultingItemIndex>20</firstResultingItemIndex> <!-- AUG-A2 -->
+		<secondResultingItemIndex>1883</secondResultingItemIndex> <!-- AUG Long Barrel -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1882</firstItemIndex>
-		<secondItemIndex>1240</secondItemIndex>
-		<firstResultingItemIndex>20</firstResultingItemIndex>
-		<secondResultingItemIndex>1881</secondResultingItemIndex>
+		<firstItemIndex>1882</firstItemIndex> <!-- AUG Middle Barrel -->
+		<secondItemIndex>1240</secondItemIndex> <!-- AUG-SMG -->
+		<firstResultingItemIndex>20</firstResultingItemIndex> <!-- AUG-A2 -->
+		<secondResultingItemIndex>1881</secondResultingItemIndex> <!-- AUG Short Barrel -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1883</firstItemIndex>
-		<secondItemIndex>20</secondItemIndex>
-		<firstResultingItemIndex>726</firstResultingItemIndex>
-		<secondResultingItemIndex>1882</secondResultingItemIndex>
+		<firstItemIndex>1883</firstItemIndex> <!-- AUG Long Barrel -->
+		<secondItemIndex>20</secondItemIndex> <!-- AUG-A2 -->
+		<firstResultingItemIndex>726</firstResultingItemIndex> <!-- AUG HBAR -->
+		<secondResultingItemIndex>1882</secondResultingItemIndex> <!-- AUG Middle Barrel -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1883</firstItemIndex>
-		<secondItemIndex>1240</secondItemIndex>
-		<firstResultingItemIndex>726</firstResultingItemIndex>
-		<secondResultingItemIndex>1881</secondResultingItemIndex>
+		<firstItemIndex>1883</firstItemIndex> <!-- AUG Long Barrel -->
+		<secondItemIndex>1240</secondItemIndex> <!-- AUG-SMG -->
+		<firstResultingItemIndex>726</firstResultingItemIndex> <!-- AUG HBAR -->
+		<secondResultingItemIndex>1881</secondResultingItemIndex> <!-- AUG Short Barrel -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1884</firstItemIndex>
-		<secondItemIndex>14</secondItemIndex>
-		<firstResultingItemIndex>1951</firstResultingItemIndex>
+		<firstItemIndex>1884</firstItemIndex> <!-- RAS Upgrade Kit for AK -->
+		<secondItemIndex>14</secondItemIndex> <!-- AKS-74U -->
+		<firstResultingItemIndex>1951</firstResultingItemIndex> <!-- AKS-74U Tactical -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1884</firstItemIndex>
-		<secondItemIndex>17</secondItemIndex>
-		<firstResultingItemIndex>1267</firstResultingItemIndex>
+		<firstItemIndex>1884</firstItemIndex> <!-- RAS Upgrade Kit for AK -->
+		<secondItemIndex>17</secondItemIndex> <!-- SKS -->
+		<firstResultingItemIndex>1267</firstResultingItemIndex> <!-- SKS-Tactical -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1884</firstItemIndex>
-		<secondItemIndex>25</secondItemIndex>
-		<firstResultingItemIndex>1952</firstResultingItemIndex>
+		<firstItemIndex>1884</firstItemIndex> <!-- RAS Upgrade Kit for AK -->
+		<secondItemIndex>25</secondItemIndex> <!-- AK-74 -->
+		<firstResultingItemIndex>1952</firstResultingItemIndex> <!-- AK-74 Tactical -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1884</firstItemIndex>
-		<secondItemIndex>26</secondItemIndex>
-		<firstResultingItemIndex>1269</firstResultingItemIndex>
+		<firstItemIndex>1884</firstItemIndex> <!-- RAS Upgrade Kit for AK -->
+		<secondItemIndex>26</secondItemIndex> <!-- AKM -->
+		<firstResultingItemIndex>1269</firstResultingItemIndex> <!-- AKM Tactical -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1884</firstItemIndex>
-		<secondItemIndex>612</secondItemIndex>
-		<firstResultingItemIndex>1269</firstResultingItemIndex>
+		<firstItemIndex>1884</firstItemIndex> <!-- RAS Upgrade Kit for AK -->
+		<secondItemIndex>612</secondItemIndex> <!-- AKMS -->
+		<firstResultingItemIndex>1269</firstResultingItemIndex> <!-- AKM Tactical -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1884</firstItemIndex>
-		<secondItemIndex>614</secondItemIndex>
-		<firstResultingItemIndex>1952</firstResultingItemIndex>
+		<firstItemIndex>1884</firstItemIndex> <!-- RAS Upgrade Kit for AK -->
+		<secondItemIndex>614</secondItemIndex> <!-- AKS-74 -->
+		<firstResultingItemIndex>1952</firstResultingItemIndex> <!-- AK-74 Tactical -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1884</firstItemIndex>
-		<secondItemIndex>700</secondItemIndex>
-		<firstResultingItemIndex>2169</firstResultingItemIndex>
+		<firstItemIndex>1884</firstItemIndex> <!-- RAS Upgrade Kit for AK -->
+		<secondItemIndex>700</secondItemIndex> <!-- PKM -->
+		<firstResultingItemIndex>2169</firstResultingItemIndex> <!-- PKM MOD -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1884</firstItemIndex>
-		<secondItemIndex>708</secondItemIndex>
-		<firstResultingItemIndex>1273</firstResultingItemIndex>
+		<firstItemIndex>1884</firstItemIndex> <!-- RAS Upgrade Kit for AK -->
+		<secondItemIndex>708</secondItemIndex> <!-- Vz58 -->
+		<firstResultingItemIndex>1273</firstResultingItemIndex> <!-- Vz58 Tac -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1884</firstItemIndex>
-		<secondItemIndex>1105</secondItemIndex>
-		<firstResultingItemIndex>1106</firstResultingItemIndex>
+		<firstItemIndex>1884</firstItemIndex> <!-- RAS Upgrade Kit for AK -->
+		<secondItemIndex>1105</secondItemIndex> <!-- Type79 -->
+		<firstResultingItemIndex>1106</firstResultingItemIndex> <!-- Type79 RAS -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1884</firstItemIndex>
-		<secondItemIndex>914</secondItemIndex>
-		<firstResultingItemIndex>2284</firstResultingItemIndex>
+		<firstItemIndex>1884</firstItemIndex> <!-- RAS Upgrade Kit for AK -->
+		<secondItemIndex>914</secondItemIndex> <!-- RPG-7 -->
+		<firstResultingItemIndex>2284</firstResultingItemIndex> <!-- RPG-7 Tactical -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1885</firstItemIndex>
-		<secondItemIndex>1186</secondItemIndex>
-		<firstResultingItemIndex>1185</firstResultingItemIndex>
-		<secondResultingItemIndex>1886</secondResultingItemIndex>
+		<firstItemIndex>1885</firstItemIndex> <!-- con.t of 870MCS Breeching -->
+		<secondItemIndex>1186</secondItemIndex> <!-- 870MCS Entry/CQB -->
+		<firstResultingItemIndex>1185</firstResultingItemIndex> <!-- 870MCS Breaching -->
+		<secondResultingItemIndex>1886</secondResultingItemIndex> <!-- con.t of 870MCS CQB -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1885</firstItemIndex>
-		<secondItemIndex>1187</secondItemIndex>
-		<firstResultingItemIndex>1185</firstResultingItemIndex>
-		<secondResultingItemIndex>1887</secondResultingItemIndex>
+		<firstItemIndex>1885</firstItemIndex> <!-- con.t of 870MCS Breeching -->
+		<secondItemIndex>1187</secondItemIndex> <!-- 870MCS Patrol -->
+		<firstResultingItemIndex>1185</firstResultingItemIndex> <!-- 870MCS Breaching -->
+		<secondResultingItemIndex>1887</secondResultingItemIndex> <!-- con.t of 870MCS Patrol -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1886</firstItemIndex>
-		<secondItemIndex>1185</secondItemIndex>
-		<firstResultingItemIndex>1186</firstResultingItemIndex>
-		<secondResultingItemIndex>1885</secondResultingItemIndex>
+		<firstItemIndex>1886</firstItemIndex> <!-- con.t of 870MCS CQB -->
+		<secondItemIndex>1185</secondItemIndex> <!-- 870MCS Breaching -->
+		<firstResultingItemIndex>1186</firstResultingItemIndex> <!-- 870MCS Entry/CQB -->
+		<secondResultingItemIndex>1885</secondResultingItemIndex> <!-- con.t of 870MCS Breeching -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1886</firstItemIndex>
-		<secondItemIndex>1187</secondItemIndex>
-		<firstResultingItemIndex>1186</firstResultingItemIndex>
-		<secondResultingItemIndex>1887</secondResultingItemIndex>
+		<firstItemIndex>1886</firstItemIndex> <!-- con.t of 870MCS CQB -->
+		<secondItemIndex>1187</secondItemIndex> <!-- 870MCS Patrol -->
+		<firstResultingItemIndex>1186</firstResultingItemIndex> <!-- 870MCS Entry/CQB -->
+		<secondResultingItemIndex>1887</secondResultingItemIndex> <!-- con.t of 870MCS Patrol -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1887</firstItemIndex>
-		<secondItemIndex>1185</secondItemIndex>
-		<firstResultingItemIndex>1187</firstResultingItemIndex>
-		<secondResultingItemIndex>1885</secondResultingItemIndex>
+		<firstItemIndex>1887</firstItemIndex> <!-- con.t of 870MCS Patrol -->
+		<secondItemIndex>1185</secondItemIndex> <!-- 870MCS Breaching -->
+		<firstResultingItemIndex>1187</firstResultingItemIndex> <!-- 870MCS Patrol -->
+		<secondResultingItemIndex>1885</secondResultingItemIndex> <!-- con.t of 870MCS Breeching -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1887</firstItemIndex>
-		<secondItemIndex>1186</secondItemIndex>
-		<firstResultingItemIndex>1187</firstResultingItemIndex>
-		<secondResultingItemIndex>1886</secondResultingItemIndex>
+		<firstItemIndex>1887</firstItemIndex> <!-- con.t of 870MCS Patrol -->
+		<secondItemIndex>1186</secondItemIndex> <!-- 870MCS Entry/CQB -->
+		<firstResultingItemIndex>1187</firstResultingItemIndex> <!-- 870MCS Patrol -->
+		<secondResultingItemIndex>1886</secondResultingItemIndex> <!-- con.t of 870MCS CQB -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1889</firstItemIndex>
-		<secondItemIndex>21</secondItemIndex>
-		<firstResultingItemIndex>1213</firstResultingItemIndex>
+		<firstItemIndex>1889</firstItemIndex> <!-- Telescope Stock -->
+		<secondItemIndex>21</secondItemIndex> <!-- G41 -->
+		<firstResultingItemIndex>1213</firstResultingItemIndex> <!-- G41A2 -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1889</firstItemIndex>
-		<secondItemIndex>29</secondItemIndex>
-		<firstResultingItemIndex>1214</firstResultingItemIndex>
+		<firstItemIndex>1889</firstItemIndex> <!-- Telescope Stock -->
+		<secondItemIndex>29</secondItemIndex> <!-- G3A3 -->
+		<firstResultingItemIndex>1214</firstResultingItemIndex> <!-- G3A4 -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1889</firstItemIndex>
-		<secondItemIndex>1993</secondItemIndex>
-		<firstResultingItemIndex>1994</firstResultingItemIndex>
+		<firstItemIndex>1889</firstItemIndex> <!-- Telescope Stock -->
+		<secondItemIndex>1993</secondItemIndex> <!-- HK33EA2 -->
+		<firstResultingItemIndex>1994</firstResultingItemIndex> <!-- HK33EA3 -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1890</firstItemIndex>
-		<secondItemIndex>131</secondItemIndex>
-		<firstResultingItemIndex>1647</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>3</mergeType>
-		<APCost>32</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1890</firstItemIndex>
-		<secondItemIndex>132</secondItemIndex>
-		<firstResultingItemIndex>1646</firstResultingItemIndex>
+		<firstItemIndex>1890</firstItemIndex> <!-- Handgrenade Adapter -->
+		<secondItemIndex>131</secondItemIndex> <!-- Stun grenade -->
+		<firstResultingItemIndex>1647</firstResultingItemIndex> <!-- Stun Rifle Grenade -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>3</mergeType>
 		<APCost>32</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1890</firstItemIndex>
-		<secondItemIndex>133</secondItemIndex>
-		<firstResultingItemIndex>1649</firstResultingItemIndex>
+		<firstItemIndex>1890</firstItemIndex> <!-- Handgrenade Adapter -->
+		<secondItemIndex>132</secondItemIndex> <!-- Tear gas grenade -->
+		<firstResultingItemIndex>1646</firstResultingItemIndex> <!-- Tear Rifle Grenade -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>3</mergeType>
 		<APCost>32</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1890</firstItemIndex>
-		<secondItemIndex>135</secondItemIndex>
-		<firstResultingItemIndex>1645</firstResultingItemIndex>
+		<firstItemIndex>1890</firstItemIndex> <!-- Handgrenade Adapter -->
+		<secondItemIndex>133</secondItemIndex> <!-- gas grenade -->
+		<firstResultingItemIndex>1649</firstResultingItemIndex> <!-- Mustard Rifle Grenade -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>3</mergeType>
 		<APCost>32</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1890</firstItemIndex>
-		<secondItemIndex>151</secondItemIndex>
-		<firstResultingItemIndex>1648</firstResultingItemIndex>
+		<firstItemIndex>1890</firstItemIndex> <!-- Handgrenade Adapter -->
+		<secondItemIndex>135</secondItemIndex> <!-- Frag Grenade -->
+		<firstResultingItemIndex>1645</firstResultingItemIndex> <!-- Frag Rifle Grenade -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>3</mergeType>
 		<APCost>32</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1891</firstItemIndex>
+		<firstItemIndex>1890</firstItemIndex> <!-- Handgrenade Adapter -->
+		<secondItemIndex>151</secondItemIndex> <!-- Smoke Grenade -->
+		<firstResultingItemIndex>1648</firstResultingItemIndex> <!-- Smoke Rifle Grenade -->
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>3</mergeType>
+		<APCost>32</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>1891</firstItemIndex> <!-- SAM-R Upper -->
 		<secondItemIndex>632</secondItemIndex>
-		<firstResultingItemIndex>1137</firstResultingItemIndex>
+		<firstResultingItemIndex>1137</firstResultingItemIndex> <!-- SAM-R -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1892</firstItemIndex>
-		<secondItemIndex>3</secondItemIndex>
-		<firstResultingItemIndex>1242</firstResultingItemIndex>
+		<firstItemIndex>1892</firstItemIndex> <!-- PK224S Upgrade Kit -->
+		<secondItemIndex>3</secondItemIndex> <!-- Beretta 92F -->
+		<firstResultingItemIndex>1242</firstResultingItemIndex> <!-- Beretta PK224S -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1892</firstItemIndex>
-		<secondItemIndex>622</secondItemIndex>
-		<firstResultingItemIndex>1242</firstResultingItemIndex>
+		<firstItemIndex>1892</firstItemIndex> <!-- PK224S Upgrade Kit -->
+		<secondItemIndex>622</secondItemIndex> <!-- Beretta 92FS -->
+		<firstResultingItemIndex>1242</firstResultingItemIndex> <!-- Beretta PK224S -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1892</firstItemIndex>
-		<secondItemIndex>623</secondItemIndex>
-		<firstResultingItemIndex>1242</firstResultingItemIndex>
+		<firstItemIndex>1892</firstItemIndex> <!-- PK224S Upgrade Kit -->
+		<secondItemIndex>623</secondItemIndex> <!-- Beretta 96FS -->
+		<firstResultingItemIndex>1242</firstResultingItemIndex> <!-- Beretta PK224S -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1892</firstItemIndex>
-		<secondItemIndex>336</secondItemIndex>
-		<firstResultingItemIndex>1332</firstResultingItemIndex>
+		<firstItemIndex>1892</firstItemIndex> <!-- PK224S Upgrade Kit -->
+		<secondItemIndex>336</secondItemIndex> <!-- P226 9 -->
+		<firstResultingItemIndex>1332</firstResultingItemIndex> <!-- P226 PK224S -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1892</firstItemIndex>
-		<secondItemIndex>717</secondItemIndex>
-		<firstResultingItemIndex>1332</firstResultingItemIndex>
+		<firstItemIndex>1892</firstItemIndex> <!-- PK224S Upgrade Kit -->
+		<secondItemIndex>717</secondItemIndex> <!-- P226 40 -->
+		<firstResultingItemIndex>1332</firstResultingItemIndex> <!-- P226 PK224S -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1893</firstItemIndex>
+		<firstItemIndex>1893</firstItemIndex> <!-- Mk12 Upgrade Kit -->
 		<secondItemIndex>633</secondItemIndex>
 		<firstResultingItemIndex>1140</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
@@ -2369,7 +2369,7 @@
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1895</firstItemIndex>
+		<firstItemIndex>1895</firstItemIndex> <!-- DDL Handguard -->
 		<secondItemIndex>12</secondItemIndex>
 		<firstResultingItemIndex>2977</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
@@ -2377,15 +2377,15 @@
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1895</firstItemIndex>
-		<secondItemIndex>331</secondItemIndex>
-		<firstResultingItemIndex>1989</firstResultingItemIndex>
+		<firstItemIndex>1895</firstItemIndex> <!-- DDL Handguard -->
+		<secondItemIndex>331</secondItemIndex> <!-- L85A2 -->
+		<firstResultingItemIndex>1989</firstResultingItemIndex> <!-- L85A3 -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1895</firstItemIndex>
+		<firstItemIndex>1895</firstItemIndex> <!-- DDL Handguard -->
 		<secondItemIndex>633</secondItemIndex>
 		<firstResultingItemIndex>2976</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
@@ -2393,15 +2393,15 @@
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1895</firstItemIndex>
-		<secondItemIndex>1134</secondItemIndex>
+		<firstItemIndex>1895</firstItemIndex> <!-- DDL Handguard -->
+		<secondItemIndex>1134</secondItemIndex> <!-- Mk18 Mod0 -->
 		<firstResultingItemIndex>2514</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1896</firstItemIndex>
+		<firstItemIndex>1896</firstItemIndex> <!-- HK416 10" Barrel -->
 		<secondItemIndex>662</secondItemIndex>
 		<firstResultingItemIndex>1216</firstResultingItemIndex>
 		<secondResultingItemIndex>1897</secondResultingItemIndex>
@@ -2409,7 +2409,7 @@
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1897</firstItemIndex>
+		<firstItemIndex>1897</firstItemIndex> <!-- HK416 14" Barrel -->
 		<secondItemIndex>1216</secondItemIndex>
 		<firstResultingItemIndex>662</firstResultingItemIndex>
 		<secondResultingItemIndex>1896</secondResultingItemIndex>
@@ -2417,39 +2417,39 @@
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1899</firstItemIndex>
-		<secondItemIndex>27</secondItemIndex>
-		<firstResultingItemIndex>1391</firstResultingItemIndex>
+		<firstItemIndex>1899</firstItemIndex> <!-- JAE-100 Stock -->
+		<secondItemIndex>27</secondItemIndex> <!-- M14 -->
+		<firstResultingItemIndex>1391</firstResultingItemIndex> <!-- M14 JAE -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1899</firstItemIndex>
-		<secondItemIndex>684</secondItemIndex>
-		<firstResultingItemIndex>1074</firstResultingItemIndex>
+		<firstItemIndex>1899</firstItemIndex> <!-- JAE-100 Stock -->
+		<secondItemIndex>684</secondItemIndex> <!-- M21 -->
+		<firstResultingItemIndex>1074</firstResultingItemIndex> <!-- M21 JAE -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1899</firstItemIndex>
-		<secondItemIndex>1155</secondItemIndex>
-		<firstResultingItemIndex>1391</firstResultingItemIndex>
+		<firstItemIndex>1899</firstItemIndex> <!-- JAE-100 Stock -->
+		<secondItemIndex>1155</secondItemIndex> <!-- M14E2 -->
+		<firstResultingItemIndex>1391</firstResultingItemIndex> <!-- M14 JAE -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1899</firstItemIndex>
-		<secondItemIndex>1156</secondItemIndex>
-		<firstResultingItemIndex>1392</firstResultingItemIndex>
+		<firstItemIndex>1899</firstItemIndex> <!-- JAE-100 Stock -->
+		<secondItemIndex>1156</secondItemIndex> <!-- M1A Scout -->
+		<firstResultingItemIndex>1392</firstResultingItemIndex> <!-- m1A JAE -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1900</firstItemIndex>
+		<firstItemIndex>1900</firstItemIndex> <!-- Masada 556 SBR kit -->
 		<secondItemIndex>1382</secondItemIndex>
 		<firstResultingItemIndex>1381</firstResultingItemIndex>
 		<secondResultingItemIndex>1901</secondResultingItemIndex>
@@ -2489,7 +2489,7 @@
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1901</firstItemIndex>
+		<firstItemIndex>1901</firstItemIndex> <!-- Masada 556 Carbine kit -->
 		<secondItemIndex>1381</secondItemIndex>
 		<firstResultingItemIndex>1382</firstResultingItemIndex>
 		<secondResultingItemIndex>1900</secondResultingItemIndex>
@@ -2529,7 +2529,7 @@
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1902</firstItemIndex>
+		<firstItemIndex>1902</firstItemIndex> <!-- Masada 556 SPR kit -->
 		<secondItemIndex>1381</secondItemIndex>
 		<firstResultingItemIndex>1383</firstResultingItemIndex>
 		<secondResultingItemIndex>1900</secondResultingItemIndex>
@@ -2569,7 +2569,7 @@
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1903</firstItemIndex>
+		<firstItemIndex>1903</firstItemIndex> <!-- Masada 762 SBR kit -->
 		<secondItemIndex>1381</secondItemIndex>
 		<firstResultingItemIndex>1384</firstResultingItemIndex>
 		<secondResultingItemIndex>1900</secondResultingItemIndex>
@@ -2609,7 +2609,7 @@
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1904</firstItemIndex>
+		<firstItemIndex>1904</firstItemIndex> <!-- Masada 762 Carbine kit -->
 		<secondItemIndex>1381</secondItemIndex>
 		<firstResultingItemIndex>1385</firstResultingItemIndex>
 		<secondResultingItemIndex>1900</secondResultingItemIndex>
@@ -2649,7 +2649,7 @@
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1905</firstItemIndex>
+		<firstItemIndex>1905</firstItemIndex> <!-- Masada 762 SPR kit -->
 		<secondItemIndex>1381</secondItemIndex>
 		<firstResultingItemIndex>1386</firstResultingItemIndex>
 		<secondResultingItemIndex>1900</secondResultingItemIndex>
@@ -2689,23 +2689,23 @@
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1907</firstItemIndex>
+		<firstItemIndex>1907</firstItemIndex> <!-- con.t Garand .458 -->
 		<secondItemIndex>683</secondItemIndex>
-		<firstResultingItemIndex>1174</firstResultingItemIndex>
+		<firstResultingItemIndex>1174</firstResultingItemIndex> <!-- .458 Garand -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1908</firstItemIndex>
+		<firstItemIndex>1908</firstItemIndex> <!-- Colt 9mm Upgread Kit -->
 		<secondItemIndex>346</secondItemIndex>
-		<firstResultingItemIndex>1065</firstResultingItemIndex>
+		<firstResultingItemIndex>1065</firstResultingItemIndex> <!-- Colt 10mm SMG MOD -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1910</firstItemIndex>
+		<firstItemIndex>1910</firstItemIndex> <!-- XCR-L 556 SV -->
 		<secondItemIndex>932</secondItemIndex>
 		<firstResultingItemIndex>931</firstResultingItemIndex>
 		<secondResultingItemIndex>1911</secondResultingItemIndex>
@@ -2745,7 +2745,7 @@
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1911</firstItemIndex>
+		<firstItemIndex>1911</firstItemIndex> <!-- XCR-L 556 CQC -->
 		<secondItemIndex>931</secondItemIndex>
 		<firstResultingItemIndex>932</firstResultingItemIndex>
 		<secondResultingItemIndex>1910</secondResultingItemIndex>
@@ -2785,7 +2785,7 @@
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1912</firstItemIndex>
+		<firstItemIndex>1912</firstItemIndex> <!-- XCR-H 68 SV -->
 		<secondItemIndex>931</secondItemIndex>
 		<firstResultingItemIndex>1323</firstResultingItemIndex>
 		<secondResultingItemIndex>1910</secondResultingItemIndex>
@@ -2825,7 +2825,7 @@
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1913</firstItemIndex>
+		<firstItemIndex>1913</firstItemIndex> <!-- XCR-H 68 CQC -->
 		<secondItemIndex>931</secondItemIndex>
 		<firstResultingItemIndex>933</firstResultingItemIndex>
 		<secondResultingItemIndex>1910</secondResultingItemIndex>
@@ -2865,7 +2865,7 @@
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1914</firstItemIndex>
+		<firstItemIndex>1914</firstItemIndex> <!-- XCR-H 762 SV -->
 		<secondItemIndex>931</secondItemIndex>
 		<firstResultingItemIndex>1170</firstResultingItemIndex>
 		<secondResultingItemIndex>1910</secondResultingItemIndex>
@@ -2905,7 +2905,7 @@
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1915</firstItemIndex>
+		<firstItemIndex>1915</firstItemIndex> <!-- XCR-H 762 CQC -->
 		<secondItemIndex>931</secondItemIndex>
 		<firstResultingItemIndex>934</firstResultingItemIndex>
 		<secondResultingItemIndex>1910</secondResultingItemIndex>
@@ -2945,7 +2945,7 @@
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>1916</firstItemIndex>
+		<firstItemIndex>1916</firstItemIndex> <!-- MuzzleLite Stock -->
 		<secondItemIndex>17</secondItemIndex>
 		<firstResultingItemIndex>943</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
@@ -2979,13 +2979,13 @@
 	<MERGE>
 		<firstItemIndex>2204</firstItemIndex>
 		<secondItemIndex>1684</secondItemIndex>
-		<firstResultingItemIndex>3049</firstResultingItemIndex>
+		<firstResultingItemIndex>3049</firstResultingItemIndex> <!-- AK Cutters -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>20</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2486</firstItemIndex>
+		<firstItemIndex>2486</firstItemIndex> <!-- Rem MSR Barrel -->
 		<secondItemIndex>2463</secondItemIndex>
 		<firstResultingItemIndex>2462</firstResultingItemIndex>
 		<secondResultingItemIndex>2487</secondResultingItemIndex>
@@ -3033,937 +3033,937 @@
 		<APCost>50</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2489</firstItemIndex>
-		<secondItemIndex>2964</secondItemIndex>
-		<firstResultingItemIndex>740</firstResultingItemIndex>
-		<secondResultingItemIndex>1879</secondResultingItemIndex>
+		<firstItemIndex>2489</firstItemIndex> <!-- Ultimax Para Kit -->
+		<secondItemIndex>2964</secondItemIndex> <!-- Ultimax 100 Para -->
+		<firstResultingItemIndex>740</firstResultingItemIndex> <!-- Ultimax 100 Inf. -->
+		<secondResultingItemIndex>1879</secondResultingItemIndex> <!-- Ultimax Inf. Kit -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2490</firstItemIndex>
-		<secondItemIndex>27</secondItemIndex>
-		<firstResultingItemIndex>2637</firstResultingItemIndex>
+		<firstItemIndex>2490</firstItemIndex> <!-- Bulldog 762 -->
+		<secondItemIndex>27</secondItemIndex> <!-- M14 -->
+		<firstResultingItemIndex>2637</firstResultingItemIndex> <!-- Bulldog 762 M14 -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2490</firstItemIndex>
-		<secondItemIndex>1155</secondItemIndex>
-		<firstResultingItemIndex>2637</firstResultingItemIndex>
+		<firstItemIndex>2490</firstItemIndex> <!-- Bulldog 762 -->
+		<secondItemIndex>1155</secondItemIndex> <!-- M14E2 -->
+		<firstResultingItemIndex>2637</firstResultingItemIndex> <!-- Bulldog 762 M14 -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2490</firstItemIndex>
-		<secondItemIndex>1156</secondItemIndex>
-		<firstResultingItemIndex>2638</firstResultingItemIndex>
+		<firstItemIndex>2490</firstItemIndex> <!-- Bulldog 762 -->
+		<secondItemIndex>1156</secondItemIndex> <!-- M1A Scout -->
+		<firstResultingItemIndex>2638</firstResultingItemIndex> <!-- Bulldog 762 M1A -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2599</firstItemIndex>
-		<secondItemIndex>1123</secondItemIndex>
-		<firstResultingItemIndex>1122</firstResultingItemIndex>
-		<secondResultingItemIndex>2600</secondResultingItemIndex>
+		<firstItemIndex>2599</firstItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
+		<secondItemIndex>1123</secondItemIndex> <!-- Mk16 Mod0 STD -->
+		<firstResultingItemIndex>1122</firstResultingItemIndex> <!-- Mk16 Mod0 CQC -->
+		<secondResultingItemIndex>2600</secondResultingItemIndex> <!-- Mk16 Mod0 STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2599</firstItemIndex>
-		<secondItemIndex>1124</secondItemIndex>
-		<firstResultingItemIndex>1122</firstResultingItemIndex>
-		<secondResultingItemIndex>2601</secondResultingItemIndex>
+		<firstItemIndex>2599</firstItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
+		<secondItemIndex>1124</secondItemIndex> <!-- Mk17 Mod0 CQC -->
+		<firstResultingItemIndex>1122</firstResultingItemIndex> <!-- Mk16 Mod0 CQC -->
+		<secondResultingItemIndex>2601</secondResultingItemIndex> <!-- Mk17 Mod0 CQC con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2599</firstItemIndex>
-		<secondItemIndex>1125</secondItemIndex>
-		<firstResultingItemIndex>1122</firstResultingItemIndex>
-		<secondResultingItemIndex>2602</secondResultingItemIndex>
+		<firstItemIndex>2599</firstItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
+		<secondItemIndex>1125</secondItemIndex> <!-- Mk17 Mod0 STD -->
+		<firstResultingItemIndex>1122</firstResultingItemIndex> <!-- Mk16 Mod0 CQC -->
+		<secondResultingItemIndex>2602</secondResultingItemIndex> <!-- Mk17 Mod0 STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2599</firstItemIndex>
-		<secondItemIndex>1126</secondItemIndex>
-		<firstResultingItemIndex>1122</firstResultingItemIndex>
-		<secondResultingItemIndex>2603</secondResultingItemIndex>
+		<firstItemIndex>2599</firstItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
+		<secondItemIndex>1126</secondItemIndex> <!-- Mk16 Mod1 CQC -->
+		<firstResultingItemIndex>1122</firstResultingItemIndex> <!-- Mk16 Mod0 CQC -->
+		<secondResultingItemIndex>2603</secondResultingItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2599</firstItemIndex>
-		<secondItemIndex>1127</secondItemIndex>
-		<firstResultingItemIndex>1122</firstResultingItemIndex>
-		<secondResultingItemIndex>2604</secondResultingItemIndex>
+		<firstItemIndex>2599</firstItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
+		<secondItemIndex>1127</secondItemIndex> <!-- Mk16 Mod1 STD -->
+		<firstResultingItemIndex>1122</firstResultingItemIndex> <!-- Mk16 Mod0 CQC -->
+		<secondResultingItemIndex>2604</secondResultingItemIndex> <!-- Mk16 Mod1 STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2599</firstItemIndex>
-		<secondItemIndex>1128</secondItemIndex>
-		<firstResultingItemIndex>1122</firstResultingItemIndex>
-		<secondResultingItemIndex>2605</secondResultingItemIndex>
+		<firstItemIndex>2599</firstItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
+		<secondItemIndex>1128</secondItemIndex> <!-- SCAR-WP CQC -->
+		<firstResultingItemIndex>1122</firstResultingItemIndex> <!-- Mk16 Mod0 CQC -->
+		<secondResultingItemIndex>2605</secondResultingItemIndex> <!-- SCAR-WP CQC con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2599</firstItemIndex>
-		<secondItemIndex>1129</secondItemIndex>
-		<firstResultingItemIndex>1122</firstResultingItemIndex>
-		<secondResultingItemIndex>2606</secondResultingItemIndex>
+		<firstItemIndex>2599</firstItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
+		<secondItemIndex>1129</secondItemIndex> <!-- SCAR-WP STD -->
+		<firstResultingItemIndex>1122</firstResultingItemIndex> <!-- Mk16 Mod0 CQC -->
+		<secondResultingItemIndex>2606</secondResultingItemIndex> <!-- SCAR-WP STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2599</firstItemIndex>
-		<secondItemIndex>2723</secondItemIndex>
-		<firstResultingItemIndex>2722</firstResultingItemIndex>
-		<secondResultingItemIndex>2600</secondResultingItemIndex>
+		<firstItemIndex>2599</firstItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
+		<secondItemIndex>2723</secondItemIndex> <!-- Mk16 Mod0 STD -->
+		<firstResultingItemIndex>2722</firstResultingItemIndex> <!-- Mk16 Mod0 CQC -->
+		<secondResultingItemIndex>2600</secondResultingItemIndex> <!-- Mk16 Mod0 STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2599</firstItemIndex>
-		<secondItemIndex>2724</secondItemIndex>
-		<firstResultingItemIndex>2722</firstResultingItemIndex>
-		<secondResultingItemIndex>2601</secondResultingItemIndex>
+		<firstItemIndex>2599</firstItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
+		<secondItemIndex>2724</secondItemIndex> <!-- Mk17 Mod0 CQC -->
+		<firstResultingItemIndex>2722</firstResultingItemIndex> <!-- Mk16 Mod0 CQC -->
+		<secondResultingItemIndex>2601</secondResultingItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2599</firstItemIndex>
-		<secondItemIndex>2725</secondItemIndex>
-		<firstResultingItemIndex>2722</firstResultingItemIndex>
-		<secondResultingItemIndex>2602</secondResultingItemIndex>
+		<firstItemIndex>2599</firstItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
+		<secondItemIndex>2725</secondItemIndex> <!-- Mk17 Mod0 STD -->
+		<firstResultingItemIndex>2722</firstResultingItemIndex> <!-- Mk16 Mod0 CQC -->
+		<secondResultingItemIndex>2602</secondResultingItemIndex> <!-- Mk17 Mod0 STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2599</firstItemIndex>
-		<secondItemIndex>2726</secondItemIndex>
-		<firstResultingItemIndex>2722</firstResultingItemIndex>
-		<secondResultingItemIndex>2603</secondResultingItemIndex>
+		<firstItemIndex>2599</firstItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
+		<secondItemIndex>2726</secondItemIndex> <!-- Mk16 Mod1 CQC -->
+		<firstResultingItemIndex>2722</firstResultingItemIndex> <!-- Mk16 Mod0 CQC -->
+		<secondResultingItemIndex>2603</secondResultingItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2599</firstItemIndex>
-		<secondItemIndex>2727</secondItemIndex>
-		<firstResultingItemIndex>2722</firstResultingItemIndex>
-		<secondResultingItemIndex>2604</secondResultingItemIndex>
+		<firstItemIndex>2599</firstItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
+		<secondItemIndex>2727</secondItemIndex> <!-- Mk16 Mod1 STD -->
+		<firstResultingItemIndex>2722</firstResultingItemIndex> <!-- Mk16 Mod0 CQC -->
+		<secondResultingItemIndex>2604</secondResultingItemIndex> <!-- Mk16 Mod1 STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2599</firstItemIndex>
-		<secondItemIndex>2728</secondItemIndex>
-		<firstResultingItemIndex>2722</firstResultingItemIndex>
-		<secondResultingItemIndex>2605</secondResultingItemIndex>
+		<firstItemIndex>2599</firstItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
+		<secondItemIndex>2728</secondItemIndex> <!-- SCAR-WP CQC -->
+		<firstResultingItemIndex>2722</firstResultingItemIndex> <!-- Mk16 Mod0 CQC -->
+		<secondResultingItemIndex>2605</secondResultingItemIndex> <!-- SCAR-WP CQC con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2599</firstItemIndex>
-		<secondItemIndex>2729</secondItemIndex>
-		<firstResultingItemIndex>2722</firstResultingItemIndex>
-		<secondResultingItemIndex>2606</secondResultingItemIndex>
+		<firstItemIndex>2599</firstItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
+		<secondItemIndex>2729</secondItemIndex> <!-- SCAR-WP STD -->
+		<firstResultingItemIndex>2722</firstResultingItemIndex> <!-- Mk16 Mod0 CQC -->
+		<secondResultingItemIndex>2606</secondResultingItemIndex> <!-- SCAR-WP STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2600</firstItemIndex>
-		<secondItemIndex>1122</secondItemIndex>
-		<firstResultingItemIndex>1123</firstResultingItemIndex>
-		<secondResultingItemIndex>2599</secondResultingItemIndex>
+		<firstItemIndex>2600</firstItemIndex> <!-- Mk16 Mod0 STD con.kits -->
+		<secondItemIndex>1122</secondItemIndex> <!-- Mk16 Mod0 STD -->
+		<firstResultingItemIndex>1123</firstResultingItemIndex> <!-- Mk16 Mod0 STD -->
+		<secondResultingItemIndex>2599</secondResultingItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2600</firstItemIndex>
-		<secondItemIndex>1124</secondItemIndex>
-		<firstResultingItemIndex>1123</firstResultingItemIndex>
-		<secondResultingItemIndex>2601</secondResultingItemIndex>
+		<firstItemIndex>2600</firstItemIndex> <!-- Mk16 Mod0 STD con.kits -->
+		<secondItemIndex>1124</secondItemIndex> <!-- Mk17 Mod0 CQC -->
+		<firstResultingItemIndex>1123</firstResultingItemIndex> <!-- Mk16 Mod0 STD -->
+		<secondResultingItemIndex>2601</secondResultingItemIndex> <!-- Mk17 Mod0 CQC con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2600</firstItemIndex>
-		<secondItemIndex>1125</secondItemIndex>
-		<firstResultingItemIndex>1123</firstResultingItemIndex>
-		<secondResultingItemIndex>2602</secondResultingItemIndex>
+		<firstItemIndex>2600</firstItemIndex> <!-- Mk16 Mod0 STD con.kits -->
+		<secondItemIndex>1125</secondItemIndex> <!-- Mk17 Mod0 STD -->
+		<firstResultingItemIndex>1123</firstResultingItemIndex> <!-- Mk16 Mod0 STD -->
+		<secondResultingItemIndex>2602</secondResultingItemIndex> <!-- Mk17 Mod0 STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2600</firstItemIndex>
-		<secondItemIndex>1126</secondItemIndex>
-		<firstResultingItemIndex>1123</firstResultingItemIndex>
-		<secondResultingItemIndex>2603</secondResultingItemIndex>
+		<firstItemIndex>2600</firstItemIndex> <!-- Mk16 Mod0 STD con.kits -->
+		<secondItemIndex>1126</secondItemIndex> <!-- Mk16 Mod1 CQC -->
+		<firstResultingItemIndex>1123</firstResultingItemIndex> <!-- Mk16 Mod0 STD -->
+		<secondResultingItemIndex>2603</secondResultingItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2600</firstItemIndex>
-		<secondItemIndex>1127</secondItemIndex>
-		<firstResultingItemIndex>1123</firstResultingItemIndex>
-		<secondResultingItemIndex>2604</secondResultingItemIndex>
+		<firstItemIndex>2600</firstItemIndex> <!-- Mk16 Mod0 STD con.kits -->
+		<secondItemIndex>1127</secondItemIndex> <!-- Mk16 Mod1 STD -->
+		<firstResultingItemIndex>1123</firstResultingItemIndex> <!-- Mk16 Mod0 STD -->
+		<secondResultingItemIndex>2604</secondResultingItemIndex> <!-- Mk16 Mod1 STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2600</firstItemIndex>
-		<secondItemIndex>1128</secondItemIndex>
-		<firstResultingItemIndex>1123</firstResultingItemIndex>
-		<secondResultingItemIndex>2605</secondResultingItemIndex>
+		<firstItemIndex>2600</firstItemIndex> <!-- Mk16 Mod0 STD con.kits -->
+		<secondItemIndex>1128</secondItemIndex> <!-- SCAR-WP CQC -->
+		<firstResultingItemIndex>1123</firstResultingItemIndex> <!-- Mk16 Mod0 STD -->
+		<secondResultingItemIndex>2605</secondResultingItemIndex> <!-- SCAR-WP CQC con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2600</firstItemIndex>
-		<secondItemIndex>1129</secondItemIndex>
-		<firstResultingItemIndex>1123</firstResultingItemIndex>
-		<secondResultingItemIndex>2606</secondResultingItemIndex>
+		<firstItemIndex>2600</firstItemIndex> <!-- Mk16 Mod0 STD con.kits -->
+		<secondItemIndex>1129</secondItemIndex> <!-- SCAR-WP STD -->
+		<firstResultingItemIndex>1123</firstResultingItemIndex> <!-- Mk16 Mod0 STD -->
+		<secondResultingItemIndex>2606</secondResultingItemIndex> <!-- SCAR-WP STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2600</firstItemIndex>
-		<secondItemIndex>2722</secondItemIndex>
-		<firstResultingItemIndex>2723</firstResultingItemIndex>
-		<secondResultingItemIndex>2599</secondResultingItemIndex>
+		<firstItemIndex>2600</firstItemIndex> <!-- Mk16 Mod0 STD con.kits -->
+		<secondItemIndex>2722</secondItemIndex> <!-- Mk16 Mod0 CQC -->
+		<firstResultingItemIndex>2723</firstResultingItemIndex> <!-- Mk16 Mod0 STD -->
+		<secondResultingItemIndex>2599</secondResultingItemIndex> <!-- Mk16 Mod0 STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2600</firstItemIndex>
-		<secondItemIndex>2724</secondItemIndex>
-		<firstResultingItemIndex>2723</firstResultingItemIndex>
-		<secondResultingItemIndex>2601</secondResultingItemIndex>
+		<firstItemIndex>2600</firstItemIndex> <!-- Mk16 Mod0 STD con.kits -->
+		<secondItemIndex>2724</secondItemIndex> <!-- Mk17 Mod0 CQC -->
+		<firstResultingItemIndex>2723</firstResultingItemIndex> <!-- Mk16 Mod0 STD -->
+		<secondResultingItemIndex>2601</secondResultingItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2600</firstItemIndex>
-		<secondItemIndex>2725</secondItemIndex>
-		<firstResultingItemIndex>2723</firstResultingItemIndex>
-		<secondResultingItemIndex>2602</secondResultingItemIndex>
+		<firstItemIndex>2600</firstItemIndex> <!-- Mk16 Mod0 STD con.kits -->
+		<secondItemIndex>2725</secondItemIndex> <!-- Mk17 Mod0 STD -->
+		<firstResultingItemIndex>2723</firstResultingItemIndex> <!-- Mk16 Mod0 STD -->
+		<secondResultingItemIndex>2602</secondResultingItemIndex> <!-- Mk17 Mod0 STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2600</firstItemIndex>
-		<secondItemIndex>2726</secondItemIndex>
-		<firstResultingItemIndex>2723</firstResultingItemIndex>
-		<secondResultingItemIndex>2603</secondResultingItemIndex>
+		<firstItemIndex>2600</firstItemIndex> <!-- Mk16 Mod0 STD con.kits -->
+		<secondItemIndex>2726</secondItemIndex> <!-- Mk16 Mod1 CQC -->
+		<firstResultingItemIndex>2723</firstResultingItemIndex> <!-- Mk16 Mod0 STD -->
+		<secondResultingItemIndex>2603</secondResultingItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2600</firstItemIndex>
-		<secondItemIndex>2727</secondItemIndex>
-		<firstResultingItemIndex>2723</firstResultingItemIndex>
-		<secondResultingItemIndex>2604</secondResultingItemIndex>
+		<firstItemIndex>2600</firstItemIndex> <!-- Mk16 Mod0 STD con.kits -->
+		<secondItemIndex>2727</secondItemIndex> <!-- Mk16 Mod1 STD -->
+		<firstResultingItemIndex>2723</firstResultingItemIndex> <!-- Mk16 Mod0 STD -->
+		<secondResultingItemIndex>2604</secondResultingItemIndex> <!-- Mk16 Mod1 STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2600</firstItemIndex>
-		<secondItemIndex>2728</secondItemIndex>
-		<firstResultingItemIndex>2723</firstResultingItemIndex>
-		<secondResultingItemIndex>2605</secondResultingItemIndex>
+		<firstItemIndex>2600</firstItemIndex> <!-- Mk16 Mod0 STD con.kits -->
+		<secondItemIndex>2728</secondItemIndex> <!-- SCAR-WP CQC -->
+		<firstResultingItemIndex>2723</firstResultingItemIndex> <!-- Mk16 Mod0 STD -->
+		<secondResultingItemIndex>2605</secondResultingItemIndex> <!-- SCAR-WP CQC con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2600</firstItemIndex>
-		<secondItemIndex>2729</secondItemIndex>
-		<firstResultingItemIndex>2723</firstResultingItemIndex>
-		<secondResultingItemIndex>2606</secondResultingItemIndex>
+		<firstItemIndex>2600</firstItemIndex> <!-- Mk16 Mod0 STD con.kits -->
+		<secondItemIndex>2729</secondItemIndex> <!-- SCAR-WP STD -->
+		<firstResultingItemIndex>2723</firstResultingItemIndex> <!-- Mk16 Mod0 STD -->
+		<secondResultingItemIndex>2606</secondResultingItemIndex> <!-- SCAR-WP STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2601</firstItemIndex>
-		<secondItemIndex>1122</secondItemIndex>
-		<firstResultingItemIndex>1124</firstResultingItemIndex>
-		<secondResultingItemIndex>2599</secondResultingItemIndex>
+		<firstItemIndex>2601</firstItemIndex> <!-- Mk17 Mod0 CQC con.kits -->
+		<secondItemIndex>1122</secondItemIndex> <!-- Mk16 Mod0 CQC -->
+		<firstResultingItemIndex>1124</firstResultingItemIndex> <!-- Mk17 Mod0 CQC -->
+		<secondResultingItemIndex>2599</secondResultingItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2601</firstItemIndex>
-		<secondItemIndex>1123</secondItemIndex>
-		<firstResultingItemIndex>1124</firstResultingItemIndex>
-		<secondResultingItemIndex>2600</secondResultingItemIndex>
+		<firstItemIndex>2601</firstItemIndex> <!-- Mk17 Mod0 CQC con.kits -->
+		<secondItemIndex>1123</secondItemIndex> <!-- Mk17 Mod0 STD -->
+		<firstResultingItemIndex>1124</firstResultingItemIndex> <!-- Mk17 Mod0 CQC -->
+		<secondResultingItemIndex>2600</secondResultingItemIndex> <!-- Mk17 Mod0 STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2601</firstItemIndex>
-		<secondItemIndex>1125</secondItemIndex>
-		<firstResultingItemIndex>1124</firstResultingItemIndex>
-		<secondResultingItemIndex>2602</secondResultingItemIndex>
+		<firstItemIndex>2601</firstItemIndex> <!-- Mk17 Mod0 CQC con.kits -->
+		<secondItemIndex>1125</secondItemIndex> <!-- Mk17 Mod0 STD -->
+		<firstResultingItemIndex>1124</firstResultingItemIndex> <!-- Mk17 Mod0 CQC -->
+		<secondResultingItemIndex>2602</secondResultingItemIndex> <!-- Mk17 Mod0 STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2601</firstItemIndex>
-		<secondItemIndex>1126</secondItemIndex>
-		<firstResultingItemIndex>1124</firstResultingItemIndex>
-		<secondResultingItemIndex>2603</secondResultingItemIndex>
+		<firstItemIndex>2601</firstItemIndex> <!-- Mk17 Mod0 CQC con.kits -->
+		<secondItemIndex>1126</secondItemIndex> <!-- Mk16 Mod1 CQC -->
+		<firstResultingItemIndex>1124</firstResultingItemIndex> <!-- Mk17 Mod0 CQC -->
+		<secondResultingItemIndex>2603</secondResultingItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2601</firstItemIndex>
-		<secondItemIndex>1127</secondItemIndex>
-		<firstResultingItemIndex>1124</firstResultingItemIndex>
-		<secondResultingItemIndex>2604</secondResultingItemIndex>
+		<firstItemIndex>2601</firstItemIndex> <!-- Mk17 Mod0 CQC con.kits -->
+		<secondItemIndex>1127</secondItemIndex> <!-- Mk16 Mod1 STD -->
+		<firstResultingItemIndex>1124</firstResultingItemIndex> <!-- Mk17 Mod0 CQC -->
+		<secondResultingItemIndex>2604</secondResultingItemIndex> <!-- Mk16 Mod1 STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2601</firstItemIndex>
-		<secondItemIndex>1128</secondItemIndex>
-		<firstResultingItemIndex>1124</firstResultingItemIndex>
-		<secondResultingItemIndex>2605</secondResultingItemIndex>
+		<firstItemIndex>2601</firstItemIndex> <!-- Mk17 Mod0 CQC con.kits -->
+		<secondItemIndex>1128</secondItemIndex> <!-- SCAR-WP CQC -->
+		<firstResultingItemIndex>1124</firstResultingItemIndex> <!-- Mk17 Mod0 CQC -->
+		<secondResultingItemIndex>2605</secondResultingItemIndex> <!-- SCAR-WP CQC con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2601</firstItemIndex>
-		<secondItemIndex>1129</secondItemIndex>
-		<firstResultingItemIndex>1124</firstResultingItemIndex>
-		<secondResultingItemIndex>2606</secondResultingItemIndex>
+		<firstItemIndex>2601</firstItemIndex> <!-- Mk17 Mod0 CQC con.kits -->
+		<secondItemIndex>1129</secondItemIndex> <!-- SCAR-WP STD -->
+		<firstResultingItemIndex>1124</firstResultingItemIndex> <!-- Mk17 Mod0 CQC -->
+		<secondResultingItemIndex>2606</secondResultingItemIndex> <!-- SCAR-WP STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2601</firstItemIndex>
-		<secondItemIndex>2722</secondItemIndex>
-		<firstResultingItemIndex>2724</firstResultingItemIndex>
-		<secondResultingItemIndex>2599</secondResultingItemIndex>
+		<firstItemIndex>2601</firstItemIndex> <!-- Mk17 Mod0 CQC con.kits -->
+		<secondItemIndex>2722</secondItemIndex> <!-- Mk16 Mod0 CQC -->
+		<firstResultingItemIndex>2724</firstResultingItemIndex> <!-- Mk17 Mod0 CQC -->
+		<secondResultingItemIndex>2599</secondResultingItemIndex> <!-- Mk16 Mod0 STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2601</firstItemIndex>
-		<secondItemIndex>2723</secondItemIndex>
-		<firstResultingItemIndex>2724</firstResultingItemIndex>
-		<secondResultingItemIndex>2600</secondResultingItemIndex>
+		<firstItemIndex>2601</firstItemIndex> <!-- Mk17 Mod0 CQC con.kits -->
+		<secondItemIndex>2723</secondItemIndex> <!-- Mk16 Mod0 STD -->
+		<firstResultingItemIndex>2724</firstResultingItemIndex> <!-- Mk17 Mod0 CQC -->
+		<secondResultingItemIndex>2600</secondResultingItemIndex> <!-- Mk16 Mod0 STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2601</firstItemIndex>
-		<secondItemIndex>2725</secondItemIndex>
-		<firstResultingItemIndex>2724</firstResultingItemIndex>
-		<secondResultingItemIndex>2602</secondResultingItemIndex>
+		<firstItemIndex>2601</firstItemIndex> <!-- Mk17 Mod0 CQC con.kits -->
+		<secondItemIndex>2725</secondItemIndex> <!-- Mk17 Mod0 STD -->
+		<firstResultingItemIndex>2724</firstResultingItemIndex> <!-- Mk17 Mod0 CQC -->
+		<secondResultingItemIndex>2602</secondResultingItemIndex> <!-- Mk17 Mod0 STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2601</firstItemIndex>
-		<secondItemIndex>2726</secondItemIndex>
-		<firstResultingItemIndex>2724</firstResultingItemIndex>
-		<secondResultingItemIndex>2603</secondResultingItemIndex>
+		<firstItemIndex>2601</firstItemIndex> <!-- Mk17 Mod0 CQC con.kits -->
+		<secondItemIndex>2726</secondItemIndex> <!-- Mk16 Mod1 CQC -->
+		<firstResultingItemIndex>2724</firstResultingItemIndex> <!-- Mk17 Mod0 CQC -->
+		<secondResultingItemIndex>2603</secondResultingItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2601</firstItemIndex>
-		<secondItemIndex>2727</secondItemIndex>
-		<firstResultingItemIndex>2724</firstResultingItemIndex>
-		<secondResultingItemIndex>2604</secondResultingItemIndex>
+		<firstItemIndex>2601</firstItemIndex> <!-- Mk17 Mod0 CQC con.kits -->
+		<secondItemIndex>2727</secondItemIndex> <!-- Mk16 Mod1 STD -->
+		<firstResultingItemIndex>2724</firstResultingItemIndex> <!-- Mk17 Mod0 CQC -->
+		<secondResultingItemIndex>2604</secondResultingItemIndex> <!-- Mk16 Mod1 STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2601</firstItemIndex>
-		<secondItemIndex>2728</secondItemIndex>
-		<firstResultingItemIndex>2724</firstResultingItemIndex>
-		<secondResultingItemIndex>2605</secondResultingItemIndex>
+		<firstItemIndex>2601</firstItemIndex> <!-- Mk17 Mod0 CQC con.kits -->
+		<secondItemIndex>2728</secondItemIndex> <!-- SCAR-WP CQC -->
+		<firstResultingItemIndex>2724</firstResultingItemIndex> <!-- Mk17 Mod0 CQC -->
+		<secondResultingItemIndex>2605</secondResultingItemIndex> <!-- SCAR-WP CQC con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2601</firstItemIndex>
-		<secondItemIndex>2729</secondItemIndex>
-		<firstResultingItemIndex>2724</firstResultingItemIndex>
-		<secondResultingItemIndex>2606</secondResultingItemIndex>
+		<firstItemIndex>2601</firstItemIndex> <!-- Mk17 Mod0 CQC con.kits -->
+		<secondItemIndex>2729</secondItemIndex> <!-- SCAR-WP STD -->
+		<firstResultingItemIndex>2724</firstResultingItemIndex> <!-- Mk17 Mod0 CQC -->
+		<secondResultingItemIndex>2606</secondResultingItemIndex> <!-- SCAR-WP STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2602</firstItemIndex>
-		<secondItemIndex>1122</secondItemIndex>
-		<firstResultingItemIndex>1125</firstResultingItemIndex>
-		<secondResultingItemIndex>2599</secondResultingItemIndex>
+		<firstItemIndex>2602</firstItemIndex> <!-- Mk17 Mod0 STD con.kits -->
+		<secondItemIndex>1122</secondItemIndex> <!-- Mk16 Mod0 CQC -->
+		<firstResultingItemIndex>1125</firstResultingItemIndex> <!-- Mk17 Mod0 STD -->
+		<secondResultingItemIndex>2599</secondResultingItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2602</firstItemIndex>
-		<secondItemIndex>1123</secondItemIndex>
-		<firstResultingItemIndex>1125</firstResultingItemIndex>
-		<secondResultingItemIndex>2600</secondResultingItemIndex>
+		<firstItemIndex>2602</firstItemIndex> <!-- Mk17 Mod0 STD con.kits -->
+		<secondItemIndex>1123</secondItemIndex> <!-- Mk16 Mod0 STD -->
+		<firstResultingItemIndex>1125</firstResultingItemIndex> <!-- Mk17 Mod0 STD -->
+		<secondResultingItemIndex>2600</secondResultingItemIndex> <!-- Mk17 Mod0 STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2602</firstItemIndex>
-		<secondItemIndex>1124</secondItemIndex>
-		<firstResultingItemIndex>1125</firstResultingItemIndex>
-		<secondResultingItemIndex>2601</secondResultingItemIndex>
+		<firstItemIndex>2602</firstItemIndex> <!-- Mk17 Mod0 STD con.kits -->
+		<secondItemIndex>1124</secondItemIndex> <!-- Mk17 Mod0 CQC -->
+		<firstResultingItemIndex>1125</firstResultingItemIndex> <!-- Mk17 Mod0 STD -->
+		<secondResultingItemIndex>2601</secondResultingItemIndex> <!-- Mk17 Mod0 CQC con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2602</firstItemIndex>
-		<secondItemIndex>1126</secondItemIndex>
-		<firstResultingItemIndex>1125</firstResultingItemIndex>
-		<secondResultingItemIndex>2603</secondResultingItemIndex>
+		<firstItemIndex>2602</firstItemIndex> <!-- Mk17 Mod0 STD con.kits -->
+		<secondItemIndex>1126</secondItemIndex> <!-- Mk16 Mod1 CQC -->
+		<firstResultingItemIndex>1125</firstResultingItemIndex> <!-- Mk17 Mod0 STD -->
+		<secondResultingItemIndex>2603</secondResultingItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2602</firstItemIndex>
-		<secondItemIndex>1127</secondItemIndex>
-		<firstResultingItemIndex>1125</firstResultingItemIndex>
-		<secondResultingItemIndex>2604</secondResultingItemIndex>
+		<firstItemIndex>2602</firstItemIndex> <!-- Mk17 Mod0 STD con.kits -->
+		<secondItemIndex>1127</secondItemIndex> <!-- Mk16 Mod1 STD -->
+		<firstResultingItemIndex>1125</firstResultingItemIndex> <!-- Mk17 Mod0 STD -->
+		<secondResultingItemIndex>2604</secondResultingItemIndex> <!-- Mk16 Mod1 STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2602</firstItemIndex>
-		<secondItemIndex>1128</secondItemIndex>
-		<firstResultingItemIndex>1125</firstResultingItemIndex>
-		<secondResultingItemIndex>2605</secondResultingItemIndex>
+		<firstItemIndex>2602</firstItemIndex> <!-- Mk17 Mod0 STD con.kits -->
+		<secondItemIndex>1128</secondItemIndex> <!-- SCAR-WP CQC -->
+		<firstResultingItemIndex>1125</firstResultingItemIndex> <!-- Mk17 Mod0 STD -->
+		<secondResultingItemIndex>2605</secondResultingItemIndex> <!-- SCAR-WP CQC con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2602</firstItemIndex>
-		<secondItemIndex>1129</secondItemIndex>
-		<firstResultingItemIndex>1125</firstResultingItemIndex>
-		<secondResultingItemIndex>2606</secondResultingItemIndex>
+		<firstItemIndex>2602</firstItemIndex> <!-- Mk17 Mod0 STD con.kits -->
+		<secondItemIndex>1129</secondItemIndex> <!-- SCAR-WP STD -->
+		<firstResultingItemIndex>1125</firstResultingItemIndex> <!-- Mk17 Mod0 STD -->
+		<secondResultingItemIndex>2606</secondResultingItemIndex> <!-- SCAR-WP STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2602</firstItemIndex>
-		<secondItemIndex>2722</secondItemIndex>
-		<firstResultingItemIndex>2725</firstResultingItemIndex>
-		<secondResultingItemIndex>2599</secondResultingItemIndex>
+		<firstItemIndex>2602</firstItemIndex> <!-- Mk17 Mod0 STD con.kits -->
+		<secondItemIndex>2722</secondItemIndex> <!-- Mk16 Mod0 CQC -->
+		<firstResultingItemIndex>2725</firstResultingItemIndex> <!-- Mk17 Mod0 STD -->
+		<secondResultingItemIndex>2599</secondResultingItemIndex> <!-- Mk16 Mod0 STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2602</firstItemIndex>
-		<secondItemIndex>2723</secondItemIndex>
-		<firstResultingItemIndex>2725</firstResultingItemIndex>
-		<secondResultingItemIndex>2600</secondResultingItemIndex>
+		<firstItemIndex>2602</firstItemIndex> <!-- Mk17 Mod0 STD con.kits -->
+		<secondItemIndex>2723</secondItemIndex> <!-- Mk16 Mod0 STD -->
+		<firstResultingItemIndex>2725</firstResultingItemIndex> <!-- Mk17 Mod0 STD -->
+		<secondResultingItemIndex>2600</secondResultingItemIndex> <!-- Mk16 Mod0 STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2602</firstItemIndex>
-		<secondItemIndex>2724</secondItemIndex>
-		<firstResultingItemIndex>2725</firstResultingItemIndex>
-		<secondResultingItemIndex>2601</secondResultingItemIndex>
+		<firstItemIndex>2602</firstItemIndex> <!-- Mk17 Mod0 STD con.kits -->
+		<secondItemIndex>2724</secondItemIndex> <!-- Mk17 Mod0 CQC -->
+		<firstResultingItemIndex>2725</firstResultingItemIndex> <!-- Mk17 Mod0 STD -->
+		<secondResultingItemIndex>2601</secondResultingItemIndex> <!-- Mk17 Mod0 CQC con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2602</firstItemIndex>
-		<secondItemIndex>2726</secondItemIndex>
-		<firstResultingItemIndex>2725</firstResultingItemIndex>
-		<secondResultingItemIndex>2603</secondResultingItemIndex>
+		<firstItemIndex>2602</firstItemIndex> <!-- Mk17 Mod0 STD con.kits -->
+		<secondItemIndex>2726</secondItemIndex> <!-- Mk16 Mod1 CQC -->
+		<firstResultingItemIndex>2725</firstResultingItemIndex> <!-- Mk17 Mod0 STD -->
+		<secondResultingItemIndex>2603</secondResultingItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2602</firstItemIndex>
-		<secondItemIndex>2727</secondItemIndex>
-		<firstResultingItemIndex>2725</firstResultingItemIndex>
-		<secondResultingItemIndex>2604</secondResultingItemIndex>
+		<firstItemIndex>2602</firstItemIndex> <!-- Mk17 Mod0 STD con.kits -->
+		<secondItemIndex>2727</secondItemIndex> <!-- Mk16 Mod1 STD -->
+		<firstResultingItemIndex>2725</firstResultingItemIndex> <!-- Mk17 Mod0 STD -->
+		<secondResultingItemIndex>2604</secondResultingItemIndex> <!-- Mk16 Mod1 STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2602</firstItemIndex>
-		<secondItemIndex>2728</secondItemIndex>
-		<firstResultingItemIndex>2725</firstResultingItemIndex>
-		<secondResultingItemIndex>2605</secondResultingItemIndex>
+		<firstItemIndex>2602</firstItemIndex> <!-- Mk17 Mod0 STD con.kits -->
+		<secondItemIndex>2728</secondItemIndex> <!-- SCAR-WP CQC -->
+		<firstResultingItemIndex>2725</firstResultingItemIndex> <!-- Mk17 Mod0 STD -->
+		<secondResultingItemIndex>2605</secondResultingItemIndex> <!-- SCAR-WP CQC con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2602</firstItemIndex>
-		<secondItemIndex>2729</secondItemIndex>
-		<firstResultingItemIndex>2725</firstResultingItemIndex>
-		<secondResultingItemIndex>2606</secondResultingItemIndex>
+		<firstItemIndex>2602</firstItemIndex> <!-- Mk17 Mod0 STD con.kits -->
+		<secondItemIndex>2729</secondItemIndex> <!-- SCAR-WP STD -->
+		<firstResultingItemIndex>2725</firstResultingItemIndex> <!-- Mk17 Mod0 STD -->
+		<secondResultingItemIndex>2606</secondResultingItemIndex> <!-- SCAR-WP STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2603</firstItemIndex>
-		<secondItemIndex>1122</secondItemIndex>
-		<firstResultingItemIndex>1126</firstResultingItemIndex>
-		<secondResultingItemIndex>2599</secondResultingItemIndex>
+		<firstItemIndex>2603</firstItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
+		<secondItemIndex>1122</secondItemIndex> <!-- Mk16 Mod0 CQC -->
+		<firstResultingItemIndex>1126</firstResultingItemIndex> <!-- Mk16 Mod1 CQC -->
+		<secondResultingItemIndex>2599</secondResultingItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2603</firstItemIndex>
-		<secondItemIndex>1123</secondItemIndex>
-		<firstResultingItemIndex>1126</firstResultingItemIndex>
-		<secondResultingItemIndex>2600</secondResultingItemIndex>
+		<firstItemIndex>2603</firstItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
+		<secondItemIndex>1123</secondItemIndex> <!-- Mk16 Mod0 STD -->
+		<firstResultingItemIndex>1126</firstResultingItemIndex> <!-- Mk16 Mod1 CQC -->
+		<secondResultingItemIndex>2600</secondResultingItemIndex> <!-- Mk16 Mod0 STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2603</firstItemIndex>
-		<secondItemIndex>1124</secondItemIndex>
-		<firstResultingItemIndex>1126</firstResultingItemIndex>
-		<secondResultingItemIndex>2601</secondResultingItemIndex>
+		<firstItemIndex>2603</firstItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
+		<secondItemIndex>1124</secondItemIndex> <!-- Mk17 Mod0 CQC -->
+		<firstResultingItemIndex>1126</firstResultingItemIndex> <!-- Mk16 Mod1 CQC -->
+		<secondResultingItemIndex>2601</secondResultingItemIndex> <!-- Mk17 Mod0 CQC con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2603</firstItemIndex>
-		<secondItemIndex>1125</secondItemIndex>
-		<firstResultingItemIndex>1126</firstResultingItemIndex>
-		<secondResultingItemIndex>2602</secondResultingItemIndex>
+		<firstItemIndex>2603</firstItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
+		<secondItemIndex>1125</secondItemIndex> <!-- Mk17 Mod0 STD -->
+		<firstResultingItemIndex>1126</firstResultingItemIndex> <!-- Mk16 Mod1 CQC -->
+		<secondResultingItemIndex>2602</secondResultingItemIndex> <!-- Mk17 Mod0 STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2603</firstItemIndex>
-		<secondItemIndex>1127</secondItemIndex>
-		<firstResultingItemIndex>1126</firstResultingItemIndex>
-		<secondResultingItemIndex>2604</secondResultingItemIndex>
+		<firstItemIndex>2603</firstItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
+		<secondItemIndex>1127</secondItemIndex> <!-- Mk16 Mod1 STD -->
+		<firstResultingItemIndex>1126</firstResultingItemIndex> <!-- Mk16 Mod1 CQC -->
+		<secondResultingItemIndex>2604</secondResultingItemIndex> <!-- Mk16 Mod1 STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2603</firstItemIndex>
-		<secondItemIndex>1128</secondItemIndex>
-		<firstResultingItemIndex>1126</firstResultingItemIndex>
-		<secondResultingItemIndex>2605</secondResultingItemIndex>
+		<firstItemIndex>2603</firstItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
+		<secondItemIndex>1128</secondItemIndex> <!-- SCAR-WP CQC -->
+		<firstResultingItemIndex>1126</firstResultingItemIndex> <!-- Mk16 Mod1 CQC -->
+		<secondResultingItemIndex>2605</secondResultingItemIndex> <!-- SCAR-WP CQC con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2603</firstItemIndex>
-		<secondItemIndex>1129</secondItemIndex>
-		<firstResultingItemIndex>1126</firstResultingItemIndex>
-		<secondResultingItemIndex>2606</secondResultingItemIndex>
+		<firstItemIndex>2603</firstItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
+		<secondItemIndex>1129</secondItemIndex> <!-- SCAR-WP STD -->
+		<firstResultingItemIndex>1126</firstResultingItemIndex> <!-- Mk16 Mod1 CQC -->
+		<secondResultingItemIndex>2606</secondResultingItemIndex> <!-- SCAR-WP STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2603</firstItemIndex>
-		<secondItemIndex>2722</secondItemIndex>
-		<firstResultingItemIndex>2726</firstResultingItemIndex>
-		<secondResultingItemIndex>2599</secondResultingItemIndex>
+		<firstItemIndex>2603</firstItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
+		<secondItemIndex>2722</secondItemIndex> <!-- Mk16 Mod0 CQC -->
+		<firstResultingItemIndex>2726</firstResultingItemIndex> <!-- Mk16 Mod1 CQC -->
+		<secondResultingItemIndex>2599</secondResultingItemIndex> <!-- Mk16 Mod0 STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2603</firstItemIndex>
-		<secondItemIndex>2723</secondItemIndex>
-		<firstResultingItemIndex>2726</firstResultingItemIndex>
-		<secondResultingItemIndex>2600</secondResultingItemIndex>
+		<firstItemIndex>2603</firstItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
+		<secondItemIndex>2723</secondItemIndex> <!-- Mk16 Mod0 STD -->
+		<firstResultingItemIndex>2726</firstResultingItemIndex> <!-- Mk16 Mod1 CQC -->
+		<secondResultingItemIndex>2600</secondResultingItemIndex> <!-- Mk16 Mod0 STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2603</firstItemIndex>
-		<secondItemIndex>2724</secondItemIndex>
-		<firstResultingItemIndex>2726</firstResultingItemIndex>
-		<secondResultingItemIndex>2601</secondResultingItemIndex>
+		<firstItemIndex>2603</firstItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
+		<secondItemIndex>2724</secondItemIndex> <!-- Mk17 Mod0 CQC -->
+		<firstResultingItemIndex>2726</firstResultingItemIndex> <!-- Mk16 Mod1 CQC -->
+		<secondResultingItemIndex>2601</secondResultingItemIndex> <!-- Mk17 Mod0 CQC con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2603</firstItemIndex>
-		<secondItemIndex>2725</secondItemIndex>
-		<firstResultingItemIndex>2726</firstResultingItemIndex>
-		<secondResultingItemIndex>2602</secondResultingItemIndex>
+		<firstItemIndex>2603</firstItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
+		<secondItemIndex>2725</secondItemIndex> <!-- Mk17 Mod0 STD -->
+		<firstResultingItemIndex>2726</firstResultingItemIndex> <!-- Mk16 Mod1 CQC -->
+		<secondResultingItemIndex>2602</secondResultingItemIndex> <!-- Mk17 Mod0 STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2603</firstItemIndex>
-		<secondItemIndex>2727</secondItemIndex>
-		<firstResultingItemIndex>2726</firstResultingItemIndex>
-		<secondResultingItemIndex>2604</secondResultingItemIndex>
+		<firstItemIndex>2603</firstItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
+		<secondItemIndex>2727</secondItemIndex> <!-- Mk16 Mod1 STD -->
+		<firstResultingItemIndex>2726</firstResultingItemIndex> <!-- Mk16 Mod1 CQC -->
+		<secondResultingItemIndex>2604</secondResultingItemIndex> <!-- Mk16 Mod1 STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2603</firstItemIndex>
-		<secondItemIndex>2728</secondItemIndex>
-		<firstResultingItemIndex>2726</firstResultingItemIndex>
-		<secondResultingItemIndex>2605</secondResultingItemIndex>
+		<firstItemIndex>2603</firstItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
+		<secondItemIndex>2728</secondItemIndex> <!-- SCAR-WP CQC -->
+		<firstResultingItemIndex>2726</firstResultingItemIndex> <!-- Mk16 Mod1 CQC -->
+		<secondResultingItemIndex>2605</secondResultingItemIndex> <!-- SCAR-WP CQC con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2603</firstItemIndex>
-		<secondItemIndex>2729</secondItemIndex>
-		<firstResultingItemIndex>2726</firstResultingItemIndex>
-		<secondResultingItemIndex>2606</secondResultingItemIndex>
+		<firstItemIndex>2603</firstItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
+		<secondItemIndex>2729</secondItemIndex> <!-- SCAR-WP STD -->
+		<firstResultingItemIndex>2726</firstResultingItemIndex> <!-- Mk16 Mod1 CQC -->
+		<secondResultingItemIndex>2606</secondResultingItemIndex> <!-- SCAR-WP STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2604</firstItemIndex>
-		<secondItemIndex>1122</secondItemIndex>
-		<firstResultingItemIndex>1127</firstResultingItemIndex>
-		<secondResultingItemIndex>2599</secondResultingItemIndex>
+		<firstItemIndex>2604</firstItemIndex> <!-- Mk16 Mod1 STD con.kits -->
+		<secondItemIndex>1122</secondItemIndex> <!-- Mk16 Mod0 CQC -->
+		<firstResultingItemIndex>1127</firstResultingItemIndex> <!-- Mk16 Mod1 STD -->
+		<secondResultingItemIndex>2599</secondResultingItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2604</firstItemIndex>
-		<secondItemIndex>1123</secondItemIndex>
-		<firstResultingItemIndex>1127</firstResultingItemIndex>
-		<secondResultingItemIndex>2600</secondResultingItemIndex>
+		<firstItemIndex>2604</firstItemIndex> <!-- Mk16 Mod1 STD con.kits -->
+		<secondItemIndex>1123</secondItemIndex> <!-- Mk16 Mod0 STD -->
+		<firstResultingItemIndex>1127</firstResultingItemIndex> <!-- Mk16 Mod1 STD -->
+		<secondResultingItemIndex>2600</secondResultingItemIndex> <!-- Mk16 Mod0 STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2604</firstItemIndex>
-		<secondItemIndex>1124</secondItemIndex>
-		<firstResultingItemIndex>1127</firstResultingItemIndex>
-		<secondResultingItemIndex>2601</secondResultingItemIndex>
+		<firstItemIndex>2604</firstItemIndex> <!-- Mk16 Mod1 STD con.kits -->
+		<secondItemIndex>1124</secondItemIndex> <!-- Mk17 Mod0 CQC -->
+		<firstResultingItemIndex>1127</firstResultingItemIndex> <!-- Mk16 Mod1 STD -->
+		<secondResultingItemIndex>2601</secondResultingItemIndex> <!-- Mk17 Mod0 CQC con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2604</firstItemIndex>
-		<secondItemIndex>1125</secondItemIndex>
-		<firstResultingItemIndex>1127</firstResultingItemIndex>
-		<secondResultingItemIndex>2602</secondResultingItemIndex>
+		<firstItemIndex>2604</firstItemIndex> <!-- Mk16 Mod1 STD con.kits -->
+		<secondItemIndex>1125</secondItemIndex> <!-- Mk17 Mod0 STD -->
+		<firstResultingItemIndex>1127</firstResultingItemIndex> <!-- Mk16 Mod1 STD -->
+		<secondResultingItemIndex>2602</secondResultingItemIndex> <!-- Mk17 Mod0 STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2604</firstItemIndex>
-		<secondItemIndex>1126</secondItemIndex>
-		<firstResultingItemIndex>1127</firstResultingItemIndex>
-		<secondResultingItemIndex>2603</secondResultingItemIndex>
+		<firstItemIndex>2604</firstItemIndex> <!-- Mk16 Mod1 STD con.kits -->
+		<secondItemIndex>1126</secondItemIndex> <!-- Mk16 Mod1 CQC -->
+		<firstResultingItemIndex>1127</firstResultingItemIndex> <!-- Mk16 Mod1 STD -->
+		<secondResultingItemIndex>2603</secondResultingItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2604</firstItemIndex>
-		<secondItemIndex>1128</secondItemIndex>
-		<firstResultingItemIndex>1127</firstResultingItemIndex>
-		<secondResultingItemIndex>2605</secondResultingItemIndex>
+		<firstItemIndex>2604</firstItemIndex> <!-- Mk16 Mod1 STD con.kits -->
+		<secondItemIndex>1128</secondItemIndex> <!-- SCAR-WP CQC -->
+		<firstResultingItemIndex>1127</firstResultingItemIndex> <!-- Mk16 Mod1 STD -->
+		<secondResultingItemIndex>2605</secondResultingItemIndex> <!-- SCAR-WP CQC con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2604</firstItemIndex>
-		<secondItemIndex>1129</secondItemIndex>
-		<firstResultingItemIndex>1127</firstResultingItemIndex>
-		<secondResultingItemIndex>2606</secondResultingItemIndex>
+		<firstItemIndex>2604</firstItemIndex> <!-- Mk16 Mod1 STD con.kits -->
+		<secondItemIndex>1129</secondItemIndex> <!-- SCAR-WP STD -->
+		<firstResultingItemIndex>1127</firstResultingItemIndex> <!-- Mk16 Mod1 STD -->
+		<secondResultingItemIndex>2606</secondResultingItemIndex> <!-- SCAR-WP STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2604</firstItemIndex>
-		<secondItemIndex>2722</secondItemIndex>
-		<firstResultingItemIndex>2727</firstResultingItemIndex>
-		<secondResultingItemIndex>2599</secondResultingItemIndex>
+		<firstItemIndex>2604</firstItemIndex> <!-- Mk16 Mod1 STD con.kits -->
+		<secondItemIndex>2722</secondItemIndex> <!-- Mk16 Mod0 CQC -->
+		<firstResultingItemIndex>2727</firstResultingItemIndex> <!-- Mk16 Mod1 STD -->
+		<secondResultingItemIndex>2599</secondResultingItemIndex> <!-- Mk16 Mod0 STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2604</firstItemIndex>
-		<secondItemIndex>2723</secondItemIndex>
-		<firstResultingItemIndex>2727</firstResultingItemIndex>
-		<secondResultingItemIndex>2600</secondResultingItemIndex>
+		<firstItemIndex>2604</firstItemIndex> <!-- Mk16 Mod1 STD con.kits -->
+		<secondItemIndex>2723</secondItemIndex> <!-- Mk16 Mod0 STD -->
+		<firstResultingItemIndex>2727</firstResultingItemIndex> <!-- Mk16 Mod1 STD -->
+		<secondResultingItemIndex>2600</secondResultingItemIndex> <!-- Mk16 Mod0 STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2604</firstItemIndex>
-		<secondItemIndex>2724</secondItemIndex>
-		<firstResultingItemIndex>2727</firstResultingItemIndex>
-		<secondResultingItemIndex>2601</secondResultingItemIndex>
+		<firstItemIndex>2604</firstItemIndex> <!-- Mk16 Mod1 STD con.kits -->
+		<secondItemIndex>2724</secondItemIndex> <!-- Mk17 Mod0 CQC -->
+		<firstResultingItemIndex>2727</firstResultingItemIndex> <!-- Mk16 Mod1 STD -->
+		<secondResultingItemIndex>2601</secondResultingItemIndex> <!-- Mk17 Mod0 CQC con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2604</firstItemIndex>
-		<secondItemIndex>2725</secondItemIndex>
-		<firstResultingItemIndex>2727</firstResultingItemIndex>
-		<secondResultingItemIndex>2602</secondResultingItemIndex>
+		<firstItemIndex>2604</firstItemIndex> <!-- Mk16 Mod1 STD con.kits -->
+		<secondItemIndex>2725</secondItemIndex> <!-- Mk17 Mod0 STD -->
+		<firstResultingItemIndex>2727</firstResultingItemIndex> <!-- Mk16 Mod1 STD -->
+		<secondResultingItemIndex>2602</secondResultingItemIndex> <!-- Mk17 Mod0 STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2604</firstItemIndex>
-		<secondItemIndex>2726</secondItemIndex>
-		<firstResultingItemIndex>2727</firstResultingItemIndex>
-		<secondResultingItemIndex>2603</secondResultingItemIndex>
+		<firstItemIndex>2604</firstItemIndex> <!-- Mk16 Mod1 STD con.kits -->
+		<secondItemIndex>2726</secondItemIndex> <!-- Mk16 Mod1 CQC -->
+		<firstResultingItemIndex>2727</firstResultingItemIndex> <!-- Mk16 Mod1 STD -->
+		<secondResultingItemIndex>2603</secondResultingItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2604</firstItemIndex>
-		<secondItemIndex>2728</secondItemIndex>
-		<firstResultingItemIndex>2727</firstResultingItemIndex>
-		<secondResultingItemIndex>2605</secondResultingItemIndex>
+		<firstItemIndex>2604</firstItemIndex> <!-- Mk16 Mod1 STD con.kits -->
+		<secondItemIndex>2728</secondItemIndex> <!-- SCAR-WP CQC -->
+		<firstResultingItemIndex>2727</firstResultingItemIndex> <!-- Mk16 Mod1 STD -->
+		<secondResultingItemIndex>2605</secondResultingItemIndex> <!-- SCAR-WP CQC con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2604</firstItemIndex>
-		<secondItemIndex>2729</secondItemIndex>
-		<firstResultingItemIndex>2727</firstResultingItemIndex>
-		<secondResultingItemIndex>2606</secondResultingItemIndex>
+		<firstItemIndex>2604</firstItemIndex> <!-- Mk16 Mod1 STD con.kits -->
+		<secondItemIndex>2729</secondItemIndex> <!-- SCAR-WP STD -->
+		<firstResultingItemIndex>2727</firstResultingItemIndex> <!-- Mk16 Mod1 STD -->
+		<secondResultingItemIndex>2606</secondResultingItemIndex> <!-- SCAR-WP STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2605</firstItemIndex>
-		<secondItemIndex>1122</secondItemIndex>
-		<firstResultingItemIndex>1128</firstResultingItemIndex>
-		<secondResultingItemIndex>2599</secondResultingItemIndex>
+		<firstItemIndex>2605</firstItemIndex> <!-- SCAR-WP CQC con.kits -->
+		<secondItemIndex>1122</secondItemIndex> <!-- Mk16 Mod0 CQC -->
+		<firstResultingItemIndex>1128</firstResultingItemIndex> <!-- SCAR-WP CQC -->
+		<secondResultingItemIndex>2599</secondResultingItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2605</firstItemIndex>
-		<secondItemIndex>1123</secondItemIndex>
-		<firstResultingItemIndex>1128</firstResultingItemIndex>
-		<secondResultingItemIndex>2600</secondResultingItemIndex>
+		<firstItemIndex>2605</firstItemIndex> <!-- SCAR-WP CQC con.kits -->
+		<secondItemIndex>1123</secondItemIndex> <!-- Mk16 Mod0 STD -->
+		<firstResultingItemIndex>1128</firstResultingItemIndex> <!-- SCAR-WP CQC -->
+		<secondResultingItemIndex>2600</secondResultingItemIndex> <!-- Mk16 Mod0 STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2605</firstItemIndex>
-		<secondItemIndex>1124</secondItemIndex>
-		<firstResultingItemIndex>1128</firstResultingItemIndex>
-		<secondResultingItemIndex>2601</secondResultingItemIndex>
+		<firstItemIndex>2605</firstItemIndex> <!-- SCAR-WP CQC con.kits -->
+		<secondItemIndex>1124</secondItemIndex> <!-- Mk17 Mod0 CQC -->
+		<firstResultingItemIndex>1128</firstResultingItemIndex> <!-- SCAR-WP CQC -->
+		<secondResultingItemIndex>2601</secondResultingItemIndex> <!-- Mk17 Mod0 CQC con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2605</firstItemIndex>
-		<secondItemIndex>1125</secondItemIndex>
-		<firstResultingItemIndex>1128</firstResultingItemIndex>
-		<secondResultingItemIndex>2602</secondResultingItemIndex>
+		<firstItemIndex>2605</firstItemIndex> <!-- SCAR-WP CQC con.kits -->
+		<secondItemIndex>1125</secondItemIndex> <!-- Mk17 Mod0 STD -->
+		<firstResultingItemIndex>1128</firstResultingItemIndex> <!-- SCAR-WP CQC -->
+		<secondResultingItemIndex>2602</secondResultingItemIndex> <!-- Mk17 Mod0 STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2605</firstItemIndex>
-		<secondItemIndex>1126</secondItemIndex>
-		<firstResultingItemIndex>1128</firstResultingItemIndex>
-		<secondResultingItemIndex>2603</secondResultingItemIndex>
+		<firstItemIndex>2605</firstItemIndex> <!-- SCAR-WP CQC con.kits -->
+		<secondItemIndex>1126</secondItemIndex> <!-- Mk16 Mod1 CQC -->
+		<firstResultingItemIndex>1128</firstResultingItemIndex> <!-- SCAR-WP CQC -->
+		<secondResultingItemIndex>2603</secondResultingItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2605</firstItemIndex>
-		<secondItemIndex>1127</secondItemIndex>
-		<firstResultingItemIndex>1128</firstResultingItemIndex>
-		<secondResultingItemIndex>2604</secondResultingItemIndex>
+		<firstItemIndex>2605</firstItemIndex> <!-- SCAR-WP CQC con.kits -->
+		<secondItemIndex>1127</secondItemIndex> <!-- Mk16 Mod1 STD -->
+		<firstResultingItemIndex>1128</firstResultingItemIndex> <!-- SCAR-WP CQC -->
+		<secondResultingItemIndex>2604</secondResultingItemIndex> <!-- Mk16 Mod1 STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2605</firstItemIndex>
-		<secondItemIndex>1129</secondItemIndex>
-		<firstResultingItemIndex>1128</firstResultingItemIndex>
-		<secondResultingItemIndex>2606</secondResultingItemIndex>
+		<firstItemIndex>2605</firstItemIndex> <!-- SCAR-WP CQC con.kits -->
+		<secondItemIndex>1129</secondItemIndex> <!-- SCAR-WP STD -->
+		<firstResultingItemIndex>1128</firstResultingItemIndex> <!-- SCAR-WP CQC -->
+		<secondResultingItemIndex>2606</secondResultingItemIndex> <!-- SCAR-WP STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2605</firstItemIndex>
-		<secondItemIndex>2722</secondItemIndex>
-		<firstResultingItemIndex>2728</firstResultingItemIndex>
-		<secondResultingItemIndex>2599</secondResultingItemIndex>
+		<firstItemIndex>2605</firstItemIndex> <!-- SCAR-WP CQC con.kits -->
+		<secondItemIndex>2722</secondItemIndex> <!-- Mk16 Mod0 CQC -->
+		<firstResultingItemIndex>2728</firstResultingItemIndex> <!-- SCAR-WP CQC -->
+		<secondResultingItemIndex>2599</secondResultingItemIndex> <!-- Mk16 Mod0 STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2605</firstItemIndex>
-		<secondItemIndex>2723</secondItemIndex>
-		<firstResultingItemIndex>2728</firstResultingItemIndex>
-		<secondResultingItemIndex>2600</secondResultingItemIndex>
+		<firstItemIndex>2605</firstItemIndex> <!-- SCAR-WP CQC con.kits -->
+		<secondItemIndex>2723</secondItemIndex> <!-- Mk16 Mod0 STD -->
+		<firstResultingItemIndex>2728</firstResultingItemIndex> <!-- SCAR-WP CQC -->
+		<secondResultingItemIndex>2600</secondResultingItemIndex> <!-- Mk16 Mod0 STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2605</firstItemIndex>
-		<secondItemIndex>2724</secondItemIndex>
-		<firstResultingItemIndex>2728</firstResultingItemIndex>
-		<secondResultingItemIndex>2601</secondResultingItemIndex>
+		<firstItemIndex>2605</firstItemIndex> <!-- SCAR-WP CQC con.kits -->
+		<secondItemIndex>2724</secondItemIndex> <!-- Mk17 Mod0 CQC -->
+		<firstResultingItemIndex>2728</firstResultingItemIndex> <!-- SCAR-WP CQC -->
+		<secondResultingItemIndex>2601</secondResultingItemIndex> <!-- Mk17 Mod0 CQC con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2605</firstItemIndex>
-		<secondItemIndex>2725</secondItemIndex>
-		<firstResultingItemIndex>2728</firstResultingItemIndex>
-		<secondResultingItemIndex>2602</secondResultingItemIndex>
+		<firstItemIndex>2605</firstItemIndex> <!-- SCAR-WP CQC con.kits -->
+		<secondItemIndex>2725</secondItemIndex> <!-- Mk17 Mod0 STD -->
+		<firstResultingItemIndex>2728</firstResultingItemIndex> <!-- SCAR-WP CQC -->
+		<secondResultingItemIndex>2602</secondResultingItemIndex> <!-- Mk17 Mod0 STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2605</firstItemIndex>
-		<secondItemIndex>2726</secondItemIndex>
-		<firstResultingItemIndex>2728</firstResultingItemIndex>
-		<secondResultingItemIndex>2603</secondResultingItemIndex>
+		<firstItemIndex>2605</firstItemIndex> <!-- SCAR-WP CQC con.kits -->
+		<secondItemIndex>2726</secondItemIndex> <!-- Mk16 Mod1 CQC -->
+		<firstResultingItemIndex>2728</firstResultingItemIndex> <!-- SCAR-WP CQC -->
+		<secondResultingItemIndex>2603</secondResultingItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2605</firstItemIndex>
-		<secondItemIndex>2727</secondItemIndex>
-		<firstResultingItemIndex>2728</firstResultingItemIndex>
-		<secondResultingItemIndex>2604</secondResultingItemIndex>
+		<firstItemIndex>2605</firstItemIndex> <!-- SCAR-WP CQC con.kits -->
+		<secondItemIndex>2727</secondItemIndex> <!-- Mk16 Mod1 STD -->
+		<firstResultingItemIndex>2728</firstResultingItemIndex> <!-- SCAR-WP CQC -->
+		<secondResultingItemIndex>2604</secondResultingItemIndex> <!-- Mk16 Mod1 STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2605</firstItemIndex>
-		<secondItemIndex>2729</secondItemIndex>
-		<firstResultingItemIndex>2728</firstResultingItemIndex>
-		<secondResultingItemIndex>2606</secondResultingItemIndex>
+		<firstItemIndex>2605</firstItemIndex> <!-- SCAR-WP CQC con.kits -->
+		<secondItemIndex>2729</secondItemIndex> <!-- SCAR-WP STD -->
+		<firstResultingItemIndex>2728</firstResultingItemIndex> <!-- SCAR-WP CQC -->
+		<secondResultingItemIndex>2606</secondResultingItemIndex> <!-- SCAR-WP STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2606</firstItemIndex>
-		<secondItemIndex>1122</secondItemIndex>
-		<firstResultingItemIndex>1129</firstResultingItemIndex>
-		<secondResultingItemIndex>2599</secondResultingItemIndex>
+		<firstItemIndex>2606</firstItemIndex> <!-- SCAR-WP STD con.kits -->
+		<secondItemIndex>1122</secondItemIndex> <!-- Mk16 Mod0 CQC -->
+		<firstResultingItemIndex>1129</firstResultingItemIndex> <!-- SCAR-WP STD -->
+		<secondResultingItemIndex>2599</secondResultingItemIndex> <!-- Mk16 Mod0 CQC con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2606</firstItemIndex>
-		<secondItemIndex>1123</secondItemIndex>
-		<firstResultingItemIndex>1129</firstResultingItemIndex>
-		<secondResultingItemIndex>2600</secondResultingItemIndex>
+		<firstItemIndex>2606</firstItemIndex> <!-- SCAR-WP STD con.kits -->
+		<secondItemIndex>1123</secondItemIndex> <!-- Mk16 Mod0 STD -->
+		<firstResultingItemIndex>1129</firstResultingItemIndex> <!-- SCAR-WP STD -->
+		<secondResultingItemIndex>2600</secondResultingItemIndex> <!-- Mk16 Mod0 STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2606</firstItemIndex>
-		<secondItemIndex>1124</secondItemIndex>
-		<firstResultingItemIndex>1129</firstResultingItemIndex>
-		<secondResultingItemIndex>2601</secondResultingItemIndex>
+		<firstItemIndex>2606</firstItemIndex> <!-- SCAR-WP STD con.kits -->
+		<secondItemIndex>1124</secondItemIndex> <!-- Mk17 Mod0 CQC -->
+		<firstResultingItemIndex>1129</firstResultingItemIndex> <!-- SCAR-WP STD -->
+		<secondResultingItemIndex>2601</secondResultingItemIndex> <!-- Mk17 Mod0 CQC con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2606</firstItemIndex>
-		<secondItemIndex>1125</secondItemIndex>
-		<firstResultingItemIndex>1129</firstResultingItemIndex>
-		<secondResultingItemIndex>2602</secondResultingItemIndex>
+		<firstItemIndex>2606</firstItemIndex> <!-- SCAR-WP STD con.kits -->
+		<secondItemIndex>1125</secondItemIndex> <!-- Mk17 Mod0 STD -->
+		<firstResultingItemIndex>1129</firstResultingItemIndex> <!-- SCAR-WP STD -->
+		<secondResultingItemIndex>2602</secondResultingItemIndex> <!-- Mk17 Mod0 STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2606</firstItemIndex>
-		<secondItemIndex>1126</secondItemIndex>
-		<firstResultingItemIndex>1129</firstResultingItemIndex>
-		<secondResultingItemIndex>2603</secondResultingItemIndex>
+		<firstItemIndex>2606</firstItemIndex> <!-- SCAR-WP STD con.kits -->
+		<secondItemIndex>1126</secondItemIndex> <!-- Mk16 Mod1 CQC -->
+		<firstResultingItemIndex>1129</firstResultingItemIndex> <!-- SCAR-WP STD -->
+		<secondResultingItemIndex>2603</secondResultingItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2606</firstItemIndex>
-		<secondItemIndex>1127</secondItemIndex>
-		<firstResultingItemIndex>1129</firstResultingItemIndex>
-		<secondResultingItemIndex>2604</secondResultingItemIndex>
+		<firstItemIndex>2606</firstItemIndex> <!-- SCAR-WP STD con.kits -->
+		<secondItemIndex>1127</secondItemIndex> <!-- Mk16 Mod1 STD -->
+		<firstResultingItemIndex>1129</firstResultingItemIndex> <!-- SCAR-WP STD -->
+		<secondResultingItemIndex>2604</secondResultingItemIndex> <!-- Mk16 Mod1 STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2606</firstItemIndex>
-		<secondItemIndex>1128</secondItemIndex>
-		<firstResultingItemIndex>1129</firstResultingItemIndex>
-		<secondResultingItemIndex>2605</secondResultingItemIndex>
+		<firstItemIndex>2606</firstItemIndex> <!-- SCAR-WP STD con.kits -->
+		<secondItemIndex>1128</secondItemIndex> <!-- SCAR-WP CQC -->
+		<firstResultingItemIndex>1129</firstResultingItemIndex> <!-- SCAR-WP STD -->
+		<secondResultingItemIndex>2605</secondResultingItemIndex> <!-- SCAR-WP CQC con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2606</firstItemIndex>
-		<secondItemIndex>2722</secondItemIndex>
-		<firstResultingItemIndex>2729</firstResultingItemIndex>
-		<secondResultingItemIndex>2599</secondResultingItemIndex>
+		<firstItemIndex>2606</firstItemIndex> <!-- SCAR-WP STD con.kits -->
+		<secondItemIndex>2722</secondItemIndex> <!-- Mk16 Mod0 CQC -->
+		<firstResultingItemIndex>2729</firstResultingItemIndex> <!-- SCAR-WP STD -->
+		<secondResultingItemIndex>2599</secondResultingItemIndex> <!-- Mk16 Mod0 STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2606</firstItemIndex>
-		<secondItemIndex>2723</secondItemIndex>
-		<firstResultingItemIndex>2729</firstResultingItemIndex>
-		<secondResultingItemIndex>2600</secondResultingItemIndex>
+		<firstItemIndex>2606</firstItemIndex> <!-- SCAR-WP STD con.kits -->
+		<secondItemIndex>2723</secondItemIndex> <!-- Mk16 Mod0 STD -->
+		<firstResultingItemIndex>2729</firstResultingItemIndex> <!-- SCAR-WP STD -->
+		<secondResultingItemIndex>2600</secondResultingItemIndex> <!-- Mk16 Mod0 STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2606</firstItemIndex>
-		<secondItemIndex>2724</secondItemIndex>
-		<firstResultingItemIndex>2729</firstResultingItemIndex>
-		<secondResultingItemIndex>2601</secondResultingItemIndex>
+		<firstItemIndex>2606</firstItemIndex> <!-- SCAR-WP STD con.kits -->
+		<secondItemIndex>2724</secondItemIndex> <!-- Mk17 Mod0 CQC -->
+		<firstResultingItemIndex>2729</firstResultingItemIndex> <!-- SCAR-WP STD -->
+		<secondResultingItemIndex>2601</secondResultingItemIndex> <!-- Mk17 Mod0 CQC con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2606</firstItemIndex>
-		<secondItemIndex>2725</secondItemIndex>
-		<firstResultingItemIndex>2729</firstResultingItemIndex>
-		<secondResultingItemIndex>2602</secondResultingItemIndex>
+		<firstItemIndex>2606</firstItemIndex> <!-- SCAR-WP STD con.kits -->
+		<secondItemIndex>2725</secondItemIndex> <!-- Mk17 Mod0 STD -->
+		<firstResultingItemIndex>2729</firstResultingItemIndex> <!-- SCAR-WP STD -->
+		<secondResultingItemIndex>2602</secondResultingItemIndex> <!-- Mk17 Mod0 STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2606</firstItemIndex>
-		<secondItemIndex>2726</secondItemIndex>
-		<firstResultingItemIndex>2729</firstResultingItemIndex>
-		<secondResultingItemIndex>2603</secondResultingItemIndex>
+		<firstItemIndex>2606</firstItemIndex> <!-- SCAR-WP STD con.kits -->
+		<secondItemIndex>2726</secondItemIndex> <!-- Mk16 Mod1 CQC -->
+		<firstResultingItemIndex>2729</firstResultingItemIndex> <!-- SCAR-WP STD -->
+		<secondResultingItemIndex>2603</secondResultingItemIndex> <!-- Mk16 Mod1 CQC con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2606</firstItemIndex>
-		<secondItemIndex>2727</secondItemIndex>
-		<firstResultingItemIndex>2729</firstResultingItemIndex>
-		<secondResultingItemIndex>2604</secondResultingItemIndex>
+		<firstItemIndex>2606</firstItemIndex> <!-- SCAR-WP STD con.kits -->
+		<secondItemIndex>2727</secondItemIndex> <!-- Mk16 Mod1 STD -->
+		<firstResultingItemIndex>2729</firstResultingItemIndex> <!-- SCAR-WP STD -->
+		<secondResultingItemIndex>2604</secondResultingItemIndex> <!-- Mk16 Mod1 STD con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2606</firstItemIndex>
-		<secondItemIndex>2728</secondItemIndex>
-		<firstResultingItemIndex>2729</firstResultingItemIndex>
-		<secondResultingItemIndex>2605</secondResultingItemIndex>
+		<firstItemIndex>2606</firstItemIndex> <!-- SCAR-WP STD con.kits -->
+		<secondItemIndex>2728</secondItemIndex> <!-- SCAR-WP CQC -->
+		<firstResultingItemIndex>2729</firstResultingItemIndex> <!-- SCAR-WP STD -->
+		<secondResultingItemIndex>2605</secondResultingItemIndex> <!-- SCAR-WP CQC con.kits -->
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2646</firstItemIndex>
-		<secondItemIndex>2</secondItemIndex>
-		<firstResultingItemIndex>1333</firstResultingItemIndex>
+		<firstItemIndex>2646</firstItemIndex> <!-- MP Stock -->
+		<secondItemIndex>2</secondItemIndex> <!-- Glock 18 -->
+		<firstResultingItemIndex>1333</firstResultingItemIndex> <!-- Glock 18 Stock -->
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>10</APCost>
@@ -3977,7 +3977,7 @@
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2736</firstItemIndex>
+		<firstItemIndex>2736</firstItemIndex> <!-- AR-57 Upper -->
 		<secondItemIndex>12</secondItemIndex>
 		<firstResultingItemIndex>2278</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
@@ -3992,8 +3992,9 @@
 		<mergeType>4</mergeType>
 		<APCost>75</APCost>
 	</MERGE>
+ <!-- Replacable Barrel -->
 	<MERGE>
-		<firstItemIndex>2990</firstItemIndex>
+		<firstItemIndex>2990</firstItemIndex> <!-- 5.56x45mm Replacable Barrel -->
 		<secondItemIndex>34</secondItemIndex>
 		<firstResultingItemIndex>34</firstResultingItemIndex>
 		<secondResultingItemIndex>2990</secondResultingItemIndex>
@@ -4233,7 +4234,7 @@
 		<APCost>60</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2991</firstItemIndex>
+		<firstItemIndex>2991</firstItemIndex> <!-- 7.62x51mm Replacable Barrel -->
 		<secondItemIndex>36</secondItemIndex>
 		<firstResultingItemIndex>36</firstResultingItemIndex>
 		<secondResultingItemIndex>2991</secondResultingItemIndex>
@@ -4385,7 +4386,7 @@
 		<APCost>60</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2992</firstItemIndex>
+		<firstItemIndex>2992</firstItemIndex> <!-- 7.62x54R Replacable Barrel -->
 		<secondItemIndex>700</secondItemIndex>
 		<firstResultingItemIndex>700</firstResultingItemIndex>
 		<secondResultingItemIndex>2992</secondResultingItemIndex>
@@ -4417,7 +4418,7 @@
 		<APCost>60</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2993</firstItemIndex>
+		<firstItemIndex>2993</firstItemIndex> <!-- .50 BMG Replacable Barrel -->
 		<secondItemIndex>1075</secondItemIndex>
 		<firstResultingItemIndex>1075</firstResultingItemIndex>
 		<secondResultingItemIndex>2993</secondResultingItemIndex>
@@ -4425,7 +4426,7 @@
 		<APCost>60</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2994</firstItemIndex>
+		<firstItemIndex>2994</firstItemIndex> <!-- .50 BMG Replacable Barrel -->
 		<secondItemIndex>1076</secondItemIndex>
 		<firstResultingItemIndex>1076</firstResultingItemIndex>
 		<secondResultingItemIndex>2994</secondResultingItemIndex>
@@ -4433,7 +4434,7 @@
 		<APCost>60</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2995</firstItemIndex>
+		<firstItemIndex>2995</firstItemIndex> <!-- 5.8x42mm Replacable Barrel -->
 		<secondItemIndex>1121</secondItemIndex>
 		<firstResultingItemIndex>1121</firstResultingItemIndex>
 		<secondResultingItemIndex>2995</secondResultingItemIndex>
@@ -4441,7 +4442,7 @@
 		<APCost>60</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2996</firstItemIndex>
+		<firstItemIndex>2996</firstItemIndex> <!-- .303 British Replacable Barrel -->
 		<secondItemIndex>1289</secondItemIndex>
 		<firstResultingItemIndex>1289</firstResultingItemIndex>
 		<secondResultingItemIndex>2996</secondResultingItemIndex>
@@ -4449,7 +4450,7 @@
 		<APCost>60</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2997</firstItemIndex>
+		<firstItemIndex>2997</firstItemIndex> <!-- 7.92x57mm Replacable Barrel -->
 		<secondItemIndex>1301</secondItemIndex>
 		<firstResultingItemIndex>1301</firstResultingItemIndex>
 		<secondResultingItemIndex>2997</secondResultingItemIndex>
@@ -4481,7 +4482,7 @@
 		<APCost>60</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2998</firstItemIndex>
+		<firstItemIndex>2998</firstItemIndex> <!-- .338 NM Replacable Barrel -->
 		<secondItemIndex>1149</secondItemIndex>
 		<firstResultingItemIndex>1149</firstResultingItemIndex>
 		<secondResultingItemIndex>2998</secondResultingItemIndex>
@@ -4489,7 +4490,7 @@
 		<APCost>60</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2999</firstItemIndex>
+		<firstItemIndex>2999</firstItemIndex> <!-- 7.62x39mm Replacable Barrel -->
 		<secondItemIndex>1980</secondItemIndex>
 		<firstResultingItemIndex>1980</firstResultingItemIndex>
 		<secondResultingItemIndex>2999</secondResultingItemIndex>
@@ -4505,7 +4506,7 @@
 		<APCost>60</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>3000</firstItemIndex>
+		<firstItemIndex>3000</firstItemIndex> <!-- Tripwire -->
 		<secondItemIndex>131</secondItemIndex>
 		<firstResultingItemIndex>3003</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
@@ -4689,7 +4690,7 @@
 		<APCost>32</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>3044</firstItemIndex>
+		<firstItemIndex>3044</firstItemIndex> <!-- CM901 556 10 Upper -->
 		<secondItemIndex>3040</secondItemIndex>
 		<firstResultingItemIndex>3039</firstResultingItemIndex>
 		<secondResultingItemIndex>3045</secondResultingItemIndex>
@@ -4721,7 +4722,7 @@
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>3045</firstItemIndex>
+		<firstItemIndex>3045</firstItemIndex> <!-- CM901 556 14 Upper -->
 		<secondItemIndex>3039</secondItemIndex>
 		<firstResultingItemIndex>3040</firstResultingItemIndex>
 		<secondResultingItemIndex>3044</secondResultingItemIndex>
@@ -4753,7 +4754,7 @@
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>3046</firstItemIndex>
+		<firstItemIndex>3046</firstItemIndex> <!-- CM901 556 16 Upper -->
 		<secondItemIndex>3039</secondItemIndex>
 		<firstResultingItemIndex>3041</firstResultingItemIndex>
 		<secondResultingItemIndex>3044</secondResultingItemIndex>
@@ -4785,7 +4786,7 @@
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>3047</firstItemIndex>
+		<firstItemIndex>3047</firstItemIndex> <!-- CM901 762 16 Upper -->
 		<secondItemIndex>3039</secondItemIndex>
 		<firstResultingItemIndex>3042</firstResultingItemIndex>
 		<secondResultingItemIndex>3044</secondResultingItemIndex>
@@ -4817,7 +4818,7 @@
 		<APCost>75</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>3048</firstItemIndex>
+		<firstItemIndex>3048</firstItemIndex> <!-- CM901 762 18 Upper -->
 		<secondItemIndex>3039</secondItemIndex>
 		<firstResultingItemIndex>3043</firstResultingItemIndex>
 		<secondResultingItemIndex>3044</secondResultingItemIndex>

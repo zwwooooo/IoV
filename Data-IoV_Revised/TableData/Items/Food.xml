@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<FOODSLIST>
+﻿<FOODSLIST>
 	<FOOD>
 		<uiIndex>0</uiIndex>
 		<szName>(none)</szName>
@@ -153,7 +152,7 @@
 		<bMoraleMod>1</bMoraleMod>
 		<usDecayRate>0</usDecayRate>
 	</FOOD>
-	<FOOD>
+<FOOD>
 		<uiIndex>17</uiIndex>
 		<szName>C. scorpions</szName>
 		<bFoodPoints>360</bFoodPoints>
@@ -243,7 +242,7 @@
 		<bMoraleMod>-2</bMoraleMod>
 		<usDecayRate>3</usDecayRate>
 	</FOOD>
-	<FOOD>
+  <FOOD>
 		<uiIndex>27</uiIndex>
 		<szName>Bloodcat meat</szName>
 		<bFoodPoints>2200</bFoodPoints>

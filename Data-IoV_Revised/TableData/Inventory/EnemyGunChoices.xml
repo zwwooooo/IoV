@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ENEMYGUNCHOICESLIST>
 	<ENEMYGUNCHOICES>
-		<uiIndex>0</uiIndex>
+		<uiIndex>0</uiIndex> <!-- 手枪 -->
 		<name>0%</name>
 		<ubChoices>22</ubChoices>
 		<bItemNo1>689</bItemNo1>
@@ -56,7 +56,7 @@
 		<bItemNo50>0</bItemNo50>
 	</ENEMYGUNCHOICES>
 	<ENEMYGUNCHOICES>
-		<uiIndex>1</uiIndex>
+		<uiIndex>1</uiIndex> <!-- 手枪、冲锋枪 -->
 		<name>10%</name>
 		<ubChoices>32</ubChoices>
 		<bItemNo1>703</bItemNo1>
@@ -111,7 +111,7 @@
 		<bItemNo50>0</bItemNo50>
 	</ENEMYGUNCHOICES>
 	<ENEMYGUNCHOICES>
-		<uiIndex>2</uiIndex>
+		<uiIndex>2</uiIndex> <!-- 大手枪、冲锋枪、霰弹枪、M1卡宾 -->
 		<name>20%</name>
 		<ubChoices>36</ubChoices>
 		<bItemNo1>694</bItemNo1>
@@ -166,7 +166,7 @@
 		<bItemNo50>0</bItemNo50>
 	</ENEMYGUNCHOICES>
 	<ENEMYGUNCHOICES>
-		<uiIndex>3</uiIndex>
+		<uiIndex>3</uiIndex> <!-- 大手枪、冲锋枪、霰弹枪、短突击步枪、手动步枪 -->
 		<name>30%</name>
 		<ubChoices>37</ubChoices>
 		<bItemNo1>670</bItemNo1>
@@ -221,7 +221,7 @@
 		<bItemNo50>0</bItemNo50>
 	</ENEMYGUNCHOICES>
 	<ENEMYGUNCHOICES>
-		<uiIndex>4</uiIndex>
+		<uiIndex>4</uiIndex> <!-- 大手枪、冲锋枪、霰弹枪、短突击步枪 -->
 		<name>40%</name>
 		<ubChoices>42</ubChoices>
 		<bItemNo1>641</bItemNo1>
@@ -276,7 +276,7 @@
 		<bItemNo50>0</bItemNo50>
 	</ENEMYGUNCHOICES>
 	<ENEMYGUNCHOICES>
-		<uiIndex>5</uiIndex>
+		<uiIndex>5</uiIndex> <!-- 冲锋枪、霰弹枪、突击步枪、手动步枪 -->
 		<name>50%</name>
 		<ubChoices>45</ubChoices>
 		<bItemNo1>601</bItemNo1>
@@ -331,7 +331,7 @@
 		<bItemNo50>0</bItemNo50>
 	</ENEMYGUNCHOICES>
 	<ENEMYGUNCHOICES>
-		<uiIndex>6</uiIndex>
+		<uiIndex>6</uiIndex> <!-- 冲锋枪、霰弹枪、突击步枪、狙击步枪 -->
 		<name>60%</name>
 		<ubChoices>45</ubChoices>
 		<bItemNo1>337</bItemNo1>
@@ -386,7 +386,7 @@
 		<bItemNo50>0</bItemNo50>
 	</ENEMYGUNCHOICES>
 	<ENEMYGUNCHOICES>
-		<uiIndex>7</uiIndex>
+		<uiIndex>7</uiIndex> <!-- 短突击步枪、卡宾枪、突击步枪、狙击步枪 -->
 		<name>70%</name>
 		<ubChoices>45</ubChoices>
 		<bItemNo1>663</bItemNo1>
@@ -441,7 +441,7 @@
 		<bItemNo50>0</bItemNo50>
 	</ENEMYGUNCHOICES>
 	<ENEMYGUNCHOICES>
-		<uiIndex>8</uiIndex>
+		<uiIndex>8</uiIndex> <!-- 自动霰弹枪、卡宾枪、突击步枪、大口径狙击步枪、机枪 -->
 		<name>80%</name>
 		<ubChoices>45</ubChoices>
 		<bItemNo1>680</bItemNo1>
@@ -496,7 +496,7 @@
 		<bItemNo50>0</bItemNo50>
 	</ENEMYGUNCHOICES>
 	<ENEMYGUNCHOICES>
-		<uiIndex>9</uiIndex>
+		<uiIndex>9</uiIndex> <!-- 短突击步枪、卡宾枪、突击步枪、大口径狙击步枪 -->
 		<name>90%</name>
 		<ubChoices>36</ubChoices>
 		<bItemNo1>605</bItemNo1>
@@ -551,7 +551,7 @@
 		<bItemNo50>0</bItemNo50>
 	</ENEMYGUNCHOICES>
 	<ENEMYGUNCHOICES>
-		<uiIndex>10</uiIndex>
+		<uiIndex>10</uiIndex> <!-- 卡宾枪、突击步枪、狙击步枪、机枪 -->
 		<name>100%</name>
 		<ubChoices>32</ubChoices>
 		<bItemNo1>639</bItemNo1>

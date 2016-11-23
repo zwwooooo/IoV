@@ -388,7 +388,7 @@
 	<ENEMYITEMCHOICES>
 		<uiIndex>7</uiIndex>
 		<name>Grenade Launchers</name>
-		<ubChoices>9</ubChoices>
+	<ubChoices>9</ubChoices>
 		<bItemNo1>40</bItemNo1>
 		<bItemNo2>906</bItemNo2>
 		<bItemNo3>907</bItemNo3>

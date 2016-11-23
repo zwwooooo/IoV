@@ -6,7 +6,7 @@
 		<ubChoices>4</ubChoices>
 		<ubNumItems>4</ubNumItems>
 		<bItemNo1>164</bItemNo1>
-		<bItemNo2>1724</bItemNo2>
+		<bItemNo2>1724</bItemNo2> <!-- CIRAS Vest -->
 		<bItemNo3>1094</bItemNo3>
 		<bItemNo4>1097</bItemNo4>
 		<bItemNo5>0</bItemNo5>
@@ -64,8 +64,8 @@
 		<bItemNo1>201</bItemNo1>
 		<bItemNo2>838</bItemNo2>
 		<bItemNo3>201</bItemNo3>
-		<bItemNo4>1700</bItemNo4>
-		<bItemNo5>893</bItemNo5>
+		<bItemNo4>1700</bItemNo4> <!-- Underarmor Shirt -->
+		<bItemNo5>893</bItemNo5> <!-- Camo Trousers -->
 		<bItemNo6>201</bItemNo6>
 		<bItemNo7>214</bItemNo7>
 		<bItemNo8>214</bItemNo8>
@@ -118,7 +118,7 @@
 		<ubChoices>0</ubChoices>
 		<ubNumItems>0</ubNumItems>
 		<bItemNo1>0</bItemNo1>
-		<bItemNo2>880</bItemNo2>
+		<bItemNo2>880</bItemNo2> <!-- SF Helmet -->
 		<bItemNo3>0</bItemNo3>
 		<bItemNo4>0</bItemNo4>
 		<bItemNo5>0</bItemNo5>

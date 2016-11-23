@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <POCKETLIST>
 	<POCKET>
 		<pIndex>0</pIndex>
@@ -6,7 +6,6 @@
 		<pSilhouette>0</pSilhouette>
 		<pType>0</pType>
 		<pRestriction>0</pRestriction>
-		<pVolume>0</pVolume>
 		<ItemCapacityPerSize0>0</ItemCapacityPerSize0>
 		<ItemCapacityPerSize1>0</ItemCapacityPerSize1>
 		<ItemCapacityPerSize2>0</ItemCapacityPerSize2>
@@ -611,6 +610,7 @@
 		<pIndex>20</pIndex>
 		<pName>Medical Pocket</pName>
 		<pSilhouette>24</pSilhouette>
+		<pType>0</pType>
 		<pRestriction>4096</pRestriction>
 		<ItemCapacityPerSize38>1</ItemCapacityPerSize38>
 	</POCKET>
@@ -806,8 +806,7 @@
 		<ItemCapacityPerSize42>2</ItemCapacityPerSize42>
 		<ItemCapacityPerSize43>1</ItemCapacityPerSize43>
 		<ItemCapacityPerSize46>1</ItemCapacityPerSize46>
-		<ItemCapacityPerSize49>1</ItemCapacityPerSize49>
-		<ItemCapacityPerSize52>1</ItemCapacityPerSize52>
+		<ItemCapacityPerSize49>1</ItemCapacityPerSize49>		<ItemCapacityPerSize52>1</ItemCapacityPerSize52>
 		<ItemCapacityPerSize53>1</ItemCapacityPerSize53>
 		<ItemCapacityPerSize54>1</ItemCapacityPerSize54>
 	</POCKET>
@@ -823,11 +822,7 @@
 		<ItemCapacityPerSize28>2</ItemCapacityPerSize28>
 		<ItemCapacityPerSize29>2</ItemCapacityPerSize29>
 		<ItemCapacityPerSize31>1</ItemCapacityPerSize31>
-		<ItemCapacityPerSize34>1</ItemCapacityPerSize34>
-		<ItemCapacityPerSize35>1</ItemCapacityPerSize35>
-		<ItemCapacityPerSize38>1</ItemCapacityPerSize38>
-		<ItemCapacityPerSize44>1</ItemCapacityPerSize44>
-	</POCKET>
+		<ItemCapacityPerSize34>1</ItemCapacityPerSize34>		<ItemCapacityPerSize35>1</ItemCapacityPerSize35>		<ItemCapacityPerSize38>1</ItemCapacityPerSize38>		<ItemCapacityPerSize44>1</ItemCapacityPerSize44>	</POCKET>
 	<POCKET>
 		<pIndex>33</pIndex>
 		<pName>Open-Top SR Magazine Pouch</pName>
@@ -842,16 +837,14 @@
 		<ItemCapacityPerSize31>2</ItemCapacityPerSize31>
 		<ItemCapacityPerSize32>1</ItemCapacityPerSize32>
 		<ItemCapacityPerSize34>1</ItemCapacityPerSize34>
-		<ItemCapacityPerSize35>1</ItemCapacityPerSize35>
-		<ItemCapacityPerSize38>2</ItemCapacityPerSize38>
+		<ItemCapacityPerSize35>1</ItemCapacityPerSize35>		<ItemCapacityPerSize38>2</ItemCapacityPerSize38>
 		<ItemCapacityPerSize39>1</ItemCapacityPerSize39>
 		<ItemCapacityPerSize40>1</ItemCapacityPerSize40>
 		<ItemCapacityPerSize41>2</ItemCapacityPerSize41>
 		<ItemCapacityPerSize42>2</ItemCapacityPerSize42>
 		<ItemCapacityPerSize43>1</ItemCapacityPerSize43>
 		<ItemCapacityPerSize44>2</ItemCapacityPerSize44>
-		<ItemCapacityPerSize49>1</ItemCapacityPerSize49>
-		<ItemCapacityPerSize52>1</ItemCapacityPerSize52>
+		<ItemCapacityPerSize49>1</ItemCapacityPerSize49>		<ItemCapacityPerSize52>1</ItemCapacityPerSize52>
 		<ItemCapacityPerSize53>1</ItemCapacityPerSize53>
 	</POCKET>
 	<POCKET>
@@ -869,8 +862,7 @@
 		<ItemCapacityPerSize31>4</ItemCapacityPerSize31>
 		<ItemCapacityPerSize32>1</ItemCapacityPerSize32>
 		<ItemCapacityPerSize34>1</ItemCapacityPerSize34>
-		<ItemCapacityPerSize35>1</ItemCapacityPerSize35>
-		<ItemCapacityPerSize38>3</ItemCapacityPerSize38>
+		<ItemCapacityPerSize35>1</ItemCapacityPerSize35>		<ItemCapacityPerSize38>3</ItemCapacityPerSize38>
 		<ItemCapacityPerSize39>1</ItemCapacityPerSize39>
 		<ItemCapacityPerSize44>2</ItemCapacityPerSize44>
 		<ItemCapacityPerSize53>1</ItemCapacityPerSize53>
@@ -900,9 +892,7 @@
 		<ItemCapacityPerSize40>1</ItemCapacityPerSize40>
 		<ItemCapacityPerSize41>2</ItemCapacityPerSize41>
 		<ItemCapacityPerSize42>2</ItemCapacityPerSize42>
-		<ItemCapacityPerSize43>1</ItemCapacityPerSize43>
-		<ItemCapacityPerSize49>1</ItemCapacityPerSize49>
-		<ItemCapacityPerSize52>1</ItemCapacityPerSize52>
+		<ItemCapacityPerSize43>1</ItemCapacityPerSize43>		<ItemCapacityPerSize49>1</ItemCapacityPerSize49>		<ItemCapacityPerSize52>1</ItemCapacityPerSize52>
 		<ItemCapacityPerSize53>1</ItemCapacityPerSize53>
 	</POCKET>
 	<POCKET>
@@ -913,9 +903,7 @@
 		<pRestriction>1024</pRestriction>
 		<ItemCapacityPerSize25>4</ItemCapacityPerSize25>
 		<ItemCapacityPerSize26>2</ItemCapacityPerSize26>
-		<ItemCapacityPerSize34>1</ItemCapacityPerSize34>
-		<ItemCapacityPerSize35>1</ItemCapacityPerSize35>
-	</POCKET>
+		<ItemCapacityPerSize34>1</ItemCapacityPerSize34>		<ItemCapacityPerSize35>1</ItemCapacityPerSize35>	</POCKET>
 	<POCKET>
 		<pIndex>37</pIndex>
 		<pName>Double Purpose 40mm Grenade/Pistol Magazine Pocket</pName>
@@ -956,8 +944,8 @@
 		<pSilhouette>44</pSilhouette>
 		<pType>1</pType>
 		<ItemCapacityPerSize25>4</ItemCapacityPerSize25>
-		<ItemCapacityPerSize26>2</ItemCapacityPerSize26>
 		<ItemCapacityPerSize27>4</ItemCapacityPerSize27>
+		<ItemCapacityPerSize26>2</ItemCapacityPerSize26>
 		<ItemCapacityPerSize28>2</ItemCapacityPerSize28>
 		<ItemCapacityPerSize29>2</ItemCapacityPerSize29>
 		<ItemCapacityPerSize30>1</ItemCapacityPerSize30>
@@ -965,8 +953,7 @@
 		<ItemCapacityPerSize32>2</ItemCapacityPerSize32>
 		<ItemCapacityPerSize33>1</ItemCapacityPerSize33>
 		<ItemCapacityPerSize34>1</ItemCapacityPerSize34>
-		<ItemCapacityPerSize35>1</ItemCapacityPerSize35>
-		<ItemCapacityPerSize39>1</ItemCapacityPerSize39>
+		<ItemCapacityPerSize35>1</ItemCapacityPerSize35>		<ItemCapacityPerSize39>1</ItemCapacityPerSize39>
 	</POCKET>
 	<POCKET>
 		<pIndex>42</pIndex>
@@ -989,8 +976,7 @@
 		<ItemCapacityPerSize31>2</ItemCapacityPerSize31>
 		<ItemCapacityPerSize32>1</ItemCapacityPerSize32>
 		<ItemCapacityPerSize34>1</ItemCapacityPerSize34>
-		<ItemCapacityPerSize35>1</ItemCapacityPerSize35>
-		<ItemCapacityPerSize38>1</ItemCapacityPerSize38>
+		<ItemCapacityPerSize35>1</ItemCapacityPerSize35>		<ItemCapacityPerSize38>1</ItemCapacityPerSize38>
 	</POCKET>
 	<POCKET>
 		<pIndex>44</pIndex>
@@ -1047,8 +1033,7 @@
 		<pName>Large Pistol Holster</pName>
 		<pSilhouette>48</pSilhouette>
 		<pType>2</pType>
-		<pRestriction>2</pRestriction>
-		<ItemCapacityPerSize2>1</ItemCapacityPerSize2>
+		<pRestriction>2</pRestriction>		<ItemCapacityPerSize2>1</ItemCapacityPerSize2>
 		<ItemCapacityPerSize3>1</ItemCapacityPerSize3>
 		<ItemCapacityPerSize4>1</ItemCapacityPerSize4>
 		<ItemCapacityPerSize5>1</ItemCapacityPerSize5>
@@ -1061,8 +1046,7 @@
 		<pSilhouette>48</pSilhouette>
 		<pType>2</pType>
 		<pRestriction>2</pRestriction>
-		<ItemCapacityPerSize4>1</ItemCapacityPerSize4>
-		<ItemCapacityPerSize6>1</ItemCapacityPerSize6>
+		<ItemCapacityPerSize4>1</ItemCapacityPerSize4>		<ItemCapacityPerSize6>1</ItemCapacityPerSize6>
 	</POCKET>
 	<POCKET>
 		<pIndex>47</pIndex>
@@ -1079,8 +1063,7 @@
 		<pType>3</pType>
 		<pRestriction>256</pRestriction>
 		<ItemCapacityPerSize69>1</ItemCapacityPerSize69>
-		<ItemCapacityPerSize70>2</ItemCapacityPerSize70>
-	</POCKET>
+		<ItemCapacityPerSize70>2</ItemCapacityPerSize70>	</POCKET>
 	<POCKET>
 		<pIndex>49</pIndex>
 		<pName>Cartridge Bandoleers</pName>
@@ -1132,8 +1115,7 @@
 		<pType>2</pType>
 		<pRestriction>131072</pRestriction>
 		<ItemCapacityPerSize49>2</ItemCapacityPerSize49>
-		<ItemCapacityPerSize50>2</ItemCapacityPerSize50>
-		<ItemCapacityPerSize58>1</ItemCapacityPerSize58>
+		<ItemCapacityPerSize50>2</ItemCapacityPerSize50>		<ItemCapacityPerSize58>1</ItemCapacityPerSize58>
 		<ItemCapacityPerSize59>1</ItemCapacityPerSize59>
 	</POCKET>
 	<POCKET>
@@ -1141,8 +1123,7 @@
 		<pName>Mortar Bomb Tube</pName>
 		<pSilhouette>54</pSilhouette>
 		<pType>1</pType>
-		<pRestriction>512</pRestriction>
-		<ItemCapacityPerSize54>1</ItemCapacityPerSize54>
+		<pRestriction>512</pRestriction>		<ItemCapacityPerSize54>1</ItemCapacityPerSize54>
 	</POCKET>
 	<POCKET>
 		<pIndex>54</pIndex>
@@ -1167,8 +1148,8 @@
 		<ItemCapacityPerSize37>1</ItemCapacityPerSize37>
 		<ItemCapacityPerSize39>1</ItemCapacityPerSize39>
 		<ItemCapacityPerSize41>1</ItemCapacityPerSize41>
-		<ItemCapacityPerSize43>1</ItemCapacityPerSize43>
 		<ItemCapacityPerSize44>1</ItemCapacityPerSize44>
+		<ItemCapacityPerSize43>1</ItemCapacityPerSize43>
 		<ItemCapacityPerSize52>1</ItemCapacityPerSize52>
 		<ItemCapacityPerSize54>1</ItemCapacityPerSize54>
 	</POCKET>
@@ -1205,24 +1186,20 @@
 		<ItemCapacityPerSize31>3</ItemCapacityPerSize31>
 		<ItemCapacityPerSize32>2</ItemCapacityPerSize32>
 		<ItemCapacityPerSize34>3</ItemCapacityPerSize34>
-		<ItemCapacityPerSize35>2</ItemCapacityPerSize35>
-		<ItemCapacityPerSize38>1</ItemCapacityPerSize38>
+		<ItemCapacityPerSize35>2</ItemCapacityPerSize35>		<ItemCapacityPerSize38>1</ItemCapacityPerSize38>
 	</POCKET>
 	<POCKET>
 		<pIndex>59</pIndex>
 		<pName>Single M16A1 Mag Pocket</pName>
 		<pSilhouette>60</pSilhouette>
-		<pType>1</pType>
-		<ItemCapacityPerSize25>4</ItemCapacityPerSize25>
+		<pType>1</pType>		<ItemCapacityPerSize25>4</ItemCapacityPerSize25>
 		<ItemCapacityPerSize26>2</ItemCapacityPerSize26>
 		<ItemCapacityPerSize27>2</ItemCapacityPerSize27>
 		<ItemCapacityPerSize28>1</ItemCapacityPerSize28>
 		<ItemCapacityPerSize29>1</ItemCapacityPerSize29>
 		<ItemCapacityPerSize30>1</ItemCapacityPerSize30>
 		<ItemCapacityPerSize31>2</ItemCapacityPerSize31>
-		<ItemCapacityPerSize34>1</ItemCapacityPerSize34>
-		<ItemCapacityPerSize35>1</ItemCapacityPerSize35>
-		<ItemCapacityPerSize38>1</ItemCapacityPerSize38>
+		<ItemCapacityPerSize34>1</ItemCapacityPerSize34>		<ItemCapacityPerSize35>1</ItemCapacityPerSize35>		<ItemCapacityPerSize38>1</ItemCapacityPerSize38>
 	</POCKET>
 	<POCKET>
 		<pIndex>60</pIndex>
@@ -1238,8 +1215,7 @@
 		<ItemCapacityPerSize31>2</ItemCapacityPerSize31>
 		<ItemCapacityPerSize32>1</ItemCapacityPerSize32>
 		<ItemCapacityPerSize34>3</ItemCapacityPerSize34>
-		<ItemCapacityPerSize35>2</ItemCapacityPerSize35>
-		<ItemCapacityPerSize38>2</ItemCapacityPerSize38>
+		<ItemCapacityPerSize35>2</ItemCapacityPerSize35>		<ItemCapacityPerSize38>2</ItemCapacityPerSize38>
 	</POCKET>
 	<POCKET>
 		<pIndex>61</pIndex>
@@ -1321,9 +1297,7 @@
 		<ItemCapacityPerSize38>1</ItemCapacityPerSize38>
 		<ItemCapacityPerSize41>1</ItemCapacityPerSize41>
 		<ItemCapacityPerSize42>1</ItemCapacityPerSize42>
-		<ItemCapacityPerSize43>1</ItemCapacityPerSize43>
-		<ItemCapacityPerSize46>1</ItemCapacityPerSize46>
-		<ItemCapacityPerSize52>1</ItemCapacityPerSize52>
+		<ItemCapacityPerSize43>1</ItemCapacityPerSize43>		<ItemCapacityPerSize46>1</ItemCapacityPerSize46>		<ItemCapacityPerSize52>1</ItemCapacityPerSize52>
 		<ItemCapacityPerSize54>1</ItemCapacityPerSize54>
 	</POCKET>
 	<POCKET>

@@ -1,8 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <AMMOTYPELIST>
 	<AMMOTYPE>
 		<uiIndex>0</uiIndex>
-		<name>Round Nose FMJ</name>
+		<name>Round Nose FMJ</name> <!-- Pistol Lead Core FMJ -->
 		<fontColour>136</fontColour>
 		<grayed>4</grayed>
 		<offNormal>1</offNormal>
@@ -35,11 +35,10 @@
 		<temperatureModificator>0.0</temperatureModificator>
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0.0</dirtModificator>
-		<ammoflag>0</ammoflag>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>1</uiIndex>
-		<name>JHP</name>
+		<name>JHP</name> <!-- Jacket Hollow Point -->
 		<fontColour>24</fontColour>
 		<grayed>12</grayed>
 		<offNormal>9</offNormal>
@@ -70,13 +69,11 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>-0.17</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0.1</dirtModificator>
-		<ammoflag>0</ammoflag>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>2</uiIndex>
-		<name>AP/FMJ</name>
+		<name>AP/FMJ</name> <!-- Rifle Lead/Steel Core FMJ, Pistol Steel Core FMJ -->
 		<fontColour>218</fontColour>
 		<grayed>8</grayed>
 		<offNormal>5</offNormal>
@@ -107,13 +104,11 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>0.13</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0.1</dirtModificator>
-		<ammoflag>0</ammoflag>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>3</uiIndex>
-		<name>SAP</name>
+		<name>SAP</name> <!-- Rifle Extra Piercing, Pistol Armor Piercing -->
 		<fontColour>163</fontColour>
 		<grayed>8</grayed>
 		<offNormal>5</offNormal>
@@ -144,9 +139,7 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>0.3</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0.2</dirtModificator>
-		<ammoflag>0</ammoflag>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>4</uiIndex>
@@ -181,9 +174,7 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern>BuckshotSpread</spreadPattern>
 		<temperatureModificator>0.0</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0.0</dirtModificator>
-		<ammoflag>0</ammoflag>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>5</uiIndex>
@@ -218,13 +209,11 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern>BuckshotSpread</spreadPattern>
 		<temperatureModificator>0.03</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0.0</dirtModificator>
-		<ammoflag>0</ammoflag>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>6</uiIndex>
-		<name>FMJ</name>
+		<name>FMJ</name> <!-- Rifle Lead Core FMJ -->
 		<fontColour>218</fontColour>
 		<grayed>8</grayed>
 		<offNormal>5</offNormal>
@@ -255,9 +244,7 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>0.0</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0.0</dirtModificator>
-		<ammoflag>0</ammoflag>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>7</uiIndex>
@@ -292,9 +279,7 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>0.0</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0.0</dirtModificator>
-		<ammoflag>0</ammoflag>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>8</uiIndex>
@@ -329,9 +314,7 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>0.0</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0.0</dirtModificator>
-		<ammoflag>0</ammoflag>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>9</uiIndex>
@@ -366,9 +349,7 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>0.15</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0.0</dirtModificator>
-		<ammoflag>0</ammoflag>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>10</uiIndex>
@@ -403,13 +384,11 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>0.3</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0.4</dirtModificator>
-		<ammoflag>0</ammoflag>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>11</uiIndex>
-		<name>FMJ!</name>
+		<name>FMJ!</name> <!-- M43 ball -->
 		<fontColour>218</fontColour>
 		<grayed>8</grayed>
 		<offNormal>5</offNormal>
@@ -440,9 +419,7 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>0.04</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0.1</dirtModificator>
-		<ammoflag>0</ammoflag>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>12</uiIndex>
@@ -477,13 +454,11 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>0.5</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0.8</dirtModificator>
-		<ammoflag>0</ammoflag>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>13</uiIndex>
-		<name>JSP</name>
+		<name>JSP</name> <!-- Pistol JSP -->
 		<fontColour>185</fontColour>
 		<grayed>12</grayed>
 		<offNormal>21</offNormal>
@@ -514,13 +489,11 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>-0.04</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0.1</dirtModificator>
-		<ammoflag>0</ammoflag>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>14</uiIndex>
-		<name>AP/T</name>
+		<name>AP/T</name> <!-- Armor Piercing Tracer -->
 		<fontColour>163</fontColour>
 		<grayed>8</grayed>
 		<offNormal>5</offNormal>
@@ -551,13 +524,11 @@
 		<tracerEffect>1</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>0.35</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0.1</dirtModificator>
-		<ammoflag>0</ammoflag>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>15</uiIndex>
-		<name>Tracer</name>
+		<name>Tracer</name> <!-- Tracer Pistol FMJ -->
 		<fontColour>144</fontColour>
 		<grayed>4</grayed>
 		<offNormal>17</offNormal>
@@ -588,13 +559,11 @@
 		<tracerEffect>1</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>0.05</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0.4</dirtModificator>
-		<ammoflag>0</ammoflag>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>16</uiIndex>
-		<name>Tracer!</name>
+		<name>Tracer!</name> <!-- Tracer Rifle FMJ -->
 		<fontColour>144</fontColour>
 		<grayed>4</grayed>
 		<offNormal>17</offNormal>
@@ -625,13 +594,11 @@
 		<tracerEffect>1</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>0.07</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0.5</dirtModificator>
-		<ammoflag>0</ammoflag>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>17</uiIndex>
-		<name>Match</name>
+		<name>Match</name> <!-- Match Pistol FMJ -->
 		<fontColour>133</fontColour>
 		<grayed>4</grayed>
 		<offNormal>13</offNormal>
@@ -662,13 +629,11 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>0.09</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0.15</dirtModificator>
-		<ammoflag>0</ammoflag>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>18</uiIndex>
-		<name>Match!</name>
+		<name>Match!</name> <!-- Match Rifle FMJ -->
 		<fontColour>133</fontColour>
 		<grayed>4</grayed>
 		<offNormal>13</offNormal>
@@ -699,13 +664,11 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>0.18</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0.15</dirtModificator>
-		<ammoflag>0</ammoflag>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>19</uiIndex>
-		<name>OTM Match</name>
+		<name>OTM Match</name> <!-- Mk262, M118L Sniper Ammo -->
 		<fontColour>133</fontColour>
 		<grayed>4</grayed>
 		<offNormal>13</offNormal>
@@ -736,13 +699,11 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>0.2</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0.2</dirtModificator>
-		<ammoflag>0</ammoflag>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>20</uiIndex>
-		<name>SB</name>
+		<name>SB</name> <!-- Subsonic Pistol Ball -->
 		<fontColour>135</fontColour>
 		<grayed>4</grayed>
 		<offNormal>1</offNormal>
@@ -773,13 +734,11 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>-0.1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0.1</dirtModificator>
-		<ammoflag>0</ammoflag>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>21</uiIndex>
-		<name>SB!</name>
+		<name>SB!</name> <!-- Subsonic Rifle Ball -->
 		<fontColour>161</fontColour>
 		<grayed>8</grayed>
 		<offNormal>5</offNormal>
@@ -810,13 +769,11 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>0.04</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>-0.15</dirtModificator>
-		<ammoflag>0</ammoflag>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>22</uiIndex>
-		<name>HAP</name>
+		<name>HAP</name> <!-- Heavy Armor Piercing -->
 		<fontColour>161</fontColour>
 		<grayed>8</grayed>
 		<offNormal>5</offNormal>
@@ -847,13 +804,11 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>0.01</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0.3</dirtModificator>
-		<ammoflag>0</ammoflag>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>23</uiIndex>
-		<name>HSB</name>
+		<name>HSB</name> <!-- Heavy Subsonic Ball -->
 		<fontColour>161</fontColour>
 		<grayed>8</grayed>
 		<offNormal>5</offNormal>
@@ -884,13 +839,11 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>0.05</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0.1</dirtModificator>
-		<ammoflag>0</ammoflag>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>24</uiIndex>
-		<name>HP</name>
+		<name>HP</name> <!-- Rifle Hollow Point -->
 		<fontColour>71</fontColour>
 		<grayed>12</grayed>
 		<offNormal>9</offNormal>
@@ -921,13 +874,11 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>0.13</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0.1</dirtModificator>
-		<ammoflag>0</ammoflag>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>25</uiIndex>
-		<name>AMR</name>
+		<name>AMR</name> <!-- Anti-Materiel Round -->
 		<fontColour>160</fontColour>
 		<grayed>8</grayed>
 		<offNormal>25</offNormal>
@@ -958,13 +909,11 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>0.16</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0.3</dirtModificator>
-		<ammoflag>0</ammoflag>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>26</uiIndex>
-		<name>AP</name>
+		<name>AP</name> <!-- Rifle Armor Piercing -->
 		<fontColour>175</fontColour>
 		<grayed>8</grayed>
 		<offNormal>5</offNormal>
@@ -995,9 +944,7 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>0.35</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0.4</dirtModificator>
-		<ammoflag>0</ammoflag>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>27</uiIndex>
@@ -1032,13 +979,11 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern>DuplexSpread</spreadPattern>
 		<temperatureModificator>0.2</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0.3</dirtModificator>
-		<ammoflag>0</ammoflag>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>28</uiIndex>
-		<name>KTW</name>
+		<name>KTW</name> <!-- Pistol KTW, High Velocity Ball -->
 		<fontColour>186</fontColour>
 		<grayed>8</grayed>
 		<offNormal>21</offNormal>
@@ -1069,9 +1014,7 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>0.1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0.0</dirtModificator>
-		<ammoflag>0</ammoflag>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>29</uiIndex>
@@ -1106,9 +1049,7 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern>FlechetteSpread</spreadPattern>
 		<temperatureModificator>0.03</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>-0.25</dirtModificator>
-		<ammoflag>0</ammoflag>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>30</uiIndex>
@@ -1143,9 +1084,7 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>0.08</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0.0</dirtModificator>
-		<ammoflag>0</ammoflag>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>31</uiIndex>
@@ -1180,9 +1119,7 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>0.06</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0.35</dirtModificator>
-		<ammoflag>0</ammoflag>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>32</uiIndex>
@@ -1217,9 +1154,7 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern>BuckshotSpread</spreadPattern>
 		<temperatureModificator>0.0</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0.0</dirtModificator>
-		<ammoflag>0</ammoflag>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>33</uiIndex>
@@ -1254,13 +1189,11 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>0.3</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0.5</dirtModificator>
-		<ammoflag>0</ammoflag>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>34</uiIndex>
-		<name>Pulse</name>
+		<name>Pulse</name> <!-- Pulse Ammo -->
 		<fontColour>163</fontColour>
 		<grayed>8</grayed>
 		<offNormal>5</offNormal>
@@ -1291,9 +1224,7 @@
 		<tracerEffect>1</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>0.0</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0.0</dirtModificator>
-		<ammoflag>0</ammoflag>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>35</uiIndex>
@@ -1328,9 +1259,7 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>0.1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0.4</dirtModificator>
-		<ammoflag>0</ammoflag>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>36</uiIndex>
@@ -1365,9 +1294,7 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>-0.3</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>-0.5</dirtModificator>
-		<ammoflag>0</ammoflag>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>37</uiIndex>
@@ -1402,13 +1329,11 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>-0.1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
-		<dirtModificator>0</dirtModificator>
 		<ammoflag>1</ammoflag>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>38</uiIndex>
-		<name>AP/T Z</name>
+		<name>AP/T Z</name> <!-- Armor Piercing Tracer Zwilling -->
 		<fontColour>163</fontColour>
 		<grayed>8</grayed>
 		<offNormal>5</offNormal>
@@ -1439,13 +1364,11 @@
 		<tracerEffect>1</tracerEffect>
 		<spreadPattern>DuplexSpread</spreadPattern>
 		<temperatureModificator>0.13</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0.35</dirtModificator>
-		<ammoflag>0</ammoflag>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>39</uiIndex>
-		<name>SOST</name>
+		<name>SOST</name> <!-- Mk318 -->
 		<fontColour>160</fontColour>
 		<grayed>8</grayed>
 		<offNormal>25</offNormal>
@@ -1476,13 +1399,11 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>0.15</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0.2</dirtModificator>
-		<ammoflag>0</ammoflag>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>40</uiIndex>
-		<name>JSP!</name>
+		<name>JSP!</name> <!-- Rifle JSP -->
 		<fontColour>71</fontColour>
 		<grayed>12</grayed>
 		<offNormal>9</offNormal>
@@ -1513,9 +1434,7 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>0.0</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0.2</dirtModificator>
-		<ammoflag>0</ammoflag>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>41</uiIndex>
@@ -1550,8 +1469,6 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>0</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
-		<dirtModificator>0</dirtModificator>
 		<ammoflag>2</ammoflag>
 	</AMMOTYPE>
 </AMMOTYPELIST>

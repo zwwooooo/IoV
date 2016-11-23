@@ -9,7 +9,6 @@
 		<usDescPanelPosY>0</usDescPanelPosY>
 		<fMultiShot>0</fMultiShot>
 		<fBigSlot>0</fBigSlot>
-		<ubPocketMapping>0</ubPocketMapping>
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
 		<uiSlotIndex>1</uiSlotIndex>
@@ -20,7 +19,6 @@
 		<usDescPanelPosY>64</usDescPanelPosY>
 		<fMultiShot>0</fMultiShot>
 		<fBigSlot>0</fBigSlot>
-		<ubPocketMapping>0</ubPocketMapping>
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
 		<uiSlotIndex>2</uiSlotIndex>
@@ -31,7 +29,6 @@
 		<usDescPanelPosY>92</usDescPanelPosY>
 		<fMultiShot>0</fMultiShot>
 		<fBigSlot>0</fBigSlot>
-		<ubPocketMapping>0</ubPocketMapping>
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
 		<uiSlotIndex>3</uiSlotIndex>
@@ -42,7 +39,6 @@
 		<usDescPanelPosY>64</usDescPanelPosY>
 		<fMultiShot>0</fMultiShot>
 		<fBigSlot>0</fBigSlot>
-		<ubPocketMapping>0</ubPocketMapping>
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
 		<uiSlotIndex>4</uiSlotIndex>
@@ -53,7 +49,6 @@
 		<usDescPanelPosY>92</usDescPanelPosY>
 		<fMultiShot>0</fMultiShot>
 		<fBigSlot>0</fBigSlot>
-		<ubPocketMapping>0</ubPocketMapping>
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
 		<uiSlotIndex>5</uiSlotIndex>
@@ -64,7 +59,6 @@
 		<usDescPanelPosY>78</usDescPanelPosY>
 		<fMultiShot>0</fMultiShot>
 		<fBigSlot>0</fBigSlot>
-		<ubPocketMapping>0</ubPocketMapping>
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
 		<uiSlotIndex>6</uiSlotIndex>
@@ -75,7 +69,6 @@
 		<usDescPanelPosY>38</usDescPanelPosY>
 		<fMultiShot>0</fMultiShot>
 		<fBigSlot>0</fBigSlot>
-		<ubPocketMapping>0</ubPocketMapping>
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
 		<uiSlotIndex>7</uiSlotIndex>
@@ -86,7 +79,6 @@
 		<usDescPanelPosY>38</usDescPanelPosY>
 		<fMultiShot>0</fMultiShot>
 		<fBigSlot>0</fBigSlot>
-		<ubPocketMapping>0</ubPocketMapping>
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
 		<uiSlotIndex>8</uiSlotIndex>
@@ -97,7 +89,6 @@
 		<usDescPanelPosY>38</usDescPanelPosY>
 		<fMultiShot>0</fMultiShot>
 		<fBigSlot>0</fBigSlot>
-		<ubPocketMapping>0</ubPocketMapping>
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
 		<uiSlotIndex>9</uiSlotIndex>
@@ -108,7 +99,6 @@
 		<usDescPanelPosY>78</usDescPanelPosY>
 		<fMultiShot>0</fMultiShot>
 		<fBigSlot>0</fBigSlot>
-		<ubPocketMapping>0</ubPocketMapping>
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
 		<uiSlotIndex>10</uiSlotIndex>
@@ -119,7 +109,6 @@
 		<usDescPanelPosY>120</usDescPanelPosY>
 		<fMultiShot>0</fMultiShot>
 		<fBigSlot>0</fBigSlot>
-		<ubPocketMapping>0</ubPocketMapping>
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
 		<uiSlotIndex>11</uiSlotIndex>
@@ -130,7 +119,6 @@
 		<usDescPanelPosY>106</usDescPanelPosY>
 		<fMultiShot>0</fMultiShot>
 		<fBigSlot>0</fBigSlot>
-		<ubPocketMapping>0</ubPocketMapping>
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
 		<uiSlotIndex>12</uiSlotIndex>
@@ -141,7 +129,6 @@
 		<usDescPanelPosY>148</usDescPanelPosY>
 		<fMultiShot>0</fMultiShot>
 		<fBigSlot>0</fBigSlot>
-		<ubPocketMapping>0</ubPocketMapping>
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
 		<uiSlotIndex>13</uiSlotIndex>
@@ -152,7 +139,6 @@
 		<usDescPanelPosY>120</usDescPanelPosY>
 		<fMultiShot>0</fMultiShot>
 		<fBigSlot>0</fBigSlot>
-		<ubPocketMapping>0</ubPocketMapping>
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
 		<uiSlotIndex>14</uiSlotIndex>
@@ -163,7 +149,6 @@
 		<usDescPanelPosY>120</usDescPanelPosY>
 		<fMultiShot>0</fMultiShot>
 		<fBigSlot>0</fBigSlot>
-		<ubPocketMapping>0</ubPocketMapping>
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
 		<uiSlotIndex>15</uiSlotIndex>
@@ -174,7 +159,6 @@
 		<usDescPanelPosY>148</usDescPanelPosY>
 		<fMultiShot>0</fMultiShot>
 		<fBigSlot>1</fBigSlot>
-		<ubPocketMapping>0</ubPocketMapping>
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
 		<uiSlotIndex>16</uiSlotIndex>
@@ -185,7 +169,6 @@
 		<usDescPanelPosY>120</usDescPanelPosY>
 		<fMultiShot>0</fMultiShot>
 		<fBigSlot>0</fBigSlot>
-		<ubPocketMapping>0</ubPocketMapping>
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
 		<uiSlotIndex>17</uiSlotIndex>
@@ -196,7 +179,6 @@
 		<usDescPanelPosY>148</usDescPanelPosY>
 		<fMultiShot>0</fMultiShot>
 		<fBigSlot>0</fBigSlot>
-		<ubPocketMapping>0</ubPocketMapping>
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
 		<uiSlotIndex>18</uiSlotIndex>
@@ -207,7 +189,6 @@
 		<usDescPanelPosY>8</usDescPanelPosY>
 		<fMultiShot>1</fMultiShot>
 		<fBigSlot>0</fBigSlot>
-		<ubPocketMapping>0</ubPocketMapping>
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
 		<uiSlotIndex>19</uiSlotIndex>
@@ -218,7 +199,6 @@
 		<usDescPanelPosY>36</usDescPanelPosY>
 		<fMultiShot>1</fMultiShot>
 		<fBigSlot>0</fBigSlot>
-		<ubPocketMapping>0</ubPocketMapping>
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
 		<uiSlotIndex>20</uiSlotIndex>
@@ -229,7 +209,6 @@
 		<usDescPanelPosY>64</usDescPanelPosY>
 		<fMultiShot>1</fMultiShot>
 		<fBigSlot>0</fBigSlot>
-		<ubPocketMapping>0</ubPocketMapping>
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
 		<uiSlotIndex>21</uiSlotIndex>
@@ -240,7 +219,6 @@
 		<usDescPanelPosY>92</usDescPanelPosY>
 		<fMultiShot>1</fMultiShot>
 		<fBigSlot>0</fBigSlot>
-		<ubPocketMapping>0</ubPocketMapping>
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
 		<uiSlotIndex>22</uiSlotIndex>
@@ -251,7 +229,6 @@
 		<usDescPanelPosY>120</usDescPanelPosY>
 		<fMultiShot>1</fMultiShot>
 		<fBigSlot>0</fBigSlot>
-		<ubPocketMapping>0</ubPocketMapping>
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
 		<uiSlotIndex>23</uiSlotIndex>
@@ -262,7 +239,6 @@
 		<usDescPanelPosY>148</usDescPanelPosY>
 		<fMultiShot>1</fMultiShot>
 		<fBigSlot>0</fBigSlot>
-		<ubPocketMapping>0</ubPocketMapping>
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
 		<uiSlotIndex>24</uiSlotIndex>
@@ -273,7 +249,6 @@
 		<usDescPanelPosY>8</usDescPanelPosY>
 		<fMultiShot>1</fMultiShot>
 		<fBigSlot>0</fBigSlot>
-		<ubPocketMapping>0</ubPocketMapping>
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
 		<uiSlotIndex>25</uiSlotIndex>
@@ -284,7 +259,6 @@
 		<usDescPanelPosY>36</usDescPanelPosY>
 		<fMultiShot>1</fMultiShot>
 		<fBigSlot>0</fBigSlot>
-		<ubPocketMapping>0</ubPocketMapping>
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
 		<uiSlotIndex>26</uiSlotIndex>
@@ -295,7 +269,6 @@
 		<usDescPanelPosY>64</usDescPanelPosY>
 		<fMultiShot>1</fMultiShot>
 		<fBigSlot>0</fBigSlot>
-		<ubPocketMapping>0</ubPocketMapping>
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
 		<uiSlotIndex>27</uiSlotIndex>
@@ -306,7 +279,6 @@
 		<usDescPanelPosY>92</usDescPanelPosY>
 		<fMultiShot>1</fMultiShot>
 		<fBigSlot>0</fBigSlot>
-		<ubPocketMapping>0</ubPocketMapping>
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
 		<uiSlotIndex>28</uiSlotIndex>
@@ -317,7 +289,6 @@
 		<usDescPanelPosY>120</usDescPanelPosY>
 		<fMultiShot>1</fMultiShot>
 		<fBigSlot>0</fBigSlot>
-		<ubPocketMapping>0</ubPocketMapping>
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
 		<uiSlotIndex>29</uiSlotIndex>
@@ -328,7 +299,6 @@
 		<usDescPanelPosY>148</usDescPanelPosY>
 		<fMultiShot>1</fMultiShot>
 		<fBigSlot>0</fBigSlot>
-		<ubPocketMapping>0</ubPocketMapping>
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
 		<uiSlotIndex>30</uiSlotIndex>
@@ -339,7 +309,6 @@
 		<usDescPanelPosY>120</usDescPanelPosY>
 		<fMultiShot>1</fMultiShot>
 		<fBigSlot>1</fBigSlot>
-		<ubPocketMapping>0</ubPocketMapping>
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
 		<uiSlotIndex>31</uiSlotIndex>
@@ -350,7 +319,6 @@
 		<usDescPanelPosY>148</usDescPanelPosY>
 		<fMultiShot>1</fMultiShot>
 		<fBigSlot>1</fBigSlot>
-		<ubPocketMapping>0</ubPocketMapping>
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
 		<uiSlotIndex>32</uiSlotIndex>
@@ -361,7 +329,6 @@
 		<usDescPanelPosY>120</usDescPanelPosY>
 		<fMultiShot>1</fMultiShot>
 		<fBigSlot>1</fBigSlot>
-		<ubPocketMapping>0</ubPocketMapping>
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
 		<uiSlotIndex>33</uiSlotIndex>
@@ -372,7 +339,6 @@
 		<usDescPanelPosY>148</usDescPanelPosY>
 		<fMultiShot>1</fMultiShot>
 		<fBigSlot>1</fBigSlot>
-		<ubPocketMapping>0</ubPocketMapping>
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
 		<uiSlotIndex>34</uiSlotIndex>
@@ -383,6 +349,5 @@
 		<usDescPanelPosY>50</usDescPanelPosY>
 		<fMultiShot>0</fMultiShot>
 		<fBigSlot>0</fBigSlot>
-		<ubPocketMapping>0</ubPocketMapping>
 	</ATTACHMENTSLOT>
 </ATTACHMENTSLOTLIST>
