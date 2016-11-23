@@ -178,7 +178,6 @@
 	<INVENTORY>
 		<uiIndex>35</uiIndex>
 		<sItemIndex>950</sItemIndex>
-		<ubOptimalNumber>0</ubOptimalNumber>
 	</INVENTORY>
 	<INVENTORY>
 		<uiIndex>36</uiIndex>
@@ -193,7 +192,6 @@
 	<INVENTORY>
 		<uiIndex>38</uiIndex>
 		<sItemIndex>1000</sItemIndex>
-		<ubOptimalNumber>0</ubOptimalNumber>
 	</INVENTORY>
 	<INVENTORY>
 		<uiIndex>39</uiIndex>
@@ -238,22 +236,18 @@
 	<INVENTORY>
 		<uiIndex>47</uiIndex>
 		<sItemIndex>1807</sItemIndex>
-		<ubOptimalNumber>0</ubOptimalNumber>
 	</INVENTORY>
 	<INVENTORY>
 		<uiIndex>48</uiIndex>
 		<sItemIndex>1808</sItemIndex>
-		<ubOptimalNumber>0</ubOptimalNumber>
 	</INVENTORY>
 	<INVENTORY>
 		<uiIndex>49</uiIndex>
 		<sItemIndex>1809</sItemIndex>
-		<ubOptimalNumber>0</ubOptimalNumber>
 	</INVENTORY>
 	<INVENTORY>
 		<uiIndex>50</uiIndex>
 		<sItemIndex>1810</sItemIndex>
-		<ubOptimalNumber>0</ubOptimalNumber>
 	</INVENTORY>
 	<INVENTORY>
 		<uiIndex>51</uiIndex>
@@ -268,12 +262,10 @@
 	<INVENTORY>
 		<uiIndex>53</uiIndex>
 		<sItemIndex>1813</sItemIndex>
-		<ubOptimalNumber>0</ubOptimalNumber>
 	</INVENTORY>
 	<INVENTORY>
 		<uiIndex>54</uiIndex>
 		<sItemIndex>1814</sItemIndex>
-		<ubOptimalNumber>0</ubOptimalNumber>
 	</INVENTORY>
 	<INVENTORY>
 		<uiIndex>55</uiIndex>
@@ -298,7 +290,6 @@
 	<INVENTORY>
 		<uiIndex>59</uiIndex>
 		<sItemIndex>1819</sItemIndex>
-		<ubOptimalNumber>0</ubOptimalNumber>
 	</INVENTORY>
 	<INVENTORY>
 		<uiIndex>60</uiIndex>
@@ -318,12 +309,10 @@
 	<INVENTORY>
 		<uiIndex>63</uiIndex>
 		<sItemIndex>1823</sItemIndex>
-		<ubOptimalNumber>0</ubOptimalNumber>
 	</INVENTORY>
 	<INVENTORY>
 		<uiIndex>64</uiIndex>
 		<sItemIndex>1831</sItemIndex>
-		<ubOptimalNumber>0</ubOptimalNumber>
 	</INVENTORY>
 	<INVENTORY>
 		<uiIndex>65</uiIndex>
@@ -378,7 +367,6 @@
 	<INVENTORY>
 		<uiIndex>75</uiIndex>
 		<sItemIndex>1842</sItemIndex>
-		<ubOptimalNumber>0</ubOptimalNumber>
 	</INVENTORY>
 	<INVENTORY>
 		<uiIndex>76</uiIndex>
@@ -388,7 +376,6 @@
 	<INVENTORY>
 		<uiIndex>77</uiIndex>
 		<sItemIndex>1844</sItemIndex>
-		<ubOptimalNumber>0</ubOptimalNumber>
 	</INVENTORY>
 	<INVENTORY>
 		<uiIndex>78</uiIndex>

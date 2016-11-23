@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ITEMLIST>
 	<ITEM>
 		<uiIndex>0</uiIndex>
@@ -12337,20 +12337,20 @@
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 	</ITEM>
 	<ITEM>
-		<uiIndex>1543</uiIndex>
-		<szItemName>工兵铲</szItemName>
-		<szLongItemName>工兵铲</szLongItemName>
-		<szItemDesc>完美的自掘坟墓工具、拍人头（然后挖自己的坟墓），或者建设临时防御工事。</szItemDesc>
-		<szBRName>Shovel</szBRName>
-		<szBRDesc>Not for sale through BR.</szBRDesc>
-	</ITEM>
-	<ITEM>
 		<uiIndex>1542</uiIndex>
 		<szItemName>铁丝网</szItemName>
 		<szLongItemName>铁丝网</szLongItemName>
 		<szItemDesc>拉网时小心别划伤手脚或割烂蛋蛋了。</szItemDesc>
 		<szBRName>铁丝网</szBRName>
 		<szBRDesc>巩固你的防线，但小心割烂你的迷彩服。</szBRDesc>
+	</ITEM>
+	<ITEM>
+		<uiIndex>1543</uiIndex>
+		<szItemName>工兵铲</szItemName>
+		<szLongItemName>工兵铲</szLongItemName>
+		<szItemDesc>完美的自掘坟墓工具、拍人头（然后挖自己的坟墓），或者建设临时防御工事。</szItemDesc>
+		<szBRName>Shovel</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1544</uiIndex>
@@ -12496,7 +12496,7 @@
 		<szBRName>French toast</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 	</ITEM>
-  <ITEM>
+	<ITEM>
 		<uiIndex>1562</uiIndex>
 		<szItemName>薄饼</szItemName>
 		<szLongItemName>薄饼</szLongItemName>
@@ -12535,7 +12535,7 @@
 		<szItemDesc>是中国人都来吃啊</szItemDesc>
 		<szBRName>Bloodcat meat</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
-	</ITEM>	
+	</ITEM>
 	<ITEM>
 		<uiIndex>1567</uiIndex>
 		<szItemName>面包</szItemName>
@@ -12672,9 +12672,8 @@
 		<szBRName>Bag of rice</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 	</ITEM>
-	<!-- 编辑地图时用的定向雷-->
 	<ITEM>
-		<uiIndex>1584</uiIndex><!-->NORTHEAST DIRECTION (map editor only)-->
+		<uiIndex>1584</uiIndex>
 		<szItemName>M18 Claymore</szItemName>
 		<szLongItemName>M18 Claymore</szLongItemName>
 		<szItemDesc>The M18 Claymore directional mine can be triggered by a remote detonator, by a tripwire or simply be used as a mine. 700 steel balls will be fired in a 60 degree arc, maximum height of 2 m. Tip: Front towards enemy.</szItemDesc>
@@ -12682,7 +12681,7 @@
 		<szBRDesc>Lay ambushes with networks of tripwire and these babies. Can also be activated remotely. We accept no responsibility for casulties due to setting it up in the wrong way.</szBRDesc>
 	</ITEM>
 	<ITEM>
-		<uiIndex>1585</uiIndex><!-->EAST DIRECTION (map editor only)-->
+		<uiIndex>1585</uiIndex>
 		<szItemName>M18 Claymore</szItemName>
 		<szLongItemName>M18 Claymore</szLongItemName>
 		<szItemDesc>The M18 Claymore directional mine can be triggered by a remote detonator, by a tripwire or simply be used as a mine. 700 steel balls will be fired in a 60 degree arc, maximum height of 2 m. Tip: Front towards enemy.</szItemDesc>
@@ -12690,7 +12689,7 @@
 		<szBRDesc>Lay ambushes with networks of tripwire and these babies. Can also be activated remotely. We accept no responsibility for casulties due to setting it up in the wrong way.</szBRDesc>
 	</ITEM>
 	<ITEM>
-		<uiIndex>1586</uiIndex><!-->SOUTHEAST DIRECTION (map editor only)-->
+		<uiIndex>1586</uiIndex>
 		<szItemName>M18 Claymore</szItemName>
 		<szLongItemName>M18 Claymore</szLongItemName>
 		<szItemDesc>The M18 Claymore directional mine can be triggered by a remote detonator, by a tripwire or simply be used as a mine. 700 steel balls will be fired in a 60 degree arc, maximum height of 2 m. Tip: Front towards enemy.</szItemDesc>
@@ -12698,7 +12697,7 @@
 		<szBRDesc>Lay ambushes with networks of tripwire and these babies. Can also be activated remotely. We accept no responsibility for casulties due to setting it up in the wrong way.</szBRDesc>
 	</ITEM>
 	<ITEM>
-		<uiIndex>1587</uiIndex><!-->SOUTH DIRECTION (map editor only)-->
+		<uiIndex>1587</uiIndex>
 		<szItemName>M18 Claymore</szItemName>
 		<szLongItemName>M18 Claymore</szLongItemName>
 		<szItemDesc>The M18 Claymore directional mine can be triggered by a remote detonator, by a tripwire or simply be used as a mine. 700 steel balls will be fired in a 60 degree arc, maximum height of 2 m. Tip: Front towards enemy.</szItemDesc>
@@ -12706,7 +12705,7 @@
 		<szBRDesc>Lay ambushes with networks of tripwire and these babies. Can also be activated remotely. We accept no responsibility for casulties due to setting it up in the wrong way.</szBRDesc>
 	</ITEM>
 	<ITEM>
-		<uiIndex>1588</uiIndex><!-->SOUTHWEST DIRECTION (map editor only)-->
+		<uiIndex>1588</uiIndex>
 		<szItemName>M18 Claymore</szItemName>
 		<szLongItemName>M18 Claymore</szLongItemName>
 		<szItemDesc>The M18 Claymore directional mine can be triggered by a remote detonator, by a tripwire or simply be used as a mine. 700 steel balls will be fired in a 60 degree arc, maximum height of 2 m. Tip: Front towards enemy.</szItemDesc>
@@ -12714,7 +12713,7 @@
 		<szBRDesc>Lay ambushes with networks of tripwire and these babies. Can also be activated remotely. We accept no responsibility for casulties due to setting it up in the wrong way.</szBRDesc>
 	</ITEM>
 	<ITEM>
-		<uiIndex>1589</uiIndex><!-->WEST DIRECTION (map editor only)-->
+		<uiIndex>1589</uiIndex>
 		<szItemName>M18 Claymore</szItemName>
 		<szLongItemName>M18 Claymore</szLongItemName>
 		<szItemDesc>The M18 Claymore directional mine can be triggered by a remote detonator, by a tripwire or simply be used as a mine. 700 steel balls will be fired in a 60 degree arc, maximum height of 2 m. Tip: Front towards enemy.</szItemDesc>
@@ -12722,14 +12721,13 @@
 		<szBRDesc>Lay ambushes with networks of tripwire and these babies. Can also be activated remotely. We accept no responsibility for casulties due to setting it up in the wrong way.</szBRDesc>
 	</ITEM>
 	<ITEM>
-		<uiIndex>1590</uiIndex><!-->NORTHWEST DIRECTION (map editor only)-->
+		<uiIndex>1590</uiIndex>
 		<szItemName>M18 Claymore</szItemName>
 		<szLongItemName>M18 Claymore</szLongItemName>
 		<szItemDesc>The M18 Claymore directional mine can be triggered by a remote detonator, by a tripwire or simply be used as a mine. 700 steel balls will be fired in a 60 degree arc, maximum height of 2 m. Tip: Front towards enemy.</szItemDesc>
 		<szBRName>M18 Claymore</szBRName>
 		<szBRDesc>Lay ambushes with networks of tripwire and these babies. Can also be activated remotely. We accept no responsibility for casulties due to setting it up in the wrong way.</szBRDesc>
 	</ITEM>
-	<!-- 编辑地图时用的绊索-->
 	<ITEM>
 		<uiIndex>1591</uiIndex>
 		<szItemName>Tripwire</szItemName>
@@ -13271,7 +13269,6 @@
 		<szItemName>Nada</szItemName>
 		<szLongItemName>40mm高爆榴弹，3发</szLongItemName>
 		<szItemDesc>。</szItemDesc>
-		<szBRName/>
 		<szBRDesc>。</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -13279,7 +13276,6 @@
 		<szItemName>Nada</szItemName>
 		<szLongItemName>QLB-06 35mm高爆榴弹弹鼓</szLongItemName>
 		<szItemDesc>。</szItemDesc>
-		<szBRName/>
 		<szBRDesc>。</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -13287,7 +13283,6 @@
 		<szItemName>Nada</szItemName>
 		<szLongItemName>DIY前握把</szLongItemName>
 		<szItemDesc>。</szItemDesc>
-		<szBRName/>
 		<szBRDesc>。</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -15190,9 +15185,7 @@
 		<uiIndex>1898</uiIndex>
 		<szItemName>HK416 Barrel</szItemName>
 		<szLongItemName>HK416 16英寸枪管</szLongItemName>
-		<szItemDesc/>
 		<szBRName>HK416 16" Kit</szBRName>
-		<szBRDesc/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1899</uiIndex>
@@ -15703,7 +15696,6 @@
 		<szItemName>QLB-06</szItemName>
 		<szLongItemName>QLB-06自动榴弹发射器</szLongItemName>
 		<szItemDesc>。</szItemDesc>
-		<szBRName/>
 		<szBRDesc>。</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -18399,7 +18391,6 @@
 		<szItemName>BS-1 GL</szItemName>
 		<szLongItemName>BS-1无声榴弹发射器</szLongItemName>
 		<szItemDesc>。</szItemDesc>
-		<szBRName/>
 		<szBRDesc>。</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -24017,7 +24008,6 @@
 		<szItemDesc>把这个东西装在你的炸弹上，你可以安全地解除炸弹——如果你还记得设定的频率的话。</szItemDesc>
 		<szBRName>遥控引信拆解</szBRName>
 		<szBRDesc>把这个东西装在你的炸弹上，你可以安全地解除炸弹——如果你还记得设定的频率的话。</szBRDesc>
-		<usItemClass>268435456</usItemClass>
 	</ITEM>
 	<ITEM>
 		<uiIndex>3002</uiIndex>
@@ -24026,7 +24016,6 @@
 		<szItemDesc>要做成庞大的炸弹陷阱，这套东西必不可少。</szItemDesc>
 		<szBRName>遥控引信组合</szBRName>
 		<szBRDesc>要做成庞大的炸弹陷阱，这套东西必不可少。</szBRDesc>
-		<usItemClass>268435456</usItemClass>
 	</ITEM>
 	<ITEM>
 		<uiIndex>3003</uiIndex>
