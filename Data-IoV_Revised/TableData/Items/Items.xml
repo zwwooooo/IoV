@@ -38629,18 +38629,14 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1206</uiIndex>
-		<szItemName>P2000 SK</szItemName>
-		<szLongItemName>HK P2000 SK</szLongItemName>
-		<szItemDesc>.</szItemDesc>
-		<szBRName>HK P2000 SK</szBRName>
-		<szBRDesc>.</szBRDesc>
+		<szItemName>Nada</szItemName>
+		<szLongItemName>Using this slot will cause the game to crash.</szLongItemName>
+		<szItemDesc>Using this slot will cause the game to crash.</szItemDesc>
+		<szBRName>Using this slot will cause the game to crash.</szBRName>
+		<szBRDesc>Using this slot will cause the game to crash.</szBRDesc>
 		<usItemClass>1</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubCursor>3</ubCursor>
-		<ubGraphicNum>406</ubGraphicNum>
-		<ubWeight>6</ubWeight>
-		<ubPerPocket>1</ubPerPocket>
-		<usPrice>730</usPrice>
+		<ItemSize>72</ItemSize>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -39094,18 +39090,14 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1219</uiIndex>
-		<szItemName>P99 C</szItemName>
-		<szLongItemName>Walther P99 Compact</szLongItemName>
-		<szItemDesc>.</szItemDesc>
-		<szBRName>Walther P99 Compact</szBRName>
-		<szBRDesc>.</szBRDesc>
+		<szItemName>Nada</szItemName>
+		<szLongItemName>Using this slot will cause the game to crash.</szLongItemName>
+		<szItemDesc>Using this slot will cause the game to crash.</szItemDesc>
+		<szBRName>Using this slot will cause the game to crash.</szBRName>
+		<szBRDesc>Using this slot will cause the game to crash.</szBRDesc>
 		<usItemClass>1</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubCursor>3</ubCursor>
-		<ubGraphicNum>419</ubGraphicNum>
-		<ubWeight>6</ubWeight>
-		<ubPerPocket>1</ubPerPocket>
-		<usPrice>830</usPrice>
+		<ItemSize>72</ItemSize>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -42387,18 +42379,14 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1307</uiIndex>
-		<szItemName>O.S.I. Pulse Rifle</szItemName>
-		<szLongItemName>Overwatch Standard Issue Pulse Rifle</szLongItemName>
-		<szItemDesc>.</szItemDesc>
-		<szBRName>Overwatch Standard Issue Pulse Rifle</szBRName>
-		<szBRDesc>.</szBRDesc>
+		<szItemName>Nada</szItemName>
+		<szLongItemName>Using this slot will cause the game to crash.</szLongItemName>
+		<szItemDesc>Using this slot will cause the game to crash.</szItemDesc>
+		<szBRName>Using this slot will cause the game to crash.</szBRName>
+		<szBRDesc>Using this slot will cause the game to crash.</szBRDesc>
 		<usItemClass>1</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubCursor>3</ubCursor>
-		<ubGraphicNum>507</ubGraphicNum>
-		<ubWeight>30</ubWeight>
-		<ItemSize>18</ItemSize>
-		<usPrice>65000</usPrice>
+		<ItemSize>72</ItemSize>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -42839,21 +42827,16 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1319</uiIndex>
-		<szItemName>HK416/AG416</szItemName>
-		<szLongItemName>HK416/AG416 Combo</szLongItemName>
-		<szItemDesc>.</szItemDesc>
-		<szBRName>HK416/AG416 Combo</szBRName>
-		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<szItemName>Nada</szItemName>
+		<szLongItemName>Using this slot will cause the game to crash.</szLongItemName>
+		<szItemDesc>Using this slot will cause the game to crash.</szItemDesc>
+		<szBRName>Using this slot will cause the game to crash.</szBRName>
+		<szBRDesc>Using this slot will cause the game to crash.</szBRDesc>
 		<usItemClass>1</usItemClass>
-		<ubCursor>3</ubCursor>
-		<ubGraphicNum>540</ubGraphicNum>
-		<ubWeight>34</ubWeight>
-		<ItemSize>17</ItemSize>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ItemSize>72</ItemSize>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS>
-			<PercentMaxCounterForce>-20</PercentMaxCounterForce>
-			<PercentCounterForceAccuracy>-20</PercentCounterForceAccuracy>
-		</STAND_MODIFIERS>
+		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
@@ -43240,18 +43223,14 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1330</uiIndex>
-		<szItemName>Springfield XD C</szItemName>
-		<szLongItemName>Springfield XD Sub-Compact</szLongItemName>
-		<szItemDesc>.</szItemDesc>
-		<szBRName>Springfield XD Sub-Compact</szBRName>
-		<szBRDesc>.</szBRDesc>
+		<szItemName>Nada</szItemName>
+		<szLongItemName>Using this slot will cause the game to crash.</szLongItemName>
+		<szItemDesc>Using this slot will cause the game to crash.</szItemDesc>
+		<szBRName>Using this slot will cause the game to crash.</szBRName>
+		<szBRDesc>Using this slot will cause the game to crash.</szBRDesc>
 		<usItemClass>1</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubCursor>3</ubCursor>
-		<ubGraphicNum>551</ubGraphicNum>
-		<ubWeight>10</ubWeight>
-		<ubPerPocket>1</ubPerPocket>
-		<usPrice>1630</usPrice>
+		<ItemSize>72</ItemSize>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -43542,18 +43521,14 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1339</uiIndex>
-		<szItemName>M77/GP-25</szItemName>
-		<szLongItemName>Zastava M77/GP-25 Combo</szLongItemName>
-		<szItemDesc>.</szItemDesc>
-		<szBRName>Zastava M77/GP-25 Combo</szBRName>
-		<szBRDesc>.</szBRDesc>
+		<szItemName>Nada</szItemName>
+		<szLongItemName>Using this slot will cause the game to crash.</szLongItemName>
+		<szItemDesc>Using this slot will cause the game to crash.</szItemDesc>
+		<szBRName>Using this slot will cause the game to crash.</szBRName>
+		<szBRDesc>Using this slot will cause the game to crash.</szBRDesc>
 		<usItemClass>1</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubCursor>3</ubCursor>
-		<ubGraphicNum>560</ubGraphicNum>
-		<ubWeight>43</ubWeight>
-		<ItemSize>18</ItemSize>
-		<usPrice>4600</usPrice>
+		<ItemSize>72</ItemSize>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -45048,23 +45023,16 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1379</uiIndex>
-		<szItemName>HK416 D16.5RS</szItemName>
-		<szLongItemName>HK416 D16.5RS Carbine</szLongItemName>
-		<szItemDesc>.</szItemDesc>
-		<szBRName>HK416 D16.5RS Carbine</szBRName>
-		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<szItemName>Nada</szItemName>
+		<szLongItemName>Using this slot will cause the game to crash.</szLongItemName>
+		<szItemDesc>Using this slot will cause the game to crash.</szItemDesc>
+		<szBRName>Using this slot will cause the game to crash.</szBRName>
+		<szBRDesc>Using this slot will cause the game to crash.</szBRDesc>
 		<usItemClass>1</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubCursor>3</ubCursor>
-		<ubGraphicNum>606</ubGraphicNum>
-		<ubWeight>36</ubWeight>
-		<ItemSize>17</ItemSize>
-		<usPrice>3670</usPrice>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS>
-			<PercentMaxCounterForce>-20</PercentMaxCounterForce>
-			<PercentCounterForceAccuracy>-20</PercentCounterForceAccuracy>
-		</STAND_MODIFIERS>
+		<ItemSize>72</ItemSize>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
@@ -62248,46 +62216,18 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1962</uiIndex>
-		<szItemName>QLB-06</szItemName>
-		<szLongItemName>QLB-06 AGL</szLongItemName>
-		<szItemDesc>.</szItemDesc>
-		<szBRName>QLB-06 AGL</szBRName>
-		<szBRDesc>.</szBRDesc>
+		<szItemName>Nada</szItemName>
+		<szLongItemName>Using this slot will cause the game to crash.</szLongItemName>
+		<szItemDesc>Using this slot will cause the game to crash.</szItemDesc>
+		<szBRName>Using this slot will cause the game to crash.</szBRName>
+		<szBRDesc>Using this slot will cause the game to crash.</szBRDesc>
 		<usItemClass>1</usItemClass>
-		<ubGraphicNum>783</ubGraphicNum>
-		<ubWeight>91</ubWeight>
-		<ItemSize>19</ItemSize>
-		<usPrice>6750</usPrice>
-		<bReliability>2</bReliability>
-		<bRepairEase>-1</bRepairEase>
-		<Damageable>1</Damageable>
-		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
-		<Metal>1</Metal>
-		<Sinks>1</Sinks>
-		<ShowStatus>1</ShowStatus>
-		<TwoHanded>1</TwoHanded>
-		<BigGunList>1</BigGunList>
-		<BR_ROF>300</BR_ROF>
-		<Bipod>10</Bipod>
-		<AimBonus>5</AimBonus>
-		<MinRangeForAimBonus>35</MinRangeForAimBonus>
-		<GrenadeLauncher>1</GrenadeLauncher>
-		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>25</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>25</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>30</PercentTunnelVision>
-		<ScopeMagFactor>2.7</ScopeMagFactor>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ItemSize>72</ItemSize>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<DamageChance>10</DamageChance>
-		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS>
-			<PercentHandling>-75</PercentHandling>
-			<PercentMaxCounterForce>100</PercentMaxCounterForce>
-			<PercentCounterForceAccuracy>30</PercentCounterForceAccuracy>
-		</PRONE_MODIFIERS>
+		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1963</uiIndex>
@@ -63197,23 +63137,16 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1987</uiIndex>
-		<szItemName>Mk12 SPC</szItemName>
-		<szLongItemName>Mk12 6.8SPC</szLongItemName>
-		<szItemDesc>.</szItemDesc>
-		<szBRName>Mk12 6.8SPC</szBRName>
-		<szBRDesc>.</szBRDesc>
+		<szItemName>Nada</szItemName>
+		<szLongItemName>Using this slot will cause the game to crash.</szLongItemName>
+		<szItemDesc>Using this slot will cause the game to crash.</szItemDesc>
+		<szBRName>Using this slot will cause the game to crash.</szBRName>
+		<szBRDesc>Using this slot will cause the game to crash.</szBRDesc>
 		<usItemClass>1</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubCursor>3</ubCursor>
-		<ubGraphicNum>739</ubGraphicNum>
-		<ubWeight>42</ubWeight>
-		<ItemSize>17</ItemSize>
-		<usPrice>4370</usPrice>
+		<ItemSize>72</ItemSize>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS>
-			<PercentMaxCounterForce>-20</PercentMaxCounterForce>
-			<PercentCounterForceAccuracy>-20</PercentCounterForceAccuracy>
-		</STAND_MODIFIERS>
+		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
@@ -68347,26 +68280,14 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2161</uiIndex>
-		<szItemName>K31 Pistol</szItemName>
-		<szLongItemName>Custom saw-off K31</szLongItemName>
-		<szItemDesc>.</szItemDesc>
-		<szBRName>Custom saw-off K31</szBRName>
-		<szBRDesc>.</szBRDesc>
+		<szItemName>Nada</szItemName>
+		<szLongItemName>Using this slot will cause the game to crash.</szLongItemName>
+		<szItemDesc>Using this slot will cause the game to crash.</szItemDesc>
+		<szBRName>Using this slot will cause the game to crash.</szBRName>
+		<szBRDesc>Using this slot will cause the game to crash.</szBRDesc>
 		<usItemClass>1</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubCursor>3</ubCursor>
-		<ubGraphicNum>806</ubGraphicNum>
-		<ubWeight>28</ubWeight>
-		<ItemSize>7</ItemSize>
-		<usPrice>1950</usPrice>
-		<bRepairEase>-1</bRepairEase>
-		<Damageable>1</Damageable>
-		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
-		<Metal>1</Metal>
-		<Sinks>1</Sinks>
-		<ShowStatus>1</ShowStatus>
-		<BR_ROF>19</BR_ROF>
+		<ItemSize>72</ItemSize>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -72835,44 +72756,18 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2299</uiIndex>
-		<szItemName>BS-1 GL</szItemName>
-		<szLongItemName>BS-1 Silenced Grenade Launcher</szLongItemName>
-		<szItemDesc>.</szItemDesc>
-		<szBRName>BS-1 Silenced Grenade Launcher</szBRName>
-		<szBRDesc>.</szBRDesc>
+		<szItemName>Nada</szItemName>
+		<szLongItemName>Using this slot will cause the game to crash.</szLongItemName>
+		<szItemDesc>Using this slot will cause the game to crash.</szItemDesc>
+		<szBRName>Using this slot will cause the game to crash.</szBRName>
+		<szBRDesc>Using this slot will cause the game to crash.</szBRDesc>
 		<usItemClass>1</usItemClass>
-		<ubGraphicNum>528</ubGraphicNum>
-		<ubWeight>19</ubWeight>
-		<ubPerPocket>1</ubPerPocket>
-		<ItemSize>13</ItemSize>
-		<usPrice>1300</usPrice>
-		<bRepairEase>-1</bRepairEase>
-		<Damageable>1</Damageable>
-		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
-		<Metal>1</Metal>
-		<Sinks>1</Sinks>
-		<ShowStatus>1</ShowStatus>
-		<Attachment>1</Attachment>
-		<Inseparable>1</Inseparable>
-		<BR_ROF>9</BR_ROF>
-		<BurstToHitBonus>4</BurstToHitBonus>
-		<AutoFireToHitBonus>4</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>-10</PercentReadyTimeAPReduction>
-		<GrenadeLauncher>1</GrenadeLauncher>
-		<PercentRecoilModifier>-10</PercentRecoilModifier>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ItemSize>72</ItemSize>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<DamageChance>10</DamageChance>
-		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
-		<STAND_MODIFIERS>
-			<PercentMaxCounterForce>50</PercentMaxCounterForce>
-			<PercentCounterForceAccuracy>20</PercentCounterForceAccuracy>
-		</STAND_MODIFIERS>
+		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS>
-			<PercentMaxCounterForce>0</PercentMaxCounterForce>
-			<PercentCounterForceAccuracy>0</PercentCounterForceAccuracy>
-		</PRONE_MODIFIERS>
+		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2300</uiIndex>
@@ -92694,29 +92589,15 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2944</uiIndex>
-		<szItemName>AW50F</szItemName>
-		<szLongItemName>AI AW50F (Carry)</szLongItemName>
-		<szItemDesc>.</szItemDesc>
-		<szBRName>AI AW50F (Carry)</szBRName>
-		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<szItemName>Nada</szItemName>
+		<szLongItemName>Using this slot will cause the game to crash.</szLongItemName>
+		<szItemDesc>Using this slot will cause the game to crash.</szItemDesc>
+		<szBRName>Using this slot will cause the game to crash.</szBRName>
+		<szBRDesc>Using this slot will cause the game to crash.</szBRDesc>
 		<usItemClass>1</usItemClass>
-		<ubGraphicType>3</ubGraphicType>
-		<ubGraphicNum>234</ubGraphicNum>
-		<ubWeight>150</ubWeight>
-		<ItemSize>18</ItemSize>
-		<usPrice>15700</usPrice>
-		<bReliability>1</bReliability>
-		<bRepairEase>-1</bRepairEase>
-		<Damageable>1</Damageable>
-		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
-		<Metal>1</Metal>
-		<Sinks>1</Sinks>
-		<ShowStatus>1</ShowStatus>
-		<BR_ROF>29</BR_ROF>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ItemSize>72</ItemSize>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<DamageChance>10</DamageChance>
-		<DirtIncreaseFactor>60.0</DirtIncreaseFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -92758,28 +92639,15 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2946</uiIndex>
-		<szItemName>MSR 308</szItemName>
-		<szLongItemName>Remington MSR .308 (Carry)</szLongItemName>
-		<szItemDesc>.</szItemDesc>
-		<szBRName>Rem MSR .308 (Carry)</szBRName>
-		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<szItemName>Nada</szItemName>
+		<szLongItemName>Using this slot will cause the game to crash.</szLongItemName>
+		<szItemDesc>Using this slot will cause the game to crash.</szItemDesc>
+		<szBRName>Using this slot will cause the game to crash.</szBRName>
+		<szBRDesc>Using this slot will cause the game to crash.</szBRDesc>
 		<usItemClass>1</usItemClass>
-		<ubGraphicType>3</ubGraphicType>
-		<ubGraphicNum>236</ubGraphicNum>
-		<ubWeight>56</ubWeight>
-		<ItemSize>17</ItemSize>
-		<usPrice>7580</usPrice>
-		<bReliability>4</bReliability>
-		<Damageable>1</Damageable>
-		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
-		<Metal>1</Metal>
-		<Sinks>1</Sinks>
-		<ShowStatus>1</ShowStatus>
-		<BR_ROF>31</BR_ROF>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ItemSize>72</ItemSize>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<DamageChance>10</DamageChance>
-		<DirtIncreaseFactor>45.0</DirtIncreaseFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
