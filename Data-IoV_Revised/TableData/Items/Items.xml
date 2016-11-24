@@ -43127,7 +43127,7 @@
 		<szLongItemName>Type 64 Silenced SMG</szLongItemName>
 		<szItemDesc>This silenced sub-machinegun was used in the China-Vietnam conflict.</szItemDesc>
 		<szBRName>Type 64 Silenced SMG</szBRName>
-		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<szBRDesc>This silenced sub-machinegun was used in the China-Vietnam conflict.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>1327</ubClassIndex>
@@ -44248,7 +44248,7 @@
 		<szLongItemName>Rheinmetall MG3</szLongItemName>
 		<szItemDesc>MG3 is the 7.62mm NATO version of the famous MG42 GPMG with a handful of improvements.</szItemDesc>
 		<szBRName>Rheinmetall MG3</szBRName>
-		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<szBRDesc>MG3 is the 7.62mm NATO version of the famous MG42 GPMG with a handful of improvements.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>1358</ubClassIndex>
@@ -57630,7 +57630,8 @@
 		<szBRName>AN/PVS-24 CNVD</szBRName>
 		<szBRDesc>The AN/PVS-24 NVD is a Mini Night Sight (MNS) for NATO small arms, compatible with other weapon sights such as the CCO or other Red-dot sight.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<nasAttachmentClass>16</nasAttachmentClass>
+		<AttachmentClass>16</AttachmentClass>
+		<nasAttachmentClass>8</nasAttachmentClass>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>765</ubGraphicNum>
 		<ubWeight>7</ubWeight>

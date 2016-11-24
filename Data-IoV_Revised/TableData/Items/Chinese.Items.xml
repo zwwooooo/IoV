@@ -10870,7 +10870,7 @@
 		<szLongItemName>莱茵金属MG3</szLongItemName>
 		<szItemDesc>MG3就是二战时期德国MG42机枪的现代改进型，发射7.62mm北约标准弹而不是原来的7.92mm毛瑟弹。</szItemDesc>
 		<szBRName>Rheinmetall MG3</szBRName>
-		<szBRDesc>不在BR出售</szBRDesc>
+		<szBRDesc>MG3就是二战时期德国MG42机枪的现代改进型，发射7.62mm北约标准弹而不是原来的7.92mm毛瑟弹。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1359</uiIndex>
