@@ -1,11 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ATTACHMENTLIST>
-  <ATTACHMENT>
+	<ATTACHMENT>
 		<attachmentIndex>37</attachmentIndex>
 		<itemIndex>12</itemIndex>
 		<APCost>20</APCost>
+		<NASOnly>0</NASOnly>
 	</ATTACHMENT>
-  <ATTACHMENT>
+	<ATTACHMENT>
 		<attachmentIndex>37</attachmentIndex>
 		<itemIndex>17</itemIndex>
 		<APCost>20</APCost>
@@ -175,7 +176,7 @@
 		<itemIndex>646</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
-  <ATTACHMENT>
+	<ATTACHMENT>
 		<attachmentIndex>37</attachmentIndex>
 		<itemIndex>647</itemIndex>
 		<APCost>20</APCost>
@@ -349,7 +350,6 @@
 		<attachmentIndex>37</attachmentIndex>
 		<itemIndex>282</itemIndex>
 		<APCost>8</APCost>
-		<NASOnly>0</NASOnly>
 	</ATTACHMENT>
 	<ATTACHMENT>
 		<attachmentIndex>37</attachmentIndex>
@@ -10970,7 +10970,7 @@
 		<attachmentIndex>322</attachmentIndex>
 		<itemIndex>3852</itemIndex>
 		<APCost>20</APCost>
-	</ATTACHMENT>	
+	</ATTACHMENT>
 	<ATTACHMENT>
 		<attachmentIndex>592</attachmentIndex>
 		<itemIndex>674</itemIndex>
@@ -11301,7 +11301,7 @@
 		<itemIndex>12</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
-  <ATTACHMENT>
+	<ATTACHMENT>
 		<attachmentIndex>594</attachmentIndex>
 		<itemIndex>17</itemIndex>
 		<APCost>20</APCost>
@@ -11471,7 +11471,7 @@
 		<itemIndex>646</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
-  <ATTACHMENT>
+	<ATTACHMENT>
 		<attachmentIndex>594</attachmentIndex>
 		<itemIndex>647</itemIndex>
 		<APCost>20</APCost>

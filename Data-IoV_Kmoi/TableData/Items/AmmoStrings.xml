@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <AMMOLIST>
 	<AMMO>
 		<uiIndex>0</uiIndex>
@@ -485,7 +485,7 @@
 		<AmmoCaliber>.338 Norma Magnum</AmmoCaliber>
 		<BRCaliber>.338 NM</BRCaliber>
 	</AMMO>
-		<AMMO>
+	<AMMO>
 		<uiIndex>97</uiIndex>
 		<AmmoCaliber>15.2mm Steyr</AmmoCaliber>
 		<BRCaliber>15.2mm Steyr</BRCaliber>
@@ -495,7 +495,7 @@
 		<AmmoCaliber>9x90mm MEN</AmmoCaliber>
 		<BRCaliber>9x90mm</BRCaliber>
 	</AMMO>
-		<AMMO>
+	<AMMO>
 		<uiIndex>99</uiIndex>
 		<AmmoCaliber>12.7x54mm Subsonic</AmmoCaliber>
 		<BRCaliber>12.7x54mm</BRCaliber>

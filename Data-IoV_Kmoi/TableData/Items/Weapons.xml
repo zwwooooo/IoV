@@ -45,7 +45,7 @@
 		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
 		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
 		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
-		<HeavyGun>0</HeavyGun>
+		<HeavyWeapon>0</HeavyWeapon>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1</uiIndex>
@@ -1460,6 +1460,9 @@
 		<usReloadDelay>200</usReloadDelay>
 		<ubAttackVolume>2</ubAttackVolume>
 		<MaxDistForMessyDeath>50</MaxDistForMessyDeath>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>38</uiIndex>
@@ -1473,6 +1476,9 @@
 		<ubAttackVolume>2</ubAttackVolume>
 		<sSound>152</sSound>
 		<MaxDistForMessyDeath>50</MaxDistForMessyDeath>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>39</uiIndex>
@@ -1481,6 +1487,9 @@
 		<APsToReload>20</APsToReload>
 		<SwapClips>1</SwapClips>
 		<MaxDistForMessyDeath>50</MaxDistForMessyDeath>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>40</uiIndex>
@@ -1540,6 +1549,9 @@
 		<APsToReload>20</APsToReload>
 		<SwapClips>1</SwapClips>
 		<MaxDistForMessyDeath>50</MaxDistForMessyDeath>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>43</uiIndex>
@@ -1555,6 +1567,9 @@
 		<APsToReload>20</APsToReload>
 		<SwapClips>1</SwapClips>
 		<MaxDistForMessyDeath>50</MaxDistForMessyDeath>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>44</uiIndex>
@@ -1570,6 +1585,9 @@
 		<APsToReload>20</APsToReload>
 		<SwapClips>1</SwapClips>
 		<MaxDistForMessyDeath>50</MaxDistForMessyDeath>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>45</uiIndex>
@@ -1585,6 +1603,9 @@
 		<APsToReload>20</APsToReload>
 		<SwapClips>1</SwapClips>
 		<MaxDistForMessyDeath>50</MaxDistForMessyDeath>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>46</uiIndex>
@@ -1600,6 +1621,9 @@
 		<APsToReload>20</APsToReload>
 		<SwapClips>1</SwapClips>
 		<MaxDistForMessyDeath>50</MaxDistForMessyDeath>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>47</uiIndex>
@@ -1615,6 +1639,9 @@
 		<APsToReload>20</APsToReload>
 		<SwapClips>1</SwapClips>
 		<MaxDistForMessyDeath>50</MaxDistForMessyDeath>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>48</uiIndex>
@@ -1639,6 +1666,9 @@
 		<SwapClips>1</SwapClips>
 		<MaxDistForMessyDeath>50</MaxDistForMessyDeath>
 		<nAccuracy>60</nAccuracy>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>49</uiIndex>
@@ -1649,6 +1679,9 @@
 		<ubDeadliness>1</ubDeadliness>
 		<usReloadDelay>200</usReloadDelay>
 		<MaxDistForMessyDeath>50</MaxDistForMessyDeath>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>50</uiIndex>
@@ -1716,6 +1749,9 @@
 		<APsToReload>20</APsToReload>
 		<SwapClips>1</SwapClips>
 		<MaxDistForMessyDeath>50</MaxDistForMessyDeath>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>53</uiIndex>
@@ -1731,6 +1767,9 @@
 		<APsToReload>20</APsToReload>
 		<SwapClips>1</SwapClips>
 		<MaxDistForMessyDeath>50</MaxDistForMessyDeath>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>54</uiIndex>
@@ -1742,6 +1781,9 @@
 		<usReloadDelay>200</usReloadDelay>
 		<ubAttackVolume>2</ubAttackVolume>
 		<MaxDistForMessyDeath>50</MaxDistForMessyDeath>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>55</uiIndex>
@@ -1835,6 +1877,9 @@
 		<SwapClips>1</SwapClips>
 		<MaxDistForMessyDeath>50</MaxDistForMessyDeath>
 		<nAccuracy>40</nAccuracy>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>58</uiIndex>
@@ -1859,6 +1904,9 @@
 		<SwapClips>1</SwapClips>
 		<MaxDistForMessyDeath>50</MaxDistForMessyDeath>
 		<nAccuracy>40</nAccuracy>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>59</uiIndex>
@@ -1883,6 +1931,9 @@
 		<SwapClips>1</SwapClips>
 		<MaxDistForMessyDeath>50</MaxDistForMessyDeath>
 		<nAccuracy>40</nAccuracy>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>60</uiIndex>
@@ -1941,6 +1992,7 @@
 		<Handling>1</Handling>
 		<usOverheatingJamThreshold>60000</usOverheatingJamThreshold>
 		<usOverheatingDamageThreshold>60000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>62</uiIndex>
@@ -1954,6 +2006,9 @@
 		<ubAttackVolume>2</ubAttackVolume>
 		<sSound>152</sSound>
 		<MaxDistForMessyDeath>50</MaxDistForMessyDeath>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>63</uiIndex>
@@ -1986,6 +2041,7 @@
 		<Handling>3</Handling>
 		<usOverheatingJamThreshold>60000</usOverheatingJamThreshold>
 		<usOverheatingDamageThreshold>60000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>64</uiIndex>
@@ -1996,6 +2052,9 @@
 		<ubDeadliness>4</ubDeadliness>
 		<usReloadDelay>200</usReloadDelay>
 		<MaxDistForMessyDeath>50</MaxDistForMessyDeath>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>65</uiIndex>
@@ -2200,6 +2259,9 @@
 		<usReloadDelay>200</usReloadDelay>
 		<ubAttackVolume>2</ubAttackVolume>
 		<MaxDistForMessyDeath>50</MaxDistForMessyDeath>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>298</uiIndex>
@@ -2211,6 +2273,9 @@
 		<usReloadDelay>200</usReloadDelay>
 		<ubAttackVolume>2</ubAttackVolume>
 		<MaxDistForMessyDeath>50</MaxDistForMessyDeath>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>299</uiIndex>
@@ -2222,6 +2287,9 @@
 		<usReloadDelay>200</usReloadDelay>
 		<ubAttackVolume>2</ubAttackVolume>
 		<MaxDistForMessyDeath>50</MaxDistForMessyDeath>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>300</uiIndex>
@@ -2233,6 +2301,9 @@
 		<usReloadDelay>200</usReloadDelay>
 		<ubAttackVolume>2</ubAttackVolume>
 		<MaxDistForMessyDeath>50</MaxDistForMessyDeath>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>301</uiIndex>
@@ -2244,6 +2315,9 @@
 		<usReloadDelay>200</usReloadDelay>
 		<ubAttackVolume>2</ubAttackVolume>
 		<MaxDistForMessyDeath>50</MaxDistForMessyDeath>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>330</uiIndex>
@@ -3092,6 +3166,9 @@
 		<usReloadDelay>200</usReloadDelay>
 		<ubAttackVolume>2</ubAttackVolume>
 		<MaxDistForMessyDeath>50</MaxDistForMessyDeath>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>594</uiIndex>
@@ -3103,6 +3180,9 @@
 		<usReloadDelay>200</usReloadDelay>
 		<ubAttackVolume>2</ubAttackVolume>
 		<MaxDistForMessyDeath>50</MaxDistForMessyDeath>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>595</uiIndex>
@@ -3114,6 +3194,9 @@
 		<usReloadDelay>200</usReloadDelay>
 		<ubAttackVolume>2</ubAttackVolume>
 		<MaxDistForMessyDeath>50</MaxDistForMessyDeath>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>596</uiIndex>
@@ -3127,6 +3210,9 @@
 		<ubAttackVolume>2</ubAttackVolume>
 		<sSound>152</sSound>
 		<MaxDistForMessyDeath>50</MaxDistForMessyDeath>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>597</uiIndex>
@@ -3140,6 +3226,9 @@
 		<ubAttackVolume>2</ubAttackVolume>
 		<sSound>152</sSound>
 		<MaxDistForMessyDeath>50</MaxDistForMessyDeath>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>598</uiIndex>
@@ -3151,6 +3240,9 @@
 		<usReloadDelay>200</usReloadDelay>
 		<ubAttackVolume>2</ubAttackVolume>
 		<MaxDistForMessyDeath>50</MaxDistForMessyDeath>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>599</uiIndex>
@@ -3162,6 +3254,9 @@
 		<usReloadDelay>200</usReloadDelay>
 		<ubAttackVolume>2</ubAttackVolume>
 		<MaxDistForMessyDeath>50</MaxDistForMessyDeath>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>600</uiIndex>
@@ -3173,6 +3268,9 @@
 		<usReloadDelay>200</usReloadDelay>
 		<ubAttackVolume>2</ubAttackVolume>
 		<MaxDistForMessyDeath>50</MaxDistForMessyDeath>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>601</uiIndex>
@@ -11831,6 +11929,9 @@
 		<ubDeadliness>4</ubDeadliness>
 		<usReloadDelay>200</usReloadDelay>
 		<MaxDistForMessyDeath>50</MaxDistForMessyDeath>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1053</uiIndex>
@@ -11844,6 +11945,9 @@
 		<ubAttackVolume>2</ubAttackVolume>
 		<sSound>152</sSound>
 		<MaxDistForMessyDeath>50</MaxDistForMessyDeath>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1054</uiIndex>
@@ -11855,6 +11959,9 @@
 		<usReloadDelay>200</usReloadDelay>
 		<ubAttackVolume>2</ubAttackVolume>
 		<MaxDistForMessyDeath>50</MaxDistForMessyDeath>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1055</uiIndex>
@@ -11866,6 +11973,9 @@
 		<usReloadDelay>200</usReloadDelay>
 		<ubAttackVolume>2</ubAttackVolume>
 		<MaxDistForMessyDeath>50</MaxDistForMessyDeath>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1064</uiIndex>
@@ -12886,6 +12996,9 @@
 		<ubDeadliness>4</ubDeadliness>
 		<usReloadDelay>200</usReloadDelay>
 		<MaxDistForMessyDeath>50</MaxDistForMessyDeath>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1332</uiIndex>
@@ -13048,6 +13161,9 @@
 		<usReloadDelay>200</usReloadDelay>
 		<ubAttackVolume>2</ubAttackVolume>
 		<MaxDistForMessyDeath>50</MaxDistForMessyDeath>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1361</uiIndex>
@@ -13060,6 +13176,9 @@
 		<ubAttackVolume>5</ubAttackVolume>
 		<sSound>87</sSound>
 		<MaxDistForMessyDeath>50</MaxDistForMessyDeath>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1522</uiIndex>
@@ -13104,42 +13223,63 @@
 		<ubDeadliness>1</ubDeadliness>
 		<usReloadDelay>200</usReloadDelay>
 		<MaxDistForMessyDeath>50</MaxDistForMessyDeath>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1581</uiIndex>
 		<szWeaponName>Rifle Grenade Device</szWeaponName>
-		<ubWeaponClass>3</ubWeaponClass>
-		<ubReadyTime>16</ubReadyTime>
-		<ubShotsPer4Turns>5.83</ubShotsPer4Turns>
-		<ubBulletSpeed>30</ubBulletSpeed>
-		<ubDeadliness>60</ubDeadliness>
-		<ubMagSize>1</ubMagSize>
-		<usRange>300</usRange>
+		<ubWeaponClass>2</ubWeaponClass>
+		<ubWeaponType>3</ubWeaponType>
+		<ubCalibre>20</ubCalibre>
+		<ubReadyTime>2</ubReadyTime>
+		<ubShotsPer4Turns>16.78</ubShotsPer4Turns>
+		<ubBurstPenalty>7</ubBurstPenalty>
+		<ubBulletSpeed>22</ubBulletSpeed>
+		<ubImpact>25</ubImpact>
+		<ubDeadliness>16</ubDeadliness>
+		<bAccuracy>4</bAccuracy>
+		<ubMagSize>30</ubMagSize>
+		<usRange>170</usRange>
 		<usReloadDelay>200</usReloadDelay>
-		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>20</ubAttackVolume>
-		<ubHitVolume>10</ubHitVolume>
-		<sSound>403</sSound>
+		<BurstAniDelay>40</BurstAniDelay>
+		<ubAttackVolume>60</ubAttackVolume>
+		<ubHitVolume>3</ubHitVolume>
+		<sSound>362</sSound>
+		<sBurstSound>51</sBurstSound>
 		<sSilencedBurstSound>111</sSilencedBurstSound>
+		<sReloadSound>101</sReloadSound>
+		<sLocknLoadSound>107</sLocknLoadSound>
 		<SilencedSound>157</SilencedSound>
-		<APsToReload>32</APsToReload>
+		<bBurstAP>12</bBurstAP>
+		<bAutofireShotsPerFiveAP>3</bAutofireShotsPerFiveAP>
+		<APsToReload>20</APsToReload>
 		<SwapClips>1</SwapClips>
 		<MaxDistForMessyDeath>50</MaxDistForMessyDeath>
+		<AutoPenalty>8</AutoPenalty>
 		<ManualReloadSound>476</ManualReloadSound>
-		<Handling>16</Handling>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>500</usOverheatingSingleShotTemperature>
+		<nAccuracy>29</nAccuracy>
+		<bRecoilX>1</bRecoilX>
+		<bRecoilY>1</bRecoilY>
+		<ubAimLevels>3</ubAimLevels>
+		<Handling>2</Handling>
+		<usOverheatingJamThreshold>20000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>4700</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>47</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1626</uiIndex>
 		<szWeaponName>Stun Gun</szWeaponName>
 		<ubWeaponClass>6</ubWeaponClass>
-		<ubShotsPer4Turns>12</ubShotsPer4Turns>
-		<ubImpact>4</ubImpact>
-		<ubDeadliness>0</ubDeadliness>
+		<ubShotsPer4Turns>15</ubShotsPer4Turns>
+		<ubImpact>14</ubImpact>
+		<ubDeadliness>1</ubDeadliness>
 		<usReloadDelay>200</usReloadDelay>
 		<MaxDistForMessyDeath>50</MaxDistForMessyDeath>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1627</uiIndex>
@@ -13162,26 +13302,34 @@
 		<MaxDistForMessyDeath>50</MaxDistForMessyDeath>
 		<ManualReloadSound>476</ManualReloadSound>
 		<usOverheatingJamThreshold>20000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1636</uiIndex>
 		<szWeaponName>Flashlight</szWeaponName>
 		<ubWeaponClass>6</ubWeaponClass>
-		<ubShotsPer4Turns>10</ubShotsPer4Turns>
-		<ubImpact>18</ubImpact>
-		<ubDeadliness>3</ubDeadliness>
+		<ubShotsPer4Turns>15</ubShotsPer4Turns>
+		<ubImpact>14</ubImpact>
+		<ubDeadliness>1</ubDeadliness>
 		<usReloadDelay>200</usReloadDelay>
 		<MaxDistForMessyDeath>50</MaxDistForMessyDeath>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1637</uiIndex>
 		<szWeaponName>Flashlight</szWeaponName>
 		<ubWeaponClass>6</ubWeaponClass>
-		<ubShotsPer4Turns>10</ubShotsPer4Turns>
-		<ubImpact>18</ubImpact>
-		<ubDeadliness>3</ubDeadliness>
+		<ubShotsPer4Turns>15</ubShotsPer4Turns>
+		<ubImpact>14</ubImpact>
+		<ubDeadliness>1</ubDeadliness>
 		<usReloadDelay>200</usReloadDelay>
 		<MaxDistForMessyDeath>50</MaxDistForMessyDeath>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1638</uiIndex>
@@ -13193,6 +13341,9 @@
 		<usReloadDelay>200</usReloadDelay>
 		<ubAttackVolume>2</ubAttackVolume>
 		<MaxDistForMessyDeath>50</MaxDistForMessyDeath>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1639</uiIndex>
@@ -13205,6 +13356,9 @@
 		<ubAttackVolume>20</ubAttackVolume>
 		<sSound>500</sSound>
 		<MaxDistForMessyDeath>50</MaxDistForMessyDeath>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2500</uiIndex>
@@ -13244,7 +13398,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2501</uiIndex>
-		<szWeaponName>S&amp;W M1076</szWeaponName>
+		<szWeaponName>S&amp;W Model 1076</szWeaponName>
 		<ubWeaponClass>1</ubWeaponClass>
 		<ubWeaponType>1</ubWeaponType>
 		<ubCalibre>27</ubCalibre>
@@ -13313,42 +13467,6 @@
 		<usOverheatingJamThreshold>6000</usOverheatingJamThreshold>
 		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
 		<usOverheatingSingleShotTemperature>53</usOverheatingSingleShotTemperature>
-	</WEAPON>
-	<WEAPON>
-		<uiIndex>2503</uiIndex>
-		<szWeaponName>Mk23 MOD</szWeaponName>
-		<ubWeaponClass>1</ubWeaponClass>
-		<ubWeaponType>1</ubWeaponType>
-		<ubCalibre>3</ubCalibre>
-		<ubReadyTime>2</ubReadyTime>
-		<ubShotsPer4Turns>25.5</ubShotsPer4Turns>
-		<ubBulletSpeed>21</ubBulletSpeed>
-		<ubImpact>30</ubImpact>
-		<ubDeadliness>17</ubDeadliness>
-		<bAccuracy>5</bAccuracy>
-		<ubMagSize>12</ubMagSize>
-		<usRange>90</usRange>
-		<usReloadDelay>200</usReloadDelay>
-		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>50</ubAttackVolume>
-		<ubHitVolume>3</ubHitVolume>
-		<sSound>413</sSound>
-		<sBurstSound>2</sBurstSound>
-		<sSilencedBurstSound>62</sSilencedBurstSound>
-		<sReloadSound>100</sReloadSound>
-		<sLocknLoadSound>106</sLocknLoadSound>
-		<SilencedSound>157</SilencedSound>
-		<bBurstAP>20</bBurstAP>
-		<APsToReload>22</APsToReload>
-		<SwapClips>1</SwapClips>
-		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
-		<ManualReloadSound>476</ManualReloadSound>
-		<nAccuracy>20</nAccuracy>
-		<ubAimLevels>2</ubAimLevels>
-		<Handling>2</Handling>
-		<usOverheatingJamThreshold>6000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>57</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2504</uiIndex>
@@ -13424,7 +13542,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2506</uiIndex>
-		<szWeaponName>RPG-7 TAC</szWeaponName>
+		<szWeaponName>RPG-7 Tacticool</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubShotsPer4Turns>5.07</ubShotsPer4Turns>
 		<ubBulletSpeed>30</ubBulletSpeed>
@@ -13485,7 +13603,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2508</uiIndex>
-		<szWeaponName>Mk25 MOD SOCOM</szWeaponName>
+		<szWeaponName>Mk25 Mod SOCOM</szWeaponName>
 		<ubWeaponClass>1</ubWeaponClass>
 		<ubWeaponType>1</ubWeaponType>
 		<ubCalibre>2</ubCalibre>
@@ -13557,7 +13675,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2510</uiIndex>
-		<szWeaponName>Jericho 941</szWeaponName>
+		<szWeaponName>Jericho 941 Baby Eagle</szWeaponName>
 		<ubWeaponClass>1</ubWeaponClass>
 		<ubWeaponType>1</ubWeaponType>
 		<ubCalibre>23</ubCalibre>
@@ -13710,7 +13828,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2514</uiIndex>
-		<szWeaponName>Metal Storm VLE</szWeaponName>
+		<szWeaponName>Metal Storm VLE Handgun</szWeaponName>
 		<ubWeaponClass>1</ubWeaponClass>
 		<ubWeaponType>1</ubWeaponType>
 		<ubCalibre>34</ubCalibre>
@@ -13788,7 +13906,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2516</uiIndex>
-		<szWeaponName>M9 Silencer</szWeaponName>
+		<szWeaponName>M9 Silenced</szWeaponName>
 		<ubWeaponClass>1</ubWeaponClass>
 		<ubWeaponType>1</ubWeaponType>
 		<ubCalibre>2</ubCalibre>
@@ -13822,7 +13940,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2517</uiIndex>
-		<szWeaponName>Mk23 MOD SOCOM</szWeaponName>
+		<szWeaponName>HK Mark 23 MOD SOCOM</szWeaponName>
 		<ubWeaponClass>1</ubWeaponClass>
 		<ubWeaponType>1</ubWeaponType>
 		<ubCalibre>3</ubCalibre>
@@ -13858,7 +13976,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2518</uiIndex>
-		<szWeaponName>Pfiefer-Zeliska .458WM</szWeaponName>
+		<szWeaponName>Pfiefer-Zeliska .458WM Handcannon</szWeaponName>
 		<ubWeaponClass>1</ubWeaponClass>
 		<ubWeaponType>1</ubWeaponType>
 		<ubCalibre>71</ubCalibre>
@@ -13930,7 +14048,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2520</uiIndex>
-		<szWeaponName>H&amp;K HK45</szWeaponName>
+		<szWeaponName>H&amp;K HK45 Tactical</szWeaponName>
 		<ubWeaponClass>1</ubWeaponClass>
 		<ubWeaponType>1</ubWeaponType>
 		<ubCalibre>3</ubCalibre>
@@ -14110,7 +14228,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2525</uiIndex>
-		<szWeaponName>Patriot Pistol</szWeaponName>
+		<szWeaponName>Rocky Mountain Patriot Pistol</szWeaponName>
 		<ubWeaponClass>1</ubWeaponClass>
 		<ubWeaponType>2</ubWeaponType>
 		<ubCalibre>8</ubCalibre>
@@ -14257,7 +14375,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2529</uiIndex>
-		<szWeaponName>AMT Hardballer Long</szWeaponName>
+		<szWeaponName>AMT Hardballer Longslide</szWeaponName>
 		<ubWeaponClass>1</ubWeaponClass>
 		<ubWeaponType>1</ubWeaponType>
 		<ubCalibre>3</ubCalibre>
@@ -14545,7 +14663,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2537</uiIndex>
-		<szWeaponName>PSS</szWeaponName>
+		<szWeaponName>6P28 PSS</szWeaponName>
 		<ubWeaponClass>1</ubWeaponClass>
 		<ubWeaponType>1</ubWeaponType>
 		<ubCalibre>53</ubCalibre>
@@ -14620,7 +14738,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2539</uiIndex>
-		<szWeaponName>CZ-75 Automatic</szWeaponName>
+		<szWeaponName>CZ 75 Automatic</szWeaponName>
 		<ubWeaponClass>1</ubWeaponClass>
 		<ubWeaponType>2</ubWeaponType>
 		<ubCalibre>2</ubCalibre>
@@ -14661,7 +14779,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2540</uiIndex>
-		<szWeaponName>CZ-75 P-01</szWeaponName>
+		<szWeaponName>CZ 75 P-01</szWeaponName>
 		<ubWeaponClass>1</ubWeaponClass>
 		<ubWeaponType>1</ubWeaponType>
 		<ubCalibre>2</ubCalibre>
@@ -14773,7 +14891,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2544</uiIndex>
-		<szWeaponName>S&amp;W M627</szWeaponName>
+		<szWeaponName>S&amp;W Model 627</szWeaponName>
 		<ubWeaponClass>1</ubWeaponClass>
 		<ubWeaponType>1</ubWeaponType>
 		<ubCalibre>4</ubCalibre>
@@ -14885,7 +15003,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2547</uiIndex>
-		<szWeaponName>Beretta Px4 Storm</szWeaponName>
+		<szWeaponName>Beretta PX4 Storm</szWeaponName>
 		<ubWeaponClass>1</ubWeaponClass>
 		<ubWeaponType>1</ubWeaponType>
 		<ubCalibre>23</ubCalibre>
@@ -14956,7 +15074,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2549</uiIndex>
-		<szWeaponName>Beretta 90two</szWeaponName>
+		<szWeaponName>Beretta 90-two</szWeaponName>
 		<ubWeaponClass>1</ubWeaponClass>
 		<ubWeaponType>1</ubWeaponType>
 		<ubCalibre>2</ubCalibre>
@@ -14992,7 +15110,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2550</uiIndex>
-		<szWeaponName>Desert Eagle 10"</szWeaponName>
+		<szWeaponName>Desert Eagle 10-inch</szWeaponName>
 		<ubWeaponClass>1</ubWeaponClass>
 		<ubWeaponType>1</ubWeaponType>
 		<ubCalibre>35</ubCalibre>
@@ -15027,7 +15145,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2551</uiIndex>
-		<szWeaponName>S&amp;W MP40</szWeaponName>
+		<szWeaponName>S&amp;W M&amp;P40</szWeaponName>
 		<ubWeaponClass>1</ubWeaponClass>
 		<ubWeaponType>1</ubWeaponType>
 		<ubCalibre>23</ubCalibre>
@@ -15160,7 +15278,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2555</uiIndex>
-		<szWeaponName>SA .45 Long</szWeaponName>
+		<szWeaponName>Springfield Armory 1911 Long</szWeaponName>
 		<ubWeaponClass>1</ubWeaponClass>
 		<ubWeaponType>1</ubWeaponType>
 		<ubCalibre>3</ubCalibre>
@@ -15441,7 +15559,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2563</uiIndex>
-		<szWeaponName>Mateba Unica</szWeaponName>
+		<szWeaponName>Mateba Unica Autorevolver</szWeaponName>
 		<ubWeaponClass>1</ubWeaponClass>
 		<ubWeaponType>1</ubWeaponType>
 		<ubCalibre>36</ubCalibre>
@@ -15512,7 +15630,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2565</uiIndex>
-		<szWeaponName>Auto-9</szWeaponName>
+		<szWeaponName>AUTO-9</szWeaponName>
 		<ubWeaponClass>1</ubWeaponClass>
 		<ubWeaponType>2</ubWeaponType>
 		<ubCalibre>2</ubCalibre>
@@ -15552,7 +15670,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2566</uiIndex>
-		<szWeaponName>Lebman's M1911</szWeaponName>
+		<szWeaponName>Lebman's M1911 .38</szWeaponName>
 		<ubWeaponClass>1</ubWeaponClass>
 		<ubWeaponType>1</ubWeaponType>
 		<ubCalibre>81</ubCalibre>
@@ -15898,7 +16016,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2575</uiIndex>
-		<szWeaponName>QCW05</szWeaponName>
+		<szWeaponName>QCW05 SMG</szWeaponName>
 		<ubWeaponClass>2</ubWeaponClass>
 		<ubWeaponType>3</ubWeaponType>
 		<ubCalibre>100</ubCalibre>
@@ -15939,7 +16057,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2576</uiIndex>
-		<szWeaponName>CS/LS06</szWeaponName>
+		<szWeaponName>CS/LS06 SMG</szWeaponName>
 		<ubWeaponClass>2</ubWeaponClass>
 		<ubWeaponType>3</ubWeaponType>
 		<ubCalibre>2</ubCalibre>
@@ -15980,7 +16098,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2577</uiIndex>
-		<szWeaponName>Type 79</szWeaponName>
+		<szWeaponName>Type 79 SMG</szWeaponName>
 		<ubWeaponClass>2</ubWeaponClass>
 		<ubWeaponType>3</ubWeaponType>
 		<ubCalibre>20</ubCalibre>
@@ -16021,7 +16139,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2578</uiIndex>
-		<szWeaponName>TAPS79</szWeaponName>
+		<szWeaponName>TAPS79 Gen.6</szWeaponName>
 		<ubWeaponClass>2</ubWeaponClass>
 		<ubWeaponType>3</ubWeaponType>
 		<ubCalibre>20</ubCalibre>
@@ -16187,7 +16305,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2582</uiIndex>
-		<szWeaponName>HK MP5SD-N</szWeaponName>
+		<szWeaponName>HK MP5SD-Navy</szWeaponName>
 		<ubWeaponClass>2</ubWeaponClass>
 		<ubWeaponType>3</ubWeaponType>
 		<ubCalibre>2</ubCalibre>
@@ -16354,7 +16472,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2586</uiIndex>
-		<szWeaponName>Beretta Mx4 Storm</szWeaponName>
+		<szWeaponName>Beretta Mx4 Storm .40S&amp;W</szWeaponName>
 		<ubWeaponClass>2</ubWeaponClass>
 		<ubWeaponType>3</ubWeaponType>
 		<ubCalibre>23</ubCalibre>
@@ -16769,7 +16887,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2596</uiIndex>
-		<szWeaponName>Type 64 SMG</szWeaponName>
+		<szWeaponName>Type 64 Silenced SMG</szWeaponName>
 		<ubWeaponClass>2</ubWeaponClass>
 		<ubWeaponType>3</ubWeaponType>
 		<ubCalibre>20</ubCalibre>
@@ -16851,7 +16969,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2598</uiIndex>
-		<szWeaponName>Tavor X95-9mm</szWeaponName>
+		<szWeaponName>Tavor X95-9mm SMG</szWeaponName>
 		<ubWeaponClass>2</ubWeaponClass>
 		<ubWeaponType>3</ubWeaponType>
 		<ubCalibre>2</ubCalibre>
@@ -16932,7 +17050,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2600</uiIndex>
-		<szWeaponName>MP5K Case</szWeaponName>
+		<szWeaponName>MP5K in suitcase</szWeaponName>
 		<ubWeaponClass>2</ubWeaponClass>
 		<ubWeaponType>2</ubWeaponType>
 		<ubCalibre>2</ubCalibre>
@@ -17055,7 +17173,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2603</uiIndex>
-		<szWeaponName>Shipka</szWeaponName>
+		<szWeaponName>Shipka 9mm SMG</szWeaponName>
 		<ubWeaponClass>2</ubWeaponClass>
 		<ubWeaponType>3</ubWeaponType>
 		<ubCalibre>22</ubCalibre>
@@ -17343,7 +17461,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2610</uiIndex>
-		<szWeaponName>PM-98</szWeaponName>
+		<szWeaponName>Glauberyt PM-98</szWeaponName>
 		<ubWeaponClass>2</ubWeaponClass>
 		<ubWeaponType>2</ubWeaponType>
 		<ubCalibre>2</ubCalibre>
@@ -17917,7 +18035,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2624</uiIndex>
-		<szWeaponName>M41A Real Gun</szWeaponName>
+		<szWeaponName>MAX-41A Real Gun</szWeaponName>
 		<ubWeaponClass>2</ubWeaponClass>
 		<ubWeaponType>3</ubWeaponType>
 		<ubCalibre>2</ubCalibre>
@@ -17958,7 +18076,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2625</uiIndex>
-		<szWeaponName>AR57</szWeaponName>
+		<szWeaponName>AR-57</szWeaponName>
 		<ubWeaponClass>2</ubWeaponClass>
 		<ubWeaponType>3</ubWeaponType>
 		<ubCalibre>12</ubCalibre>
@@ -17998,7 +18116,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2626</uiIndex>
-		<szWeaponName>Brugger &amp; Thomet MP9</szWeaponName>
+		<szWeaponName>Brügger &amp; Thomet MP9</szWeaponName>
 		<ubWeaponClass>2</ubWeaponClass>
 		<ubWeaponType>3</ubWeaponType>
 		<ubCalibre>2</ubCalibre>
@@ -18039,7 +18157,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2627</uiIndex>
-		<szWeaponName>Sterling L34A1 Bitch</szWeaponName>
+		<szWeaponName>L34A1 Bitch</szWeaponName>
 		<ubWeaponClass>2</ubWeaponClass>
 		<ubWeaponType>3</ubWeaponType>
 		<ubCalibre>2</ubCalibre>
@@ -18369,7 +18487,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2635</uiIndex>
-		<szWeaponName>American-180</szWeaponName>
+		<szWeaponName>American-180 Long Version</szWeaponName>
 		<ubWeaponClass>2</ubWeaponClass>
 		<ubWeaponType>3</ubWeaponType>
 		<ubCalibre>74</ubCalibre>
@@ -19065,47 +19183,6 @@
 		<usOverheatingSingleShotTemperature>72</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>2652</uiIndex>
-		<szWeaponName>OTs-39 (&lt;)</szWeaponName>
-		<ubWeaponClass>2</ubWeaponClass>
-		<ubWeaponType>3</ubWeaponType>
-		<ubCalibre>20</ubCalibre>
-		<ubReadyTime>4</ubReadyTime>
-		<ubShotsPer4Turns>22.28</ubShotsPer4Turns>
-		<ubBurstPenalty>9</ubBurstPenalty>
-		<ubBulletSpeed>22</ubBulletSpeed>
-		<ubImpact>25</ubImpact>
-		<ubDeadliness>16</ubDeadliness>
-		<bAccuracy>5</bAccuracy>
-		<ubMagSize>30</ubMagSize>
-		<usRange>120</usRange>
-		<usReloadDelay>200</usReloadDelay>
-		<BurstAniDelay>40</BurstAniDelay>
-		<ubAttackVolume>60</ubAttackVolume>
-		<ubHitVolume>3</ubHitVolume>
-		<sSound>362</sSound>
-		<sBurstSound>51</sBurstSound>
-		<sSilencedBurstSound>111</sSilencedBurstSound>
-		<sReloadSound>101</sReloadSound>
-		<sLocknLoadSound>107</sLocknLoadSound>
-		<SilencedSound>157</SilencedSound>
-		<bBurstAP>12</bBurstAP>
-		<bAutofireShotsPerFiveAP>3</bAutofireShotsPerFiveAP>
-		<APsToReload>27</APsToReload>
-		<SwapClips>1</SwapClips>
-		<MaxDistForMessyDeath>6</MaxDistForMessyDeath>
-		<AutoPenalty>9</AutoPenalty>
-		<ManualReloadSound>476</ManualReloadSound>
-		<nAccuracy>24</nAccuracy>
-		<bRecoilX>3</bRecoilX>
-		<bRecoilY>10</bRecoilY>
-		<ubAimLevels>3</ubAimLevels>
-		<Handling>6</Handling>
-		<usOverheatingJamThreshold>6000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>79</usOverheatingSingleShotTemperature>
-	</WEAPON>
-	<WEAPON>
 		<uiIndex>2653</uiIndex>
 		<szWeaponName>PP-19 Bizon-2 (&lt;)</szWeaponName>
 		<ubWeaponClass>2</ubWeaponClass>
@@ -19270,7 +19347,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2657</uiIndex>
-		<szWeaponName>Type 64 SMG (&lt;)</szWeaponName>
+		<szWeaponName>Type 64 Silenced SMG (&lt;)</szWeaponName>
 		<ubWeaponClass>2</ubWeaponClass>
 		<ubWeaponType>3</ubWeaponType>
 		<ubCalibre>20</ubCalibre>
@@ -19311,7 +19388,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2658</uiIndex>
-		<szWeaponName>Type 79 (&lt;)</szWeaponName>
+		<szWeaponName>Type 79 SMG (&lt;)</szWeaponName>
 		<ubWeaponClass>2</ubWeaponClass>
 		<ubWeaponType>3</ubWeaponType>
 		<ubCalibre>20</ubCalibre>
@@ -19352,7 +19429,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2659</uiIndex>
-		<szWeaponName>TAPS79 (&lt;)</szWeaponName>
+		<szWeaponName>TAPS79 Gen.6 (&lt;)</szWeaponName>
 		<ubWeaponClass>2</ubWeaponClass>
 		<ubWeaponType>3</ubWeaponType>
 		<ubCalibre>20</ubCalibre>
@@ -19393,7 +19470,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2660</uiIndex>
-		<szWeaponName>CS/LS06 (&lt;)</szWeaponName>
+		<szWeaponName>CS/LS06 SMG (&lt;)</szWeaponName>
 		<ubWeaponClass>2</ubWeaponClass>
 		<ubWeaponType>3</ubWeaponType>
 		<ubCalibre>2</ubCalibre>
@@ -19476,7 +19553,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2662</uiIndex>
-		<szWeaponName>Brugger &amp; Thomet MP9 (&lt;)</szWeaponName>
+		<szWeaponName>Brügger &amp; Thomet MP9 (&lt;)</szWeaponName>
 		<ubWeaponClass>2</ubWeaponClass>
 		<ubWeaponType>2</ubWeaponType>
 		<ubCalibre>2</ubCalibre>
@@ -19724,7 +19801,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2668</uiIndex>
-		<szWeaponName>HK MP5SD-N (&gt;)</szWeaponName>
+		<szWeaponName>HK MP5SD-Navy (&gt;)</szWeaponName>
 		<ubWeaponClass>2</ubWeaponClass>
 		<ubWeaponType>3</ubWeaponType>
 		<ubCalibre>2</ubCalibre>
@@ -20016,7 +20093,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2675</uiIndex>
-		<szWeaponName>Shipka (&gt;)</szWeaponName>
+		<szWeaponName>Shipka 9mm SMG (&gt;)</szWeaponName>
 		<ubWeaponClass>2</ubWeaponClass>
 		<ubWeaponType>3</ubWeaponType>
 		<ubCalibre>22</ubCalibre>
@@ -20057,7 +20134,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2676</uiIndex>
-		<szWeaponName>PM-98 (&gt;)</szWeaponName>
+		<szWeaponName>Glauberyt PM-98 (&gt;)</szWeaponName>
 		<ubWeaponClass>2</ubWeaponClass>
 		<ubWeaponType>2</ubWeaponType>
 		<ubCalibre>2</ubCalibre>
@@ -20303,7 +20380,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2682</uiIndex>
-		<szWeaponName>Benelli M3T (&lt;)</szWeaponName>
+		<szWeaponName>Benelli M3T Super 90 (&lt;)</szWeaponName>
 		<ubWeaponClass>5</ubWeaponClass>
 		<ubWeaponType>8</ubWeaponType>
 		<ubCalibre>5</ubCalibre>
@@ -20374,7 +20451,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2684</uiIndex>
-		<szWeaponName>Saiga-12K (&lt;)</szWeaponName>
+		<szWeaponName>Saiga 12K (&lt;)</szWeaponName>
 		<ubWeaponClass>5</ubWeaponClass>
 		<ubWeaponType>8</ubWeaponType>
 		<ubCalibre>5</ubCalibre>
@@ -20519,7 +20596,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2688</uiIndex>
-		<szWeaponName>Saiga-12K</szWeaponName>
+		<szWeaponName>Saiga 12K</szWeaponName>
 		<ubWeaponClass>5</ubWeaponClass>
 		<ubWeaponType>8</ubWeaponType>
 		<ubCalibre>5</ubCalibre>
@@ -20591,7 +20668,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2690</uiIndex>
-		<szWeaponName>Mossberg M500 (&gt;)</szWeaponName>
+		<szWeaponName>Mossberg M500A (&gt;)</szWeaponName>
 		<ubWeaponClass>5</ubWeaponClass>
 		<ubWeaponType>8</ubWeaponType>
 		<ubCalibre>5</ubCalibre>
@@ -20817,7 +20894,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2696</uiIndex>
-		<szWeaponName>FN TPS Tactical</szWeaponName>
+		<szWeaponName>FN TPS Tactical Police Shotgun</szWeaponName>
 		<ubWeaponClass>5</ubWeaponClass>
 		<ubWeaponType>8</ubWeaponType>
 		<ubCalibre>5</ubCalibre>
@@ -20854,7 +20931,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2697</uiIndex>
-		<szWeaponName>Saiga-410K</szWeaponName>
+		<szWeaponName>Saiga-410K Tactical</szWeaponName>
 		<ubWeaponClass>5</ubWeaponClass>
 		<ubWeaponType>8</ubWeaponType>
 		<ubCalibre>91</ubCalibre>
@@ -21111,10 +21188,13 @@
 		<nAccuracy>9</nAccuracy>
 		<ubAimLevels>3</ubAimLevels>
 		<Handling>12</Handling>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2704</uiIndex>
-		<szWeaponName>Remington 7188</szWeaponName>
+		<szWeaponName>Remington Model 7188 Military</szWeaponName>
 		<ubWeaponClass>5</ubWeaponClass>
 		<ubWeaponType>8</ubWeaponType>
 		<ubCalibre>5</ubCalibre>
@@ -21189,7 +21269,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2706</uiIndex>
-		<szWeaponName>Mossberg M500</szWeaponName>
+		<szWeaponName>Mossberg M500A</szWeaponName>
 		<ubWeaponClass>5</ubWeaponClass>
 		<ubWeaponType>8</ubWeaponType>
 		<ubCalibre>5</ubCalibre>
@@ -21262,7 +21342,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2708</uiIndex>
-		<szWeaponName>Benelli M3T</szWeaponName>
+		<szWeaponName>Benelli M3T Super 90</szWeaponName>
 		<ubWeaponClass>5</ubWeaponClass>
 		<ubWeaponType>8</ubWeaponType>
 		<ubCalibre>5</ubCalibre>
@@ -21520,7 +21600,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2715</uiIndex>
-		<szWeaponName>QBB95</szWeaponName>
+		<szWeaponName>QBB95 HBAR</szWeaponName>
 		<ubWeaponClass>4</ubWeaponClass>
 		<ubWeaponType>7</ubWeaponType>
 		<ubCalibre>101</ubCalibre>
@@ -21561,7 +21641,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2716</uiIndex>
-		<szWeaponName>QJY88</szWeaponName>
+		<szWeaponName>QJY88 GPMG</szWeaponName>
 		<ubWeaponClass>4</ubWeaponClass>
 		<ubWeaponType>7</ubWeaponType>
 		<ubCalibre>101</ubCalibre>
@@ -21726,7 +21806,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2720</uiIndex>
-		<szWeaponName>M14E2</szWeaponName>
+		<szWeaponName>M14E2 / M14A1</szWeaponName>
 		<ubWeaponClass>4</ubWeaponClass>
 		<ubWeaponType>7</ubWeaponType>
 		<ubCalibre>9</ubCalibre>
@@ -21809,7 +21889,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2722</uiIndex>
-		<szWeaponName>Mk43 MOD1</szWeaponName>
+		<szWeaponName>M60E4/Mk43 MOD1</szWeaponName>
 		<ubWeaponClass>4</ubWeaponClass>
 		<ubWeaponType>7</ubWeaponType>
 		<ubCalibre>9</ubCalibre>
@@ -21934,7 +22014,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2725</uiIndex>
-		<szWeaponName>Mk46 MOD0</szWeaponName>
+		<szWeaponName>Mk.46 Mod 0</szWeaponName>
 		<ubWeaponClass>4</ubWeaponClass>
 		<ubWeaponType>7</ubWeaponType>
 		<ubCalibre>8</ubCalibre>
@@ -21976,7 +22056,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2726</uiIndex>
-		<szWeaponName>Mk48 MOD1</szWeaponName>
+		<szWeaponName>Mk.48 Mod 1</szWeaponName>
 		<ubWeaponClass>4</ubWeaponClass>
 		<ubWeaponType>7</ubWeaponType>
 		<ubCalibre>9</ubCalibre>
@@ -22353,7 +22433,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2735</uiIndex>
-		<szWeaponName>Lewis</szWeaponName>
+		<szWeaponName>Lewis Gun</szWeaponName>
 		<ubWeaponClass>4</ubWeaponClass>
 		<ubWeaponType>7</ubWeaponType>
 		<ubCalibre>58</ubCalibre>
@@ -22521,7 +22601,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2739</uiIndex>
-		<szWeaponName>LWMMG</szWeaponName>
+		<szWeaponName>LWMMG .338</szWeaponName>
 		<ubWeaponClass>4</ubWeaponClass>
 		<ubWeaponType>7</ubWeaponType>
 		<ubCalibre>96</ubCalibre>
@@ -22560,7 +22640,6 @@
 		<usOverheatingJamThreshold>7000</usOverheatingJamThreshold>
 		<usOverheatingDamageThreshold>6000</usOverheatingDamageThreshold>
 		<usOverheatingSingleShotTemperature>76</usOverheatingSingleShotTemperature>
-		<HeavyGun>1</HeavyGun>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2740</uiIndex>
@@ -22814,7 +22893,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2746</uiIndex>
-		<szWeaponName>XM312</szWeaponName>
+		<szWeaponName>XM312 LHMG</szWeaponName>
 		<ubWeaponClass>4</ubWeaponClass>
 		<ubWeaponType>7</ubWeaponType>
 		<ubCalibre>17</ubCalibre>
@@ -22853,11 +22932,10 @@
 		<usOverheatingJamThreshold>7000</usOverheatingJamThreshold>
 		<usOverheatingDamageThreshold>6000</usOverheatingDamageThreshold>
 		<usOverheatingSingleShotTemperature>50</usOverheatingSingleShotTemperature>
-		<HeavyGun>1</HeavyGun>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2747</uiIndex>
-		<szWeaponName>Kord-S</szWeaponName>
+		<szWeaponName>Kord-S Light</szWeaponName>
 		<ubWeaponClass>4</ubWeaponClass>
 		<ubWeaponType>7</ubWeaponType>
 		<ubCalibre>21</ubCalibre>
@@ -22896,11 +22974,10 @@
 		<usOverheatingJamThreshold>7800</usOverheatingJamThreshold>
 		<usOverheatingDamageThreshold>6300</usOverheatingDamageThreshold>
 		<usOverheatingSingleShotTemperature>57</usOverheatingSingleShotTemperature>
-		<HeavyGun>1</HeavyGun>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2748</uiIndex>
-		<szWeaponName>BRNO ZB-26</szWeaponName>
+		<szWeaponName>BRNO ZB vz. 26</szWeaponName>
 		<ubWeaponClass>4</ubWeaponClass>
 		<ubWeaponType>7</ubWeaponType>
 		<ubCalibre>40</ubCalibre>
@@ -23024,7 +23101,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2751</uiIndex>
-		<szWeaponName>Czech Vz.52/57</szWeaponName>
+		<szWeaponName>Czhech Vz.52/57</szWeaponName>
 		<ubWeaponClass>4</ubWeaponClass>
 		<ubWeaponType>7</ubWeaponType>
 		<ubCalibre>10</ubCalibre>
@@ -23524,7 +23601,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2763</uiIndex>
-		<szWeaponName>HK MG4 (&lt;)</szWeaponName>
+		<szWeaponName>HK MG43 (&lt;)</szWeaponName>
 		<ubWeaponClass>4</ubWeaponClass>
 		<ubWeaponType>7</ubWeaponType>
 		<ubCalibre>8</ubCalibre>
@@ -23812,7 +23889,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2770</uiIndex>
-		<szWeaponName>MG81Z</szWeaponName>
+		<szWeaponName>MG81 Zwilling</szWeaponName>
 		<ubWeaponClass>4</ubWeaponClass>
 		<ubWeaponType>7</ubWeaponType>
 		<ubCalibre>89</ubCalibre>
@@ -24144,7 +24221,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2801</uiIndex>
-		<szWeaponName>Mk16 Mod0 CQC (&lt;)</szWeaponName>
+		<szWeaponName>Mk16 Mod 0 CQC (&lt;)</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>8</ubCalibre>
@@ -24185,7 +24262,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2802</uiIndex>
-		<szWeaponName>Mk16 Mod0 STD (&lt;)</szWeaponName>
+		<szWeaponName>Mk16 Mod 0 STD (&lt;)</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>8</ubCalibre>
@@ -24226,7 +24303,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2803</uiIndex>
-		<szWeaponName>Mk17 Mod0 CQC (&lt;)</szWeaponName>
+		<szWeaponName>Mk17 Mod 0 CQC (&lt;)</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>9</ubCalibre>
@@ -24267,7 +24344,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2804</uiIndex>
-		<szWeaponName>Mk17 Mod0 STD (&lt;)</szWeaponName>
+		<szWeaponName>Mk17 Mod 0 STD (&lt;)</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>9</ubCalibre>
@@ -24308,7 +24385,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2805</uiIndex>
-		<szWeaponName>Mk16 Mod1 CQC (&lt;)</szWeaponName>
+		<szWeaponName>Mk16 Mod 1 CQC (&lt;)</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>42</ubCalibre>
@@ -24349,7 +24426,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2806</uiIndex>
-		<szWeaponName>Mk16 Mod1 STD (&lt;)</szWeaponName>
+		<szWeaponName>Mk16 Mod 1 STD (&lt;)</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>42</ubCalibre>
@@ -24671,7 +24748,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2814</uiIndex>
-		<szWeaponName>HK416C (&lt;)</szWeaponName>
+		<szWeaponName>HK416C Sub-Compat Carbine (&lt;)</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>8</ubCalibre>
@@ -24712,7 +24789,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2815</uiIndex>
-		<szWeaponName>Colt SCW (&lt;)</szWeaponName>
+		<szWeaponName>Colt Sub Compact Weapon (&lt;)</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>8</ubCalibre>
@@ -25192,7 +25269,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2827</uiIndex>
-		<szWeaponName>AN-94/GP-30 Combo (&lt;)</szWeaponName>
+		<szWeaponName>AN-94/GP-25 Combo (&lt;)</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>7</ubCalibre>
@@ -25679,7 +25756,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2839</uiIndex>
-		<szWeaponName>Mk14 Mod1</szWeaponName>
+		<szWeaponName>Mk14 MOD1</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>4</ubWeaponType>
 		<ubCalibre>9</ubCalibre>
@@ -25802,7 +25879,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2842</uiIndex>
-		<szWeaponName>QBZ03 5.56 (&lt;)</szWeaponName>
+		<szWeaponName>QBZ03 Export (&lt;)</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>8</ubCalibre>
@@ -25843,7 +25920,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2843</uiIndex>
-		<szWeaponName>RGM Grenade Launcher</szWeaponName>
+		<szWeaponName>RGM Grenade Launcher(&gt;)</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubReadyTime>6</ubReadyTime>
 		<ubShotsPer4Turns>7.2</ubShotsPer4Turns>
@@ -26281,7 +26358,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2854</uiIndex>
-		<szWeaponName>OTs-39</szWeaponName>
+		<szWeaponName>OTs 39(&gt;)</szWeaponName>
 		<ubWeaponClass>2</ubWeaponClass>
 		<ubWeaponType>3</ubWeaponType>
 		<ubCalibre>20</ubCalibre>
@@ -26490,7 +26567,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2859</uiIndex>
-		<szWeaponName>SA58 OSW (&lt;)</szWeaponName>
+		<szWeaponName>DSA SA58 OSW (&lt;)</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>4</ubWeaponType>
 		<ubCalibre>9</ubCalibre>
@@ -26530,7 +26607,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2860</uiIndex>
-		<szWeaponName>SA58 Para Elite (&lt;)</szWeaponName>
+		<szWeaponName>DSA SA58 Para Elite (&lt;)</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>4</ubWeaponType>
 		<ubCalibre>9</ubCalibre>
@@ -26612,7 +26689,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2862</uiIndex>
-		<szWeaponName>BM59 Para (&lt;)</szWeaponName>
+		<szWeaponName>Beretta BM59 Mk Ital Para (&lt;)</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>9</ubCalibre>
@@ -26777,7 +26854,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2866</uiIndex>
-		<szWeaponName>SA58 OSW</szWeaponName>
+		<szWeaponName>DSA SA58 OSW</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>4</ubWeaponType>
 		<ubCalibre>9</ubCalibre>
@@ -26899,7 +26976,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2869</uiIndex>
-		<szWeaponName>Galil 762 ARM (&lt;)</szWeaponName>
+		<szWeaponName>Galil 7.62 ARM (&lt;)</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>9</ubCalibre>
@@ -26940,7 +27017,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2870</uiIndex>
-		<szWeaponName>Galil 762 AR (&lt;)</szWeaponName>
+		<szWeaponName>Galil 7.62 AR (&lt;)</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>9</ubCalibre>
@@ -27175,7 +27252,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2876</uiIndex>
-		<szWeaponName>Daewoo K1 (&lt;)</szWeaponName>
+		<szWeaponName>Daewoo K-1 (&lt;)</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>8</ubCalibre>
@@ -27467,7 +27544,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2883</uiIndex>
-		<szWeaponName>Sako Rk.95 (&lt;)</szWeaponName>
+		<szWeaponName>Valmet/Sako Rk.95 (&lt;)</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>10</ubCalibre>
@@ -27836,7 +27913,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2892</uiIndex>
-		<szWeaponName>LR-300 ML (&lt;)</szWeaponName>
+		<szWeaponName>ZM LR-300 ML (&lt;)</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>8</ubCalibre>
@@ -27876,7 +27953,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2893</uiIndex>
-		<szWeaponName>LR-300 SR (&lt;)</szWeaponName>
+		<szWeaponName>ZM LR-300 SR (&lt;)</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>4</ubWeaponType>
 		<ubCalibre>8</ubCalibre>
@@ -27913,7 +27990,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2894</uiIndex>
-		<szWeaponName>Masada 556 10.5" (&lt;)</szWeaponName>
+		<szWeaponName>Masada 5.56 10.5" SBR (&lt;)</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>8</ubCalibre>
@@ -27954,7 +28031,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2895</uiIndex>
-		<szWeaponName>Masada 556 14.5" (&lt;)</szWeaponName>
+		<szWeaponName>Masada 5.56 14.5" Carbine (&lt;)</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>8</ubCalibre>
@@ -27995,7 +28072,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2896</uiIndex>
-		<szWeaponName>Masada 556 18" (&lt;)</szWeaponName>
+		<szWeaponName>Masada 5.56 18" DMR (&lt;)</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>8</ubCalibre>
@@ -28036,7 +28113,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2897</uiIndex>
-		<szWeaponName>Masada 762 10.5" (&lt;)</szWeaponName>
+		<szWeaponName>Masada 7.62 10.5" SBR (&lt;)</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>10</ubCalibre>
@@ -28077,7 +28154,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2898</uiIndex>
-		<szWeaponName>Masada 762 14.5" (&lt;)</szWeaponName>
+		<szWeaponName>Masada 7.62 14.5" Carbine (&lt;)</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>10</ubCalibre>
@@ -28118,7 +28195,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2899</uiIndex>
-		<szWeaponName>Masada 762 18" (&lt;)</szWeaponName>
+		<szWeaponName>Masada 7.62 18" DMR (&lt;)</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>10</ubCalibre>
@@ -28159,7 +28236,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2900</uiIndex>
-		<szWeaponName>Masada-H Carbine (&lt;)</szWeaponName>
+		<szWeaponName>Masada-Heavy Carbine (&lt;)</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>9</ubCalibre>
@@ -28241,7 +28318,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2902</uiIndex>
-		<szWeaponName>AR-18 (&lt;)</szWeaponName>
+		<szWeaponName>Armalite AR-18 (&lt;)</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>104</ubCalibre>
@@ -28282,7 +28359,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2903</uiIndex>
-		<szWeaponName>Masada-6.8 (&lt;)</szWeaponName>
+		<szWeaponName>Masada 6.8 SPC (&lt;)</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>42</ubCalibre>
@@ -28323,7 +28400,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2904</uiIndex>
-		<szWeaponName>Kel-Tec RMR-30 (&lt;)</szWeaponName>
+		<szWeaponName>Kel-Tec RMR-30 Carbine (&lt;)</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>4</ubWeaponType>
 		<ubCalibre>92</ubCalibre>
@@ -28518,7 +28595,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2909</uiIndex>
-		<szWeaponName>AAC MPW (&lt;)</szWeaponName>
+		<szWeaponName>AAC Multi-Purpose Weapon (&lt;)</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>64</ubCalibre>
@@ -28600,7 +28677,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2911</uiIndex>
-		<szWeaponName>Galil 762 ARM</szWeaponName>
+		<szWeaponName>Galil 7.62 ARM</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>9</ubCalibre>
@@ -28723,72 +28800,8 @@
 		<usOverheatingSingleShotTemperature>73</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>2914</uiIndex>
-		<szWeaponName>Armalite AR-7 Stowed</szWeaponName>
-		<ubWeaponClass>3</ubWeaponClass>
-		<ubWeaponType>4</ubWeaponType>
-		<ubCalibre>74</ubCalibre>
-		<ubReadyTime>7</ubReadyTime>
-		<ubShotsPer4Turns>16.76</ubShotsPer4Turns>
-		<ubBurstPenalty>9</ubBurstPenalty>
-		<ubBulletSpeed>20</ubBulletSpeed>
-		<ubImpact>21</ubImpact>
-		<ubDeadliness>17</ubDeadliness>
-		<ubMagSize>10</ubMagSize>
-		<usRange>200</usRange>
-		<usReloadDelay>200</usReloadDelay>
-		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>40</ubAttackVolume>
-		<ubHitVolume>3</ubHitVolume>
-		<sSound>459</sSound>
-		<sSilencedBurstSound>111</sSilencedBurstSound>
-		<sReloadSound>100</sReloadSound>
-		<sLocknLoadSound>106</sLocknLoadSound>
-		<SilencedSound>156</SilencedSound>
-		<bBurstAP>8</bBurstAP>
-		<APsToReload>25</APsToReload>
-		<SwapClips>1</SwapClips>
-		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
-		<AutoPenalty>9</AutoPenalty>
-		<NoSemiAuto>1</NoSemiAuto>
-		<EasyUnjam>1</EasyUnjam>
-		<ManualReloadSound>480</ManualReloadSound>
-		<nAccuracy>60</nAccuracy>
-		<ubAimLevels>3</ubAimLevels>
-		<Handling>9</Handling>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>40</usOverheatingSingleShotTemperature>
-	</WEAPON>
-	<WEAPON>
-		<uiIndex>2915</uiIndex>
-		<szWeaponName>RGM Grenade Launcher (&lt;)</szWeaponName>
-		<ubWeaponClass>3</ubWeaponClass>
-		<ubReadyTime>4</ubReadyTime>
-		<ubShotsPer4Turns>9.12</ubShotsPer4Turns>
-		<ubBulletSpeed>30</ubBulletSpeed>
-		<ubDeadliness>50</ubDeadliness>
-		<ubMagSize>1</ubMagSize>
-		<usRange>250</usRange>
-		<usReloadDelay>200</usReloadDelay>
-		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>40</ubAttackVolume>
-		<ubHitVolume>10</ubHitVolume>
-		<sSound>406</sSound>
-		<sSilencedBurstSound>111</sSilencedBurstSound>
-		<SilencedSound>157</SilencedSound>
-		<APsToReload>38</APsToReload>
-		<SwapClips>1</SwapClips>
-		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
-		<ManualReloadSound>476</ManualReloadSound>
-		<Handling>5</Handling>
-		<usOverheatingJamThreshold>6000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>500</usOverheatingSingleShotTemperature>
-	</WEAPON>
-	<WEAPON>
 		<uiIndex>2916</uiIndex>
-		<szWeaponName>Mk13 EGLM Alone (&lt;)</szWeaponName>
+		<szWeaponName>FNH Mk13 Stand-alone (&lt;)</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubReadyTime>5</ubReadyTime>
 		<ubShotsPer4Turns>9.19</ubShotsPer4Turns>
@@ -28840,7 +28853,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2918</uiIndex>
-		<szWeaponName>Type 86s</szWeaponName>
+		<szWeaponName>NORINCO Type 86s</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>4</ubWeaponType>
 		<ubCalibre>10</ubCalibre>
@@ -28880,7 +28893,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2919</uiIndex>
-		<szWeaponName>M320 GLM (&lt;)</szWeaponName>
+		<szWeaponName>M320 Grenade Launcher Module (&lt;)</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubReadyTime>5</ubReadyTime>
 		<ubShotsPer4Turns>9.57</ubShotsPer4Turns>
@@ -28906,7 +28919,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2920</uiIndex>
-		<szWeaponName>Mk16 BLK (&lt;)</szWeaponName>
+		<szWeaponName>Mk16 SCAR-BLK (&lt;)</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>64</ubCalibre>
@@ -28989,7 +29002,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2922</uiIndex>
-		<szWeaponName>Mk17 Mod1 (&lt;)</szWeaponName>
+		<szWeaponName>Mk17 Mod 1 CQC (&lt;)</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>4</ubWeaponType>
 		<ubCalibre>103</ubCalibre>
@@ -29137,107 +29150,6 @@
 		<usOverheatingSingleShotTemperature>120</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>2926</uiIndex>
-		<szWeaponName>HK AG-C Grenade Launcher (Built-in)</szWeaponName>
-		<ubWeaponClass>3</ubWeaponClass>
-		<ubReadyTime>12</ubReadyTime>
-		<ubShotsPer4Turns>6.8</ubShotsPer4Turns>
-		<ubBulletSpeed>30</ubBulletSpeed>
-		<ubDeadliness>55</ubDeadliness>
-		<ubMagSize>1</ubMagSize>
-		<usRange>380</usRange>
-		<usReloadDelay>200</usReloadDelay>
-		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>40</ubAttackVolume>
-		<sSound>401</sSound>
-		<sSilencedBurstSound>111</sSilencedBurstSound>
-		<SilencedSound>157</SilencedSound>
-		<APsToReload>35</APsToReload>
-		<SwapClips>1</SwapClips>
-		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
-		<ManualReloadSound>476</ManualReloadSound>
-		<Handling>11</Handling>
-		<usOverheatingJamThreshold>6000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>500</usOverheatingSingleShotTemperature>
-	</WEAPON>
-	<WEAPON>
-		<uiIndex>2927</uiIndex>
-		<szWeaponName>Colt XM177E1</szWeaponName>
-		<ubWeaponClass>3</ubWeaponClass>
-		<ubWeaponType>6</ubWeaponType>
-		<ubCalibre>104</ubCalibre>
-		<ubReadyTime>9</ubReadyTime>
-		<ubShotsPer4Turns>15.8</ubShotsPer4Turns>
-		<ubBurstPenalty>11</ubBurstPenalty>
-		<ubBulletSpeed>22</ubBulletSpeed>
-		<ubImpact>30</ubImpact>
-		<ubDeadliness>30</ubDeadliness>
-		<bAccuracy>6</bAccuracy>
-		<ubMagSize>20</ubMagSize>
-		<usRange>265</usRange>
-		<usReloadDelay>200</usReloadDelay>
-		<BurstAniDelay>33</BurstAniDelay>
-		<ubAttackVolume>70</ubAttackVolume>
-		<ubHitVolume>7</ubHitVolume>
-		<sSound>344</sSound>
-		<sBurstSound>36</sBurstSound>
-		<sSilencedBurstSound>111</sSilencedBurstSound>
-		<sReloadSound>102</sReloadSound>
-		<sLocknLoadSound>108</sLocknLoadSound>
-		<SilencedSound>156</SilencedSound>
-		<bBurstAP>8</bBurstAP>
-		<bAutofireShotsPerFiveAP>4</bAutofireShotsPerFiveAP>
-		<APsToReload>28</APsToReload>
-		<SwapClips>1</SwapClips>
-		<MaxDistForMessyDeath>17</MaxDistForMessyDeath>
-		<AutoPenalty>11</AutoPenalty>
-		<ManualReloadSound>476</ManualReloadSound>
-		<nAccuracy>60</nAccuracy>
-		<bRecoilY>8</bRecoilY>
-		<ubAimLevels>3</ubAimLevels>
-		<Handling>8</Handling>
-		<usOverheatingJamThreshold>6000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>72</usOverheatingSingleShotTemperature>
-	</WEAPON>
-	<WEAPON>
-		<uiIndex>2928</uiIndex>
-		<szWeaponName>Diemaco C7CT</szWeaponName>
-		<ubWeaponClass>3</ubWeaponClass>
-		<ubWeaponType>5</ubWeaponType>
-		<ubCalibre>8</ubCalibre>
-		<ubReadyTime>16</ubReadyTime>
-		<ubShotsPer4Turns>12.86</ubShotsPer4Turns>
-		<ubBulletSpeed>22</ubBulletSpeed>
-		<ubImpact>30</ubImpact>
-		<ubDeadliness>35</ubDeadliness>
-		<bAccuracy>8</bAccuracy>
-		<ubMagSize>20</ubMagSize>
-		<usRange>430</usRange>
-		<usReloadDelay>200</usReloadDelay>
-		<BurstAniDelay>38</BurstAniDelay>
-		<ubAttackVolume>77</ubAttackVolume>
-		<ubHitVolume>7</ubHitVolume>
-		<sSound>341</sSound>
-		<sBurstSound>33</sBurstSound>
-		<sSilencedBurstSound>111</sSilencedBurstSound>
-		<sReloadSound>102</sReloadSound>
-		<sLocknLoadSound>108</sLocknLoadSound>
-		<SilencedSound>156</SilencedSound>
-		<bBurstAP>20</bBurstAP>
-		<APsToReload>30</APsToReload>
-		<SwapClips>1</SwapClips>
-		<MaxDistForMessyDeath>27</MaxDistForMessyDeath>
-		<ManualReloadSound>476</ManualReloadSound>
-		<nAccuracy>81</nAccuracy>
-		<ubAimLevels>5</ubAimLevels>
-		<Handling>15</Handling>
-		<usOverheatingJamThreshold>6000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>96</usOverheatingSingleShotTemperature>
-	</WEAPON>
-	<WEAPON>
 		<uiIndex>2929</uiIndex>
 		<szWeaponName>VKS Vychlop</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
@@ -29271,33 +29183,6 @@
 		<usOverheatingJamThreshold>6000</usOverheatingJamThreshold>
 		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
 		<usOverheatingSingleShotTemperature>450</usOverheatingSingleShotTemperature>
-	</WEAPON>
-	<WEAPON>
-		<uiIndex>2930</uiIndex>
-		<szWeaponName>Mk13 EGLM</szWeaponName>
-		<ubWeaponClass>3</ubWeaponClass>
-		<ubReadyTime>12</ubReadyTime>
-		<ubShotsPer4Turns>6.9</ubShotsPer4Turns>
-		<ubBulletSpeed>30</ubBulletSpeed>
-		<ubDeadliness>35</ubDeadliness>
-		<bAccuracy>4</bAccuracy>
-		<ubMagSize>1</ubMagSize>
-		<usRange>350</usRange>
-		<usReloadDelay>200</usReloadDelay>
-		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>40</ubAttackVolume>
-		<ubHitVolume>10</ubHitVolume>
-		<sSound>402</sSound>
-		<sSilencedBurstSound>111</sSilencedBurstSound>
-		<SilencedSound>157</SilencedSound>
-		<APsToReload>33</APsToReload>
-		<SwapClips>1</SwapClips>
-		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
-		<ManualReloadSound>476</ManualReloadSound>
-		<Handling>11</Handling>
-		<usOverheatingJamThreshold>6000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>500</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2931</uiIndex>
@@ -29755,7 +29640,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2942</uiIndex>
-		<szWeaponName>QBZ03 5.56</szWeaponName>
+		<szWeaponName>QBZ03 Export</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>8</ubCalibre>
@@ -29904,7 +29789,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2946</uiIndex>
-		<szWeaponName>Mk16 Mod0 CQC</szWeaponName>
+		<szWeaponName>Mk16 Mod 0 CQC</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>8</ubCalibre>
@@ -29945,7 +29830,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2947</uiIndex>
-		<szWeaponName>Mk16 Mod0 STD</szWeaponName>
+		<szWeaponName>Mk16 Mod 0 STD</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>8</ubCalibre>
@@ -29986,7 +29871,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2948</uiIndex>
-		<szWeaponName>Mk17 Mod0 CQC</szWeaponName>
+		<szWeaponName>Mk17 Mod 0 CQC</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>9</ubCalibre>
@@ -30027,7 +29912,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2949</uiIndex>
-		<szWeaponName>Mk17 Mod0 STD</szWeaponName>
+		<szWeaponName>Mk17 Mod 0 STD</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>9</ubCalibre>
@@ -30068,7 +29953,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2950</uiIndex>
-		<szWeaponName>Mk16 Mod1 CQC</szWeaponName>
+		<szWeaponName>Mk16 Mod 1 CQC</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>42</ubCalibre>
@@ -30109,7 +29994,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2951</uiIndex>
-		<szWeaponName>Mk16 Mod1 STD</szWeaponName>
+		<szWeaponName>Mk16 Mod 1 STD</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>42</ubCalibre>
@@ -30346,7 +30231,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2957</uiIndex>
-		<szWeaponName>Mk18 Mod0</szWeaponName>
+		<szWeaponName>Mk.18 MOD 0</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>8</ubCalibre>
@@ -30464,7 +30349,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2960</uiIndex>
-		<szWeaponName>SAM-R</szWeaponName>
+		<szWeaponName>M16A4 SAM-R</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>4</ubWeaponType>
 		<ubCalibre>8</ubCalibre>
@@ -30544,7 +30429,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2962</uiIndex>
-		<szWeaponName>Mk4 Mod0</szWeaponName>
+		<szWeaponName>Mk.4 MOD 0</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>104</ubCalibre>
@@ -30703,7 +30588,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2966</uiIndex>
-		<szWeaponName>Diemaco C8CT</szWeaponName>
+		<szWeaponName>C8CT</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>5</ubWeaponType>
 		<ubCalibre>8</ubCalibre>
@@ -30780,7 +30665,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2968</uiIndex>
-		<szWeaponName>AR-10</szWeaponName>
+		<szWeaponName>Armalite AR-10</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>9</ubCalibre>
@@ -30820,7 +30705,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2969</uiIndex>
-		<szWeaponName>Mk11 Mod0</szWeaponName>
+		<szWeaponName>Mk.11 Mod0</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>5</ubWeaponType>
 		<ubCalibre>9</ubCalibre>
@@ -30856,7 +30741,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2970</uiIndex>
-		<szWeaponName>Panther 6.8mm</szWeaponName>
+		<szWeaponName>DPMS Panther 6.8mm SPC</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>4</ubWeaponType>
 		<ubCalibre>42</ubCalibre>
@@ -30894,7 +30779,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2971</uiIndex>
-		<szWeaponName>Rem SASS</szWeaponName>
+		<szWeaponName>Remington/DPMS SASS</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>5</ubWeaponType>
 		<ubCalibre>9</ubCalibre>
@@ -30930,7 +30815,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2972</uiIndex>
-		<szWeaponName>CQB-SPC556T</szWeaponName>
+		<szWeaponName>TROY CQB-SPC 556T</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>8</ubCalibre>
@@ -30970,7 +30855,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2973</uiIndex>
-		<szWeaponName>CQB-SPC762T</szWeaponName>
+		<szWeaponName>TROY CQB-SPC 762T</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>9</ubCalibre>
@@ -31212,7 +31097,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2979</uiIndex>
-		<szWeaponName>LR-300 ML</szWeaponName>
+		<szWeaponName>ZM LR-300 ML</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>8</ubCalibre>
@@ -31252,7 +31137,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2980</uiIndex>
-		<szWeaponName>LR-300 SR</szWeaponName>
+		<szWeaponName>ZM LR-300 SR</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>4</ubWeaponType>
 		<ubCalibre>8</ubCalibre>
@@ -31289,7 +31174,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2981</uiIndex>
-		<szWeaponName>AR-18</szWeaponName>
+		<szWeaponName>Armalite AR-18</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>104</ubCalibre>
@@ -31330,7 +31215,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2982</uiIndex>
-		<szWeaponName>AR-18S</szWeaponName>
+		<szWeaponName>Armalite AR-18S</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>104</ubCalibre>
@@ -31710,7 +31595,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2992</uiIndex>
-		<szWeaponName>AS50</szWeaponName>
+		<szWeaponName>AI AS50</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>5</ubWeaponType>
 		<ubCalibre>17</ubCalibre>
@@ -31745,7 +31630,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2993</uiIndex>
-		<szWeaponName>PGM UR Hecate II</szWeaponName>
+		<szWeaponName>PGM Ultima Ratio "Hecate II"</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>5</ubWeaponType>
 		<ubCalibre>17</ubCalibre>
@@ -32107,7 +31992,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3002</uiIndex>
-		<szWeaponName>SA58 Tactical Carbine</szWeaponName>
+		<szWeaponName>DSA SA58 Tactical Carbine</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>4</ubWeaponType>
 		<ubCalibre>9</ubCalibre>
@@ -32352,7 +32237,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3008</uiIndex>
-		<szWeaponName>BM59 Para</szWeaponName>
+		<szWeaponName>Beretta BM59 Mk Ital Para</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>9</ubCalibre>
@@ -32475,7 +32360,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3011</uiIndex>
-		<szWeaponName>T65K2</szWeaponName>
+		<szWeaponName>Taiwan T65K2</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>8</ubCalibre>
@@ -32516,7 +32401,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3012</uiIndex>
-		<szWeaponName>T91</szWeaponName>
+		<szWeaponName>Taiwan T91</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>8</ubCalibre>
@@ -32599,7 +32484,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3014</uiIndex>
-		<szWeaponName>Daewoo K1</szWeaponName>
+		<szWeaponName>Daewoo K-1</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>8</ubCalibre>
@@ -32640,7 +32525,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3015</uiIndex>
-		<szWeaponName>Daewoo K2</szWeaponName>
+		<szWeaponName>Daewoo K-2</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>8</ubCalibre>
@@ -33008,7 +32893,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3024</uiIndex>
-		<szWeaponName>M1903A4</szWeaponName>
+		<szWeaponName>M1903A4 Springfield</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>4</ubWeaponType>
 		<ubCalibre>46</ubCalibre>
@@ -33152,7 +33037,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3028</uiIndex>
-		<szWeaponName>Boys .55</szWeaponName>
+		<szWeaponName>Boys anti-tank rifle Mk.II</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>4</ubWeaponType>
 		<ubCalibre>59</ubCalibre>
@@ -33571,7 +33456,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3039</uiIndex>
-		<szWeaponName>QLZ87</szWeaponName>
+		<szWeaponName>QLZ87 AGL</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubReadyTime>29</ubReadyTime>
 		<ubShotsPer4Turns>8.5</ubShotsPer4Turns>
@@ -33603,7 +33488,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3040</uiIndex>
-		<szWeaponName>PF89</szWeaponName>
+		<szWeaponName>PF89 Rocket Lanucher</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubShotsPer4Turns>5.81</ubShotsPer4Turns>
 		<ubBulletSpeed>30</ubBulletSpeed>
@@ -33628,7 +33513,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3041</uiIndex>
-		<szWeaponName>Mk13 EGLM (Built-in)</szWeaponName>
+		<szWeaponName>FN EGLM Grenade Launcher (Built-in)</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubReadyTime>12</ubReadyTime>
 		<ubShotsPer4Turns>6.92</ubShotsPer4Turns>
@@ -33654,7 +33539,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3042</uiIndex>
-		<szWeaponName>Mk13 EGLM Alone</szWeaponName>
+		<szWeaponName>FNH Mk13 Stand-alone</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubReadyTime>7</ubReadyTime>
 		<ubShotsPer4Turns>7.35</ubShotsPer4Turns>
@@ -33736,7 +33621,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3045</uiIndex>
-		<szWeaponName>Barrett XM109 Payload</szWeaponName>
+		<szWeaponName>XM109 Barrett Payload</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>5</ubWeaponType>
 		<ubCalibre>65</ubCalibre>
@@ -33769,7 +33654,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3046</uiIndex>
-		<szWeaponName>PAW-20</szWeaponName>
+		<szWeaponName>PAW-20 Neopup</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>4</ubWeaponType>
 		<ubCalibre>66</ubCalibre>
@@ -33854,32 +33739,6 @@
 		<APsToReloadManually>8</APsToReloadManually>
 		<ManualReloadSound>481</ManualReloadSound>
 		<Handling>8</Handling>
-		<usOverheatingJamThreshold>6000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>500</usOverheatingSingleShotTemperature>
-	</WEAPON>
-	<WEAPON>
-		<uiIndex>3049</uiIndex>
-		<szWeaponName>BS-1 Silenced Grenade Launcher</szWeaponName>
-		<ubWeaponClass>3</ubWeaponClass>
-		<ubReadyTime>15</ubReadyTime>
-		<ubShotsPer4Turns>7.1</ubShotsPer4Turns>
-		<ubBulletSpeed>30</ubBulletSpeed>
-		<ubDeadliness>60</ubDeadliness>
-		<ubMagSize>1</ubMagSize>
-		<usRange>300</usRange>
-		<usReloadDelay>200</usReloadDelay>
-		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>5</ubAttackVolume>
-		<ubHitVolume>10</ubHitVolume>
-		<sSound>403</sSound>
-		<sSilencedBurstSound>111</sSilencedBurstSound>
-		<SilencedSound>516</SilencedSound>
-		<APsToReload>43</APsToReload>
-		<SwapClips>1</SwapClips>
-		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
-		<ManualReloadSound>476</ManualReloadSound>
-		<Handling>14</Handling>
 		<usOverheatingJamThreshold>6000</usOverheatingJamThreshold>
 		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
 		<usOverheatingSingleShotTemperature>500</usOverheatingSingleShotTemperature>
@@ -34437,7 +34296,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3064</uiIndex>
-		<szWeaponName>Steyr .50HS</szWeaponName>
+		<szWeaponName>Steyr 50HS</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>5</ubWeaponType>
 		<ubCalibre>17</ubCalibre>
@@ -34554,7 +34413,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3067</uiIndex>
-		<szWeaponName>Winchester 73 Sawed-off</szWeaponName>
+		<szWeaponName>Winchester 1873 Randal Custom</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>4</ubWeaponType>
 		<ubCalibre>26</ubCalibre>
@@ -34653,7 +34512,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3070</uiIndex>
-		<szWeaponName>M231 FPW</szWeaponName>
+		<szWeaponName>M231 Port Gun</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>104</ubCalibre>
@@ -34767,7 +34626,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3073</uiIndex>
-		<szWeaponName>SA58 Para Elite</szWeaponName>
+		<szWeaponName>DSA SA58 Para Elite</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>4</ubWeaponType>
 		<ubCalibre>9</ubCalibre>
@@ -34922,7 +34781,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3077</uiIndex>
-		<szWeaponName>IWS2000</szWeaponName>
+		<szWeaponName>Steyr IWS 2000</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>5</ubWeaponType>
 		<ubCalibre>97</ubCalibre>
@@ -34956,7 +34815,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3078</uiIndex>
-		<szWeaponName>WSG2000</szWeaponName>
+		<szWeaponName>HK WSG2000</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>5</ubWeaponType>
 		<ubCalibre>98</ubCalibre>
@@ -35031,7 +34890,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3080</uiIndex>
-		<szWeaponName>G43</szWeaponName>
+		<szWeaponName>Gew.43</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>4</ubWeaponType>
 		<ubCalibre>40</ubCalibre>
@@ -35188,7 +35047,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3084</uiIndex>
-		<szWeaponName>SA58 SPR</szWeaponName>
+		<szWeaponName>DSA SA58 SPR</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>5</ubWeaponType>
 		<ubCalibre>9</ubCalibre>
@@ -35376,7 +35235,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3089</uiIndex>
-		<szWeaponName>Masada 556 10.5"</szWeaponName>
+		<szWeaponName>Masada 5.56 10.5" SBR</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>8</ubCalibre>
@@ -35417,7 +35276,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3090</uiIndex>
-		<szWeaponName>Masada 556 14.5"</szWeaponName>
+		<szWeaponName>Masada 5.56 14.5" Carbine</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>8</ubCalibre>
@@ -35458,7 +35317,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3091</uiIndex>
-		<szWeaponName>Masada 556 18"</szWeaponName>
+		<szWeaponName>Masada 5.56 18" DMR</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>8</ubCalibre>
@@ -35499,7 +35358,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3092</uiIndex>
-		<szWeaponName>Masada 762 10.5"</szWeaponName>
+		<szWeaponName>Masada 7.62 10.5" SBR</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>10</ubCalibre>
@@ -35540,7 +35399,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3093</uiIndex>
-		<szWeaponName>Masada 762 14.5"</szWeaponName>
+		<szWeaponName>Masada 7.62 14.5" Carbine</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>10</ubCalibre>
@@ -35581,7 +35440,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3094</uiIndex>
-		<szWeaponName>Masada 762 18"</szWeaponName>
+		<szWeaponName>Masada 7.62 18" DMR</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>10</ubCalibre>
@@ -35735,7 +35594,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3098</uiIndex>
-		<szWeaponName>M202A1 Flash</szWeaponName>
+		<szWeaponName>M202A1 Quad Rocket Launcher</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubShotsPer4Turns>5.22</ubShotsPer4Turns>
 		<ubShotsPerBurst>4</ubShotsPerBurst>
@@ -35765,7 +35624,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3099</uiIndex>
-		<szWeaponName>Panzerfaust 3</szWeaponName>
+		<szWeaponName>Panzerfaust 3 Rocket Lanucher</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubShotsPer4Turns>5.3</ubShotsPer4Turns>
 		<ubBulletSpeed>30</ubBulletSpeed>
@@ -35790,7 +35649,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3100</uiIndex>
-		<szWeaponName>Viper-CQC</szWeaponName>
+		<szWeaponName>Viper M16 7.5" CQC</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>8</ubCalibre>
@@ -35830,7 +35689,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3101</uiIndex>
-		<szWeaponName>Viper-XRP</szWeaponName>
+		<szWeaponName>Viper M16 10.35" XRP</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>8</ubCalibre>
@@ -36135,7 +35994,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3109</uiIndex>
-		<szWeaponName>Masada-6.8</szWeaponName>
+		<szWeaponName>Masada 6.8 SPC</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>42</ubCalibre>
@@ -36332,7 +36191,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3114</uiIndex>
-		<szWeaponName>SSG2000</szWeaponName>
+		<szWeaponName>SIG SAUER SSG2000</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>5</ubWeaponType>
 		<ubCalibre>9</ubCalibre>
@@ -36436,7 +36295,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3117</uiIndex>
-		<szWeaponName>XM307</szWeaponName>
+		<szWeaponName>XM307 AGL</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubReadyTime>28</ubReadyTime>
 		<ubShotsPer4Turns>8.18</ubShotsPer4Turns>
@@ -36505,7 +36364,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3119</uiIndex>
-		<szWeaponName>.458 SOCOM Monster</szWeaponName>
+		<szWeaponName>Tromix .458 SOCOM Monster</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>4</ubWeaponType>
 		<ubCalibre>83</ubCalibre>
@@ -36621,7 +36480,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3122</uiIndex>
-		<szWeaponName>DIO G3</szWeaponName>
+		<szWeaponName>DIO G3 Bullpup</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>9</ubCalibre>
@@ -36704,7 +36563,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3124</uiIndex>
-		<szWeaponName>Wf MPC41</szWeaponName>
+		<szWeaponName>WF MPC41</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>104</ubCalibre>
@@ -36888,7 +36747,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3129</uiIndex>
-		<szWeaponName>L118A1</szWeaponName>
+		<szWeaponName>L96A1 (AI AW)</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>5</ubWeaponType>
 		<ubCalibre>9</ubCalibre>
@@ -37006,7 +36865,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3132</uiIndex>
-		<szWeaponName>DPMS LRT-SASS</szWeaponName>
+		<szWeaponName>DPMS Panther LRT-SASS</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>5</ubWeaponType>
 		<ubCalibre>9</ubCalibre>
@@ -37195,7 +37054,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3137</uiIndex>
-		<szWeaponName>AN-94/GP-30 Combo</szWeaponName>
+		<szWeaponName>AN-94/GP-25 Combo</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>7</ubCalibre>
@@ -37280,7 +37139,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3139</uiIndex>
-		<szWeaponName>Sako Rk.95</szWeaponName>
+		<szWeaponName>Valmet/Sako Rk.95</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>10</ubCalibre>
@@ -37363,7 +37222,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3141</uiIndex>
-		<szWeaponName>Javelin</szWeaponName>
+		<szWeaponName>Javelin Antitank Missile</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubShotsPer4Turns>5.14</ubShotsPer4Turns>
 		<ubBulletSpeed>30</ubBulletSpeed>
@@ -37757,7 +37616,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3152</uiIndex>
-		<szWeaponName>SR-93</szWeaponName>
+		<szWeaponName>Mauser SR-93</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>5</ubWeaponType>
 		<ubCalibre>39</ubCalibre>
@@ -37795,7 +37654,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3153</uiIndex>
-		<szWeaponName>DT SRS .338</szWeaponName>
+		<szWeaponName>DT SRS .338LM</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>5</ubWeaponType>
 		<ubCalibre>25</ubCalibre>
@@ -37940,7 +37799,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3157</uiIndex>
-		<szWeaponName>QLB-06</szWeaponName>
+		<szWeaponName>QLB-06 AGL</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubReadyTime>25</ubReadyTime>
 		<ubShotsPer4Turns>7.5</ubShotsPer4Turns>
@@ -38048,7 +37907,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3160</uiIndex>
-		<szWeaponName>AAC MPW</szWeaponName>
+		<szWeaponName>AAC Multi-Purpose Weapon</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>64</ubCalibre>
@@ -38129,7 +37988,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3162</uiIndex>
-		<szWeaponName>Viper-WP</szWeaponName>
+		<szWeaponName>Viper M16 7.5" 7.62WP</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>10</ubCalibre>
@@ -38597,7 +38456,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3174</uiIndex>
-		<szWeaponName>6P62 Barsuk</szWeaponName>
+		<szWeaponName>6P62 HAR Barsuk</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>4</ubWeaponType>
 		<ubCalibre>21</ubCalibre>
@@ -38946,12 +38805,11 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3184</uiIndex>
-		<szWeaponName>40mm Mortar Shovel</szWeaponName>
+		<szWeaponName>40mm Mortar Shovel (GL)</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubShotsPer4Turns>5.78</ubShotsPer4Turns>
 		<ubBulletSpeed>30</ubBulletSpeed>
 		<ubDeadliness>100</ubDeadliness>
-		<bAccuracy>0</bAccuracy>
 		<ubMagSize>1</ubMagSize>
 		<usRange>400</usRange>
 		<usReloadDelay>200</usReloadDelay>
@@ -39080,7 +38938,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3188</uiIndex>
-		<szWeaponName>Chris SOCOM</szWeaponName>
+		<szWeaponName>Chris .458 SOCOM</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>83</ubCalibre>
@@ -39320,7 +39178,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3194</uiIndex>
-		<szWeaponName>Masada-H Carbine</szWeaponName>
+		<szWeaponName>Masada-Heavy Carbine</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>9</ubCalibre>
@@ -39447,7 +39305,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3197</uiIndex>
-		<szWeaponName>HK416C</szWeaponName>
+		<szWeaponName>HK416C Sub-Compat Carbine</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>8</ubCalibre>
@@ -39525,7 +39383,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3199</uiIndex>
-		<szWeaponName>Rem MSR 308</szWeaponName>
+		<szWeaponName>Remington MSR .308</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>5</ubWeaponType>
 		<ubCalibre>9</ubCalibre>
@@ -39562,7 +39420,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3200</uiIndex>
-		<szWeaponName>Rem MSR 300 WM</szWeaponName>
+		<szWeaponName>Remington MSR .300 WM</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>5</ubWeaponType>
 		<ubCalibre>39</ubCalibre>
@@ -39600,7 +39458,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3201</uiIndex>
-		<szWeaponName>Rem MSR 338 NM</szWeaponName>
+		<szWeaponName>Remington MSR .338 NM</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>5</ubWeaponType>
 		<ubCalibre>96</ubCalibre>
@@ -39757,7 +39615,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3205</uiIndex>
-		<szWeaponName>LAPA FA 03</szWeaponName>
+		<szWeaponName>LAPA FA-03</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>104</ubCalibre>
@@ -39798,7 +39656,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3206</uiIndex>
-		<szWeaponName>Al' Battar</szWeaponName>
+		<szWeaponName>Al' Battar Rifle</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>4</ubWeaponType>
 		<ubCalibre>88</ubCalibre>
@@ -39909,7 +39767,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3209</uiIndex>
-		<szWeaponName>L1A1</szWeaponName>
+		<szWeaponName>L1A1 SLR</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>4</ubWeaponType>
 		<ubCalibre>9</ubCalibre>
@@ -40067,7 +39925,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3213</uiIndex>
-		<szWeaponName>Kel-Tec RMR-30</szWeaponName>
+		<szWeaponName>Kel-Tec RMR-30 Carbine</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>4</ubWeaponType>
 		<ubCalibre>92</ubCalibre>
@@ -40102,7 +39960,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3214</uiIndex>
-		<szWeaponName>Device "DM"</szWeaponName>
+		<szWeaponName>Device "DM" Noiseless GL</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubReadyTime>11</ubReadyTime>
 		<ubShotsPer4Turns>8.57</ubShotsPer4Turns>
@@ -40169,7 +40027,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3216</uiIndex>
-		<szWeaponName>Galil 762 AR</szWeaponName>
+		<szWeaponName>Galil 7.62 AR</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>9</ubCalibre>
@@ -40210,7 +40068,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3217</uiIndex>
-		<szWeaponName>Mk18 MOD1</szWeaponName>
+		<szWeaponName>Mk.18 MOD 1</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>8</ubCalibre>
@@ -40406,7 +40264,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3222</uiIndex>
-		<szWeaponName>M320 GLM</szWeaponName>
+		<szWeaponName>M320 Grenade Launcher Module</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubReadyTime>7</ubReadyTime>
 		<ubShotsPer4Turns>7.7</ubShotsPer4Turns>
@@ -40472,7 +40330,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3224</uiIndex>
-		<szWeaponName>Teppo Jutsu .500 Phantom DMR</szWeaponName>
+		<szWeaponName>.500 Phantom DMR</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>4</ubWeaponType>
 		<ubCalibre>95</ubCalibre>
@@ -40508,7 +40366,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3225</uiIndex>
-		<szWeaponName>Colt SCW</szWeaponName>
+		<szWeaponName>Colt Sub Compact Weapon</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>8</ubCalibre>
@@ -40624,7 +40482,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3228</uiIndex>
-		<szWeaponName>ADD/Daewoo K11</szWeaponName>
+		<szWeaponName>ADD/Daewoo K-11</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>8</ubCalibre>
@@ -40704,34 +40562,8 @@
 		<usOverheatingSingleShotTemperature>79</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>3230</uiIndex>
-		<szWeaponName>HK AG-C</szWeaponName>
-		<ubWeaponClass>3</ubWeaponClass>
-		<ubReadyTime>12</ubReadyTime>
-		<ubShotsPer4Turns>6.8</ubShotsPer4Turns>
-		<ubBulletSpeed>30</ubBulletSpeed>
-		<ubDeadliness>55</ubDeadliness>
-		<ubMagSize>1</ubMagSize>
-		<usRange>350</usRange>
-		<usReloadDelay>200</usReloadDelay>
-		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>40</ubAttackVolume>
-		<ubHitVolume>10</ubHitVolume>
-		<sSound>401</sSound>
-		<sSilencedBurstSound>111</sSilencedBurstSound>
-		<SilencedSound>157</SilencedSound>
-		<APsToReload>35</APsToReload>
-		<SwapClips>1</SwapClips>
-		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
-		<ManualReloadSound>476</ManualReloadSound>
-		<Handling>11</Handling>
-		<usOverheatingJamThreshold>6000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>500</usOverheatingSingleShotTemperature>
-	</WEAPON>
-	<WEAPON>
 		<uiIndex>3231</uiIndex>
-		<szWeaponName>Mk16 BLK</szWeaponName>
+		<szWeaponName>Mk16 SCAR-BLK</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>64</ubCalibre>
@@ -40772,7 +40604,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3232</uiIndex>
-		<szWeaponName>Mk17 Mod1</szWeaponName>
+		<szWeaponName>Mk17 Mod 1 CQC</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>4</ubWeaponType>
 		<ubCalibre>103</ubCalibre>
@@ -40806,7 +40638,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3233</uiIndex>
-		<szWeaponName>Barrett 98 Bravo</szWeaponName>
+		<szWeaponName>Barrett Model 98 Bravo</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>5</ubWeaponType>
 		<ubCalibre>25</ubCalibre>
@@ -40920,7 +40752,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3236</uiIndex>
-		<szWeaponName>CM901 556 10</szWeaponName>
+		<szWeaponName>CM901 5.56 10.3" SBR</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>8</ubCalibre>
@@ -40960,7 +40792,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3237</uiIndex>
-		<szWeaponName>CM901 556 14</szWeaponName>
+		<szWeaponName>CM901 5.56 14.5" Carbine</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>8</ubCalibre>
@@ -41000,7 +40832,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3238</uiIndex>
-		<szWeaponName>CM901 556 16</szWeaponName>
+		<szWeaponName>CM901 5.56 16" Carbine</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>8</ubCalibre>
@@ -41039,7 +40871,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3239</uiIndex>
-		<szWeaponName>CM901 762 16</szWeaponName>
+		<szWeaponName>CM901 7.62 16" Carbine</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>9</ubCalibre>
@@ -41080,7 +40912,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3240</uiIndex>
-		<szWeaponName>CM901 762 18</szWeaponName>
+		<szWeaponName>CM901 7.62 18" Carbine</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>9</ubCalibre>
@@ -41121,7 +40953,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3300</uiIndex>
-		<szWeaponName>DogLegs</szWeaponName>
+		<szWeaponName>Gurkha Kukri (DogLegs)</szWeaponName>
 		<ubWeaponClass>6</ubWeaponClass>
 		<ubShotsPer4Turns>12</ubShotsPer4Turns>
 		<ubImpact>36</ubImpact>
@@ -41130,6 +40962,9 @@
 		<usReloadDelay>200</usReloadDelay>
 		<ubAttackVolume>2</ubAttackVolume>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3301</uiIndex>
@@ -41142,6 +40977,9 @@
 		<usReloadDelay>200</usReloadDelay>
 		<ubAttackVolume>2</ubAttackVolume>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3302</uiIndex>
@@ -41154,10 +40992,13 @@
 		<usReloadDelay>200</usReloadDelay>
 		<ubAttackVolume>2</ubAttackVolume>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3303</uiIndex>
-		<szWeaponName>Extrema Ratio</szWeaponName>
+		<szWeaponName>SA80 Bayonet</szWeaponName>
 		<ubWeaponClass>6</ubWeaponClass>
 		<ubShotsPer4Turns>12</ubShotsPer4Turns>
 		<ubImpact>25</ubImpact>
@@ -41166,6 +41007,9 @@
 		<usReloadDelay>200</usReloadDelay>
 		<ubAttackVolume>2</ubAttackVolume>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3304</uiIndex>
@@ -41178,6 +41022,9 @@
 		<usReloadDelay>200</usReloadDelay>
 		<ubAttackVolume>2</ubAttackVolume>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3305</uiIndex>
@@ -41189,6 +41036,9 @@
 		<usReloadDelay>200</usReloadDelay>
 		<ubAttackVolume>2</ubAttackVolume>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3306</uiIndex>
@@ -41200,6 +41050,9 @@
 		<usReloadDelay>200</usReloadDelay>
 		<ubAttackVolume>2</ubAttackVolume>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3307</uiIndex>
@@ -41213,10 +41066,13 @@
 		<usReloadDelay>200</usReloadDelay>
 		<ubAttackVolume>2</ubAttackVolume>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3308</uiIndex>
-		<szWeaponName>Ka-Bar D2</szWeaponName>
+		<szWeaponName>Ka-Bar D2 Extreme</szWeaponName>
 		<ubWeaponClass>6</ubWeaponClass>
 		<ubShotsPer4Turns>12</ubShotsPer4Turns>
 		<ubImpact>21</ubImpact>
@@ -41225,10 +41081,13 @@
 		<usReloadDelay>200</usReloadDelay>
 		<ubAttackVolume>2</ubAttackVolume>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3309</uiIndex>
-		<szWeaponName>CRKT Folder</szWeaponName>
+		<szWeaponName>CRKT M16 SF Folder</szWeaponName>
 		<ubWeaponClass>6</ubWeaponClass>
 		<ubShotsPer4Turns>15</ubShotsPer4Turns>
 		<ubImpact>13</ubImpact>
@@ -41236,6 +41095,9 @@
 		<usReloadDelay>200</usReloadDelay>
 		<ubAttackVolume>2</ubAttackVolume>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3310</uiIndex>
@@ -41249,6 +41111,9 @@
 		<ubAttackVolume>2</ubAttackVolume>
 		<sSound>152</sSound>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3311</uiIndex>
@@ -41262,6 +41127,9 @@
 		<ubAttackVolume>2</ubAttackVolume>
 		<sSound>152</sSound>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3312</uiIndex>
@@ -41274,6 +41142,9 @@
 		<usReloadDelay>200</usReloadDelay>
 		<ubAttackVolume>1</ubAttackVolume>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3851</uiIndex>
@@ -41284,6 +41155,9 @@
 		<ubDeadliness>1</ubDeadliness>
 		<usReloadDelay>200</usReloadDelay>
 		<MaxDistForMessyDeath>50</MaxDistForMessyDeath>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>3852</uiIndex>
@@ -41294,5 +41168,8 @@
 		<ubDeadliness>1</ubDeadliness>
 		<usReloadDelay>200</usReloadDelay>
 		<MaxDistForMessyDeath>50</MaxDistForMessyDeath>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 </WEAPONLIST>

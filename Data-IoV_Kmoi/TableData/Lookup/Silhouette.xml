@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <JA2Data>
 	<Silhouette>
 		<id>0</id>
@@ -120,11 +120,11 @@
 		<id>29</id>
 		<name>General Misc</name>
 	</Silhouette>
-<Silhouette>
+	<Silhouette>
 		<id>30</id>
 		<name>Revolver Holster</name>
 	</Silhouette>
-<Silhouette>
+	<Silhouette>
 		<id>31</id>
 		<name>Small Explosive</name>
 	</Silhouette>
@@ -192,15 +192,15 @@
 		<id>47</id>
 		<name>Sniper Rifle</name>
 	</Silhouette>
-		<Silhouette>
+	<Silhouette>
 		<id>48</id>
 		<name>Grenade x2</name>
 	</Silhouette>
-			<Silhouette>
+	<Silhouette>
 		<id>49</id>
 		<name>Small Revolver</name>
 	</Silhouette>
-			<Silhouette>
+	<Silhouette>
 		<id>50</id>
 		<name>Rifle</name>
 	</Silhouette>
