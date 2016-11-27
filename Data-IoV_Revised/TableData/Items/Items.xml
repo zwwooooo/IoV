@@ -38875,7 +38875,7 @@
 		<szLongItemName>HK G41A2</szLongItemName>
 		<szItemDesc>Harder hitting than a hangover from a night of downing German lager, this G41 will quickly become your enemy's headache.</szItemDesc>
 		<szBRName>HK G41A2</szBRName>
-		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<szBRDesc>Harder hitting than a hangover from a night of downing German lager, this G41 will quickly become your enemy's headache.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>1213</ubClassIndex>
@@ -38910,7 +38910,7 @@
 		<szLongItemName>HK G3A4</szLongItemName>
 		<szItemDesc>Made from sheet metal stampings and plastic furniture, this ugly looking rifle delivers wounds that are equally foul.</szItemDesc>
 		<szBRName>HK G3A4</szBRName>
-		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<szBRDesc>Made from sheet metal stampings and plastic furniture, this ugly looking rifle delivers wounds that are equally foul.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>1214</ubClassIndex>
@@ -39516,7 +39516,7 @@
 		<szLongItemName>FN FAL Para</szLongItemName>
 		<szItemDesc>A smaller, more versatile version of the widely used Fusil Automatique Leger, this carbine still packs a mighty punch.</szItemDesc>
 		<szBRName>FN FAL Para</szBRName>
-		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<szBRDesc>A smaller, more versatile version of the widely used Fusil Automatique Leger, this carbine still packs a mighty punch.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>1231</ubClassIndex>
@@ -39869,7 +39869,7 @@
 		<szLongItemName>Steyr AUG-SMG</szLongItemName>
 		<szItemDesc>An ideal choice for entry gun when the 350mm SMG barrel fits in your AUG.</szItemDesc>
 		<szBRName>Steyr AUG-SMG</szBRName>
-		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<szBRDesc>An ideal choice for entry gun when the 350mm SMG barrel fits in your AUG.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>1240</ubClassIndex>
@@ -40097,7 +40097,7 @@
 		<szLongItemName>Beretta SC-70/90</szLongItemName>
 		<szItemDesc>Italian designed and manufactured assault rifle, the SC-70/90 can be a platform for a dazzling array of attachments.</szItemDesc>
 		<szBRName>Beretta SC-70/90</szBRName>
-		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<szBRDesc>Italian designed and manufactured assault rifle, the SC-70/90 can be a platform for a dazzling array of attachments.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>1246</ubClassIndex>
@@ -76498,7 +76498,7 @@
 		<szLongItemName>FX-05 Xiuhcoatl (&lt;)</szLongItemName>
 		<szItemDesc>While looking suspiciously like a G36, this new Mexican assault rifle has what is essentially an enhanced AK-type mechanism.  The enhancement being a recoil delay system for its three round burst.</szItemDesc>
 		<szBRName>FX-05 Xiuhcoatl (&lt;)</szBRName>
-		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<szBRDesc>While looking suspiciously like a G36, this new Mexican assault rifle has what is essentially an enhanced AK-type mechanism.  The enhancement being a recoil delay system for its three round burst.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>2443</ubClassIndex>
@@ -76579,7 +76579,7 @@
 		<szLongItemName>FX-05 Short Carbine (&lt;)</szLongItemName>
 		<szItemDesc>No lawsuit here - the internals of the FX-05 Xiuhcoatl are based on the simpler AK, with the addition of a recoil delay system, making it very different internally from the G36 it mimics externally.  Short carbine variant supplied with a bare scope rail.</szItemDesc>
 		<szBRName>FX-05 Short Carbine (&lt;)</szBRName>
-		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<szBRDesc>No lawsuit here - the internals of the FX-05 Xiuhcoatl are based on the simpler AK, with the addition of a recoil delay system, making it very different internally from the G36 it mimics externally.  Short carbine variant supplied with a bare scope rail.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>2445</ubClassIndex>
@@ -92084,7 +92084,7 @@
 		<szLongItemName>Masada 556 10.5" SBR (&lt;)</szLongItemName>
 		<szItemDesc>Masada's design incorporates all the best features of several successful modern assault rifles. This is the 10.5-inch barrel variant of 5.56x45mm caliber.</szItemDesc>
 		<szBRName>Masada 556 10.5" SBR (&lt;)</szBRName>
-		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<szBRDesc>Masada's design incorporates all the best features of several successful modern assault rifles. This is the 10.5-inch barrel variant of 5.56x45mm caliber.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>2929</ubClassIndex>
@@ -92316,7 +92316,7 @@
 		<szLongItemName>Armalite AR-18 (&lt;)</szLongItemName>
 		<szItemDesc>The AR-18 rifle was developed by Armalite in 1963. This rifle was designed for the international military market as a replacement for the AR-15 project, but was a commercial failure.</szItemDesc>
 		<szBRName>Armalite AR-18 (&lt;)</szBRName>
-		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<szBRDesc>The AR-18 rifle was developed by Armalite in 1963. This rifle was designed for the international military market as a replacement for the AR-15 project, but was a commercial failure.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>2936</ubClassIndex>
@@ -92517,7 +92517,7 @@
 		<szLongItemName>AAC Multi-Purpose Weapon (&lt;)</szLongItemName>
 		<szItemDesc>The compact integrally suppressed Multi-Purpose Weapon (MPW) from Advanced Armament Corp. is targeting both PDW and specialist suppressed SMG markets.  Firing the new 300BLK round, the very short barrel is able to generate muzzle energies approaching those of a carbine.</szItemDesc>
 		<szBRName>AAC Multi-Purpose Weapon (&lt;)</szBRName>
-		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<szBRDesc>The compact integrally suppressed Multi-Purpose Weapon (MPW) from Advanced Armament Corp. is targeting both PDW and specialist suppressed SMG markets.  Firing the new 300BLK round, the very short barrel is able to generate muzzle energies approaching those of a carbine.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>2942</ubClassIndex>

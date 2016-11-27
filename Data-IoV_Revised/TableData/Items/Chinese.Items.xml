@@ -9710,7 +9710,7 @@
 		<szLongItemName>HK G41A2</szLongItemName>
 		<szItemDesc>这是G41步枪的伸缩枪托型。</szItemDesc>
 		<szBRName>HK G41A2</szBRName>
-		<szBRDesc>不在BR出售</szBRDesc>
+		<szBRDesc>这是G41步枪的伸缩枪托型。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1214</uiIndex>
@@ -9718,7 +9718,7 @@
 		<szLongItemName>HK G3A4</szLongItemName>
 		<szItemDesc>这是G3步枪的伸缩枪托型。</szItemDesc>
 		<szBRName>HK G3A4</szBRName>
-		<szBRDesc>不在BR出售</szBRDesc>
+		<szBRDesc>这是G3步枪的伸缩枪托型。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1215</uiIndex>
@@ -9854,7 +9854,7 @@
 		<szLongItemName>FN FAL伞兵型</szLongItemName>
 		<szItemDesc>这是著名的FAL步枪的折叠枪托型，灵活性更高，而且依旧威力十足。</szItemDesc>
 		<szBRName>FN FAL Para</szBRName>
-		<szBRDesc>不在BR中销售</szBRDesc>
+		<szBRDesc>这是著名的FAL步枪的折叠枪托型，灵活性更高，而且依旧威力十足。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1232</uiIndex>
@@ -9926,7 +9926,7 @@
 		<szLongItemName>Steyr AUG-SMG</szLongItemName>
 		<szItemDesc>换装长度为350mm的冲锋枪枪管后的AUG是一件理想的突入武器。</szItemDesc>
 		<szBRName>Steyr AUG-SMG</szBRName>
-		<szBRDesc>不在BR出售</szBRDesc>
+		<szBRDesc>换装长度为350mm的冲锋枪枪管后的AUG是一件理想的突入武器。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1241</uiIndex>
@@ -9974,7 +9974,7 @@
 		<szLongItemName>伯莱塔SC-70/90</szLongItemName>
 		<szItemDesc>SC-70/90是AR-70/90的折叠枪托型。</szItemDesc>
 		<szBRName>Beretta SC-70/90</szBRName>
-		<szBRDesc>不在BR出售</szBRDesc>
+		<szBRDesc>SC-70/90是AR-70/90的折叠枪托型。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1247</uiIndex>
@@ -19548,7 +19548,7 @@
 		<szLongItemName>FX-05标准型 (&lt;)</szLongItemName>
 		<szItemDesc>墨西哥自行研发、生产的突击步枪，外形很像G36，其实是用AK的原理。</szItemDesc>
 		<szBRName>FX-05标准型 (&lt;)</szBRName>
-		<szBRDesc>不在BR出售</szBRDesc>
+		<szBRDesc>墨西哥自行研发、生产的突击步枪，外形很像G36，其实是用AK的原理。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2444</uiIndex>
@@ -19564,7 +19564,7 @@
 		<szLongItemName>FX-05短卡宾型 (&lt;)</szLongItemName>
 		<szItemDesc>墨西哥FX-05的短枪管型，而且整体式瞄准镜改为皮卡汀尼导轨，可灵活地选择不同的瞄准装置。</szItemDesc>
 		<szBRName>FX-05 Short Carbine (&lt;)</szBRName>
-		<szBRDesc>不在BR出售</szBRDesc>
+		<szBRDesc>墨西哥FX-05的短枪管型，而且整体式瞄准镜改为皮卡汀尼导轨，可灵活地选择不同的瞄准装置。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2446</uiIndex>
@@ -23436,7 +23436,7 @@
 		<szLongItemName>Masada 556 10.5"短卡宾枪 (&lt;)</szLongItemName>
 		<szItemDesc>Masada 5.56x45mm口径的10.5英寸枪管型。</szItemDesc>
 		<szBRName>Masada 556 10.5" SBR (&lt;)</szBRName>
-		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<szBRDesc>Masada 5.56x45mm口径的10.5英寸枪管型。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2930</uiIndex>
@@ -23492,7 +23492,7 @@
 		<szLongItemName>Armalite AR-18 (&lt;)</szLongItemName>
 		<szItemDesc>AR-18步枪在1963年研制于阿玛莱特公司。这款枪的设计是计划用来替换在国际军火市场中的AR-15，但是在商业上失败了。</szItemDesc>
 		<szBRName>Armalite AR-18 (&lt;)</szBRName>
-		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<szBRDesc>AR-18步枪在1963年研制于阿玛莱特公司。这款枪的设计是计划用来替换在国际军火市场中的AR-15，但是在商业上失败了。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2937</uiIndex>
@@ -23540,7 +23540,7 @@
 		<szLongItemName>AAC Multi-Purpose Weapon (&lt;)</szLongItemName>
 		<szItemDesc>Advanced Armament公司生产的多用途武器，实际上是发射.300 BLK弹的近战武器，由于.300 BLK亚音速弹的声音特别低，最适合用作摸哨武器。</szItemDesc>
 		<szBRName>AAC Multi-Purpose Weapon (&lt;)</szBRName>
-		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<szBRDesc>Advanced Armament公司生产的多用途武器，实际上是发射.300 BLK弹的近战武器，由于.300 BLK亚音速弹的声音特别低，最适合用作摸哨武器。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2943</uiIndex>
