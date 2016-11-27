@@ -14166,7 +14166,7 @@
 		<szLongItemName>英军Mk.6头盔</szLongItemName>
 		<szItemDesc>英国军队的标准配备，防弹尼龙材料制的Mk.6头盔，外裹DPM迷彩盔罩。</szItemDesc>
 		<szBRName>Mk.6 Helmet</szBRName>
-		<szBRDesc>不在BR出售</szBRDesc>
+		<szBRDesc>英国军队的标准配备，防弹尼龙材料制的Mk.6头盔，外裹DPM迷彩盔罩。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1771</uiIndex>
@@ -21268,7 +21268,7 @@
 		<szLongItemName>手枪刺刀/激光/战术灯组合</szLongItemName>
 		<szItemDesc>这把刺刀、激光指示器和战术灯的一体组合可以安装在那些有导轨的手枪上使用。</szItemDesc>
 		<szBRName>手枪刺刀/激光/战术灯组合</szBRName>
-		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<szBRDesc>这把刺刀、激光指示器和战术灯的一体组合可以安装在那些有导轨的手枪上使用。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2659</uiIndex>

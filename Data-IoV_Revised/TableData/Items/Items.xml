@@ -56095,7 +56095,7 @@
 		<szLongItemName>British Mk.6 Helmet</szLongItemName>
 		<szItemDesc>The Mk.6 is the standard combat helmet of the British Armed forces. It is made by the "ballistic nylon", and covers the British Disruptive Pattern Material.</szItemDesc>
 		<szBRName>Mk.6 Helmet</szBRName>
-		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<szBRDesc>The Mk.6 is the standard combat helmet of the British Armed forces. It is made by the "ballistic nylon", and covers the British Disruptive Pattern Material.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>159</ubClassIndex>
@@ -82923,7 +82923,7 @@
 		<szLongItemName>Pistol Bayonet/LAM (light on)</szLongItemName>
 		<szItemDesc>This bayonet can be mounted on the pistol those used on the rail, as well as a laser pointer and tactical light. Flashlight is ON.</szItemDesc>
 		<szBRName>Pistol Bayonet/LAM</szBRName>
-		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<szBRDesc>This bayonet can be mounted on the pistol those used on the rail, as well as a laser pointer and tactical light. Flashlight is ON.</szBRDesc>
 		<usItemClass>4</usItemClass>
 		<AttachmentClass>2</AttachmentClass>
 		<nasAttachmentClass>512</nasAttachmentClass>
