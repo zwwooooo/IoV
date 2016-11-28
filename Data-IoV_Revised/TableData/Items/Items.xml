@@ -31448,7 +31448,6 @@
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Attachment>1</Attachment>
-		<HiddenAttachment>1</HiddenAttachment>
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>5</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
@@ -82369,9 +82368,9 @@
 	<ITEM>
 		<uiIndex>2643</uiIndex>
 		<szItemName>M203 Grip</szItemName>
-		<szLongItemName>Vertical Foregrip</szLongItemName>
+		<szLongItemName>M203 Vertical Foregrip</szLongItemName>
 		<szItemDesc>You can not be shared for the front grip and grenade launcher to worry about? RM EQUIPMENT company specializing in the production of the vertical grip can be mounted on the under-barrel grenade launcher.</szItemDesc>
-		<szBRName>Vertical Foregrip</szBRName>
+		<szBRName>M203 Grip</szBRName>
 		<szBRDesc>You can not be shared for the front grip and grenade launcher to worry about? RM EQUIPMENT company specializing in the production of the vertical grip can be mounted on the under-barrel grenade launcher.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>4096</AttachmentClass>
@@ -97560,7 +97559,7 @@
 		<ubClassIndex>154</ubClassIndex>
 		<ItemFlag>67108864</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
-		<ubGraphicNum>749</ubGraphicNum>
+		<ubGraphicNum>912</ubGraphicNum>
 		<ubWeight>17</ubWeight>
 		<ubPerPocket>2</ubPerPocket>
 		<ItemSize>24</ItemSize>

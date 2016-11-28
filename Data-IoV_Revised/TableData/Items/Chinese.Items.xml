@@ -21908,7 +21908,7 @@
 		<szLongItemName>镜环上的微型红点镜</szLongItemName>
 		<szItemDesc>装在镜环上的RMR红点镜，现在你可以把它装在其他瞄准镜上了。</szItemDesc>
 		<szBRName>Miniature Red Dot Sight</szBRName>
-		<szBRDesc>不在BR出售</szBRDesc>
+		<szBRDesc>装在镜环上的RMR红点镜，现在你可以把它装在其他瞄准镜上了。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2739</uiIndex>
