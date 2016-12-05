@@ -32193,7 +32193,6 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
-		<HiddenAttachment>1</HiddenAttachment>
 		<BigGunList>1</BigGunList>
 		<SciFi>1</SciFi>
 		<BR_NewInventory>3</BR_NewInventory>
@@ -85364,7 +85363,6 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
-		<HiddenAttachment>1</HiddenAttachment>
 		<BigGunList>1</BigGunList>
 		<Electronic>1</Electronic>
 		<BR_NewInventory>1</BR_NewInventory>
