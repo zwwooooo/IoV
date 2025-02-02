@@ -3234,7 +3234,7 @@
 		<ubVerticalDegree>0</ubVerticalDegree>
 		<bIndoorModifier>0</bIndoorModifier>
 	</EXPLOSIVE>
-	<EXPLOSIVE>
+	<EXPLOSIVE>	<!-- 60mm Mortar Signal Shell -->
 		<uiIndex>154</uiIndex>
 		<ubType>10</ubType>
 		<ubDamage>0</ubDamage>
@@ -3243,7 +3243,7 @@
 		<ubVolume>0</ubVolume>
 		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>7</ubAnimationID>
-		<ubDuration>2</ubDuration>
+		<ubDuration>5</ubDuration>
 		<ubStartRadius>1</ubStartRadius>
 		<ubMagSize>1</ubMagSize>
 		<fExplodeOnImpact>0</fExplodeOnImpact>

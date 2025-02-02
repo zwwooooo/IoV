@@ -209,7 +209,7 @@ uiFlags must be of
     <minCoolness>1</minCoolness>
     <maxCoolness>10</maxCoolness>
     <addToCoolness>0</addToCoolness>
-    <coolnessProgressRate>100</coolnessProgressRate>
+    <coolnessProgressRate>10</coolnessProgressRate>
     <daysDelayMin>1</daysDelayMin>
     <daysDelayMax>2</daysDelayMax>
     <useBRSetting>0</useBRSetting>
@@ -230,7 +230,7 @@ uiFlags must be of
     <minCoolness>1</minCoolness>
     <maxCoolness>10</maxCoolness>
     <addToCoolness>0</addToCoolness>
-    <coolnessProgressRate>100</coolnessProgressRate>
+    <coolnessProgressRate>10</coolnessProgressRate>
     <daysDelayMin>1</daysDelayMin>
     <daysDelayMax>2</daysDelayMax>
     <useBRSetting>0</useBRSetting>
@@ -251,7 +251,7 @@ uiFlags must be of
     <minCoolness>1</minCoolness>
     <maxCoolness>10</maxCoolness>
     <addToCoolness>0</addToCoolness>
-    <coolnessProgressRate>100</coolnessProgressRate>
+    <coolnessProgressRate>10</coolnessProgressRate>
     <daysDelayMin>1</daysDelayMin>
     <daysDelayMax>2</daysDelayMax>
     <useBRSetting>0</useBRSetting>
@@ -272,7 +272,7 @@ uiFlags must be of
     <minCoolness>1</minCoolness>
     <maxCoolness>10</maxCoolness>
     <addToCoolness>0</addToCoolness>
-    <coolnessProgressRate>100</coolnessProgressRate>
+    <coolnessProgressRate>10</coolnessProgressRate>
     <daysDelayMin>1</daysDelayMin>
     <daysDelayMax>2</daysDelayMax>
     <useBRSetting>0</useBRSetting>
@@ -293,7 +293,7 @@ uiFlags must be of
     <minCoolness>3</minCoolness>
     <maxCoolness>10</maxCoolness>
     <addToCoolness>0</addToCoolness>
-    <coolnessProgressRate>100</coolnessProgressRate>
+    <coolnessProgressRate>10</coolnessProgressRate>
     <daysDelayMin>2</daysDelayMin>
     <daysDelayMax>3</daysDelayMax>
     <useBRSetting>0</useBRSetting>
@@ -314,7 +314,7 @@ uiFlags must be of
     <minCoolness>1</minCoolness>
     <maxCoolness>10</maxCoolness>
     <addToCoolness>0</addToCoolness>
-    <coolnessProgressRate>100</coolnessProgressRate>
+    <coolnessProgressRate>10</coolnessProgressRate>
     <daysDelayMin>1</daysDelayMin>
     <daysDelayMax>2</daysDelayMax>
     <useBRSetting>0</useBRSetting>
@@ -335,7 +335,7 @@ uiFlags must be of
     <minCoolness>1</minCoolness>
     <maxCoolness>10</maxCoolness>
     <addToCoolness>0</addToCoolness>
-    <coolnessProgressRate>100</coolnessProgressRate>
+    <coolnessProgressRate>10</coolnessProgressRate>
     <daysDelayMin>1</daysDelayMin>
     <daysDelayMax>2</daysDelayMax>
     <useBRSetting>0</useBRSetting>
@@ -356,7 +356,7 @@ uiFlags must be of
     <minCoolness>1</minCoolness>
     <maxCoolness>10</maxCoolness>
     <addToCoolness>0</addToCoolness>
-    <coolnessProgressRate>100</coolnessProgressRate>
+    <coolnessProgressRate>10</coolnessProgressRate>
     <daysDelayMin>1</daysDelayMin>
     <daysDelayMax>2</daysDelayMax>
     <useBRSetting>0</useBRSetting>
@@ -377,7 +377,7 @@ uiFlags must be of
     <minCoolness>1</minCoolness>
     <maxCoolness>10</maxCoolness>
     <addToCoolness>0</addToCoolness>
-    <coolnessProgressRate>100</coolnessProgressRate>
+    <coolnessProgressRate>10</coolnessProgressRate>
     <daysDelayMin>1</daysDelayMin>
     <daysDelayMax>2</daysDelayMax>
     <useBRSetting>0</useBRSetting>
@@ -398,7 +398,7 @@ uiFlags must be of
     <minCoolness>1</minCoolness>
     <maxCoolness>10</maxCoolness>
     <addToCoolness>0</addToCoolness>
-    <coolnessProgressRate>100</coolnessProgressRate>
+    <coolnessProgressRate>10</coolnessProgressRate>
     <daysDelayMin>1</daysDelayMin>
     <daysDelayMax>2</daysDelayMax>
     <useBRSetting>0</useBRSetting>
@@ -419,7 +419,7 @@ uiFlags must be of
     <minCoolness>1</minCoolness>
     <maxCoolness>10</maxCoolness>
     <addToCoolness>0</addToCoolness>
-    <coolnessProgressRate>100</coolnessProgressRate>
+    <coolnessProgressRate>10</coolnessProgressRate>
     <daysDelayMin>1</daysDelayMin>
     <daysDelayMax>2</daysDelayMax>
     <useBRSetting>0</useBRSetting>
@@ -440,7 +440,7 @@ uiFlags must be of
     <minCoolness>1</minCoolness>
     <maxCoolness>10</maxCoolness>
     <addToCoolness>0</addToCoolness>
-    <coolnessProgressRate>100</coolnessProgressRate>
+    <coolnessProgressRate>10</coolnessProgressRate>
     <daysDelayMin>1</daysDelayMin>
     <daysDelayMax>2</daysDelayMax>
     <useBRSetting>0</useBRSetting>
@@ -461,7 +461,7 @@ uiFlags must be of
     <minCoolness>1</minCoolness>
     <maxCoolness>10</maxCoolness>
     <addToCoolness>0</addToCoolness>
-    <coolnessProgressRate>100</coolnessProgressRate>
+    <coolnessProgressRate>10</coolnessProgressRate>
     <daysDelayMin>1</daysDelayMin>
     <daysDelayMax>2</daysDelayMax>
     <useBRSetting>0</useBRSetting>
@@ -482,7 +482,7 @@ uiFlags must be of
     <minCoolness>1</minCoolness>
     <maxCoolness>10</maxCoolness>
     <addToCoolness>0</addToCoolness>
-    <coolnessProgressRate>100</coolnessProgressRate>
+    <coolnessProgressRate>10</coolnessProgressRate>
     <daysDelayMin>1</daysDelayMin>
     <daysDelayMax>2</daysDelayMax>
     <useBRSetting>0</useBRSetting>
@@ -503,7 +503,7 @@ uiFlags must be of
     <minCoolness>1</minCoolness>
     <maxCoolness>10</maxCoolness>
     <addToCoolness>0</addToCoolness>
-    <coolnessProgressRate>100</coolnessProgressRate>
+    <coolnessProgressRate>10</coolnessProgressRate>
     <daysDelayMin>1</daysDelayMin>
     <daysDelayMax>2</daysDelayMax>
     <useBRSetting>0</useBRSetting>
@@ -524,7 +524,7 @@ uiFlags must be of
     <minCoolness>1</minCoolness>
     <maxCoolness>10</maxCoolness>
     <addToCoolness>0</addToCoolness>
-    <coolnessProgressRate>100</coolnessProgressRate>
+    <coolnessProgressRate>10</coolnessProgressRate>
     <daysDelayMin>1</daysDelayMin>
     <daysDelayMax>2</daysDelayMax>
     <useBRSetting>0</useBRSetting>
@@ -545,7 +545,7 @@ uiFlags must be of
     <minCoolness>1</minCoolness>
     <maxCoolness>10</maxCoolness>
     <addToCoolness>0</addToCoolness>
-    <coolnessProgressRate>100</coolnessProgressRate>
+    <coolnessProgressRate>10</coolnessProgressRate>
     <daysDelayMin>1</daysDelayMin>
     <daysDelayMax>2</daysDelayMax>
     <useBRSetting>0</useBRSetting>
@@ -566,7 +566,7 @@ uiFlags must be of
     <minCoolness>1</minCoolness>
     <maxCoolness>10</maxCoolness>
     <addToCoolness>0</addToCoolness>
-    <coolnessProgressRate>100</coolnessProgressRate>
+    <coolnessProgressRate>10</coolnessProgressRate>
     <daysDelayMin>1</daysDelayMin>
     <daysDelayMax>2</daysDelayMax>
     <useBRSetting>0</useBRSetting>
@@ -587,7 +587,7 @@ uiFlags must be of
     <minCoolness>1</minCoolness>
     <maxCoolness>10</maxCoolness>
     <addToCoolness>0</addToCoolness>
-    <coolnessProgressRate>100</coolnessProgressRate>
+    <coolnessProgressRate>10</coolnessProgressRate>
     <daysDelayMin>1</daysDelayMin>
     <daysDelayMax>2</daysDelayMax>
     <useBRSetting>0</useBRSetting>
@@ -608,7 +608,7 @@ uiFlags must be of
     <minCoolness>1</minCoolness>
     <maxCoolness>10</maxCoolness>
     <addToCoolness>0</addToCoolness>
-    <coolnessProgressRate>100</coolnessProgressRate>
+    <coolnessProgressRate>10</coolnessProgressRate>
     <daysDelayMin>1</daysDelayMin>
     <daysDelayMax>2</daysDelayMax>
     <useBRSetting>0</useBRSetting>
@@ -629,7 +629,7 @@ uiFlags must be of
     <minCoolness>1</minCoolness>
     <maxCoolness>10</maxCoolness>
     <addToCoolness>0</addToCoolness>
-    <coolnessProgressRate>100</coolnessProgressRate>
+    <coolnessProgressRate>10</coolnessProgressRate>
     <daysDelayMin>1</daysDelayMin>
     <daysDelayMax>2</daysDelayMax>
     <useBRSetting>0</useBRSetting>
@@ -650,7 +650,7 @@ uiFlags must be of
     <minCoolness>1</minCoolness>
     <maxCoolness>10</maxCoolness>
     <addToCoolness>0</addToCoolness>
-    <coolnessProgressRate>100</coolnessProgressRate>
+    <coolnessProgressRate>10</coolnessProgressRate>
     <daysDelayMin>1</daysDelayMin>
     <daysDelayMax>2</daysDelayMax>
     <useBRSetting>0</useBRSetting>
@@ -671,7 +671,7 @@ uiFlags must be of
     <minCoolness>1</minCoolness>
     <maxCoolness>10</maxCoolness>
     <addToCoolness>0</addToCoolness>
-    <coolnessProgressRate>100</coolnessProgressRate>
+    <coolnessProgressRate>10</coolnessProgressRate>
     <daysDelayMin>1</daysDelayMin>
     <daysDelayMax>2</daysDelayMax>
     <useBRSetting>0</useBRSetting>
@@ -692,7 +692,7 @@ uiFlags must be of
     <minCoolness>1</minCoolness>
     <maxCoolness>10</maxCoolness>
     <addToCoolness>0</addToCoolness>
-    <coolnessProgressRate>100</coolnessProgressRate>
+    <coolnessProgressRate>10</coolnessProgressRate>
     <daysDelayMin>1</daysDelayMin>
     <daysDelayMax>2</daysDelayMax>
     <useBRSetting>0</useBRSetting>
@@ -713,7 +713,7 @@ uiFlags must be of
     <minCoolness>1</minCoolness>
     <maxCoolness>10</maxCoolness>
     <addToCoolness>0</addToCoolness>
-    <coolnessProgressRate>100</coolnessProgressRate>
+    <coolnessProgressRate>10</coolnessProgressRate>
     <daysDelayMin>1</daysDelayMin>
     <daysDelayMax>2</daysDelayMax>
     <useBRSetting>0</useBRSetting>
@@ -734,7 +734,7 @@ uiFlags must be of
     <minCoolness>1</minCoolness>
     <maxCoolness>10</maxCoolness>
     <addToCoolness>0</addToCoolness>
-    <coolnessProgressRate>100</coolnessProgressRate>
+    <coolnessProgressRate>10</coolnessProgressRate>
     <daysDelayMin>1</daysDelayMin>
     <daysDelayMax>2</daysDelayMax>
     <useBRSetting>0</useBRSetting>
@@ -755,7 +755,7 @@ uiFlags must be of
     <minCoolness>1</minCoolness>
     <maxCoolness>10</maxCoolness>
     <addToCoolness>0</addToCoolness>
-    <coolnessProgressRate>100</coolnessProgressRate>
+    <coolnessProgressRate>10</coolnessProgressRate>
     <daysDelayMin>1</daysDelayMin>
     <daysDelayMax>2</daysDelayMax>
     <useBRSetting>0</useBRSetting>
@@ -776,7 +776,7 @@ uiFlags must be of
     <minCoolness>1</minCoolness>
     <maxCoolness>10</maxCoolness>
     <addToCoolness>0</addToCoolness>
-    <coolnessProgressRate>100</coolnessProgressRate>
+    <coolnessProgressRate>10</coolnessProgressRate>
     <daysDelayMin>1</daysDelayMin>
     <daysDelayMax>2</daysDelayMax>
     <useBRSetting>0</useBRSetting>
@@ -797,7 +797,7 @@ uiFlags must be of
     <minCoolness>1</minCoolness>
     <maxCoolness>10</maxCoolness>
     <addToCoolness>0</addToCoolness>
-    <coolnessProgressRate>100</coolnessProgressRate>
+    <coolnessProgressRate>10</coolnessProgressRate>
     <daysDelayMin>1</daysDelayMin>
     <daysDelayMax>2</daysDelayMax>
     <useBRSetting>0</useBRSetting>
@@ -818,7 +818,7 @@ uiFlags must be of
     <minCoolness>1</minCoolness>
     <maxCoolness>10</maxCoolness>
     <addToCoolness>0</addToCoolness>
-    <coolnessProgressRate>100</coolnessProgressRate>
+    <coolnessProgressRate>10</coolnessProgressRate>
     <daysDelayMin>1</daysDelayMin>
     <daysDelayMax>2</daysDelayMax>
     <useBRSetting>0</useBRSetting>
@@ -839,7 +839,7 @@ uiFlags must be of
     <minCoolness>1</minCoolness>
     <maxCoolness>10</maxCoolness>
     <addToCoolness>0</addToCoolness>
-    <coolnessProgressRate>100</coolnessProgressRate>
+    <coolnessProgressRate>10</coolnessProgressRate>
     <daysDelayMin>1</daysDelayMin>
     <daysDelayMax>2</daysDelayMax>
     <useBRSetting>0</useBRSetting>
@@ -860,7 +860,7 @@ uiFlags must be of
     <minCoolness>1</minCoolness>
     <maxCoolness>10</maxCoolness>
     <addToCoolness>0</addToCoolness>
-    <coolnessProgressRate>100</coolnessProgressRate>
+    <coolnessProgressRate>10</coolnessProgressRate>
     <daysDelayMin>1</daysDelayMin>
     <daysDelayMax>2</daysDelayMax>
     <useBRSetting>0</useBRSetting>
@@ -881,7 +881,7 @@ uiFlags must be of
     <minCoolness>1</minCoolness>
     <maxCoolness>10</maxCoolness>
     <addToCoolness>0</addToCoolness>
-    <coolnessProgressRate>100</coolnessProgressRate>
+    <coolnessProgressRate>10</coolnessProgressRate>
     <daysDelayMin>1</daysDelayMin>
     <daysDelayMax>2</daysDelayMax>
     <useBRSetting>0</useBRSetting>
@@ -902,7 +902,7 @@ uiFlags must be of
     <minCoolness>1</minCoolness>
     <maxCoolness>10</maxCoolness>
     <addToCoolness>0</addToCoolness>
-    <coolnessProgressRate>100</coolnessProgressRate>
+    <coolnessProgressRate>10</coolnessProgressRate>
     <daysDelayMin>1</daysDelayMin>
     <daysDelayMax>2</daysDelayMax>
     <useBRSetting>0</useBRSetting>
@@ -923,7 +923,7 @@ uiFlags must be of
     <minCoolness>1</minCoolness>
     <maxCoolness>10</maxCoolness>
     <addToCoolness>0</addToCoolness>
-    <coolnessProgressRate>100</coolnessProgressRate>
+    <coolnessProgressRate>10</coolnessProgressRate>
     <daysDelayMin>1</daysDelayMin>
     <daysDelayMax>2</daysDelayMax>
     <useBRSetting>0</useBRSetting>
@@ -944,7 +944,7 @@ uiFlags must be of
     <minCoolness>1</minCoolness>
     <maxCoolness>10</maxCoolness>
     <addToCoolness>0</addToCoolness>
-    <coolnessProgressRate>100</coolnessProgressRate>
+    <coolnessProgressRate>10</coolnessProgressRate>
     <daysDelayMin>1</daysDelayMin>
     <daysDelayMax>2</daysDelayMax>
     <useBRSetting>0</useBRSetting>
@@ -965,7 +965,7 @@ uiFlags must be of
     <minCoolness>1</minCoolness>
     <maxCoolness>10</maxCoolness>
     <addToCoolness>0</addToCoolness>
-    <coolnessProgressRate>100</coolnessProgressRate>
+    <coolnessProgressRate>10</coolnessProgressRate>
     <daysDelayMin>1</daysDelayMin>
     <daysDelayMax>2</daysDelayMax>
     <useBRSetting>0</useBRSetting>
@@ -986,7 +986,7 @@ uiFlags must be of
     <minCoolness>1</minCoolness>
     <maxCoolness>10</maxCoolness>
     <addToCoolness>0</addToCoolness>
-    <coolnessProgressRate>100</coolnessProgressRate>
+    <coolnessProgressRate>10</coolnessProgressRate>
     <daysDelayMin>1</daysDelayMin>
     <daysDelayMax>2</daysDelayMax>
     <useBRSetting>0</useBRSetting>
@@ -1007,7 +1007,7 @@ uiFlags must be of
     <minCoolness>1</minCoolness>
     <maxCoolness>10</maxCoolness>
     <addToCoolness>0</addToCoolness>
-    <coolnessProgressRate>100</coolnessProgressRate>
+    <coolnessProgressRate>10</coolnessProgressRate>
     <daysDelayMin>1</daysDelayMin>
     <daysDelayMax>2</daysDelayMax>
     <useBRSetting>0</useBRSetting>

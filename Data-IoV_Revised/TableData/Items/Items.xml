@@ -2093,7 +2093,6 @@
 		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
 		<RocketRifle>1</RocketRifle>
 		<FingerPrintID>1</FingerPrintID>
-		<ProjectionFactor>1.3</ProjectionFactor>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
@@ -2399,7 +2398,6 @@
 		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
 		<RocketRifle>1</RocketRifle>
 		<FingerPrintID>1</FingerPrintID>
-		<ProjectionFactor>1.3</ProjectionFactor>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
@@ -6096,6 +6094,7 @@
 		<DayVisionRangeBonus>100</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>80</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>70</PercentTunnelVision>
+		<usSpotting>50</usSpotting>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -6132,6 +6131,7 @@
 		<DayVisionRangeBonus>60</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>50</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>40</PercentTunnelVision>
+		<usSpotting>70</usSpotting>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -7211,7 +7211,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<ToHitBonus>20</ToHitBonus>
 		<BestLaserRange>120</BestLaserRange>
-		<ProjectionFactor>1.7</ProjectionFactor>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -18820,7 +18819,6 @@
 		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>10</PercentTunnelVision>
 		<ScopeMagFactor>1.5</ScopeMagFactor>
-		<ProjectionFactor>3.0</ProjectionFactor>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>33.0</DirtIncreaseFactor>
@@ -19873,7 +19871,6 @@
 		<BR_ROF>620</BR_ROF>
 		<ToHitBonus>19</ToHitBonus>
 		<BestLaserRange>90</BestLaserRange>
-		<ProjectionFactor>1.3</ProjectionFactor>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
@@ -22762,7 +22759,6 @@
 		<DefaultAttachment>1830</DefaultAttachment>
 		<NightVisionRangeBonus>50</NightVisionRangeBonus>
 		<CaveVisionRangeBonus>40</CaveVisionRangeBonus>
-		<ProjectionFactor>3.5</ProjectionFactor>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>24.0</DirtIncreaseFactor>
@@ -24825,7 +24821,6 @@
 		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>20</PercentTunnelVision>
 		<ScopeMagFactor>3.0</ScopeMagFactor>
-		<ProjectionFactor>7.2</ProjectionFactor>
 		<PercentAccuracyModifier>10</PercentAccuracyModifier>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
@@ -28108,7 +28103,6 @@
 		<DefaultAttachment>1830</DefaultAttachment>
 		<NightVisionRangeBonus>50</NightVisionRangeBonus>
 		<CaveVisionRangeBonus>40</CaveVisionRangeBonus>
-		<ProjectionFactor>3.5</ProjectionFactor>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
@@ -29635,7 +29629,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<ToHitBonus>20</ToHitBonus>
 		<BestLaserRange>350</BestLaserRange>
-		<ProjectionFactor>5.0</ProjectionFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -29673,7 +29666,6 @@
 		<DesertCamoBonus>-5</DesertCamoBonus>
 		<SnowCamoBonus>-5</SnowCamoBonus>
 		<StealthBonus>-5</StealthBonus>
-		<ProjectionFactor>4.3</ProjectionFactor>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<AimLevels>-1</AimLevels>
@@ -29713,7 +29705,6 @@
 		<DesertCamoBonus>-5</DesertCamoBonus>
 		<SnowCamoBonus>-5</SnowCamoBonus>
 		<StealthBonus>-5</StealthBonus>
-		<ProjectionFactor>4.0</ProjectionFactor>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -29751,7 +29742,6 @@
 		<DesertCamoBonus>-10</DesertCamoBonus>
 		<SnowCamoBonus>-10</SnowCamoBonus>
 		<StealthBonus>-10</StealthBonus>
-		<ProjectionFactor>5.7</ProjectionFactor>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -31189,7 +31179,6 @@
 		<DesertCamoBonus>-5</DesertCamoBonus>
 		<SnowCamoBonus>-5</SnowCamoBonus>
 		<StealthBonus>-5</StealthBonus>
-		<ProjectionFactor>2.8</ProjectionFactor>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<AimLevels>-1</AimLevels>
@@ -31537,7 +31526,6 @@
 		<DesertCamoBonus>-5</DesertCamoBonus>
 		<SnowCamoBonus>-5</SnowCamoBonus>
 		<StealthBonus>-5</StealthBonus>
-		<ProjectionFactor>1.8</ProjectionFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -33962,7 +33950,6 @@
 		<DefaultAttachment>1830</DefaultAttachment>
 		<NightVisionRangeBonus>50</NightVisionRangeBonus>
 		<CaveVisionRangeBonus>40</CaveVisionRangeBonus>
-		<ProjectionFactor>3.5</ProjectionFactor>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>25.0</DirtIncreaseFactor>
@@ -37896,7 +37883,6 @@
 		<BR_ROF>22</BR_ROF>
 		<ToHitBonus>20</ToHitBonus>
 		<BestLaserRange>130</BestLaserRange>
-		<ProjectionFactor>1.8</ProjectionFactor>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
@@ -37933,7 +37919,6 @@
 		<BR_ROF>28</BR_ROF>
 		<ToHitBonus>20</ToHitBonus>
 		<BestLaserRange>130</BestLaserRange>
-		<ProjectionFactor>1.8</ProjectionFactor>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
@@ -37969,7 +37954,6 @@
 		<BR_ROF>30</BR_ROF>
 		<ToHitBonus>20</ToHitBonus>
 		<BestLaserRange>130</BestLaserRange>
-		<ProjectionFactor>1.8</ProjectionFactor>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
@@ -38209,7 +38193,6 @@
 		<BR_ROF>30</BR_ROF>
 		<ToHitBonus>20</ToHitBonus>
 		<BestLaserRange>110</BestLaserRange>
-		<ProjectionFactor>1.3</ProjectionFactor>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
@@ -40363,7 +40346,6 @@
 		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>10</PercentTunnelVision>
 		<ScopeMagFactor>1.5</ScopeMagFactor>
-		<ProjectionFactor>3.6</ProjectionFactor>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>26.0</DirtIncreaseFactor>
@@ -42331,7 +42313,6 @@
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>20</ToHitBonus>
 		<BestLaserRange>90</BestLaserRange>
-		<ProjectionFactor>1.3</ProjectionFactor>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DirtIncreaseFactor>10.0</DirtIncreaseFactor>
 		<STAND_MODIFIERS />
@@ -42427,7 +42408,6 @@
 		<DesertCamoBonus>-10</DesertCamoBonus>
 		<SnowCamoBonus>-10</SnowCamoBonus>
 		<StealthBonus>-10</StealthBonus>
-		<ProjectionFactor>4.3</ProjectionFactor>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>30.0</DirtIncreaseFactor>
@@ -44632,7 +44612,6 @@
 		<BrightLightVisionRangeBonus>100</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>90</PercentTunnelVision>
 		<ScopeMagFactor>12.0</ScopeMagFactor>
-		<ProjectionFactor>5.7</ProjectionFactor>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>70.0</DirtIncreaseFactor>
@@ -45409,7 +45388,6 @@
 		<BrightLightVisionRangeBonus>27</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>30</PercentTunnelVision>
 		<ScopeMagFactor>3.0</ScopeMagFactor>
-		<ProjectionFactor>4.3</ProjectionFactor>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
@@ -52392,7 +52370,6 @@
 		<BrightLightVisionRangeBonus>27</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>50</PercentTunnelVision>
 		<ScopeMagFactor>3.0</ScopeMagFactor>
-		<ProjectionFactor>5.0</ProjectionFactor>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
@@ -57369,7 +57346,6 @@
 		<DesertCamoBonus>-10</DesertCamoBonus>
 		<SnowCamoBonus>-10</SnowCamoBonus>
 		<StealthBonus>-10</StealthBonus>
-		<ProjectionFactor>4.0</ProjectionFactor>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<AimLevels>-1</AimLevels>
@@ -57406,7 +57382,6 @@
 		<ToHitBonus>20</ToHitBonus>
 		<BestLaserRange>300</BestLaserRange>
 		<PercentAPReduction>20</PercentAPReduction>
-		<ProjectionFactor>4.3</ProjectionFactor>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<AimLevels>-1</AimLevels>
@@ -57452,7 +57427,6 @@
 		<VisionRangeBonus>30</VisionRangeBonus>
 		<PercentTunnelVision>20</PercentTunnelVision>
 		<ScopeMagFactor>4.0</ScopeMagFactor>
-		<ProjectionFactor>4.0</ProjectionFactor>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentDropCompensation>5</PercentDropCompensation>
@@ -58289,7 +58263,6 @@
 		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>30</PercentTunnelVision>
 		<ScopeMagFactor>3.0</ScopeMagFactor>
-		<ProjectionFactor>3.5</ProjectionFactor>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentTargetTrackingSpeed>20</PercentTargetTrackingSpeed>
@@ -58333,7 +58306,6 @@
 		<DesertCamoBonus>-5</DesertCamoBonus>
 		<SnowCamoBonus>-5</SnowCamoBonus>
 		<StealthBonus>-5</StealthBonus>
-		<ProjectionFactor>3.0</ProjectionFactor>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -59139,7 +59111,6 @@
 		<DesertCamoBonus>-5</DesertCamoBonus>
 		<SnowCamoBonus>-5</SnowCamoBonus>
 		<StealthBonus>-5</StealthBonus>
-		<ProjectionFactor>3.0</ProjectionFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -63303,7 +63274,6 @@
 		<BrightLightVisionRangeBonus>100</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>90</PercentTunnelVision>
 		<ScopeMagFactor>6.0</ScopeMagFactor>
-		<ProjectionFactor>10.0</ProjectionFactor>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
@@ -68193,7 +68163,6 @@
 		<BrightLightVisionRangeBonus>25</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>30</PercentTunnelVision>
 		<ScopeMagFactor>3.0</ScopeMagFactor>
-		<ProjectionFactor>3.5</ProjectionFactor>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>28.0</DirtIncreaseFactor>
@@ -69234,7 +69203,6 @@
 		<ToHitBonus>20</ToHitBonus>
 		<BestLaserRange>130</BestLaserRange>
 		<PercentAPReduction>20</PercentAPReduction>
-		<ProjectionFactor>1.8</ProjectionFactor>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<AimLevels>-1</AimLevels>
@@ -71382,7 +71350,6 @@
 		<SnowCamoBonus>-5</SnowCamoBonus>
 		<StealthBonus>-5</StealthBonus>
 		<Hardware>1</Hardware>
-		<ProjectionFactor>1.8</ProjectionFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -71482,7 +71449,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<ToHitBonus>20</ToHitBonus>
 		<BestLaserRange>100</BestLaserRange>
-		<ProjectionFactor>1.3</ProjectionFactor>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -71522,7 +71488,6 @@
 		<DesertCamoBonus>-5</DesertCamoBonus>
 		<SnowCamoBonus>-5</SnowCamoBonus>
 		<StealthBonus>-5</StealthBonus>
-		<ProjectionFactor>4.4</ProjectionFactor>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -71976,7 +71941,6 @@
 		<BR_ROF>1100</BR_ROF>
 		<ToHitBonus>20</ToHitBonus>
 		<BestLaserRange>150</BestLaserRange>
-		<ProjectionFactor>2.2</ProjectionFactor>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
@@ -74569,10 +74533,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2368</uiIndex>
-		<szItemName>7.62×37mm box</szItemName>
-		<szLongItemName>7.62×37mm Subsonic, box</szLongItemName>
+		<szItemName>7.62x37mm box</szItemName>
+		<szLongItemName>7.62x37mm Subsonic, box</szLongItemName>
 		<szItemDesc>50 rounds of HK 7.62x37mm Subsonic ammunition in a ammo box.</szItemDesc>
-		<szBRName>7.62×37mm Subsonic box</szBRName>
+		<szBRName>7.62x37mm Subsonic box</szBRName>
 		<szBRDesc>50 rounds of HK 7.62x37mm Subsonic ammunition in a ammo box.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -82570,7 +82534,6 @@
 		<BrightLightVisionRangeBonus>80</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>80</PercentTunnelVision>
 		<ScopeMagFactor>9.0</ScopeMagFactor>
-		<ProjectionFactor>7.2</ProjectionFactor>
 		<PercentAccuracyModifier>10</PercentAccuracyModifier>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
@@ -82717,7 +82680,6 @@
 		<SnowCamoBonus>-15</SnowCamoBonus>
 		<StealthBonus>-15</StealthBonus>
 		<FlashLightRange>15</FlashLightRange>
-		<ProjectionFactor>5.0</ProjectionFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -82755,7 +82717,6 @@
 		<SnowCamoBonus>-15</SnowCamoBonus>
 		<StealthBonus>-15</StealthBonus>
 		<FlashLightRange>15</FlashLightRange>
-		<ProjectionFactor>1.8</ProjectionFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -82838,7 +82799,6 @@
 		<SnowCamoBonus>-15</SnowCamoBonus>
 		<StealthBonus>-15</StealthBonus>
 		<FlashLightRange>18</FlashLightRange>
-		<ProjectionFactor>3.0</ProjectionFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -82959,7 +82919,6 @@
 		<StealthBonus>-15</StealthBonus>
 		<FlashLightRange>18</FlashLightRange>
 		<Hardware>1</Hardware>
-		<ProjectionFactor>1.8</ProjectionFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -84281,7 +84240,6 @@
 		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>10</PercentTunnelVision>
 		<ScopeMagFactor>1.7</ScopeMagFactor>
-		<ProjectionFactor>4.2</ProjectionFactor>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>21.0</DirtIncreaseFactor>
@@ -90703,7 +90661,6 @@
 		<BrightLightVisionRangeBonus>25</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>30</PercentTunnelVision>
 		<ScopeMagFactor>3.0</ScopeMagFactor>
-		<ProjectionFactor>3.5</ProjectionFactor>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>28.0</DirtIncreaseFactor>
@@ -93686,7 +93643,6 @@
 		<DefaultAttachment>1830</DefaultAttachment>
 		<NightVisionRangeBonus>50</NightVisionRangeBonus>
 		<CaveVisionRangeBonus>40</CaveVisionRangeBonus>
-		<ProjectionFactor>3.5</ProjectionFactor>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>34.0</DirtIncreaseFactor>
@@ -97438,7 +97394,7 @@
 		<uiIndex>3104</uiIndex>
 		<szItemName>.338 NM crate</szItemName>
 		<szLongItemName>.338 Norma Magnum ammo crate</szLongItemName>
-		<szItemDesc>The .338 Norma Magnum (8.6×64mm) was designed to improve upon the .338 Lapua Magnum but shorter. .338 NM giving it greater lethality and double the range of the 7.62 NATO round, and lighter than .50 BMG.</szItemDesc>
+		<szItemDesc>The .338 Norma Magnum (8.6x64mm) was designed to improve upon the .338 Lapua Magnum but shorter. .338 NM giving it greater lethality and double the range of the 7.62 NATO round, and lighter than .50 BMG.</szItemDesc>
 		<szBRName>.338 Norma Magnum crate</szBRName>
 		<szBRDesc>400 rounds of .338 Norma Magnum sniper bullet in ammo crate.</szBRDesc>
 		<usItemClass>1024</usItemClass>
@@ -97555,7 +97511,6 @@
 		<nasAttachmentClass>1024</nasAttachmentClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>154</ubClassIndex>
-		<ItemFlag>67108864</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>981</ubGraphicNum>
 		<ubWeight>17</ubWeight>
@@ -97573,7 +97528,7 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<buddyitem>1699</buddyitem>
+		<ItemFlag>67108864</ItemFlag>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />

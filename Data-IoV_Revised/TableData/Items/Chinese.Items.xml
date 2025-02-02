@@ -6260,7 +6260,7 @@
 		<uiIndex>782</uiIndex>
 		<szItemName>SR-47</szItemName>
 		<szLongItemName>KAC SR-47</szLongItemName>
-		<szItemDesc>SR-47，意思是“使用AK-47弹药和弹匣的斯通纳步枪，这是一种发射俄制7.62×39mm步枪弹并使用AK弹匣的M4A1卡宾枪。</szItemDesc>
+		<szItemDesc>SR-47，意思是“使用AK-47弹药和弹匣的斯通纳步枪，这是一种发射俄制7.62x39mm步枪弹并使用AK弹匣的M4A1卡宾枪。</szItemDesc>
 		<szBRName>KAC SR-47</szBRName>
 		<szBRDesc>SR-47是KAC为了迎合美国特种部队对能使用缴获AK子弹匣的AR式步枪要求而少量制造的试验武器。数量有限，先到先得。</szBRDesc>
 	</ITEM>
@@ -10948,9 +10948,9 @@
 		<uiIndex>1368</uiIndex>
 		<szItemName>WSG2000</szItemName>
 		<szLongItemName>WSG2000</szLongItemName>
-		<szItemDesc>WSG2000发射9×90mm MEN弹内置12倍光学瞄准镜、夜视瞄具、激光测距仪和弹道计算机。</szItemDesc>
+		<szItemDesc>WSG2000发射9x90mm MEN弹内置12倍光学瞄准镜、夜视瞄具、激光测距仪和弹道计算机。</szItemDesc>
 		<szBRName>HK WSG2000</szBRName>
-		<szBRDesc>WSG2000发射9×90mm MEN弹内置12倍光学瞄准镜、夜视瞄具、激光测距仪和弹道计算机。</szBRDesc>
+		<szBRDesc>WSG2000发射9x90mm MEN弹内置12倍光学瞄准镜、夜视瞄具、激光测距仪和弹道计算机。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1369</uiIndex>
@@ -18944,10 +18944,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2368</uiIndex>
-		<szItemName>7.62×37mm box</szItemName>
-		<szLongItemName>7.62×37mm亚音速弹纸盒</szLongItemName>
+		<szItemName>7.62x37mm box</szItemName>
+		<szLongItemName>7.62x37mm亚音速弹纸盒</szLongItemName>
 		<szItemDesc>一个装着50发HK公司7.62x37mm亚音速弹的硬纸盒。</szItemDesc>
-		<szBRName>7.62×37mm亚音速弹纸盒</szBRName>
+		<szBRName>7.62x37mm亚音速弹纸盒</szBRName>
 		<szBRDesc>一个装着50发HK公司7.62x37mm亚音速弹的硬纸盒。</szBRDesc>
 	</ITEM>
 	<ITEM>
@@ -24834,9 +24834,9 @@
 		<uiIndex>3104</uiIndex>
 		<szItemName>.338 NM crate</szItemName>
 		<szLongItemName>.338 Norma Magnum弹药箱</szLongItemName>
-		<szItemDesc>400发装在弹药箱里的.338 NM(8.6×64mm) 比赛弹。</szItemDesc>
+		<szItemDesc>400发装在弹药箱里的.338 NM(8.6x64mm) 比赛弹。</szItemDesc>
 		<szBRName>.338 Norma Magnum crate</szBRName>
-		<szBRDesc>400发装在弹药箱里的.338 NM(8.6×64mm) 比赛弹。</szBRDesc>
+		<szBRDesc>400发装在弹药箱里的.338 NM(8.6x64mm) 比赛弹。</szBRDesc>
 	</ITEM>
 	<ITEM>
 		<uiIndex>3105</uiIndex>

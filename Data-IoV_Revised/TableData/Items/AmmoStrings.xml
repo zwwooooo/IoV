@@ -152,8 +152,8 @@
 	</AMMO>
 	<AMMO>
 		<uiIndex>30</uiIndex>
-		<AmmoCaliber>7.62×37mm Subsonic</AmmoCaliber>
-		<BRCaliber>7.62×37mm Subsonic</BRCaliber>
+		<AmmoCaliber>7.62x37mm Subsonic</AmmoCaliber>
+		<BRCaliber>7.62x37mm Subsonic</BRCaliber>
 	</AMMO>
 	<AMMO>
 		<uiIndex>31</uiIndex>
